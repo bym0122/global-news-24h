@@ -39,22 +39,129 @@ USER_AGENT = "global-news-24h/1.0 (+https://github.com/bym0122/global-news-24h)"
 
 # Free public RSS sources (no API key required)
 FEEDS: list[dict[str, Any]] = [
-    # High-weight mainstream
-    {"name": "Reuters World", "url": "https://feeds.reuters.com/reuters/worldNews", "weight": 1.0},
-    {"name": "Reuters Business", "url": "https://feeds.reuters.com/reuters/businessNews", "weight": 0.95},
-    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "weight": 0.95},
-    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "weight": 0.9},
-    {"name": "AP Top", "url": "https://rsshub.app/apnews/topics/apf-topnews", "weight": 0.95},  # may vary
-    # Google News topic RSS (public)
-    {"name": "GN Geopolitics", "url": "https://news.google.com/rss/search?q=geopolitics+OR+war+OR+taiwan+OR+ukraine+OR+iran+OR+korea&hl=en-US&gl=US&ceid=US:en", "weight": 0.85},
-    {"name": "GN Energy", "url": "https://news.google.com/rss/search?q=oil+OR+OPEC+OR+natural+gas+OR+Hormuz&hl=en-US&gl=US&ceid=US:en", "weight": 0.85},
-    {"name": "GN Fed", "url": "https://news.google.com/rss/search?q=Federal+Reserve+OR+interest+rate+OR+inflation&hl=en-US&gl=US&ceid=US:en", "weight": 0.85},
-    {"name": "GN China", "url": "https://news.google.com/rss/search?q=China+economy+OR+China+policy+OR+property&hl=en-US&gl=US&ceid=US:en", "weight": 0.85},
-    {"name": "GN AI", "url": "https://news.google.com/rss/search?q=OpenAI+OR+NVIDIA+OR+AI+chip+OR+semiconductor&hl=en-US&gl=US&ceid=US:en", "weight": 0.85},
-    {"name": "GN Markets", "url": "https://news.google.com/rss/search?q=stock+market+OR+S%26P+500+OR+Nasdaq&hl=en-US&gl=US&ceid=US:en", "weight": 0.8},
-    # Extra free
-    {"name": "CNBC Top", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "weight": 0.8},
-    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "weight": 0.75},
+    # ============================================================
+    # Tier 1 — Primary / major international news
+    # ============================================================
+
+    # Reuters has no current public RSS; use Google News site-restricted feeds.
+    {
+        "name": "Reuters World",
+        "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/world&ceid=US:en&hl=en-US&gl=US",
+        "weight": 1.0,
+    },
+    {
+        "name": "Reuters Markets",
+        "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/markets+-site:reuters.com/markets/companies+-site:reuters.com/markets/quote&ceid=US:en&hl=en-US&gl=US",
+        "weight": 0.98,
+    },
+    {
+        "name": "Reuters Technology",
+        "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/technology&ceid=US:en&hl=en-US&gl=US",
+        "weight": 0.90,
+    },
+
+    {
+        "name": "AP World",
+        "url": "https://news.google.com/rss/search?q=when:24h+site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.95,
+    },
+
+    {
+        "name": "BBC World",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "weight": 0.95,
+    },
+    {
+        "name": "BBC Business",
+        "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "weight": 0.90,
+    },
+
+    # ============================================================
+    # Tier 2 — Topic / market coverage
+    # ============================================================
+
+    {
+        "name": "GN Top",
+        "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.82,
+    },
+
+    {
+        "name": "GN Geopolitics",
+        "url": "https://news.google.com/rss/search?q=geopolitics+OR+war+OR+taiwan+OR+ukraine+OR+iran+OR+korea&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.85,
+    },
+
+    {
+        "name": "GN Energy",
+        "url": "https://news.google.com/rss/search?q=oil+OR+OPEC+OR+natural+gas+OR+Hormuz&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.85,
+    },
+
+    {
+        "name": "GN Fed",
+        "url": "https://news.google.com/rss/search?q=Federal+Reserve+OR+interest+rate+OR+inflation&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.85,
+    },
+
+    {
+        "name": "GN China",
+        "url": "https://news.google.com/rss/search?q=China+economy+OR+China+policy+OR+property&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.85,
+    },
+
+    {
+        "name": "GN AI",
+        "url": "https://news.google.com/rss/search?q=OpenAI+OR+NVIDIA+OR+AI+chip+OR+semiconductor&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.85,
+    },
+
+    {
+        "name": "GN Markets",
+        "url": "https://news.google.com/rss/search?q=stock+market+OR+S%26P+500+OR+Nasdaq&hl=en-US&gl=US&ceid=US:en",
+        "weight": 0.80,
+    },
+
+    # ============================================================
+    # Tier 3 — Additional reputable international sources
+    # ============================================================
+
+    {
+        "name": "CNBC Top",
+        "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        "weight": 0.80,
+    },
+
+    {
+        "name": "DW World",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "weight": 0.82,
+    },
+
+    {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/rss",
+        "weight": 0.82,
+    },
+
+    {
+        "name": "NPR World",
+        "url": "https://feeds.npr.org/1004/rss.xml",
+        "weight": 0.78,
+    },
+
+    {
+        "name": "France24 World",
+        "url": "https://www.france24.com/en/france/rss",
+        "weight": 0.78,
+    },
+
+    {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "weight": 0.75,
+    },
 ]
 
 # Category definitions (Chinese label + keywords for scoring)
@@ -184,7 +291,6 @@ def fetch_feed(feed: dict) -> list[dict]:
     weight = feed.get("weight", 0.7)
     items = []
     try:
-        # feedparser can take URL directly; requests for better UA control on some feeds
         resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
@@ -209,11 +315,10 @@ def fetch_feed(feed: dict) -> list[dict]:
     return items
 
 
-def score_item(item: dict) -> tuple[float, str, list[str]]:
+def score_item(item: dict) -> tuple[float, str, list[str], int]:
     text = f"{item['title']} {item.get('summary', '')}".lower()
     base = item.get("source_weight", 0.7) * 10
 
-    # category scores
     cat_scores: dict[str, float] = {}
     for cat_id, cat in CATEGORIES.items():
         hits = sum(1 for kw in cat["keywords"] if kw in text)
@@ -223,7 +328,6 @@ def score_item(item: dict) -> tuple[float, str, list[str]]:
     best_cat = max(cat_scores, key=cat_scores.get) if cat_scores else "geopolitics"
     cat_boost = min(cat_scores.get(best_cat, 0) * 1.5, 6.0)
 
-    # impact keywords
     impact = 0.0
     for kw, mult in IMPACT_KEYWORDS.items():
         if kw in text:
@@ -231,7 +335,6 @@ def score_item(item: dict) -> tuple[float, str, list[str]]:
 
     score = base + cat_boost + impact
 
-    # stars 1-5
     if score >= 22:
         stars = 5
     elif score >= 17:
@@ -243,7 +346,6 @@ def score_item(item: dict) -> tuple[float, str, list[str]]:
     else:
         stars = 1
 
-    # assets
     assets = []
     for key, vals in ASSET_MAP.items():
         if key in text:
@@ -261,7 +363,6 @@ def deduplicate(items: list[dict], threshold: float = 0.55) -> list[dict]:
             if title_similarity(item["title"], k["title"]) >= threshold:
                 dup = True
                 break
-            # same domain + very similar
             if urlparse(item["link"]).netloc == urlparse(k["link"]).netloc:
                 if title_similarity(item["title"], k["title"]) >= 0.4:
                     dup = True
@@ -272,10 +373,8 @@ def deduplicate(items: list[dict], threshold: float = 0.55) -> list[dict]:
 
 
 def build_why_important(item: dict, cat: str, stars: int) -> str:
-    # Simple rule-based Chinese explanations (no LLM)
-    title = item["title"]
     if stars >= 4:
-        return f"主流媒体高权重报道，且关键词命中高影响事件，可能对市场或地缘产生连锁反应。"
+        return "主流媒体高权重报道，且关键词命中高影响事件，可能对市场或地缘产生连锁反应。"
     if cat == "energy":
         return "能源相关事件通常直接影响油价、航运与通胀预期。"
     if cat == "finance":
@@ -355,7 +454,6 @@ def main() -> None:
 
     print(f"  raw items: {len(raw_items)}")
 
-    # time filter
     recent = []
     for it in raw_items:
         dt = it.get("published_dt")
@@ -364,7 +462,6 @@ def main() -> None:
 
     print(f"  after 24h filter: {len(recent)}")
 
-    # score
     for it in recent:
         score, cat, assets, stars = score_item(it)
         it["_score"] = score
@@ -374,11 +471,9 @@ def main() -> None:
         it["why_important"] = build_why_important(it, cat, stars)
         it["possible_impact"] = build_impact(it, assets)
 
-    # dedup
     unique = deduplicate(recent)
     print(f"  after dedup: {len(unique)}")
 
-    # keep top
     unique = sorted(unique, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]
 
     by_cat: dict[str, list] = defaultdict(list)
@@ -388,7 +483,6 @@ def main() -> None:
     date_str = utc_now().strftime("%Y-%m-%d")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # JSON (strip non-serializable)
     json_items = []
     for it in unique:
         json_items.append({
