@@ -1,16 +1,95 @@
 #!/usr/bin/env python3
-"""Loader: assemble base64 chunks and exec the real pipeline."""
-from pathlib import Path
-import base64
+"""Bootstrap: load known-good pipeline from git history, then enrich with article content."""
+from __future__ import annotations
 
-here = Path(__file__).resolve().parent
-parts = sorted(
-    here.glob("fetch_news.b64.*"),
-    key=lambda p: int(p.name.rsplit(".", 1)[-1]),
+import runpy
+import sys
+import tempfile
+from pathlib import Path
+
+import requests
+
+# Known-good full pipeline (pre content-enrichment)
+RAW_URL = (
+    "https://raw.githubusercontent.com/bym0122/global-news-24h/"
+    "a2d7b65e8bc587084bad71639c2846c5241c4eb3/scripts/fetch_news.py"
 )
-if not parts:
-    raise SystemExit("missing fetch_news.b64.* chunks")
-data = "".join(p.read_text() for p in parts)
-code = base64.b64decode(data).decode("utf-8")
-ns = {"__name__": "__main__", "__file__": str(here / "fetch_news.py")}
-exec(compile(code, str(here / "fetch_news_impl.py"), "exec"), ns)
+
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+
+from article_content import enrich_with_content  # noqa: E402
+
+
+def main() -> None:
+    print("[bootstrap] downloading base pipeline…")
+    resp = requests.get(RAW_URL, timeout=30)
+    resp.raise_for_status()
+    code = resp.text
+
+    # Inject import
+    needle = "from dateutil import parser as date_parser\n"
+    inject = needle + "from article_content import enrich_with_content\n"
+    if needle not in code:
+        raise SystemExit("base script structure changed; cannot inject import")
+    code = code.replace(needle, inject, 1)
+
+    # Inject enrich call after unique selection
+    old = (
+        '    unique = sorted(clustered, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]\n'
+        "\n"
+        "    by_cat: dict[str, list] = defaultdict(list)\n"
+    )
+    new = (
+        '    unique = sorted(clustered, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]\n'
+        "\n"
+        '    print(f"  fetching article bodies for top {len(unique)}…")\n'
+        "    enrich_with_content(unique)\n"
+        "\n"
+        "    by_cat: dict[str, list] = defaultdict(list)\n"
+    )
+    if old not in code:
+        raise SystemExit("base script structure changed; cannot inject enrich call")
+    code = code.replace(old, new, 1)
+
+    # Inject content field in JSON
+    old_j = (
+        '        json_items.append({\n'
+        '            "title": it["title"],\n'
+        '            "link": it["link"],\n'
+        '            "summary": it.get("summary"),\n'
+        '            "published": it.get("published"),\n'
+    )
+    new_j = (
+        '        json_items.append({\n'
+        '            "title": it["title"],\n'
+        '            "link": it["link"],\n'
+        '            "summary": it.get("summary"),\n'
+        '            "content": it.get("content") or "",\n'
+        '            "published": it.get("published"),\n'
+    )
+    if old_j not in code:
+        raise SystemExit("base script structure changed; cannot inject content field")
+    code = code.replace(old_j, new_j, 1)
+
+    # Inject markdown content display
+    old_m = '        lines.append(f"- **发生了什么**: {it.get(\'summary\') or it[\'title\']}")\n'
+    new_m = (
+        '        what = it.get("content") or it.get("summary") or it["title"]\n'
+        '        what = __import__("re").sub(r"\\s+", " ", what).strip()\n'
+        '        lines.append(f"- **发生了什么**: {what}")\n'
+    )
+    if old_m not in code:
+        raise SystemExit("base script structure changed; cannot inject markdown")
+    code = code.replace(old_m, new_m, 1)
+
+    # Write temp module and execute
+    tmp = Path(tempfile.gettempdir()) / "global_news_24h_pipeline.py"
+    tmp.write_text(code, encoding="utf-8")
+    print(f"[bootstrap] running patched pipeline ({tmp})…")
+    sys.path.insert(0, str(HERE))
+    runpy.run_path(str(tmp), run_name="__main__")
+
+
+if __name__ == "__main__":
+    main()
