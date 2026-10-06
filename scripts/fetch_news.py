@@ -100,6 +100,22 @@ def main() -> None:
         raise SystemExit("base script structure changed; cannot inject markdown")
     code = code.replace(old_m, new_m, 1)
 
+    # Append direct RSS sources that usually allow content fetch
+    _feed_marker = "def fetch_feed(feed: dict) -> list[dict]:"
+    _extra_feeds = (
+        "\nFEEDS.extend([\n"
+        '    {"name": "Guardian World Extra", "url": "https://www.theguardian.com/world/rss", "weight": 0.9},\n'
+        '    {"name": "Guardian Business Extra", "url": "https://www.theguardian.com/business/rss", "weight": 0.85},\n'
+        '    {"name": "NPR News Extra", "url": "https://feeds.npr.org/1001/rss.xml", "weight": 0.8},\n'
+        '    {"name": "SCMP China", "url": "https://www.scmp.com/rss/91/feed", "weight": 0.8},\n'
+        '    {"name": "Politico", "url": "https://rss.politico.com/politics-news.xml", "weight": 0.8},\n'
+        '    {"name": "France24", "url": "https://www.france24.com/en/rss", "weight": 0.8},\n'
+        "])\n\n"
+    )
+    if _feed_marker not in code:
+        raise SystemExit("base script structure changed; cannot inject extra feeds")
+    code = code.replace(_feed_marker, _extra_feeds + _feed_marker, 1)
+
     # Write temp module and execute
     tmp = Path(tempfile.gettempdir()) / "global_news_24h_pipeline.py"
     tmp.write_text(code, encoding="utf-8")
