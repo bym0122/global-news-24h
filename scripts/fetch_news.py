@@ -19,10 +19,15 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
 from article_content import enrich_with_content  # noqa: E402
+import article_content as _article_content  # noqa: E402
+
+# Near-full article text (was 600 chars)
+_article_content.CONTENT_MAX_CHARS = 50000
 
 
 def main() -> None:
     print("[bootstrap] downloading base pipeline…")
+    print(f"[bootstrap] CONTENT_MAX_CHARS={_article_content.CONTENT_MAX_CHARS}")
     resp = requests.get(RAW_URL, timeout=30)
     resp.raise_for_status()
     code = resp.text
@@ -72,12 +77,18 @@ def main() -> None:
         raise SystemExit("base script structure changed; cannot inject content field")
     code = code.replace(old_j, new_j, 1)
 
-    # Inject markdown content display
+    # Inject markdown content display (keep paragraphs for full article text)
     old_m = '        lines.append(f"- **发生了什么**: {it.get(\'summary\') or it[\'title\']}")\n'
     new_m = (
         '        what = it.get("content") or it.get("summary") or it["title"]\n'
-        '        what = __import__("re").sub(r"\\s+", " ", what).strip()\n'
-        '        lines.append(f"- **发生了什么**: {what}")\n'
+        '        what = __import__("re").sub(r"[ \\t]+", " ", what).strip()\n'
+        '        if "\\n" in what:\n'
+        '            lines.append("- **发生了什么**:")\n'
+        '            for _para in what.split("\\n"):\n'
+        '                if _para.strip():\n'
+        '                    lines.append(f"  {_para.strip()}")\n'
+        '        else:\n'
+        '            lines.append(f"- **发生了什么**: {what}")\n'
     )
     if old_m not in code:
         raise SystemExit("base script structure changed; cannot inject markdown")
