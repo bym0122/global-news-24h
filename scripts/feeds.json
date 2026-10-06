@@ -30,6 +30,66 @@
     "weight": 0.9
   },
   {
+    "name": "GN Top",
+    "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.82
+  },
+  {
+    "name": "GN Geopolitics",
+    "url": "https://news.google.com/rss/search?q=geopolitics+OR+war+OR+taiwan+OR+ukraine+OR+iran+OR+korea&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.85
+  },
+  {
+    "name": "GN Energy",
+    "url": "https://news.google.com/rss/search?q=oil+OR+OPEC+OR+natural+gas+OR+Hormuz&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.85
+  },
+  {
+    "name": "GN Fed",
+    "url": "https://news.google.com/rss/search?q=Federal+Reserve+OR+interest+rate+OR+inflation&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.85
+  },
+  {
+    "name": "GN China",
+    "url": "https://news.google.com/rss/search?q=China+economy+OR+China+policy+OR+property&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.85
+  },
+  {
+    "name": "GN AI",
+    "url": "https://news.google.com/rss/search?q=OpenAI+OR+NVIDIA+OR+AI+chip+OR+semiconductor&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.85
+  },
+  {
+    "name": "GN Markets",
+    "url": "https://news.google.com/rss/search?q=stock+market+OR+S%26P+500+OR+Nasdaq&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.8
+  },
+  {
+    "name": "CNBC Top",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "weight": 0.8
+  },
+  {
+    "name": "DW World",
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "weight": 0.82
+  },
+  {
+    "name": "Guardian World",
+    "url": "https://www.theguardian.com/world/rss",
+    "weight": 0.82
+  },
+  {
+    "name": "NPR World",
+    "url": "https://feeds.npr.org/1004/rss.xml",
+    "weight": 0.78
+  },
+  {
+    "name": "France24 World",
+    "url": "https://www.france24.com/en/france/rss",
+    "weight": 0.78
+  },
+  {
     "name": "Al Jazeera",
     "url": "https://www.aljazeera.com/xml/rss/all.xml",
     "weight": 0.75
