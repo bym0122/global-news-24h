@@ -43,6 +43,16 @@ def main() -> None:
     new = (
         '    unique = sorted(clustered, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]\n'
         "\n"
+        "    # Prefer non-Google-News publisher links from cluster for content fetch\n"
+        "    for _it in unique:\n"
+        '        _links = list(_it.get("links") or [])\n'
+        '        _pri = (_it.get("link") or "").strip()\n'
+        "        if _pri and _pri not in _links:\n"
+        "            _links.insert(0, _pri)\n"
+        '        _non = [u for u in _links if u and "news.google.com" not in u]\n'
+        "        if _non:\n"
+        '            _it["link"] = _non[0]\n'
+        '            _it["links"] = list(dict.fromkeys(_non + _links))\n'
         '    print(f"  fetching article bodies for top {len(unique)}…")\n'
         "    enrich_with_content(unique)\n"
         "\n"
