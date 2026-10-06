@@ -24,6 +24,14 @@ import article_content as _article_content  # noqa: E402
 # Near-full article text (was 600 chars)
 _article_content.CONTENT_MAX_CHARS = 50000
 
+# curl_cffi + meta/json-ld + multi-candidate (raises fill rate)
+try:
+    from fetch_enhance import patch as _enhance_patch  # noqa: E402
+    _enhance_patch()
+    print("[bootstrap] fetch_enhance patched (curl_cffi + meta fallback)")
+except Exception as _e:  # pragma: no cover
+    print(f"[bootstrap] fetch_enhance skipped: {_e}")
+
 
 def main() -> None:
     print("[bootstrap] downloading base pipeline…")
