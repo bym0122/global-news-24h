@@ -19,6 +19,8 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
 from article_content import enrich_with_content  # noqa: E402
+import fetch_enhance  # noqa: E402
+fetch_enhance.patch()  # curl_cffi + meta/json-ld + multi-cand
 
 
 def main() -> None:
@@ -29,7 +31,12 @@ def main() -> None:
 
     # Inject import
     needle = "from dateutil import parser as date_parser\n"
-    inject = needle + "from article_content import enrich_with_content\n"
+    inject = (
+        needle
+        + "from article_content import enrich_with_content\n"
+        + "import fetch_enhance\n"
+        + "fetch_enhance.patch()\n"
+    )
     if needle not in code:
         raise SystemExit("base script structure changed; cannot inject import")
     code = code.replace(needle, inject, 1)
