@@ -116,6 +116,18 @@ def main() -> None:
         raise SystemExit("base script structure changed; cannot inject extra feeds")
     code = code.replace(_feed_marker, _extra_feeds + _feed_marker, 1)
 
+    # Expand "今日重点" from 15 → all final items
+    old_top = '    top = sorted(items, key=lambda x: (-x["stars"], -x["_score"]))[:15]\n'
+    new_top = '    top = sorted(items, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]\n'
+    if old_top not in code:
+        raise SystemExit("base script structure changed; cannot expand markdown top list")
+    code = code.replace(old_top, new_top, 1)
+    # Also show more per category (8 → 15)
+    old_cat = "        for it in cat_items[:8]:\n"
+    new_cat = "        for it in cat_items[:15]:\n"
+    if old_cat in code:
+        code = code.replace(old_cat, new_cat, 1)
+
     # Write temp module and execute
     tmp = Path(tempfile.gettempdir()) / "global_news_24h_pipeline.py"
     tmp.write_text(code, encoding="utf-8")
