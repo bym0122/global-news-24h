@@ -19,8 +19,6 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
 from article_content import enrich_with_content  # noqa: E402
-import fetch_enhance  # noqa: E402
-fetch_enhance.patch()  # curl_cffi + meta/json-ld + multi-cand
 
 
 def main() -> None:
@@ -31,12 +29,7 @@ def main() -> None:
 
     # Inject import
     needle = "from dateutil import parser as date_parser\n"
-    inject = (
-        needle
-        + "from article_content import enrich_with_content\n"
-        + "import fetch_enhance\n"
-        + "fetch_enhance.patch()\n"
-    )
+    inject = needle + "from article_content import enrich_with_content\n"
     if needle not in code:
         raise SystemExit("base script structure changed; cannot inject import")
     code = code.replace(needle, inject, 1)
@@ -50,16 +43,6 @@ def main() -> None:
     new = (
         '    unique = sorted(clustered, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]\n'
         "\n"
-        "    # Prefer non-Google-News publisher links from cluster for content fetch\n"
-        "    for _it in unique:\n"
-        '        _links = list(_it.get("links") or [])\n'
-        '        _pri = (_it.get("link") or "").strip()\n'
-        "        if _pri and _pri not in _links:\n"
-        "            _links.insert(0, _pri)\n"
-        '        _non = [u for u in _links if u and "news.google.com" not in u]\n'
-        "        if _non:\n"
-        '            _it["link"] = _non[0]\n'
-        '            _it["links"] = list(dict.fromkeys(_non + _links))\n'
         '    print(f"  fetching article bodies for top {len(unique)}…")\n'
         "    enrich_with_content(unique)\n"
         "\n"
@@ -100,38 +83,29 @@ def main() -> None:
         raise SystemExit("base script structure changed; cannot inject markdown")
     code = code.replace(old_m, new_m, 1)
 
-    # Append direct RSS sources that usually allow content fetch
-    _feed_marker = "def fetch_feed(feed: dict) -> list[dict]:"
-    _extra_feeds = (
-        "\nFEEDS.extend([\n"
-        '    {"name": "Guardian World Extra", "url": "https://www.theguardian.com/world/rss", "weight": 0.9},\n'
-        '    {"name": "Guardian Business Extra", "url": "https://www.theguardian.com/business/rss", "weight": 0.85},\n'
-        '    {"name": "NPR News Extra", "url": "https://feeds.npr.org/1001/rss.xml", "weight": 0.8},\n'
-        '    {"name": "SCMP China", "url": "https://www.scmp.com/rss/91/feed", "weight": 0.8},\n'
-        '    {"name": "Politico", "url": "https://rss.politico.com/politics-news.xml", "weight": 0.8},\n'
-        '    {"name": "France24", "url": "https://www.france24.com/en/rss", "weight": 0.8},\n'
-        "])\n\n"
+    # Remove 15-item cap in 今日重点 — show ALL stories
+    old_top = (
+        '    top = sorted(items, key=lambda x: (-x["stars"], -x["_score"]))[:15]\n'
     )
-    if _feed_marker not in code:
-        raise SystemExit("base script structure changed; cannot inject extra feeds")
-    code = code.replace(_feed_marker, _extra_feeds + _feed_marker, 1)
-
-    # Expand "今日重点" from 15 → all final items
-    old_top = '    top = sorted(items, key=lambda x: (-x["stars"], -x["_score"]))[:15]\n'
-    new_top = '    top = sorted(items, key=lambda x: (-x["stars"], -x["_score"]))[:MAX_FINAL_ITEMS]\n'
+    new_top = (
+        '    top = sorted(items, key=lambda x: (-x["stars"], -x["_score"]))\n'
+    )
     if old_top not in code:
-        raise SystemExit("base script structure changed; cannot expand markdown top list")
+        raise SystemExit("base script structure changed; cannot remove [:15] cap")
     code = code.replace(old_top, new_top, 1)
-    # Also show more per category (8 → 15)
+
+    # Remove 8-item cap in category browse — show ALL in each category
     old_cat = "        for it in cat_items[:8]:\n"
-    new_cat = "        for it in cat_items[:15]:\n"
-    if old_cat in code:
-        code = code.replace(old_cat, new_cat, 1)
+    new_cat = "        for it in cat_items:\n"
+    if old_cat not in code:
+        raise SystemExit("base script structure changed; cannot remove [:8] cap")
+    code = code.replace(old_cat, new_cat, 1)
 
     # Write temp module and execute
     tmp = Path(tempfile.gettempdir()) / "global_news_24h_pipeline.py"
     tmp.write_text(code, encoding="utf-8")
     print(f"[bootstrap] running patched pipeline ({tmp})…")
+    # Ensure CWD package path for article_content still works inside exec
     sys.path.insert(0, str(HERE))
     runpy.run_path(str(tmp), run_name="__main__")
 
