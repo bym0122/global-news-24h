@@ -77,18 +77,12 @@ def main() -> None:
         raise SystemExit("base script structure changed; cannot inject content field")
     code = code.replace(old_j, new_j, 1)
 
-    # Inject markdown content display (keep paragraphs for full article text)
+    # Inject markdown content display (full text, collapse only runs of spaces)
     old_m = '        lines.append(f"- **发生了什么**: {it.get(\'summary\') or it[\'title\']}")\n'
     new_m = (
         '        what = it.get("content") or it.get("summary") or it["title"]\n'
         '        what = __import__("re").sub(r"[ \\t]+", " ", what).strip()\n'
-        '        if "\\n" in what:\n'
-        '            lines.append("- **发生了什么**:")\n'
-        '            for _para in what.split("\\n"):\n'
-        '                if _para.strip():\n'
-        '                    lines.append(f"  {_para.strip()}")\n'
-        '        else:\n'
-        '            lines.append(f"- **发生了什么**: {what}")\n'
+        '        lines.append(f"- **发生了什么**: {what}")\n'
     )
     if old_m not in code:
         raise SystemExit("base script structure changed; cannot inject markdown")
@@ -116,7 +110,6 @@ def main() -> None:
     tmp = Path(tempfile.gettempdir()) / "global_news_24h_pipeline.py"
     tmp.write_text(code, encoding="utf-8")
     print(f"[bootstrap] running patched pipeline ({tmp})…")
-    # Ensure CWD package path for article_content still works inside exec
     sys.path.insert(0, str(HERE))
     runpy.run_path(str(tmp), run_name="__main__")
 
