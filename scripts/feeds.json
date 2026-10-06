@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Reuters World",
+    "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/world&ceid=US:en&hl=en-US&gl=US",
+    "weight": 1.0
+  },
+  {
+    "name": "Reuters Markets",
+    "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/markets+-site:reuters.com/markets/companies+-site:reuters.com/markets/quote&ceid=US:en&hl=en-US&gl=US",
+    "weight": 0.98
+  },
+  {
+    "name": "Reuters Technology",
+    "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/technology&ceid=US:en&hl=en-US&gl=US",
+    "weight": 0.9
+  },
+  {
+    "name": "AP World",
+    "url": "https://news.google.com/rss/search?q=when:24h+site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+    "weight": 0.95
+  },
+  {
+    "name": "BBC World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "weight": 0.95
+  },
+  {
+    "name": "BBC Business",
+    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "weight": 0.9
+  },
+  {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "weight": 0.75
+  }
+]
