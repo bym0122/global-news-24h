@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-06T06:16:15.794090+00:00",
+  "generated_at": "2026-10-06T08:13:49.335303+00:00",
   "window_hours": 24,
   "count": 60,
   "items": [
+    {
+      "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMHVWTF9wTGpKZ0F1a1hMdnZjZHJYbnhxcHJWdjE5bzc5cjVOWWhaS0JwcGlmR21FTmRXS2hZcktqUFVRWHNLdHlDMmphUUpFMjNWNDJmdUgwbXdwVWRqWDJ0T1o4MDY2ZU9YT0hjaDhqaHJ1VDJ4bUkzNGlFT1c3ZDlZYTRoemNmSHNtbjVuZktaTmlKbW95TjVlN2taZ0IwOUdNZjMzaGwxaUxmVjQ1S3hHU0t3cEZZRzVtMGlLQUhBcWxhcW5yZEd2elhFWUJwTEh2LXpwMk1hcEIzd1E?oc=5",
+      "summary": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers&nbsp;&nbsp;<font color=\"#",
+      "published": "2026-10-06T01:57:00+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy",
+        "GN Top",
+        "Guardian World",
+        "CNBC Top"
+      ],
+      "source_count": 4,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 4,
+      "score": 17.4,
+      "is_hypothetical": false,
+      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
     {
       "title": "France, Germany push for EU rapid-response trade tool with likely focus on China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDQ0OVBka2szNklkWXItcVUwNElEU1RVai0tcTQ5Rm5sNVhjZzBIWnRYRkFVYVV4aHlibWUybzYtVGhIa203N19GZlI0ZkFzMlVGLVVRNGpQZ3BSTC1JWllRUjlxenc1MHBRdEk0T0Y4QUhVcFZhWEs0c0dlLWlJVFhzUlhORzZ4U3VNWVBEMDBhS0RtQU5IT3YyNkxTWlhzNm80ZDFn?oc=5",
@@ -30,6 +55,27 @@
       ]
     },
     {
+      "title": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmxpVkR3ZG4tSXRMbGJXZGNuVE1DZi1UUk5iRWNLaUVkam85T3VJR2NkaktBRUR2OHVEeGhhSnEzNzJGS0tISzJlSHdNajBtckdJV0ZIRXRxQ0JuOTUxMTJiMjlrWS1uRDlGVWl3bWVfaHNQVGkzQ1pGLTR6UEtzdnNHdmZhNGo4Mmg4UFlHbzM5X0tWSmRVY3VaTENnQkQxWUMzN0NrblducUlJSUhYRVl2X1Y?oc=5",
+      "summary": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant&nbsp;&nbsp;Reuters",
+      "published": "2026-10-05T23:00:26+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "DW World",
+        "NPR World"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.6,
+      "is_hypothetical": false,
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdEJySWZxX3JFbzhISTctSHlBaUlRTS1EdG5MZGcxeG9jOER3RnlIYzgyaDMxZXBucU1wNjE1Y3dyd0F2VFJHd1BZdTltWVBDN3pjWTQzRU1aQllMcVktS2lnMGxobEM0ZnB0RkVKYVlraWFJalNPdTlUV2M1b3N5cHk1SXJOTHBuTFhCRGtkd25wZw?oc=5",
       "summary": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on&nbsp;&nbsp;The Guardian",
@@ -50,34 +96,30 @@
       "assets": []
     },
     {
-      "title": "Supreme Court weighs local governments' climate change lawsuits against oil and gas companies - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHdBd25vQTlfS05IVnVEdFBkWmpUU0pZSDNHZy1RYnpNdll3T01WWkszUkpPWUl2RGJpbW56N3h4MnpKZFFuWTVkNnlyREZ0RVpldVRBN2lGUmFZSjcwUmdNa1hTT3lTZldnLUZtakhpU3A0SEdPdmltS0JJZG5FanhSR3lkbHBNcGJEdElHdDRHdFlJdWpBeTJZRzFYSVJDVHl3Z01CQS1Qc2JTbHJxalBuRFRYU0U?oc=5",
-      "summary": "Supreme Court weighs local governments' climate change lawsuits against oil and gas companies&nbsp;&nbsp;AP News",
-      "published": "2026-10-05T20:23:00+00:00",
-      "source": "AP World",
+      "title": "Qatar LNG Cargoes Resume Strait of Hormuz Transits - Egypt Oil & Gas",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTlpUVZPMkh6ZHhwOHlmY2l0VnI3QTZuNlZscWRZd2pfT3JRQ3RQcWhMRmNud3pER012V2tWMEFsZEUta04tWFZFWWFlbVphcEtNOVRrQzJfa0NlamgtY01KcS1pajdJbTQ3T0Z6VjdJZ0NvUjRuMXpmdUE5MjNUb1FpMHB6WWZp?oc=5",
+      "summary": "Qatar LNG Cargoes Resume Strait of Hormuz Transits&nbsp;&nbsp;Egypt Oil & Gas",
+      "published": "2026-10-06T07:10:21+00:00",
+      "source": "GN Energy",
       "sources": [
-        "AP World",
-        "GN Energy",
-        "GN Top",
-        "Guardian World",
-        "GN Markets",
-        "CNBC Top"
+        "GN Energy"
       ],
-      "source_count": 6,
+      "source_count": 1,
       "category": "energy",
       "category_zh": "能源",
       "stars": 4,
-      "score": 16.4,
+      "score": 16.3,
       "is_hypothetical": false,
-      "why_important": "被 6 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
       "assets": [
         "原油",
-        "能源股"
+        "能源股",
+        "油运"
       ]
     },
     {
-      "title": "Stock Market Today: Dow Futures Gain, S&P 500, Nasdaq 100 Slip as Iran Keeps Conditions To Reopen Hormuz - benzinga.com",
+      "title": "Stock Market Today: Dow Futures Gain, S&P 500, Nasdaq 100 Slip as Iran Keeps Conditions To Reopen Hormuz - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWUt3eEFxQlFsMHZhNlRCaC1HRWlCNjRyWDV5VmV5M0R5T2czMGlKWTVWSzgzVGdJRmU4ZEpreGlQbWtGS0N1THB4WUd6WDhMSUhHVHdzSGw4anN1NThmQklMQV9tSjJEQnY0MkRGTk91a1pJdXBrWjgySjhGb3ptZE9OSGZ3R1N5aXY5LTE0ZFRYeFV2QzBzaGxrM2tXRlV6N2Q1YWNLVWNCb05rZVY2RC02X3VnWGVmN0pRNkVYSmZKMkRaLUMyTDRnbGRmbWphd0tXNGFxdHlrY1BfQl83R1JlSDIxMm03OFhWdXpTME1ZelppSGlNVndFdnVZUnpyTlhSYWN2cng?oc=5",
       "summary": "Stock Market Today: Dow Futures Gain, S&amp;P 500, Nasdaq 100 Slip as Ir",
       "published": "2026-10-05T12:43:00+00:00",
@@ -97,30 +139,6 @@
         "原油",
         "能源股",
         "油运"
-      ]
-    },
-    {
-      "title": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDlPd2syRGlsM2F3elo1dk9pM2FRczJBZUJSaHJ4Nl9NZ2g5dnJwSldrSlBCMWtxbWJqc3o4dVFLZVFlOV9lSDVtYWNBaXBwWXpsYTgzZ0szVF9FVXdVZDE4UmU3dlUyZUN6SUR5a0RTbTZEc2xVeGY4VmczT053TndCVEZiQXpPQXR3c2VVOERKd0VybkMyQ1Ftd05BQ0l2?oc=5",
-      "summary": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat&nbsp;&nbsp;cfr.org",
-      "published": "2026-10-05T09:30:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Energy",
-        "GN Top"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
       ]
     },
     {
@@ -198,10 +216,10 @@
       ]
     },
     {
-      "title": "How much is the Iran war costing Utahns? Here’s an estimate. - sltrib.com",
+      "title": "How much is the Iran war costing Utahns? Here’s an estimate. - The Salt Lake Tribune",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pR3U3bV9NMW41bi1KTk84TDM4d0Rnelk0azdaTzlWZERoNXdpWV9rV3E0Z0hUQU5rWUxHNF95U1ZsdnB4RHloMkV1dmVXTXptZDd6WG9FRENJajd2bVZ6dVYxYmF5eUE2UHlWakNXOE4yMElHMlgw?oc=5",
-      "summary": "How much is the Iran war costing Utahns? Here’s an estimate.&nbsp;&nbsp;sltrib.com",
-      "published": "2026-10-06T03:11:06+00:00",
+      "summary": "How much is the Iran war costing Utahns? Here’s an estimate.&nbsp;&nbsp;The Salt Lake Tribune",
+      "published": "2026-10-06T02:18:57+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics",
@@ -233,42 +251,18 @@
         "GN Energy",
         "GN Top",
         "DW World",
-        "Guardian World",
         "GN Markets",
         "CNBC Top",
         "NPR World",
         "Al Jazeera"
       ],
-      "source_count": 13,
+      "source_count": 12,
       "category": "us",
       "category_zh": "美国",
       "stars": 3,
       "score": 15.2,
       "is_hypothetical": false,
-      "why_important": "多源确认（13 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
-      "summary": "Trump says US will help Russia after Siberia plague institute death&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T23:17:27+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Top",
-        "DW World",
-        "CNBC Top",
-        "Al Jazeera"
-      ],
-      "source_count": 5,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.2,
-      "is_hypothetical": false,
-      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（12 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -284,23 +278,46 @@
         "GN Geopolitics",
         "GN Top",
         "Guardian World",
-        "CNBC Top"
+        "CNBC Top",
+        "Al Jazeera"
       ],
-      "source_count": 6,
+      "source_count": 7,
       "category": "europe",
       "category_zh": "欧洲",
       "stars": 3,
       "score": 15.2,
       "is_hypothetical": false,
-      "why_important": "多源确认（6 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（7 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Gold inches lower as firmer dollar, higher yields weigh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "summary": "Gold inches lower as firmer dollar, higher yields weigh&nbsp;&nbsp;Reuters",
+      "published": "2026-10-06T02:15:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "Guardian World"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：黄金 及相关产业链。",
+      "assets": [
+        "黄金"
+      ]
     },
     {
       "title": "Is Iran charging a toll to allow oil traffic through Hormuz? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnBJWDdQN21OVE55MVZsLUFoMmIxTVBpZXgtNWpGR3o4U1liTUFzYWU2ODhTM24yeWh1Mm5NOWlEcXZTWHU0RGNRaUhvSjF4b2FRajZSajdGWWJwcXRpZzFBWjlfYkJSeTl4M1BrNUxVdHFUUGtfNHdNLXVmTHhPbzMyZ1BvVldXSEFZR2VBeUlPRWhudXMtdlpjbk9INTRRSUHSAacBQVVfeXFMTml3NXBicnEzMEw0NXFQTktsODdqcG1FcUszd1FjMmJlUjdGczk3c0JvS3pPTkVNYUk4RTB4dWV0Nl9XYXlhazJZU2pyYjRnUUFKZHhEVVBfbjNKVFhJWXM1UlVvTzVIWWxWMWE2dS1VaEszTUtFMzhmakFobGdVcU15dWphMlRMRXZZdUtkZ01SYmpTZDhZZmxEZjN3V1M3VjVBdnVJanM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnBJWDdQN21OVE55MVZsLUFoMmIxTVBpZXgtNWpGR3o4U1liTUFzYWU2ODhTM24yeWh1Mm5NOWlEcXZTWHU0RGNRaUhvSjF4b2FRajZSajdGWWJwcXRpZzFBWjlfYkJSeTl4M1BrNUxVdHFUUGtfNHdNLXVmTHhPbzMyZ1BvVldXSEFZR2VBeUlPRWhudXMtdlpjbk9INTRRSUHSAacBQVVfeXFMTml3NXBicnEzMEw0NXFQTktsODdqcG1FcUszd1FjMmJlUjdGczk3c0JvS3pPTkVNYUk4RTB4dWV0Nl9XYXlhazJZU2pyYjRnUUFKZHhEVVBfbjNKVFhJWXM1UlVvTzVIWWxWMWE2dS1VaEszTUtFMzhmakFobGdVcU15dWphMlRMRXZZdUtkZ01SYmpTZDhZZmxEZjN3V1M3VjVBdnVJanM?oc",
-      "published": "2026-10-05T13:15:35+00:00",
+      "published": "2026-10-05T19:19:56+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics",
@@ -309,6 +326,30 @@
       "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Sk5XZ0trdXU1UFlPTkNwWmZYMm4zWjRxeW1rcjk4M0xsLVZQazlVbVpXMUFiOEtRMTZzanZxbWlmQ1Uxc2VEOVlFN1VQdTZjREx1MmxWNzBlR2NPV1JHeUlHRUlHenhjbGc5OEVHTEh4eVIwNDVwcmpGUXI?oc=5",
+      "summary": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most&nbsp;&nbsp;WSJ",
+      "published": "2026-10-06T02:30:00+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "energy",
+      "category_zh": "能源",
       "stars": 3,
       "score": 15.1,
       "is_hypothetical": false,
@@ -342,56 +383,53 @@
       "assets": []
     },
     {
-      "title": "Romania says two dead after fire on ship, Ukraine blames Russian drones - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr?oc=5",
-      "summary": "Romania says two dead after fire on ship, Ukraine blames Russian drones&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T15:39:43+00:00",
+      "title": "Russia puts lives at risk across Europe with hybrid attacks, Kallas says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1Qzb0NqaHlCdjd2NGlfYkR0cmlYbC1GU0dTOGhKallsaHJEdGJkQTJqRTBNbWF3eHFDRTRuRW4zWDZmMW1fcEJSXzdkdmc1LTViMlRvRFY2UEV2UXJlUjFrQlF6Q1Y1aGFtb0dSU1EtLXhQYS15VTB1N1FXMldYWXhCWVhEc1A3c0NYTW50R0pjQU1EVUVLQi1TUGhxRFRVYndYU2RpUm1RdFhHUk5v?oc=5",
+      "summary": "Russia puts lives at risk across Europe with hybrid attacks, Kallas says&nbsp;&nbsp;Reuters",
+      "published": "2026-10-05T10:39:43+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "DW World",
-        "NPR World"
+        "GN Geopolitics"
       ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 14.8,
       "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
     {
-      "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5",
-      "summary": "South Korea plans to develop $3.5 billion frontier AI model starting next year&nbsp;&nbsp;Reuters",
-      "published": "2026-10-06T02:22:00+00:00",
-      "source": "Reuters World",
+      "title": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat - Council on Foreign Relations (CFR)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDlPd2syRGlsM2F3elo1dk9pM2FRczJBZUJSaHJ4Nl9NZ2g5dnJwSldrSlBCMWtxbWJqc3o4dVFLZVFlOV9lSDVtYWNBaXBwWXpsYTgzZ0szVF9FVXdVZDE4UmU3dlUyZUN6SUR5a0RTbTZEc2xVeGY4VmczT053TndCVEZiQXpPQXR3c2VVOERKd0VybkMyQ1Ftd05BQ0l2?oc=5",
+      "summary": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat&nbsp;&nbsp;Council on Foreign Relations (CFR)",
+      "published": "2026-10-05T09:30:00+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "Reuters World",
-        "AP World",
         "GN Geopolitics",
-        "GN AI"
+        "GN Energy"
       ],
-      "source_count": 4,
+      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 14.8,
+      "score": 14.6,
       "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
       "assets": [
-        "科技股",
-        "半导体"
+        "原油",
+        "能源股"
       ]
     },
     {
-      "title": "Tanker attacks are escalating in the Strait of Hormuz, even as oil exports rise - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJteHI2dzRpcmRpS3dyTEJ5aFdnR1hMT0dWLVBWY2l5WVRwWnZxaGV5M1Z1ZHZKN1pOY2UyTk5sT0FIOVozWUE3MnRRVnJLQXdvZ011TThPQlNJblRjN3J0R0pGTnVJYllXTlIzQncyai1HYWVxNS1kVEwzOTJ6T1paUGN3c0FHQkptZnZuNGZJdnJmN3c?oc=5",
-      "summary": "Tanker attacks are escalating in the Strait of Hormuz, even as oil exports rise&nbsp;&nbsp;NBC News",
-      "published": "2026-10-05T13:32:38+00:00",
+      "title": "Hormuz tanker attacks mount, putting oil flows at risk - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmU1R2FfXzFUUGJNNkhiOGNCOHphelBYcmxMUU9LMXVTU2RsMmVOaGN1QkxuRlZCUnEtTmVMbVpqNDV0Q01wSFNHOTBpbUN2TEVqUk1yUTRWVFRyNG5KRU5xdGNhd19MSEV2VUVPdDFVZ29Dck1TcG96bHdUc3JDZlZsd2NCbDhhWVBFTDU4N1Vtai1aWVZRNGZ5OA?oc=5",
+      "summary": "Hormuz tanker attacks mount, putting oil flows at risk&nbsp;&nbsp;Al-Monitor",
+      "published": "2026-10-05T20:30:49+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
@@ -435,7 +473,7 @@
       "title": "Russia reports a worker at a Siberian plague institute got pneumonia from an unknown cause and died - AP News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUVxck1SdlF6ZTlSV0ZpLWdmR3g5WTAtX2tqR3FieHVXdnBILWhYUTNTblU1bjkxbXdEc3lNYlN5d3AtdVR1NjVDRmIyRmt6dWEwQ1dLWjZnVDYwZTZIZkVyT2FCMWlwOUJ0M3VNVF93RHYwZ2tzMDdzd0pkbmg2dnFrc1RzMmFEbi12YWhuVk1pNXhEZkh1TWozaGZHS2c1ZjNBSQ?oc=5",
       "summary": "Russia reports a worker at a Siberian plague institute got pneumonia from an unknown cause and died&nbsp;&nbsp;AP News",
-      "published": "2026-10-06T03:16:00+00:00",
+      "published": "2026-10-05T13:09:10+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -514,27 +552,6 @@
       ]
     },
     {
-      "title": "Gold inches lower as firmer dollar, higher yields weigh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
-      "summary": "Gold inches lower as firmer dollar, higher yields weigh&nbsp;&nbsp;Reuters",
-      "published": "2026-10-06T02:15:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.9,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：黄金 及相关产业链。",
-      "assets": [
-        "黄金"
-      ]
-    },
-    {
       "title": "Europe's STOXX 600 gains on banks boost; French stocks slide on fiscal fears - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3dPemtwS0RmaDA2RW11VjIwOUstOXlwM3BJY1hfTUQ0NjctVDVRajItbS04dW9kNGwtandVUjFPZFBGZVNrSk9vUWpVajR2TVM2VE5ZZVQ2U2lLdURaYzdHZ210OERtVG5tOVY2SnhEd2hIQU5DLV9ES2E3Q2dZWEd5OHA5eUR6OG5OeVpIcVEyajdIbGFnN25uZXllYklyS3JxMC05aHRXemtnSl82Y296dzg?oc=5",
       "summary": "Europe's STOXX 600 gains on banks boost; French stocks slide on fiscal fears&nbsp;&nbsp;Reuters",
@@ -552,29 +569,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Sk5XZ0trdXU1UFlPTkNwWmZYMm4zWjRxeW1rcjk4M0xsLVZQazlVbVpXMUFiOEtRMTZzanZxbWlmQ1Uxc2VEOVlFN1VQdTZjREx1MmxWNzBlR2NPV1JHeUlHRUlHenhjbGc5OEVHTEh4eVIwNDVwcmpGUXI?oc=5",
-      "summary": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most&nbsp;&nbsp;WSJ",
-      "published": "2026-10-06T02:30:00+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 13.9,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
     },
     {
       "title": "Stocks are hitting records despite surging yields. Cramer explains why",
@@ -619,6 +613,94 @@
       "assets": []
     },
     {
+      "title": "‘Pull the plug’: protesters resort to direct action against AI firms",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "summary": "Campaign groups report surge in membership after a spate of AI safety alerts and apocalyptic warningsIn a bar below Waterloo Bridge, a cell of a fast-growing anti-AI protest movement met last week to plot their latest move: disrupting a tech industry dinner being addressed by a senior executive from the chip maker Nvidia.Emma, a 28-year-old bartender, had never before taken direct action and was the most nervous of the four plotters from Pull The Plug, one of a growing number of",
+      "published": "2026-10-06T06:00:04+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.8,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "China's zero-tariff policy for qualifying South African exports has si - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSTM2TnlPcGF3VUliMGNmNW9OQUNjYUpRanZ0RjBVa3YtMUs0NGF5aDZFTWVBMU9sd0w3Q0VPTEdnQTUzZTlOQU5LVDVVTUVWR3hfakxmT3NWYTRqcUg2aWRBZWQ1c2JJUlRNbW0xeGtFNVlGNDNhSkU2M1ZBdkpHNnBWM0paS1NibFhSZmRoRTdRTVhQakJwclhSbi1kei1TYXpQZDlsVDhWQ21nOVRvS0RPMG0zUElkMHN0SEZESEVSSnpBN1lPWGNfQXFuZzhnN3NIYVVsaUxSZTdDVGd4LXpR?oc=5",
+      "summary": "China's zero-tariff policy for qualifying South African exports has si&nbsp;&nbsp;Shanghai Metals",
+      "published": "2026-10-06T07:31:00+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China"
+      ],
+      "source_count": 1,
+      "category": "china",
+      "category_zh": "中国",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "South Korea says preparing response to force North Korean apology over DMZ blast - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNnBqSFo2M3NQNVdQc1lVZWtHNmcydm5hTzg5ZHBtZWhWdkxiaDFpRGFsUmVTVVJDeWNReHlZY3ltUkhWZk5FZTRhc3RyWXpnbUlaUldGVFZsMFM5RmkxT3pNX21aNWROcGlLc2tra1REWklvVXVTLWtyZkg2QTRFMndLbVlwX1h5TTFwMUQyWTRtSlBFODlsYlpMWWVvWHJ5TjdfQ1B5cHVBY1BsMGJXcWhQVExqWXpEbWMxbjlQYXM3cG9TV1pJRGxudzY?oc=5",
+      "summary": "South Korea says preparing response to force North Korean apology over DMZ blast&nbsp;&nbsp;Reuters",
+      "published": "2026-10-06T03:05:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN AI"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
+      "summary": "Trump says US will help Russia after Siberia plague institute death&nbsp;&nbsp;Reuters",
+      "published": "2026-10-05T23:17:27+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "DW World",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVg5UG5DN2dZR3lHMTBFbUIyTTVNRk9mMmlDV0xOVklrVC1RRVkwT1JndUZ1bjNST2F4SHJicnpsSExEaHBzWFhjdXJyZ1FmVERQWThObEtVUFFJM2tHMy00RWF4TG81UHBOVFIwLU1vdy14ZHl4NE1iTHVyVzFWckVEN01qVHJBV3FRZmNNWXg3Zk9hdjNiaFljWk11LWlVSmlYdHpQa3B3T1gxU2FOdDIwLVAwVjJPZTRLLQ?oc=5",
       "summary": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says&nbsp;&nbsp;Reuters",
@@ -636,26 +718,6 @@
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Russian attack kills 6 in Ukraine's Kharkiv, shatters residences - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWhndlZITGtvc0VrRjQ1ajNIYzlBY08yRTVDc1hnSm1vNUtmQWxXRnRtOEZnc1JzalQ0QjVickdiOFNaMTVzRjNzal9ZSFlxUk5WaERvQzdlNlRRYWVWTUxKdVEyeV92WWYydlpWLXdQdmg1TnhjQnlJQVlVRjNfbGZRSldBSDl5SnNwVEIzY21mUXV5R1RyV3NHOFlTc3FqbWlwSHBRUFRTSmdnV09ySw?oc=5",
-      "summary": "Russian attack kills 6 in Ukraine's Kharkiv, shatters residences&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T19:34:06+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -680,28 +742,24 @@
       "assets": []
     },
     {
-      "title": "Co-pilot planned flydubai attack before joining airline, two Israeli officials say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVzZzNy0yYzNKSGZpaEdpT0gxWkNPV05MN01vaDBlYzNUemFCSkFvdHRUOFVMMjVWNzJjbkNzdl9ZalpzZGpja2N0UmpwdUdSZzFmdldFcHN3UmFKTEpGWmNmWHBndi1qRGI5eEIzYXZlOFN1LWR4M0tXaG5ZTkJfMGdYUE9qV2lPVDFDdHRSV3BIeWtrMXEwdkJVSnV0Wk1vanlYWTV6Qm9sYlpBX2xHVGtuZ3QtR0hCX21KQW5DNW9IVUh5a2RnTVZhUWp3dw?oc=5",
-      "summary": "Co-pilot planned flydubai attack before joining airline, two Israeli officials say&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T06:38:00+00:00",
-      "source": "Reuters World",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "published": "2026-10-05T23:13:11+00:00",
+      "source": "BBC World",
       "sources": [
-        "Reuters World",
-        "Guardian World",
-        "NPR World"
+        "BBC World",
+        "BBC Business"
       ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "source_count": 2,
+      "category": "markets",
+      "category_zh": "市场",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "More Qatari LNG cargoes transit Strait of Hormuz despite ongoing risks - Reuters",
@@ -749,6 +807,44 @@
       ]
     },
     {
+      "title": "Press Release - NATO Leaders Reinforce Allied Unity and Continued Support for Ukraine - europeafrica.army.mil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVkNTT3hNNjFGRERic1h6akIwWWVFRWp4UzlCRU51SnJ0N1M1QkhMNW8wbk5XRUlrWE9hdkVqMmt0X3hkRk5ibzR5ZjZoNnQ0SVhWYzY3YjZvU2k4UUw3ZEFFYUxoRnhQZTJzTV9YSUZQLThTcUlIdllKd0ItdW9iN1hKUmN3TTRYVFJHajJnX3NsNlRDYVR6QWQ5blJoakJiZmdmS21CdFBhb3d2clR4RFpDbjhkaURyXzREM2oweXZzSDhoX0l3bko4WW9WR0N6LXAtYkpZUmxIWGxJaG0xQW5rVlVueGE4NGc?oc=5",
+      "summary": "Press Release - NATO Leaders Reinforce Allied Unity and Continued Support for Ukraine&nbsp;&nbsp;<font color",
+      "published": "2026-10-06T08:09:06+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0hRTTZ1ckg4R1MzSTcxTTJZUExjOUh5TnRENDRaQ0R5c1pDbVVPYUNybWduZDF3OHdWTzR5YUNCOEgtTE8tb3k4VHBBTXBLSl9lWE9tY3pOVTJtcTFOTm41R0NpdVF6SjZ3YjZTTGRrZUxzeUVXcTlqYjhwM1dtd1Rjel9GWDEwUWxyUnhDX2pEZjF5UXVuVU1vUy1xMG1ZVDRzSjA2X2EzcWFma0x3d0s4c0lSQ0U?oc=5",
+      "summary": "Stock Market: Will S&amp;P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga",
+      "published": "2026-10-06T06:12:09+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Dow Jones, Nasdaq, S&P 500 weekly preview: Q3 earnings to kick off as yields surge - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdlJqS2FWNE9FaUpFQ21MSFNKM2lwQWxDbmU5YnQ2aTZZUUlJcEdwaVp1NldMUldjWUFOanNPX1J2c1ROY0N0Vl84TlN0UUtLX1hJQ1UxVUZlekZtYUFuX1NKeUtkNTY2dzVveFd1ZUVNeElYamhNR3pFZHNyOUhsbWlwdlRFUl9mSnZXX3J5dzVZenpoNjR4NU96cG1QdkRrTi1RNVNrUWlnTS16R0NrTXRDYW5JMlhEa3VBR1p0V19LZ3pzYXZKMHFkcFpfLTBC?oc=5",
       "summary": "Dow Jones, Nasdaq, S&amp;P 500 weekly preview: Q3 earnings to kick off as yields surge&nbsp;&nbsp;Investing.com",
@@ -771,7 +867,7 @@
       "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ2hBZjBSS0xOUDNMd0ZDYnQ3bnJMNlNmdjRkOWJCc1JZNGlEeXVQNkZjbS1DRFlINzcxREJRTXN3cHJxNFpjU09rczhxSnpwZW8wTFE1TnQ2bU9SWWExdHd0RnZZVkdqcG5FOXhwbUxiNV9hLWJQZlJabzlnYmdkcmM1S2YwT0p3dXRiVWJSV1hQbjRoSFRsWjBGSnJqQ3I5emtyeXlrNGhnRGpkeW1vS08zWkswUmxKaVluTnR4N1JucWFjQWRFc19pU2dpaWJ5aGotMi1oU2JOb2Z2QlpfaHBlb1RscEFPU0lQTG5FV2JJYWhWZ1NMMWxrcm1CeUQ5OVNDMVdjYw?oc=5",
       "summary": "Dow, S&amp;P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Recor",
-      "published": "2026-10-06T02:49:27+00:00",
+      "published": "2026-10-06T02:45:00+00:00",
       "source": "GN Markets",
       "sources": [
         "GN Markets"
@@ -806,23 +902,29 @@
       "assets": []
     },
     {
-      "title": "On a remote Greek island, empty classrooms signal a crisis across Europe - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEJRalhPTENhcHlwalp3NkVTTlpSUUtmLXJoOG9ra1ZuNkhDWURoZU1FdHN5THlNc3lDQVZNOEJ3S1pZRUFJd0JlOUItMEo3LVRUVmwzZ2ZCN0pCRzJBTTY0TDBtM0hLaDExTkRUTURjWng5OGFTNHVVdVNRRUtjaWdtQ1RFbFp6a00xeWFJQ0hsaDRGMFQzUENaLUwtSnBwRDhWUA?oc=5",
-      "summary": "On a remote Greek island, empty classrooms signal a crisis across Europe&nbsp;&nbsp;AP News",
-      "published": "2026-10-05T06:30:00+00:00",
+      "title": "Medvedev disqualified from China Open for hitting spectator with a ball during semi vs. Djokovic - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUpwRkMyNUJ4dm8xWGxnZDR2MGRXSjhtV1NGNUMyNWpyYWdCdUpHNzlmWWxmUW9RVENSZFcxS1ZicDVMRHBLWGp5QjBwVkotRzVETE5LdWUyU1R5OXhSRF9GaUY4ell0aGRTaE5VUF96NkxsSnFLaGZockItUTFMMXdlMGlIZHl2dDBoRjI4eXM2MU5wa3AzTFlR?oc=5",
+      "summary": "Medvedev disqualified from China Open for hitting spectator with a ball during semi vs. Djokovic&nbsp;&nbsp;AP News",
+      "published": "2026-10-05T16:49:00+00:00",
       "source": "AP World",
       "sources": [
-        "AP World"
+        "AP World",
+        "Reuters Technology",
+        "Al Jazeera"
       ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
@@ -847,7 +949,7 @@
       "title": "OpenAI admits response to Australian government hacks 'not good enough'",
       "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
       "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-      "published": "2026-10-06T06:00:53+00:00",
+      "published": "2026-10-06T06:53:17+00:00",
       "source": "BBC World",
       "sources": [
         "BBC World",
@@ -908,7 +1010,7 @@
       "title": "Yemen war: What’s the latest, as government forces claim advances? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDdyRHphbXllR19WLS1xNmFsdDJ1OHIxb1IyQkYzLThPMXpJaDI2ZWxuMjhLS1BlRkxZZVZkX3JjRjJNUTJGMTJRY3BSRlN0bFQyWHFPdzdfUkZ6Sm8zeGdfdjZibUJmVG5Renpob3FlN21PRHBoand5cmwzVFBhX3lDNUxtYzg2MVVpbHBqb0JDWG9IQTkxVUxmcFTSAaIBQVVfeXFMUHJQMVJBN0RLaVRhQ01ya0oxZU55NnplbkU3SjB5YnJTbEhHeHBXVkZETDdwUlBDT29YWkdEbjE0TE9CdGswejl6YWk5cXRQOGJkR0FfVG5EeGNUQzBHa3lEQmFBMkZab1labHN3OG4xNnByMUpubkh3VFUyOENXc0t1TGhhTkg3VmNBdk9TeWZmaERYTHdqLUl6ZmlqUzFEM0pB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDdyRHphbXllR19WLS1xNmFsdDJ1OHIxb1IyQkYzLThPMXpJaDI2ZWxuMjhLS1BlRkxZZVZkX3JjRjJNUTJGMTJRY3BSRlN0bFQyWHFPdzdfUkZ6Sm8zeGdfdjZibUJmVG5Renpob3FlN21PRHBoand5cmwzVFBhX3lDNUxtYzg2MVVpbHBqb0JDWG9IQTkxVUxmcFTSAaIBQVVfeXFMUHJQMVJBN0RLaVRhQ01ya0oxZU55NnplbkU3SjB5YnJTbEhHeHBXVkZETDdwUlBDT29YWkdEbjE0TE9CdGswejl6YWk5cXRQOGJkR0FfVG5EeGNUQzBHa3lEQmFBMkZab1labHN3OG4xNnByMUpubkh3VFUyOENXc0t1TGhhTkg3VmNBdk9TeWZmaERYTHdqLUl6ZmlqUzFEM0pB?oc=5\" target=\"_bl",
-      "published": "2026-10-06T03:52:44+00:00",
+      "published": "2026-10-06T02:38:24+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -943,26 +1045,6 @@
       "assets": []
     },
     {
-      "title": "Protesters clash with police over Kosovo war crimes court law - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdk1iTEVRd1FoWDB5SDFBZ1J4V2tOdGh4akVJWW1YbzJnZFZhVkFHclh2REN2bVhmNlZiRzZCNlY2bmk2a3Ewby0yRVgyZ2YwaEZna1dTLTRVajdJd2xjbHZuQ1VHZHMyZkQxenR4VF8yTG5JZlNTUllGSnptY0JfdkJtN1N1SFRVaHpKSklqT25wb1pFQ0RKa1lielNEcDFIV2tYamx3?oc=5",
-      "summary": "Protesters clash with police over Kosovo war crimes court law&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T23:27:44+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "Al Jazeera"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why. - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmUxaXZIbzVUWG5RNEZ2bXV3SjlTM1Y4aG9vYWFMdWtzS2h1MnFva25QWVFPVDNhS2k3MXo5eTMyTHpLTHNJTGhVRVNGVGVCb08yOTFWbjlGZWZtRHk3cHdzNUFzWVh6Y0FzNWRHb0Z6MUZQQ2hNSzI4Y0ktbE5LM3Vzb2NFdnRaLThYWUQ1UTFSNlFPRW03S2Vn?oc=5",
       "summary": "Vistra, An S&amp;P 500 Nuclear Stock, Pops Above Key Level. Here's Why.&nbsp;&nbsp;Investor's Business Daily",
@@ -982,9 +1064,67 @@
       "assets": []
     },
     {
-      "title": "Baker Hughes signs Venezuela deals targeting oil, gas and LNG development - worldoil.com",
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+      "published": "2026-10-06T07:23:24+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Nigeria mourns as 32 killed in military plane crash",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+      "published": "2026-10-06T06:33:13+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW51ZFBsNXhuaDZnTUxzNzc5M280OVE1VmZEUGdXaFVJeGJITWRJbEpCWXV1UjlGaGZIZXQ2ZXVybU85UWZaRWx4UjZRRU1rZzV3MVB0cXo4R1JFcW4zQWpIa0tmU2FGRW16LUF5U0JPWGgybDZCZnZFckNubFRmbXBwYlV0WVM1dDZkVndtTmNCaG9oRVQ4THI4V0VtRFA2UFl0eFZrRm1nN2N1MVF0VjdGVHgwUmlRWWc?oc=5",
+      "summary": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May&nbsp;&nbsp;Reuters",
+      "published": "2026-10-05T23:30:09+00:00",
+      "source": "Reuters Technology",
+      "sources": [
+        "Reuters Technology",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Baker Hughes signs Venezuela deals targeting oil, gas and LNG development - World Oil",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjVfd25Gb2FMQXhGYUZrcHR2cV94dHRDVEd5MnlZZjhlS3l1bUlUUFVuWUgwWDhxWTd4MWxEX2lfamJ4SG5CZ1lXSHpOMGJ6ZEhkb080am1vZlp3WlQ5bUpnMzQ3alBoMTVlMFVKVF93eWxFT210R1JSYWNrYzJwN0c2eW5vV0VpY3Y2M0lFLUdmQjZsM1U2ekpfWjRnYUdIQ1BQbDBjem5HYjhfa3hSVDRZSQ?oc=5",
-      "summary": "Baker Hughes signs Venezuela deals targeting oil, gas and LNG development&nbsp;&nbsp;worldoil.com",
+      "summary": "Baker Hughes signs Venezuela deals targeting oil, gas and LNG development&nbsp;&nbsp;World Oil",
       "published": "2026-10-05T20:59:47+00:00",
       "source": "GN Energy",
       "sources": [
@@ -1004,33 +1144,10 @@
       ]
     },
     {
-      "title": "Discussing Consumer Price Index numbers, inflation and Federal Reserve's decision-making process - 11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVjEwYTlfUHNDX2hDc2p1OGQzb2JuTXB0X1c1WXphUy1IWjJ3S0lvUXozMkw5Sk5SYmpxRV84eFNmMjNXR3dCdE9TM1F0eExGaW1sdmwxZWw1MkNTX3VSdFNjd18ybzFmWVZ4RVZuZmFUZlFIa2QzOXBWRVV4bm5iT0tyU2FQdEFVQUt2WE4tRnZXYkdZVXBvQ0cxVXd4N1ZlbjduUEt2Uy1xYjVrUXhOMkJRMWlpM0Ywc3VmWHNQZGlOQXdseFM1X2lUOEFydjhhZUFGNUZYVmZtWlYxdktSa0luVEw0d09hUHdLQXdsbHhWdnE4c3cyRnE5TGVSVHc?oc=5",
-      "summary": "Discussing Consumer Price Index numbers, inflation and Federal Reserve's decision-ma",
-      "published": "2026-10-06T00:45:00+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXN3dlhwR1daNC13OHNZNFV2ZjhLdG1ZUmFPMDAzRVQ1MlU4WGVfcDQ5MHl6MkQ3cnZLS1hBeTc2QU5aUjBBd0NwV2s2TXdVM2pHclNiY0xtdUJzZjNKSHBMSmxzS1g1RS1fQnlGblhlMTl5ZG5EV1RkQ0M5dWtCd0FyTkhRY3FZSnhidmgySmRaQ1dHN3B0dTljMVhnYU9PUFF2bkxnS2pvRjlXU01QRGZiM1dfNHdvYzY2NElEcmxYdUwydGVPZlRST3pPMl9WLWhCTHp1WHJrTEta?oc=5",
       "summary": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-      "published": "2026-10-06T00:43:00+00:00",
+      "published": "2026-10-05T23:47:10+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -1073,10 +1190,10 @@
       ]
     },
     {
-      "title": "Stock Market Today, Oct. 5: Tech Momentum Lifts Nasdaq as Treasury Yields Surge - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOem11VDRVSWVIQXhUc2kxcFZMdjhiWnU4UkthVEVSVS1fM3FTQmJtVk5NLWlpT2t1YVYyUF9MY0IzZW1vN2JPVjZGVU1URGR4V0NhUHlWZ2Q4UlE5YUVuUkc1U3JEZGVycEVpU0NBd3V6b3oxMWxoZjg2a1pNdm5VS2lCdXdJWHlzdnRlNDlFQy1QWWxTYWQyZFFtRUUwTlV3THQtUjQzRHlnSVVZMmZfQ0pMa3VmYlJRVkQyeFZrcnVoYnQxTEtLMmpzbFluUGlqSXV4bVpRQV9LOEUtbnNVc2l1WExpaWVZZG9rSWxPcEYyZkk?oc=5",
-      "summary": "Stock Market Today, Oct. 5: Tech Momentum Lifts Nasdaq as Treasury Yields Surge&nbsp;&nbsp;<font",
-      "published": "2026-10-05T21:33:00+00:00",
+      "title": "Stock Market Today, Oct. 5: Tech Momentum Lifts Nasdaq as Treasury Yields Surge - Currently.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDJCWHBnM1dNLVRCcTQ2ZWRvd0swYVkydjktSEE1dlN6cmNGbHhFQlZnRmVESWY1YVZpdlZyaVdGRWMzcjBDOXVjTUZTajcwMjBxY2pOZGt2NWZXSmlFUDZWRjUzT3I4TGV6dFFabUdaWUV1MW9HaHhwMXJZRm11Rg?oc=5",
+      "summary": "Stock Market Today, Oct. 5: Tech Momentum Lifts Nasdaq as Treasury Yields Surge&nbsp;&nbsp;Currently.com",
+      "published": "2026-10-05T21:33:29+00:00",
       "source": "GN Markets",
       "sources": [
         "GN Markets"
@@ -1090,6 +1207,48 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Stock Market Today: 10-Year Treasury Yield Rises as Nasdaq Hits New Record - Eurasia Business News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFhTRDYyNm1ucENibGJaRnpnRXJjZzR5Q1B5eXQ4TDlLUl9BNHQ4bHVIRTAzbUhsZ0JmWFl3WVJkZlNEY2FUWVpZTVozZ2tGV3RwczQ0dFVta05ad3o1SHdPMEJpY1R4UnpaaUZYOERBWmVRUVJUMU1OMUZWcGNTYVFSNXpzaVpxU2NuaFJ1dUVadXFITWg4cXBFSHB1TWlSRXpFZVFvN2hCcFhpOVJWMmFHLU4xY2dB?oc=5",
+      "summary": "Stock Market Today: 10-Year Treasury Yield Rises as Nasdaq Hits New Record&nbsp;&nbsp;Eurasia Business News",
+      "published": "2026-10-05T22:26:14+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Australia, New Zealand probe Flydubai pilot's time there",
+      "link": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-rdf",
+      "summary": "The Flydubai pilot from Oman suspected of trying to crash a plane in Israel spent time in Oceania as a young man. Police in both Australia and New Zealand said they would investigate his links to the countries.",
+      "published": "2026-10-05T15:02:00+00:00",
+      "source": "DW World",
+      "sources": [
+        "DW World",
+        "Guardian World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.5,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "BOJ may signal underlying inflation has hit 2% goal, sources say - Reuters",
@@ -1111,10 +1270,10 @@
       "assets": []
     },
     {
-      "title": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVlXcEZjUmh4TnlFb1RJM3ZQZW5yTlZhV3prMGFfc0JNLWt5cWVLVHEwU1VEcUlVYWhJVnRiaTA1Ylphd01taU54Y3RGNk9EMm80MkFVaEpiNDlvOThVN1pIb0JUYXplbmw5UThFTWE1eDFnOTlpMXFGMlVxMUFFOW9HSWNhSEp1V0lFdmFmREY1Rl9adHAxNw?oc=5",
-      "summary": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T22:18:28+00:00",
+      "title": "Morning Bid - Spain to France: hold my cerveza - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdWpPbExlRFlGenpGdkFJXzE0VXJCT25fSUQ4U3VwY3pXbzNadWF6alI0dVMxMm9sR3VianV5SF9qZWpzZFd6dl93c2g1UnBSbENESVd2MmxWUlBQUnEyaUI4bW40UjYzd1Y4Wjd2Qjd2TW02UGdFRXViSVh0azQ?oc=5",
+      "summary": "Morning Bid - Spain to France: hold my cerveza&nbsp;&nbsp;Reuters",
+      "published": "2026-10-06T04:32:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -1128,186 +1287,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Tate brothers used 'lover boy' model to exploit women, Britain says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOek51MXRqMVZFWnV2dk5xWEZTZjJZWnNoSTRWS2dHVXBweTFNZWVwcy1YaFMxUklyWWJvanVyTC1SUnZhSmxremZhYUlHbVo1aVNsR25mV0U4OWhvZ2k2TVNJajlhT0JIa0F0SGg2emNLV3h5Y19ZdnBfUnZrOTdXRFNJRG1jTmV6cVRhMFlGckp4WC1kRnE3SFcxZU9wUUxlcDV4SnhtY3NJUQ?oc=5",
-      "summary": "Tate brothers used 'lover boy' model to exploit women, Britain says&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T21:15:37+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
-      "link": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
-      "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
-      "published": "2026-10-05T18:43:12+00:00",
-      "source": "CNBC Top",
-      "sources": [
-        "CNBC Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "South Korea's Lee says AI appears to have been used in bank hacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNMcGlRUHRDdG9PMTZVVHBHWllVblNzOFJqQXZDZDFUQUFkR0R6eGFOUmwzZE1rMEhqc0VUdkY2Z2RBaXlBaHMyTkZqQnBTdGNhUC1JbnlEcmZsQ1pEdE1RODRReXdXcmJQQmxWOURfVGJCNkQwcHRsS2FDZFBpYTRmWEowcjV5ai1uSl9DcXFXMnczZ0xHN19HR21rTE4zVmc?oc=5",
-      "summary": "South Korea's Lee says AI appears to have been used in bank hacks&nbsp;&nbsp;Reuters",
-      "published": "2026-10-06T02:13:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ?oc=5",
-      "summary": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand&nbsp;&nbsp;Barron's<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbG1XWTdSakZtY1ZyblBtWFdRdkF1eU54bklJQy04QjJkZjdtOXlZ",
-      "published": "2026-10-05T20:21:00+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.3,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "ECB's Lane: Drags on growth may limit need for ECB action - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcDhQREY4UmFFMW04UWoyUDdfX3FaN2I0YlVVMFNRSjNOM0xiWUVsOGo3d0tLRFI4S0gtOXZVc0RpbjMxb2hfTXlSU3RwYVYxbHd6STc0S2paeGNGNFhYZC1WYXRBNm8zd0UzRll1U0hTc05EX1ZsNlFLWGFvbTRKM3JhZm9ma3NiSXlIMUhxM2dwSWVmVDNQVS1WdlhaeG1xa25qZ3RHQ2RlbE9VcmJqSms3NnhvVy1GOFZydw?oc=5",
-      "summary": "ECB's Lane: Drags on growth may limit need for ECB action&nbsp;&nbsp;Reuters",
-      "published": "2026-10-05T09:00:55+00:00",
-      "source": "Reuters Markets",
-      "sources": [
-        "Reuters Markets"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.2,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "State media highlights China’s economic potential following Xi-Trump summit - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUczS0pLZHpuZVNqZ3lyYkFNLXRzdjV3MElYMnBndkVQYkVIMmlCWXBHNGxfWEp6RXppY1poenFZbEVBUHRCM3J6TTB1V2xvZ1gyVkotUmsxdHpvc0w3d0tNS2hIalMzLWREUUF1RVJpS25nTURJbGgyRVVzSkcyVXFGb0RaRFNvREN2OEtWUDJwNE9CaWdWM1lxUUx0d0dhZVhublJpR2NpZ2xlc0lsQU5xaXVBQlMwTFF0dEJPY3lVa25KckFnQkVRaFNVajhI0gHQAUFVX3lxTFBkdl9UaUtweURsTVNCeDVSX1hIODRwLXR5LXltaVRndFY3SlU1R0pUTy1hb19JMEVQdnA2MXBRd3VpUGRqT1Q0XzBfUGNHeDNvM2lKUzNlR2c4UjJxOGtnNnhFRjB2TzJ5N0QwdkNmZkVwN3U5b2FPZTU2cDRCaHRMVjEwa19YMHU1RGp4am9MTGlhZXRwby1Ra2Y1TVRkcEREbW5xX1p5NEdON0hwNHMzQzEya0MyZHQzYWo5Wk5keElQc3VDQ0ZmQ3hRa3FBVm8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUczS0pLZHpuZVNqZ3lyYkFNLXRzdjV3MElYMnBndkVQYkVIMmlCWXBHNGxfWEp6RXppY1poenFZbEVBUHRCM3J6TTB1V2xvZ1gyVkotUmsxdHpvc0w3d0tNS2hIalMzLWREUUF1RVJpS25nTURJbGgyRVVzSkcyVXFGb0RaRFNvREN2OEtWUDJwNE9CaWdWM1lxUUx0d0dhZVhublJpR2NpZ2xlc0lsQU5xaXVBQlMwTFF0dEJPY3lVa25KckFnQkVRaFNVajhI0gHQAUFVX3lxTFBkdl9UaUtweURsTVNCeDVSX1hIODRwLXR5LXltaVRndFY3SlU1R0pUTy1hb19JMEVQdnA2MXBRd3VpUGRqT1Q0XzBfUGNHeDNvM2lKUzNlR2c4UjJxOGtnNnhFRjB2TzJ5N0QwdkNmZkVwN3U5b2FPZTU2cD",
-      "published": "2026-10-05T12:00:05+00:00",
-      "source": "GN China",
-      "sources": [
-        "GN China",
-        "GN AI",
-        "DW World"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
-    {
-      "title": "US defence experts to work inside Taiwan military HQ under reported pact - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2lKS2k4OVRCS1NEcjBqVFhIRDhIYkZlSDk0MHdTazhKczFxZ2REUW1KekxSZ3ZNajJ4bkJSNVBDZHJ1UHRLN2pWV0d3NGJ6XzYtUUhmUDVMNTRWcGVjSUdITUpMcEIzcnNWMG5EWnFwSkd6cmctM1U4Y25BeUpmdmdiMWFDZzhQLXoxdmxlVmJYQ0NhcHdNNHQ4Y0pWMzdIdzJBZ1Z1S3RONjVTdTBuRE9KOU81MUdHbHlyakRmVUZnenR30gHEAUFVX3lxTE96UU9TeW9SbWk1TmxSRVFkS3BVRnFnOE92S1NMTkdHZHdYbnk3aHNaTkwxWVQ5N3dTLXdXOS1SdkZLdWd1djJtaFc2azRjQjBlNVBzTVhIWEtIR1MyeWhPOENlOGRJMHRrRHlETElvSnVDX1l6N3lOYTBtaUdSeDd2LXNzbEpmeUNrck5aREhxcXNzNG42N1RlbU1XRlk3MU01QnZ1dWJQLThFcjdTeTJlbG5fSnR2YXdWR1lOUHdVdkNaZWk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2lKS2k4OVRCS1NEcjBqVFhIRDhIYkZlSDk0MHdTazhKczFxZ2REUW1KekxSZ3ZNajJ4bkJSNVBDZHJ1UHRLN2pWV0d3NGJ6XzYtUUhmUDVMNTRWcGVjSUdITUpMcEIzcnNWMG5EWnFwSkd6cmctM1U4Y25BeUpmdmdiMWFDZzhQLXoxdmxlVmJYQ0NhcHdNNHQ4Y0pWMzdIdzJBZ1Z1S3RONjVTdTBuRE9KOU81MUdHbHlyakRmVUZnenR30gHEAUFVX3lxTE96UU9TeW9SbWk1TmxSRVFkS3BVRnFnOE92S1NMTkdHZHdYbnk3aHNaTkwxWVQ5N3dTLXdXOS1SdkZLdWd1djJtaFc2azRjQjBlNVBzTVhIWEtIR1MyeWhPOENlOGRJMHRrRHlETElvSnVDX1l6N3lOYTBtaUdSeDd2LXNzbEpmeU",
-      "published": "2026-10-05T08:45:06+00:00",
-      "source": "GN China",
-      "sources": [
-        "GN China"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.1,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币",
-        "台积电",
-        "半导体",
-        "亚太市场"
-      ]
-    },
-    {
-      "title": "China’s Antimony Export Pause to US Nears November Deadline as Supply Chains Await Policy Verdict - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3VnZmdzczNfQ3pwMVM1ZWVPWk01SnNGUVIwc3B6OHJYaHBYQTBIZ1lLYkplRUZDd0U5RkJZU2tJdVVLX0RBcjVPQmJET2huTmJkR3JDNWliUlVWOE0yd0c1ZnRjTWNERDRwX1R5ajZQaG1HYUJEVUVtdG1LVTRhMXZsNVRaU0RnaDkzeFpjVk9fdkd6Q1lOM3I4dzlfS1dDdWpXY1lrYmg2b2VkWXBVc0dnZzgyODVjRVljajRDTVFJRWY5VDkyVw?oc=5",
-      "summary": "China’s Antimony Export Pause to US Nears November Deadline as Supply Chains Await Policy Verdict&nbsp;&nbsp;NAI500",
-      "published": "2026-10-05T14:30:01+00:00",
-      "source": "GN China",
-      "sources": [
-        "GN China",
-        "CNBC Top"
-      ],
-      "source_count": 2,
-      "category": "china",
-      "category_zh": "中国",
-      "stars": 3,
-      "score": 12.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
     }
   ]
 }
