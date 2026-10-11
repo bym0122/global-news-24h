@@ -634,6 +634,17 @@ def render_markdown(date_str: str, items: list[dict], by_cat: dict) -> str:
             lines.append("- **假设性事件**: 是（已降权）")
         lines.append(f"- **时间**: {it.get('published') or '未知'}")
         lines.append(f"- **发生了什么**: {it.get('summary') or it['title']}")
+        original = (it.get("content") or "").strip()
+        if original:
+            lines.append("")
+            lines.append("<details>")
+            lines.append("<summary><strong>原文 / 抓取到的正文</strong></summary>")
+            lines.append("")
+            lines.append(original)
+            lines.append("")
+            lines.append("</details>")
+        else:
+            lines.append("- **原文**: 正文抓取失败，保留原始来源链接（不会用其他新闻正文冒充）")
         lines.append(f"- **为什么重要**: {it['why_important']}")
         lines.append(f"- **可能影响**: {it['possible_impact']}")
         if it.get("assets"):
