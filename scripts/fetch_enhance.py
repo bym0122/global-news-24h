@@ -64,45 +64,62 @@ def _http_get(url: str, timeout: int | None = None):
     return sess.get(url, timeout=timeout, allow_redirects=True)
 
 
-def fetch_article_content(url: str, sess=None) -> str:
-    try:
-        final_url = url
-        if "news.google.com" in url:
-            final_url = ac.resolve_google_news(url, sess or ac._session())
-            if "news.google.com" in final_url:
-                return ""
-
-        candidates = [final_url]
-        if "/amp" not in final_url and "amp." not in final_url:
-            candidates.append(
-                final_url.rstrip("/") + "/amp"
-                if not final_url.endswith("/")
-                else final_url + "amp"
-            )
-
-        for cand in candidates:
-            try:
-                resp = _http_get(cand)
-            except Exception:
-                continue
-            if resp.status_code >= 400 and len(resp.text or "") < 2000:
-                continue
-            ctype = (resp.headers.get("content-type") or "").lower()
-            if ctype and not any(x in ctype for x in ("html", "text", "xml", "json")):
-                continue
-            raw = resp.text or ""
-            body = ac.html_to_text(raw)
-            body = re.sub(r"\n{3,}", "\n\n", body).strip()
-            if len(body) < 80:
-                meta = _meta_or_jsonld(raw)
-                if len(meta) >= 60:
-                    body = meta
-                else:
-                    continue
-            if len(body) > ac.CONTENT_MAX_CHARS:
-                body = body[: ac.CONTENT_MAX_CHARS].rstrip() + "…"
-            return body
+def _page_title(html: str) -> str:
+    if not html:
         return ""
+    patterns = [
+        r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:title["\']',
+        r'<title[^>]*>(.*?)</title>',
+    ]
+    for pat in patterns:
+        m = re.search(pat, html, re.I | re.S)
+        if m:
+            t = re.sub(r"\s+", " ", m.group(1)).strip()
+            if t:
+                return t
+    return ""
+
+
+def _title_tokens(title: str) -> set[str]:
+    t = re.sub(r"[^\w\s]", " ", (title or "").lower())
+    stop = {"the", "a", "an", "and", "of", "to", "in", "for", "on", "at", "with", "says", "said", "after", "as", "by", "from", "is", "are", "was", "were"}
+    return {x for x in t.split() if len(x) > 2 and x not in stop}
+
+
+def _title_matches(expected: str, actual: str) -> bool:
+    if not expected or not actual:
+        return False
+    a = _title_tokens(expected)
+    b = _title_tokens(actual)
+    if not a or not b:
+        return False
+    inter = len(a & b)
+    return inter >= 3 and inter / min(len(a), len(b)) >= 0.45
+
+
+def fetch_article_content(url: str, sess=None, expected_title: str = "") -> str:
+    try:
+        resp = _http_get(url)
+        if resp.status_code >= 400 and len(resp.text or "") < 2000:
+            return ""
+        ctype = (resp.headers.get("content-type") or "").lower()
+        if ctype and not any(x in ctype for x in ("html", "text", "xml", "json")):
+            return ""
+        raw = resp.text or ""
+        if expected_title and not _title_matches(expected_title, _page_title(raw)):
+            return ""
+        body = ac.html_to_text(raw)
+        body = re.sub(r"\n{3,}", "\n\n", body).strip()
+        if len(body) < 80:
+            meta = _meta_or_jsonld(raw)
+            if len(meta) >= 60 and (not expected_title or _title_matches(expected_title, _page_title(raw))):
+                body = meta
+            else:
+                return ""
+        if len(body) > ac.CONTENT_MAX_CHARS:
+            body = body[: ac.CONTENT_MAX_CHARS].rstrip() + "…"
+        return body
     except Exception:
         return ""
 
@@ -116,10 +133,9 @@ def enrich_with_content(items: list[dict[str, Any]]) -> None:
 
     gn_urls: list[str] = []
     for it in items:
-        for u in [it.get("link")] + list(it.get("links") or []):
-            u = (u or "").strip()
-            if u and "news.google.com" in u and u not in gn_urls:
-                gn_urls.append(u)
+        u = (it.get("link") or "").strip()
+        if u and "news.google.com" in u and u not in gn_urls:
+            gn_urls.append(u)
 
     sess = ac._session()
     print(f"  resolving {len(gn_urls)} Google News links…")
@@ -135,16 +151,13 @@ def enrich_with_content(items: list[dict[str, Any]]) -> None:
         idx, it = idx_item
         link = (it.get("link") or "").strip()
         cands: list[str] = []
-        for u in [resolved_map.get(link, ""), link] + list(it.get("links") or []):
+        for u in [resolved_map.get(link, ""), link]:
             u = (u or "").strip()
-            if not u:
-                continue
-            if "news.google.com" in u:
-                u = resolved_map.get(u, u)
             if u and "news.google.com" not in u and u not in cands:
                 cands.append(u)
+        expected_title = (it.get("title") or "").strip()
         for u in cands:
-            body = fetch_article_content(u)
+            body = fetch_article_content(u, expected_title=expected_title)
             if body:
                 return idx, body
         return idx, ""
@@ -172,16 +185,7 @@ def enrich_with_content(items: list[dict[str, Any]]) -> None:
             it["publisher_link"] = resolved_map[link]
         if content:
             ok += 1
-            summary = (it.get("summary") or "").strip()
-            full_title = (it.get("title") or "").strip()
-            if (
-                not summary
-                or summary.lower() in full_title.lower()
-                or full_title.lower() in summary.lower()
-                or len(summary) < 80
-            ):
-                it["summary"] = content[: min(len(content), 400)]
-    print(f"  content fetched: {ok}/{total}")
+    print(f"  content fetched (title-validated): {ok}/{total}")
 
 
 def patch() -> None:
