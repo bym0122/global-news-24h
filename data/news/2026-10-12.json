@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T02:14:49.225116+00:00",
+  "generated_at": "2026-10-12T04:15:05.406832+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-11T02:14:34.514050+00:00",
-  "window_end": "2026-10-12T02:19:34.514050+00:00",
+  "window_start": "2026-10-11T04:14:48.373780+00:00",
+  "window_end": "2026-10-12T04:19:48.373780+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -19,16 +19,17 @@
         "BBC World",
         "GN Geopolitics",
         "GN Top",
+        "GN Markets",
         "CNBC Top",
         "Al Jazeera"
       ],
-      "source_count": 7,
+      "source_count": 8,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
       "score": 17.9,
       "is_hypothetical": false,
-      "why_important": "被 7 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "why_important": "被 8 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -58,54 +59,54 @@
       ]
     },
     {
-      "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5",
-      "summary": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'&nbsp;&nbsp;Reuters",
+      "title": "North Korea fires missiles days after South Korea's hypersonic test - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVAzSFJsZ3psZ1lpSjd3ZjVvcjB3eVRIajV0ZV9wWmt0S0c4R1NKQjN4TGM3VFMxTno4WVJuVnY5WU15QlRhSmMtTFRYUkw1LWNMY2hpcXJaaEQzR20zOGRVejVLUWlZMkJRSUJNZmRwRjJoNExBdFZVM3JwaVBFM3YxWlNVQnI0em1nSmsyRVJZU2t6Z2dHVnRIUXQ4TWRzam9Hd0lZdmpRRDhPN0EwTGVBNkJlQWwzYjZZcks0S3I0NnhfRHJpaDh5a1A?oc=5",
+      "summary": "North Korea fires missiles days after South Korea's hypersonic test&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-11T17:07:00+00:00",
+      "published": "2026-10-12T00:49:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
         "GN Geopolitics",
-        "GN Energy"
+        "Al Jazeera"
       ],
       "source_count": 3,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
-      "score": 17.3,
+      "score": 16.6,
       "is_hypothetical": false,
       "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
-      "title": "Russian attacks kill six people in two Ukrainian cities - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWV5d3JyTHZnTzJMQk5Dbm5fQ0tBb1hnOUhJc3hhNDJqb3NMSTFaTWNVelN6Z1FXdWpJSHBpOU1icE95Z1hKcEJJQmRkWXdtWGRBSkpBVVZ5aENPaEZWNnJPaVppYjBCVzFQS1FMYlhQZHFsZTQ1V25MMnVKQjNKVl90TENLSXFYUkstblpkZkFtWGtUU0t3Y1NR?oc=5",
-      "summary": "Russian attacks kill six people in two Ukrainian cities&nbsp;&nbsp;Reuters",
+      "title": "China sanctions Paraguay, Belize ministers over Taiwan ties - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
+      "summary": "China sanctions Paraguay, Belize ministers over Taiwan ties&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-11T19:05:43+00:00",
+      "published": "2026-10-12T02:54:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "BBC World",
-        "BBC Business",
-        "GN Geopolitics",
-        "Al Jazeera"
+        "GN Geopolitics"
       ],
-      "source_count": 5,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 4,
       "score": 16.4,
       "is_hypothetical": false,
-      "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "台积电",
+        "半导体",
+        "亚太市场"
+      ]
     },
     {
       "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote - Reuters",
@@ -128,6 +129,49 @@
       "score": 16.4,
       "is_hypothetical": false,
       "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "South Korea’s military says North Korea fired a projectile toward the sea - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5",
+      "summary": "South Korea’s military says North Korea fired a projectile toward the sea&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-12T00:33:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.3,
+      "is_hypothetical": false,
+      "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Russian attacks kill six people in two Ukrainian cities - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWV5d3JyTHZnTzJMQk5Dbm5fQ0tBb1hnOUhJc3hhNDJqb3NMSTFaTWNVelN6Z1FXdWpJSHBpOU1icE95Z1hKcEJJQmRkWXdtWGRBSkpBVVZ5aENPaEZWNnJPaVppYjBCVzFQS1FMYlhQZHFsZTQ1V25MMnVKQjNKVl90TENLSXFYUkstblpkZkFtWGtUU0t3Y1NR?oc=5",
+      "summary": "Russian attacks kill six people in two Ukrainian cities&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-11T19:05:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "BBC Business",
+        "Al Jazeera"
+      ],
+      "source_count": 4,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 4,
+      "score": 16.0,
+      "is_hypothetical": false,
+      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -175,6 +219,30 @@
       "assets": []
     },
     {
+      "title": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War - Middle East Institute",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5SFFuOWhOc2k1Y001RUVadkRmUk1OQjBqdThpVUpsSE1TN3RhWTdCcnQ3RGQzbV9DeW1pNFJZVGJRYXZqU28wM3h6VFcwRWZwcjYzbXhMSnpQbzh6REdpT0pZbWtkSXRkUGNLVHduQUNmbjNHbV9lNDE4ME9JZkd3NjB1TXdhSVlZOUw1LVdISF9HcVFMaWFBTQ?oc=5",
+      "summary": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War&nbsp;&nbsp;Middle East Institute",
+      "content": "China and Russia have long played vital roles in supporting Iran’s economy and providing the regime access to military technology and materiel. Since the onset of the Iran war in February 2026, this assistance has not only persisted but taken on expanded, new dynamics. Beijing and Moscow’s assistance, mostly occurring under the radar, have been essential to the Iranian regime’s survival. And their activities have proven both directly and indirectly impactful on the course of the conflict in the Gulf and beyond.\nTo discuss the evolving nature of Chinese and Russian support for Iran, their interests vis-à-vis the war, and how the United States and its allies should respond, the Middle East Institute will host an on-the-record webinar on Tuesday, October 13, from 11:00 AM to 12:00 PM ET. The expert panel will feature Mr. Isaac Stone Fish, CEO and Founder of Strategy Risks, and Dr. Stephen Blank, Senior Fellow for Russia at the American Foreign Policy Council. MEI Senior Fellow Jason Campbell will moderate.\nIsaac Stone Fish is the CEO and Founder of Strategy Risks, a business intelligence firm which quantifies corporate exposure to China, and helps companies and entities manage and reduce their China risk. He is the author of America Second (Knopf, 2022), a book about Beijing's influence in the United States. He is also a Visiting Fellow at the Atlantic Council, an Adjunct  Professor at New York University, and the author of a column on China risk for Barron's.\nDr. Stephen Blank is a Senior Fellow at the Foreign Policy Research Institute (FPRI). Dr. Blank is also an independent consultant working with various US government and corporate clients and a former professor at the US Army War College. Blank has authored hundreds of foreign policy-related articles, white papers, and monographs — specifically focused on the geopolitics and geostrategy of the former Soviet Union, Russia, and Eurasia.\nDr. Jason H. Campbell (Moderator) is a Senior Fellow at the Middle East Institute, where he focuses on international security, geopolitics, and foreign policy. Prior to joining MEI, he was a Senior Policy Researcher at RAND, covering an array of defense and national security issues. From June 2016 through September 2018, he served as Country Director for Afghanistan in the Office of the Secretary of Defense for Policy.\nJordan’s Economy Weathers Iran War’s Shocks and Finds New Opportunities\nJordan’s Economy Weathers Iran War’s Shocks and Finds New Opportunities\nThe Mecca Alliance Meets the Red Sea – Saudi Arabia’s New Defense Pact Faces Its First Major Test\nThe Mecca Alliance Meets the Red Sea – Saudi Arabia’s New Defense Pact Faces Its First Major Test",
+      "published": "2026-10-12T01:36:13+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.3,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
       "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
       "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
       "summary": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
@@ -199,6 +267,30 @@
       ]
     },
     {
+      "title": "Gold gains on weaker oil, dollar; US inflation data in focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
+      "summary": "Gold gains on weaker oil, dollar; US inflation data in focus&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T03:13:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：原油 / 能源股 / 黄金 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "黄金"
+      ]
+    },
+    {
       "title": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTR1Z25uRUdFdldVQ2h6clhMSlEyZVB4cHJ6QTlsNlpIM0Qzbi0zOXlFZFk5MjFCcVV6RnFrV0JmY2RfRlQ0bzhwQ1ZkMUxaTDl4SGR0VWtFZWQtQ2FxdjZocnNDMEMyTjZtTnNWdmhGc0o0ZlJCYmRaSzF1LVg2NUNOMlc2ZDVidWlxS0VYZ1NZMzVLdG9ZNlBVZU9mT2REdzM0SmR6ZlBXdzdTVTRsYjlhb1ZqSW80bjhEc24xRWNaNjZUbUlrQw?oc=5",
       "summary": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says&nbsp;&nbsp;Reuters",
@@ -220,6 +312,31 @@
       "assets": []
     },
     {
+      "title": "Iran accuses CENTCOM chief of running oil smuggling operations in Strait of Hormuz - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmZiX2w1dktDTGcwbzRkeEdOdVpWNWdYUjI0R0llVzg0dG5ZVTc3YTNJVGJEcE9iNUZGMU9uZTRpRmtXcDlWdk1hdnhhWGg4OXdtSTk0WV9WdFotN3NibzcxVTVJdFFtdkZkUFJqb0w5N2RXdnhOek5VcHZpOGkxNFhMT3JobEt5LXZXdDJuN0I2SFhTaTNvb19YMmNHVXpjcHF3UHRPZk1TREUwc2lLcm45eVgzc2VEWnVTOGZ3R3U?oc=5",
+      "summary": "Iran accuses CENTCOM chief of running oil smuggling operations in Strait of Hormuz&nbsp;&nbsp;Anadolu Ajansı",
+      "content": "Iran accuses CENTCOM chief of running oil smuggling operations in Strait of Hormuz\nMohsen Rezaei claims US commander uses UAE military in operations, threatens US assets in region if Iran is attacked again\nISTANBUL A senior Iranian security official accused the head of the US Central Command (CENTCOM) of orchestrating oil-smuggling operations in the Strait of Hormuz with the assistance of the United Arab Emirates military.\nMohsen Rezaei, secretary of the Supreme National Security Council of Iran, made the claim in an interview over the weekend with Iranian state-run Press TV.\nRezaei said Adm. Brad Cooper was directing the operations using the UAE military, with five or six small boats transferring oil to large tankers.\nHe said Iranian forces had been striking five or six vessels involved in the operations each night over the past two or three months.\nThere was no immediate comment from the US or the UAE on Rezaei’s claims.\nRezaei also rejected US President Donald Trump’s assertion that the Strait of Hormuz was open, insisting that Iran remained in control of the strategic waterway.\n“From now on, therefore, we will maintain control over the management of the Strait of Hormuz. It will remain under our management to ensure peace and security in the region. We will not back down on this issue,” he said.\nHe said maritime traffic through the strait remained far below prewar levels and accused Washington and its regional allies of using smuggling networks to move oil through the waterway.\nRezaei also warned that Iran could target US-linked technology infrastructure in the region if the United States attacks the country again.\n“We have not yet included these assets among our targets. But if war breaks out, many of these cables, data centers, artificial intelligence facilities and numerous other sites will be destroyed,” he said.\nHe put the value of such infrastructure at more than $2 trillion.\nThe Iranian official said Tehran was also prepared to deploy additional military capabilities in the event of renewed hostilities.\n“Today, we are fully prepared to introduce new capabilities if the war starts again,” he said.\nThe US and Israel launched a war against Iran on Feb. 28. Tehran responded with missile and drone attacks across the region and effectively closed the Strait of Hormuz, while Washington later imposed a naval blockade on Iranian ports.\nThe US and Iran subsequently signed a memorandum of understanding in June concerning freedom of navigation in the Strait of Hormuz, but implementation stalled over disagreements related to security in the strategic waterway.\nIran accuses CENTCOM chief of running oil smuggling operations in Strait of Hormuz\nIsraeli artillery strike kills retired Lebanese soldier\nIran’s Revolutionary Guard Navy says oil tanker struck mine in Strait of Hormuz\nSaudi Arabia remains committed to fulfilling energy supplies: Minister\nCoalition intercepts Houthi ballistic missile targeting southwestern Saudi Arabia\nIran’s Revolutionary Guard Navy says oil tanker struck mine in Strait of Hormuz\nSaudi airports face growing disruptions amid Houthi attacks, heightened security warnings\nIraqi warplanes destroy ISIS position in country’s east\nIran accuses CENTCOM chief of running oil smuggling operations in Strait of Hormuz\nIsraeli artillery strike kills retired Lebanese soldier",
+      "published": "2026-10-12T02:51:58+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "GN Energy"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
       "title": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover - Egypt Oil & Gas",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjNlMWZxdUxhRWdwSWs3X1RFcGJ4Q3hjVmVtaEU3ZkJhZUozSDZkSll4QkJ6RU50SmRidklRS0Jndk9hRVRKX0dxMmpHV19DRVJZUjRDUEdrOVl5WVBuSU80c1JVVTJFQ2NXYnExM3laQXpPUkhDLTNISGVxSnRpNXlnOXVHTTFFeExrd0xfbGxvMjNqVy1DMDRMOWQ?oc=5",
       "summary": "Saudi Arabia, UAE Increase Oil Exports as Hormuz Shipments Recover&nbsp;&nbsp;Egypt Oil & Gas",
@@ -236,6 +353,30 @@
       "score": 15.1,
       "is_hypothetical": false,
       "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5",
+      "summary": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-11T17:07:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
       "assets": [
         "原油",
@@ -288,29 +429,6 @@
       "assets": []
     },
     {
-      "title": "Trump blames Ukraine—not his Iran war—for spiking oil prices around the world - Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGdNT0kyZjhZMWxRelpHa0kwbGJDQVpmTHVXNmJUd0V0RWdfX25lMldEYXBEc3Z3OXQtOWFhSWZjZkpUN2VXclM4NEZRdlY3WjBnVTN1Nnl3dG11aFluQTZpMldKQVMxeFBETXRQd25HTmZEQUcyTkgzOG1iUUotR1NKcGkxcWRwMkFrcUtxaElHQ3AtV214b2RPYnVCWG85?oc=5",
-      "summary": "Trump blames Ukraine—not his Iran war—for spiking oil prices around the world&nbsp;&nbsp;Mother Jones",
-      "content": "US President Donald Trump and Ukraine President Volodymyr Zelensky at the United Nations General Assembly on September 22, 2026, in New York City. Press Service Of The President Of Ukraine/AP\nGet your news from a source that’s not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily .\nPresident Donald Trump keeps pointing the finger at everyone for surging fuel prices but himself. Over the weekend, he once again blamed Ukraine, asserting that the country's retaliatory airstrikes on Russia's oil refineries were causing prices to spike. Now Trump is urging Ukraine to scrap its leader.\n“I suggest they get a new leader who can make a deal because he could have made many deals and for some reason he never does,” Trump said on Saturday, suggesting that Ukrainian President Volodymyr Zelenskyy has not done enough to broker a peace deal with Russia.\nFor weeks, Trump has called on Zelenskyy to stop striking Russia's energy infrastructure, claiming that the attacks are “ hurting the world ,” while saying virtually nothing about Russia's strikes against Ukraine.\nResponding to Trump's escalatory remarks, Zelenskyy on Sunday criticized Trump's framing, telling ABC News that it is near universally understood that the closing of the Strait of Hormuz has led to higher prices—not Ukraine's strikes against Russia. But according to Zelenskyy, it’s easier for Trump to blame Ukraine instead of acknowledging the United States' overwhelming role in surging prices around the world.\n“People have to hear reality,” the Ukrainian president said. “Don’t play games with people.”\nZelenskyy: &#34;Prices are rising because of the war in the Middle East, the blocking of Hormuz. Everyone understands it. If we want to speak with people fairly, if we want to be clear, if we want to speak with our nations openly, people have to hear reality. Don't play games with people.&#34;\n&mdash; Aaron Rupar (@atrupar.com) 2026-10-11T13:49:23.365Z\nLater on Sunday, Trump claimed on Truth Social that there is now an \"ENERGY CEASEFIRE\" in the war between Russia and Ukraine. But he gave little detail about what that entailed.\nThe head-spinning war of words follows Trump's deal on Friday to allow Russia to supply diesel to other countries, an apparent bid to bring down prices ahead of the midterm elections. But just last month , Trump had signed a bill granting him power to impose up to 100 percent tariffs on top countries that buy Russian oil or gas, namely China and India .\nEven GOP lawmakers have voiced rare opposition to the deal. Rep. Michael McCaul (R-Texas) wrote on X that he was “concerned the lifting of sanctions on Russian oil will only fund the Kremlin’s war machine—emboldening more violence and destruction, as we have seen in recent days.”\nSen. Lisa Murkowski (R-Alaska) said that Trump should use his new sanctioning authority against Russia instead of allowing the country to “rake in revenues, and continue its catastrophic war in Ukraine.”\nOn Saturday, Rep. Brian Fitzpatrick (R-Pa.) announced plans for a bipartisan bill that he said would prevent the president from lifting sanctions. “[Ukrainian] President Volodymyr Zelensky has the overwhelming support of the United States Congress, he has the overwhelming support of the American people, and he has the overwhelming support of the Ukrainian people,” Fitzpatrick wrote on social media .\nTrump's Iran War Is Driving Up Energy Prices. Here's Who Profits.\nKimberly Guilfoyle's Grifting Scandal Keeps Getting Worse\nAfter ICE Shooting, Progressives Want New York's Police Commissioner to Step Down\nAmid Backlash, Surveillance Company Flock Is Cutting Staff\nLogging Took Trees the Bears Called Home, so the Haida Nation Built Them New Dens\nDavid Flippo Has Close Ties to Accused Fraudster Whose Company Spent Lavishly on His Behalf\nAn Extreme Summer Workout Left This Hockey Standout on Life Support\nThe Midterm Spending Bonanza Is Threatening Democracy Like Never Before\nBy signing up, you agree to our privacy policy and terms of use , and to receive messages from Mother Jones and our partners.\nSave big on a full year of investigations, ideas, and insights.\nMother Jones has no billionaires calling the shots—just readers like you making fearless reporting possible",
-      "published": "2026-10-11T15:56:41+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.6,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
       "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzc1VDRBeG0yTGxXNkJYVjB3TVh3ZlF1OVExT3NCb184NzYxM0pmQVhMbG9od1p2X1drSmo1ck1nZS1aNjdPRUdqSU1LSUlaZDhYVU8yOGcwVS1UMFVaUkpBdmJyYUJpN29YaGpoTFlRXzBaSC0wRUR3bEhGaFRCcDFvNFVxT3dMYUJzeWoxdkEtM0VhLVN3Mg?oc=5",
       "summary": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’&nbsp;&nbsp;The Guardian",
@@ -331,25 +449,28 @@
       "assets": []
     },
     {
-      "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5",
-      "summary": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-11T04:03:00+00:00",
-      "source": "Reuters World",
+      "title": "South Carolina Senate rivals spar over Iran war, AI and Trump in fiery debate - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUE95UU01b0RNbEhUakJyQ2JlM19LdmxKaWNyZktlY3cyaVBNMmJrRHQ4cl9RYnZhUzlWNTdoeGJqRWJtd3JDZFJNRlByM0w2LVVkYjFENGNuNjZiWEY0RnBXZDBZMUFzNE05UXNLaEVTRnNPQVhNNi1xcURjQWJpT1gwcTYzRmhwWWVlcXppSmpVQmZjZ0UyOHdieWZwMndJb0dzTlo4WFY4UzVpTW1rUGlBSElJdTRwOWduc0JSaw?oc=5",
+      "summary": "South Carolina Senate rivals spar over Iran war, AI and Trump in fiery debate&nbsp;&nbsp;NBC News",
+      "content": "Democrat Annie Andrews and Republican Sen. Darline Graham debated exactly three months after Sen. Lindsey Graham, R-S.C., died. Getty; Bloomberg via Getty\nRepublican Sen. Darline Graham of South Carolina and Democratic challenger Annie Andrews clashed Sunday night in their first and perhaps only debate of the general election, tangling over President Donald Trump’s “one big, beautiful bill,” the high costs of gas and goods, the Iran war and AI data centers.\nSouth Carolina is a ruby-red state where Trump remains popular among Republican voters. But the race has tightened in the closing stretch of the campaign, and Democrats believe they have a shot at knocking off Graham, who was appointed to fill her brother Lindsey Graham’s Senate seat after his sudden death in July. The top Senate Republican super PAC has pledged to spend $5 million to shore up Graham’s campaign.\nAt the start of the debate, hosted in Columbia by South Carolina ETV , Darline Graham noted that Sunday night marked exactly three months since her brother unexpectedly died at age 71.\nAndrews, a pediatrician, sought to portray Graham, who previously led a state agency, as an inexperienced empty suit who refuses to stand up to Trump or his unpopular policies. She mocked Graham as “the White House’s ambassador to South Carolina.”\nGraham attacked Andrews as the “most radical liberal” to run in South Carolina and as sympathetic to the Democratic Socialist Party. “Annie Andrews will not stand up to the Socialist Democratic Party; she’s only going to join them,” Graham said — a characterization Andrews rejected.\nGraham has “been told to come out here and call me Bernie, Ocasio, Mamdani — that’s what’s in her script. But the truth is my name is Annie Andrews, and there shouldn’t be any confusion about that,” Andrews said. “The truth is I support the Second Amendment, I believe we need a secure border, and we need to deport illegal immigrants who break the law. ... The real difference between me and Sen. Graham is that I will stand up to my own party, and I will always put South Carolina first.”\nGraham and Andrews are running for a full six-year Senate term; the winner will make history as the first female senator elected from South Carolina. The debate also featured Libertarian Kasie Whitener.\nFOR SUBSCRIBERS Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart\nFOR SUBSCRIBERS Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’\nFOR SUBSCRIBERS Daytime Russian strikes on Kyiv shatter residents’ illusion of safety\nFOR SUBSCRIBERS From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope\nFOR SUBSCRIBERS One year on, Gaza ceasefire exists ‘in name only,’ aid groups say amid near-daily Israeli strikes\nFOR SUBSCRIBERS Republicans stay bullish on Texas governor’s race, but two key groups present challenges\nFOR SUBSCRIBERS U.S. team’s chastening 2-0 loss to Spain a wake-up call ahead of the 2027 Women’s World Cup\nFOR SUBSCRIBERS Police found her roommate dismembered. Then they connected her to another years-old mystery.\nFOR SUBSCRIBERS The perplexing case of a CIA officer who duped his fellow spies\nFOR SUBSCRIBERS Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced\nFOR SUBSCRIBERS Man City players have a huge cloud over them as they chase a title\nFOR SUBSCRIBERS Pentagon’s plan to livestream an execution resurrects America’s darkest history, critics say\nFOR SUBSCRIBERS Frustrated by a slowing economy, young Chinese turn to Mao Zedong for guidance\nFOR SUBSCRIBERS Democratic congressional candidates run anti-data center ads in states the party controls\nFOR SUBSCRIBERS Nonprofit collecting funds for Trump’s ballroom rakes in $320 million\nGraham and Andrews tussled over issue after issue. As the country faces Social Security insolvency, Andrews said she would raise caps to make wealthier people pay more but would not hike the retirement age. She added that Republicans like Graham want to privatize Social Security so “Washington insiders” can profit. “Unfortunately, my opponent is in the race to do what Washington insiders tell her,” she said.\nGraham shot back that she understands what people in her state are facing. When her parents died at a young age, Social Security benefits helped her and her brother survive. Graham said Andrews’ criticism of Trump’s “one big, beautiful bill” is misplaced because it lowered taxes on tips and Social Security. “You called it the one big, ugly bill, so here you are deceiving the people of South Carolina,” Graham said.\nOn affordability, Graham said she has “lived paycheck to paycheck” before and acknowledged that “gas prices are high right now. ... I feel the pain, too.” She said that she supports suspending the gas tax and that easing regulations on drilling would permanently bring prices down.\nAndrews pinned blame for high gas prices on Graham, who she said voted several times against a war powers resolution to restrict Trump’s war with Iran.\nFOR SUBSCRIBERS Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart\nFOR SUBSCRIBERS Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’\nFOR SUBSCRIBERS Daytime Russian strikes on Kyiv shatter residents’ illusion of safety\nFOR SUBSCRIBERS From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope\nFOR SUBSCRIBERS One year on, Gaza ceasefire exists ‘in name only,’ aid groups say amid near-daily Israeli strikes\nFOR SUBSCRIBERS Republicans stay bullish on Texas governor’s race, but two key groups present challenges\nFOR SUBSCRIBERS U.S. team’s chastening 2-0 loss to Spain a wake-up call ahead of the 2027 Women’s World Cup\nFOR SUBSCRIBERS Police found her roommate dismembered. Then they connected her to another years-old mystery.\nFOR SUBSCRIBERS The perplexing case of a CIA officer who duped his fellow spies\nFOR SUBSCRIBERS Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced\nFOR SUBSCRIBERS Man City players have a huge cloud over them as they chase a title\nFOR SUBSCRIBERS Pentagon’s plan to livestream an execution resurrects America’s darkest history, critics say\nFOR SUBSCRIBERS Frustrated by a slowing economy, young Chinese turn to Mao Zedong for guidance\nFOR SUBSCRIBERS Democratic congressional candidates run anti-data center ads in states the party controls\nFOR SUBSCRIBERS Nonprofit collecting funds for Trump’s ballroom rakes in $320 million\n“The war is the exact reason we now have record-high gas and diesel prices. Farmers are getting crushed, and everything costs more,” Andrews said. “My opponent is the only one who had the opportunity to vote to end the war, but three times in a row she voted to continue it.”\nAndrews also dinged Graham for admitting during a previous debate that “ national security is not my thing .” “South Carolina, if your surgeon said that appendectomies aren’t really his thing, would you still hand him a scalpel? No,” Andrews said. “So why would we hand Darline Graham a full term in the U.S. Senate? She is unserious and unqualified.”\nGraham retorted that she wants the war to end, like everyone does, but said she believes in “peace through strength.” Then, she went after Andrews over the national security quip.\n“But talking about not my thing, let’s talk about what’s not your thing. Your thing apparently is not being honest with the people of South Carolina. At least I’m honest. If I don’t know something, I am glad to say it, and I’ll say it again tonight,” Graham said without getting specific. “But you have, you are deceiving the people of South Carolina. You have flip-flopped on everything. There’s so many social media posts out there to prove it. Shame on you!”\nThe proliferation of data centers, which power artificial intelligence companies, has become a major flash point in the midterm elections.\nAndrews went right after Graham on the issue, nicknaming her “Data Center Darline.” Andrews said her data-center plan calls for a “two-year moratorium, protections to ensure your rates don’t go up and a return to real local control.”\nGraham fired back that stopping construction of all data centers would allow China to win the race for AI dominance. She said she voted for the Ratepayer Protection Act , which aims to shift higher energy costs from building data centers from consumers onto AI companies.\n“Under her Bernie Sanders plan, a two-year moratorium, that is dangerous to the national security of our country, because in two years China is going to be so far ahead [that] we are going to be in so much trouble,” Graham said, adding that local communities should decide whether data centers get built in their backyards.\n“I want communities to decide. She wants the federal government to decide.”\nScott Wong is a senior congressional reporter for NBC News.",
+      "published": "2026-10-12T01:44:00+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "Reuters World",
-        "Al Jazeera"
+        "GN Geopolitics",
+        "GN Top"
       ],
       "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 14.4,
+      "score": 14.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "Warren Buffett warns of stock market risks as S&P 500 valuation tops 40 - Beinsure",
@@ -370,6 +491,29 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "ASML (NASDAQ:ASML) Earnings This Week: Could AI Chip Demand Spark the Next Semiconductor Rally? - Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqSUEza3loOXZhWm9NYm9ZR3lVV3RGa0JORHNHb1diNjhIUXUwaXVXdmhvcHFqSE92b3Q2QVRBMERhRTZ5cGRyanM0VEd1VlhubEJHNmxEZG5xVVZhaUJlTHUxMXAzOEFDQWZjaDk4bHdaOElrRnJfYVVn?oc=5",
+      "summary": "ASML (NASDAQ:ASML) Earnings This Week: Could AI Chip Demand Spark the Next Semiconductor Rally?&nbsp;&nbsp;Stocks Down Under",
+      "content": "",
+      "published": "2026-10-12T04:08:02+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 14.0,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "Stock Market Crash Hits 54% Of Stocks—Is The S&P 500 Next? - Forbes",
@@ -460,27 +604,6 @@
       "assets": []
     },
     {
-      "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUx0a0pvZmw1VkxoRkUyc1VTemRoQV9zWEFZMmpFd3ozM0Ytdy1QMnM1Rjg1Z0FnaklEZlktUWI3Z05mMlVYQmx0c3h3X29aMUIwN01ETml6cDVhNi1TUmVWMHZicnlHdHhHc0xXZ0Z6M0QwUEJEeE1ld3BWWHI2VlpRY2Z1QW44U0xnNTVXYVJBdkxGbThsWkVqVHdXbUxmNTI5NjZKaEpteDBYTlNkbmRSMA?oc=5",
-      "summary": "US threatens to block arms for Ukraine over refinery attacks, FT reports&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-11T18:23:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5",
       "summary": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom&nbsp;&nbsp;Reuters",
@@ -503,6 +626,27 @@
         "科技股",
         "半导体"
       ]
+    },
+    {
+      "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUx0a0pvZmw1VkxoRkUyc1VTemRoQV9zWEFZMmpFd3ozM0Ytdy1QMnM1Rjg1Z0FnaklEZlktUWI3Z05mMlVYQmx0c3h3X29aMUIwN01ETml6cDVhNi1TUmVWMHZicnlHdHhHc0xXZ0Z6M0QwUEJEeE1ld3BWWHI2VlpRY2Z1QW44U0xnNTVXYVJBdkxGbThsWkVqVHdXbUxmNTI5NjZKaEpteDBYTlNkbmRSMA?oc=5",
+      "summary": "US threatens to block arms for Ukraine over refinery attacks, FT reports&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-11T18:23:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "A deadly airstrike hits a Sudan-Egypt border gold mine, killing at least 13 miners - AP News",
@@ -549,26 +693,6 @@
       "assets": []
     },
     {
-      "title": "Tencent plans dollar, offshore yuan bond sale under note programme - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlB3SUFzTnN6enBNVTRiVXFZdlZsUGRMaFFhR3RENzZQNS1pV2RFMU9HU0x2UFdUZ1ZPNFlFWkZEZzJ2T0g0Wm9JalctMVJaclZkaXk3VHV3Mk1tVnQyMHBnZ1JMb21XZENjV0p0Y1A0aTNzVXRIandNTm4tMnBvb3ByQTVLOHhteXNKUWtTZkZGY0FqQVhzRGxFYUhTZm5sdlBMU3VENXRTak96YjNsaXpHOEtMVUtOdUwzbw?oc=5",
-      "summary": "Tencent plans dollar, offshore yuan bond sale under note programme&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T01:19:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.4,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Iran war threatens Healey's Budget plans, think tank warns",
       "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
       "summary": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
@@ -592,7 +716,7 @@
       "title": "Fed's Operating Income Turns Negative Again Following Rate Hike - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUxwbFNyUmFPaDFRY3A1VmpsTFhGdDFBaXFtMUpYSjVDX0k0OW5GQ25iU1N6WkxELU5TRjA0aE9uLXpVNmxRWXZKenVqNFpCUWhzZGpNYkFKYkdhOWRnaVRqM0VoOV9LY21vcTV5LXJ4TE1ndmlodExwakVwQVNwbk9CZHZWUlFEM3ZweDdmOEdwd09EQlptU3ZMVjM2VEV0WE1seg?oc=5",
       "summary": "Fed's Operating Income Turns Negative Again Following Rate Hike&nbsp;&nbsp;Seeking Alpha",
-      "content": "The Federal Reserve has resumed operating losses following recent rate hikes, averaging -$278 million weekly over the past three weeks.\nThe Fed's asset/liability mismatch, rooted in QE-era long-duration assets funded by variable-rate liabilities, exposes it to rising interest expenses as rates increase.\nLosses are projected to persist and possibly grow with further rate hikes, delaying Treasury remittances for at least another five years.\nLarge unrealized losses on SOMA holdings constrain the Fed's ability to shrink its balance sheet or sell assets, impairing monetary policy flexibility.\nThe Fed has lost money on an operating basis for the past three weeks, with an average weekly loss of -$278 million during that period.\nMichael Gray has devoted his career to following the capital markets and managing fixed income assets. He founded Gray Capital Management LLC and before that was Head of Taxable Fixed Income at Fidelity Investments. Michael has an MBA in Finance from Wharton and a BA in Economics from Union College.\nAnalystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "content": "",
       "published": "2026-10-11T12:15:00+00:00",
       "source": "GN Fed",
       "sources": [
@@ -646,6 +770,27 @@
       "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "content": "Image caption, The row over the White House pool affected live TV coverage of Trump events last month\nThe US Department of Justice (DoJ) has said it is investigating several TV networks over whether they broke federal competition laws when they recently suspended pool coverage of Donald Trump.\nLast month, five networks paused their presidential coverage for several days in response to the Trump administration withdrawing the credentials of reporters from CNN, MS Now and Politico.\nThe DoJ asked ABC, CBS, CNN, NBC and Fox News to hand over communications related to the pool and said the boycott could violate the Sherman Act, referring to a law that bars companies from engaging in monopolistic business practices.\nPool members usually share their material with the wider media.\nA DoJ spokesperson said: \"The Antitrust Division is simply investigating to determine whether these ânews organisations have violated the antitrust laws.\"\nTrump blocked CNN, MS Now and Politico from the White House last month after accusing the organisations of writing \"fiction or lies\" about his team.\nThe White House later reinstated their access following a judge&#x27;s ruling. The three outlets had sued the Trump administration, arguing the restricted access violated their First Amendment rights.\nThe First Amendment forbids the government from \"abridging\" the freedom of the press - language that courts have traditionally interpreted as preventing the government from discriminating against the media based on the content of their coverage.\nThe Trump administration has taken a number of legal actions against news publications in the US, including lawsuits over coverage of the president.\nIn February, the White House announced it was taking control of the press pool, which has access to Trump and had for more than a century been managed by the White House Correspondents&#x27; Association.\nThe same month, the Trump administration moved to bar Associated Press (AP) reporters and photographers from spaces where access is limited, such as the Oval Office or Air Force One, because of the outlet&#x27;s usage of the term \"Gulf of Mexico\" instead of \"Gulf of America\". AP filed a lawsuit and the case remains ongoing.\nCNN, MS NOW and Politico file lawsuit against Trump&#x27;s White House ban\nMajor US outlets suspend shared Trump coverage in protest at media ban",
+      "published": "2026-10-11T05:05:43+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Guardian World"
+      ],
+      "source_count": 2,
+      "category": "us",
+      "category_zh": "美国",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
@@ -717,29 +862,6 @@
       ]
     },
     {
-      "title": "South Carolina Senate rivals spar over Iran war, AI and Trump in fiery debate - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUE95UU01b0RNbEhUakJyQ2JlM19LdmxKaWNyZktlY3cyaVBNMmJrRHQ4cl9RYnZhUzlWNTdoeGJqRWJtd3JDZFJNRlByM0w2LVVkYjFENGNuNjZiWEY0RnBXZDBZMUFzNE05UXNLaEVTRnNPQVhNNi1xcURjQWJpT1gwcTYzRmhwWWVlcXppSmpVQmZjZ0UyOHdieWZwMndJb0dzTlo4WFY4UzVpTW1rUGlBSElJdTRwOWduc0JSaw?oc=5",
-      "summary": "South Carolina Senate rivals spar over Iran war, AI and Trump in fiery debate&nbsp;&nbsp;NBC News",
-      "content": "Democrat Annie Andrews and Republican Sen. Darline Graham debated exactly three months after Sen. Lindsey Graham, R-S.C., died. Getty; Bloomberg via Getty\nRepublican Sen. Darline Graham of South Carolina and Democratic challenger Annie Andrews clashed Sunday night in their first and perhaps only debate of the general election, tangling over President Donald Trump’s “one big, beautiful bill,” the high costs of gas and goods, the Iran war and AI data centers.\nSouth Carolina is a ruby-red state where Trump remains popular among Republican voters. But the race has tightened in the closing stretch of the campaign, and Democrats believe they have a shot at knocking off Graham, who was appointed to fill her brother Lindsey Graham’s Senate seat after his sudden death in July. The top Senate Republican super PAC has pledged to spend $5 million to shore up Graham’s campaign.\nAt the start of the debate, hosted in Columbia by South Carolina ETV , Darline Graham noted that Sunday night marked exactly three months since her brother unexpectedly died at age 71.\nAndrews, a pediatrician, sought to portray Graham, who previously led a state agency, as an inexperienced empty suit who refuses to stand up to Trump or his unpopular policies. She mocked Graham as “the White House’s ambassador to South Carolina.”\nGraham attacked Andrews as the “most radical liberal” to run in South Carolina and as sympathetic to the Democratic Socialist Party. “Annie Andrews will not stand up to the Socialist Democratic Party; she’s only going to join them,” Graham said — a characterization Andrews rejected.\nGraham has “been told to come out here and call me Bernie, Ocasio, Mamdani — that’s what’s in her script. But the truth is my name is Annie Andrews, and there shouldn’t be any confusion about that,” Andrews said. “The truth is I support the Second Amendment, I believe we need a secure border, and we need to deport illegal immigrants who break the law. ... The real difference between me and Sen. Graham is that I will stand up to my own party, and I will always put South Carolina first.”\nGraham and Andrews are running for a full six-year Senate term; the winner will make history as the first female senator elected from South Carolina. The debate also featured Libertarian Kasie Whitener.\nFOR SUBSCRIBERS Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart\nFOR SUBSCRIBERS Frustrated by a slowing economy, young Chinese turn to Mao Zedong for guidance\nFOR SUBSCRIBERS Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’\nFOR SUBSCRIBERS Daytime Russian strikes on Kyiv shatter residents’ illusion of safety\nFOR SUBSCRIBERS From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope\nFOR SUBSCRIBERS One year on, Gaza ceasefire exists ‘in name only,’ aid groups say amid near-daily Israeli strikes\nFOR SUBSCRIBERS Republicans stay bullish on Texas governor’s race, but two key groups present challenges\nFOR SUBSCRIBERS U.S. team’s chastening 2-0 loss to Spain a wake-up call ahead of the 2027 Women’s World Cup\nFOR SUBSCRIBERS Police found her roommate dismembered. Then they connected her to another years-old mystery.\nFOR SUBSCRIBERS The perplexing case of a CIA officer who duped his fellow spies\nFOR SUBSCRIBERS Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced\nFOR SUBSCRIBERS Man City players have a huge cloud over them as they chase a title\nFOR SUBSCRIBERS Pentagon’s plan to livestream an execution resurrects America’s darkest history, critics say\nFOR SUBSCRIBERS Democratic congressional candidates run anti-data center ads in states the party controls\nFOR SUBSCRIBERS Nonprofit collecting funds for Trump’s ballroom rakes in $320 million\nGraham and Andrews tussled over issue after issue. As the country faces Social Security insolvency, Andrews said she would raise caps to make wealthier people pay more but would not hike the retirement age. She added that Republicans like Graham want to privatize Social Security so “Washington insiders” can profit. “Unfortunately, my opponent is in the race to do what Washington insiders tell her,” she said.\nGraham shot back that she understands what people in her state are facing. When her parents died at a young age, Social Security benefits helped her and her brother survive. Graham said Andrews’ criticism of Trump’s “one big, beautiful bill” is misplaced because it lowered taxes on tips and Social Security. “You called it the one big, ugly bill, so here you are deceiving the people of South Carolina,” Graham said.\nOn affordability, Graham said she has “lived paycheck to paycheck” before and acknowledged that “gas prices are high right now. ... I feel the pain, too.” She said that she supports suspending the gas tax and that easing regulations on drilling would permanently bring prices down.\nAndrews pinned blame for high gas prices on Graham, who she said voted several times against a war powers resolution to restrict Trump’s war with Iran.\nFOR SUBSCRIBERS Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart\nFOR SUBSCRIBERS Frustrated by a slowing economy, young Chinese turn to Mao Zedong for guidance\nFOR SUBSCRIBERS Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’\nFOR SUBSCRIBERS Daytime Russian strikes on Kyiv shatter residents’ illusion of safety\nFOR SUBSCRIBERS From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope\nFOR SUBSCRIBERS One year on, Gaza ceasefire exists ‘in name only,’ aid groups say amid near-daily Israeli strikes\nFOR SUBSCRIBERS Republicans stay bullish on Texas governor’s race, but two key groups present challenges\nFOR SUBSCRIBERS U.S. team’s chastening 2-0 loss to Spain a wake-up call ahead of the 2027 Women’s World Cup\nFOR SUBSCRIBERS Police found her roommate dismembered. Then they connected her to another years-old mystery.\nFOR SUBSCRIBERS The perplexing case of a CIA officer who duped his fellow spies\nFOR SUBSCRIBERS Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced\nFOR SUBSCRIBERS Man City players have a huge cloud over them as they chase a title\nFOR SUBSCRIBERS Pentagon’s plan to livestream an execution resurrects America’s darkest history, critics say\nFOR SUBSCRIBERS Democratic congressional candidates run anti-data center ads in states the party controls\nFOR SUBSCRIBERS Nonprofit collecting funds for Trump’s ballroom rakes in $320 million\n“The war is the exact reason we now have record-high gas and diesel prices. Farmers are getting crushed, and everything costs more,” Andrews said. “My opponent is the only one who had the opportunity to vote to end the war, but three times in a row she voted to continue it.”\nAndrews also dinged Graham for admitting during a previous debate that “ national security is not my thing .” “South Carolina, if your surgeon said that appendectomies aren’t really his thing, would you still hand him a scalpel? No,” Andrews said. “So why would we hand Darline Graham a full term in the U.S. Senate? She is unserious and unqualified.”\nGraham retorted that she wants the war to end, like everyone does, but said she believes in “peace through strength.” Then, she went after Andrews over the national security quip.\n“But talking about not my thing, let’s talk about what’s not your thing. Your thing apparently is not being honest with the people of South Carolina. At least I’m honest. If I don’t know something, I am glad to say it, and I’ll say it again tonight,” Graham said without getting specific. “But you have, you are deceiving the people of South Carolina. You have flip-flopped on everything. There’s so many social media posts out there to prove it. Shame on you!”\nThe proliferation of data centers, which power artificial intelligence companies, has become a major flash point in the midterm elections.\nAndrews went right after Graham on the issue, nicknaming her “Data Center Darline.” Andrews said her data-center plan calls for a “two-year moratorium, protections to ensure your rates don’t go up and a return to real local control.”\nGraham fired back that stopping construction of all data centers would allow China to win the race for AI dominance. She said she voted for the Ratepayer Protection Act , which aims to shift higher energy costs from building data centers from consumers onto AI companies.\n“Under her Bernie Sanders plan, a two-year moratorium, that is dangerous to the national security of our country, because in two years China is going to be so far ahead [that] we are going to be in so much trouble,” Graham said, adding that local communities should decide whether data centers get built in their backyards.\n“I want communities to decide. She wants the federal government to decide.”\nScott Wong is a senior congressional reporter for NBC News.",
-      "published": "2026-10-12T01:44:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
       "title": "What the Iran war has done to the world’s energy supply, in charts - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdX",
@@ -764,7 +886,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFFlQ2RWX2k2c19mRUlseHB2TDlOM0xYSVdXc29YSHBVS2o0OE1qRHFXQU1JR093ellFZ2xSNEg3cUZISWx1SllLdmpuQWNBaFoyQmJHU1RaMHZ0YlFXN3l0eVZkNlhvQlRaTElKWExxTFh4cmNOc0xIeVdpdWh0MHdicmVsajVQMEdtMkZRRzFMOXpyRzBXQmdDQ2lpUlFKVlRMdzVlSXR3aE51ZU9ZZA?oc=5",
       "summary": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal&nbsp;&nbsp;Bloomberg.com",
       "content": "",
-      "published": "2026-10-11T13:52:31+00:00",
+      "published": "2026-10-12T03:47:00+00:00",
       "source": "GN China",
       "sources": [
         "GN China"
@@ -788,7 +910,7 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
       "summary": "Pakistan imposes emergency rule over Imran Khan's provincial government&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-11T18:29:43+00:00",
+      "published": "2026-10-11T08:19:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -892,70 +1014,24 @@
       ]
     },
     {
-      "title": "Better Energy ETF: Global X's MLPX Targeting Oil and Gas Infrastructure vs. Invesco's Solar-Focused TAN - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWExCRTZVdzZ3U1JvcURYUHJ1Z1dUMzM5X0x3WmN4WkJMZVFhXzdtUlJBaDRQOEcwdVdLaFpZTjByRFpMa3FvbTN0V3lhMmNfN2hRZW9FQ2RrWEgtTkRiTXk4bVB2WDhsRUh5R0g3aVBLb2RSalpoVHZKVUVLOFVOQTlTTTBhVFNkb3c1bzc2LWNZUHdVbHhLSEczTGoxUWtBeEdXSV9YTmJ6UHJZZkhxY2pSa19JRTR0dTA2YVBDdENFSVpXTU81bWJxeWZIblVlN0JEeXIyLTJuZ0xpWXI4Q3dn?oc=5",
-      "summary": "Better Energy ETF: Global X's MLPX Targeting Oil and Gas Infrastructure vs. Invesco's Solar-Focused TAN&nbsp;&nbsp;<fon",
-      "content": "The Global X-MLP & Energy Infrastructure ETF ( MLPX -0.41% ) provides lower-cost exposure to energy infrastructure, while the Invesco Solar ETF ( TAN +0.99% ) focuses on the volatile solar energy industry.\nEnergy investors today must weigh the stability of midstream infrastructure against the volatile growth potential of renewable technology. While the Invesco fund targets pure-play solar manufacturers and installers, the Global X fund tracks companies responsible for the transportation and storage of energy products, creating two very different investment profiles for those looking to capitalize on global energy trends and transitions.\nShare price $43.67 (as of 2026-10-05) $71.76 (as of 2026-10-05)\nBeta measures price volatility relative to the S&P 500; beta is calculated from monthly returns over the available fund history (up to five years). The 1-year return represents total return over the trailing 12 months. Dividend yield is the trailing-12-month distribution yield.\nThe Global X fund is the more cost-effective option with a 0.45% expense ratio, saving investors $2.50 annually per $1,000 invested compared to the 0.7% charged by the Invesco fund, offering a clear cost advantage for long-term buy-and-hold investors.\nGrowth of $1,000 over 5 years (total return) $565 $2,531\nThe Global X MLP & Energy Infrastructure ETF focuses its portfolio entirely on the energy sector, specifically targeting midstream infrastructure companies and master limited partnerships. It holds 29 positions that are critical to energy transportation, and its largest positions include Williams Cos Inc at 9.18%, TC Energy Corp at 9.02%, and Enbridge Inc at 8.72%. The fund was launched in 2013 and aims to provide capital appreciation through these stable infrastructure assets, which often demonstrate lower correlation to broader equity markets compared to high-growth tech stocks.\nThe Invesco Solar ETF provides broader sector exposure with energy at 57%, utilities at 30%, and financial services at 5%. Its top holdings include Nextpower Inc at 10.83%, First Solar Inc at 8.89%, and Enlight Renewable Energy Ltd at 7.61%. The fund manages 36 positions and tracks the MAC Global Solar Energy Index. It was launched in 2008 and remains a pure-play option for renewable energy exposure, though its concentration in a single industry sub-sector can lead to higher volatility for shareholders.\nFor more guidance on ETF investing, check out the full guide at this link .\nInvestors have more opportunities than ever to invest in the energy industry. The expansion of data centers to support the artificial intelligence boom requires massive amounts of electricity, while a global transition to clean energy makes renewables an attractive investment. Meanwhile, the U.S. war in the Middle East has driven up oil prices.\nThe Global X MLP & Energy Infrastructure ETF (MLPX) and the Invesco Solar ETF (TAN) provide investors with different options for exposure to the energy sector. Which to pick depends on the factors that matter most to you.\nTAN is the clear choice if you want to support the shift to clean energy, or believe the solar sector will see growth in the years ahead. After all, many of the tech giants funding the AI infrastructure buildout seek clean sources of electricity.\nHowever, TAN has demonstrated high volatility, as evidenced by its larger beta and max drawdown. Investing in this ETF requires conviction that the fund will deliver over the long term.\nMLPX is a bet on the infrastructure for fossil fuels. The fund is more stable, given its low beta and focus on pipelines and storage facilities rather than the more volatile commodity prices of fuels such as oil. It provides a robust dividend yield, and delivers tax efficiencies by limiting direct MLP exposure. This is the ETF for conservative investors who seek stability and dividend income for the long haul.\nWhich Pharmaceuticals ETF Is the Better Buy: iShares’ IHE or Invesco’s PJP?\nWhich Global Real Estate ETF Is the Better Buy: State Street’s RWO or Xtrackers’ HAUZ?\nWhich Corporate Bond ETF Is the Better Buy: iShares’ LQD or State Street’s SPLB?\nWhich iShares Healthcare ETF Is the Better Buy: Biotech-Focused IBB or Broad IYH?\nWhich Precious Metals ETF Is the Better Buy: abrdn’s Silver SIVR or VanEck’s Gold Miners GDX?\nRobert \"Izzy\" Izquierdo is a contributing Motley Fool stock market analyst covering information technology, consumer discretionary, consumer staples, and communication services sectors. Prior to The Motley Fool, Izzy was head of product management at Target Media Partners, developing and launching multimillion-dollar software used by businesses such as Charter Communications. Prior to that, he worked at Yahoo! and startups on software products in connected TV, AI, consumer apps, and digital advertising. He holds a bachelor’s degree in English literature from UCLA and is certified in software product management.\nGlobal X Funds - Global X Mlp & Energy Infrastructure ETF\nInvesco Exchange-Traded Fund Trust II - Invesco Solar ETF\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-11T20:51:44+00:00",
-      "source": "GN Energy",
+      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK spending pressures",
+      "link": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+      "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next yearJohn Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures.As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds",
+      "content": "Compensating for the inflation shock, and funding the pledge to raise defence spending to 3% of GDP by 2030, would require tax rises or benefit cuts of about £35bn. Photograph: UK MOD Crown copyright/Royal Navy/Reuters\nCompensating for the inflation shock, and funding the pledge to raise defence spending to 3% of GDP by 2030, would require tax rises or benefit cuts of about £35bn. Photograph: UK MOD Crown copyright/Royal Navy/Reuters\nIFS: budget will be ‘work of fiction’ without clear plan to cover UK spending pressures\nThinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year\nJohn Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures.\nAs the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade.\nAgainst a febrile backdrop in the bond market, the thinktank warned Healey that failure to address the issue at his 28 October budget risked leaving the impression that Labour was setting unrealistic spending plans.\nHelen Miller, the director of the IFS, said: “Simply pencilling in implicit cuts that he has no intention of delivering would make the budget a work of fiction.”\n‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?\nHer comment echoes a criticism levelled at Jeremy Hunt , the former Conservative chancellor, who before the 2024 general election was accused by the then head of the Office for Budget Responsibility of setting unrealistic spending plans.\nPublishing its influential “green budget” report, which analyses the public finances before Healey’s speech to the Commons, it called on the chancellor to avoid announcing a “steady as she goes” budget that delayed decisions until next year’s spending review.\n“If John Healey sets out spending envelopes for public services that he would not be willing to live within, his plan for meeting the fiscal rules will not be credible,” it said.\nLast week, the governor of the Bank of England, Andrew Bailey, said fiscal policy “must be credible and be seen as such by financial markets”. The following day, the Times quoted a government source as saying: “Andrew Bailey needs to focus on doing his job.”\nMiller said the Treasury adopting an assumption that “everything can be kicked forward” to next year’s spending review risked undermining the chancellor’s credibility.\n“We would be better served by a chancellor who hopes for the best, but plans for the worst, rather than sets out plans that either say, ‘I hope it’ll be fine and some money will come in’, or ‘I’ll get a plan in a year’s time’.”\nAttention before the budget has largely focused on the hit to the chancellor’s headroom against Labour’s main fiscal rule to balance day-to-day public spending with revenues in 2029-30.\nWith the war in the Middle East fuelling a dramatic sell-off in the market for government debt, higher borrowing costs are expected to erase a significant chunk of the £24bn buffer left by the former chancellor Rachel Reeves at the spring statement.\nLeading economists have predicted the market moves since the start of the war in February could wipe out about half of the headroom, adding to nerves in the Treasury over the risk of a market backlash.\nThe IFS said that although the surge in debt interest costs could add £10bn to borrowing in 2029-30, the exchequer would benefit from higher inflation boosting tax revenue – meaning Healey could see headroom cut by only £4bn.\nHowever, it warned against focusing on this buffer because the inflation shock rippling from the Middle East would also dramatically hit the government’s plan for funding public services.\nHigher inflation squeezes public spending power, forcing the government to choose between accepting real-term cuts and finding efficiency savings or topping up departmental budgets either by raising taxes or allowing an increase in borrowing.\nThe IFS said a choice to leave spending totals unchanged at the budget would implicitly mean allowing the quality or quantity of public services to fall. However, it said compensating for the inflation shock, and funding Healey’s pledge to raise defence spending to 3% of GDP by 2030, would require tax rises or benefit cuts of about £35bn.\n“Choosing to stay the course with the inherited tax and spending plans would mean allowing inflation to blow departments’ spending plans off course,” Miller said.\n“It would be a choice to tolerate chunky cuts to the quantity or quality of some public services – cuts that would be larger if defence spending was increased within existing totals.”\nShe said Healey would not need to make detailed plans for the next spending review period at the budget but merely set out overall spending envelopes that he would be prepared to live within.\nA spokesperson for the Treasury said: “The chancellor is fully focused on his priorities to boost business, help with the cost of living and support people in every postcode, underpinned by fiscal discipline and a commitment to meet the fiscal rules with a buffer against uncertainty.\n“The Office for Budget Responsibility will publish its updated forecast alongside the budget in October and we will not comment on rumour, speculation or proposals about its contents ahead of then.”\nExplore more on these topics Institute for Fiscal Studies",
+      "published": "2026-10-12T04:00:44+00:00",
+      "source": "Guardian World",
       "sources": [
-        "GN Energy"
+        "Guardian World"
       ],
       "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 12.6,
       "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
-      "title": "Kaplan: Bonds Pressured by Too-high Inflation, Rising Demand for Capital, Lack of Fiscal Plan - Kathleen Hays Presents: Central Bank Central",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTTRDUjBGcl9TYTk1WWRoWTgzUWx2Nm1YcTdlV01vVEVELVRCcmo3VGRTREcybjd3c3ZjdzFXY243UzFDNVJicFcyYVFmOGV2UWxnWEFZazlUYjBIQUgzb19hZDZDcDNXRjV4UUhiSWU0QkhVRXpZTmJ3?oc=5",
-      "summary": "Kaplan: Bonds Pressured by Too-high Inflation, Rising Demand for Capital, Lack of Fiscal Plan&nbsp;&nbsp;Kathleen Hays Presents: Central Bank Central",
-      "content": "",
-      "published": "2026-10-11T19:33:05+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "KOSPI Plummets 3% as Semiconductor Stocks Slide on OpenAI Concerns - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXIwVnhpNDBzM1AtOHM4LW0yU2NUQW5ZS2o0LW5hbjFMUkZFSk8yWDJTUzh1N0lJVGZza3o5NWJUTFZOaFZ3OE9SZEVFeG9xZkNUZ3hURjZfNUl1V2hsQk9HQ1djc3FJanBxYmRBWEVVVmZVcW1mS0RoUy1DMGxPaFRrQUJLN2dlU1AyOTZR?oc=5",
-      "summary": "KOSPI Plummets 3% as Semiconductor Stocks Slide on OpenAI Concerns&nbsp;&nbsp;조선일보",
-      "content": "",
-      "published": "2026-10-12T01:48:39+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
     },
     {
       "title": "Glucksmann wins centre-left ticket for France's presidential election - Reuters",
@@ -998,11 +1074,53 @@
       "assets": []
     },
     {
+      "title": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVW9SNC1teWppNnU5SXVIWGFNR1NyOEZQUzVXcVB5ZjlPU0pUcjBMUXl4dHVsMWd6c1BRbXBvQ3Z2bjllbVhuUWxLR2ZJUGwwUmpqcHB1S3otYklkalI3bHhqMmhLOTZVTFhQam51WHlmZFF5Y1YzSy1ZQUlPTmpiRjZ3TVZ4Y0lBWEpxejRNLUZ0dDBVNURTbENWVWNXZ3pPVzZ4MVFIZldMUUFZQW8zNHllMmR6UnlVZnQweEsybUVDTFUzYzVIYUUtVjJGczA?oc=5",
+      "summary": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-11T21:15:57+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3AyZ09uYTc2bWo2anlka18tNTY5eXB4MmRfeVhQR0R2MUtScC1DcUI3M0hmcFo0dTlTWXFtQmNuNzZ1OHg5cDVoUlBlSm1XaWRVbnpLNmU1VmFRUVFiaEtmVXJhdFhiNWF1YXl0MGptc0hJd1hyaFlNRVpkWFhUY1NaeW5zbVh4Mzktb0lyYXN3Q1lIQWdydkR5TURYYUlzcVI2NmFLYWgzS2hrUHlLR3ZHS3NvcEdnSHd2b1RuSE96aXRk?oc=5",
+      "summary": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-11T19:44:16+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs - AP News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnNFZTdGejNfd01TajhFLWhwUHlRU2t1Y25QUzlXeWtuLXNGT2l2OTU4dTNDSm15UzFiUjZRelFfVGVnS1VHOU5rZ1o2Y3I0d181OExFWnJoeG50Z1dreENBMEhzMi1UNFFqTzViNktVcWhneEZRdnZ4Z0VqRHVUQUFkLUo1Z3g4NXVrdkdfQkFKV2p4UUlkNVk3TVhCX1daYl84LXFlYTNRUW9HblliN1Jtd1ctS3JkS2RZ?oc=5",
       "summary": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-11T11:50:00+00:00",
+      "published": "2026-10-11T11:57:33+00:00",
       "source": "AP World",
       "sources": [
         "AP World"
@@ -1063,25 +1181,29 @@
       "assets": []
     },
     {
-      "title": "Trump calls on Ukraine to replace Zelenskyy amid tensions over Russia deal - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGhVUFFuc21VY0Yxd29Rb1plWTVoWWo0WVpfOTEyTzJVanJRd1JCSTVRV0phdjM2UkRtMUZMaUJuckVLZC1vLTV1X3pDU2JCOWZFb1B6OEpfcGptOU1ZNWlKRnhWSnZ5UEhZd2NIVjNkMUNjbmNhMTFKT3VUUVZjZUVGSi15cUVlNHVxbGhvVWduX1gzRFppc3BBNThtSkQwc1pkMTlKSlh5c1YtTXFnVDZ30gG3AUFVX3lxTFBYNHcyeFdIRkpzd21TZGZDcVZJblgzNXV6NWZfckNyMDQzLUxlYzJzcFhmYlhrengzZ3V5WElmUU9SNlA5VFR5Yk5LMU1xNWo1eWptVjNzQ1QySUpTNE1fSlo5Z3lJX3FvUTRJT2Fpekp3eDlQd0YtYU8zWS1jdGhQNmU2WjBiWlFvN0E2RVd4N1NNMFF2czl1enpFTzNfUWJZa1RXNEV2U3BHRGxNSWQ1SEtCc0w5SQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGhVUFFuc21VY0Yxd29Rb1plWTVoWWo0WVpfOTEyTzJVanJRd1JCSTVRV0phdjM2UkRtMUZMaUJuckVLZC1vLTV1X3pDU2JCOWZFb1B6OEpfcGptOU1ZNWlKRnhWSnZ5UEhZd2NIVjNkMUNjbmNhMTFKT3VUUVZjZUVGSi15cUVlNHVxbGhvVWduX1gzRFppc3BBNThtSkQwc1pkMTlKSlh5c1YtTXFnVDZ30gG3AUFVX3lxTFBYNHcyeFdIRkpzd21TZGZDcVZJblgzNXV6NWZfckNyMDQzLUxlYzJzcFhmYlhrengzZ3V5WElmUU9SNlA5VFR5Yk5LMU1xNWo1eWptVjNzQ1QySUpTNE1fSlo5Z3lJX3FvUTRJT2Fpekp3eDlQd0YtYU8zWS1jdGhQNmU2WjBiWlFvN0E2RVd4N1NNMFF2czl1en",
-      "content": "Share Trump calls on Ukraine to replace Zelenskyy amid tensions over Russia deal on social media\nUS President Donald Trump has been criticised for condemning Ukraine for its attacks on Russian refineries but not levelling the same criticism at Moscow for its attacks on Ukrainian energy infrastructure [File: Eric Lee/Reuters]\nUnited States President Donald Trump has called on Ukraine to replace Volodymyr Zelenskyy, lashing out at the Ukrainian leader for strikes on Russian oil refineries that have contributed to high global diesel prices.\nThe criticism on Saturday came as tensions between the US and Ukraine have risen after Trump announced a diesel supply deal with Russia.\nlist of 3 items list 1 of 3 Russia kills 20 in Ukraine as US hosts ‘productive’ talks to end war\nlist 2 of 3 Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks\nlist 3 of 3 Why is US turning to Russia for diesel despite sanctions?\nThe steep rise in global fuel prices, which followed the outbreak of the US-Israel war on Iran, has become a political liability for Trump’s Republican Party as it heads into next month’s midterm elections, in which opposition Democrats could gain control of one or both houses of Congress.\n“I think it’s ⁠time for Ukraine to get a new president,” Trump told reporters at the White House, saying Zelenskyy had hurt global diesel supplies with strikes on Russian refineries.\n“He wants to make problems for our farmers, our ranchers with diesel fuel because Russia supplies a large portion of the diesel fuel throughout the world,” Trump said.\nUkrainian Foreign Minister Andrii Sybiha, however, defended Zelenskyy in a post on X.\n“He has the support of the Ukrainian people, and they have the right to decide,” Sybiha wrote. “Statements from abroad only confirm that he is doing his job well. He deserves support.”\nTrump, who has been urging Zelenskyy to stop attacking Russian energy infrastructure for weeks, struck a deal with Russian President Vladimir Putin on Friday to buy diesel from Russia in an attempt to reduce high fuel prices.\nThe deal marked a stunning reversal of years of Washington’s pressure on Russia over its full scale invasion of Ukraine.\nTrump has sought to blame record-high US diesel prices on Ukraine rather than the US-led war in Iran.\nThe US-Russia deal drew a furious reaction from Zelenskyy, who said it had emboldened Moscow. He linked the agreement with ⁠a Russian attack on Saturday that killed 20 people, including three children, in the Ukrainian city of Zaporizhzhia.\n“Today, Russia said thank you for the lifting of sanctions on diesel exports by dropping five glide bombs on residential buildings in Zaporizhzhia,” Zelenskyy said.\n“Last night provided yet more confirmation that Russia perceives any easing of pressure as a signal that it can supposedly keep fighting, that it can supposedly keep dropping bombs on cities,” he said. “Different signals are needed.”\nThe Zaporizhzhia assault was the third mass-casualty attack on Ukraine in four days.\nNearly 80 ⁠civilians were killed in Russian strikes on Wednesday and Thursday, including at least 30 killed by a bomb in the eastern garrison city of ⁠Kramatorsk and 22 others by a missile in the town of Pryluky, about 130km (80 miles) east of Kyiv.\nTrump’s announcement about the diesel deal was in stark contrast to a sweeping Russia sanctions law he signed last month aimed at clamping down on Moscow’s oil and gas revenues that fuel the war against Ukraine.\nHe announced the deal amid talks between Ukrainian and European officials with US negotiators in Miami, Florida, on Friday, which were aimed at developing ⁠a common proposal for ending the war, according to the Reuters news agency.\nIn his remarks at the White House, Trump criticised Zelenskyy over the lack of a peace deal while demanding an end to Ukrainian strikes on Russian energy facilities.\n“I said to him, ‘Do what you want. Don’t hit refineries. There’s plenty of targets. Don’t ‌hit ‌refineries.’ And he went out and he hit,” Trump said. “He better damn well stop.”\n“I suggest they get a new leader who can make a deal because he could have made many deals, but for some reason, he never does,” Trump added.\nThe diesel deal was criticised by US lawmakers, including one of Trump’s fellow Republicans, Representative Don Bacon, who said it was time to apply more sanctions that Congress had recently passed, not roll them back.\nUkraine’s European allies have also expressed dismay at the Russian deal and said they stood by their commitment to sanctions.\nUnited Kingdom Prime Minister Andy Burnham spoke with Zelenskyy on Saturday and said London would strengthen its sanctions on Russia, according to a Downing Street spokesperson.\nZelenskyy, meanwhile, said every additional $1bn Russia earns from exports would help pay for weapons components, drone upgrades, missile production and the recruitment of mercenaries and Moscow would only be ready to stop when its ability to fight diminished.\nZelenskyy said Ukraine was coordinating steps to counter the extra revenue Russia will receive and he had spoken to French President Emmanuel Macron about shoring up Ukraine’s air defences.\nHe went on to warn of an increased risk of further missile strikes in the coming days.\nZelenskyy also said he had discussed the developments with Finnish President Alexander Stubb and Ukraine would receive ammunition in the coming days for the F-16 fighter jets used to intercept Russia’s Shahed drones.",
-      "published": "2026-10-11T06:56:45+00:00",
+      "title": "Open Questions | ‘It’s not possible to contain China,’ former top US diplomat Kurt Campbell says - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmFpdEsxRnF5ZUJwYlRaVzczSHdMbks0aFQ5WlpzUzlPT2Uwd2RvcTNTZmJYc09HOXlGajRaT2ZsOXZhQTd3TEMtQUFjbUV1ZVB2RGJkVEVIMDhNQmswcVFScElRY3otQVdVQzRvaHA3bW1WS1RoazNGdXo2akRpT1IzbzJjTWUwRVRyWkl2OFJxdTRXR2U2YlR5MjZGYkhLa0lBNmNQTmdFTHhKVWhYUVdGU0tTR2IyYUtjdWs1OHVIM1ExMEk0eNIByAFBVV95cUxQcE1rbTBuN2NYTFpKc0JlWVFvTTdwQlpMbFkycHFWVGtBaER2cFJrdl92WS12X0xZQlRpU3BEc05WSDVXWm4wYU1GX3BfZ2tZeTdQcEcwdUoxeUtCTElkR3pYZkk5a1lYTzNTYlA5Mm5makFWWW5LdDhOUkwxbGRfSldleXhLQXJhc3NHUUF5U1BWNDhjNUM1WDVreWpGWjFDczVsNHVjSGhSZjdHTjR2aFdHcGgzNk9mZF9Sa09sZmEtME5nRzBpYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmFpdEsxRnF5ZUJwYlRaVzczSHdMbks0aFQ5WlpzUzlPT2Uwd2RvcTNTZmJYc09HOXlGajRaT2ZsOXZhQTd3TEMtQUFjbUV1ZVB2RGJkVEVIMDhNQmswcVFScElRY3otQVdVQzRvaHA3bW1WS1RoazNGdXo2akRpT1IzbzJjTWUwRVRyWkl2OFJxdTRXR2U2YlR5MjZGYkhLa0lBNmNQTmdFTHhKVWhYUVdGU0tTR2IyYUtjdWs1OHVIM1ExMEk0eNIByAFBVV95cUxQcE1rbTBuN2NYTFpKc0JlWVFvTTdwQlpMbFkycHFWVGtBaER2cFJrdl92WS12X0xZQlRpU3BEc05WSDVXWm4wYU1GX3BfZ2tZeTdQcEcwdUoxeUtCTElkR3pYZkk5a1lYTzNTYlA5Mm5makFWWW5LdDhOUkwxbGRfSldleX",
+      "content": "Open Questions Kurt Campbell on US deterrence, the Quad, Aukus and Taiwan after Xi-Trump summit\nVeteran US diplomat says containing China is impossible, but urges Washington to shore up its regional partnerships\nPublished: 6:00am, 12 Oct 2026 Updated: 10:04am, 12 Oct 2026\nKurt Campbell is a veteran US diplomat and strategist who has played a leading role in shaping Washington’s approach to China and the Indo-Pacific for more than a decade.\nHe served as the White House coordinator for Indo-Pacific affairs from 2021 to 2024 and as US deputy secretary of state from 2024 to 2025. Previously, he served as assistant secretary of state for East Asian and Pacific affairs from 2009 to 2013 and was a key architect of the Obama administration’s “pivot to Asia”.\nOften described as the Biden administration’s “Asia tsar”, Campbell also helped develop the Quad and the “small yard, high fence” approach to technology competition.\nA former US Navy officer, Harvard professor and co-founder of the Centre for a New American Security, he is now chairman and co-founder of The Asia Group, a Washington-based strategic advisory firm.\nOpen Questions – SCMP interviews with global opinion leaders",
+      "published": "2026-10-12T02:04:57+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics",
-        "NPR World"
+        "GN China"
       ],
       "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 12.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret. - Yahoo Finance",
@@ -1112,6 +1234,29 @@
       "summary": "SpaceX Seeks $40B to Buy NVIDIA Chips for Orbit AI [2026]&nbsp;&nbsp;https://tech-insider.org/",
       "content": "",
       "published": "2026-10-11T19:49:38+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.1,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "TSMC Set For Sixth Straight Record Profit As AI Chip Demand Surges - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRHdVBTNWFXS2V2MXZHbUVPRGpqaEFqZjJKMjc4a3NkY3FYd0xDVU9xNFZ1VU5jb2ltckRKMXlxd1FSbWplX1VPdG5zVFpIbTk0THg4RkpEczhzUHpkcFdKVXhkbl9LQm9hSDctWVV5SzZmaTVBakpYaEdkc201MWJVMUpiSWhXYkV1WVdlQlJZWjZWWXF3dFNDOHdfNmxoR2w0UzBRWmg2TFBGWWFZZg?oc=5",
+      "summary": "TSMC Set For Sixth Straight Record Profit As AI Chip Demand Surges&nbsp;&nbsp;BusinessToday Malaysia",
+      "content": "",
+      "published": "2026-10-12T03:59:18+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -1189,133 +1334,6 @@
       "score": 12.1,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "content": "Image caption, The row over the White House pool affected live TV coverage of Trump events last month\nThe US Department of Justice (DoJ) has said it is investigating several TV networks over whether they broke federal competition laws when they recently suspended pool coverage of Donald Trump.\nLast month, five networks paused their presidential coverage for several days in response to the Trump administration withdrawing the credentials of reporters from CNN, MS Now and Politico.\nThe DoJ asked ABC, CBS, CNN, NBC and Fox News to hand over communications related to the pool and said the boycott could violate the Sherman Act, referring to a law that bars companies from engaging in monopolistic business practices.\nPool members usually share their material with the wider media.\nA DoJ spokesperson said: \"The Antitrust Division is simply investigating to determine whether these ânews organisations have violated the antitrust laws.\"\nTrump blocked CNN, MS Now and Politico from the White House last month after accusing the organisations of writing \"fiction or lies\" about his team.\nThe White House later reinstated their access following a judge&#x27;s ruling. The three outlets had sued the Trump administration, arguing the restricted access violated their First Amendment rights.\nThe First Amendment forbids the government from \"abridging\" the freedom of the press - language that courts have traditionally interpreted as preventing the government from discriminating against the media based on the content of their coverage.\nThe Trump administration has taken a number of legal actions against news publications in the US, including lawsuits over coverage of the president.\nIn February, the White House announced it was taking control of the press pool, which has access to Trump and had for more than a century been managed by the White House Correspondents&#x27; Association.\nThe same month, the Trump administration moved to bar Associated Press (AP) reporters and photographers from spaces where access is limited, such as the Oval Office or Air Force One, because of the outlet&#x27;s usage of the term \"Gulf of Mexico\" instead of \"Gulf of America\". AP filed a lawsuit and the case remains ongoing.\nCNN, MS NOW and Politico file lawsuit against Trump&#x27;s White House ban\nMajor US outlets suspend shared Trump coverage in protest at media ban",
-      "published": "2026-10-11T05:05:43+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
-      ],
-      "source_count": 1,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-      "summary": "Iran says US has accepted some of its peace terms but calls the reply &#039;inadequate&#039;, as Riyadh airport is hit again.",
-      "content": "",
-      "published": "2026-10-12T00:00:00+00:00",
-      "source": "Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
-      "summary": "AP source: Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-11T22:33:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-      "content": "Figure caption, Watch: The scene at Riyadh international airport after strike\nOne person has been killed and 11 injured in a second strike on the international airport in the Saudi capital Riyadh, officials have said.\nA Saudi military spokesman said a projectile had hit King Khalid International Airport on Sunday, causing a fire in one of its passenger halls. Saudi Arabia&#x27;s civil aviation authority said in a statement on X that one person, a Pakistani resident, had been killed in the attack.\nIt comes a day after a strike on the same airport killed 13 people and injured 308 others, following similar strikes earlier this week.\nThe Houthis in Yemen said they were behind the attacks and warned airlines and passengers against using Saudi Arabian airports and airspace.\nThe group said they had targeted the airport with a mix of ballistic and cruise missiles, as well as drones in the past 24 hours.\nThey also attacked oil facilities and Dammam airport in eastern Saudi Arabia, their military spokesman Brig Gen Yahya Saree said.\nHe vowed to continue the \"escalating operations deep inside Saudi Arabia\", warning that all Saudi airports were potential targets apart from those in the holy cities of Mecca and Medina.\nThe Houthis have said they are targeting Saudi Arabia over its support for government forces in Yemen&#x27;s civil war, as well as an air strike on the airport in Sanaa.\nOn Sunday Maj Gen Turki al-Maliki, spokesman for the Saudi-led military coalition, said air defences had intercepted a missile near the airport in Riyadh, while authorities were dealing with the fire caused by an \"unknown projectile\" that hit Passenger Hall No 4.\nUS President Donald Trump has said the US would \"make a decision\" and \"move very quickly\" on whether to strike the Houthis, while UK Defence Secretary Wes Streeting suggested the UK could \"potentially\" provide more support for Saudi Arabia.\nRiyadh airport attack another dangerous moment in already tense conflict\nSaturday&#x27;s strike was the deadliest single attack on a Gulf Arab country since the war between Israel, the US and Iran began in February. The Saudi-led coalition vowed to respond, calling it a \"war crime\".\nFour Saudi nationals, two people from Bangladesh and one person each from the US, Jordan, Palestine, Syria, Sudan and Egypt were among the dead, the Saudi civil aviation authority said.\nThe Indian embassy in Saudi Arabia said on Sunday that an Indian man had succumbed to the injuries he sustained in the attack.\nUS Secretary of State Marco Rubio condemned the attacks and confirmed that a US citizen was killed in the strikes. Foreign Secretary Ed Miliband said he was \"appalled\".\nThe UK Foreign Office is advising against all travel to parts of Saudi Arabia, including areas within 10km (6.2 miles) of the border with Yemen, while other western embassies have warned their nationals about travel in the region.\nHouthi-run Al Masirah TV said \"the Saudi enemy\" had launched an air strike on Sanaa International Airport in Yemen&#x27;s capital. A residential home in the city was also struck, killing a child and injuring six people, the media outlet reported.\nSaudi Arabia has not confirmed the attacks and the BBC has been unable to verify this report.\nAbdullah Al-Alimi Bawazir, vice-president of Yemen&#x27;s internationally recognised government, called for \"decisive actions\" from regional and international partners.\nRiyadh&#x27;s airport was struck on Thursday, an attack that killed three Saudi nationals . The Houthis claimed responsibility and said they had used cruise missiles to target the airport.\nThere were two other deadly attacks on Saudi airports in Abha and Riyadh in the two days prior to that.\nImage caption, Smoke and flames seen at King Khalid airport in Riyadh on 8 October\nThe latest uptick in violence comes after a temporary ceasefire between the Houthis and Saudi-led forces, brokered in 2022, collapsed in July.\nThe conflict worsened after the Houthis seized strategically important stretches of the Red Sea coast in a rapid offensive, prompting Saudi strikes. Yemeni pro-government forces later said they had secured the regions.\nThe Houthis currently control around a quarter of Yemeni territory and as much as 80% of the country&#x27;s population. The Iran-backed armed group hopes to eventually seize complete control.\nSaudi Arabia fears this would lead to the establishment of an Iranian satellite state on its southern border.\nIran&#x27;s Foreign Minister Abbas Araghchi told his Saudi Arabian counterpart on Sunday that his country was ready to provide assistance to \"facilitate dialogue between Saudi Arabia and Yemen\", referring to the Houthi administration.\nYemeni military says it has &#x27;secured&#x27; Red Sea waterway\nInside Yemen&#x27;s front-line city as Houthis battle for control\nHow escalating Saudi oil crisis could drive up prices everywhere",
-      "published": "2026-10-11T22:45:58+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping - CNN",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43VjFQRFkxRVVwaTRiTHBubTY3M19MS1I2RFZsbWxHakhPUlNfc0Y5WVFvQ2xrY3FaSTAycE1sVmU3QXhnZ1RRTGlndVNPX3MyVVplNXllaFpGN1F6MjMtUnkzRl9JVDNCcWhyaVhOc0otM3lsbXZuWGljYw?oc=5",
-      "summary": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping&nbsp;&nbsp;CNN",
-      "content": "An aerial view shows ships anchored off the coast of Khasab in Oman's Musandam Governorate, near the Strait of Hormuz, on October 2.\nIran is stepping up attacks on tankers in the Strait of Hormuz and Persian Gulf in an effort to restore its leverage over the critical waterway.\nThere have been more than a dozen strikes on shipping since the end of September, reducing the volume of oil transiting the strait and keeping crude prices above $100 a barrel.\nUS President Donald Trump announced Thursday that he has no plans to strike Iran before the midterm elections, where rising energy costs could play a part in his Republican Party losing the House of Representatives, the Senate – or both.\n“We will not be attacking Iran at any time prior to the Midterm Elections to be held in the United States on November 3rd,” Trump declared on Truth Social, adding that the administration is “having productive discussions” with Tehran and that his main goal is to ensure the country does not obtain a nuclear weapon.\nTehran, however, is focused on Hormuz as a “strategic red line” and is broadening its range of targets in the Gulf.\nLeverage over Hormuz is non-negotiable for Tehran as it weathers US pressure despite a sinking economy. But Washington has said that the principle of free navigation in international waters is inviolable, a stance echoed by Gulf states that rely on the strait for much of their trade.\nIn one of the latest incidents, the National Guard of the United Arab Emirates said Saturday it had rescued 22 people following an oil tanker fire. Those rescued were Indian citizens – India is one of the largest suppliers of seafarers.\nThe UK Maritime Trade Operations (UKMTO) – which tracks shipping incidents – has reported several other attacks in recent days.\nIt said the master of an outbound tanker reported it was struck Saturday by an unknown projectile in the Strait of Hormuz, causing a fire on board. UKMTO reported another attack in the same area on Sunday, resulting in damage to the vessel. All crew members were reported safe.\nAn Islamic Revolutionary Guard Corps serviceman salutes in front of an Iranian national flag.\nThe navy of Iran’s Islamic Revolutionary Guards Corps (IRGC) claimed on Saturday that a supertanker carrying crude oil suffered a massive explosion after striking a naval mine while attempting to leave the Strait of Hormuz through a route Tehran hadn’t authorized.\n“No extra-regional power has the right to threaten, maintain a domineering presence, or interfere in it. The Strait of Hormuz is Iran’s strategic red line,” said the head of the IRGC, Ahmed Vahidi, in a post on X.\nUKMTO said Sunday it had also received a report from several ships in UAE waters that they had been directed via VHF radio messages to move from their anchorages. Iran has avoided targeting the UAE recently.\nShipping analysts Ambrey said the IRGC Navy had issued a warning to six vessels anchored around 16 miles (25 kilometers) from the port of Ras al Khaimah in the UAE.\n“The vessels were advised to heave up anchor, exit the area immediately, and transit to Dubai anchorage,” Ambrey noted.\nAnalysts say the rise in Iranian attacks and threats is in response to higher volumes of oil and petroleum products through the strait. They averaged about 13.1 million barrels per day at the end of September, according to Kpler, a marine data tracking service.\nThat’s just under 80% of the 17.1 million barrels that had traveled through the strait each day before the war broke out.\nBut flows appear to have slowed this month. Just seven tankers transited the Strait of Hormuz on Tuesday, less than half the seven-day average and the lowest number since July 23, data from Kpler showed.\nHowever, figures are at times revised higher after ships have moved through the strait, as many switch off their identification systems to try to avoid detection.\nThe US military continues to enforce a blockade on Iranian ports, as part of a strategy of maintaining economic pressure on Iran.\nOn Saturday it had disabled a cargo vessel in the Gulf of ⁠Oman after the ship’s crew ignored warnings and ⁠attempted to run the ongoing naval blockade against Iran.\n“A U.S. military ‌fighter ⁠jet struck the stern of Panama-flagged M/V Ocean Molica (also known as the “Arika Sun”) with a precision ‌munition, fully disabling the ship’s propulsion without harming ⁠the crew,” US Central Command posted on X.\nA man fuels a vehicle at a gas station in Alexandria, Virginia, on October 02, 2026. The U.S. national average for regular gasoline stood at about $4.40 per gallon on October 2, according to AAA, after September recorded its highest monthly average on record at $4.33 per gallon.\nIf the Strait of Hormuz is open, why are gas and diesel so expensive?\nThe US blockade has been highly effective, according to analysts. September was the first month that Iran loaded no crude onto tankers since maritime data tracking service Kpler began monitoring Iranian exports in 2013.\nLast week, Mohsen Rezaei, Secretary of Iran’s Supreme National Security Council, described the current economic situation as one of the most difficult periods the country has faced.\nTehran has insisted that if it can’t export its oil, its neighbors won’t be able to either. It believes it holds the initiative, given US shortages of air defense interceptors, and says its military posture has moved towards the offensive.\n“Both the Americans and other countries should know: As we have said before, in a region where we cannot sell oil, no one else will be able to sell oil either. And if our security is not guaranteed, no infrastructure will be safe,” Iran’s chief negotiator Mohammed Bagher Ghalibaf, said late in September.\nIt now seems intent on turning that threat into reality.",
-      "published": "2026-10-11T16:28:49+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Energy"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
-    },
-    {
-      "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYS1mVEMyeGlLeFFERnBiY1RaVkdkOTR1SFdLbVVLODNZUkpvQXFSSEd0Zy03d254UW9vSUZXQWI1dEVSeU5QWHh6RVhMdTZreWNwOUFQakluQ2E0enFBcWsxV2J1YW43OVRCZHRvMjR0TWxsMWNYR2w1QllDdEtUbUFVZHBzZw?oc=5",
-      "summary": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked&nbsp;&nbsp;MacRumors<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1FGR2Jka0hNUTZ0M01oOWdJbXRRZ1V6dlJjVG1qRV9xQ",
-      "content": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked\nSunday October 11, 2026 12:56 pm PDT by Joe Rossignol\nJust two days before Apple's \"Welcome home\" experience in New York, Bloomberg 's Mark Gurman has leaked several details about the new products set to be unveiled, including an all-new smart home hub, a HomePod mini 2, and a new Apple TV 4K.\nHere is an all-in-one summary of the details shared by Gurman:\nApple's home hub with a touch-enabled display will be named HomeView, seemingly confirming a trademark filing discovered by MacRumors .\nHomeView is equipped with an A18 chip, which has 8GB of RAM in iPhones.\nHomeView will be available in a tabletop version with a speaker base made of metal, as well as a wall-mounted version with a flat, square wall plate.\nThe tabletop HomeView will offer \"better sound quality\" than the HomePod mini.\nThe tabletop HomeView will be available in four finishes: Gray, Silver, Starlight, and Rose. The wall-mounted version will be limited to Gray and Silver.\nHomeView will be unveiled this Tuesday, October 13, but the device is apparently not launching until \"around mid-November.\"\nHomeView will have a selection of Apple apps, but no App Store for third-party apps.\nHomeView will be accompanied by an \"Apple Home Collection\" of accessories that brands such as LG and Schneider Electric developed in partnership with Apple. This will include a smart doorbell, deadbolt lock, thermostat, temperature sensor, indoor and outdoor security cameras, and a floodlight camera.\nLG's accessories for the HomeView will not ship \"until later this year at the earliest.\"\nThe new HomePod mini will be equipped with the Apple Watch Series 10's S10 chip, up from the S5 chip in the current model.\nThe new HomePod mini will be available in green, pink, blue, white, and midnight.\nThe new Apple TV 4K will be equipped with an A19 chip, which has 8GB of RAM.\nThe new Apple TV 4K may have built-in microphones for Siri AI.\nThe new Apple TV 4K may have an updated Siri Remote with a built-in speaker that makes it easier to find.\nThe new HomePod mini and Apple TV 4K models will be unveiled on October 13 and launch on Friday, October 30.\nBuyer's Guide: Apple TV (Don't Buy) , HomePod Mini (Don't Buy)\nRelated Forums: Apple TV and Home Theater , HomePod, HomeKit, CarPlay, Home & Auto Technology\nFriday September 25, 2026 8:16 am PDT by Joe Rossignol\nMacRumors contributor Aaron Perris has uncovered an image file from Apple for an unreleased Apple TV 4K, suggesting that a new model will finally be released soon. The image is specifically for an \"Apple TV 4K (4th generation)\" model.\nThe image reveals that the Apple TV will have the same external design as the current model, with all of its...\niCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries\nTuesday September 15, 2026 1:43 am PDT by Tim Hardwick\nApple today announced a new subscription initiative that turns paid iCloud+ subscriptions into a broader services bundle in more than 100 countries.\nIn select countries, Apple says every paid iCloud+ plan, including the cheapest 50GB tier, now includes Apple TV and Apple Arcade \"at no additional cost,\" while family sharing extends the storage, TV and Arcade access to up to five people....\niPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked\nFriday September 25, 2026 8:18 am PDT by Joe Rossignol\nThe next iPad mini, HomePod mini, and Apple TV 4K models have all leaked, just a few weeks before the devices are expected to be announced. Specifically, MacRumors contributor Aaron Perris discovered a few of Apple's official images of the devices, confirming their existence and some new features that are planned.\nThe most notable iPad mini details revealed in today's leak include an A20 Pro ...\n... AppleTV remotes have had microphones for eleven years.\nHow do you cover your mics up on your other devices lol\nA speaker for the remote, talk about over engineered? Just chuck in an AirTag, job done.\nYou want that built into the remote. How are you going to attach an AirTag to the remote anyway? How clumsy would that be, even if someone invented some kind of absurd case to hold both the remote and an AirTag.\nMaybe I'm in the minority but never lost or had to search for a remote.\nHow do you cover your mics up on your other devices lol",
-      "published": "2026-10-11T19:56:28+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 2,
-      "score": 11.8,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     }
