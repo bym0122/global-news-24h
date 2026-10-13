@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T04:15:40.386512+00:00",
+  "generated_at": "2026-10-13T06:19:31.559527+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-12T04:15:11.611539+00:00",
-  "window_end": "2026-10-13T04:20:11.611539+00:00",
+  "window_start": "2026-10-12T06:19:12.032353+00:00",
+  "window_end": "2026-10-13T06:24:12.032353+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -33,28 +33,23 @@
       ]
     },
     {
-      "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
-      "summary": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue&nbsp;&nbsp;AP News",
+      "title": "NATO commander Grynkewich warns Russia attack would be 'utterly futile' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXQyeFBaci1YTDB5ekFuaFRwTGtDcVZPTms2RmJwZDU5Q0ZFcmFJazF2d0t3U1I3cGp3ZlloMTEtMF9SbFBvYm9jcWlzc1RpNTRvcU5WXzFtVmhTTnlkX05NaThKcHczcDNRM2hqMDcwYXkzQ29CcUl0QjBsS0plZ2JiYjNTTDlNNHNZekRvN0ZRU1I2MFNHcGlTRWVWbG5yd0VGMmF0eWJzc2V6VmlEbQ?oc=5",
+      "summary": "NATO commander Grynkewich warns Russia attack would be 'utterly futile'&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-12T04:56:00+00:00",
-      "source": "AP World",
+      "published": "2026-10-12T11:40:04+00:00",
+      "source": "Reuters World",
       "sources": [
-        "AP World",
-        "BBC World",
-        "GN Geopolitics",
-        "GN Top",
-        "Guardian World",
-        "NPR World",
-        "Al Jazeera"
+        "Reuters World",
+        "GN Top"
       ],
-      "source_count": 7,
+      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
-      "score": 17.4,
+      "score": 16.8,
       "is_hypothetical": false,
-      "why_important": "被 7 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -62,7 +57,7 @@
       "title": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYUFTU0tPVG5NdnI3aUZhTVpGNUcycm5tNW5vamZ0R0FsMTNwWXJwRklqdWliYVNjVjdyTm1xYm1VVWN2Z0pzaGJfRC1OZUpySzltaVVpQlZPVll2cUJreEJ5V2tNenhtN3NDeUtMRFZpdUlFRXVXbDh1cGxFZnU4eUJHVU5CYTFvRE5uQnlpa05oRTlUWTRHMk85WjdnQTdjMjY0UG9qb18tbVQ2ZHlZTmRtV3hzMDNhTFFfeDF6bDjSAcYBQVVfeXFMTjZFalZPdmpIeEVZZ0cyUEJLMzZ2M0pDeUkwbnVaN01pOGc1b0ZFRUV2YnpEaVYzTDNWT1ExVW1oYVlhTkpZOVlWTUFYZWVaZkZ6UGI0TTA4VVF6Qk9SRmY5b2VQZWlRVUJsMUhSZ3hBOUJaMm1LQ1hXbFpGYTRYQno5ZW5WSnVjcFBLYk93MnZFT3hjWlNubkpJa29Wa3B4ZmdJZ3VQSFA3ZUhOUVR2V1N3RXhxLUU2LXNVRzRMdWNBS1VqU1ZR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYUFTU0tPVG5NdnI3aUZhTVpGNUcycm5tNW5vamZ0R0FsMTNwWXJwRklqdWliYVNjVjdyTm1xYm1VVWN2Z0pzaGJfRC1OZUpySzltaVVpQlZPVll2cUJreEJ5V2tNenhtN3NDeUtMRFZpdUlFRXVXbDh1cGxFZnU4eUJHVU5CYTFvRE5uQnlpa05oRTlUWTRHMk85WjdnQTdjMjY0UG9qb18tbVQ2ZHlZTmRtV3hzMDNhTFFfeDF6bDjSAcYBQVVfeXFMTjZFalZPdmpIeEVZZ0cyUEJLMzZ2M0pDeUkwbnVaN01pOGc1b0ZFRUV2YnpEaVYzTDNWT1ExVW1oYVlhTkpZOVlWTUFYZWVaZkZ6UGI0TTA4VVF6Qk9SRmY5b2VQZWlRVUJsMUhSZ3hBOUJaMm1LQ1hXbFpGYTRYQno5ZW5WSnVjcFBLYk",
-      "content": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nEurope Moves to Curb the Flood of Chinese Hybrid Cars\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nOil prices climbed to their highest levels in nearly two weeks on Monday morning as fresh attacks on Saudi Arabia and oil tankers near the Strait of Hormuz put Middle East supply risks back at the center of the market, outweighing President Donald Trump's announcements of additional Russian diesel supplies and a Russia-Ukraine energy ceasefire.\nWest Texas Intermediate was trading at $93.78 per barrel, up $1.93, or 2.10%, on Monday morning, while Brent crude rose $2.09, or 2.00%, to $106.80 per barrel, according to Oilprice.com data.\nThe renewed buying followed a weekend of attacks on Saudi Arabia, including a Houthi strike on Riyadh's international airport on Saturday that killed 13 people and wounded more than 300. Further attacks were reported Sunday, while two tankers were struck near Oman and in the Strait of Hormuz.\nThe tanker attacks threaten to interrupt the recovery in Gulf oil exports , which reached 81% of prewar levels in September. Crude and condensate shipments had recovered to 91%, but refined-product exports remained at just 60%.\nGoldman Sachs raised its December Brent forecast to $90 per barrel from $85, estimating that geopolitical risks are currently adding just over $20 per barrel to oil prices.\nThe price increase comes as OPEC has sharply reduced its expectations for global oil demand growth this year. OPEC Secretary General Haitham Al Ghais said Monday that the producer group now expects demand to grow by just 400,000 barrels per day in 2026, down from the 1.4 million bpd it forecast at the beginning of the year.\nOPEC expects much of the demand deferred during this year's disruptions to return in 2027. The group had already cut its 2026 growth estimate to 380,000 bpd in September, meaning Monday's 400,000-bpd figure is actually a slight increase from last month's forecast even though it represents a 1-million-bpd reduction from OPEC's outlook at the beginning of the year.\nThe International Energy Agency expects an even deeper demand hit this year, forecasting a 2.5-million-bpd decline in global consumption in 2026 followed by a 2.6-million-bpd rebound in 2027.\nAdditional Russian barrels could put some downward pressure on fuel prices. Trump said Friday that Russia would immediately supply more than 300,000 metric tons , or roughly 2.25 million barrels, of diesel to U.S. and global markets, with additional supplies to follow. Moscow has also partially lifted restrictions on diesel exports, allowing another 500,000 tons, or about 3.7 million barrels, onto the international market.\nTrump also announced Sunday that Russia and Ukraine had agreed to stop attacking each other's energy infrastructure. Ukrainian President Volodymyr Zelensky accused Russia of violating the agreement on Monday.\nIn the Gulf of Mexico, Shell , Chevron and BP were preparing to restore offshore production after Hurricane Isaias disrupted operations over the weekend.\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nSaudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge\nSaudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore\nStrait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise\nMacron Calls for Another Emergency Oil Release as Europe Loses Supply\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nEnergy Giants Are Betting Billions on a World of Longer Oil Routes\nOil Above $100 Pushes U.S. Fuel Prices to New Records\nOil Prices Slide as China Presses Iran to Rein In the Houthis\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nChina's Auto Exports Explode as Domestic Demand Craters\nIPO Market Stalls Four Months After SpaceX's $75 Billion Debut\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nOil prices climbed to their highest levels in nearly two weeks on Monday morning as fresh attacks on Saudi Arabia and oil tankers near the Strait of Hormuz put Middle East supply risks back at the center of the market, outweighing President Donald Trump's announcements of additional Russian diesel supplies and a Russia-Ukraine energy ceasefire.\nWest Texas Intermediate was trading at $93.78 per barrel, up $1.93, or 2.10%, on Monday morning, while Brent crude rose $2.09, or 2.00%, to $106.80 per barrel, according to Oilprice.com data.\nThe renewed buying followed a weekend of attacks on Saudi Arabia, including a Houthi strike on Riyadh's international airport on Saturday that killed 13 people and wounded more than 300. Further attacks were reported Sunday, while two tankers were struck near Oman and in the Strait of Hormuz.\nThe tanker attacks threaten to interrupt the recovery in Gulf oil exports , which reached 81% of prewar levels in September. Crude and condensate shipments had recovered to 91%, but refined-product exports remained at just 60%.\nGoldman Sachs raised its December Brent forecast to $90 per barrel from $85, estimating that geopolitical risks are currently adding just over $20 per barrel to oil prices.\nThe price increase comes as OPEC has sharply reduced its expectations for global oil demand growth this year. OPEC Secretary General Haitham Al Ghais said Monday that the producer group now expects demand to grow by just 400,000 barrels per day in 2026, down from the 1.4 million bpd it forecast at the beginning of the year.\nOPEC expects much of the demand deferred during this year's disruptions to return in 2027. The group had already cut its 2026 growth estimate to 380,000 bpd in September, meaning Monday's 400,000-bpd figure is actually a slight increase from last month's forecast even though it represents a 1-million-bpd reduction from OPEC's outlook at the beginning of the year.\nThe International Energy Agency expects an even deeper demand hit this year, forecasting a 2.5-million-bpd decline in global consumption in 2026 followed by a 2.6-million-bpd rebound in 2027.\nAdditional Russian barrels could put some downward pressure on fuel prices. Trump said Friday that Russia would immediately supply more than 300,000 metric tons , or roughly 2.25 million barrels, of diesel to U.S. and global markets, with additional supplies to follow. Moscow has also partially lifted restrictions on diesel exports, allowing another 500,000 tons, or about 3.7 million barrels, onto the international market.\nTrump also announced Sunday that Russia and Ukraine had agreed to stop attacking each other's energy infrastructure. Ukrainian President Volodymyr Zelensky accused Russia of violating the agreement on Monday.\nIn the Gulf of Mexico, Shell , Chevron and BP were preparing to restore offshore production after Hurricane Isaias disrupted operations over the weekend.\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nSaudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge\nSaudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore\nStrait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise\nMacron Calls for Another Emergency Oil Release as Europe Loses Supply\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nEnergy Giants Are Betting Billions on a World of Longer Oil Routes\nOil Above $100 Pushes U.S. Fuel Prices to New Records\nOil Prices Slide as China Presses Iran to Rein In the Houthis\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-12T13:35:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -108,6 +103,30 @@
       "assets": []
     },
     {
+      "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
+      "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-12T21:50:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "BBC World",
+        "GN Geopolitics",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 5,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.2,
+      "is_hypothetical": false,
+      "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Iran says it will reply to US response on Hormuz proposal once review over - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2U1d1RUamtzYmRiN0tHUHhlclVaNVNLYTN4V05LTF90R0xjRTVhNS14WW1qRlhSYlZ5RzJOM3RSSGtxMGpLUDNZc0MyWmNaU0l6SVdpZm1WT295MTFYRWRDSXFRbE0yZlpBQTRpUDlJbHVoTHJOQmRBSVBNakdKTmw1QnV1RHc5b0xzZ212SHQwZmhSZ3JUQmlvZ21IY19yMFVURk8xMUtQcUxfRTNpLUZjMkp2dmRDWVVxa1VyTQ?oc=5",
       "summary": "Iran says it will reply to US response on Hormuz proposal once review over&nbsp;&nbsp;Reuters",
@@ -130,51 +149,6 @@
         "原油",
         "能源股",
         "油运"
-      ]
-    },
-    {
-      "title": "NATO general sets out tough military response to any 'foolish' Russian attack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJaSDd1eGFCbTBiUDJRNmpVVUtJck1fR05QX0NEV0VEV0tnNS1YMnc5d00tTDktSzFHcU1IcXUxakR1NkJyTzZCUDVoM054NEFhMUhtUFlXenZseWF3M2dQSG95X19jYlJxSkRfb0hpTHJkcVd2TTZuX2RwSnF0LVNkR3NKLXV5cFdXUjRNLTY1ZTg1ZU9qWTZmNkdCZ3dtODIwOVNHNndXaUgwT1p5SkFaZHk?oc=5",
-      "summary": "NATO general sets out tough military response to any 'foolish' Russian attack&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T14:08:09+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Top",
-        "Al Jazeera"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 4,
-      "score": 16.0,
-      "is_hypothetical": false,
-      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Gold eases on firm dollar; spotlight on US inflation data - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-      "summary": "Gold eases on firm dollar; spotlight on US inflation data&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-13T02:23:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Fed"
-      ],
-      "source_count": 2,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 15.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：黄金 及相关产业链。",
-      "assets": [
-        "黄金"
       ]
     },
     {
@@ -205,6 +179,31 @@
       ]
     },
     {
+      "title": "Asian stocks dive on AI jitters ahead of US bank earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
+      "summary": "Asian stocks dive on AI jitters ahead of US bank earnings&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T01:41:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "Guardian World",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 15.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
       "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex - Consilium.europa.eu",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTF",
@@ -219,6 +218,50 @@
       "category_zh": "地缘政治",
       "stars": 3,
       "score": 15.3,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump says he is considering firing US ambassador to Greece - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWU5OdGppOWp6blA3UzZyT2tVenY4eExFelZFYVVHbkhQT0NGZkRnaG5GOFVpYzEwS3ZVWXViMW16VXZqRHNGM1hSeWpId2RMek5kR0ZiLTd6NUhFSDVvbE8tNk4xbHh0NXZkWGhteDBBa0xhN3JIbHhKZDJvN21BUFM3OUdubWp5eGtKWjlWandOT19oR1dzbFRrdXpFd0JsaGZKVGtvWFM?oc=5",
+      "summary": "Trump says he is considering firing US ambassador to Greece&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T21:24:08+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "BBC World",
+        "GN Top",
+        "CNBC Top"
+      ],
+      "source_count": 5,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 15.2,
+      "is_hypothetical": false,
+      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "content": "Image caption, Gen Syrskyi lost his job over the summer after a public disagreement with the defence minister\nUkraine has stabilised the front line and \"broken Russia&#x27;s ability to advance\" by killing so many of its men, Ukraine&#x27;s former commander-in-chief has said in an interview with the BBC.\nGen Oleksandr Syrskyi made the comments in an exclusive interview, his first since he was dramatically forced from his post in the summer.\nHe addressed his sacking, disagreeing with his critics who declared him too \"old school\" to command Ukraine&#x27;s new, technologically advanced forces.\nHe also pushed back against allegations made by soldiers who previously served under him, who told the BBC they were ordered to remain at their positions even when they were almost surrounded by Russians, leading to high losses.\nSyrskyi said that Moscow&#x27;s overall losses in the war were six times higher than Ukraine&#x27;s. \"If you count only dead, then it&#x27;s up to 11 times,\" he added.\nNeither Russia nor Ukraine officially release the numbers of their dead. Ukraine&#x27;s military says it inflicted record losses this year on Russian soldiers in September, although that cannot be verified.\nUK intelligence chiefs estimate Russia has lost around half a million men killed in Ukraine since launching its full-scale invasion in 2022. The US-based Center for Strategic and International Studies meanwhile believes , external Ukraine has lost up to 150,000 troops killed by June 2026.\nHe says this difference in death toll â as well as technological advances, and a strategy of attacking weak points in Russia&#x27;s lines while containing their advances in other parts â accounts for the current stalemate at the front.\nIn the first six months of 2026, Russia managed overall to seize 61 sq km, the general said. \"It&#x27;s an indication that the front line has been stabilised.\"\nThe Institute for Study of War (ISW) has also confirmed this trend. One of its recent reports , external says that in September 2026, Moscow lost more territory than it took.\nSyrskyi was appointed Ukraine&#x27;s commander-in-chief in 2024. He had previously won praise for defending Kyiv at the start of Russia&#x27;s full-scale invasion in 2022, and for leading the successful counteroffensive east of Kharkiv in the autumn of that year.\nBut President Volodymyr Zelensky fired Syrskyi this summer, amid a major disagreement with then-defence minister Mykhailo Fedorov.\nFedorov had said that instead of adapting to the realities of the changing war, the army under Syrskyi had blocked his initiatives.\nZelensky initially fired Fedorov, as tensions burst into the open between the two men. But mass street protests then forced the president to also fire Syrskyi, replacing him with Maj Gen Mykhailo Drapatyi, 43.\nSyrskyi told the BBC that he had \"disagreements\" with Fedorov because the latter \"didn&#x27;t take into consideration the interests of the army\" when procuring weapons and supplies.\nFedorov had created an \"imbalance\" in supplies, Syrskyi said. He had prioritised drones while overlooking key front-line kit such as unmanned ground vehicles, pick-up trucks and motorbikes. Even with drones, Syrskyi said, there were shortages as the army got only half of what they needed.\nFedorov was a popular young minister who was known for his digital and technological initiatives. Many contrasted him with Syrskyi, who critics thought was not fit to lead the new technological arms race with Russia.\nBut Syrskyi disagrees with such criticism. It was during his time the use of drones reached this new, unprecedented level, including deep strikes more than 2,000km (1,200 miles) behind enemy lines, he said. Ukraine was the first country to create the Unmanned Systems Forces as a separate branch of armed forces, under his command: now, he said, drones account for 80% of Russia&#x27;s losses.\nImage caption, Syrskyi pictured after his appointment as Ukraine&#x27;s commander-in-chief in early 2024\nUnder his military leadership, however, Ukrainian troops undertook chaotic withdrawals from the eastern cities of Avdiivka and Vuhledar, and from around Pokrovsk.\nSoldiers who spoke to the BBC in the past complained that they were ordered to remain at their positions at any costs. By the time they were told to pull back, it was often too late as they were almost surrounded by Russian troops.\nSyrskyi does not deny that such situations occur on the front line. But he told the BBC that Ukraine was fighting against a far more powerful army.\nIn 2025, the ratio of jets and bombs was 18 to one in Moscow&#x27;s favour, he said. In the same year, Russia had two-and-a-half times more artillery pieces and shells than Ukraine. And with four million militarily trained men who they can mobilise, Russian forces can create chances to push through, he argued.\nOne of Syrskyi&#x27;s most famous operations was an incursion into Russia&#x27;s Kursk region that started in August 2024. It ended with a dramatic retreat the following spring, which some soldiers described as \"catastrophic\". Syrskyi, however, insisted that the Kursk operation was \"a necessity\".\n\"In the summer 2024, Russian forces were pushing along all main directions on the front line with up to six times more troops than we had,\" he explained.\nThe Kursk incursion disrupted Russia&#x27;s offensive and forced Moscow to redirect troops, giving Ukraine a respite and a chance for its stretched brigades in the east and south to recover, Syrskyi said.\nHe also had strong words for European allies who doubt that Russia may have territorial ambitions beyond Ukraine. He advised European partners to start preparing for the war now and \"drop all illusions that [it] will not come\".\nHe also said he believed Ukraine&#x27;s war was going to become even more technological. There will be more robots, automated systems and artificial intelligence (AI). \"Even ordinary weapons now get an AI-based control system to enhance their capabilities,\" he said.\nSuch technologies can give a new life to conventional weapons like tanks. Both Russia and Ukraine were now racing to develop \"active systems of defence\" to protect armoured vehicles, Syrskyi said.\nBut he insisted that \"the human role will remain definitive [on the battlefield] because [people] will need to control those systems\".\nUkraine hit by blackouts after Russian strikes despite &#x27;energy ceasefire&#x27;\nWhat&#x27;s behind Trump&#x27;s energy ceasefire claim?\nRussian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "published": "2026-10-13T05:02:34+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.1,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
@@ -269,27 +312,98 @@
       "assets": []
     },
     {
-      "title": "Trump says he is considering firing US ambassador to Greece - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWU5OdGppOWp6blA3UzZyT2tVenY4eExFelZFYVVHbkhQT0NGZkRnaG5GOFVpYzEwS3ZVWXViMW16VXZqRHNGM1hSeWpId2RMek5kR0ZiLTd6NUhFSDVvbE8tNk4xbHh0NXZkWGhteDBBa0xhN3JIbHhKZDJvN21BUFM3OUdubWp5eGtKWjlWandOT19oR1dzbFRrdXpFd0JsaGZKVGtvWFM?oc=5",
-      "summary": "Trump says he is considering firing US ambassador to Greece&nbsp;&nbsp;Reuters",
+      "title": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5",
+      "summary": "Trump says he does not believe China and Russia are helping Iran 'at all'&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-12T21:24:08+00:00",
+      "published": "2026-10-13T03:53:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "AP World",
-        "BBC World",
-        "CNBC Top"
+        "GN Geopolitics"
       ],
-      "source_count": 4,
-      "category": "us",
-      "category_zh": "美国",
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 14.8,
       "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Gold ticks up as oil eases; spotlight on US inflation data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "summary": "Gold ticks up as oil eases; spotlight on US inflation data&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T02:23:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Fed"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 黄金 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "黄金"
+      ]
+    },
+    {
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "content": "Image caption, Employees of DTEK energy company in Ukraine work to restore power supply following a missile strike in July\nOn Sunday, US President Donald Trump announced that Russia and Ukraine had agreed a ceasefire on strikes on energy infrastructure \"effective immediately\". Ukraine&#x27;s Volodymyr Zelensky suggested it was \"news for me\", while Russia has not commented publicly.\nDonald Trump says an energy ceasefire has been agreed.\nKyiv asks: Has it? It is willing to sign up â if Russia does.\nRussian President Vladimir Putin&#x27;s spokesman Dmitry Peskov was asked whether such a ceasefire had been agreed during his daily conference call with journalists.\n\"As soon as we have anything to say about this, we will definitely inform you.\"\nPeskov may not have had much to say on the matter, but the pro-Kremlin media has.\nIt has dubbed President Trump&#x27;s announcement of an energy ceasefire \"a gift\" for Moscow.\n\"Of course we benefit,\" pro-government news outlet Moskovsky Komsomolets concluded.\n\"It means that all Russia has to do is not destroy Ukraine&#x27;s last remaining oil refinery.\n\"That has already been attacked several times. It&#x27;s barely functioning anyway.\n\"But Kyiv won&#x27;t be allowed to hit the multitude of refineries we have.\n\"In effect it&#x27;s a one-way deal that benefits us. That&#x27;s why no one here has officially rejected it.\"\nIn other words, Moscow believes Trump&#x27;s announcement ties Ukraine&#x27;s hands, not Russia&#x27;s.\nIn recent months, long-range Ukrainian drone strikes on Russian oil facilities have caused extensive damage, as well as fuel shortages across the country.\nShould such attacks continue, expect the Russians to claim that Kyiv is harming US economic interests â as well as the Republican Party&#x27;s chances in the midterm elections in November.\nRussian officials will argue that the strikes undermine the recent Trump-Putin fuel deal for the US to import Russian diesel .\nTrump has claimed the agreement will benefit US consumers, although there is widespread scepticism that the volumes involved will do much to lower fuel prices.\nImage source, SPUTNIK/KREMLIN POOL/EPA/Shutterstock\nImage caption, Vladimir Putin has shown little desire to stop the fighting\nStill, the Kremlin will be only too happy if Ukrainian drone strikes on oil facilities spark fury in the White House and curtail US support for Kyiv.\nMoscow would welcome Washington cutting off intelligence sharing to Ukraine and weapons sales to Europe that are destined for Kyiv.\nIt has already delighted to hear Trump declaring: \"I think it&#x27;s time for Ukraine to get a new president.\"\nUkrainian President Volodymyr Zelensky has called for a 60-day Russian ceasefire to allow for presidential elections in Ukraine.\n\"The Kremlin, the president, has said many times before, we don&#x27;t want a ceasefire, we want a lasting peace, and we&#x27;re willing to do whatever&#x27;s possible for that,\" Peskov said.\n\"Whatever&#x27;s possible\" does not include a 60-day ceasefire, or a 30-day ceasefire, or anything close to that.\nOn Monday, the Kremlin proposed a one-day cessation of hostilities for Ukraine to hold elections.\nThat will not be seen in Ukraine, or in the West, as a serious offer.\nPutin has shown little desire to halt the fighting.\nRecent statements, speeches and signals from Russia&#x27;s leader suggest that, with winter approaching, the Kremlin is counting on a continued campaign of Russian strikes to significantly increase the pressure on Ukraine.\nOn Monday, Russia&#x27;s Foreign Minister Sergei Lavrov said Ukraine does not deserve the \"respite\" a ceasefire would bring.\nThe Kremlin has claimed to seek \"lasting peace\" but right now it is continuing the fighting.\nOn Monday, Zelensky claimed that Russia had hit several energy targets across Ukraine during the night and into the morning.\n\"This window of opportunity should be used to knock Ukraine back to the Stone Age and force it to accept peace on Russia&#x27;s terms,\" the pro-government Moskovsky Komsomolets has written.\nThe Kremlin&#x27;s objective hasn&#x27;t changed: Ukraine&#x27;s capitulation.\nMoscow seems to believe that the diesel deal with Trump and the US president&#x27;s growing impatience with Zelensky will help Russia secure its goal.\nSix Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says\nZelensky backs Trump&#x27;s &#x27;energy ceasefire&#x27; but says Russia continues to hit power plants\nAnalysis: Trump&#x27;s shock Russia deal highlights mounting pressure to curb fuel prices",
+      "published": "2026-10-12T20:17:37+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "OPEC cuts 2026 global oil demand growth forecast - IranOilGas",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2kyaU1xVjlxQlc4Q1hwN0ZqSEVZN0tmNWJiMnBSZFltQl8wZjhqdEFCbzdQYmYxRGhXNVdRLUxDRG0tRlVpSFY0SGVzWWcyZUdsdzJPbjQ5ODJRVC0yNkpTYTNmd0R3akthWnhDTDB6ZVBzOWNpUk5fd0NaTmdJYXhqR1NURTNqX2pGbDhPeGVENTA3Y3JWTnp3Wm5tOGlFaUNtd3MyVDB4UGNm?oc=5",
+      "summary": "OPEC cuts 2026 global oil demand growth forecast&nbsp;&nbsp;IranOilGas",
+      "content": "",
+      "published": "2026-10-13T06:06:08+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 14.6,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
     },
     {
       "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
@@ -316,6 +430,29 @@
       ]
     },
     {
+      "title": "Dollar slips as oil prices sink, bond yields stabilise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2lxTVVOV3pTUEkySWJNak9DU3lNdXR5bmRWWmxicmY0UVlFTFl3SmlERjl4LVFmTG1pSFAteVRpU2lPaXFhTTNROFlTWUgtaVRFdlliT3VYSkc1Z3REVEctSEZkSV9Sc3dabEFDb0pIcmNXdDR0MDJJMXNtNy1IUUNKS1BVWnNYd0xfM24yUFJmMkRXNUlYTmFnV2g3Z0VJWEE5Zk5MZw?oc=5",
+      "summary": "Dollar slips as oil prices sink, bond yields stabilise&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T01:44:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Germany faces 'shadow war' that goes beyond Cold War threats, minister warns - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZlMVdVTDN3WFh4cmlSZmsxWjlUNmxCenc1bkZFRUc5a0xGQnQtTHcxVm41T2VBYXpYMjNrZklRV1ZDRlNuS0lOcVZwWjdXa01aTV9iaXVmbUtBQmg5Szh5NklJNm10THpOM1AtN0FaX0R0R2VtNm5iczRaNzBTNEtKbGVBWWZjTlNfRWpaX2kyaVVvVTF2WHI3T3JxSmtON0IwU3pabjFxeXdXX05RYTRuRVVqdl85Rmc?oc=5",
       "summary": "Germany faces 'shadow war' that goes beyond Cold War threats, minister warns&nbsp;&nbsp;Reuters",
@@ -334,6 +471,30 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
+      "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T02:05:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting - Reuters",
@@ -355,30 +516,6 @@
       "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Asian stocks dive on AI jitters ahead of US bank earnings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
-      "summary": "Asian stocks dive on AI jitters ahead of US bank earnings&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-13T01:41:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "CNBC Top"
-      ],
-      "source_count": 2,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
     },
     {
       "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine - The New York Times",
@@ -576,11 +713,34 @@
       ]
     },
     {
+      "title": "Natural Gas and Oil Forecast: WTI Eyes $94.34, Can Brent Break $107 and NG Reach $3.35? - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPemlHQlpqNkRSNUFxNy11a1YtaFc0ZnFQZ2o3SkVIdkthLXJHN2xGMF81QXo2cGI0R05nZnU2aFo4aXhxZDVyUURhZFRNZmxKQ0NqeW5HekRRYmVKVVdnMXNaUEZkdzNaTExiMGxFY2RoLXlPRXlsS0ZjdHFyYnJxbzlPZ1B5TjBkdVN6dDBWRmlsT1Y2N1l5VGNNN3A5Z3dXTU94ckVIOWpqeEtoejd3R3VfcTJicTdqVmM1bi01NVNlbmNxb193ZGJ0NjY?oc=5",
+      "summary": "Natural Gas and Oil Forecast: WTI Eyes $94.34, Can Brent Break $107 and NG Reach $3.35?&nbsp;&nbsp;FXEmpire",
+      "content": "Natural Gas and Oil Forecast: WTI Eyes $94.34, Can Brent Break $107 and NG Reach $3.35?\nOPEC cuts its 2026 global oil-demand growth forecast to 400,000 barrels per day, while additional Russian diesel supplies ease some supply concerns.\nWTI crude oil remains bullish above $92.14, with a breakout through $94.34 potentially exposing $96.06 and $97.95.\nBrent crude oil maintains its bullish structure above $102.30, with a break above $107.22 opening the door to $109.90 and $112.68 amid persistent Hormuz disruptions.\nNatural gas consolidates near $3.16, with a breakout above $3.24 targeting $3.35, while a drop below $3.11 could expose $3.02 and $2.92.\nUSOIL: Russian Diesel Relief Meets Softer Demand Outlook\nUS crude fundamentals are balancing as expectations of further Russian diesel exports offset worries about loss of Middle Eastern crude. The Trump administration recently eased some restrictions on Russian diesel, to enable Russia to export more diesel. But how much diesel is available is uncertain. Also, Ukrainian attacks on Russian refining infrastructure continue, and could impact the amount of Russian diesel available for export.\nDemand expectations also weakened. OPEC cut its 2026 global oil-demand growth forecast to 400,000 barrels a day from 1.4 million bpd, citing developments in the global economy and energy market.\nNext up Oil Price Forecast: WTI and Brent Ease as Russian Diesel Hopes Grow\nUKOil: Hormuz and Shipping Costs Keep Supply Risk Elevated\nBrent fundamentals remain dominated by Middle East logistics. Iran is still assessing Washington’s response to Tehran’s proposal to reopen the Strait of Hormuz. Until that assessment is completed, disruption to shipping through one of the world’s most important energy straits is possible.\nShipping costs have increased, with OPEC and non-OPEC ministers highlighting how freight and insurance costs on some energy routes have increased to more than one-third of the underlying commodity’s value, adding inflationary pressure and creating challenges in crude and product flows.\nNatural Gas: US Storage Improves, but Global LNG Remains Tight\nUS gas inventories provide a relatively comfortable domestic buffer. EIA data show working gas increased by 85 Bcf to 3,500 Bcf for the week ended October 2, and stocks are 2% above the five-year average.\nInternationally, the situation is much tighter. Damage and disruptions have removed approximately 17% of Qatar’s LNG export capacity, and September shipments recovered to only about one-fourth of pre-war levels. Meanwhile, European storage is expected to be only 75%-78% full going into November, creating more competition to capture US LNG cargoes.\nEvery new Natural Gas analysis as it publishes, today&#x27;s technical signal and key levels, live price — on one page.\nNatural Gas Technical Analysis: NG Consolidates Above $3.11 as $3.24 Caps the Recovery\nNG is trading near $3.16/MMBtu on the 2-hour chart and has rebounded from $3.11. What is of interest is NG’s current position above both moving averages, but note the shift into consolidation following the rejection near $3.24 and $3.30. The larger recovery is still in effect, but NG needs a breakout to bring back better momentum.\n$3.24 is the first resistance, and an intermediate target, with $3.35 and $3.44 being the next levels of resistance above that. Support is located at $3.11, $3.02, $2.92, and $2.82.\nMomentum has slowed, and the RSI is near the 50 neutral point. I am currently neutral with a slight bullish bias, but this could change depending on where NG trades. A clear break above $3.24 would bring a more bullish bias, and a close below $3.11 would be bearish and focus on a possible move down to $3.02.\nWTI Crude Oil Technical Analysis: USOIL Holds $92.14 as $94.34 Becomes the Next Upside Test\nWTI crude oil is trading at $92.64 on the 2-hour chart and is currently up from the $88.24 to $90.03 support region. Right now price is maintaining the bullish structure by trading above both moving averages and the rising trendline. In addition, price is holding above the $92.14 breakout level.\nI see $94.34 as the first upside target. This level opens up the next target at $96.06 and the final target at $97.95. On the other hand, the $92.14 support level is the first line of defense, with the $90.03 level, the $88.24 level, and the $86.84 level coming into play if sellers regain control.\nLooking at the RSI, it is currently near 50, which indicates that neither the bulls nor the bears are in control. However, I am bullish as long as price holds above $92.14 and the rising trendline. I see a break above $94.34 increasing the likelihood of a move to the $96.06 level and a move below the $90.03 level increasing the likelihood of a move to the $88.24 level.\nBrent Crude Oil Technical Analysis: UKOIL Holds Above $102.30 as $107.22 Comes Into Focus\nThe 2-hour chart for Brent crude shows a price of around $105.50. Price has maintained its more recent higher lows sequence.\nAlso notable is the fact that price is comfortably above both moving averages as well as the rising support trendline. The recent dip from the $107 area has not altered the bigger bullish scenario.\nThe first target I am watching is $107.22. A break above that level would expose $109.90 and then $112.68. Support is situated at $102.30, $99.62 and $96.87.\nRSI is above the 50 line. I am bullish while $102.30 and the rising trendline are holding. A close above $107.22 would be more bullish for the $109.90 area, and a close below $102.30 would be more bearish.\nNext up Silver Price Forecast – Silver Continues to Watch Rates\nArslan is a finance MBA and also holds an MPhil degree in behavioral finance. An expert in financial analysis and investor psychology, Arslan uses his academic background to bring valuable insights about market sentiment and whether instruments are likely to be overbought or oversold.\nOil Price Forecast: WTI and Brent Ease as Russian Diesel Hopes Grow\nSilver (XAG/USD) Price Forecast: Key Support Holds as Reversal Signal Nears\nNatural Gas Price Forecast: Key Support Holds as Bulls Eye $3.41\nCiena Corporation (CIEN) Price Forecast: Breakout Signals Broader Upside Potential\nZcash Price Prediction: NU7 Upgrade Could Help Push ZEC to $1,650\nGold and Silver Price Forecast: Key Breakout Levels to Watch Before September CPI Gold Price Analysis – Gold Fighting Rising Rates Still Gold (XAUUSD) & Silver Price Forecast: Can Gold Hold $4,175 as Silver Eyes $59.96?",
+      "published": "2026-10-13T05:29:47+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 13.8,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5",
       "summary": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy.&nbsp;&nbsp;The Motley Fool",
-      "content": "Microsoft ( MSFT +1.14% ) now has a third generation of its own artificial intelligence (AI) chip. The tech giant announced Maia 300 on Monday and said it will ramp up its Maia chips starting in 2027 to make them the main system running AI in its own products.\nThat might sound like trouble for Nvidia ( NVDA -1.29% ) . The AI chip leader gets around half its revenue from big cloud companies like Microsoft, a group it calls hyperscale customers.\nBut I don&#x27;t think the news matters much for Nvidia shares. The company&#x27;s quarterly revenue is over five times what it was right before Microsoft&#x27;s first Maia chip launched in late 2023. And Microsoft still buys Nvidia&#x27;s chips.\nIn the announcement, Microsoft said it will make Maia \"the primary inference system for Microsoft products and services.\" Inference means using an AI model once it&#x27;s been trained.\nMicrosoft also said it expects Maia 300 to generate 40% more tokens (units of AI output) per megawatt than top systems built around graphics processing units , the type of chip Nvidia sells. Still, that&#x27;s Microsoft&#x27;s own estimate for a chip that isn&#x27;t set to start production deployments until 2027.\nMeanwhile, CEO Satya Nadella said on Microsoft&#x27;s July earnings call that the company will be one of the first cloud providers to deploy Nvidia&#x27;s next-generation Vera Rubin systems. Management guided for capital expenditures of over $50 billion in the quarter that ended in September.\nThat would be up from $41 billion in Microsoft&#x27;s fiscal fourth quarter of 2026 (the period ended June 30, 2026), which was itself up from $24.2 billion a year before. Around two-thirds of that quarter&#x27;s spending went toward shorter-lived assets, mostly chips.\nThe first Maia chip launched in November 2023, and Maia 200 followed in January 2026. In the quarter ending right before the first one came out, Nvidia&#x27;s fiscal third quarter of 2024 (the period ended Oct. 29, 2023), revenue was $18.1 billion.\nShowing how little in-house chips have slowed Nvidia since then, the company took in $96.2 billion in the fiscal second quarter of 2027 (the period ended July 26, 2026). That was up 106% year over year -- faster than the 85% growth in fiscal Q1. Earnings per share jumped 128%. What&#x27;s more, hyperscale customers, the ones with the most reason to buy fewer Nvidia chips, more than doubled their spending to $48.7 billion.\nNvidia&#x27;s fiscal Q3 guidance of around $108 billion points to growth of about 89%. And for fiscal 2028, chief financial officer Colette Kress said on the August earnings call that the company expects revenue to rise about 70% -- a forecast she described as held back by supply. Fiscal 2028 includes most of 2027, the year Microsoft plans to start ramping Maia up.\nTrue, Amazon and Alphabet design their own AI chips, too. And Nvidia&#x27;s sales are concentrated, with one direct customer making up 16% of revenue in fiscal Q2. If its top buyers shifted most of their AI work to their own chips, Nvidia&#x27;s growth could slow quickly.\nBut Nvidia&#x27;s sales outside the hyperscale group are growing even faster. Revenue from its other data center customers (AI cloud providers, businesses, and governments) climbed 138% year over year to $40.3 billion. Hyperscale customers&#x27; share of data center revenue dropped from around 59% a year earlier to about 55%.\nOn Nvidia&#x27;s August earnings call, CEO Jensen Huang described many custom chips as \"inference-specific chips for one cloud or one service.\" He called Nvidia&#x27;s product \"an entire AI factory platform that spans the entire AI life cycle that you can use in any cloud.\"\nI&#x27;d say Maia matches his description. Microsoft built it to power Microsoft&#x27;s products.\n$5.5T Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary.\nIn the end, custom chips like Maia might take some work from Nvidia. But the stock arguably isn&#x27;t priced as if Nvidia will keep all of it.\nShares trade near $226 as of this writing, about 6% off the record close they set on Oct. 6. That price is about 14 times what analysts expect Nvidia to earn on average in fiscal 2028 (the 12 months through January 2028). For Microsoft&#x27;s fiscal 2028 (ending June 2028), the same number is about 23 times earnings .\nI think Nvidia&#x27;s price is cheap for a company still guiding for growth around 90%. It remains the chip stock I&#x27;d consider buying now.\n$10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030\n4 No-Brainer Chip Stocks to Own for the Next Decade\nNot Sandisk, Not Intel. This Stock Will Lead the S&P 500 Next Year\nThis Could Be the Biggest Risk for Artificial Intelligence (AI) Stocks That No One Wants to Talk About (Hint: It&#x27;s Not Rising Debt)\nDaniel Sparks is a contributing Motley Fool stock market analyst covering technology, industrials, financials, and consumer goods. Daniel is the owner and chief investment officer of Sparks Capital Management. He holds a master’s degree in business administration from Colorado State University. The Globe and Mail profiled him and his investing philosophy in an article titled, “This stock picker is outperforming nearly everybody else. Here’s how he is doing it.”\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-13T02:27:38+00:00",
+      "content": "Microsoft ( MSFT +1.14% ) now has a third generation of its own artificial intelligence (AI) chip. The tech giant announced Maia 300 on Monday and said it will ramp up its Maia chips starting in 2027 to make them the main system running AI in its own products.\nThat might sound like trouble for Nvidia ( NVDA -1.29% ) . The AI chip leader gets around half its revenue from big cloud companies like Microsoft, a group it calls hyperscale customers.\nBut I don&#x27;t think the news matters much for Nvidia shares. The company&#x27;s quarterly revenue is over five times what it was right before Microsoft&#x27;s first Maia chip launched in late 2023. And Microsoft still buys Nvidia&#x27;s chips.\nIn the announcement, Microsoft said it will make Maia \"the primary inference system for Microsoft products and services.\" Inference means using an AI model once it&#x27;s been trained.\nMicrosoft also said it expects Maia 300 to generate 40% more tokens (units of AI output) per megawatt than top systems built around graphics processing units , the type of chip Nvidia sells. Still, that&#x27;s Microsoft&#x27;s own estimate for a chip that isn&#x27;t set to start production deployments until 2027.\nMeanwhile, CEO Satya Nadella said on Microsoft&#x27;s July earnings call that the company will be one of the first cloud providers to deploy Nvidia&#x27;s next-generation Vera Rubin systems. Management guided for capital expenditures of over $50 billion in the quarter that ended in September.\nThat would be up from $41 billion in Microsoft&#x27;s fiscal fourth quarter of 2026 (the period ended June 30, 2026), which was itself up from $24.2 billion a year before. Around two-thirds of that quarter&#x27;s spending went toward shorter-lived assets, mostly chips.\nThe first Maia chip launched in November 2023, and Maia 200 followed in January 2026. In the quarter ending right before the first one came out, Nvidia&#x27;s fiscal third quarter of 2024 (the period ended Oct. 29, 2023), revenue was $18.1 billion.\nShowing how little in-house chips have slowed Nvidia since then, the company took in $96.2 billion in the fiscal second quarter of 2027 (the period ended July 26, 2026). That was up 106% year over year -- faster than the 85% growth in fiscal Q1. Earnings per share jumped 128%. What&#x27;s more, hyperscale customers, the ones with the most reason to buy fewer Nvidia chips, more than doubled their spending to $48.7 billion.\nNvidia&#x27;s fiscal Q3 guidance of around $108 billion points to growth of about 89%. And for fiscal 2028, chief financial officer Colette Kress said on the August earnings call that the company expects revenue to rise about 70% -- a forecast she described as held back by supply. Fiscal 2028 includes most of 2027, the year Microsoft plans to start ramping Maia up.\nTrue, Amazon and Alphabet design their own AI chips, too. And Nvidia&#x27;s sales are concentrated, with one direct customer making up 16% of revenue in fiscal Q2. If its top buyers shifted most of their AI work to their own chips, Nvidia&#x27;s growth could slow quickly.\nBut Nvidia&#x27;s sales outside the hyperscale group are growing even faster. Revenue from its other data center customers (AI cloud providers, businesses, and governments) climbed 138% year over year to $40.3 billion. Hyperscale customers&#x27; share of data center revenue dropped from around 59% a year earlier to about 55%.\nOn Nvidia&#x27;s August earnings call, CEO Jensen Huang described many custom chips as \"inference-specific chips for one cloud or one service.\" He called Nvidia&#x27;s product \"an entire AI factory platform that spans the entire AI life cycle that you can use in any cloud.\"\nI&#x27;d say Maia matches his description. Microsoft built it to power Microsoft&#x27;s products.\n$5.5T Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary.\nIn the end, custom chips like Maia might take some work from Nvidia. But the stock arguably isn&#x27;t priced as if Nvidia will keep all of it.\nShares trade near $226 as of this writing, about 6% off the record close they set on Oct. 6. That price is about 14 times what analysts expect Nvidia to earn on average in fiscal 2028 (the 12 months through January 2028). For Microsoft&#x27;s fiscal 2028 (ending June 2028), the same number is about 23 times earnings .\nI think Nvidia&#x27;s price is cheap for a company still guiding for growth around 90%. It remains the chip stock I&#x27;d consider buying now.\nBetter Artificial Intelligence Stock for 2026: Intel vs. NVIDIA\n$10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030\n4 No-Brainer Chip Stocks to Own for the Next Decade\nNot Sandisk, Not Intel. This Stock Will Lead the S&P 500 Next Year\nDaniel Sparks is a contributing Motley Fool stock market analyst covering technology, industrials, financials, and consumer goods. Daniel is the owner and chief investment officer of Sparks Capital Management. He holds a master’s degree in business administration from Colorado State University. The Globe and Mail profiled him and his investing philosophy in an article titled, “This stock picker is outperforming nearly everybody else. Here’s how he is doing it.”\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "published": "2026-10-13T02:43:00+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -592,6 +752,30 @@
       "score": 13.8,
       "is_hypothetical": false,
       "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Chip selloff extends as South Korean stock market sinks 6% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0N3bmNZdk5BZEFJY2JJU1FTSEFsXzRkMGlkaF9EMWVNSERqYTJVdm1fazRhS1kwMHN6QVdBMjBFMjJ4TGRIRE1sS0E0VVozMy13MkxKcG0tZDFtNzhUTFNvanM1TUlqUjFGS2JHQ1YxRjU2ZHljQXFkOWltaDRvUG5FS0RhSVo2djliMU1zZGZleVJVWUF5andaanpSWGczak5jd250MTZUNVhzUTJPUGNKN3Z3V2Jrb2hGOTJB?oc=5",
+      "summary": "Chip selloff extends as South Korean stock market sinks 6%&nbsp;&nbsp;Yahoo Finance",
+      "content": "Chip selloff extends as South Korean stock market sinks 6%\nShares of Micron ( MU ) and SK Hynix ( SKHY ) are poised to open lower on Tuesday, extending a global sell-off in memory-chip stocks as South Korea's benchmark KOSPI ( ^KS11 I) tanked 6%.\nIn South Korea, SK Hynix ( 000660.KS ) and Samsung Electronics ( 005930.KS ) each fell roughly 8%, extending their losing streaks to five sessions. The two chipmakers account for more than half of the South Korean stock market's total capitalization.\nThe sell-off was a continuation of market reaction after Chinese memory maker CXMT ( 688825.SS ) announced progress on a new memory-cell design engineered to pack more storage into less physical space.\nCXMT aims to introduce a new server memory product built on this architecture by the end of 2026.\nThe advance threatens to intensify competition for Samsung, SK Hynix, and US-based Micron, which together account for roughly 90% of the global DRAM market.\nThis price reflects trading activity during the overnight session on the Blue Ocean ATS, available 8 PM to 4 AM ET, Sunday through Thursday, when regular markets are closed.\nMicron, SK Hynix, and Samsung have been major beneficiaries of the AI trade over the past year amid surging demand for memory and storage chips driven by the global AI data center build-out. All three memory makers reached $1 trillion valuation over the summer.\nLast week, Samsung reported a preliminary record third quarter profit of $80 billion, but the forecast did little to lift the rest of the chip sector,\nMicron posted strong quarterly results in September . The stock is up roughly 240% year-to-date.\nInes Ferre is a senior business reporter for Yahoo Finance.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\nRead the latest financial and business news from Yahoo Finance",
+      "published": "2026-10-13T03:26:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
       "assets": [
         "科技股",
@@ -639,25 +823,28 @@
       "assets": []
     },
     {
-      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJak",
-      "content": "Share UK blames Iran for airbase plot, sanctions two Iranian nationals on social media\nUK PM says RAF base incidents &#x27;likely coordinated&#x27; by Iran\nThe United Kingdom’s prime minister, Andy Burnham, has said that a suspected plot against a Royal Air Force (RAF) base used by the United States in the town of Fairford was “almost certainly” directed by Iran’s Islamic Revolutionary Guard Corps (IRGC).\nThe allegation on Monday came as the UK announced sanctions on two Iranians over alleged “hostile activity”, raising the diplomatic stakes over the largely unexplained incident for which Tehran has denied any responsibility.\nlist of 4 items list 1 of 4 Two Latvian men arrested inside UK military base after breach\nlist 2 of 4 Mapping where US bombers are based globally\nlist 3 of 4 UK police arrest British national linked to RAF Fairford airbase incident\nlist 4 of 4 UK police charge Royal Navy member accused of working with foreign power\n“We will not tolerate these threats on our soil,” Burnham told parliament, promising that the government “will crack down on Iran’s use of criminal networks, using our full range of powers to target them and their funding streams”.\nHe added that the UK will “bring further sanctions to restrict the capacity of Iran and the IRGC to do us harm”.\nThe incident near the airbase in southern England occurred in the early hours of September 27, when five British men in their 20s were arrested on suspected “terrorism” and explosives offences.\nPolice said they found a supply of petrol in three vans linked to the suspects, but no explosives. The men were later released without charge on police bail “under stringent conditions”.\nTwo others were arrested later, including a British-Iranian national, but were later released. None of the men has been charged, and the source and nature of the threat at Fairford have remained shrouded in mystery.\nUK Foreign Secretary Ed Miliband said on Monday that the government was sanctioning two Iranians for their “role in facilitating or engaging in hostile activity on behalf of the Iranian regime”.\nOne is Ruhollah Bazghandi, the head of IRGC counterespionage operations, who the Foreign Office said is now subject to an asset freeze, a travel ban and a bar on serving as a company director.\nThe other is Shahram Ali Reza Tamarzadeh Jakki, whom British officials described as a facilitator for the Zindashti criminal network. The group is already under UK sanctions and has been accused of involvement in several plots against Iranian dissidents.\nMiliband said he had also summoned Iran’s ambassador.\n“We have repeatedly made clear to Iran, Britain will not tolerate threats on our soil,” he wrote on X.\nOn Monday, Iran’s ambassador to the UK, Ali Mousavi, met Stephen Doughty, the UK’s minister for the Middle East, and “categorically rejected” allegations of any Iranian role, urging “the British side to refrain from any unsubstantiated statements”.\nMousavi told UK authorities that Tehran is willing to cooperate with the investigation into the incident , according to Iran’s state news agency IRNA.\nLast month, the Iranian embassy in London said in a statement that Tehran “categorically rejects and strongly condemns” the “unfounded and malicious speculations” attempting to link the country to the arrests near Fairford.  It warned that such claims will “fuel Iranophobia propaganda”.\nRAF Fairford, about 160km (100 miles) west of London, is the preferred European base for US bombers and has served as a staging point for US aircraft in the war on Iran, which began on February 28.\nEarlier this month, the US moved its B-52 and B-1 bombers over concerns about a suspected Iranian plot to carry out a complex drone attack on the facility, according to US officials.\nSeparately on Monday, 29 countries, including the UK, the US, most European states, Canada, Australia and New Zealand, issued a joint statement denouncing “in the strongest terms Iran’s use of violent attacks”.\nThe statement said such attacks included “acts of lethal plotting, arson, sabotage, cyber-attacks, and other hybrid activities against us and our partners”.\n“Any attempt by Iran to threaten, silence, intimidate, harass, harm, or coerce people on our territories through proxies or any other means is unacceptable,” it read.",
-      "published": "2026-10-12T23:27:47+00:00",
-      "source": "GN Geopolitics",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjc5Sy1zc0U2MS1Vb0RqVmFBQXl6T1V3Mk1ESWtSMDV2eTBUY2RSVlI1MS1tdzBJZ2NfdExldHF5M0s0X3NvNW1TMzczM3F6OUJ4SE1TMmFFU3hpYUZlRlMyamJTcC1hVGw2SGNyWHZkQnFJZWlqVmZsenVuNkRYOGhLamNlLU5vbjVuTmdhMGJzOVRyZDhZc1gzUmZvQldJUFJfbFpGVWtfZ0R1?oc=5",
+      "summary": "Threat of AI share crash puts world financial stability at risk, says IMF&nbsp;&nbsp;The Guardian<a href=\"https://news.google.com/rss/articles/CB",
+      "content": "The IMF underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. Photograph: Aly Song/Reuters\nThe IMF underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. Photograph: Aly Song/Reuters\nThreat of AI share crash puts world financial stability at risk, says IMF\nHigh valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks\nIMF warns global economy ‘could soon test the limits of resilience’\nThe threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.\nIn its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.\n“The consequences of an AI correction could be global,” it warned. Aside from the US, Asian markets would be most exposed, and the UK and euro area potentially more insulated – though investors with US holdings would be hit.\nAthanasios Vamvakidis, the deputy director of the IMF’s monetary and capital department, launching the report, said “the exposure of the rest of the world to US assets, particularly AI, is the highest it has ever been. So this is supporting the global economy through wealth effects today; but if we get a market correction it could have broad implications.”\nAn AI crash was one of three “salient risks” to stability identified by the IMF, alongside rising government borrowing costs and the threat of a big cyber-attack.\nIt called this trio of factors “plausible near-term catalysts for a sharp tightening of financial conditions and market turmoil”.\nThe IMF’s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector.\n“Weaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures, and circular financing arrangements,” it said.\nSuch a reassessment would then “sharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers”.\nThe “magnificent seven” big tech stocks – Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla – account for more than 35% of the S&P 500 share index in the US, up from 12% a decade ago, and their total market capitalisation has increased by more than 50% in the past two years.\nYet the IMF warned of “growing evidence” that the successful rollout of AI “may not require investment on the massive scale being undertaken by ‘hyperscaler’ firms,” and that “potential economic gains may not be as large as expected”.\nThe hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle.\nThe IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash.\nIn particular, it identified soaring debts contracted by the companies themselves; hedge fund investment in the sector; and retail investors borrowing to speculate in AI stocks.\nIn the event of an AI-led market downturn “these growing sources of leverage heighten the potential for forced selling and surges in equity volatility”, it said.\nIt also pointed to the prevalence of “circular financing” deals , tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction.\nIt identified $300bn (£227bn) worth of transactions between hyperscalers and “weaker AI firms” in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments.",
+      "published": "2026-10-13T03:15:19+00:00",
+      "source": "GN Top",
       "sources": [
-        "GN Geopolitics",
-        "Al Jazeera"
+        "GN Top",
+        "Guardian World"
       ],
       "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
       "score": 13.7,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
@@ -673,6 +860,69 @@
       "source_count": 2,
       "category": "europe",
       "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTklfczl3dnRhVTF2Z21Gd1FON0VHeTdCeEN2SWJBeDlzNUJuT2llT1BsUjZDUHBXZzZEN1dlNGJCQ2pOV1VfUVEwRng1REFFVDY4MTg2Z2RUbnFBWUFkbzRBdkxTeGdpemRiM09DLU5WQ1BmV042dERQOFB4TERkcXVNaHpWRHdvSEhTcExYTS1lemxZcEdnUE5Wem5WbG8?oc=5",
+      "summary": "UK PM Burnham says Russia interfered in 2016 Brexit vote&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T12:28:30+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "content": "Shares in dating app company Bumble soared by almost 50% on Monday after a report that it is in advanced talks to be bought for around $1bn (Â£757m).\nTechnology holding company Ithaca could announce a deal to buy the Texas-based firm as early as this week, according to the Wall Street Journal.\nThe jump in Bumble&#x27;s shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021 .\nBumble is one of the world&#x27;s most downloaded dating apps, operating in a crowded market where growth has slowed. The BBC has contacted Bumble and Ithaca for comment.\nBumble was launched in 2014 by Whitney Wolfe Herd, who was also a co-founder of dating app giant Tinder.\nWolfe Herd built Bumble&#x27;s brand around a distinctive feature that only allowed women to initiate conversations with matches.\nIt recently abandoned that rule , prompting debate among users over whether the app had lost what set it apart from rivals.\n\"Today, our community is asking for more flexibility, less pressure, and more opportunities to create real, meaningful connections and that is what this new experience provides,\" Wolfe Herd said in August.\nDating apps like Bumble have come under pressure in recent years as some younger users have grown disillusioned with browsing for dates.\nBumble said in 2025 that it would cut almost a third of its workforce as the industry grappled with what Wolfe Herd described as an \"inflection point\" in online dating.\nInvestments in other dating companies have also soured as apps have struggled to convince users to pay for their services.\nMatch Group - which owns apps including Tinder, OkCupid and Hinge - has also seen its shares fall sharply from their peak in 2021.\nAccording a report by media watchdog Ofcom in 2025, adults in the UK were spending less time on dating apps compared to three years earlier.\nSome single people are instead turning to board game get-togethers , book clubs and other group activities in the hope of finding a partner.\nI&#x27;ve seen her name and photo - but we can&#x27;t talk before the date. Will it work out?\nWhat Love Island tells us about the changing face of dating",
+      "published": "2026-10-13T01:50:47+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ],
+      "source_count": 2,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Ukraine's Zelenskyy says it's \"increasingly evident that Russia is unwilling to accept an energy ceasefire\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGFKRjE3ZWZxd3BxZ00tSHdSUWZnbjZGX2pRRzF6a3d2Z1ZONEVOUlJWTXh3TElaQnRrVDdBdUUwZndCeDNLYmhDT0Jfay1JNGtCS3lWQVZ4WDUtRWZuemdQTW80dmo2OEkxYmotUzVha2FPdUhzZTU3MVNDOUNQNGN6dXpJVWdr?oc=5",
+      "summary": "Ukraine's Zelenskyy says it's \"increasingly evident that Russia is unwilling to accept an energy ceasefire\"&nbsp;&nbsp;CBS News",
+      "content": "Ukraine's President Volodymyr Zelenskyy said Monday that so far, \"there is no indication that Russia is complying\" with an energy ceasefire announced by President Trump the day before.\nJust hours after Mr. Trump's announcement, Zelenskyy said Russia struck a power plant in eastern Ukraine. By Monday afternoon, Russia had attacked six additional energy facilities across Ukraine.\n\"Ukraine is ready to guarantee the energy ceasefire, as announced by the American President, and Russia must take corresponding steps,\" Zelenskyy wrote on X . \"As of now, there is no indication that Russia is complying with the conditions outlined by the American President.\"\nAsked Monday about reports that Russia had violated the energy ceasefire, Mr. Trump said: \"I'm not sure about that, and we'll take a look. But all I know is that Zelenskyy and Putin have to get together and end that ridiculous war.\" He also said \"there's been violations on both sides.\"\nThe U.S. president later told reporters that he believes Russian President Vladimir Putin \"wants to make a deal more than Zelenskyy.\"\nOver the last year, Mr. Trump has made several attempts at brokering deals to halt strikes on energy infrastructure between Russia and Ukraine that failed to materialize or were quickly violated.\nIn January, Mr. Trump claimed that Putin agreed not to strike Ukrainian energy infrastructure for a week, but Russia attacked Kyiv's power and heating plants four days later. In September, Mr. Trump said both Putin and Zelenskyy had agreed to refrain from striking one another's energy infrastructure, but neither side halted attacks.\nZelenskyy told CBS News in an interview after the September proposal that Ukraine would be willing to agree to such a moratorium but doubted Russia would ever reciprocate.\nOne reason for the Kremlin's intransigence is that Russia's attacks on Ukrainian energy infrastructure have a relatively greater impact than Ukraine's. Ukrainian strikes primarily target Russian oil and gas infrastructure, attempting to cut into the energy revenues Russia uses to fund its war effort.\nThe attacks have brought Russian oil refining to a 20-year low and reduced diesel production by 30% in 2026, according to the International Energy Agency, but Russia's economy has shown little sign of collapse.\n\"For Russia, Ukraine's attacks are an inconvenience and an inflationary pressure,\" Alexander Kolyandr, director for Europe at Eurasia Group, told CBS News. \"It is definitely damaging Russia's economy, but it isn't putting it on the verge of collapse.\"\nRussia &mdash; with more drones and missiles and an economy 10 times the size of Ukraine's &mdash; is able to inflict more relative pain on both the country's economy and its civilians. Ukraine has already begun to experience power outages this fall as Russia hammers its power grid heading into winter.\n\"Because the Ukrainian economy is so much smaller than the Russian one, the relative effect is much higher,\" Kolyandr said. \"And the Russians by and large do not distinguish between civilian and military infrastructure. Their theory is that any kind of infrastructure is used or can be used for military purposes.\"\nLast winter, as Ukrainians faced frequent power and heating outages through one of the coldest winters in recent memory, Mr. Trump requested Putin stop striking Ukraine's energy infrastructure. This week, though, he has directed pressure toward Ukraine.\nUkraine's President Volodymyr Zelenskyy visits the site of a recent Russian drone strike in Kyiv on Oct. 4, 2026.\nThe pressure comes as Mr. Trump grapples with high global energy prices &mdash; a situation he has argued has more to do with the Russia-Ukraine war than the Iran war. Last week, Mr. Trump announced a deal to allow Russia to sell some diesel to the U.S. and global markets, a change of course after years of U.S. efforts to block Russia from financing its war effort by selling petroleum products abroad.\nA European official and a Ukrainian official told CBS News that the Trump administration has threatened to stop sharing intelligence and to halt the purchase of U.S.-made weapons by European allies for Ukraine via the PURL procurement system if Ukraine does not stop deep strikes against Russian energy infrastructure.\nThe Ukrainian official said that Ukraine's government is taking the threats very seriously as intelligence sharing allows Ukraine to know where and when Russia launches its ballistic missiles from, and the PURL program is the only way Ukraine can purchase its Patriot air defense missiles, already in short supply.\nThe Financial Times was first to report the American threats to pause intelligence and weapons shipments to Ukraine.\nCBS News has reached out to the White House for comment.\nZelenskyy said progress toward an energy ceasefire hinges on the White House's willingness to impose more pressure on Russia.\n\"A lot depends on America's position for de-escalation to actually succeed,\" he wrote on X. \"Pressure on Russia is needed.\"\nTrump says Ukraine needs new president, blames Zelenskyy for diesel prices",
+      "published": "2026-10-12T23:03:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
@@ -699,6 +949,53 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Tencent sells dollar, dim sum bonds amid AI spending spree - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9iMHEyQjRTZzhpMTV0RThtWmhoVTNvY2JfN1hNMTRZdmd6V1Y4NUtzLTNpa2JBRE9UQzktT0Z1VmFUdF9XYm1mV0NEYlhyVWI0RjR6WHY3OW13NGNMcGdfRGY5dEhzeFg0VFh3TDllNkNaemYzV0ZmM0JyV1lrQnpTYVB6OVEySnRiS2tqeUxCMHIzWkpmTzYtZ2xROEFBU3R4amg1S3hjaHNR?oc=5",
+      "summary": "Tencent sells dollar, dim sum bonds amid AI spending spree&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T01:17:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Fed's Hammack warns inflation is persistent, favors more restrictive policy - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRTg0RjF0SDRoWE96RFJfY0xSeGR4LTljR1NLZnZZUXUyUy1NY2lKRTduOHBpdlJCak50eVh3OVkydzZrNW5IZmhWeWdtbjJwWTRDZ1o5TF9vbzhyV095UnN3MXA2R2VMeGpZZmJjeTFpWS1sZC1HdTloQ2Z0M3JLYUFmSzFWWG5fdDZYb083WFhsYlA2MXZ1aU0xUWN1eEp6aWRvT1JPdkU2ZHMzZEViTk1NZWtPOVNlSGZCWnFIa1lGNGJjS1Zsc2E2RVYwUFJ1a2Fj?oc=5",
+      "summary": "Fed's Hammack warns inflation is persistent, favors more restrictive policy&nbsp;&nbsp;Yahoo Finance",
+      "content": "Fed's Hammack warns inflation is persistent, favors more restrictive policy\nCleveland Federal Reserve president Beth Hammack said Monday that inflation is broad-based and will take time to come back down, even with a boost in interest rates.\nHammack said she is looking toward more frequent, smaller rate adjustments to ensure an inflationary mindset doesn't take hold.\n\"I see inflation pressures as relatively broad-based rather than concentrated in one component,\" Hammack said, pointing to rising energy prices , tariffs , and AI. \"And it's not just the supply side. Demand-side pressures coming from the AI build-out are raising prices.\"\nHammack noted that while a one-time increase in tariffs could potentially be viewed as a one-time increase in price levels, multiple waves of tariff increases have resulted in a series of cost shocks.\nShe also noted how the AI build-out is raising prices on key computer, electronic, and high-tech components , which is raising costs for data centers, but also for projects that use similar components in aviation, electricity production, and construction.\nShe says when she talks with contacts across her district, she hears about additional cost pressures in health insurance, plastics, metals, grains, electricity, and other areas. Hammack noted price pressures are also showing up in core services inflation excluding housing, a category that shouldn't be especially exposed to tariffs or energy.\n\"Because of the breadth of inflationary pressures, my baseline forecast is that it will take some time for inflation to return to 2%, even with appropriate monetary policy,\" said Hammack.\nWhile a decline in energy prices would help move inflation in the right direction, she said the demand-side pressures are not \"self-correcting.\"\n\"They are likely to be more persistent and usually require a more restrictive policy to rein them in,\" said Hammack.\nHeadline inflation as measured by the Fed's preferred inflation gauge — the Personal Consumption Expenditures index — was 3.4% in August . Adjusting for volatile food and energy prices, it was 3%. Both are above year-earlier levels, when headline was 2.7% and core was 2.9%. Officials will get a fresh reading on inflation this week when the Consumer Price Index — a different inflation measure — is released.\nHammack warned that with each month inflation remains high, it raises the risk of an inflationary mindset becoming entrenched in the economy. She said she's beginning to see signs from business contacts that may be taking hold.\nHammack also laid out how she views interest rates should respond to changes in the economy, what is known in Fed parlance as her \"reaction function.\"\n\"The reaction function is accountability through transparency,\" she said. \"As a policymaker, I believe I have a responsibility to the public to explain why I make the decisions I make. Transparency has the benefit of allowing consumers, businesses, and financial markets to make better-informed decisions,\" she said.\nShe drew a sharp line between a reaction function and forward guidance.\n\"Treating the two as interchangeable can turn a well-meaning explanation of logic into the expectations of a promise,\" she said.\nJennifer Schonberger is a veteran financial journalist covering markets, the economy, and investing. At Yahoo Finance, she covers the Federal Reserve, Congress, the White House, the Treasury, the SEC, the economy, cryptocurrencies, and the intersection of Washington policy with finance. Follow her on X @Jenniferisms and on Instagram .\nClick here for the latest economic news and indicators to help inform your investing decisions\nRead the latest financial and business news from Yahoo Finance",
+      "published": "2026-10-12T18:58:35+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
       "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia - The New York Times",
@@ -747,7 +1044,7 @@
       "title": "Microsoft announces new AI chip Azure Maia 300 - upi",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5\" targ",
-      "content": "",
+      "content": "Oct. 12 (UPI) -- Microsoft is moving toward using its own computer chips with the announcement of its new Azure Maia 300 AI chip on Monday.\nThe new technology from Microsoft is part of its plan to ease its reliance on chips developed by Nvidia. Azure Maia 300 represents the launch of the company's third-generation of AI accelerator technology.\nMaia 300 builds on the architecture of Maia 200, which marked a new step in AI accelerators with the introduction of Software Defined Locally Accessed Dataflow Architecture.\n\"Maia 300 brings 2.5 times the memory bandwidth, 33% more capacity, and approximately 2 times the HBM bandwidth per watt compared with Maia 200,\" Microsoft said in its announcement.\nMicrosoft has relied on Nvidia's GPU technology, as have many industry leaders. Nvidia's GPU is used in data centers and AI model training for OpenAI and Anthropic as well.\nMicrosoft will begin production on Maia 300 units in 2027. The company intends to place 96 Maia 300 chips into each of its data center racks, about twice as much as the Maia 200 chips.\nMicrosoft is not yet completely abandoning Nvidia technology. In its announcement of its new line of Microsoft Surface laptops, its specs include Nvidia processing power. Microsoft also works with technology by AMD.\nAs of Monday, no third-party companies have tested the Maia 300.\nPresident Donald Trump hosts an event honoring Christopher Columbus in the East Room of the White House on Friday. The event highlighted the 13-foot reconstructed statue of Columbus installed outside the Eisenhower Executive Office Building in March after demonstrators in Baltimore threw into the harbor on July 4, 2020. Photo by Bonnie Cash/UPI | License Photo\nCelltrion's third-quarter operating profit surges nearly 70%\nFuel distributors urged to await guidance on Trump's diesel order\nJudge to rule on White House press access by Tuesday",
       "published": "2026-10-12T17:04:31+00:00",
       "source": "GN AI",
       "sources": [
@@ -859,6 +1156,26 @@
       ]
     },
     {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDQ4UkVZa3Y3cDhDclZibzUyS05CRVpZRnpuNzV0Umg0Q0ZmcjRDUC1lS0pTaW5uSDRkTVRnczVETkFqVUllMGpiTkVhZkxib1BqandXYjNwaHdKelpGTXNMTnN1UFBaelNfbW5vQkhVWXRNQlJITTBOdVRSNU9lNDI2ek44YjJRUkkyN2JCVnpPdw?oc=5",
+      "summary": "stock S and P 500 Index fund symbol is on wooden cubes in stack coins symbolizing that the S and P 500 Index is changing the trend, goes up instead of down. Business, S and P 500 concept. (Credit: Image via Shutterstock)\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nU.S. stock futures were mixed early Tuesday, with Nasdaq 100 and S&P 500 futur",
+      "content": "stock S and P 500 Index fund symbol is on wooden cubes in stack coins symbolizing that the S and P 500 Index is changing the trend, goes up instead of down. Business, S and P 500 concept. (Credit: Image via Shutterstock)\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nU.S. stock futures were mixed early Tuesday, with Nasdaq 100 and S&P 500 futures lower while Dow futures gained as Wall Street prepares for the official start of third-quarter bank earnings while navigating political controversies over proposed dividend payments and unconventional energy deals.\nAccording to the Oct. 13 contract on Polymarket, a Polygon (CRYPTO: POL) based prediction platform, the crowd is leaning bearish. The \"S&P 500 (SPX) Up or Down on October 13?\" contract currently reflects a 37% chance of a higher open.\nTraders are balancing weakness in semiconductor futures against a highly anticipated earnings slate and geopolitical maneuvers:\nMixed Index Futures: Equity futures show a divergence between tech and blue-chip benchmarks. Nasdaq 100 futures dropped 0.81%, and S&P 500 futures fell 0.23%. Conversely, Dow Jones futures rose 0.23% and Russell 2000 futures ticked up 0.12%.\nBig Bank Earnings: Third-quarter earnings season begins in earnest Tuesday. As shown in \"Earnings today 13.10.26.png\", the docket is headlined by JPMorgan Chase & Co. (NYSE: JPM, alongside Goldman Sachs Group Inc. (NYSE: GS) , Wells Fargo & Company (NYSE: WFC ), and Citigroup Inc. (NYSE: C ). Investors will also monitor results from healthcare giants UnitedHealth Group Inc. (NYSE: UNH ) and Johnson & Johnson (NYSE: JNJ ).\nGeopolitics & Oil: According to Reuters, President Donald Trump claimed he does not believe China and Russia are aiding Iran, despite ongoing Houthi strikes on Saudi Arabia's King Khalid International Airport. Meanwhile, Trump announced an \"energy ceasefire\" between Ukraine and Russia alongside a controversial agreement to purchase Russian diesel. Consequently, oil prices retreated, with Brent crude slipping 1.11% to $105.47 a barrel, and WTI crude dropping 1.18% to $92.63 a barrel.\nEconomic Data: Tuesday's docket features September's NFIB index of small business optimism at 6:00 a.m. ET, existing home sales at 10:00 a.m. ET, and the monthly Treasury balance at 2:00 p.m. ET.\nAccording to David Morrison , Senior Market Analyst at Trade Nation, while there is an 84% chance of another Fed rate hike before year-end, the broader market remains vulnerable to the tech sector's performance ahead of Wednesday's critical U.S. CPI update.\nPolitical noise is also adding friction to the fiscal outlook. Former Rep. Marjorie Taylor Greene criticized President Trump's proposed $5,000 citizen dividend payment as a \"socialist scheme,\" warning it would add $1.35 trillion to the national debt. With the debt already climbing past $40.3 trillion, investors are weighing the long-term impact of these fiscal promises on borrowing costs and Treasury yields.\nThe Oct. 12 Polymarket contract resolved \"Down.\" The contract recorded $56,604 in total trading volume.\nOn Monday, the SPDR S&P 500 ETF Trust (NYSE: SPY ) and Invesco QQQ Trust ETF (NASDAQ: QQQ ), which track the S&P 500 and Nasdaq-100, respectively, closed mixed. SPY fell 0.060% to $778.10, while QQQ declined 0.70% to $746.04. Meanwhile, the Dow tracker, State Street SPDR Dow Jones Industrial Average ETF Trust (NYSE: DIA ), ended 0.35% higher at $517.91.\nRead Also: S&P 500 Dominated by AI Stocks, Adding SpaceX Would Create History Last Seen in 1880s\nDisclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.\nThis article Stock Market: Will S&P 500 Open Up or Down Today? originally appeared on Benzinga.com\n© 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.",
+      "published": "2026-10-13T05:48:00+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Wall Street's big but narrow rally: 4 in 10 S&P stocks are down this year - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHVFd3RKVURlTy1UV2FEeGZZTmZKT0RmYkxtM0EyTjdLTzhidVdqdVdMV05LX1R5WlpQVGpGMncwTGpPM1Q3amQwVmFSR1k0SmI0aGRIMW5iR21WMFZSbV83dGczZ3hhWURhSWVHMF95cXFGMVRZTmp4dl9hVlZYTGFmLW1ueS0xN21la3FtcHBLdXUwQ0hBSVFEb0Z3TWRLcVNoVjNTMWJnMEtY?oc=5",
       "summary": "Wall Street's big but narrow rally: 4 in 10 S&amp;P stocks are down this year&nbsp;&nbsp;Reuters",
@@ -899,11 +1216,11 @@
       "assets": []
     },
     {
-      "title": "US Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT0NSUjB6Qnlkb2hLSEdYOGd2eHgzS2hObWlDVklEbE9oOFctUld5WWpmQ2FWRVhQbkhtcFNoWDJzTm80aUtydTkyVWtOZXU1UEdIczdic3Bha29JMWtYQW9qdmZmdlJMSEYwTzlSSnU4Ykp4cElhdXpWRG55RHVSREZNZTJYZ2NvN3N2LXdhWkp4cjZ1TzlPVWZmYm5zb0JVekEzTDhZTEY4bVNWTzFuR1B3LWJwZUQ1UmM2UTBfcHl5OUFpY2RpV1ltWDBOUVFJQXpfaXpBbDN1ajhBQ2N4bXhyVVk2b3RGbU9ncFZzT2xESDFZdlIwT0psNU9sdk5iczlGb19DdTFxUGViUmdj0gGUAkFVX3lxTE1zX0RCUWllNXJPOEZrRGwtQWdhc2ZObEdCVHk5TUF4cUdKNGd4Y0VESlZuYXN0T1lfaHVUZEZ0c3JOU3VIclR2aGhMZzNpQ3RGdE4tU2p6LVZVcHd4X1AxVGlLNGROVDN4UFM1SXNLQlVwZnlLcWFLYm4zVkNxTmdwU3ZfUW1OWmFqdXVORnY1REhiQkVlV0FCUzZVLUpmUUJOYWZtczNUbldCZ3hPU1lIWXVCUlVPWUQyUEJkRGg5UDhQZjBiNkphMEw4cjRCbC1TbTBEODFUQUlZY25Jd3FNWUNHVmRWM1pYV3U5Tm4xcTZ4MUdObGpzS21ibXVxRXpWcVFiX1JOY3VnZ2NfaWk2WnJ6Sw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOT0NSUjB6Qnlkb2hLSEdYOGd2eHgzS2hObWlDVklEbE9oOFctUld5WWpmQ2FWRVhQbkhtcFNoWDJzTm80aUtydTkyVWtOZXU1UEdIczdic3Bha29JMWtYQW9qdmZmdlJMSEYwTzlSSnU4Ykp4cElhdXpWRG55RHVSREZNZTJYZ2NvN3N2LXdhWkp4cjZ1TzlPVWZmYm5zb0JVekEzTDhZTEY4bVNWTzFuR1B3LWJwZUQ1UmM2UTBfcHl5OUFpY2RpV1ltWDBOUVFJQXpfaXpBbDN1ajhBQ2N4bXhyVVk2b3RGbU9ncFZzT2xESDFZdlIwT0psNU9sdk5iczlGb19DdTFxUGViUmdj0gGUAkFVX3lxTE1zX0RCUWllNXJPOEZrRGwtQWdhc2ZObEdCVHk5TUF4cUdKNGd4Y0VESlZuYXN0T1lfaHVUZE",
-      "content": "Business News &rsaquo; News &rsaquo; International &rsaquo; US News &rsaquo; US Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, stocks\nThe Economic Times daily newspaper is available online now.\nUS Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, stocks\nUS Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, stocks\n, Global Desk Last Updated: Oct 13, 2026, 05:31:00 AM IST\nUS Stock Market update: Micron Technology fell 3.9 per cent, Advanced Micro Devices dropped 2.3 per cent, Broadcom slid 1.9 per cent and Nvidia gave up 1.3 per cent.\nReuters Higher mortgage rates have been weighing on the housing market and Wall Street will get an update on home sales on Tuesday. (Reuters photo)\nUS Stock Market on Monday saw volatile sessions as S&P 500 fell 4.30 points, or 0.1 per cent, to 7,807.24, Nasdaq composite was down 120.27 points, or 0.4 per cent, to 27,245.90, Russell 2000 index of smaller companies slipped 12.50 points, or 0.4 per cent, to 2,794.48. Dow Jones Industrial Average rose 195.60 points, or 0.4 per cent, to 51,850.55.\nTraders were pricing in an almost 22 per cent chance the US Federal Reserve will hike interest rates this month, according to CME's FedWatch tool, up from 17.7 per cent on Friday.\nDeclining issues outnumbered advancers by a 1.09-to-1 ratio on the NYSE where there were 149 new highs and 272 new lows. On the Nasdaq, 1,888 stocks rose and 3,008 fell as declining issues outnumbered advancers by a 1.59-to-1 ratio.\nThe S&P 500 posted 10 new 52-week highs and five new lows while the Nasdaq Composite recorded 51 new highs and 318 new lows.\nTop and Worst Performing Sectors, Stocks at Wall Street\nMortgage rates for 30 years rise 3 year high due to long-term US Treasury yields. How does it impact homeowners' monthly principal, interest payments and what to expect in near future?\nWith oil prices rising, energy outperformed among the S&P 500's 11 major industry sectors with a 1.5 per cent advance. The defensive consumer staples sector rose more than 1 per cent along with the S&P 500 communication services index, which was boosted by a more than 3 per cent gain in heavyweight Meta .\nTechnology, down 0.9 per cent, and consumer discretionary , off 0.7 per cent, were the biggest sector laggards. Technology's weakness was most pronounced among chip stocks with the Philadelphia semiconductor index finishing down 2.7 per cent after hitting a three-week low.\nIn consumer discretionary, Chipotle Mexican Grill shares fell 3.8 per cent after Starbucks said it was not buying the burrito chain. Starbucks shares closed up 1.7 per cent.\nMicrosoft finished up 1.1 per cent with its market capitalization climbing above $4 trillion for the first time in a year after it announced plans for major deployment of its own AI chips.\nMicron Technology stock crash today: Why is MU share price at Nasdaq down on Monday?\nSalesforce shares added 2 per cent after BofA Global Research upgraded the stock to \"buy\" from \"underperform.\" Also eBay rose 2 per cent after Morgan Stanley added the stock to its top-pick list.\nShares in roughly 64 per cent of the companies in the S&P 500 rose, led by communication services stocks. Meta Platforms rose 3.4 per cent, T-Mobile added 2.2 per cent, AT&T gained 1.4 per cent and Verizon Communications rose 2.7 per cent.\nEnergy stocks had some of the biggest gains as oil prices kept rising. Chevron rose 1.4 per cent. Despite those gains, a slide in big technology stocks dragged the market into the red.\nMicron Technology fell 3.9 per cent, Advanced Micro Devices dropped 2.3 per cent, Broadcom slid 1.9 per cent and Nvidia gave up 1.3 per cent. They are among several companies in the sector with big stock values that tend to have a heavy influence on the market. They have also been the driving force behind the broader market’s record gains throughout the year.\nThose companies could face more scrutiny from investors during this round of corporate earnings as Wall Street tries to get a better sense of whether the stock gains made during the frenzy over artificial intelligence can translate into future growth. Stocks are reaching for records often because of the tech sector, but remain very volatile on a daily basis, partly because of big shifts in oil prices and their impact on bond yields and inflation.\nInflation and expectations for high interest rates have been driving Treasury yields higher in the bond market. The 10-year Treasury yield, which influences mortgage rates, recently touched its highest level since 2002. It has since eased a bit and stood at 5.24 per cent late on Friday. U.S. bond trading was closed Monday for the Columbus Day holiday.\nHigher mortgage rates have been weighing on the housing market and Wall Street will get an update on home sales on Tuesday.\nThe latest round of corporate earnings updates ramps up this week with financial results from banks. Citigroup, JPMorgan Chase and Wells Fargo will report their results on Tuesday and Bank of America will report its results on Wednesday. They have been reporting record profits throughout the year and Wall Street expects more of the same for the latest quarter.\n(You can now subscribe to our Economic Times WhatsApp channel )\nUS Stock Market S&P 500 Nasdaq composite US Federal Reserve interest rates energy sector gains\n(Catch all the US News , UK News , Canada News , International Breaking News Events, and Latest News Updates on The Economic Times.)\nDownload The Economic Times News App to get Daily International News Updates.\n(You can now subscribe to our Economic Times WhatsApp channel )\nUS Stock Market S&P 500 Nasdaq composite US Federal Reserve interest rates energy sector gains\n(Catch all the US News , UK News , Canada News , International Breaking News Events, and Latest News Updates on The Economic Times.)\nDownload The Economic Times News App to get Daily International News Updates.\nSass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?\nCanadian rock singer Sass Jordan, voice behind ‘Make You a Believer’ and ‘Tell Somebody,’ dies at 63\nHelicopter crash on Montreal’s South Shore leaves 4 dead; Transport Minister expresses condolences as probe begins\nNova Scotia teacher charged with sexually assaulting student at school as police identify more victims\nNova Scotia Crime: Teacher faces multiple serious charges, prohibited from public places after alleged assaults at Riverton school\nPsychology explains why people who dislike being interrupted may be protecting more than just their train of thought\nPowerball jackpot climbs to $313 million for September 21 drawing - Here's what Monday night's winner could take home\nQuote of the Day by Malala Yousafzai: ‘One child, one teacher, one book, one pen can…’ - How one person can spark global change with the simplest tools\nQuote of the Day by Thomas Mann: ‘Whoever loves the more is at a disadvantage and must suffer’ - Nobel-winning novelist on why the person who care more may have more to lose\nQuote of the Day by Anton Chekhov: ‘Every happy man should have someone with a little hammer at his door to knock and remind him that there are unhappy people, and…’\nGary Myers death: NASCAR legend dies at 76; sons mourn ‘hero’ who shaped four generations of racing\nQuote of the day by Rita Wilson: ‘Be fearless in trying new things, whether they are physical, mental…’ – Sleepless in Seattle actress on turning fear into growth\nManager keeps booking 4:45 PM Friday meetings despite team logging off at 5, employee calls it a ‘Friday ambush’ and asks if it’s a power move",
-      "published": "2026-10-13T00:01:02+00:00",
+      "title": "Oil rally pressures S&P, Nasdaq; Microsoft, Salesforce buoy Dow - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXNuOWtzdlRZbE1CdVdfQ29WZC1PU0szdktxWExDSF9RQS1PN2lQZnB3YVJKZjFKOERrMTFjbW5iZTlReGxtdTNNOFJOMU0tbUZRUUVNRjJ6dkcwMXJBOU5Ma25ERnllUmc2LVAyUnVDakFnVV8zUnhDRXVpN1p3QlRXd0VDUDlORFhrcDlpT0JzcmhlZWpn?oc=5",
+      "summary": "Oil rally pressures S&amp;P, Nasdaq; Microsoft, Salesforce buoy Dow&nbsp;&nbsp;Yahoo Finance",
+      "content": "Nasdaq falls ahead of earnings, economic data while oil rallies\nOct 12 (Reuters) - The technology-heavy Nasdaq composite closed lower on Monday as oil prices jumped nearly $2 a barrel after attacks on a Saudi airport, and investors waited for banks to kick off the third-quarter earnings season and for economic data this week.\nThe ‌S&P 500 ended the session barely lower while the Dow advanced.\nOil futures rallied after deadly strikes on Riyadh's international airport over the weekend. The attacks overshadowed ‌the prospect of increased supplies after US President Donald Trump hailed fresh Russian diesel exports and talked about a Russia-Ukraine ceasefire on energy targets.\nIn coming days, US investors will focus on corporate earnings, with major ​US banks including Goldman Sachs, Citigroup and JPMorgan Chase reporting early on Tuesday. Analysts were expecting S&P 500 earnings to surge 30.6% in the third quarter, according to LSEG IBES data.\nAlso due out this week are September readings for US consumer and producer inflation as well as retail sales data. While the US Treasury market was closed on Monday for Columbus Day, stock investors have been wary of bond yields' recent advance to 24-year highs as elevated energy prices have stoked inflation concerns.\n\"Looking out further in the week, we have some ‌big economic reports,\" said Tim Ghriskey, senior portfolio strategist ⁠at Ingalls & Snyder in New York. He said investors were also cautious due to a lack of direction from bonds.\n\"We're also waiting on earnings and that's significant. The four large banks reporting on Tuesday can have a big impact,\" he said.\nThe Dow Jones Industrial ⁠Average rose 195.60 points, or 0.38%, to 51,850.55, the S&P 500 lost 4.30 points, or 0.06%, to 7,807.24 and the Nasdaq Composite lost 120.27 points, or 0.44%, to 27,245.90.\nTrading volume was relatively light with 12.67 billion shares changing hands on US exchanges compared with the 20-day moving average of 17.62 billion.\n\"There's a lot to be wary of,\" said Robert Pavlik, senior ​portfolio ​manager at Dakota Wealth in Fairfield, Connecticut, pointing to upcoming data and earnings along with rising ​oil prices.\n\"You're walking down a train line and you don't know, ‌because it's dark, if a train is coming and so, you know, you're just being real careful,\" he said.\nWith oil prices rising, energy outperformed among the S&P 500's 11 major industry sectors with a 1.5% advance. The defensive consumer staples sector rose more than 1% along with the S&P 500 communication services index, which was boosted by a more than 3% gain in heavyweight Meta.\nTechnology, down 0.9%, and consumer discretionary, off 0.7%, were the biggest sector laggards. Technology's weakness was most pronounced among chip stocks with the Philadelphia semiconductor index finishing down 2.7% after hitting a three-week low.\nIn consumer discretionary, Chipotle Mexican Grill shares fell 3.8% after Starbucks said it was not buying the burrito ‌chain. Starbucks shares closed up 1.7%.\nMicrosoft finished up 1.1% with its market capitalization climbing above $4 ​trillion for the first time in a year after it announced plans for major deployment of its own ​AI chips.\nSalesforce shares added 2% after BofA Global Research upgraded the stock ​to \"buy\" from \"underperform.\" Also eBay rose 2% after Morgan Stanley added the stock to its top-pick list.\nMeanwhile, Cleveland Federal Reserve President Beth Hammack ‌said the US central bank should move \"relatively quickly\" to a more restrictive ​monetary policy stance to fight inflation, which ​she feels has become more broad-based and is starting to influence firms' price-setting plans.\nTraders were pricing in an almost 22% chance the US Federal Reserve will hike interest rates this month, according to CME's FedWatch tool, up from 17.7% on Friday.\nDeclining issues outnumbered advancers by a 1.09-to-1 ratio on the NYSE ​where there were 149 new highs and 272 new lows. ‌On the Nasdaq, 1,888 stocks rose and 3,008 fell as declining issues outnumbered advancers by a 1.59-to-1 ratio.\nThe S&P 500 posted 10 new 52-week ​highs and five new lows while the Nasdaq Composite recorded 51 new highs and 318 new lows.\n(Reporting by Sinéad Carew in New York, ​Ragini Mathur and Purvi Agarwal in Bengaluru; Editing by Pooja Desai and David Gregorio)",
+      "published": "2026-10-12T16:00:02+00:00",
       "source": "GN Markets",
       "sources": [
         "GN Markets"
@@ -915,14 +1232,17 @@
       "score": 13.3,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
     },
     {
       "title": "Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQajhyaW5NLWtOU2RxU2dLNmZBSWlXSG1wTFhxM2d3QWo3SWdWNmMxdHRwWG8tUkREa3VRSV8xNnMyN0ZueXllc1d0aU5VbTh3YVloQWJpWjdkZUxxR29fb3VWMXNQcmtZS2lZcW5mS0tQdkFyVWpILUtZMXRxMTNOZXNvVWFDMTJwTV9oLTJtNG95QVBUZGdHSVhVZjN2ZWtoZW9FVGIybFUzX20tWDF1bXFrQzlFc21iMnhOTi02bHZlbkM3ZXVIYTdtSVljNmpSSVFGWFhxczhlakJ2NmlRcFFsWjNKbVZ2QUNDX3FLTm9ONndUdFVZTA?oc=5",
       "summary": "Big Banks Kick Off Q3 Earnings With S&amp;P 500 Near Records — Strategists Flag What Could Mo",
-      "content": "Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nHome News Markets Equity Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nBig Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nAs banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.\nIn this photo illustration, a S&P 500 stock market index words are seen on a smartphone screen and a graphic in the background. (Photo Illustration by Pavlo Gonchar/SOPA Images/LightRocket via Getty Images)\nIn an interview with CNBC on Monday, Matt Stucky, Northwestern Mutual senior portfolio manager, said that he expects the quarter’s earnings to be a net positive.\nScott Chronert, head of U.S. equity strategy at Citi Research, said in the interview that the market will need both the AI trade and the macroeconomic backdrop to be positive to function effectively.\nAya Yoshioka, senior investment strategist at Wealth Enhancement Group, said that the earnings season would also be influenced by the cost of capital, not just from the AI trade, but also for the other “macro-sensitive companies” on the rest of the S&P 500.\nThird-quarter (Q3) earnings season is set to kick off this week, with big banks starting to report their results. After a strong second quarter, market strategists expect the momentum to continue, even if at a more subdued pace than the last quarter.\nIn an  interview with CNBC on Monday, Matt Stucky, Northwestern Mutual senior portfolio manager, said that he expects the quarter’s earnings to be a “net positive.”\n“I think it&#x27;s going to be positive. Maybe not quite as good as the second quarter (Q2), but the second quarter was one for the record books, at kind of low 30s earnings growth year over year,” Stucky said.\n“If the consensus is right, we&#x27;re likely to see something in the upper 20s, maybe a little bit better than that.”\nScott Chronert, head of U.S. equity strategy at Citi Research, said in the interview that the market will need both the AI trade and the macroeconomic backdrop to be positive to function effectively.\n“We need that AI-influenced component that we argue is just over half of the index, as well as the other half that&#x27;s going to beat to a more traditional macro drummer,” Chronert said.\n“And so there, what we need is a combination of some of this inflation, Fed hawkish concern coming out of the market, which we think can unfold, as the data suggests, over the next couple of weeks, combined with ongoing earnings tailwinds out of this AI-influenced component, which we think we&#x27;ll see as we go into the Q3 reporting period,” he added.\nChronert also said that the mega-cap growth AI component remains “in pretty good stead” and that the revenue growth from Q2 should persist into the Q3 results. “How much is priced in remains to be seen, but all told, I think we need this broadening trade to come back to get to my 8,100 target.”\nStucky, however, said that the main driver of markets here would likely be influenced by multiples rather than earnings.\n“And really, that&#x27;s a function of hawkishness from the Fed and where the 10-year rate goes,” he said, adding that inflation and oil influence that, which are currently uncertain.\nAya Yoshioka, senior investment strategist at Wealth Enhancement Group, said that the earnings season would also be influenced by the cost of capital, not just from the AI trade, but also for the other “macro-sensitive companies” on the rest of the S&P 500.\nWhile the S&P 500 has climbed nearly 14% year-to-date, and is currently celebrating a fourth bull market anniversary after having run about 120% since Oct. 12, 2022, according to a CNBC  report , the returns are largely driven by technology gains.\nEven as the benchmark index crossed 7,800 for the first time last week and continues to trade near records, about 40% of the index is concentrated in tech stocks.\nIn September, the typical S&P 500 stock  lost nearly 6% on average, with more than three in four stocks being a losing bet. However, the index was down only 0.4% for the month, propped up by technology gains.\nYoshioka acknowledged that concentration has been an issue for markets, both through the ‘Magnificent Seven’ and the AI trade, “especially as it continues to touch 50% of all companies in the S&P 500.”\nHowever, she noted that a correction risk depends upon capital spending announcements from hyperscalers as well as the overall supply chain for AI.\n“There&#x27;s been so much focus on that supply chain, or all the supply-chain beneficiaries so far. And I think we really want to see a continuation from last quarter, when the hyperscalers reported really strong cloud growth, and they were seeing really good returns on the investments that they&#x27;ve made,” she said.\n“We&#x27;d like to continue to see that. If we don&#x27;t get that, there could be some of a correction just to level-set where we&#x27;re going to go in 2027,” she added.\nHow Are Markets Performing Ahead Of Earnings Season?\nAmong ETFs tracking benchmark indexes, the  SPDR S&P 500 ETF (SPY) , which tracks the S&P 500, was down 0.06% overnight at the time of writing, amid ‘bullish’ sentiment.\nOne user  said , “$SPY Bank earnings will be stellar and will provide a nice pop in the first half of the session tomorrow but inflation cpi on Wednesday will be high, get rdy for some volatility. Diesel surcharges exploded across all forms of shipping in September pushing top line above expectations and I think we’ll see a surprise increase in shelter costs specifically rents that’ll push core beyond .2 expectations.”\nMeanwhile, the  Invesco QQQ Trust (QQQ) was also trending 0.42% lower amid ‘bullish’ sentiment, while the  SPDR Dow Jones Industrial Average ETF Trust (DIA) climbed 0.14% overnight, with sentiment in the ‘bullish’ territory.\nThe  iShares 20+ Year Treasury Bond ETF (TLT) was up 0.28% amid ‘bullish’ sentiment.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nGet the daily email that keeps you tuned in and makes markets fun again.\nRead about our editorial guidelines and ethics policy\nWhy Did PLTR, DT, DDOG Stocks Surge To 52-Week Highs Today? Shivani Kumaresan · 11m ago\nSPCX Stock Extends 2-Day Green Run As Elon Musk Calls SpaceX An &#x27;Anomaly In The Matrix&#x27; Amid China’s RAM Push Deepti Sri · 38m ago\nWhy Did RKT, OPEN, SMR Stocks Plunge To 52-Week Lows Today? Shivani Kumaresan · 57m ago\nAAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound Yuvraj Malik · 1h ago\nASST Stock Slips Overnight As $27 Warrant Deadline Nears — CEO Teases Strive’s Next Capital-Markets Move Aashika Suresh · 2h ago\nWhy Is FUN Stock Plunging Nearly 11% Overnight? Shivani Kumaresan · 2h ago",
+      "content": "Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nHome News Markets Equity Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nBig Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nAs banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.\nIn this photo illustration, a S&P 500 stock market index words are seen on a smartphone screen and a graphic in the background. (Photo Illustration by Pavlo Gonchar/SOPA Images/LightRocket via Getty Images)\nIn an interview with CNBC on Monday, Matt Stucky, Northwestern Mutual senior portfolio manager, said that he expects the quarter’s earnings to be a net positive.\nScott Chronert, head of U.S. equity strategy at Citi Research, said in the interview that the market will need both the AI trade and the macroeconomic backdrop to be positive to function effectively.\nAya Yoshioka, senior investment strategist at Wealth Enhancement Group, said that the earnings season would also be influenced by the cost of capital, not just from the AI trade, but also for the other “macro-sensitive companies” on the rest of the S&P 500.\nThird-quarter (Q3) earnings season is set to kick off this week, with big banks starting to report their results. After a strong second quarter, market strategists expect the momentum to continue, even if at a more subdued pace than the last quarter.\nIn an  interview with CNBC on Monday, Matt Stucky, Northwestern Mutual senior portfolio manager, said that he expects the quarter’s earnings to be a “net positive.”\n“I think it&#x27;s going to be positive. Maybe not quite as good as the second quarter (Q2), but the second quarter was one for the record books, at kind of low 30s earnings growth year over year,” Stucky said.\n“If the consensus is right, we&#x27;re likely to see something in the upper 20s, maybe a little bit better than that.”\nScott Chronert, head of U.S. equity strategy at Citi Research, said in the interview that the market will need both the AI trade and the macroeconomic backdrop to be positive to function effectively.\n“We need that AI-influenced component that we argue is just over half of the index, as well as the other half that&#x27;s going to beat to a more traditional macro drummer,” Chronert said.\n“And so there, what we need is a combination of some of this inflation, Fed hawkish concern coming out of the market, which we think can unfold, as the data suggests, over the next couple of weeks, combined with ongoing earnings tailwinds out of this AI-influenced component, which we think we&#x27;ll see as we go into the Q3 reporting period,” he added.\nChronert also said that the mega-cap growth AI component remains “in pretty good stead” and that the revenue growth from Q2 should persist into the Q3 results. “How much is priced in remains to be seen, but all told, I think we need this broadening trade to come back to get to my 8,100 target.”\nStucky, however, said that the main driver of markets here would likely be influenced by multiples rather than earnings.\n“And really, that&#x27;s a function of hawkishness from the Fed and where the 10-year rate goes,” he said, adding that inflation and oil influence that, which are currently uncertain.\nAya Yoshioka, senior investment strategist at Wealth Enhancement Group, said that the earnings season would also be influenced by the cost of capital, not just from the AI trade, but also for the other “macro-sensitive companies” on the rest of the S&P 500.\nWhile the S&P 500 has climbed nearly 14% year-to-date, and is currently celebrating a fourth bull market anniversary after having run about 120% since Oct. 12, 2022, according to a CNBC  report , the returns are largely driven by technology gains.\nEven as the benchmark index crossed 7,800 for the first time last week and continues to trade near records, about 40% of the index is concentrated in tech stocks.\nIn September, the typical S&P 500 stock  lost nearly 6% on average, with more than three in four stocks being a losing bet. However, the index was down only 0.4% for the month, propped up by technology gains.\nYoshioka acknowledged that concentration has been an issue for markets, both through the ‘Magnificent Seven’ and the AI trade, “especially as it continues to touch 50% of all companies in the S&P 500.”\nHowever, she noted that a correction risk depends upon capital spending announcements from hyperscalers as well as the overall supply chain for AI.\n“There&#x27;s been so much focus on that supply chain, or all the supply-chain beneficiaries so far. And I think we really want to see a continuation from last quarter, when the hyperscalers reported really strong cloud growth, and they were seeing really good returns on the investments that they&#x27;ve made,” she said.\n“We&#x27;d like to continue to see that. If we don&#x27;t get that, there could be some of a correction just to level-set where we&#x27;re going to go in 2027,” she added.\nHow Are Markets Performing Ahead Of Earnings Season?\nAmong ETFs tracking benchmark indexes, the  SPDR S&P 500 ETF (SPY) , which tracks the S&P 500, was down 0.06% overnight at the time of writing, amid ‘bullish’ sentiment.\nOne user  said , “$SPY Bank earnings will be stellar and will provide a nice pop in the first half of the session tomorrow but inflation cpi on Wednesday will be high, get rdy for some volatility. Diesel surcharges exploded across all forms of shipping in September pushing top line above expectations and I think we’ll see a surprise increase in shelter costs specifically rents that’ll push core beyond .2 expectations.”\nMeanwhile, the  Invesco QQQ Trust (QQQ) was also trending 0.42% lower amid ‘bullish’ sentiment, while the  SPDR Dow Jones Industrial Average ETF Trust (DIA) climbed 0.14% overnight, with sentiment in the ‘bullish’ territory.\nThe  iShares 20+ Year Treasury Bond ETF (TLT) was up 0.28% amid ‘bullish’ sentiment.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nThe best trade ideas and analysis from the Stocktwits community. Delivered daily by 8 pm ET.\nRead about our editorial guidelines and ethics policy\nAAPL Stock Ticks Higher: BofA Flags Shorter iPhone 18 Pro Wait Time As Duo Pre-Order Shipments Loom Yuvraj Malik · 4m ago\nUNH Stock Rises Overnight Ahead Of Earnings: Analyst Outlines ‘Short Premium’ Play To Cut January Call Cost By Nearly 60% Deepti Sri · 10m ago\nNOK, BB Stocks In Focus: Jim Cramer Expresses Confidence In Nokia, BlackBerry, But Retail Disagrees Shivani Kumaresan · 32m ago\nAfter Failed Shutterstock Merger And NYSE Delisting, Getty Plans Chapter 11 Bankruptcy Yuvraj Malik · 1h ago\nMichael Burry Flags ‘Bull Trap’ Risk, Holds Back On New Shorts — Why Trump’s Fannie-Freddie Call Matters To His Portfolio Deepti Sri · 2h ago\nMETA Stock Dips Overnight After Best Day In Two Weeks: Muse Traction Draws Jim Cramer’s ‘Monster Long’ Call, Dan Ives Sees An AI Edge Yuvraj Malik · 2h ago",
       "published": "2026-10-13T01:33:00+00:00",
       "source": "GN Markets",
       "sources": [
@@ -986,22 +1306,23 @@
       ]
     },
     {
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksThe threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.</p",
-      "content": "The IMF underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. Photograph: Aly Song/Reuters\nThe IMF underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. Photograph: Aly Song/Reuters\nThreat of AI share crash puts world financial stability at risk, says IMF\nHigh valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks\nThe threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.\nIn its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.\n“The consequences of an AI correction could be global,” it warned. Aside from the US, Asian markets would be most exposed, and the UK and euro area potentially more insulated – though their investors with exposure to the US would be hit.\nAn AI crash was one of three “salient risks” to stability identified by the IMF, alongside rising government borrowing costs and the threat of a big cyber-attack.\nIt called this trio of factors “plausible near-term catalysts for a sharp tightening of financial conditions and market turmoil”.\nThe IMF’s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector.\n“Weaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures, and circular financing arrangements,” it said.\nSuch a reassessment would then “sharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers”.\nThe “magnificent seven” big tech stocks – Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla – account for more than 35% of the S&P 500 share index in the US, up from 12% a decade ago, and their total market capitalisation has increased by more than 50% in the past two years.\nYet the IMF warned of “growing evidence” that the successful rollout of AI “may not require investment on the massive scale being undertaken by ‘hyperscaler’ firms,” and that “potential economic gains may not be as large as expected”.\nThe hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle.\nThe IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash.\nIn particular, it identified soaring debts contracted by the companies themselves; hedge fund investment in the sector; and retail investors borrowing to speculate in AI stocks.\nIn the event of an AI-led market downturn “these growing sources of leverage heighten the potential for forced selling and surges in equity volatility”, it said.\nIt also pointed to the prevalence of “circular financing” deals , tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction.\nIt identified $300bn (£227bn) worth of transactions between hyperscalers and “weaker AI firms” in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments.",
-      "published": "2026-10-13T03:15:12+00:00",
-      "source": "Guardian World",
+      "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+      "summary": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T20:22:23+00:00",
+      "source": "GN AI",
       "sources": [
-        "Guardian World"
+        "GN AI",
+        "GN Top"
       ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
       "score": 13.3,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
       "assets": [
         "科技股",
@@ -1030,307 +1351,6 @@
         "美债",
         "美元",
         "美股"
-      ]
-    },
-    {
-      "title": "Saudi warning system stayed silent before deadly airport attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGUtWGlRWGVfTVVCaFlXbDQ3UTA4bmlUN2QxdV9yT19EOUZGTkhKNW5xR2hQcDJmaE1pX1F1Tmg4TEZ6VTMxcWl5QzdHdVdZa2U1ZDF5Vm5ONGhhNDFPd00xLXZKNXVSaXJGYTB2QVV6dkJ6WmtBS29uMTNyNko5dlptaEdjWngxR2gxa3FfNTc4bzdmaElUOHVzZTVfN0oxeXhwdExKLWxycEpBRGNna0QzM2N5NGRfaVE?oc=5",
-      "summary": "Saudi warning system stayed silent before deadly airport attacks&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T23:39:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
-      "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF says&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-13T02:05:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
-      "link": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
-      "summary": "PM hails next month’s ‘reset’ summit as first step to closer ties, but tensions over trade may prove problematicAndy Burnham has promised a “serious dialogue” over the UK’s future place in Europe, saying the existing relationship is “not good enough” as he framed next month’s Brussels summit as a possible first step to EU membership.The prime minister said Britain must take a “clear-eyed rational look” at its long-term relationship with the bloc to boost economic growth and cont",
-      "content": "Andy Burnham gives an update in the House of Commons on Monday. Photograph: House of Commons/PA\nAndy Burnham gives an update in the House of Commons on Monday. Photograph: House of Commons/PA\nAndy Burnham promises ‘serious dialogue’ over UK’s relationship with EU\nPM hails next month’s ‘reset’ summit as first step to closer ties, but tensions over trade may prove problematic\nAndy Burnham has promised a “serious dialogue” over the UK’s future place in Europe, saying the existing relationship is “not good enough” as he framed next month’s Brussels summit as a possible first step to EU membership.\nThe prime minister said Britain must take a “clear-eyed rational look” at its long-term relationship with the bloc to boost economic growth and control immigration, which needed to go beyond Labour’s existing red lines.\nThe next “reset” summit will take place on 20 November, ending months of uncertainty, with the two sides seeking to sign deals on food and drink, youth mobility and emissions trading, which Burnham hopes could provide a £10bn-a-year boost to the economy.\nOne EU diplomat said a deal on the three “significant but modest” issues needed to be approved as a test of the UK’s good faith so both sides could get on with the “real reset” in the longer-term relationship.\nBut the UK remains braced for a possible row over protectionist “Made in Europe” trade rules amid industry fears they could lock out UK manufacturers, prompting the prime minister to pledge he would raise concerns with his EU counterparts.\nBurnham was also forced to clarify that he did not think Russian interference in the 2016 Brexit campaign had affected the final result, after he raised questions about the legitimacy of the outcome in comments at the weekend.\nKemi Badenoch accused Burnham of being too loose with his language over remarks he made about Kremlin interference in Brexit. Photograph: House of Commons/PA In a statement to MPs, the first since the party conference recess, an otherwise confident-sounding Burnham said it would be a “major dereliction of duty” for his government to turn away from exploring closer relations with the EU.\n“We should not turn our backs on this opportunity and I hope all sides of this house will get behind the government’s efforts to land a positive outcome,” he said.\n“I believe our chances of doing so will be enhanced by being open to a discussion about our relationship with the EU in the longer term. If we are serious about promoting growth, controlling immigration, upholding our values and security, it is a conversation we must have.\n“Sticking with the status quo is not good enough for Britain. Worse, it would be a major dereliction of duty to turn away. We need to take a calm, clear-eyed, rational look at the world as it is today to consider what is best for our country.\n“Our immediate priority is securing a successful outcome at the summit, and I believe we should then set up a serious dialogue about the different options for our relationship in the long term.”\nNigel Farage speaks to reporters outside the Houses of Parliament in the days after the UK voted to leave the EU. Photograph: Matt Dunham/AP Burnham denied he was reopening the Brexit debate, insisting he respected the referendum result, but added that he wanted to take a “pragmatic approach” to boost economic growth and improve cooperation on migration.\nHe was forced on to the back foot over his remarks on a podcast on Sunday that Russia had interfered over Brexit, rejecting suggestions from Kemi Badenoch, the Conservative leader, that he may have been loose with his language.\n“It is a matter of record that Russian actors sought to interfere in the 2019 general election, and we think it is inconceivable that this was the first time,” he said.\nBurnham had said on Sunday it was clear that Russia had interfered in the 2016 Brexit referendum after he sought answers when he arrived in No 10. He did not disclose who gave him the assessment, what evidence it was based on or, crucially, whether any interference had affected the result.\nBurnham said he wanted to improve cooperation with the EU on migration. Photograph: Guy Corbishley/Alamy Downing Street said the prime minister “absolutely” accepted the Brexit referendum result and believed it to be legitimate, while the foreign minister, Stephen Doughty, said it was clear Russia had attempted to interfere but had failed.\nIn his statement, Burnham told MPs they were right to raise the question of the “loss of immigration control” that came with Brexit, as Labour grapples with continuing public concern over the issue, and suggested Brussels recognised this.\nThe UK is excluded from Eurodac, a database that holds biometric and ID data to identify asylum seekers and irregular migrants, and exited the Dublin regulation, a legal mechanism to return refugees to the European country through which they had first entered or transited.\nBut while the prime minister told MPs a return to free movement was “not on the table” in his discussions with the EU, and said he would honour Keir Starmer’s manifesto red lines, he was unable to rule it out for a post-election future.\nSources on both sides believe they will be able to get other issues over the line at the summit next month, suggesting that a food and phytosanitary agreement would have been reached in July if the summit had gone ahead on its original date.\nBarley fields in Flamborough, East Yorkshire. Photograph: Rebecca Cole/The Guardian Issues still to be resolved include a transition period for grains grown in the UK using recently approved fungicides not yet licensed in the EU. This would allow farmers harvesting this year to sell stockpiles next year even with the different regulations.\nThe thorniest issue remains the youth mobility programme, allowing EU and British citizens under 30 to live, work or study in each other’s countries for up to three years. The two sides are at odds over the overall numbers, as well as the tuition fees students would pay at British universities.\nThe biggest current risk to the UK of not aligning more fully with the EU is being locked out of the new Made in Europe initiative – aimed primarily at imports from China in strategic sectors such as renewable energy, nuclear and electric cars – which will block British-made components being used in EU supply chains.\nEU sources have insisted there can be no agreement on the issue with the UK at the summit, because the bloc is yet to agree its own position on the proposals. EU lawmakers hope to agree a position on a key proposal, the Industrial Accelerator Act, in December.\nAn assembly line at the Volkswagen Sachsen GmbH plant, Europe’s largest and first all-electric vehicle manufacturing facility, in Zwickau, Germany. Photograph: Bloomberg/Getty Images But Brussels is, at least, open to discussing the issue, and it may be part of the summit statement – a joint text agreed by both sides. The UK has the support of the Netherlands, Poland and Italy for inclusion in the scheme, but France in particular has posed a stumbling block.\nBurnham acknowledged that Made in Europe presented “risks” to British manufacturing, perhaps in an attempt to address some concerns inside government that Downing Street hasn’t been prioritising the issue.\nHe said: “It is important that we get to an arrangement here that works for both the UK and the EU. After all, we’re both trying to deal with the same issue, which is Chinese exports and the damaging effect that is having on our industry.”",
-      "published": "2026-10-12T19:15:11+00:00",
-      "source": "Guardian World",
-      "sources": [
-        "Guardian World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Stellantis and Renault back UK to get EU car industry protection",
-      "link": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
-      "summary": "Bosses of Citroën owner and French carmaker also urge UK government to consider limiting imports from ChinaStellantis and Renault have backed the UK car industry for inclusion in proposed rules to protect EU industry, but urged the British government to consider limiting imports of Chinese cars.Emanuele Cappellano, who leads Stellantis’s European brands including Fiat, Citroën, Opel and Vauxhall, and François Provost, the chief executive of France’s Renault, said the UK should e",
-      "content": "Actor Omar Sy (second from right) and Stellantis’s Emanuele Cappellano (second from left) with other Stellantis executives and the Citroën 2CV electric concept car at the Paris motor show. Photograph: Benoît Tessier/Reuters\nActor Omar Sy (second from right) and Stellantis’s Emanuele Cappellano (second from left) with other Stellantis executives and the Citroën 2CV electric concept car at the Paris motor show. Photograph: Benoît Tessier/Reuters\nStellantis and Renault back UK to get EU car industry protection\nBosses of Citroën owner and French carmaker also urge UK government to consider limiting imports from China\nStellantis and Renault have backed the UK car industry for inclusion in proposed rules to protect EU industry, but urged the British government to consider limiting imports of Chinese cars.\nEmanuele Cappellano, who leads Stellantis’s European brands including Fiat, Citroën, Opel and Vauxhall, and François Provost, the chief executive of France’s Renault, said the UK should effectively be counted as one of the EU’s 27 member states for the purposes of the proposed “Made in Europe” legislation .\nThe new rules aim to ensure EU subsidies and government procurement benefits Europe’s industry, rather than helping manufacturers from other countries.\nEU to limit Chinese hybrid vehicle imports to 350,000 a year\nThe executives were speaking at the Paris motor show, which was attended on Monday by the French president, Emmanuel Macron. Brands including Li Auto, GAC and Chery were among a host of Chinese manufacturers exhibiting in Paris with ambitious European expansion plans.\nEurope’s car industry is under enormous pressure as it copes with lower demand than before the coronavirus pandemic, while also investing tens of billions of euros in shifting production to electric vehicles (EVs). At the same time, Chinese carmakers’ market share has soared as the transition to EVs opens the door to new entrants.\nThe EU confirmed on Monday it would limit the number of hybrid electric vehicles imported from China to 350,000 cars a year. The EU expects that the quota, which will come into force in December, will halve China’s market share, which now stands at 6% in a landmark four-year agreement made in Beijing last week.\nThe Made in Europe rules are another plank of the EU’s response to the rise of China in key manufacturing industries such as carmaking and chemicals.\nUnder the proposed Industrial Accelerator Act (IAA), cars will have to be “made in Europe”, and contain enough European parts and materials, to continue to qualify for EV grants and to be bought by public bodies in the EU. However, automotive manufacturers and politicians are haggling over the details.\nIf Brussels sticks to a strict definition of “European” as being only EU countries, Britain risks being left out – prompting intense lobbying from UK car industry and government to be included.\nStellantis is among the manufacturers that still has a British factory, its facility in Ellesmere Port, Merseyside, which produces small vans.\n“I think that UK somehow needs to be equalised to the EU 27,” said Cappellano, referring to the bloc’s 27 member states. “We have a lot of relationship, we have footprint. Historically UK has been very close to the European market.”\nEurope’s main automotive lobby groups ACEA and Clepa have also put their weight behind the UK to be included. Some parts of European manufacturing, including France’s industry minister , had argued that the UK should be left out given Brexit.\nProvost said there was “no other choice” but a deal between the UK and EU. However, he said the UK would also have to stop allowing Chinese cars in without limits.\n“On your side, you have also to take decisions,” he said. “If the UK is willing to join the European ecosystem, this is to have an industrial ambition … to keep a strong automotive industry.”\nHe said this would be an industry that “is not closed to Chinese competitors, but … if you want to operate in Europe, you have to deeply invest in the whole value chain, final manufacturing, suppliers, R&D, technologies.”\nProvost added: “I’m not here to demand whatsoever, but I think if UK is willing to join this ecosystem of IAA, there is some open question about the level of imports.”\nLondon has so far rejected pressure to impose its own tariffs on Chinese imports, but the UK business secretary, Jonathan Reynolds, this month said that decision was under review .\nCappellano also said the UK should consider imposing tariffs on Chinese imports. “It’s very important that the UK defines what is the priority,” he said. “It’s very difficult to defend industrial footprint and at the same time let the market completely open to import. Either one or the other.”\nHe expressed scepticism over whether other countries beyond the EU such as Japan, Turkey and Morocco should be included in the rules.\n“We don’t necessarily need to have a larger definition of European scope,” he said, pointing to proposals that carmakers be allowed to source 30% of their materials from outside the EU.\nHe also argued for more time until 2030 for manufacturers to source batteries from within Europe. China is dominant in the global supply of batteries and Cappellano said it would take longer to build up the European industry.\nEU to limit Chinese hybrid vehicle imports to 350,000 a year\nVolkswagen boss backs EU plan to bolster domestic European industry\nThe Jaguar Type 01: a £150k gargantuan getaway vehicle utterly useless in the city\nUK reviewing whether to impose tariffs on Chinese car imports to align with EU\nUK car industry faces ‘difficult trade-off’ between Chinese and EU markets\nTech in cars can be used to snoop on you, Dutch spy chiefs warn\nAlarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket\nSunderland gets its Kicks: Nissan to invest £170m to build new hybrid SUV\nMcLaren to build SUVs geared towards Formula One fans with children\nJaguar Land Rover in talks to sell Defender to Nato countries",
-      "published": "2026-10-12T17:22:05+00:00",
-      "source": "Guardian World",
-      "sources": [
-        "Guardian World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
-    {
-      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-      "link": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-      "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-      "content": "Trump defends Russia diesel deal: &#x27;I made the right choice&#x27;\nPresident Donald Trump defended his decision to temporarily ease restrictions on Russian diesel fuel exports after the announcement drew bipartisan criticism.\n\"I made the right choice for the American People — ALWAYS, AMERICA FIRST!\" Trump wrote on Truth Social Monday.\nThe plan received pushback from Republicans who urged Trump not to lift the U.S. ban on energy imports from Russia until Russian President Vladimir Putin ends the war against Ukraine.\nU.S. President Donald Trump speaks to members of the media as he departs the White House on the South Lawn on October 10, 2026 in Washington, DC.\nPresident Donald Trump on Monday defended last week&#x27;s decision to temporarily ease restrictions on Russian diesel fuel exports after the announcement drew bipartisan criticism .\nTrump, in a Truth Social post , accused the media of hypocrisy for allegedly refusing to cover past purchases of Russian energy by the European Union.\n\"The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn&#x27;t want to get near that story,\" Trump wrote.\nWhile the president did not specify, his figure roughly tracks with some estimates of how much the EU has spent importing fossil fuels from Russia since the 2022 invasion of Ukraine. The European Commission has launched a plan to phase out its dependence on Russian energy.\n\"I made the right choice for the American People — ALWAYS, AMERICA FIRST!\" Trump wrote in the social media post.\nLawmakers from both parties raised concerns about Trump&#x27;s decision to let Russia supply some diesel to the U.S. and global markets for the next six months.\nThe plan received pushback from multiple congressional Republicans who have urged Trump not to lift the U.S. ban on energy imports from Russia until its president, Vladimir Putin , ends the war against Ukraine.\n\"The United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians,\" a group of seven senators, including four Republicans, said in a joint statement on Sunday.\nRussian lab worker dies amid plague reports — here&#x27;s what we know\nTrump&#x27;s nemesis in Europe: Why Spain&#x27;s Sanchez is calling a snap election\nTrump tells South Korea to sign on to Alaska LNG deal or &#x27;I&#x27;ll just charge them more&#x27;\nOther Republicans have also raised issues with Trump&#x27;s deal.\n\"While I understand the desire to bring down diesel prices, I am concerned the lifting of sanctions on Russian oil will only fund the Kremlin&#x27;s war machine—emboldening more violence and destruction, as we have seen in recent days,\" Rep. Michael McCaul, R-Texas, said Friday.\nTrump, whose party is staring down a potentially tough midterm election that has coincided with widespread economic dissatisfaction, says the plan he coordinated with Putin will help bring down sky-high diesel prices. Some analysts say the policy won&#x27;t make much of a dent , however.\nUkrainian President Volodymyr Zelenskyy said Friday that the U.S. easing sanctions on Moscow \"plays into Russia&#x27;s hands.\"\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-12T18:32:03+00:00",
-      "source": "CNBC Top",
-      "sources": [
-        "CNBC Top"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "China’s carmakers export more as EU caps hybrid vehicle imports at 350,000 a year - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGhDbXZKUzRXNWtLeEVyR0RLaXFrUnUxWU8zNTdQZnpwdmo3NzY1cUV4dXY4MVg2YTVqeUVYaHdmdVdwaW5XbU5FNUM5YVZkYkNyeFRrYU1adGRSblBkNXRuWFd1UHp0OWFFY0xYc2N5U0lFT1Q0dGR2N1FOWXZGYldBZUc3bnNCUk5ienA1ci0?oc=5",
-      "summary": "China’s carmakers export more as EU caps hybrid vehicle imports at 350,000 a year&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-12T15:59:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN China"
-      ],
-      "source_count": 2,
-      "category": "china",
-      "category_zh": "中国",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
-    {
-      "title": "This Ultra-Rare Gas Could Become An Ace In Canada's Hands - Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmZZbHNfaElURk9UczBiTUVrMURrQVc0UlhmaU1NbUpROWlHMnJBMjVzNkhsNGYzaGdtZ3c3d1ZRaGl6OVBsQU04T0x2Wnd5bWY5aWJYWGVPRTd6Q0RJNG1EMVJNeHZiVWVuZy12aXR3Ry0xd2tzSU5BeW1fekl3X21qRGFtMUR4Z29SZi1vWjZBcDFTM0RqTDlIRFlZZV95UzdFQTY5d9IBrAFBVV95cUxPRzJLa0NRZlJFbUFlWTd6WG5Kc0JDeXpFZmhqVWh6Q1BwcUJmV05GWmdtUWpielB4UG54SU8xYzlwSDRwQTN1aGRlcnM4N1loNlZtb2psZThYSHJGd1QtR2hNaHhvVGRhM1hVdHlLOTkyeDRwVlBnaUpFajV6UWdXYmVjTVU5bzEyOEY5dGl3d0hhRmsycTNma3BhOVI2SmJIeVJQQkdxbmkwZ3pF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmZZbHNfaElURk9UczBiTUVrMURrQVc0UlhmaU1NbUpROWlHMnJBMjVzNkhsNGYzaGdtZ3c3d1ZRaGl6OVBsQU04T0x2Wnd5bWY5aWJYWGVPRTd6Q0RJNG1EMVJNeHZiVWVuZy12aXR3Ry0xd2tzSU5BeW1fekl3X21qRGFtMUR4Z29SZi1vWjZBcDFTM0RqTDlIRFlZZV95UzdFQTY5d9IBrAFBVV95cUxPRzJLa0NRZlJFbUFlWTd6WG5Kc0JDeXpFZmhqVWh6Q1BwcUJmV05GWmdtUWpielB4UG54SU8xYzlwSDRwQTN1aGRlcnM4N1loNlZtb2psZThYSHJGd1QtR2hNaHhvVGRhM1hVdHlLOTkyeDRwVlBnaUpFajV6UWdXYmVjTVU5bzEyOEY5dGl3d0hhRmsycTNma3BhOVI2SmJIeVJQQk",
-      "content": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nEurope Moves to Curb the Flood of Chinese Hybrid Cars\nSoutheast Asia Needs More Power, But Its Weak Grid Could Be a Problem\nChina's Auto Exports Explode as Domestic Demand Craters\nAlex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com.\nThis Ultra-Rare Gas Could Become An Ace In Canada’s Hands\nCanada is the leading, non-military producer of helium-3 globally, a non-radioactive, light isotope of helium used in quantum computing, deep cryogenics, border security neutron detection, and experimental nuclear fusion.\nIndustry experts: Canada can leverage its dominance in a certain critical element in future trade negotiations with its neighbor to the south.\nQuantum computing is projected to be the biggest driver of commercial helium-3 demand in the coming years.\nBack in July, the U.S. slapped an extra 50% duty on a wide range of Canadian exports, including items like dairy, alcohol and cement, with the Trump administration citing alleged Canadian trade discrimination against various U.S. goods. In response, Prime Minister Mark Carney’s government implemented dollar-for-dollar counter-tariffs targeting U.S. goods such as steel, aluminum, appliances and electronics as the tit-for-tat tariffs and trade war between the two nations escalated. Despite Trump’s frequent bluster, Canada remains the United States’ second-largest trade partner behind only Mexico, as well as its largest foreign supplier of crude oil, accounting for ~60% of total U.S. crude imports. And now, industry experts are saying that Canada can leverage its dominance in a certain critical element in future trade negotiations with its neighbor to the south. According to Chris Cassin, chief executive of Zero Point Cryogenics, Canada, is in a unique position to stockpile and sell helium-3, a much-sought-after ultra-rare gas.\nCanada is the leading, non-military producer of helium-3 globally, a non-radioactive, light isotope of helium used in quantum computing, deep cryogenics, border security neutron detection, and experimental nuclear fusion. Canada generates the precious gas in significant quantities as a byproduct of tritium removal from heavy water in its CANDU (Canada Deuterium Uranium ) nuclear reactors. CANDU reactors use unenriched, natural uranium (about 0.7% U-235) instead of enriched uranium, eliminating the need for expensive, complex uranium enrichment facilities, resulting in lower fuel cycle costs. Their high neutron economy also allows CANDU reactors to run on alternative fuels including recycled uranium, mixed oxide (MOX) fuels, thorium or spent fuel from conventional pressurized water reactors. Canada is home to 17 of the world’s fleet of 26 CANDU reactors.\nRelated: Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nIn contrast, the U.S., Russia and China produce helium-3 mainly as a by-product when it’s removed from nuclear bombs to achieve higher tritium concentrations. Most of the helium-3 these nations produce stays in government hands for use in neutron detectors by port inspectors looking for smuggled nuclear materials.\nQuantum computing is projected to be the biggest driver of commercial helium-3 demand in the coming years, with governments worldwide increasingly viewing quantum supremacy as a cornerstone of national security and economic sovereignty.\nThe looming threat of Q-Day has forced governments, banks, and enterprises into a defensive arms race, fueling massive, immediate investments into post-quantum cryptography (PQC) and quantum-safe security architectures. Q-Day is the future moment when quantum computers become powerful enough to break public-key cryptography--such as RSA and elliptic-curve cryptography (ECC)--that currently secures the internet, financial systems, private communications and digital identities.\nThe quantum computing boom is likely to drive future demand for helium-3. Quantum computing requires operating temperatures near 0 Kelvin (absolute zero). Conventional cooling methods can cool ordinary helium (helium-4) down to 1–4 K. To go even colder, scientists mix helium-4 with super-cooled helium-3, with the entropy gain from the mixing cooling the system further down to as low as 5 millikelvin.\nAnd that’s probably the biggest reason why the U.S. government is investing in a startup that’s looking to mine helium-3 from the moon. Back in May, NASA awarded Interlune a $6.9 million Small Business Innovation Research (SBIR) contract to develop a lunar payload suite that will fly to the moon by 2028 to scoop, heat and extract helium-3 and hydrogen directly from lunar regolith. The DoE even signed a first-of-its-kind agreement to purchase 3 liters of lunar-harvested Helium-3 from Interlune, marking the first time a government agency has agreed to buy a non-terrestrial natural resource from space. Interlune is a Seattle-based space startup that builds robotic systems to harvest natural resources from the Moon.\nThe Moon is estimated to contain 1-3 million tons of helium-3 embedded in its surface dust, compared with about 15 to 20 kilograms of helium-3 per year produced annually in our planet, mostly as a byproduct of the decay of tritium used in thermonuclear weapons or minor amounts in natural gas wells.\nOver billions of years, solar wind from the sun continuously bombarded the lunar surface and \"spray-painted’’ helium-3 on its surface thanks to the moon’s lack of a protective magnetic field. Additionally, whereas tritium is a radioactive isotope that decays to helium-3 with a half-life of about 12.3 years, the economics make little sense for countries like the U.S. to produce helium-3 from tritium, with a kilo of the heavy hydrogen isotope going for ~$30,000 compared to $20,000 for a kilo of helium-3.\nInterestingly, there’s no shortage of companies betting on helium-3 from the moon: Interlune has already secured nearly $500 million in binding purchase orders and supply contracts from customers looking to use the rare isotope for quantum computing cooling systems, national security and clean fusion energy development.\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nTrump Curbs Farmers’ Access to Funding for Energy Projects\nAlex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com.\nChina's Auto Exports Explode as Domestic Demand Craters\nTrump Curbs Farmers’ Access to Funding for Energy Projects\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nHow Low Can the Strategic Petroleum Reserve Actually Go?\nKpler Suspects Gulf Producers Are Paying Iran for Safe Passage\nWhy Record Crude Output Can’t Solve America’s Diesel Crisis\nIs the West’s 100-Year Venezuela Oil Bet About To Backfire?\nHurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
-      "published": "2026-10-13T00:00:00+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
-      "title": "Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed’s Hammack Says - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa0lWQU9KdmV1U0poMXBSa0JQOThQYmZWUjFyVkViUzU4SEx3SkRLOVVRQUR0N2tmUV9PcW5OTFdydEgyVS04NWNtRXoteTZ1RU1IMXdHTmU3bE1FZVo0UlN4YXBGWS1fb3diUml5cmJWR0JiMEZja19PdGU1eFk0Qkx3YVVydzhDZkpwQTUxQWREZG5TenNmUTdrMzRmMXRLcTF1WFYwOVlmc3BLUG53ejJGNHhQYW1ZZzA4NGZEdFg5NDJWLXh4NXRlWjQ1T1BKakd3MUxSMmM2MDgtY1E?oc=5",
-      "summary": "Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed’s Hammack Says&nbsp;&nbsp;Tradi",
-      "content": "Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed’s Hammack Says\nFederal Reserve Bank of Cleveland President Beth Hammack favored smaller, more frequent rate adjustments over delaying action and risking sharp policy swings.\nHammack highlighted price pressures beyond energy, citing elevated tariffs and higher electricity and component demand driven by artificial intelligence expansion.\nShe distinguished between explaining the Fed&#x27;s decision-making logic and providing \"forward guidance,\" cautioning against giving the market rigid interest rate forecasts.\nFederal Reserve Bank of Cleveland President Beth Hammack said Monday that prompt, incremental policy shifts are preferable to waiting and forcing larger corrections later, as policymakers seek to keep inflation expectations grounded.\nSpeaking at the National Association for Business Economics annual gathering in Cleveland, Hammack noted that minor, agile policy shifts can maintain stability, though she did not explicitly support a benchmark rate increase at the upcoming Fed meeting.\nThe Federal Open Market Committee unanimously agreed last month to raise borrowing costs to tame price hikes driven by conflict in Iran and booming demand linked to artificial intelligence development.\nHammack, a voting member of the monetary policy committee this year, cautioned that inflationary risks extend well beyond energy markets. She cited supply chain pressures tied to tariffs, as well as rising demand for energy and tech components needed for AI infrastructure build-outs.\nPolicymakers are set to meet Oct. 27–28. Hammack noted that officials still need to review crucial economic data ahead of the gathering, including the latest consumer price index figures scheduled for release Wednesday. Financial markets recently trimmed expectations for an October rate hike after key Fed officials signaled limited urgency to execute back-to-back increases.\nFocusing heavily on central bank communications, Hammack underscored the value of explaining the Fed’s \"reaction function\"—the data points and economic rationale behind interest rate choices—to help consumers, businesses, and investors plan effectively.\nHowever, she warned against making firm predictions about where monetary policy is headed, drawing a clear line between explaining policy logic and offering explicit forward guidance.\n\"Treating the two as interchangeable can turn a well-meaning explanation of logic into the expectations of a promise,\" Hammack warned.\nHer comments come as Fed Chairman Kevin Warsh, appointed earlier this year by President Donald Trump, has deliberately scaled back public remarks on monetary policy to prevent financial markets from relying excessively on central bank guidance.\nThe  SPDR S&P 500 ETF (SPY) edged 0.2% lower at the time of writing, the  SPDR Dow Jones Industrial Average ETF (DIA) gained 0.3%, and the Nasdaq-100 tracking  Invesco QQQ Trust (QQQ) slipped as much as 0.8%. Retail sentiment around QQQ on Stocktwits dropped to ‘bullish’ from ‘extremely bullish’ over the past day.",
-      "published": "2026-10-12T18:43:16+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "Saudi Arabia faces new missile and drone fire after major attacks on airports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjQ4VHZvYkdYQm9yVEk1YjFFMmpzdkZlZURhdnpYUlNHTl9KMDZrbVFMSXB6WGRlU2ZIb2NnZm9yMjYwb2hYTnh0YnBrc2RkWWs0MzdxX01TUzllWERDajRXZHhxVXFIVmJhX0ljT0NWVHZMejdIdFhmWlZaOUFPQkVLUXZiN2hGVG1velpDX3FvTzY0VVhiQlpCQ1hoejRmSjhBZlVnYlNUcUlQOF9PeWVlMS0xT1RzS2Rlb1FUQlBwQQ?oc=5",
-      "summary": "Saudi Arabia faces new missile and drone fire after major attacks on airports&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T13:17:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.0,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Dow Jones, Nasdaq, S&P 500 preview: Markets brace for CPI, Q3 earnings kick-off - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZTFUQkZXMUF2VzJCNFFpY3BmNmJDVVFyTWFEYXAxaWFVeE5xOGFwT1BTY25EVFJ5WDNGSWNxWFpxMGIteVMtX3V6UXNXRm9HZlc2YUFWZXc0eVRkeGlPcE9ucmZxOVVVN3A4Umk3c01EMHd2UDEyQkhPbTZXMmcyTGNYaFZTNTZITTVaamtHa3NaN19fRk1qX3dMM21oR291cnRkcVRQQmxJSlk2ZUtaRXJPWF9icFJMUzF6bkZKcW1Iel9uUTEzbmZB?oc=5",
-      "summary": "Dow Jones, Nasdaq, S&amp;P 500 preview: Markets brace for CPI, Q3 earnings kick-off&nbsp;&nbsp;Investing.com",
-      "content": "",
-      "published": "2026-10-12T11:50:05+00:00",
-      "source": "GN Markets",
-      "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 13.0,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Bessent on how Iran war ends: ‘I don’t know’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTM2UTdka1B0UldheFBuR3d2dFU3MU82RG5RYzFEMmdsMmp2Z2Z5WGhQQk5aYXF2elNWVkxHdEJJVi1XYUJpQ0JxOXR5eUh1MUgteW50SWZaNkNEa01CTFl6bDBSSU1sU09FZVRsY3c5WTAyc2t4Ui1EWk0zU0I4WE1tbDF5TlHSAYwBQVVfeXFMT1AtbjJLUG1lM1ZndWNUeHFCbjRsZnFXdkYtdTd6MnVwSFpnS3R6R2ZSaU9kbTJkTm5MS0RtcnFPQUVVaHVZcU9Zb1dnY1dtbVQzVkhTME1ESjlyOWFRODBRMlFRRHpDaUlrdlZjU0NkampsQkxhS1hILWdFd0xKWFBFYmpIQnJMbkQxVU8?oc=5",
-      "summary": "Bessent on how Iran war ends: ‘I don’t know’&nbs",
-      "content": "",
-      "published": "2026-10-12T21:29:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "America’s Favorite Fruit Is Being Bruised by the Iran War - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XU0R6bjVRWFFsRXlrOHoyZGRkT3g4Q2QtajdhY1pOS3BDaG0tb1VzMjdjUDczM25tTm5OeHRjelhjS1lFU1phUU56QVNGdjdkLUJqenJsRkhIbEY2M2pjekl4TEJ5eWc5N1MxbkphVEhDRFROSWRUcjE0c3FWZw?oc=5",
-      "summary": "America’s Favorite Fruit Is Being Bruised by the Iran War&nbsp;&nbsp;The New York Times",
-      "content": "",
-      "published": "2026-10-12T17:36:03+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
-      "summary": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T06:00:00+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDBXTHA2YmE2OEM4Mi03Sm81ZTJwcFhTTnVXT0dVV09qZlRHZGJtazJ4QlR4SmtVQk9vVjlYMmtlaHZ1b3AwOUtlMjl5NlhDNGZBNnFCMDFta2NuWHJlempBWUlDRHF0Z0ZIRFhFSHk4Rm4zeGVyNE9Cbkp5RjU2SlZiZVRNYVFwVzFDOWtNU2dGYktsemN3ZEVOcGFGWFpRakpLT3JHOFJlaTZocW52aFdXMA?oc=5",
-      "summary": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’&nbsp;&nbsp;Bloomberg.com",
-      "content": "",
-      "published": "2026-10-12T20:03:45+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：黄金 及相关产业链。",
-      "assets": [
-        "黄金"
       ]
     }
   ]
