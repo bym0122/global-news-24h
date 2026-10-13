@@ -1,11 +1,37 @@
 {
-  "generated_at": "2026-10-13T02:14:40.081621+00:00",
+  "generated_at": "2026-10-13T04:15:40.386512+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-12T02:14:23.053829+00:00",
-  "window_end": "2026-10-13T02:19:23.053829+00:00",
+  "window_start": "2026-10-12T04:15:11.611539+00:00",
+  "window_end": "2026-10-13T04:20:11.611539+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
+    {
+      "title": "Europe's STOXX 600 ends higher as bank stocks cushion oil price hit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTJzODAxR3FEbnVoV2loanlVRUtiSWs3SDhqQjB4RFBXcFhyTks1MWFrc1BFMG1Vck5vUWlYQ0tqNHkxRTZXV01UaWgtS3ZaN0c0dWdzT1gwNTBscXRKUDRnVWdlWFhzYVRoNGxpT0FUZk9Ic2NtaWotNDlIOEJpeHRCNDhvR2Zab09ONXhUM2w0WTZSdENtYjhoem02aElsdFlfUjZEODVWeldtSGtBV1VieklOUldW?oc=5",
+      "summary": "Europe's STOXX 600 ends higher as bank stocks cushion oil price hit&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T16:51:36+00:00",
+      "source": "Reuters Markets",
+      "sources": [
+        "Reuters Markets",
+        "GN AI",
+        "GN Markets",
+        "CNBC Top"
+      ],
+      "source_count": 4,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 4,
+      "score": 18.0,
+      "is_hypothetical": false,
+      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
     {
       "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue - AP News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
@@ -17,49 +43,26 @@
         "AP World",
         "BBC World",
         "GN Geopolitics",
+        "GN Top",
         "Guardian World",
-        "NPR World"
+        "NPR World",
+        "Al Jazeera"
       ],
-      "source_count": 5,
+      "source_count": 7,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
       "score": 17.4,
       "is_hypothetical": false,
-      "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "why_important": "被 7 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Europe's STOXX 600 ends higher as bank stocks cushion oil price hit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTJzODAxR3FEbnVoV2loanlVRUtiSWs3SDhqQjB4RFBXcFhyTks1MWFrc1BFMG1Vck5vUWlYQ0tqNHkxRTZXV01UaWgtS3ZaN0c0dWdzT1gwNTBscXRKUDRnVWdlWFhzYVRoNGxpT0FUZk9Ic2NtaWotNDlIOEJpeHRCNDhvR2Zab09ONXhUM2w0WTZSdENtYjhoem02aElsdFlfUjZEODVWeldtSGtBV1VieklOUldW?oc=5",
-      "summary": "Europe's STOXX 600 ends higher as bank stocks cushion oil price hit&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T16:51:36+00:00",
-      "source": "Reuters Markets",
-      "sources": [
-        "Reuters Markets",
-        "GN Markets",
-        "CNBC Top"
-      ],
-      "source_count": 3,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 4,
-      "score": 16.8,
-      "is_hypothetical": false,
-      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
     },
     {
       "title": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYUFTU0tPVG5NdnI3aUZhTVpGNUcycm5tNW5vamZ0R0FsMTNwWXJwRklqdWliYVNjVjdyTm1xYm1VVWN2Z0pzaGJfRC1OZUpySzltaVVpQlZPVll2cUJreEJ5V2tNenhtN3NDeUtMRFZpdUlFRXVXbDh1cGxFZnU4eUJHVU5CYTFvRE5uQnlpa05oRTlUWTRHMk85WjdnQTdjMjY0UG9qb18tbVQ2ZHlZTmRtV3hzMDNhTFFfeDF6bDjSAcYBQVVfeXFMTjZFalZPdmpIeEVZZ0cyUEJLMzZ2M0pDeUkwbnVaN01pOGc1b0ZFRUV2YnpEaVYzTDNWT1ExVW1oYVlhTkpZOVlWTUFYZWVaZkZ6UGI0TTA4VVF6Qk9SRmY5b2VQZWlRVUJsMUhSZ3hBOUJaMm1LQ1hXbFpGYTRYQno5ZW5WSnVjcFBLYk93MnZFT3hjWlNubkpJa29Wa3B4ZmdJZ3VQSFA3ZUhOUVR2V1N3RXhxLUU2LXNVRzRMdWNBS1VqU1ZR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYUFTU0tPVG5NdnI3aUZhTVpGNUcycm5tNW5vamZ0R0FsMTNwWXJwRklqdWliYVNjVjdyTm1xYm1VVWN2Z0pzaGJfRC1OZUpySzltaVVpQlZPVll2cUJreEJ5V2tNenhtN3NDeUtMRFZpdUlFRXVXbDh1cGxFZnU4eUJHVU5CYTFvRE5uQnlpa05oRTlUWTRHMk85WjdnQTdjMjY0UG9qb18tbVQ2ZHlZTmRtV3hzMDNhTFFfeDF6bDjSAcYBQVVfeXFMTjZFalZPdmpIeEVZZ0cyUEJLMzZ2M0pDeUkwbnVaN01pOGc1b0ZFRUV2YnpEaVYzTDNWT1ExVW1oYVlhTkpZOVlWTUFYZWVaZkZ6UGI0TTA4VVF6Qk9SRmY5b2VQZWlRVUJsMUhSZ3hBOUJaMm1LQ1hXbFpGYTRYQno5ZW5WSnVjcFBLYk",
-      "content": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nCuba’s Fuel Crisis Turns the Island Into a Solar Test Case\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nOil prices climbed to their highest levels in nearly two weeks on Monday morning as fresh attacks on Saudi Arabia and oil tankers near the Strait of Hormuz put Middle East supply risks back at the center of the market, outweighing President Donald Trump's announcements of additional Russian diesel supplies and a Russia-Ukraine energy ceasefire.\nWest Texas Intermediate was trading at $93.78 per barrel, up $1.93, or 2.10%, on Monday morning, while Brent crude rose $2.09, or 2.00%, to $106.80 per barrel, according to Oilprice.com data.\nThe renewed buying followed a weekend of attacks on Saudi Arabia, including a Houthi strike on Riyadh's international airport on Saturday that killed 13 people and wounded more than 300. Further attacks were reported Sunday, while two tankers were struck near Oman and in the Strait of Hormuz.\nThe tanker attacks threaten to interrupt the recovery in Gulf oil exports , which reached 81% of prewar levels in September. Crude and condensate shipments had recovered to 91%, but refined-product exports remained at just 60%.\nGoldman Sachs raised its December Brent forecast to $90 per barrel from $85, estimating that geopolitical risks are currently adding just over $20 per barrel to oil prices.\nThe price increase comes as OPEC has sharply reduced its expectations for global oil demand growth this year. OPEC Secretary General Haitham Al Ghais said Monday that the producer group now expects demand to grow by just 400,000 barrels per day in 2026, down from the 1.4 million bpd it forecast at the beginning of the year.\nOPEC expects much of the demand deferred during this year's disruptions to return in 2027. The group had already cut its 2026 growth estimate to 380,000 bpd in September, meaning Monday's 400,000-bpd figure is actually a slight increase from last month's forecast even though it represents a 1-million-bpd reduction from OPEC's outlook at the beginning of the year.\nThe International Energy Agency expects an even deeper demand hit this year, forecasting a 2.5-million-bpd decline in global consumption in 2026 followed by a 2.6-million-bpd rebound in 2027.\nAdditional Russian barrels could put some downward pressure on fuel prices. Trump said Friday that Russia would immediately supply more than 300,000 metric tons , or roughly 2.25 million barrels, of diesel to U.S. and global markets, with additional supplies to follow. Moscow has also partially lifted restrictions on diesel exports, allowing another 500,000 tons, or about 3.7 million barrels, onto the international market.\nTrump also announced Sunday that Russia and Ukraine had agreed to stop attacking each other's energy infrastructure. Ukrainian President Volodymyr Zelensky accused Russia of violating the agreement on Monday.\nIn the Gulf of Mexico, Shell , Chevron and BP were preparing to restore offshore production after Hurricane Isaias disrupted operations over the weekend.\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nSaudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge\nSaudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore\nStrait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise\nMacron Calls for Another Emergency Oil Release as Europe Loses Supply\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nEnergy Giants Are Betting Billions on a World of Longer Oil Routes\nOil Above $100 Pushes U.S. Fuel Prices to New Records\nExport Constraints Curb Kazakhstan’s Ability to Offset the Global Oil Shortage\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nEurope Moves to Curb the Flood of Chinese Hybrid Cars\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nOil prices climbed to their highest levels in nearly two weeks on Monday morning as fresh attacks on Saudi Arabia and oil tankers near the Strait of Hormuz put Middle East supply risks back at the center of the market, outweighing President Donald Trump's announcements of additional Russian diesel supplies and a Russia-Ukraine energy ceasefire.\nWest Texas Intermediate was trading at $93.78 per barrel, up $1.93, or 2.10%, on Monday morning, while Brent crude rose $2.09, or 2.00%, to $106.80 per barrel, according to Oilprice.com data.\nThe renewed buying followed a weekend of attacks on Saudi Arabia, including a Houthi strike on Riyadh's international airport on Saturday that killed 13 people and wounded more than 300. Further attacks were reported Sunday, while two tankers were struck near Oman and in the Strait of Hormuz.\nThe tanker attacks threaten to interrupt the recovery in Gulf oil exports , which reached 81% of prewar levels in September. Crude and condensate shipments had recovered to 91%, but refined-product exports remained at just 60%.\nGoldman Sachs raised its December Brent forecast to $90 per barrel from $85, estimating that geopolitical risks are currently adding just over $20 per barrel to oil prices.\nThe price increase comes as OPEC has sharply reduced its expectations for global oil demand growth this year. OPEC Secretary General Haitham Al Ghais said Monday that the producer group now expects demand to grow by just 400,000 barrels per day in 2026, down from the 1.4 million bpd it forecast at the beginning of the year.\nOPEC expects much of the demand deferred during this year's disruptions to return in 2027. The group had already cut its 2026 growth estimate to 380,000 bpd in September, meaning Monday's 400,000-bpd figure is actually a slight increase from last month's forecast even though it represents a 1-million-bpd reduction from OPEC's outlook at the beginning of the year.\nThe International Energy Agency expects an even deeper demand hit this year, forecasting a 2.5-million-bpd decline in global consumption in 2026 followed by a 2.6-million-bpd rebound in 2027.\nAdditional Russian barrels could put some downward pressure on fuel prices. Trump said Friday that Russia would immediately supply more than 300,000 metric tons , or roughly 2.25 million barrels, of diesel to U.S. and global markets, with additional supplies to follow. Moscow has also partially lifted restrictions on diesel exports, allowing another 500,000 tons, or about 3.7 million barrels, onto the international market.\nTrump also announced Sunday that Russia and Ukraine had agreed to stop attacking each other's energy infrastructure. Ukrainian President Volodymyr Zelensky accused Russia of violating the agreement on Monday.\nIn the Gulf of Mexico, Shell , Chevron and BP were preparing to restore offshore production after Hurricane Isaias disrupted operations over the weekend.\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nSaudi Arabia Insists Energy Supply Remains Resilient\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nSaudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge\nSaudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore\nStrait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise\nMacron Calls for Another Emergency Oil Release as Europe Loses Supply\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nEnergy Giants Are Betting Billions on a World of Longer Oil Routes\nOil Above $100 Pushes U.S. Fuel Prices to New Records\nOil Prices Slide as China Presses Iran to Rein In the Houthis\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-12T13:35:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -130,6 +133,78 @@
       ]
     },
     {
+      "title": "NATO general sets out tough military response to any 'foolish' Russian attack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJaSDd1eGFCbTBiUDJRNmpVVUtJck1fR05QX0NEV0VEV0tnNS1YMnc5d00tTDktSzFHcU1IcXUxakR1NkJyTzZCUDVoM054NEFhMUhtUFlXenZseWF3M2dQSG95X19jYlJxSkRfb0hpTHJkcVd2TTZuX2RwSnF0LVNkR3NKLXV5cFdXUjRNLTY1ZTg1ZU9qWTZmNkdCZ3dtODIwOVNHNndXaUgwT1p5SkFaZHk?oc=5",
+      "summary": "NATO general sets out tough military response to any 'foolish' Russian attack&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T14:08:09+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Top",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.0,
+      "is_hypothetical": false,
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Gold eases on firm dollar; spotlight on US inflation data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "summary": "Gold eases on firm dollar; spotlight on US inflation data&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T02:23:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Fed"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：黄金 及相关产业链。",
+      "assets": [
+        "黄金"
+      ]
+    },
+    {
+      "title": "Top oil executives dropped from event schedule after Riyadh attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWQtMDRPN05hVWltQzRWWGdZLUVfT3lnZXNrVDBteWp6NWJfZEFBaEgzZEVVaGRUaXJuTVhSTXNBV29fcUFvZVcxV19yRnU1Sk9zM3p5MWcwYkNsaDI0bV9DeW9tc3NQamVDb3ZZeFpGb0hPRGk1N1gyMW9QU3VidVlZMVhZZlF0RWdMZy1KcFJIbDlDXzN6c0xHajFhWHVmckI0SVZuU3lFZTVKc3hWNEZ6eTZrYkk?oc=5",
+      "summary": "Top oil executives dropped from event schedule after Riyadh attacks&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T09:19:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "BBC Business",
+        "GN Energy",
+        "Al Jazeera"
+      ],
+      "source_count": 5,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 15.7,
+      "is_hypothetical": false,
+      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex - Consilium.europa.eu",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTF",
@@ -148,81 +223,6 @@
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Top oil executives dropped from event schedule after Riyadh attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWQtMDRPN05hVWltQzRWWGdZLUVfT3lnZXNrVDBteWp6NWJfZEFBaEgzZEVVaGRUaXJuTVhSTXNBV29fcUFvZVcxV19yRnU1Sk9zM3p5MWcwYkNsaDI0bV9DeW9tc3NQamVDb3ZZeFpGb0hPRGk1N1gyMW9QU3VidVlZMVhZZlF0RWdMZy1KcFJIbDlDXzN6c0xHajFhWHVmckI0SVZuU3lFZTVKc3hWNEZ6eTZrYkk?oc=5",
-      "summary": "Top oil executives dropped from event schedule after Riyadh attacks&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T09:19:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "BBC World",
-        "BBC Business",
-        "GN Energy"
-      ],
-      "source_count": 4,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 15.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
-      "title": "Trump says he is considering firing US ambassador to Greece - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWU5OdGppOWp6blA3UzZyT2tVenY4eExFelZFYVVHbkhQT0NGZkRnaG5GOFVpYzEwS3ZVWXViMW16VXZqRHNGM1hSeWpId2RMek5kR0ZiLTd6NUhFSDVvbE8tNk4xbHh0NXZkWGhteDBBa0xhN3JIbHhKZDJvN21BUFM3OUdubWp5eGtKWjlWandOT19oR1dzbFRrdXpFd0JsaGZKVGtvWFM?oc=5",
-      "summary": "Trump says he is considering firing US ambassador to Greece&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T21:24:08+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World",
-        "BBC World",
-        "GN Top",
-        "CNBC Top"
-      ],
-      "source_count": 5,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 3,
-      "score": 15.2,
-      "is_hypothetical": false,
-      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWp5UElEV2piTFkzc3NRUTR4NDJfM0trT2wybWw5U2pkeGdpdlg2NHVCN1lCZWN3MGIwX3F3OWtDc1lwOG1LQmhENVVPT0s1T1FGZjNwNDczSE9WczU4SkN3QlVVRTlpOFcwTGp0ZFU4ZjRLcG5HRm1tOTdjUUMyOXZDLUlFMUgzZlhzTlp1LXN2dDhycE1lS1pGYXNlaTMtLTNiOFZwcFR3ZkNwaVJEUdIBtgFBVV95cUxNLU5pTjR5VVVpNEZJYjRfVVRuZ1lTZ0Y5OWd5LXFocDdJc1YyNFc4T1ZWMVRhTWxIUXhxNG5qQUtoeWdqdWtxM2J6SGhIQkVDMk1iZ0o5U2tCZmZRcC1tRDNkRUFBcUxFRGRfWlVPTU9jVjJjQ2RDNDNrRWpvbjREYklOVnEtZlpFdlhkUjZHeVlFWmpSWnNNd1NYRXZ4NUg0bDJVN2NFeU5RTGFNLTRvT1BHV3Brdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObWp5UElEV2piTFkzc3NRUTR4NDJfM0trT2wybWw5U2pkeGdpdlg2NHVCN1lCZWN3MGIwX3F3OWtDc1lwOG1LQmhENVVPT0s1T1FGZjNwNDczSE9WczU4SkN3QlVVRTlpOFcwTGp0ZFU4ZjRLcG5HRm1tOTdjUUMyOXZDLUlFMUgzZlhzTlp1LXN2dDhycE1lS1pGYXNlaTMtLTNiOFZwcFR3ZkNwaVJEUdIBtgFBVV95cUxNLU5pTjR5VVVpNEZJYjRfVVRuZ1lTZ0Y5OWd5LXFocDdJc1YyNFc4T1ZWMVRhTWxIUXhxNG5qQUtoeWdqdWtxM2J6SGhIQkVDMk1iZ0o5U2tCZmZRcC1tRDNkRUFBcUxFRGRfWlVPTU9jVjJjQ2RDNDNrRWpvbjREYklOVnEtZlpFdlhkUjZHeVlFWmpSWnNNd1NYRX",
-      "content": "Share Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz on social media\nShips float anchored off the coast of Khasab in Oman’s Musandam Governorate, near the Strait of Hormuz, on October 2, 2026 [AFP]\nTehran, Iran – Iranian authorities have signalled they intend to disrupt an Arab-operated and United States-assisted shuttle system that has enabled more energy exports through the Strait of Hormuz during the US-Israel war on Iran.\nWith the US naval blockade of Iran’s southern ports in place and sanctions tightening, Tehran has said it will pursue military and diplomatic efforts to put pressure on Washington to submit to its demands regarding reopening the Strait of Hormuz.\nlist of 3 items list 1 of 3 What new measures is Iran taking to counter US economic pressure?\nlist 2 of 3 Saudi Arabia says East-West pipeline pumping 5.8 million bpd\nlist 3 of 3 Hormuz ship attacks surge: Are increased oil exports sustainable?\nThis strategic waterway, through which roughly a fifth of global oil and gas flowed before the war, has been largely closed to shipping following Iranian attacks since the US and Israel launched strikes on Iran on February 28.\nBut the US Navy has reportedly opened up a route so Gulf states can export oil and other commodities amid an energy crisis.\nIran’s security chief Mohsen Rezaei responded on Sunday night, saying the shuttle system is now an explicit target for Tehran.\nRezaei claimed that the US Central Command, with the assistance of the United Arab Emirates military, was using smaller vessels to transfer oil to larger tankers. He claimed Iran had been striking five or six participating vessels nightly for weeks.\n“You are smuggling, but the strait is under Iran’s control, and we manage it,” he asserted.\nThis appeared to be a taunt aimed at US President Donald Trump, who has hailed energy exports at times reaching pre-war levels over recent weeks.\nRezaei appeared to give the impression that Iran wants to have lasting authority over Hormuz, and promised a harsh response if Iran’s energy and civilian infrastructure were attacked again.\nHis threats appeared aimed at Arab regional states, with a warning that digital infrastructure could be targeted. Rezaei threatened US-linked cables, data centres and artificial intelligence facilities in the UAE and around the Strait of Hormuz.\nA woman rides her scooter past Iranian Zolfaghar missiles placed in front of a billboard of Iranian Supreme Leader Ayatollah Mojtaba Khamenei at Baharestan Square in downtown Tehran, Iran, September 28, 2026 [Abedin Taherkenareh/EPA] Rezaei also accused Saudi Arabia of helping the US move oil around Iran’s restrictions. But he did not threaten a direct attack against Riyadh – which is currently being targeted by Yemen’s Tehran-aligned Houthis.\nIn early September, Iran’s Islamic Revolutionary Guard Corps (IRGC) threatened tankers at ports and anchorages in Kuwait and Bahrain, citing US attacks on Iranian tankers . It accused both countries of complicity through hosting US armed forces.\nIran has claimed the US accepted some of Tehran’s seven conditions for the full reopening of the Strait of Hormuz and ending the war. But Tehran insists that a deal will only materialise when all its demands are met.\nHamidreza Azizi, a senior Iran analyst at the Crisis Group, said this reflects Tehran’s apparent assessment that it is under no immediate pressure to reach an agreement with the US since its pressure in the Hormuz has a global impact.\n“The question, however, is whether Tehran is overestimating its ability to sustain this pressure, given the growing economic costs of the confrontation for Iran itself,” Azizi wrote on X.\nThe system involves very large crude carriers (VLCCs) and smaller vessels coordinating with the US military to load crude oil at Arab ports and use southern corridors near the coast of Oman to exit the strait.\nVessels often switch off their transponders and travel at night to minimise the risk of being targeted by the Iranians. After ship-to-ship transfers in the Gulf of Oman, some of the shuttles come back to load more.\nMultiple vessels were targeted overnight Sunday to Monday, including two outbound tankers and one in anchorage near Oman’s port city of Sohar, where ship-to-ship transfers are allegedly being conducted.\nOther vessels were targeted by projectiles last week, indicating that attacks have extended beyond the Strait of Hormuz to target the shuttle system.\nThe IRGC has also increasingly driven a narrative that naval mines, believed to have been planted across the Strait of Hormuz since the start of the war, pose a serious threat to vessels attempting to navigate the waterway without coordinating with Iran’s Persian Gulf Strait Authority.\nThe IRGC said three tankers suffered major damage over the weekend after being struck by mines. It also released footage of one ship ablaze that is said to have been struck by a mine, although the footage did not appear to show a mine going off.\nThe shuttle system has provided Arab national oil companies with a way out of Hormuz via the southern corridor near Oman.\nMichelle Wiese Bockmann, a London-based senior maritime intelligence analyst at Windward, said this system has proven highly effective.\n“Under international maritime law, which underpins 11 billion tonnes of seaborne trade annually, vessels have what’s called the right of transit passage,” Bockmann told Al Jazeera. “So, what Oman has done is allow vessels to go through under international maritime law, but they have had US military assistance.”\nTehran says shipping will be disrupted so long as the US continues its choking naval blockade against Iran, which has also stepped up its efforts to counter efforts by Arab states to export oil. At least 15 ships are believed to have been targeted in October so far, according to Winward.\n“The more effective the route has become in facilitating the transport of oil and gas, the less leverage Iran has over Hormuz, and more attacks we are seeing on vessels that are using that southern corridor,” Bockmann said.\nWindward’s data shows 31 ships transited the Strait of Hormuz daily in the final week of September. This was considerably lower than the 138 before the war.\nEighty-seven percent of the 45 ships targeted by Iran during the third quarter of 2026 were tankers.\nAround 47 percent belonged to Gulf Arab energy companies’ national shipping fleets, Windward noted, and 93 percent of the strikes took place in the Strait of Hormuz. Most attacks targeted vessels transiting the southern corridor with their transponders turned off.\nThese attacks have contributed to a massive increase in freight costs. Freight represented 25-30 percent of Gulf crude’s cost, versus just 1 to 3 percent before the war, according to Windward. National oil companies have resorted to offering discounts of up to $35 per barrel below official selling prices.\nThe main reason for the rise is a shortage of tankers willing to make the dangerous crossing. Between 15 and 20 percent of very large crude carriers (VLCCs) are tied up with an inefficient logistics system that relies on shuttle transfers, complicated by escalating attacks and exposure at loading ports and anchorages.\n“This is having cascading impacts for all vessel classes on freight and values across the world,” Bockmann said.",
-      "published": "2026-10-12T14:30:41+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Energy"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
     },
     {
       "title": "Iran reviews U.S. Hormuz proposal as oil supply uncertainty continues - Oil & Gas 360",
@@ -269,66 +269,25 @@
       "assets": []
     },
     {
-      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJak",
-      "content": "Share UK blames Iran for airbase plot, sanctions two Iranian nationals on social media\nUK PM says RAF base incidents &#x27;likely coordinated&#x27; by Iran\nThe United Kingdom’s prime minister, Andy Burnham, has said that a suspected plot against a Royal Air Force (RAF) base used by the United States in the town of Fairford was “almost certainly” directed by Iran’s Islamic Revolutionary Guard Corps (IRGC).\nThe allegation on Monday came as the UK announced sanctions on two Iranians over alleged “hostile activity”, raising the diplomatic stakes over the largely unexplained incident for which Tehran has denied any responsibility.\nlist of 4 items list 1 of 4 Two Latvian men arrested inside UK military base after breach\nlist 2 of 4 Mapping where US bombers are based globally\nlist 3 of 4 UK police arrest British national linked to RAF Fairford airbase incident\nlist 4 of 4 UK police charge Royal Navy member accused of working with foreign power\n“We will not tolerate these threats on our soil,” Burnham told parliament, promising that the government “will crack down on Iran’s use of criminal networks, using our full range of powers to target them and their funding streams”.\nHe added that the UK will “bring further sanctions to restrict the capacity of Iran and the IRGC to do us harm”.\nThe incident near the airbase in southern England occurred in the early hours of September 27, when five British men in their 20s were arrested on suspected “terrorism” and explosives offences.\nPolice said they found a supply of petrol in three vans linked to the suspects, but no explosives. The men were later released without charge on police bail “under stringent conditions”.\nTwo others were arrested later, including a British-Iranian national, but were later released. None of the men has been charged, and the source and nature of the threat at Fairford have remained shrouded in mystery.\nUK Foreign Secretary Ed Miliband said on Monday that the government was sanctioning two Iranians for their “role in facilitating or engaging in hostile activity on behalf of the Iranian regime”.\nOne is Ruhollah Bazghandi, the head of IRGC counterespionage operations, who the Foreign Office said is now subject to an asset freeze, a travel ban and a bar on serving as a company director.\nThe other is Shahram Ali Reza Tamarzadeh Jakki, whom British officials described as a facilitator for the Zindashti criminal network. The group is already under UK sanctions and has been accused of involvement in several plots against Iranian dissidents.\nMiliband said he had also summoned Iran’s ambassador.\n“We have repeatedly made clear to Iran, Britain will not tolerate threats on our soil,” he wrote on X.\nOn Monday, Iran’s ambassador to the UK, Ali Mousavi, met Stephen Doughty, the UK’s minister for the Middle East, and “categorically rejected” allegations of any Iranian role, urging “the British side to refrain from any unsubstantiated statements”.\nMousavi told UK authorities that Tehran is willing to cooperate with the investigation into the incident , according to Iran’s state news agency IRNA.\nLast month, the Iranian embassy in London said in a statement that Tehran “categorically rejects and strongly condemns” the “unfounded and malicious speculations” attempting to link the country to the arrests near Fairford.  It warned that such claims will “fuel Iranophobia propaganda”.\nRAF Fairford, about 160km (100 miles) west of London, is the preferred European base for US bombers and has served as a staging point for US aircraft in the war on Iran, which began on February 28.\nEarlier this month, the US moved its B-52 and B-1 bombers over concerns about a suspected Iranian plot to carry out a complex drone attack on the facility, according to US officials.\nSeparately on Monday, 29 countries, including the UK, the US, most European states, Canada, Australia and New Zealand, issued a joint statement denouncing “in the strongest terms Iran’s use of violent attacks”.\nThe statement said such attacks included “acts of lethal plotting, arson, sabotage, cyber-attacks, and other hybrid activities against us and our partners”.\n“Any attempt by Iran to threaten, silence, intimidate, harass, harm, or coerce people on our territories through proxies or any other means is unacceptable,” it read.",
-      "published": "2026-10-12T23:27:47+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "Guardian World",
-        "Al Jazeera"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "NATO general sets out tough military response to any 'foolish' Russian attack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJaSDd1eGFCbTBiUDJRNmpVVUtJck1fR05QX0NEV0VEV0tnNS1YMnc5d00tTDktSzFHcU1IcXUxakR1NkJyTzZCUDVoM054NEFhMUhtUFlXenZseWF3M2dQSG95X19jYlJxSkRfb0hpTHJkcVd2TTZuX2RwSnF0LVNkR3NKLXV5cFdXUjRNLTY1ZTg1ZU9qWTZmNkdCZ3dtODIwOVNHNndXaUgwT1p5SkFaZHk?oc=5",
-      "summary": "NATO general sets out tough military response to any 'foolish' Russian attack&nbsp;&nbsp;Reuters",
+      "title": "Trump says he is considering firing US ambassador to Greece - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWU5OdGppOWp6blA3UzZyT2tVenY4eExFelZFYVVHbkhQT0NGZkRnaG5GOFVpYzEwS3ZVWXViMW16VXZqRHNGM1hSeWpId2RMek5kR0ZiLTd6NUhFSDVvbE8tNk4xbHh0NXZkWGhteDBBa0xhN3JIbHhKZDJvN21BUFM3OUdubWp5eGtKWjlWandOT19oR1dzbFRrdXpFd0JsaGZKVGtvWFM?oc=5",
+      "summary": "Trump says he is considering firing US ambassador to Greece&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-12T14:08:09+00:00",
+      "published": "2026-10-12T21:24:08+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "Al Jazeera"
+        "AP World",
+        "BBC World",
+        "CNBC Top"
       ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "source_count": 4,
+      "category": "us",
+      "category_zh": "美国",
       "stars": 3,
       "score": 14.8,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczFSVDhqcTgwTUliMlo0OFhGcHFOWHd2T19MM1l3VjU5VFM1SmZmaDB5ek00Q1Z6WEI3RTExUTlzREt5YzYteWVOVTUxWnRZb3VlTTRRU1Rrd0t4ek1nWnptc3BQdFNXVGVyR2ZkMk03SW1VRFh2YTRDcU9kUFg0S1lXZTJVbU0?oc=5",
-      "summary": "NATO Details Plan to Shield Ukraine’s European Allies From Russia&nbsp;&nbsp;The New York Times",
-      "content": "",
-      "published": "2026-10-12T20:55:31+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 14.5,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -377,11 +336,56 @@
       "assets": []
     },
     {
+      "title": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ZjaXowUkVCSkx4TVpHUFY1S0ttLV9kYW9TN1YxWnh6N05YSEFQMFVUb29weUJpNkcydVRoTFplY2locjdUSUVNd2tZeWNmZnJ3TzhubWRuUzZMLUZpakRFM2U3dXJMeHNfSWV3LVNteU51aTRZeFMxeEdTMjl6UENYcWxvcWMyZnkwYVRRZGlwTHh2LWc1OFFBcjJ6TGJXcG5hVWY0MTRYY19FTXAzdGxNM1M?oc=5",
+      "summary": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-12T21:44:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.23,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Asian stocks dive on AI jitters ahead of US bank earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
+      "summary": "Asian stocks dive on AI jitters ahead of US bank earnings&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T01:41:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "CNBC Top"
+      ],
+      "source_count": 2,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
       "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBULVM1THpjc3laQTlrMW12dmVuXzMxNjdXcmtreExYSUNlVlhidG5aR19nb3I5cWJranBUNGlCQms2bDY4UzdXbi1hRXNjbWlucjhrdGJuT2pCU2EzeUJseFBHNmQ5WWpfckxnTi13SWkwVnNTSlM4T1RjVW8?oc=5",
       "summary": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine&nbsp;&nbsp;The New York Times",
       "content": "",
-      "published": "2026-10-12T17:20:14+00:00",
+      "published": "2026-10-12T17:20:15+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -395,31 +399,6 @@
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFFlQ2RWX2k2c19mRUlseHB2TDlOM0xYSVdXc29YSHBVS2o0OE1qRHFXQU1JR093ellFZ2xSNEg3cUZISWx1SllLdmpuQWNBaFoyQmJHU1RaMHZ0YlFXN3l0eVZkNlhvQlRaTElKWExxTFh4cmNOc0xIeVdpdWh0MHdicmVsajVQMEdtMkZRRzFMOXpyRzBXQmdDQ2lpUlFKVlRMdzVlSXR3aE51ZU9ZZA?oc=5",
-      "summary": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal&nbsp;&nbsp;Bloomberg.com",
-      "content": "",
-      "published": "2026-10-12T03:47:00+00:00",
-      "source": "GN China",
-      "sources": [
-        "GN China",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
     },
     {
       "title": "An Interview with Microsoft’s Scott Guthrie on Azure’s New AI Chip, ‘Insatiable’ AI Demand and Today’s AI Model Price War - Key Context by Tae Kim",
@@ -549,22 +528,22 @@
       "assets": []
     },
     {
-      "title": "Saudi plans to expand oil export routes to cut Hormuz reliance - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUNPN09OZko0OWdOa1liUDlyNDdGekl6OENHNkIxMnQxaHpsdWJzS21obkRqTW9kXzJ3RU83c0J1UEJqZjlSM0p4S3ZkUEhtdVRLak5HV1NHbTJSVFRtc3dFR3Q5SkRfZkg1b2d5a3B3YzlzaXpaTTdSa2VLdHlJNVRhWmFzTkRfclFZNzNuWnBoVGVoZVNEdUlUQUpIODJXblNUWHVxd00?oc=5",
-      "summary": "Saudi plans to expand oil export routes to cut Hormuz reliance&nbsp;&nbsp;Semafor",
-      "content": "Saudi plans to expand oil export routes to cut Hormuz reliance\nSaudi Arabiaâs Minister of Energy Prince Abdulaziz bin Salman Al Saud. Ramil Sitdikov/Reuters\nSaudi Arabia plans to expand its oil pipeline network to cut its reliance on the Strait of Hormuz. Energy Minister Prince Abdulaziz bin Salman said today that a gas pipeline is being converted to carry crude as well and could move around 1 million barrels a day within eight weeks, rising to 3 million with further investment. âWe may end up with 10 million barrels of pipeline within two to three years, that can divert oil to a different destination,â he said, adding that the government, not Aramco, is footing the bill.\nThe urgency is growing as wars in the Middle East and Ukraine strain global oil supplies : Goldman Sachs raised its year-end oil price forecast over the weekend citing thinning inventories. But Iran is â not likely to stand by â as new export routes emerge, experts at the Center for Strategic and International Studies warned.",
-      "published": "2026-10-12T12:35:00+00:00",
+      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWp5UElEV2piTFkzc3NRUTR4NDJfM0trT2wybWw5U2pkeGdpdlg2NHVCN1lCZWN3MGIwX3F3OWtDc1lwOG1LQmhENVVPT0s1T1FGZjNwNDczSE9WczU4SkN3QlVVRTlpOFcwTGp0ZFU4ZjRLcG5HRm1tOTdjUUMyOXZDLUlFMUgzZlhzTlp1LXN2dDhycE1lS1pGYXNlaTMtLTNiOFZwcFR3ZkNwaVJEUdIBtgFBVV95cUxNLU5pTjR5VVVpNEZJYjRfVVRuZ1lTZ0Y5OWd5LXFocDdJc1YyNFc4T1ZWMVRhTWxIUXhxNG5qQUtoeWdqdWtxM2J6SGhIQkVDMk1iZ0o5U2tCZmZRcC1tRDNkRUFBcUxFRGRfWlVPTU9jVjJjQ2RDNDNrRWpvbjREYklOVnEtZlpFdlhkUjZHeVlFWmpSWnNNd1NYRXZ4NUg0bDJVN2NFeU5RTGFNLTRvT1BHV3Brdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObWp5UElEV2piTFkzc3NRUTR4NDJfM0trT2wybWw5U2pkeGdpdlg2NHVCN1lCZWN3MGIwX3F3OWtDc1lwOG1LQmhENVVPT0s1T1FGZjNwNDczSE9WczU4SkN3QlVVRTlpOFcwTGp0ZFU4ZjRLcG5HRm1tOTdjUUMyOXZDLUlFMUgzZlhzTlp1LXN2dDhycE1lS1pGYXNlaTMtLTNiOFZwcFR3ZkNwaVJEUdIBtgFBVV95cUxNLU5pTjR5VVVpNEZJYjRfVVRuZ1lTZ0Y5OWd5LXFocDdJc1YyNFc4T1ZWMVRhTWxIUXhxNG5qQUtoeWdqdWtxM2J6SGhIQkVDMk1iZ0o5U2tCZmZRcC1tRDNkRUFBcUxFRGRfWlVPTU9jVjJjQ2RDNDNrRWpvbjREYklOVnEtZlpFdlhkUjZHeVlFWmpSWnNNd1NYRX",
+      "content": "Share Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz on social media\nShips float anchored off the coast of Khasab in Oman’s Musandam Governorate, near the Strait of Hormuz, on October 2, 2026 [AFP]\nTehran, Iran – Iranian authorities have signalled they intend to disrupt an Arab-operated and United States-assisted shuttle system that has enabled more energy exports through the Strait of Hormuz during the US-Israel war on Iran.\nWith the US naval blockade of Iran’s southern ports in place and sanctions tightening, Tehran has said it will pursue military and diplomatic efforts to put pressure on Washington to submit to its demands regarding reopening the Strait of Hormuz.\nlist of 3 items list 1 of 3 What new measures is Iran taking to counter US economic pressure?\nlist 2 of 3 Saudi Arabia says East-West pipeline pumping 5.8 million bpd\nlist 3 of 3 Hormuz ship attacks surge: Are increased oil exports sustainable?\nThis strategic waterway, through which roughly a fifth of global oil and gas flowed before the war, has been largely closed to shipping following Iranian attacks since the US and Israel launched strikes on Iran on February 28.\nBut the US Navy has reportedly opened up a route so Gulf states can export oil and other commodities amid an energy crisis.\nIran’s security chief Mohsen Rezaei responded on Sunday night, saying the shuttle system is now an explicit target for Tehran.\nRezaei claimed that the US Central Command, with the assistance of the United Arab Emirates military, was using smaller vessels to transfer oil to larger tankers. He claimed Iran had been striking five or six participating vessels nightly for weeks.\n“You are smuggling, but the strait is under Iran’s control, and we manage it,” he asserted.\nThis appeared to be a taunt aimed at US President Donald Trump, who has hailed energy exports at times reaching pre-war levels over recent weeks.\nRezaei appeared to give the impression that Iran wants to have lasting authority over Hormuz, and promised a harsh response if Iran’s energy and civilian infrastructure were attacked again.\nHis threats appeared aimed at Arab regional states, with a warning that digital infrastructure could be targeted. Rezaei threatened US-linked cables, data centres and artificial intelligence facilities in the UAE and around the Strait of Hormuz.\nA woman rides her scooter past Iranian Zolfaghar missiles placed in front of a billboard of Iranian Supreme Leader Ayatollah Mojtaba Khamenei at Baharestan Square in downtown Tehran, Iran, September 28, 2026 [Abedin Taherkenareh/EPA] Rezaei also accused Saudi Arabia of helping the US move oil around Iran’s restrictions. But he did not threaten a direct attack against Riyadh – which is currently being targeted by Yemen’s Tehran-aligned Houthis.\nIn early September, Iran’s Islamic Revolutionary Guard Corps (IRGC) threatened tankers at ports and anchorages in Kuwait and Bahrain, citing US attacks on Iranian tankers . It accused both countries of complicity through hosting US armed forces.\nIran has claimed the US accepted some of Tehran’s seven conditions for the full reopening of the Strait of Hormuz and ending the war. But Tehran insists that a deal will only materialise when all its demands are met.\nHamidreza Azizi, a senior Iran analyst at the Crisis Group, said this reflects Tehran’s apparent assessment that it is under no immediate pressure to reach an agreement with the US since its pressure in the Hormuz has a global impact.\n“The question, however, is whether Tehran is overestimating its ability to sustain this pressure, given the growing economic costs of the confrontation for Iran itself,” Azizi wrote on X.\nThe system involves very large crude carriers (VLCCs) and smaller vessels coordinating with the US military to load crude oil at Arab ports and use southern corridors near the coast of Oman to exit the strait.\nVessels often switch off their transponders and travel at night to minimise the risk of being targeted by the Iranians. After ship-to-ship transfers in the Gulf of Oman, some of the shuttles come back to load more.\nMultiple vessels were targeted overnight Sunday to Monday, including two outbound tankers and one in anchorage near Oman’s port city of Sohar, where ship-to-ship transfers are allegedly being conducted.\nOther vessels were targeted by projectiles last week, indicating that attacks have extended beyond the Strait of Hormuz to target the shuttle system.\nThe IRGC has also increasingly driven a narrative that naval mines, believed to have been planted across the Strait of Hormuz since the start of the war, pose a serious threat to vessels attempting to navigate the waterway without coordinating with Iran’s Persian Gulf Strait Authority.\nThe IRGC said three tankers suffered major damage over the weekend after being struck by mines. It also released footage of one ship ablaze that is said to have been struck by a mine, although the footage did not appear to show a mine going off.\nThe shuttle system has provided Arab national oil companies with a way out of Hormuz via the southern corridor near Oman.\nMichelle Wiese Bockmann, a London-based senior maritime intelligence analyst at Windward, said this system has proven highly effective.\n“Under international maritime law, which underpins 11 billion tonnes of seaborne trade annually, vessels have what’s called the right of transit passage,” Bockmann told Al Jazeera. “So, what Oman has done is allow vessels to go through under international maritime law, but they have had US military assistance.”\nTehran says shipping will be disrupted so long as the US continues its choking naval blockade against Iran, which has also stepped up its efforts to counter efforts by Arab states to export oil. At least 15 ships are believed to have been targeted in October so far, according to Winward.\n“The more effective the route has become in facilitating the transport of oil and gas, the less leverage Iran has over Hormuz, and more attacks we are seeing on vessels that are using that southern corridor,” Bockmann said.\nWindward’s data shows 31 ships transited the Strait of Hormuz daily in the final week of September. This was considerably lower than the 138 before the war.\nEighty-seven percent of the 45 ships targeted by Iran during the third quarter of 2026 were tankers.\nAround 47 percent belonged to Gulf Arab energy companies’ national shipping fleets, Windward noted, and 93 percent of the strikes took place in the Strait of Hormuz. Most attacks targeted vessels transiting the southern corridor with their transponders turned off.\nThese attacks have contributed to a massive increase in freight costs. Freight represented 25-30 percent of Gulf crude’s cost, versus just 1 to 3 percent before the war, according to Windward. National oil companies have resorted to offering discounts of up to $35 per barrel below official selling prices.\nThe main reason for the rise is a shortage of tankers willing to make the dangerous crossing. Between 15 and 20 percent of very large crude carriers (VLCCs) are tied up with an inefficient logistics system that relies on shuttle transfers, complicated by escalating attacks and exposure at loading ports and anchorages.\n“This is having cascading impacts for all vessel classes on freight and values across the world,” Bockmann said.",
+      "published": "2026-10-12T14:30:41+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
       ],
       "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.9,
       "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
       "assets": [
         "原油",
@@ -601,7 +580,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5",
       "summary": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy.&nbsp;&nbsp;The Motley Fool",
       "content": "Microsoft ( MSFT +1.14% ) now has a third generation of its own artificial intelligence (AI) chip. The tech giant announced Maia 300 on Monday and said it will ramp up its Maia chips starting in 2027 to make them the main system running AI in its own products.\nThat might sound like trouble for Nvidia ( NVDA -1.29% ) . The AI chip leader gets around half its revenue from big cloud companies like Microsoft, a group it calls hyperscale customers.\nBut I don&#x27;t think the news matters much for Nvidia shares. The company&#x27;s quarterly revenue is over five times what it was right before Microsoft&#x27;s first Maia chip launched in late 2023. And Microsoft still buys Nvidia&#x27;s chips.\nIn the announcement, Microsoft said it will make Maia \"the primary inference system for Microsoft products and services.\" Inference means using an AI model once it&#x27;s been trained.\nMicrosoft also said it expects Maia 300 to generate 40% more tokens (units of AI output) per megawatt than top systems built around graphics processing units , the type of chip Nvidia sells. Still, that&#x27;s Microsoft&#x27;s own estimate for a chip that isn&#x27;t set to start production deployments until 2027.\nMeanwhile, CEO Satya Nadella said on Microsoft&#x27;s July earnings call that the company will be one of the first cloud providers to deploy Nvidia&#x27;s next-generation Vera Rubin systems. Management guided for capital expenditures of over $50 billion in the quarter that ended in September.\nThat would be up from $41 billion in Microsoft&#x27;s fiscal fourth quarter of 2026 (the period ended June 30, 2026), which was itself up from $24.2 billion a year before. Around two-thirds of that quarter&#x27;s spending went toward shorter-lived assets, mostly chips.\nThe first Maia chip launched in November 2023, and Maia 200 followed in January 2026. In the quarter ending right before the first one came out, Nvidia&#x27;s fiscal third quarter of 2024 (the period ended Oct. 29, 2023), revenue was $18.1 billion.\nShowing how little in-house chips have slowed Nvidia since then, the company took in $96.2 billion in the fiscal second quarter of 2027 (the period ended July 26, 2026). That was up 106% year over year -- faster than the 85% growth in fiscal Q1. Earnings per share jumped 128%. What&#x27;s more, hyperscale customers, the ones with the most reason to buy fewer Nvidia chips, more than doubled their spending to $48.7 billion.\nNvidia&#x27;s fiscal Q3 guidance of around $108 billion points to growth of about 89%. And for fiscal 2028, chief financial officer Colette Kress said on the August earnings call that the company expects revenue to rise about 70% -- a forecast she described as held back by supply. Fiscal 2028 includes most of 2027, the year Microsoft plans to start ramping Maia up.\nTrue, Amazon and Alphabet design their own AI chips, too. And Nvidia&#x27;s sales are concentrated, with one direct customer making up 16% of revenue in fiscal Q2. If its top buyers shifted most of their AI work to their own chips, Nvidia&#x27;s growth could slow quickly.\nBut Nvidia&#x27;s sales outside the hyperscale group are growing even faster. Revenue from its other data center customers (AI cloud providers, businesses, and governments) climbed 138% year over year to $40.3 billion. Hyperscale customers&#x27; share of data center revenue dropped from around 59% a year earlier to about 55%.\nOn Nvidia&#x27;s August earnings call, CEO Jensen Huang described many custom chips as \"inference-specific chips for one cloud or one service.\" He called Nvidia&#x27;s product \"an entire AI factory platform that spans the entire AI life cycle that you can use in any cloud.\"\nI&#x27;d say Maia matches his description. Microsoft built it to power Microsoft&#x27;s products.\n$5.5T Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary.\nIn the end, custom chips like Maia might take some work from Nvidia. But the stock arguably isn&#x27;t priced as if Nvidia will keep all of it.\nShares trade near $226 as of this writing, about 6% off the record close they set on Oct. 6. That price is about 14 times what analysts expect Nvidia to earn on average in fiscal 2028 (the 12 months through January 2028). For Microsoft&#x27;s fiscal 2028 (ending June 2028), the same number is about 23 times earnings .\nI think Nvidia&#x27;s price is cheap for a company still guiding for growth around 90%. It remains the chip stock I&#x27;d consider buying now.\n$10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030\n4 No-Brainer Chip Stocks to Own for the Next Decade\nNot Sandisk, Not Intel. This Stock Will Lead the S&P 500 Next Year\nThis Could Be the Biggest Risk for Artificial Intelligence (AI) Stocks That No One Wants to Talk About (Hint: It&#x27;s Not Rising Debt)\nDaniel Sparks is a contributing Motley Fool stock market analyst covering technology, industrials, financials, and consumer goods. Daniel is the owner and chief investment officer of Sparks Capital Management. He holds a master’s degree in business administration from Colorado State University. The Globe and Mail profiled him and his investing philosophy in an article titled, “This stock picker is outperforming nearly everybody else. Here’s how he is doing it.”\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-13T01:55:30+00:00",
+      "published": "2026-10-13T02:27:38+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -660,6 +639,27 @@
       "assets": []
     },
     {
+      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJak",
+      "content": "Share UK blames Iran for airbase plot, sanctions two Iranian nationals on social media\nUK PM says RAF base incidents &#x27;likely coordinated&#x27; by Iran\nThe United Kingdom’s prime minister, Andy Burnham, has said that a suspected plot against a Royal Air Force (RAF) base used by the United States in the town of Fairford was “almost certainly” directed by Iran’s Islamic Revolutionary Guard Corps (IRGC).\nThe allegation on Monday came as the UK announced sanctions on two Iranians over alleged “hostile activity”, raising the diplomatic stakes over the largely unexplained incident for which Tehran has denied any responsibility.\nlist of 4 items list 1 of 4 Two Latvian men arrested inside UK military base after breach\nlist 2 of 4 Mapping where US bombers are based globally\nlist 3 of 4 UK police arrest British national linked to RAF Fairford airbase incident\nlist 4 of 4 UK police charge Royal Navy member accused of working with foreign power\n“We will not tolerate these threats on our soil,” Burnham told parliament, promising that the government “will crack down on Iran’s use of criminal networks, using our full range of powers to target them and their funding streams”.\nHe added that the UK will “bring further sanctions to restrict the capacity of Iran and the IRGC to do us harm”.\nThe incident near the airbase in southern England occurred in the early hours of September 27, when five British men in their 20s were arrested on suspected “terrorism” and explosives offences.\nPolice said they found a supply of petrol in three vans linked to the suspects, but no explosives. The men were later released without charge on police bail “under stringent conditions”.\nTwo others were arrested later, including a British-Iranian national, but were later released. None of the men has been charged, and the source and nature of the threat at Fairford have remained shrouded in mystery.\nUK Foreign Secretary Ed Miliband said on Monday that the government was sanctioning two Iranians for their “role in facilitating or engaging in hostile activity on behalf of the Iranian regime”.\nOne is Ruhollah Bazghandi, the head of IRGC counterespionage operations, who the Foreign Office said is now subject to an asset freeze, a travel ban and a bar on serving as a company director.\nThe other is Shahram Ali Reza Tamarzadeh Jakki, whom British officials described as a facilitator for the Zindashti criminal network. The group is already under UK sanctions and has been accused of involvement in several plots against Iranian dissidents.\nMiliband said he had also summoned Iran’s ambassador.\n“We have repeatedly made clear to Iran, Britain will not tolerate threats on our soil,” he wrote on X.\nOn Monday, Iran’s ambassador to the UK, Ali Mousavi, met Stephen Doughty, the UK’s minister for the Middle East, and “categorically rejected” allegations of any Iranian role, urging “the British side to refrain from any unsubstantiated statements”.\nMousavi told UK authorities that Tehran is willing to cooperate with the investigation into the incident , according to Iran’s state news agency IRNA.\nLast month, the Iranian embassy in London said in a statement that Tehran “categorically rejects and strongly condemns” the “unfounded and malicious speculations” attempting to link the country to the arrests near Fairford.  It warned that such claims will “fuel Iranophobia propaganda”.\nRAF Fairford, about 160km (100 miles) west of London, is the preferred European base for US bombers and has served as a staging point for US aircraft in the war on Iran, which began on February 28.\nEarlier this month, the US moved its B-52 and B-1 bombers over concerns about a suspected Iranian plot to carry out a complex drone attack on the facility, according to US officials.\nSeparately on Monday, 29 countries, including the UK, the US, most European states, Canada, Australia and New Zealand, issued a joint statement denouncing “in the strongest terms Iran’s use of violent attacks”.\nThe statement said such attacks included “acts of lethal plotting, arson, sabotage, cyber-attacks, and other hybrid activities against us and our partners”.\n“Any attempt by Iran to threaten, silence, intimidate, harass, harm, or coerce people on our territories through proxies or any other means is unacceptable,” it read.",
+      "published": "2026-10-12T23:27:47+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWJ0NVNWU296YXNLZ1BDNC11S1V3MW5uY1ViQ2M3VmZ4eVZVLWtTT2x4MG4zOGJncUVrOFFyZkcwekpYZXpWRWhvc0lxWkhveHU3MmV0VW03dEo1RmN4dzVhSVFWajBzMXlZVDFQWXRkQ3V3eFdVTDdadFpJNjFCVzVlQ05WMkYxZEpmelV6RDdBaWhSN19YVDJROXcySFo0anBOWTNQYk81TENDaUY4?oc=5",
       "summary": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident&nbsp;&nbsp;Reuters",
@@ -668,73 +668,11 @@
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "Al Jazeera"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Russia says it struck vessels carrying military cargo to Ukraine's ports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVplMUR3SmdrZWNfMFo4bVUzSFJRLXhFeHlHaTBCS1N1X1RoaXJ1QXZQaUI0SHFaVVdfbWE0R2p6cjdjTFM2TGtYN0I3R3czZTRndWJ5cnlKNnJyS1Q4VW1KTnBSVzItMTVLZkRpYUFIZFJ1X2RWMkJybmNhSzFRZFhSVzhGc21KeHh2eHhqVzBRbjZ0bk1wRzFLOEhSZkV0VDV6cnBIWlhrb2ZrdkRGeGlVUVBvbjF4?oc=5",
-      "summary": "Russia says it struck vessels carrying military cargo to Ukraine's ports&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T14:46:25+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Poland says two Turks detained in Germany over Starlink fire it blames on Russia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDhsbjlUdllaVk9UZWxIUkpMb3NaUjFzM1dzVHA2bW5LR21CSV9WaGFHVENUSkZLUHdGOXRuQ3Rqd0JURXR4WGVoN1FYbHJnaGVKbTdsT2h3LWNxNFlSX0ZhcWdpYm1Kd0lxY01hbVQ2d2NRN1F5azNLRlBWNmZsaFZPVFBqU0JqRzJBMzJrWTdnd2oyeWFUWUhwdmtNSEdzbW5Jejh0TUpEbzJyWUlTTU85d1JsRUliQmFR?oc=5",
-      "summary": "Poland says two Turks detained in Germany over Starlink fire it blames on Russia&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-12T17:50:51+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "Al Jazeera"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0hHTVVNQzFDSlZnY0l0Tl81dmE1TVcxWmlxdkczSUZEZWRJY2tpc1N5VEhfVUxPWlBmY1RBbnRtREZyWVk4YUFFSmZlekJNczFzYzliMXRmMmg2cXlocWNtRENFRW53em1fN1kzalRyNGdHeEhEWF96Y3NEajE5c242VUdOdkh1WlFuQlp6dHhxenNaMzAzc2FRd1Q2bk0?oc=5",
-      "summary": "Emergency help was delayed by confusion after failed execution of Christa Pike, 911 calls reveal&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-12T21:12:33+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
         "GN Top"
       ],
       "source_count": 2,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
@@ -763,51 +701,24 @@
       "assets": []
     },
     {
-      "title": "Fed's Hammack warns inflation is persistent, favors more restrictive policy - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRTg0RjF0SDRoWE96RFJfY0xSeGR4LTljR1NLZnZZUXUyUy1NY2lKRTduOHBpdlJCak50eVh3OVkydzZrNW5IZmhWeWdtbjJwWTRDZ1o5TF9vbzhyV095UnN3MXA2R2VMeGpZZmJjeTFpWS1sZC1HdTloQ2Z0M3JLYUFmSzFWWG5fdDZYb083WFhsYlA2MXZ1aU0xUWN1eEp6aWRvT1JPdkU2ZHMzZEViTk1NZWtPOVNlSGZCWnFIa1lGNGJjS1Zsc2E2RVYwUFJ1a2Fj?oc=5",
-      "summary": "Fed's Hammack warns inflation is persistent, favors more restrictive policy&nbsp;&nbsp;Yahoo Finance",
-      "content": "Fed's Hammack warns inflation is persistent, favors more restrictive policy\nCleveland Federal Reserve president Beth Hammack said Monday that inflation is broad-based and will take time to come back down, even with a boost in interest rates.\nHammack said she is looking toward more frequent, smaller rate adjustments to ensure an inflationary mindset doesn't take hold.\n\"I see inflation pressures as relatively broad-based rather than concentrated in one component,\" Hammack said, pointing to rising energy prices , tariffs , and AI. \"And it's not just the supply side. Demand-side pressures coming from the AI build-out are raising prices.\"\nHammack noted that while a one-time increase in tariffs could potentially be viewed as a one-time increase in price levels, multiple waves of tariff increases have resulted in a series of cost shocks.\nShe also noted how the AI build-out is raising prices on key computer, electronic, and high-tech components , which is raising costs for data centers, but also for projects that use similar components in aviation, electricity production, and construction.\nShe says when she talks with contacts across her district, she hears about additional cost pressures in health insurance, plastics, metals, grains, electricity, and other areas. Hammack noted price pressures are also showing up in core services inflation excluding housing, a category that shouldn't be especially exposed to tariffs or energy.\n\"Because of the breadth of inflationary pressures, my baseline forecast is that it will take some time for inflation to return to 2%, even with appropriate monetary policy,\" said Hammack.\nWhile a decline in energy prices would help move inflation in the right direction, she said the demand-side pressures are not \"self-correcting.\"\n\"They are likely to be more persistent and usually require a more restrictive policy to rein them in,\" said Hammack.\nHeadline inflation as measured by the Fed's preferred inflation gauge — the Personal Consumption Expenditures index — was 3.4% in August . Adjusting for volatile food and energy prices, it was 3%. Both are above year-earlier levels, when headline was 2.7% and core was 2.9%. Officials will get a fresh reading on inflation this week when the Consumer Price Index — a different inflation measure — is released.\nHammack warned that with each month inflation remains high, it raises the risk of an inflationary mindset becoming entrenched in the economy. She said she's beginning to see signs from business contacts that may be taking hold.\nHammack also laid out how she views interest rates should respond to changes in the economy, what is known in Fed parlance as her \"reaction function.\"\n\"The reaction function is accountability through transparency,\" she said. \"As a policymaker, I believe I have a responsibility to the public to explain why I make the decisions I make. Transparency has the benefit of allowing consumers, businesses, and financial markets to make better-informed decisions,\" she said.\nShe drew a sharp line between a reaction function and forward guidance.\n\"Treating the two as interchangeable can turn a well-meaning explanation of logic into the expectations of a promise,\" she said.\nJennifer Schonberger is a veteran financial journalist covering markets, the economy, and investing. At Yahoo Finance, she covers the Federal Reserve, Congress, the White House, the Treasury, the SEC, the economy, cryptocurrencies, and the intersection of Washington policy with finance. Follow her on X @Jenniferisms and on Instagram .\nClick here for the latest economic news and indicators to help inform your investing decisions\nRead the latest financial and business news from Yahoo Finance",
-      "published": "2026-10-12T18:58:35+00:00",
-      "source": "GN Fed",
+      "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczFSVDhqcTgwTUliMlo0OFhGcHFOWHd2T19MM1l3VjU5VFM1SmZmaDB5ek00Q1Z6WEI3RTExUTlzREt5YzYteWVOVTUxWnRZb3VlTTRRU1Rrd0t4ek1nWnptc3BQdFNXVGVyR2ZkMk03SW1VRFh2YTRDcU9kUFg0S1lXZTJVbU0?oc=5",
+      "summary": "NATO Details Plan to Shield Ukraine’s European Allies From Russia&nbsp;&nbsp;The New York Times",
+      "content": "",
+      "published": "2026-10-12T20:55:31+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "GN Fed"
+        "GN Geopolitics"
       ],
       "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.4,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "Microsoft makes ‘biggest bet yet’ on its own silicon, unveils new AI chip to reduce reliance on Nvidia - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEZEbjdfOE1lY3RRLVpLcGZDNlUtLU93MTlhbW9JYzRoMmlGZHJsNmd5UFRXNjZkWE9FUmhLRFNqOTZVQ3dKaHkyNm15blIwSXduVk9wb18wV1d4djQ5Sm9Fc1E0aFA3cC0wbjhubVFHRlM2emVWTGhvRGNDYmJiN0JwV2tfQ2xHelBzUEU5R1ZPNVZPNW4tY1VhbjhuQUtHMXZILWdqTDgwdkFHZU5XbnZKNEdWUjk2M01jQ1pUeV9tQ2NUQ3FEV0Rn?oc=5",
-      "summary": "Microsoft makes ‘biggest bet yet’ on its own silicon, unveils new AI chip to reduce reliance on Nvidia&nbsp;&nbsp;GeekWire",
-      "content": "by Todd Bishop on Oct 12, 2026 at 6:22 am October 12, 2026 at 6:24 am\nA prototype of Microsoft’s Azure Maia 300 chip, which the company plans to begin deploying at scale in 2027. (Microsoft Photo)\nMicrosoft plans to run most of its AI services on chips it designs itself, a shift that could save the company billions of dollars and reduce its dependence on industry juggernaut Nvidia.\nThe company on Monday unveiled Maia 300, the third generation of its custom AI chip, saying it will begin large-scale deployments in 2027. In a blog post , Azure chief Scott Guthrie said Maia will become “the primary AI inference system for Microsoft products and services.”\nMicrosoft CEO Satya Nadella called it “our biggest bet yet on our own silicon” in a post on X .\nMaia 300 will produce 40% more AI output for the same amount of power as leading GPU-based systems, which Nvidia dominates, according to the company.\nA full rack of the new chips will produce up to seven times as much AI output as the current generation, the company says. They’re designed for the kinds of tasks that are growing fastest, such as AI agents that work through multistep jobs and models that handle long documents or conversations.\nThe Redmond company designs the chips and relies on Taiwan Semiconductor Manufacturing Co. (TSMC) to make them, rather than buying finished chips from Nvidia. More-efficient chips also let Microsoft run AI services using less electricity, at a time when power supply has become one of the biggest constraints on AI expansion.\nMicrosoft and Nvidia remain big partners. Nadella and Nvidia CEO Jensen Huang shared the stage last week to launch Windows PCs built on Nvidia chips. Nvidia also remains a key supplier for Microsoft’s data centers, and Nadella said on the company’s July earnings call that Microsoft will be among the first cloud providers to deploy next-generation systems based on Nvidia’s Vera Rubin and AMD’s Helios.\nMicrosoft’s move is part of a larger trend among tech giants to design their own AI chips. Google has started selling its Tensor Processing Units directly to some customers, and Amazon has won over AI companies including Anthropic with its Trainium chips. Meta has rolled out its own AI chips , and OpenAI unveiled its first custom chip , built with Broadcom, in June.\nMicrosoft has been playing catch-up. Unlike Google’s and Amazon’s chips, Maia isn’t available for outside customers to rent. Microsoft’s first Maia chip, announced in 2023 , was followed by a second-generation Maia 200 this January after delays. As of this summer, Maia 200 was running in just two U.S. data centers, The Information reported in August .\nMaia 200, the current generation, already powers Microsoft 365 Copilot and runs models from OpenAI as well as Microsoft’s own. It’s now being deployed across the U.S., Europe and Australia, according to Microsoft. GitHub Copilot and Microsoft Foundry are set to move onto it by the end of the year.\nThe shift will take time. Evercore ISI analysts estimate that Maia will account for about 10% of Microsoft’s spending on AI chips by early 2027, CNBC reported .\nMicrosoft says it will share more details next month at its Ignite conference in San Francisco.\nMicrosoft unveils Maia 200 AI chip, claiming performance edge over Amazon and Google\nMicrosoft to invest $5B in Anthropic, as Claude maker commits $30B to Azure in new Nvidia alliance\nAmazon tops $3 trillion and Microsoft surges as Wall Street sets aside AI spending fears, for now\nMicrosoft plays the Windows card in the AI game, with help from Nvidia\nFind more jobs on GeekWork . Employers, post a job here .",
-      "published": "2026-10-12T13:22:17+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 13.3,
       "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Microsoft reveals Maia 300 AI chip as it works to reduce dependence on Nvidia, AMD - Yahoo Finance",
@@ -836,7 +747,7 @@
       "title": "Microsoft announces new AI chip Azure Maia 300 - upi",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5\" targ",
-      "content": "Oct. 12 (UPI) -- Microsoft is moving toward using its own computer chips with the announcement of its new Azure Maia 300 AI chip on Monday.\nThe new technology from Microsoft is part of its plan to ease its reliance on chips developed by Nvidia. Azure Maia 300 represents the launch of the company's third-generation of AI accelerator technology.\nMaia 300 builds on the architecture of Maia 200, which marked a new step in AI accelerators with the introduction of Software Defined Locally Accessed Dataflow Architecture.\n\"Maia 300 brings 2.5 times the memory bandwidth, 33% more capacity, and approximately 2 times the HBM bandwidth per watt compared with Maia 200,\" Microsoft said in its announcement.\nMicrosoft has relied on Nvidia's GPU technology, as have many industry leaders. Nvidia's GPU is used in data centers and AI model training for OpenAI and Anthropic as well.\nMicrosoft will begin production on Maia 300 units in 2027. The company intends to place 96 Maia 300 chips into each of its data center racks, about twice as much as the Maia 200 chips.\nMicrosoft is not yet completely abandoning Nvidia technology. In its announcement of its new line of Microsoft Surface laptops, its specs include Nvidia processing power. Microsoft also works with technology by AMD.\nAs of Monday, no third-party companies have tested the Maia 300.\nPresident Donald Trump hosts an event honoring Christopher Columbus in the East Room of the White House on Friday. The event highlighted the 13-foot reconstructed statue of Columbus installed outside the Eisenhower Executive Office Building in March after demonstrators in Baltimore threw into the harbor on July 4, 2020. Photo by Bonnie Cash/UPI | License Photo\nCelltrion's third-quarter operating profit surges nearly 70%\nFuel distributors urged to await guidance on Trump's diesel order\nJudge to rule on White House press access by Tuesday",
+      "content": "",
       "published": "2026-10-12T17:04:31+00:00",
       "source": "GN AI",
       "sources": [
@@ -859,7 +770,7 @@
       "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs - The Verge",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNMVlVUZmNza0NDelpIV21DellOcjRTcXFTUjQ5ZElIVUYxQ0I3SmJDa29wdldwUk1vYzZFUHE5aldoaXV6Y0dwb05WZ3RoV3VKUWxzaU1NY3dCSkMwRl92T1dBeTlUcklTUEJIYlpaQzJ4OW1kbU00VG5yc1pCaUQ2Q3RxekVsd0E?oc=5",
       "summary": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs&nbsp;&nbsp;The Verge",
-      "content": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs\nThe new Maia 300 chip will start rolling out to production AI workloads in 2027.\nThe new Maia 300 chip will start rolling out to production AI workloads in 2027.\nTom Warren is a senior correspondent and author of Notepad , who has been covering all things Microsoft, PC, and tech for over 20 years.\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the “primary AI inference system” for Microsoft’s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it’s also more capable of handling the latest reasoning models and agentic tasks.\nMaia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. “We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,” says Scott Guthrie , executive vice president of Microsoft’s cloud group. “And in a full 96-accelerator configuration, it delivers up to 7x the rack-scale token throughput of Maia 200.”\nThese efficiency improvements will allow Microsoft to rely mainly on its in-house AI chips soon, instead of ones from Nvidia and AMD. “We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary AI inference system for Microsoft products and services,” says Guthrie.\nMaia 300 chips will start being used for production workloads in 2027. Image: Microsoft\nMaia 300 is a successor to the 200, which was only announced in January . Maia 200 is already running on production AI workloads across Microsoft, including Microsoft Copilot, GitHub Copilot, Microsoft Foundry, and Microsoft’s own AI models.\n“Maia 200 is the best performing AI infrastructure in our fleet, measured in real world metrics for AI services,” says Guthrie. “Maia 300 is a complete AI system designed for the new types of AI workloads emerging today: Long-context reasoning, latency-sensitive conversational experiences, and sustained, multi-step agentic tasks.”\nMicrosoft is finally making custom chips — and they’re all about AI\nMicrosoft’s latest AI chip goes head-to-head with Amazon and Google\nMicrosoft is using a new chiplet architecture to get its all-important efficiency gains. Built on TSMC’s N2P process node, the latest Maia 300 architecture separates compute, memory controller, and I/O functions. “This increases the silicon area dedicated to compute performance and allows each function to use the technology best suited to its role,” says the Azure hardware and infrastructure team.\nMaia 300 is also a key part of Microsoft’s own AI model work, and could help the company achieve its goal of catching up with Google DeepMind, OpenAI, and Anthropic. “We have to work across the full stack, all the way down to the silicon,” says Microsoft AI CEO Mustafa Suleyman. “At that scale we need a platform that we own, and that we co-design with our models. That’s why running our Microsoft AI models on top of the Maia chip is a critical focus for our team.”\nFollow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Tom Warren\nA college in Illinois tried to cancel its Flock contact and it refused\nGTA VI leaks continue with a lengthy (and very nude) gameplay video\nLearning to use local AI is exciting, overwhelming, and frustrating\nBy providing your information, you agree to our Terms of Use and our Privacy Policy . We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nElon Musk has donated over $276 million to Republican midterm efforts\nThe Yandex outage probably didn’t blitz Russian bots\nThe OnePlus 16 is the company’s most interesting phone in years\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nCMF’s first wireless speakers look like musical milk cartons\nElon Musk has donated over $276 million to Republican midterm efforts\nThe Yandex outage probably didn’t blitz Russian bots\nThe OnePlus 16 is the company’s most interesting phone in years\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nCMF’s first wireless speakers look like musical milk cartons\nAndroid is the best and worst thing about Googlebooks\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nInside the mini factory where GM builds its EV future\nCMF’s first wireless speakers look like musical milk cartons",
+      "content": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs\nThe new Maia 300 chip will start rolling out to production AI workloads in 2027.\nThe new Maia 300 chip will start rolling out to production AI workloads in 2027.\nTom Warren is a senior correspondent and author of Notepad , who has been covering all things Microsoft, PC, and tech for over 20 years.\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the “primary AI inference system” for Microsoft’s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it’s also more capable of handling the latest reasoning models and agentic tasks.\nMaia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. “We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,” says Scott Guthrie , executive vice president of Microsoft’s cloud group. “And in a full 96-accelerator configuration, it delivers up to 7x the rack-scale token throughput of Maia 200.”\nThese efficiency improvements will allow Microsoft to rely mainly on its in-house AI chips soon, instead of ones from Nvidia and AMD. “We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary AI inference system for Microsoft products and services,” says Guthrie.\nMaia 300 chips will start being used for production workloads in 2027. Image: Microsoft\nMaia 300 is a successor to the 200, which was only announced in January . Maia 200 is already running on production AI workloads across Microsoft, including Microsoft Copilot, GitHub Copilot, Microsoft Foundry, and Microsoft’s own AI models.\n“Maia 200 is the best performing AI infrastructure in our fleet, measured in real world metrics for AI services,” says Guthrie. “Maia 300 is a complete AI system designed for the new types of AI workloads emerging today: Long-context reasoning, latency-sensitive conversational experiences, and sustained, multi-step agentic tasks.”\nMicrosoft is finally making custom chips — and they’re all about AI\nMicrosoft’s latest AI chip goes head-to-head with Amazon and Google\nMicrosoft is using a new chiplet architecture to get its all-important efficiency gains. Built on TSMC’s N2P process node, the latest Maia 300 architecture separates compute, memory controller, and I/O functions. “This increases the silicon area dedicated to compute performance and allows each function to use the technology best suited to its role,” says the Azure hardware and infrastructure team.\nMaia 300 is also a key part of Microsoft’s own AI model work, and could help the company achieve its goal of catching up with Google DeepMind, OpenAI, and Anthropic. “We have to work across the full stack, all the way down to the silicon,” says Microsoft AI CEO Mustafa Suleyman. “At that scale we need a platform that we own, and that we co-design with our models. That’s why running our Microsoft AI models on top of the Maia chip is a critical focus for our team.”\nFollow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Tom Warren\nA college in Illinois tried to cancel its Flock contact and it refused\nGTA VI leaks continue with a lengthy (and very nude) gameplay video\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nBy providing your information, you agree to our Terms of Use and our Privacy Policy . We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nElon Musk has donated over $276 million to Republican midterm efforts\nThe Yandex outage probably didn’t blitz Russian bots\nThe OnePlus 16 is the company’s most interesting phone in years\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nCMF’s first wireless speakers look like musical milk cartons\nElon Musk has donated over $276 million to Republican midterm efforts\nThe Yandex outage probably didn’t blitz Russian bots\nThe OnePlus 16 is the company’s most interesting phone in years\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nCMF’s first wireless speakers look like musical milk cartons\nAndroid is the best and worst thing about Googlebooks\nThe Fitbit Edge is for folks who don’t want to go totally screenless\nInside the mini factory where GM builds its EV future\nCMF’s first wireless speakers look like musical milk cartons",
       "published": "2026-10-12T13:00:00+00:00",
       "source": "GN AI",
       "sources": [
@@ -1008,6 +919,26 @@
       "assets": []
     },
     {
+      "title": "Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQajhyaW5NLWtOU2RxU2dLNmZBSWlXSG1wTFhxM2d3QWo3SWdWNmMxdHRwWG8tUkREa3VRSV8xNnMyN0ZueXllc1d0aU5VbTh3YVloQWJpWjdkZUxxR29fb3VWMXNQcmtZS2lZcW5mS0tQdkFyVWpILUtZMXRxMTNOZXNvVWFDMTJwTV9oLTJtNG95QVBUZGdHSVhVZjN2ZWtoZW9FVGIybFUzX20tWDF1bXFrQzlFc21iMnhOTi02bHZlbkM3ZXVIYTdtSVljNmpSSVFGWFhxczhlakJ2NmlRcFFsWjNKbVZ2QUNDX3FLTm9ONndUdFVZTA?oc=5",
+      "summary": "Big Banks Kick Off Q3 Earnings With S&amp;P 500 Near Records — Strategists Flag What Could Mo",
+      "content": "Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nHome News Markets Equity Big Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nBig Banks Kick Off Q3 Earnings With S&P 500 Near Records — Strategists Flag What Could Move Markets\nAs banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.\nIn this photo illustration, a S&P 500 stock market index words are seen on a smartphone screen and a graphic in the background. (Photo Illustration by Pavlo Gonchar/SOPA Images/LightRocket via Getty Images)\nIn an interview with CNBC on Monday, Matt Stucky, Northwestern Mutual senior portfolio manager, said that he expects the quarter’s earnings to be a net positive.\nScott Chronert, head of U.S. equity strategy at Citi Research, said in the interview that the market will need both the AI trade and the macroeconomic backdrop to be positive to function effectively.\nAya Yoshioka, senior investment strategist at Wealth Enhancement Group, said that the earnings season would also be influenced by the cost of capital, not just from the AI trade, but also for the other “macro-sensitive companies” on the rest of the S&P 500.\nThird-quarter (Q3) earnings season is set to kick off this week, with big banks starting to report their results. After a strong second quarter, market strategists expect the momentum to continue, even if at a more subdued pace than the last quarter.\nIn an  interview with CNBC on Monday, Matt Stucky, Northwestern Mutual senior portfolio manager, said that he expects the quarter’s earnings to be a “net positive.”\n“I think it&#x27;s going to be positive. Maybe not quite as good as the second quarter (Q2), but the second quarter was one for the record books, at kind of low 30s earnings growth year over year,” Stucky said.\n“If the consensus is right, we&#x27;re likely to see something in the upper 20s, maybe a little bit better than that.”\nScott Chronert, head of U.S. equity strategy at Citi Research, said in the interview that the market will need both the AI trade and the macroeconomic backdrop to be positive to function effectively.\n“We need that AI-influenced component that we argue is just over half of the index, as well as the other half that&#x27;s going to beat to a more traditional macro drummer,” Chronert said.\n“And so there, what we need is a combination of some of this inflation, Fed hawkish concern coming out of the market, which we think can unfold, as the data suggests, over the next couple of weeks, combined with ongoing earnings tailwinds out of this AI-influenced component, which we think we&#x27;ll see as we go into the Q3 reporting period,” he added.\nChronert also said that the mega-cap growth AI component remains “in pretty good stead” and that the revenue growth from Q2 should persist into the Q3 results. “How much is priced in remains to be seen, but all told, I think we need this broadening trade to come back to get to my 8,100 target.”\nStucky, however, said that the main driver of markets here would likely be influenced by multiples rather than earnings.\n“And really, that&#x27;s a function of hawkishness from the Fed and where the 10-year rate goes,” he said, adding that inflation and oil influence that, which are currently uncertain.\nAya Yoshioka, senior investment strategist at Wealth Enhancement Group, said that the earnings season would also be influenced by the cost of capital, not just from the AI trade, but also for the other “macro-sensitive companies” on the rest of the S&P 500.\nWhile the S&P 500 has climbed nearly 14% year-to-date, and is currently celebrating a fourth bull market anniversary after having run about 120% since Oct. 12, 2022, according to a CNBC  report , the returns are largely driven by technology gains.\nEven as the benchmark index crossed 7,800 for the first time last week and continues to trade near records, about 40% of the index is concentrated in tech stocks.\nIn September, the typical S&P 500 stock  lost nearly 6% on average, with more than three in four stocks being a losing bet. However, the index was down only 0.4% for the month, propped up by technology gains.\nYoshioka acknowledged that concentration has been an issue for markets, both through the ‘Magnificent Seven’ and the AI trade, “especially as it continues to touch 50% of all companies in the S&P 500.”\nHowever, she noted that a correction risk depends upon capital spending announcements from hyperscalers as well as the overall supply chain for AI.\n“There&#x27;s been so much focus on that supply chain, or all the supply-chain beneficiaries so far. And I think we really want to see a continuation from last quarter, when the hyperscalers reported really strong cloud growth, and they were seeing really good returns on the investments that they&#x27;ve made,” she said.\n“We&#x27;d like to continue to see that. If we don&#x27;t get that, there could be some of a correction just to level-set where we&#x27;re going to go in 2027,” she added.\nHow Are Markets Performing Ahead Of Earnings Season?\nAmong ETFs tracking benchmark indexes, the  SPDR S&P 500 ETF (SPY) , which tracks the S&P 500, was down 0.06% overnight at the time of writing, amid ‘bullish’ sentiment.\nOne user  said , “$SPY Bank earnings will be stellar and will provide a nice pop in the first half of the session tomorrow but inflation cpi on Wednesday will be high, get rdy for some volatility. Diesel surcharges exploded across all forms of shipping in September pushing top line above expectations and I think we’ll see a surprise increase in shelter costs specifically rents that’ll push core beyond .2 expectations.”\nMeanwhile, the  Invesco QQQ Trust (QQQ) was also trending 0.42% lower amid ‘bullish’ sentiment, while the  SPDR Dow Jones Industrial Average ETF Trust (DIA) climbed 0.14% overnight, with sentiment in the ‘bullish’ territory.\nThe  iShares 20+ Year Treasury Bond ETF (TLT) was up 0.28% amid ‘bullish’ sentiment.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nGet the daily email that keeps you tuned in and makes markets fun again.\nRead about our editorial guidelines and ethics policy\nWhy Did PLTR, DT, DDOG Stocks Surge To 52-Week Highs Today? Shivani Kumaresan · 11m ago\nSPCX Stock Extends 2-Day Green Run As Elon Musk Calls SpaceX An &#x27;Anomaly In The Matrix&#x27; Amid China’s RAM Push Deepti Sri · 38m ago\nWhy Did RKT, OPEN, SMR Stocks Plunge To 52-Week Lows Today? Shivani Kumaresan · 57m ago\nAAOI, LITE, COHR Extend Sell-Off Overnight: AI Funding Fears Hit Optical Networking Trade, But Retail Bulls Eye Rebound Yuvraj Malik · 1h ago\nASST Stock Slips Overnight As $27 Warrant Deadline Nears — CEO Teases Strive’s Next Capital-Markets Move Aashika Suresh · 2h ago\nWhy Is FUN Stock Plunging Nearly 11% Overnight? Shivani Kumaresan · 2h ago",
+      "published": "2026-10-13T01:33:00+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
       "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
       "summary": "Blockbuster profits are coming for the S&amp;P 500. It may not be enough to keep fueling the rally.",
@@ -1026,6 +957,56 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5",
+      "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T02:33:00+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China",
+        "GN AI"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksThe threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.</p",
+      "content": "The IMF underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. Photograph: Aly Song/Reuters\nThe IMF underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. Photograph: Aly Song/Reuters\nThreat of AI share crash puts world financial stability at risk, says IMF\nHigh valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks\nThe threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned.\nIn its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”.\n“The consequences of an AI correction could be global,” it warned. Aside from the US, Asian markets would be most exposed, and the UK and euro area potentially more insulated – though their investors with exposure to the US would be hit.\nAn AI crash was one of three “salient risks” to stability identified by the IMF, alongside rising government borrowing costs and the threat of a big cyber-attack.\nIt called this trio of factors “plausible near-term catalysts for a sharp tightening of financial conditions and market turmoil”.\nThe IMF’s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector.\n“Weaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures, and circular financing arrangements,” it said.\nSuch a reassessment would then “sharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers”.\nThe “magnificent seven” big tech stocks – Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla – account for more than 35% of the S&P 500 share index in the US, up from 12% a decade ago, and their total market capitalisation has increased by more than 50% in the past two years.\nYet the IMF warned of “growing evidence” that the successful rollout of AI “may not require investment on the massive scale being undertaken by ‘hyperscaler’ firms,” and that “potential economic gains may not be as large as expected”.\nThe hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle.\nThe IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash.\nIn particular, it identified soaring debts contracted by the companies themselves; hedge fund investment in the sector; and retail investors borrowing to speculate in AI stocks.\nIn the event of an AI-led market downturn “these growing sources of leverage heighten the potential for forced selling and surges in equity volatility”, it said.\nIt also pointed to the prevalence of “circular financing” deals , tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction.\nIt identified $300bn (£227bn) worth of transactions between hyperscalers and “weaker AI firms” in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments.",
+      "published": "2026-10-13T03:15:12+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "Cleveland Fed's Beth Hammack backs smaller, more frequent rate hikes - Quartz",
@@ -1056,7 +1037,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGUtWGlRWGVfTVVCaFlXbDQ3UTA4bmlUN2QxdV9yT19EOUZGTkhKNW5xR2hQcDJmaE1pX1F1Tmg4TEZ6VTMxcWl5QzdHdVdZa2U1ZDF5Vm5ONGhhNDFPd00xLXZKNXVSaXJGYTB2QVV6dkJ6WmtBS29uMTNyNko5dlptaEdjWngxR2gxa3FfNTc4bzdmaElUOHVzZTVfN0oxeXhwdExKLWxycEpBRGNna0QzM2N5NGRfaVE?oc=5",
       "summary": "Saudi warning system stayed silent before deadly airport attacks&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-12T23:54:54+00:00",
+      "published": "2026-10-12T23:39:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -1070,6 +1051,29 @@
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
+      "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-13T02:05:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.2,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
@@ -1164,7 +1168,7 @@
       "title": "This Ultra-Rare Gas Could Become An Ace In Canada's Hands - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmZZbHNfaElURk9UczBiTUVrMURrQVc0UlhmaU1NbUpROWlHMnJBMjVzNkhsNGYzaGdtZ3c3d1ZRaGl6OVBsQU04T0x2Wnd5bWY5aWJYWGVPRTd6Q0RJNG1EMVJNeHZiVWVuZy12aXR3Ry0xd2tzSU5BeW1fekl3X21qRGFtMUR4Z29SZi1vWjZBcDFTM0RqTDlIRFlZZV95UzdFQTY5d9IBrAFBVV95cUxPRzJLa0NRZlJFbUFlWTd6WG5Kc0JDeXpFZmhqVWh6Q1BwcUJmV05GWmdtUWpielB4UG54SU8xYzlwSDRwQTN1aGRlcnM4N1loNlZtb2psZThYSHJGd1QtR2hNaHhvVGRhM1hVdHlLOTkyeDRwVlBnaUpFajV6UWdXYmVjTVU5bzEyOEY5dGl3d0hhRmsycTNma3BhOVI2SmJIeVJQQkdxbmkwZ3pF?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmZZbHNfaElURk9UczBiTUVrMURrQVc0UlhmaU1NbUpROWlHMnJBMjVzNkhsNGYzaGdtZ3c3d1ZRaGl6OVBsQU04T0x2Wnd5bWY5aWJYWGVPRTd6Q0RJNG1EMVJNeHZiVWVuZy12aXR3Ry0xd2tzSU5BeW1fekl3X21qRGFtMUR4Z29SZi1vWjZBcDFTM0RqTDlIRFlZZV95UzdFQTY5d9IBrAFBVV95cUxPRzJLa0NRZlJFbUFlWTd6WG5Kc0JDeXpFZmhqVWh6Q1BwcUJmV05GWmdtUWpielB4UG54SU8xYzlwSDRwQTN1aGRlcnM4N1loNlZtb2psZThYSHJGd1QtR2hNaHhvVGRhM1hVdHlLOTkyeDRwVlBnaUpFajV6UWdXYmVjTVU5bzEyOEY5dGl3d0hhRmsycTNma3BhOVI2SmJIeVJQQk",
-      "content": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nTrump's Grid Security Order Could Backfire on America's AI Boom\nStates Bet on Virtual Power Plants to Cut Grid Costs\nAlex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com.\nThis Ultra-Rare Gas Could Become An Ace In Canada’s Hands\nCanada is the leading, non-military producer of helium-3 globally, a non-radioactive, light isotope of helium used in quantum computing, deep cryogenics, border security neutron detection, and experimental nuclear fusion.\nIndustry experts: Canada can leverage its dominance in a certain critical element in future trade negotiations with its neighbor to the south.\nQuantum computing is projected to be the biggest driver of commercial helium-3 demand in the coming years.\nBack in July, the U.S. slapped an extra 50% duty on a wide range of Canadian exports, including items like dairy, alcohol and cement, with the Trump administration citing alleged Canadian trade discrimination against various U.S. goods. In response, Prime Minister Mark Carney’s government implemented dollar-for-dollar counter-tariffs targeting U.S. goods such as steel, aluminum, appliances and electronics as the tit-for-tat tariffs and trade war between the two nations escalated. Despite Trump’s frequent bluster, Canada remains the United States’ second-largest trade partner behind only Mexico, as well as its largest foreign supplier of crude oil, accounting for ~60% of total U.S. crude imports. And now, industry experts are saying that Canada can leverage its dominance in a certain critical element in future trade negotiations with its neighbor to the south. According to Chris Cassin, chief executive of Zero Point Cryogenics, Canada, is in a unique position to stockpile and sell helium-3, a much-sought-after ultra-rare gas.\nCanada is the leading, non-military producer of helium-3 globally, a non-radioactive, light isotope of helium used in quantum computing, deep cryogenics, border security neutron detection, and experimental nuclear fusion. Canada generates the precious gas in significant quantities as a byproduct of tritium removal from heavy water in its CANDU (Canada Deuterium Uranium ) nuclear reactors. CANDU reactors use unenriched, natural uranium (about 0.7% U-235) instead of enriched uranium, eliminating the need for expensive, complex uranium enrichment facilities, resulting in lower fuel cycle costs. Their high neutron economy also allows CANDU reactors to run on alternative fuels including recycled uranium, mixed oxide (MOX) fuels, thorium or spent fuel from conventional pressurized water reactors. Canada is home to 17 of the world’s fleet of 26 CANDU reactors.\nRelated: Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nIn contrast, the U.S., Russia and China produce helium-3 mainly as a by-product when it’s removed from nuclear bombs to achieve higher tritium concentrations. Most of the helium-3 these nations produce stays in government hands for use in neutron detectors by port inspectors looking for smuggled nuclear materials.\nQuantum computing is projected to be the biggest driver of commercial helium-3 demand in the coming years, with governments worldwide increasingly viewing quantum supremacy as a cornerstone of national security and economic sovereignty.\nThe looming threat of Q-Day has forced governments, banks, and enterprises into a defensive arms race, fueling massive, immediate investments into post-quantum cryptography (PQC) and quantum-safe security architectures. Q-Day is the future moment when quantum computers become powerful enough to break public-key cryptography--such as RSA and elliptic-curve cryptography (ECC)--that currently secures the internet, financial systems, private communications and digital identities.\nThe quantum computing boom is likely to drive future demand for helium-3. Quantum computing requires operating temperatures near 0 Kelvin (absolute zero). Conventional cooling methods can cool ordinary helium (helium-4) down to 1–4 K. To go even colder, scientists mix helium-4 with super-cooled helium-3, with the entropy gain from the mixing cooling the system further down to as low as 5 millikelvin.\nAnd that’s probably the biggest reason why the U.S. government is investing in a startup that’s looking to mine helium-3 from the moon. Back in May, NASA awarded Interlune a $6.9 million Small Business Innovation Research (SBIR) contract to develop a lunar payload suite that will fly to the moon by 2028 to scoop, heat and extract helium-3 and hydrogen directly from lunar regolith. The DoE even signed a first-of-its-kind agreement to purchase 3 liters of lunar-harvested Helium-3 from Interlune, marking the first time a government agency has agreed to buy a non-terrestrial natural resource from space. Interlune is a Seattle-based space startup that builds robotic systems to harvest natural resources from the Moon.\nThe Moon is estimated to contain 1-3 million tons of helium-3 embedded in its surface dust, compared with about 15 to 20 kilograms of helium-3 per year produced annually in our planet, mostly as a byproduct of the decay of tritium used in thermonuclear weapons or minor amounts in natural gas wells.\nOver billions of years, solar wind from the sun continuously bombarded the lunar surface and \"spray-painted’’ helium-3 on its surface thanks to the moon’s lack of a protective magnetic field. Additionally, whereas tritium is a radioactive isotope that decays to helium-3 with a half-life of about 12.3 years, the economics make little sense for countries like the U.S. to produce helium-3 from tritium, with a kilo of the heavy hydrogen isotope going for ~$30,000 compared to $20,000 for a kilo of helium-3.\nInterestingly, there’s no shortage of companies betting on helium-3 from the moon: Interlune has already secured nearly $500 million in binding purchase orders and supply contracts from customers looking to use the rare isotope for quantum computing cooling systems, national security and clean fusion energy development.\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nTrump Curbs Farmers’ Access to Funding for Energy Projects\nAlex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com.\nChina's Auto Exports Explode as Domestic Demand Craters\nTrump Curbs Farmers’ Access to Funding for Energy Projects\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nHow Low Can the Strategic Petroleum Reserve Actually Go?\nKpler Suspects Gulf Producers Are Paying Iran for Safe Passage\nWhy Record Crude Output Can’t Solve America’s Diesel Crisis\nIs the West’s 100-Year Venezuela Oil Bet About To Backfire?\nHurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands | OilPrice.com\nBlack Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nSaudi Arabia Insists Energy Supply Remains Resilient\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nCREA: India Curtailed Over 4% of Its Solar Output in July and August\nPakistan Looks to Import Crude Oil from Libya to Diversify Supply\nOil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce\nBMI Predicts Brent Crude Will Remain Above $100 for Months\nIndia's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032\nJapan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount\nTwo More Oil Tankers Attacked Near Strait of Hormuz\nTrump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries\nRussia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels\nHurricane Isaias Shuts In 71% of U.S. Gulf Oil Production\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\nPetronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027\nAsian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million\nHormuz Crisis Leaves EU Gas Storage Short Heading Into Winter\nAustralia Close to Finalizing Gas Reservation Plan for LNG Exporters\nVenture Global Loses LNG Arbitration to Portugal's Galp\nBrent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low\nKinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage\nU.S. Gasoline Prices Set October Record Even as National Average Slips\nReliance Drives India’s Venezuelan Oil Imports to Seven-Year High\nEquinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field\nU.S. and Russia Discuss Reviving Russian Gas Sales to Europe\nOil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers\nIndia's Inflation Likely Hit 5.4% in September as Oil Costs Bite\nFirst Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar\nBig Oil Begins Shutting In Gulf of Mexico Production\nHormuz Tanker Traffic Hits Two-Month Low as Attacks Surge\nApollo Joins $11.5 Billion Race for German Gas Giant Uniper\nSpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline\nIraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue\nOil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound\nEurope Moves to Curb the Flood of Chinese Hybrid Cars\nSoutheast Asia Needs More Power, But Its Weak Grid Could Be a Problem\nChina's Auto Exports Explode as Domestic Demand Craters\nAlex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com.\nThis Ultra-Rare Gas Could Become An Ace In Canada’s Hands\nCanada is the leading, non-military producer of helium-3 globally, a non-radioactive, light isotope of helium used in quantum computing, deep cryogenics, border security neutron detection, and experimental nuclear fusion.\nIndustry experts: Canada can leverage its dominance in a certain critical element in future trade negotiations with its neighbor to the south.\nQuantum computing is projected to be the biggest driver of commercial helium-3 demand in the coming years.\nBack in July, the U.S. slapped an extra 50% duty on a wide range of Canadian exports, including items like dairy, alcohol and cement, with the Trump administration citing alleged Canadian trade discrimination against various U.S. goods. In response, Prime Minister Mark Carney’s government implemented dollar-for-dollar counter-tariffs targeting U.S. goods such as steel, aluminum, appliances and electronics as the tit-for-tat tariffs and trade war between the two nations escalated. Despite Trump’s frequent bluster, Canada remains the United States’ second-largest trade partner behind only Mexico, as well as its largest foreign supplier of crude oil, accounting for ~60% of total U.S. crude imports. And now, industry experts are saying that Canada can leverage its dominance in a certain critical element in future trade negotiations with its neighbor to the south. According to Chris Cassin, chief executive of Zero Point Cryogenics, Canada, is in a unique position to stockpile and sell helium-3, a much-sought-after ultra-rare gas.\nCanada is the leading, non-military producer of helium-3 globally, a non-radioactive, light isotope of helium used in quantum computing, deep cryogenics, border security neutron detection, and experimental nuclear fusion. Canada generates the precious gas in significant quantities as a byproduct of tritium removal from heavy water in its CANDU (Canada Deuterium Uranium ) nuclear reactors. CANDU reactors use unenriched, natural uranium (about 0.7% U-235) instead of enriched uranium, eliminating the need for expensive, complex uranium enrichment facilities, resulting in lower fuel cycle costs. Their high neutron economy also allows CANDU reactors to run on alternative fuels including recycled uranium, mixed oxide (MOX) fuels, thorium or spent fuel from conventional pressurized water reactors. Canada is home to 17 of the world’s fleet of 26 CANDU reactors.\nRelated: Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million\nIn contrast, the U.S., Russia and China produce helium-3 mainly as a by-product when it’s removed from nuclear bombs to achieve higher tritium concentrations. Most of the helium-3 these nations produce stays in government hands for use in neutron detectors by port inspectors looking for smuggled nuclear materials.\nQuantum computing is projected to be the biggest driver of commercial helium-3 demand in the coming years, with governments worldwide increasingly viewing quantum supremacy as a cornerstone of national security and economic sovereignty.\nThe looming threat of Q-Day has forced governments, banks, and enterprises into a defensive arms race, fueling massive, immediate investments into post-quantum cryptography (PQC) and quantum-safe security architectures. Q-Day is the future moment when quantum computers become powerful enough to break public-key cryptography--such as RSA and elliptic-curve cryptography (ECC)--that currently secures the internet, financial systems, private communications and digital identities.\nThe quantum computing boom is likely to drive future demand for helium-3. Quantum computing requires operating temperatures near 0 Kelvin (absolute zero). Conventional cooling methods can cool ordinary helium (helium-4) down to 1–4 K. To go even colder, scientists mix helium-4 with super-cooled helium-3, with the entropy gain from the mixing cooling the system further down to as low as 5 millikelvin.\nAnd that’s probably the biggest reason why the U.S. government is investing in a startup that’s looking to mine helium-3 from the moon. Back in May, NASA awarded Interlune a $6.9 million Small Business Innovation Research (SBIR) contract to develop a lunar payload suite that will fly to the moon by 2028 to scoop, heat and extract helium-3 and hydrogen directly from lunar regolith. The DoE even signed a first-of-its-kind agreement to purchase 3 liters of lunar-harvested Helium-3 from Interlune, marking the first time a government agency has agreed to buy a non-terrestrial natural resource from space. Interlune is a Seattle-based space startup that builds robotic systems to harvest natural resources from the Moon.\nThe Moon is estimated to contain 1-3 million tons of helium-3 embedded in its surface dust, compared with about 15 to 20 kilograms of helium-3 per year produced annually in our planet, mostly as a byproduct of the decay of tritium used in thermonuclear weapons or minor amounts in natural gas wells.\nOver billions of years, solar wind from the sun continuously bombarded the lunar surface and \"spray-painted’’ helium-3 on its surface thanks to the moon’s lack of a protective magnetic field. Additionally, whereas tritium is a radioactive isotope that decays to helium-3 with a half-life of about 12.3 years, the economics make little sense for countries like the U.S. to produce helium-3 from tritium, with a kilo of the heavy hydrogen isotope going for ~$30,000 compared to $20,000 for a kilo of helium-3.\nInterestingly, there’s no shortage of companies betting on helium-3 from the moon: Interlune has already secured nearly $500 million in binding purchase orders and supply contracts from customers looking to use the rare isotope for quantum computing cooling systems, national security and clean fusion energy development.\nOil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears\nSmall Indian Factories Face Blackouts as Coal Stocks Plunge\nTrump Curbs Farmers’ Access to Funding for Energy Projects\nAlex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com.\nChina's Auto Exports Explode as Domestic Demand Craters\nTrump Curbs Farmers’ Access to Funding for Energy Projects\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nHow Low Can the Strategic Petroleum Reserve Actually Go?\nKpler Suspects Gulf Producers Are Paying Iran for Safe Passage\nWhy Record Crude Output Can’t Solve America’s Diesel Crisis\nIs the West’s 100-Year Venezuela Oil Bet About To Backfire?\nHurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-13T00:00:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -1288,26 +1292,6 @@
       "assets": []
     },
     {
-      "title": "Pentagon Finally Counts an Iran War Death — Six Months Late - The Intercept",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWpCZFpOdW10dlZjcXVCb0pheEtGQks0UV9CRVowNExQLTVDMm9GeklxeFVNSjJ0WTlUYWRreV9sSk9TVFpjVm5BZVJtRG56eDcxSl9BaGpJcy1LU3BJNHFObUpnTW5ScThIN2dhckNqZXVXd0w4S1RPdmFMLXRLR2FB?oc=5",
-      "summary": "Pentagon Finally Counts an Iran War Death — Six Months Late&nbsp;&nbsp;The Intercept",
-      "content": "An Army carry team moves the flag-draped transfer case containing the remains of U.S. Army soldier Maj. Sorffly Davius, who died in Kuwait, during a casualty return on March 9, 2026, at Dover Air Force Base, Del.\nThe Pentagon quietly acknowledged additional Iran war deaths on Friday evening after The Intercept repeatedly demanded an explanation for inaccurate statistics on a War Department website tracking U.S. casualties from the conflict.\nAlmost 900 U.S. troops have been wounded or killed in the war with Iran, according to the official Pentagon count, including the two deaths added on Friday. This raises the Pentagon’s total to 21 dead.\nThe additional war dead include Maj. Sorffly Davius, a signals and communication officer with the New York Army National Guard who was assigned to the headquarters of the 42nd Infantry Division and died while on duty in Camp Buehring, Kuwait, on March 6. For more than six months, The Intercept has raised Davius’s case in dozens of emails and phone conversations with Pentagon officials and publicly in 10 articles.\nThe Pentagon recently revamped the website of the Defense Casualty Analysis System, or DCAS — which provides official counts of dead and wounded for Congress and the White House — to include more detailed casualty category tables. But it initially listed no “non-hostile” illness or injury fatalities, despite the Pentagon announcing in March that Davius died “as a result of a non-combat related incident.”\nAt first, the military claimed that Davius was involved in another operation instead of Epic Fury — the original designation of the Iran war. Two weeks ago, however, The Intercept revealed that a recent National Guard news release admitted that when “President Donald Trump made the decision to attack Iran and launched Operation Epic Fury on Feb. 28, the [42nd Infantry] division headquarters began conducting combat operations.” The 42nd served as the primary headquarters leading what became, according to Maj. Gen. Jack James, the division commander, the “largest and first long-range precision fires campaign in the history of the United States Army.” James specifically saluted Davius, whom the Guard admitted was “conducting operations” when he died.\nLast week, The Intercept pointed the Pentagon to the non-hostile illness or injury casualty count for Epic Fury on the website, and emphasized its tally showing zero deaths was not possible.\n“I will check within,” Patricia Kreuzberger, a Pentagon spokesperson said on Tuesday. “Let me reach out to leadership.”\nThree days later, and after repeated follow-up messages on Friday, the tally was updated, to 1.\nICE Shooting in NYC Inflames Mamdani’s Policing Problem\nA C-Section in Shackles: A Palestinian Woman’s Harrowing Birth in Israeli Detention\nICE Agent on Scene of NYC Shooting Was Posing as Construction Worker, Eyewitness Says\nIn addition to Davius, the DCAS death count now also includes an unidentified Navy suicide that occurred last month, according to a U.S. official who spoke on the condition of anonymity. DCAS currently lists this death as “pending,” despite the recent addition of a “self-inflicted” category to the website.\nA “War Department official” told The Intercept by email on Sunday that “the Department is introducing a ‘Pending Adjudication’ category to track the status of active duty casualties pending final categorization and reporting in DCAS.” She added: “This new category will allow the Department to minimize reporting delays while ensuring data consistency between the DoW and Joint Staff.”\nThe “pending” designation, however, isn’t new. The Pentagon re-introduced it to DCAS in mid-July, and major discrepancies have continued in the tally since.\nMany casualties remain uncounted in DCAS, including a sailor who suffered a  non-combat-related injury  aboard the USS Abraham Lincoln as it was involved in “strike missions in support of Operation Epic Fury” on March 25.\nThe Pentagon Found a New Way to Undercount U.S. Casualties in Iran\nMost Iran war casualties in the official count — 454 personnel as of Friday — have occurred since July 7, after the Trump administration claimed the conflict ended. At that time, the Pentagon switched from counting casualties under Epic Fury to the anodyne moniker “Overseas Operations.”\nThe most recent casualties are three Army personnel wounded in action this month. The latest known Iran war fatality is Capt. Bianca Wilkerson, 37, of Norfolk, Virginia, who died on September 18 from a “coronary issue,” according to her brother. He said she returned from Saudi Arabia on September 10 and was headed back but died on the return flight, according to reporting by the Virginian-Pilot. A U.S. official told The Intercept that Wilkerson died “as a result of a non-combat-related incident,” but after nearly a month, DCAS still lists no non-hostile illness or injury deaths.\n“There is no excuse for a mistake of this magnitude,” Reps. Chrissy Houlahan, D-Pa., and Adam Smith, D-Wash., said in a joint statement on Friday after the House Armed Services Committee discovered “a discrepancy in the Pentagon’s reporting of casualty numbers” and brought it to “the Trump Administration’s attention.” They continued: “The failure of Secretary Hegseth to immediately take ownership of the problem also does a grave disservice to the men and women putting their lives on the line in service to our country.”\nWe’re independent of corporate interests — and powered by members. Join us.\nOriginal reporting. Fearless journalism. Delivered to you.\nWill you take the next step to support our independent journalism by becoming a member of The Intercept?\nBy signing up, I agree to receive emails from The Intercept and to the Privacy Policy and Terms of Use .\nOriginal reporting. Fearless journalism. Delivered to you.\nFor six months , The Intercept has reported on anomalies in official counts offered on DCAS. When the first ceasefire was struck between the Trump administration and Iran on April 7, the tally of U.S. casualties was 385. Despite a pause in hostilities, the number slowly rose to 428, according to Pentagon statistics. But on April 21, the number of  wounded-in-action troops declined by 15  without public acknowledgment by the War Department. Despite repeated questions for months, the Pentagon has not explained the adjustment.\nOther discrepancies have also gone unjustified for months. An Army “illness/injury” death appeared on or about May 26 but disappeared by June 1. On July 20, the Pentagon repeatedly altered DCAS, adding 100 casualties to the war’s tally without explanation; the total number of wounded cited by DCAS on that date included counts of 413, 427, and 447. Three days later, the Pentagon dropped the Iran war death toll from 18 to 14. On July 22, DCAS added 10 recent casualties to the Epic Fury count. By July 25, those wounded personnel were dropped from the tally. They may have been added to the Overseas Operations casualty toll, but the Pentagon has failed to offer any explanations.\nU.S. Has Suffered More Casualties in Iran Since the Conclusion of Operation Epic Fury\nPrior reporting by The Intercept also found that the Pentagon’s official tally of dead and wounded personnel is a gross undercount, stemming from what one U.S. government official called, in April, a “ casualty cover-up .” When the Washington Post also suggested last month that the Pentagon had suppressed the casualty numbers, self-styled War Secretary Pete Hegseth called the report “DISGUSTING and FAKE.”\nWhen asked by The Intercept about the Pentagon’s continued peddling of bogus statistics, Kreuzberger did not offer an explanation. An email from a nameless “War Department official” said: \"We have nothing to provide beyond the Defense Casualty Analysis System website.\"\nWhat we’re seeing right now from Donald Trump is a full-on authoritarian takeover of the U.S. government.\nCourt orders are being ignored. MAGA loyalists have been put in charge of the military and federal law enforcement agencies. The Department of Government Efficiency has stripped Congress of its power of the purse. News outlets that challenge Trump have been banished or put under investigation.\nYet far too many are still covering Trump’s assault on democracy like politics as usual, with flattering headlines describing Trump as “unconventional,” “testing the boundaries,” and “aggressively flexing power.”\nThe Intercept has long covered authoritarian governments, billionaire oligarchs, and backsliding democracies around the world. We understand the challenge we face in Trump and the vital importance of press freedom in defending democracy.\nWe’re independent of corporate interests. Will you help us?\nIT’S BEEN A DEVASTATING  year for journalism — the worst in modern U.S. history.\nWe have a president with utter contempt for truth aggressively using the government’s full powers to dismantle the free press. Corporate news outlets have cowered, becoming accessories in Trump’s project to create a post-truth America. Right-wing billionaires have pounced, buying up media organizations and rebuilding the information environment to their liking.\nIn this most perilous moment for democracy, The Intercept is fighting back. But to do so effectively, we need to grow.\nThat’s where you come in. Will you help us expand our reporting capacity in time to hit the ground running in 2026?\nWe’re independent of corporate interests. Will you help us?\nI’M BEN MUESSIG, The Intercept’s editor-in-chief. It’s been a devastating year for journalism — the worst in modern U.S. history.\nWe have a president with utter contempt for truth aggressively using the government’s full powers to dismantle the free press. Corporate news outlets have cowered, becoming accessories in Trump’s project to create a post-truth America. Right-wing billionaires have pounced, buying up media organizations and rebuilding the information environment to their liking.\nIn this most perilous moment for democracy, The Intercept is fighting back. But to do so effectively, we need to grow.\nThat’s where you come in. Will you help us expand our reporting capacity in time to hit the ground running in 2026?\nWe’re independent of corporate interests. Will you help us?\nPete Hegseth’s Military of the Future: Defined by AI and an Utter Lack of Oversight\nHe Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.\nThe U.S. Military Struggles to Protect Its Bases Amid Failing Iran War\nICE Raid on Ilhan Omar Shows How Dangerous Two Years of Flailing Trump Could Get\nWith his popularity tanking and his grip on power growing tenuous, Trump is becoming a decrepit tyrant — and the checks to stop him are failing.\nSusan Collins-Aligned Super PAC Buys Attack Ads in Portland... Oregon\nThe group Defending Main Street, long associated with Susan Collins, spent thousands attacking Troy Jackson in the wrong state.\nTrump Wanted Minneapolis 15 Case to Be Another Prairieland. Instead, Twin Cities Rallied Behind Anti-ICE Activists.\nThe mainstream of Minnesota’s left-of-center politics — including unions, the backbone of Democratic power — are behind the radical left.",
-      "published": "2026-10-12T13:02:11+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
       "summary": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso&nbsp;&nbsp;Reuters",
@@ -1326,6 +1310,28 @@
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’ - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDBXTHA2YmE2OEM4Mi03Sm81ZTJwcFhTTnVXT0dVV09qZlRHZGJtazJ4QlR4SmtVQk9vVjlYMmtlaHZ1b3AwOUtlMjl5NlhDNGZBNnFCMDFta2NuWHJlempBWUlDRHF0Z0ZIRFhFSHk4Rm4zeGVyNE9Cbkp5RjU2SlZiZVRNYVFwVzFDOWtNU2dGYktsemN3ZEVOcGFGWFpRakpLT3JHOFJlaTZocW52aFdXMA?oc=5",
+      "summary": "Gold Edges Up as Traders Weigh Russia-Ukraine ‘Energy Ceasefire’&nbsp;&nbsp;Bloomberg.com",
+      "content": "",
+      "published": "2026-10-12T20:03:45+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：黄金 及相关产业链。",
+      "assets": [
+        "黄金"
+      ]
     }
   ]
 }
