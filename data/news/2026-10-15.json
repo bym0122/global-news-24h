@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T00:26:32.904516+00:00",
+  "generated_at": "2026-10-15T02:24:33.330175+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-14T00:26:12.211427+00:00",
-  "window_end": "2026-10-15T00:31:12.211427+00:00",
+  "window_start": "2026-10-14T02:24:16.523733+00:00",
+  "window_end": "2026-10-15T02:29:16.523733+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -41,15 +41,16 @@
         "Reuters Markets",
         "GN Fed",
         "GN AI",
-        "GN Markets"
+        "GN Markets",
+        "CNBC Top"
       ],
-      "source_count": 4,
+      "source_count": 5,
       "category": "finance",
       "category_zh": "全球金融",
       "stars": 4,
-      "score": 19.3,
+      "score": 19.7,
       "is_hypothetical": false,
-      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
       "assets": [
         "美债",
@@ -78,31 +79,6 @@
       "assets": [
         "原油",
         "能源股"
-      ]
-    },
-    {
-      "title": "US inflation heats up in September; Fed rate hike this month back on table - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-      "summary": "US inflation heats up in September; Fed rate hike this month back on table&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-14T21:45:35+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Fed"
-      ],
-      "source_count": 2,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 4,
-      "score": 17.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
       ]
     },
     {
@@ -150,27 +126,6 @@
       ]
     },
     {
-      "title": "Iran's central bank governor dismisses claims of economic collapse amid US blockade - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY09JZzRxS3I5eWpRNnAyUlFPU21LTlRFQkJPc1NUVGNBeE5hZzI3al9VUlRpU3lvQTN5a2t1bjNmTWozZVJSM0lTWEJnR05NSmlNRmRfQ2txcjY4RFVCWGpRT2d5WlNiZjRpVXdsUm1MY1pReG5Wb0dRb0xUandmMmRSNGY0aHI1bWprNFc0bEwwcDV2Tkd3V1BHYml1U3VWcUdHSFJqUVFxdGctc1A0TXZaYlhNcndIbWVjN0xCQzlNYVhpdV9hYm42Nl9jdw?oc=5",
-      "summary": "Iran's central bank governor dismisses claims of economic collapse amid US blockade&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-14T11:26:01+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 4,
-      "score": 16.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks - CNBC",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWFKMzFFcmxqYVdxcTVUYmZBZTZHejZpWTJmZ3o3Z3lFbnA0NTV4MkFlb1ZEMmRGQmw3MjJkc2RnTFgtX19YRkZOUDR4WXhNeWg5Zy1qV3FpeVpTVUo5QVBOVmJxcXVhc0NqandfT2ltQ3BseThmbG5oQTJhYUJ4MV9nM240c3I3ZG5wai1fY3ZIYWdpbGfSAZsBQVVfeXFMUHl0VWNMbEpIOXhweHBSVTdYdHNjd1V5a2NfNkJSdFk5UUV0R2lDSUtZV1BpMEM3aWxZOXlWRTBRRTNtVkxRcDZtYVFDdnA5X3RPLW4zTm42M0hzVFJYNGtoMWJHcjVGVlJ1a2Jja1F5SnFDUHVTYVFkYXRYTFFnbDd1REZsc0haTlNibWhxdTU0aHZCcjVYQ0x1Vm8?oc=5",
       "summary": "Container ship sinks in Strait of Hormuz as Iran steps up attacks\nThe GFS Pride, registered in Singapore, sank after it was struck by an unidentified projectile and caught fire.\nThe ship&#x27;s 21 crew members were safely evacuated and no injuries have been reported, according to the Maritime and Port Authority of Singapore.\nMore than 20 vessels, mostly oil tankers, have come under attack this mon",
@@ -197,6 +152,78 @@
       ]
     },
     {
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+      "summary": "Gold drops over 1% as hot US inflation data boosts Fed hike bets&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T03:12:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Fed"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：黄金 / 美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "黄金",
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
+      "summary": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-15T01:28:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "North Korea says it tested submarine-launched cruise missiles, KCNA says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUdEU2JTOXFfYzZsQm9Janl2RkJBUTkyeTlDMjBFTTI5ZWxuUTduMmMwdHZHWDR1QVJaOGh1T2h0Qi1WNWNOcnlCNmdkcXZSTHc4MGQyUUhHTnFBV0tRZWVLRWVTYTdrLWNBM0RMT3FXZ0tFUkxkUjN6YWR0YWNURjlRSE5fNTNPX3ZIQmxvRm5VUGZDNjYzUW90SUhJNzZRajZXcVlHLU1BWnpzaHgzTEZKTXZHa2pFZlU1Y2JqNUVwTjlH?oc=5",
+      "summary": "North Korea says it tested submarine-launched cruise missiles, KCNA says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T21:40:48+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role - NPR",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2J5RktSeEFwZ3VOemNFdWNOQ2lyLVBDcEJ3el9vNzVIZU1hVjRwWHo2Uzg1RENkWjRWeTlqTy1vM21XOFdaa2x5eHBnZ3J4WkFpOUJzYjBBUk5YMTJwVXNoQl9oZ2pDd08zdzlDaUFxWDloOHl4UUctT1ZsN3ZvRmhaTEdKNmFHZjU2VEE3bE14bzRTTEVNcVhGQ2Nma1FEQmlXMUxOdEN0UHRMSW5fbDFuRU91ZlU?oc=5",
       "summary": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role&nbsp;&nbsp;NPR",
@@ -216,6 +243,54 @@
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "High gasoline prices expected to boost US consumer inflation in September - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
+      "summary": "High gasoline prices expected to boost US consumer inflation in September&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T04:01:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "BBC Business",
+        "GN Fed",
+        "GN Markets"
+      ],
+      "source_count": 5,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 15.2,
+      "is_hypothetical": false,
+      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
+      "content": "Container ship sinks in Strait of Hormuz as Iran steps up attacks\nThe GFS Pride, registered in Singapore, sank after it was struck by an unidentified projectile and caught fire.\nThe ship&#x27;s 21 crew members were safely evacuated and no injuries have been reported, according to the Maritime and Port Authority of Singapore.\nMore than 20 vessels, mostly oil tankers, have come under attack this month in Hormuz, the Persian Gulf and Gulf of Oman.\nAmos Hochstein on Iran war latest: I&#x27;ve stopped understanding what the U.S. strategy is\nA container ship sank in the Strait of Hormuz on Wednesday as Iran escalated its attacks on commercial vessels.\nThe GFS Pride, registered in Singapore, sank after it was struck by an unidentified projectile and caught fire. The ship&#x27;s 21 crew members were safely evacuated and no injuries were reported, according to the Maritime and Port Authority of Singapore .\n\"Such attacks are unprovoked, unjustifiable and a breach of international law,\" the Singapore maritime authority said in a statement Wednesday.\nContainers were floating in the water after the vessel sank, Pakistani maritime authorities warned in a navigational alert . It is the third commercial ship sunk during the Iran war, according to the International Maritime Organization , a United Nations&#x27; agency.\nA second Singapore-registered container ship, the GFS Giselle, sustained damage to its hull after it was hit by an unidentified projectile on Wednesday. The ship has arrived at safe anchorage and none of its crew were hurt, the Singapore maritime authority said.\nIran&#x27;s Revolutionary Guard claimed early Wednesday that a container ship exploded and sank after hitting a naval mine, according to the state news agency Tasnim . But there is no independent evidence to confirm that a mine is what caused the Pride to sink, according to the maritime security firm Marisks.\nIran&#x27;s claims are \"consistent with an ongoing psychological operations campaign aimed at generating fear, increasing uncertainty and discouraging commercial shipping\" in Hormuz, Marisks said in a security alert.\nIran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports through the strait.\nMore than 20 vessels, mostly oil tankers, have come under attack this month in Hormuz, the Persian Gulf and Gulf of Oman, according to incident reports from the United Kingdom Maritime Trade Operations Centre.\nThe attacks this month have left two sailors missing and more than a dozen injured, according to the IMO.\nCrude oil exports through Hormuz hit prewar levels in September as the U.S. military guided tankers through the strait, but shipments have since pulled back as attacks have increased. Oil prices closed slightly higher Wednesday.\nExports through Hormuz averaged 8.5 million barrels per day (bpd) in the week ended Oct. 12, nearly 40% below normal levels before the Iran war, according to data from Kpler .\nShipments from the Middle East, including pipelines to the Gulf of Oman and Red Sea, stood at 14 million bpd, or nearly 20% below prewar levels, the data showed.\nDaily crude flows are very volatile, with only 3 million barrels of crude transiting Hormuz on Monday while 6 million barrels passed through the strait on Friday, according to Kpler.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-14T19:22:00+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
     },
     {
       "title": "Israel blocks construction of key Gaza base created by Trump peace board",
@@ -288,28 +363,6 @@
       ]
     },
     {
-      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
-      "summary": "Eight US states sue OpenAI, claiming ChatGPT harms young users&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-14T20:40:52+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World",
-        "CNBC Top"
-      ],
-      "source_count": 3,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Ukraine says SpaceX limits Starlink operations, disrupting military - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
       "summary": "Ukraine says SpaceX limits Starlink operations, disrupting military&nbsp;&nbsp;Reuters",
@@ -352,6 +405,31 @@
       "assets": []
     },
     {
+      "title": "China, North Korea to open long-delayed bridge on Thursday - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWm8xalU1ZEpZdnJVNG5DS0NzZFdlTkExWUtNelV0OVo0LS1xMnZ5WFVLY2FMLWFOUFhmZnNXa25LdGtPakRseVZuNlhYcGZCYXRvMVdQYnd0VzR4Y0FiWG9RVG9ST3RTclZaVHMyVWVfQlFSYU9yZnpWclVXUFdqQjItTGlsWDM5R2h5TklCMDlEUQ?oc=5",
+      "summary": "China, North Korea to open long-delayed bridge on Thursday&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T02:31:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
       "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3?oc=5",
       "summary": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks&nbsp;&nbsp;WSJ",
@@ -376,22 +454,23 @@
       ]
     },
     {
-      "title": "North Korea says it tested submarine-launched cruise missiles, KCNA says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUdEU2JTOXFfYzZsQm9Janl2RkJBUTkyeTlDMjBFTTI5ZWxuUTduMmMwdHZHWDR1QVJaOGh1T2h0Qi1WNWNOcnlCNmdkcXZSTHc4MGQyUUhHTnFBV0tRZWVLRWVTYTdrLWNBM0RMT3FXZ0tFUkxkUjN6YWR0YWNURjlRSE5fNTNPX3ZIQmxvRm5VUGZDNjYzUW90SUhJNzZRajZXcVlHLU1BWnpzaHgzTEZKTXZHa2pFZlU1Y2JqNUVwTjlH?oc=5",
-      "summary": "North Korea says it tested submarine-launched cruise missiles, KCNA says&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-14T21:40:48+00:00",
-      "source": "Reuters World",
+      "title": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNUFJM2owdTNnTkFfdE5lZnZtTG1yYVpHUTVwdnVlMnFZblRnNjhLczM4QncwNlhpS01LM3BXWEdNSGphX3dsaUo4VE1lSjJZS1c2ZFVyUGYxWldZUURNMnRYZkkyb0Z4R19uZ3AzYlB3VFVYaFHSAXtBVV95cUxQQnVidjVNVXRTS0hOVUpyMThmOTRCaHhRRDNKUU55TFg4QWhicXlTZGd3SDRXQzJoX2ZMT2F3XzJ4LU5kQlgzak9IbG5QXzRCMnM3dk9RdUJqSXd5OGRDUlNGN3ZQQlAzS3R6US10UDNWRFdNcnBsSDktcHM?oc=5",
+      "summary": "Iran ‘counting the moments’ until it can attack American warships\nIran Revolutionary Guard chief Ali Ozmaei said Wednesday that Tehran is \"counting the moments\" until it can sink American warships, according to Iranian state-affiliated media.\nU.S. President Donald Trump said American forces would not attack Iran before the midterm elections in early November.\nSaudi officials said Wednesday that Sa",
+      "content": "Iran ‘counting the moments’ until it can attack American warships\nIran Revolutionary Guard chief Ali Ozmaei said Wednesday that Tehran is \"counting the moments\" until it can sink American warships, according to Iranian state-affiliated media.\nU.S. President Donald Trump said American forces would not attack Iran before the midterm elections in early November.\nSaudi officials said Wednesday that Saudi Aramco facilities had been targeted overnight.\nThe USS Abraham Lincoln, pictured on Oct. 8 in San Diego, set a U.S. Navy record spending over 260 days consecutively at sea without a port call while playing a key role in Operation Epic Fury and regional maritime security operations in the Middle East.\nSaudi officials said Wednesday that an administrative building belonging to oil giant Saudi Aramco was targeted overnight, as the Tehran-backed Houthi militants step up their attacks on the kingdom.\nThe strike caused a fire, but no injuries were reported at the site in the city of Dhahran on the country&#x27;s eastern coast, according to a statement from the Saudi Ministry of Energy.\nThe Houthis, a Yemen-based militia group backed by Iran, have launched a series of strikes on Saudi targets over the past week. Airport attacks in the capital city of Riyadh led to multiple fatalities, flight cancellations and property damage. Riyadh&#x27;s King Khalid International Airport remains closed until Saturday.\nYemen&#x27;s civil war has returned to full-scale fighting between the Houthis and the country&#x27;s internationally recognized government amid a wider regional escalation linked to the U.S.-Iran war.\nIran &#x27;counting the moments&#x27; until it can attack U.S. ships\nIran Revolutionary Guard chief Ali Ozmaei said Wednesday that Tehran is \"counting the moments\" until it can sink American warships, according to Iranian state-affiliated media.\n\"If the Americans think the Strait of Hormuz is open, let them come closer. We are impatient to sink American warships,\" Ozmaei reportedly said in a televised interview.\n\"We are waiting for U.S. warships to approach the entrance to the Strait of Hormuz so we can sink them. We are counting down every moment until this happens.\"\nCNBC has reached out to the White House for comment.\nThe Wall Street Journal reported Tuesday that the Islamic Republic has been strengthening defenses around sensitive locations like nuclear sites, and telling regional officials that Tehran will respond to any new U.S. strikes with retaliatory measures across the Middle East as it prepares its population for renewed war in the coming weeks.\nU.S. President Donald Trump said Thursday that American forces would not attack Iran before the midterm election, which will take place on Nov. 3.\nOn Wednesday, reports emerged that a cargo ship caught fire and sank in the Strait of Hormuz after hitting a naval mine as it attempted to transit the waterway. CNBC was not able to independently verify the reports.\nLater on Wednesday, the United Kingdom Maritime Trade Operations Centre — a Royal Navy-sponsored maritime security organization — said a \"verified source\" reported that a container ship had been struck by an \"unknown projectile.\"\nIn a post on X overnight, U.S. Central Command refuted Iranian claims that the strait is under Iran&#x27;s control.\n\"IRGC&#x27;s navy commander has no navy. American forces and regional partners clearly control the Strait of Hormuz,\" Centcom said. \"Just yesterday U.S. forces assisted Gulf partners in shipping more than 19 million barrels of crude oil through the strait.\"\nCorrection: U.S. President Donald Trump said Thursday that American forces would not attack Iran before the midterm election. An earlier version misstated the day.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-14T12:13:46+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "Reuters World"
+        "GN Geopolitics",
+        "CNBC Top"
       ],
-      "source_count": 1,
+      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 14.2,
+      "score": 14.1,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -480,26 +559,6 @@
       ]
     },
     {
-      "title": "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHdDaFdBYkNUTnZyWmVjeGFsUXRyWVVpanIxV1V3OWxKTlo0M3U2QmlFXzk2SWozYi1oNDRtV3UxdGhFMzRERzhCd1lDR1RoYkFDdThva3NVT2pMQXNGWjRYa0JYRVpVa1VNc0g0bzFjV0tISUxWTU9EbWV1Um9yOHZMWmxibTExLW10S2RLRWJKSXM4TmJoSVBiRERaRkk?oc=5",
-      "summary": "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&amp;P 500 Near Records&nbsp;&nbsp;Yahoo Finance</fo",
-      "content": "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records\nDimon cut JPMorgan's Q3 buybacks from $7B to $1B while warning fiscal deficits, sticky inflation, and geopolitical tensions continue shifting beneath the surface.\nMicrosoft, NVIDIA, Apple, and Meta added 300 S&P 500 index points over three quarters while the remaining 496 members shed about 150.\nWilson warns bond volatility could pull the S&P 500 6% lower to 7,300, with 51% of Russell 3000 stocks already in bear territory.\nJust released. Our analysts combed the entire stock market and named the ten best stocks to buy right now, and JPMorgan Chase didn't make the cut. Enter your email to see the names that beat JPM. The report is free. Enter your email and see if any of your stocks made the cut.\nYahoo Finance and Stocktwits both reported on Oct. 13 that JPMorgan Chase ( NYSE:JPM ) chief executive Jamie Dimon had warned that large fiscal deficits, sticky inflation, high asset prices, rising interest rates and geopolitical conditions \"continue to shift under the surface.\" He said these forces may be manageable and that the bank remains prepared for a wide range of outcomes. Stocktwits also reported that he said the U.S. economy remains strong, citing business investment and steady consumer spending.\nMark Wilson / Getty Images News via Getty Images The stock market has a similar gap between the surface and what lies beneath it. In this article, a bear market means a drop of more than 20% from a peak. Some of the counts below start from June highs and others from 52-week highs. Most of the figures come from secondary coverage.\nCoverage dates the following wording to July. Dimon wrote that \"several risks are shifting below the surface like tectonic plates, including geopolitical tensions and wars, sticky inflation, large global fiscal deficits and elevated asset prices.\" He added that the firm cannot predict how these forces will play out and that they could cause significant disruptions.\n24/7 Wall St has helped investors make money for over two decades, and our top analysts just finished ranking the definitive Top 10 Stocks To Buy Now . Not the ten biggest companies. Not the ten everyone is arguing about. The ten best stocks to buy right now.\nThe report is free, and you can see why we think each stock is a top investment today.\nThe bank also slowed its buybacks. TIKR data show gross repurchases of about $1.06 billion in the third quarter, down from about $6.70 billion in the second. Yahoo Finance called the cut \"the bigger story.\"\nMike Wilson, chief equity strategist at Morgan Stanley ( NYSE:MS ), reported that 51% of Russell 3000 stocks are down more than 20% from their June highs. Two weeks earlier, the figure was just over 40%. These numbers come from reposts of his Oct. 5 note and may have changed since. Yahoo Finance Canada covered his breadth concerns as early as Sept. 28.\nThe S&P 500 counts below use 52-week highs, so they cannot be compared with Wilson's June-high figure. TheTradingTools put 34.8% of index members more than 20% below their 52-week highs at the Oct. 9 close. MarketWatch put the share at 44%. Wilson reported that the median S&P 500 stock sits 16% below its 52-week high.\nCapital Blueprint reported that 96% of semiconductor stocks are down more than 20% from their June highs, compared with about 4% of banks. Citing Citadel Securities, Capital Blueprint also said four companies added about 300 index points over three quarters: Microsoft ( NASDAQ:MSFT ), NVIDIA ( NASDAQ:NVDA ), Apple ( NASDAQ:AAPL ) and Meta Platforms. Over the same stretch, the remaining 496 members took off about 150.\nOn Oct. 2, Opening Bell Daily argued that \"narrow market breadth doesn't mean a bear market is coming.\" Capital Blueprint, citing Bloomberg, reported that more S&P 500 stocks hit 52-week lows than highs on 17 of the last 18 trading days. In the past, that pattern has usually shown up near a post-selloff low, and stocks then rose.\nDimon's own wording is hedged, and he predicted nothing. The quarter also held up. Revenue rose 8% from a year earlier, profit increased, and the chief financial officer said \"the consumer is currently very healthy.\"\nJPMorgan shares fell in premarket trading on the earnings miss and recovered through the session, but still closed down 0.82%. The stock traded at $331.57 as of the Oct. 13 delayed quote. A Stocktwits headline said the stock gained despite the miss, which differs from the closing move. Over the past month the shares are down 6.46%, and year to date they are up 4.87%.\nJPM Price Target — 24/7 Wall St. Bond Volatility Holds the Key\nThe Dark Side Of The Boom reported on Oct. 5 that, in Wilson's view, bond volatility will decide how the weak breadth gets fixed. The 10-year Treasury yield was 5.24% on Oct. 9, close to the level he cited. Reports described his conditional scenario: if bond volatility remains high, the S&P 500 could fall about 6% to roughly 7,300 over the following month.\nSeparately, Motley Fool reported that the Shiller price-to-earnings ratio has crossed 40 for only the second time. This valuation measure is separate from breadth, though the combination of high multiples and narrowing leadership is exactly the setup we walked through in a free handbook on riding a mania without giving it all back.\nInvestors should watch bond volatility and whether breadth broadens, or whether the index follows the median stock lower.\nIf you have cash sitting in your account right now, give this two minutes. After more than two decades of helping investors beat the market, our top analysts at 24/7 Wall St. put together a definitive report on the Top 10 Stocks To Buy Today. And JPM wasn't one of them.\nThey combed the entire market. It's not 10 ideas, not 10 stocks everyone is talking about, it's what their research points to as the 10 best stocks to buy right now, and it's free. Read more here and see which stocks made the list -->>\nContact editorial@247wallst.com for any questions or corrections.",
-      "published": "2026-10-14T10:28:03+00:00",
-      "source": "GN Markets",
-      "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "ASML earnings boost tech stocks, lift European shares - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmI1cmdFeWZ3cUxZV3NCMlg4TTJEQ2NzNU5DeUM3eDJvTnVKUHlJcFRtVEpYNlk3MnRvb0xDaWI5VGNNMWowdl9CcE9qTTNoTjBkR280VjRYSnUwUGhKZ3FiRmViNmJvd3FLa0RXbW01NXl2TTlKQUJxdWxadG5nbDhoV214TlFTYVlEWDFsdTY2TWN3WXQza0Jvcjd3ZlRCUHpqRkpqX1ZNZ0lVUDRGRTVTdDA?oc=5",
       "summary": "ASML earnings boost tech stocks, lift European shares&nbsp;&nbsp;Reuters",
@@ -520,71 +579,69 @@
       "assets": []
     },
     {
-      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-      "link": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
-      "summary": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.The Ukrainian president, on a visit to London, accused Trump of picking the other side after more than four years of war, risking a breakdown in relations already",
-      "content": "Ukraine President Volodymyr Zelenskyy met Andy Burnham in London. Photograph: Henry Nicholls/Reuters Pool/AP\nUkraine President Volodymyr Zelenskyy met Andy Burnham in London. Photograph: Henry Nicholls/Reuters Pool/AP\nVolodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access\nUkrainian president accused US president of picking the other side after four years of war\nVolodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.\nThe Ukrainian president, on a visit to London, accused Trump of picking the other side after more than four years of war, risking a breakdown in relations already strained by the US agreeing to buy diesel from Moscow .\nAhead of a meeting with prime minister Andy Burnham in Downing Street, Zelenskyy appeared in a TV interview where he was asked whether the sudden restriction of Starlink was deliberate and if he felt betrayed by Trump.\n“Really, yes … but it’s a little bit more complicated ⁠than just my emotions or my feelings,” the Ukrainian president replied, adding: “It’s a pity that we are losing, we are losing a strong partner.”\nOvernight, Ukraine’s military reported that, without explanation, the Starlink satellite communications system, produced by Musk’s SpaceX but managed by the US government, was no longer working at speeds greater than 100mph .\nThat effectively rendered most of the drones used by Ukraine to strike behind the frontlines inoperable – and, it later emerged, affected the most effective air defence system to stop Russian jet-powered attack drones bombing Kyiv.\n“I am sure they knew what they did, absolutely. Because it was 1am at night, Starlink was blocked by SpaceX and the United States,” Zelenskyy said in an interview with Piers Morgan. “This decision will bring a lot of human losses … of course, people will die.”\nThe sudden outage came as Russia launched ballistic missiles at Ukraine without any advance warning from the US for a second night. For years, the US has provided Ukraine with intelligence when strikes were about to take place.\nTrump denied that his administration had cut intelligence sharing on Tuesday, but Zelenskyy said in an interview with US broadcaster NPR, aired on Wednesday, that military advisers had received threats from the US that intelligence sharing could be limited in the future.\nThe US president has demanded that Ukraine stop striking Russian oil refineries, which he has blamed for the high cost of diesel, although most analysts say the closure of the strait of Hormuz after the US-Israel attack on Iran has had a far larger impact on global energy prices.\nAndy Burnham greeted Ukraine’s president, Volodymyr Zelenskyy, warmly at No 10. Photograph: Henry Nicholls/Reuters The two leaders fell out in the spring of 2025 during a disastrous visit by Zelenskyy to the Oval Office, where the US president said: “You don’t have the cards” to win the war. The row was followed by a brief pause in intelligence sharing and a desperate scramble by European allies to calm the row.\nBurnham met Zelenskyy in Downing Street on Wednesday, hours after he promised MPs that the Ukrainian president “would not leave empty-handed” and that he had tasked officials with drawing up further sanctions and options for speeding up military aid.\nAs the pair met at No 10, he promised that Britain’s support for Ukraine would remain constant. “You have seen the solidarity and the support you have got from everybody here in Britain. We are behind you and that will not change,” he said.\nZelenskyy had met King Charles in Buckingham Palace earlier on Wednesday.\nIn Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll\nIn brief remarks to reporters, Zelenskyy said he hoped to raise access to Starlink and intelligence sharing in his meeting with the British prime minister.\nBurnham pledged that he would accelerate the supply of British lightweight multi-role missiles to Ukraine, which the country uses to counter Russian drone strikes and said they were looking for “all possible avenues” of further support.\nThe prime minister also said he was prepared to discuss the ceasefire proposed by Trump on attacks on energy infrastructure but acknowledged that Moscow had not abided by it.\n“Sadly, what we have seen from Russia is further attacks on critical national infrastructure in Ukraine,” he said.\nEarlier Burnham told MPs at PMQs that he wanted to be “careful” about potential criticism of Trump that might risk exacerbating tensions, saying he was “laying the ground” for a reconciliation: “I will listen to President Zelenskyy carefully, but he won’t be going away from Britain today empty-handed.”\nThe UK is also set to give £17m in funding towards repairs to the protective roof over the destroyed Chornobyl nuclear power plant which was damaged by Russian drone strike last year.\nThe meeting, which lasted just over an hour, began as Burnham greeted Zelenskyy with a hug on Downing Street, before the pair walked to the door of No 10 and posed for photographs, flanked by Irish Guards in full ceremonial uniform.\nMusk said the decision to curtail Starlink was not one made by him. The communications system is not directly licensed to clients who are using weapons, and the Ukrainian military was linked to a related network called Starshield, which is operated by the US government.\n“Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS,” Musk said, referring to Trump.\nTerminals travelling at more than 100mph and using a version of Starlink for the military and other national security agencies suddenly lost connectivity, said Serhiy Beskrestnov, an adviser on military technology to Zelenskyy, in what appeared to be a targeted outage meant to disrupt military operations.\n“Our armed forces did not receive a warning about these restrictions and this led to the failure of a number of missions,” said Beskrestnov, who is also a popular military blogger. “It’s clear that this action cannot be a coincidence and is connected to the current political situation.”\nThe Guardian view on Trump’s deal with Putin: grim and grubby, but not gamechanging | Editorial\nLimiting Starlink’s access speeds would have a significant effect on Ukraine’s air defences because it is being used, according to Beskrestnov, in “the most current effective solution”: interceptors that target the jet-powered Shahed drones now deployed in large numbers to bomb Ukraine.\n“With their actions, our partners are depriving us of one of the few chances we have to defend ourselves,” he added in a follow-up post. Shahed interception rates had already dropped from more than 90% to about 60% when Russia upgraded its engines to jet power in the early summer.\nIt also complicates Ukraine’s use of medium-range, mid-strike drones for hitting targets in its territories occupied by Russia. But, ironically, it would have no impact on Ukraine’s deep strike bombing of oil refineries because Kyiv is banned from using Starlink to hit targets inside of Russia.\nRussia carried out a massive strike against Ukrainian energy infrastructure late on Tuesday evening, Zelenskyy said, launching 39 ballistic missiles and 120 attack drones against Kyiv and Kharkiv. The strikes hit five big power plants, key substations and other infrastructure that sustains major cities including Kyiv.\nAt least 600,000 people were now without power, he said, adding that outages could become more widespread.\nTrump last week announced an “energy ceasefire” between Russia and Ukraine that has not been confirmed. Zelenskyy said he had not heard of the deal until Trump announced it on his Truth Social site, and the Kremlin on Wednesday claimed it was abiding by the ceasefire because Trump had not specified which energy infrastructure it included.\nDmitry Peskov, the Kremlin’s spokesperson, told reporters: “The energy truce proposed by Trump was not specified in detail, so it cannot be claimed that Russia is failing to observe it.”\nUkrainian military’s access to Starlink satellite internet suddenly restricted\nDid Ukrainian strikes on Russian datacentres reduce online disinformation?\nAllies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy\nZelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue\nTrump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’\nBritain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine\n‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones\nTrump says Ukraine needs a new leader after diesel deal with Russia\nZelenskyy furious as Trump announces deal to buy Russian diesel",
-      "published": "2026-10-14T23:00:08+00:00",
-      "source": "Guardian World",
+      "title": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOTA1RnBNWjJQM3FRejBzUGpHS2NUU2JTaEpqdHBXQUtleTFTbmhtLWxZM2g4amlBZi0tRm5DN1ZrRmV0Z0VaX0ljVVpNUFJ4cWU0ZG4zdHVlbERoX2Q5TFRvejlyc19DNkhTWlptTHZhRktEeURhRkJfRzY5V2lVelJQSzBCekRMRTVmVWRMRVNla1NGNzQ2SW5SU0RWVEl1VlRfckNOQ0Vnem8xc2k0OFNvSjh0UVVEVjRkUGFlTjVJdDN4eVhEa2JMYTA3UW9NZExWQ2tONmxaajhxa09yVG4yYTV0Q19BbGc?oc=5",
+      "summary": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge&nbsp;&nbsp;",
+      "content": "$43B Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary.\nCoreWeave ( CRWV -15.46% ) , a specialized AI cloud computing infrastructure provider, closed at $65.78, down 15.46%. Higher bond yields and Gartner &#x27;s neocloud warning pressured the stock. Investors are watching for insights on the company&#x27;s demand, capacity ramp, and capital intensity.\nTrading volume reached 107 million shares, coming in about 263% above its three-month average of 29.5 million shares. CoreWeave IPO&#x27;d in 2025 and has grown 64% since going public.\nThe S&P 500 (SNPINDEX: ^GSPC) fell 1.08% to 7,721, and the Nasdaq Composite (NASDAQINDEX: ^IXIC) fell 1.88% to 26,693. Among AI cloud infrastructure and data center service peers, Nebius Group ( NBIS -10.08% ) fell 10.08% to $186.01, and Oracle ( ORCL -8.83% ) fell 8.83% to $130.55 as investors reassessed capacity spending.\nOn Wednesday, Oct. 14, CoreWeave&#x27;s stock crashed after research giant Gartner warned that 80% of neoclouds could disappear by 2030, pointing out that over $3.5 trillion in AI infrastructure spending could be exposed to impairment that year. This announcement appeared on the same day Consumer Price Index (CPI) data came in hotter than expected, pointing to a greater possibility of more federal rate increases to fight elevated inflation, making CoreWeave&#x27;s massive debt load a significant risk for investors.\nAdding fuel to the fire, venture capitalist Chamath Palihapitiya shared a chart on social media showing CoreWeave&#x27;s bond yield soaring to a jaw-dropping 15% as a warning about a potential private credit bubble forming around the artificial intelligence industry. The world&#x27;s first trillionaire, Elon Musk, responded with a single word: \"Yikes.\"\nAccording to Bloomberg, CoreWeave CEO Michael Intrator dismissed the sell-off in an internal memo, telling staff that the market was acting \"irrationally,\" and that the company&#x27;s contract backlog is large enough to cover its obligations.\nIn August, CoreWeave reported strong second-quarter results, and that quarter remains the clearest gauge of growth and margin execution. The company&#x27;s Q2 revenue hit $2.6 billion, a 112% year-over-year increase, and CoreWeave forecasted this year&#x27;s sales to reach at least $12.4 billion, more than double the $5.1 billion achieved in 2025.\nJim Cramer Calls CoreWeave the \"Real Deal,\" but the Stock Crashed 15% the Very Next Day. Should You Buy the Dip?\nThese 2 AI Stocks Have Stumbled. Now They May Soar Nearly 75%, According to Wall Street.\nCan CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?\nCoreWeave&#x27;s Backlog Is Huge. Here&#x27;s the Risk Investors Shouldn&#x27;t Ignore\nRobert \"Izzy\" Izquierdo is a contributing Motley Fool stock market analyst covering information technology, consumer discretionary, consumer staples, and communication services sectors. Prior to The Motley Fool, Izzy was head of product management at Target Media Partners, developing and launching multimillion-dollar software used by businesses such as Charter Communications. Prior to that, he worked at Yahoo! and startups on software products in connected TV, AI, consumer apps, and digital advertising. He holds a bachelor’s degree in English literature from UCLA and is certified in software product management.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "published": "2026-10-14T22:28:00+00:00",
+      "source": "GN Markets",
       "sources": [
-        "Guardian World"
+        "GN Markets"
       ],
       "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "markets",
+      "category_zh": "市场",
       "stars": 3,
-      "score": 13.8,
+      "score": 13.9,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
     {
-      "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZsTE1wTW5KVUZmUUJ3MFhPTEdiajVmTWR3UUt6eU9uSWpHWlNmdDVpTUhSa1BnQTVDaW9GUXJoOXp2N2VmVGJ4cE5MNU1KazJCWVZPVGlIMGRnd2JTbndndmZGZEd0d3Zyc243ZnJ2RFVxMm9GNUItaXNteWRxUl9fUnlPc2wzVE1URzVDQXBhSmNiajN0MkdON3BrRGRjRllIUVptV0dzdDhYLTRlc3N6bw?oc=5",
-      "summary": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv&nbsp;&nbsp;AP News",
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+      "summary": "Eight US states sue OpenAI, claiming ChatGPT harms young users&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-14T01:48:00+00:00",
-      "source": "AP World",
+      "published": "2026-10-14T20:40:52+00:00",
+      "source": "Reuters World",
       "sources": [
-        "AP World",
-        "GN Geopolitics"
+        "Reuters World",
+        "CNBC Top"
       ],
       "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
-      "score": 13.7,
+      "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
     {
-      "title": "Belize backs foreign minister after China imposes sanctions over Taiwan ties - Caribbean National Weekly",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1BqcEhnWHBESUpkY1I3VUh1ZDkxTWtRY3BNNXJFMGN6WnZwMEJvcmxQdGFwTUlHN2ZfNGFjRGI5bnZ3WGZtWW80WmRCekV6M0U3eUJRRG95UmxfWHZqdmUzMUV3aDIwSWVQdlE2ZGRxSy1GNnhGek9JdDNuclUwbDA0eXJkakxfMTBxcFl1cVk5UHVWVjh6dE1SR1QzTzBNYTRiMEE2SGNySHMtQnpXejNWU3JsLVY2LWVic3RnNA?oc=5",
-      "summary": "Belize backs foreign minister after China imposes sanctions over Taiwan ties&nbsp;&nbsp;Caribbean National Weekly",
-      "content": "Belize backs foreign minister after China imposes sanctions over Taiwan ties\nBy Joanne Clark · Wednesday, October 14, 2026 · 1 min read\nKey Points ( 5 ) he Belize government has defended Foreign Affairs Minister Francis Fonseca after China announced measures against him over his support for maintaining diplomatic relations with Taiwan.\nIn a statement, the government said it rejected the measures announced by China’s Foreign Ministry on October 12, describing them as unwarranted and reaffirming Belize’s right to determine its foreign policy without external pressure.\nChina accused Fonseca and a senior government minister in Paraguay of pursuing “anti-China” policies by supporting continued diplomatic ties with Taiwan.\nThe measures include denying the two officials entry to Hong Kong and Macau and prohibiting Chinese organizations and individuals from engaging in transactions or other activities with them.\nBelize and Paraguay are among 12 countries that maintain formal diplomatic relations with Taiwan, which China considers part of its territory.\nThe Belize government has defended Foreign Affairs Minister Francis Fonseca after China announced measures against him over his support for maintaining diplomatic relations with Taiwan.\nIn a statement, the government said it rejected the measures announced by China’s Foreign Ministry on October 12, describing them as unwarranted and reaffirming Belize’s right to determine its foreign policy without external pressure.\nChina accused Fonseca and a senior government minister in Paraguay of pursuing “anti-China” policies by supporting continued diplomatic ties with Taiwan. The measures include denying the two officials entry to Hong Kong and Macau and prohibiting Chinese organizations and individuals from engaging in transactions or other activities with them.\nBelize and Paraguay are among 12 countries that maintain formal diplomatic relations with Taiwan, which China considers part of its territory.\n“Belize’s diplomatic relationship with Taiwan was established by a sovereign decision of our country,” the government said, noting that the partnership has supported cooperation in development, health, education, infrastructure, the environment and agriculture.\nThe government said Fonseca had acted in his official capacity, following its instructions and in Belize’s national interest.\n“These measures will not alter Belize’s foreign policy, nor will they deter the Government from carrying out its responsibilities,” the statement said, adding that the government continued to stand behind the minister.\nBelize also reaffirmed its commitment to peaceful relations, dialogue and the principles of the United Nations Charter, calling on countries to refrain from unilateral coercive measures against foreign officials.\nThe government said it would consult with bilateral and regional partners and the wider international community on the development.\nOther Caribbean Community (Caricom) countries that maintain diplomatic relations with Taiwan include Saint Lucia, St Vincent and the Grenadines, St Kitts and Nevis, and Haiti.\nGet the latest Caribbean news delivered to your inbox. Free.\nTrinidad and Tobago plans phased restart of Petrotrin refinery\nDominica psychiatrist urges Caribbean to raise legal age for alcohol, cannabis use\nTrinidad and Tobago presents TT$63.3 billion budget, proposes tax changes\nGuyana gov&#x27;t says ‘full force of law’ will apply after shooting incident involving opposition leader",
-      "published": "2026-10-14T18:18:33+00:00",
-      "source": "GN China",
+      "title": "China's September exports soar, putting $1 trillion trade surplus in sight - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
+      "summary": "China's September exports soar, putting $1 trillion trade surplus in sight&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T02:41:00+00:00",
+      "source": "Reuters World",
       "sources": [
+        "Reuters World",
         "GN China"
       ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "source_count": 2,
+      "category": "china",
+      "category_zh": "中国",
       "stars": 3,
-      "score": 13.7,
+      "score": 13.6,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
       "assets": [
         "A股",
         "港股",
-        "人民币",
-        "台积电",
-        "半导体",
-        "亚太市场"
+        "人民币"
       ]
     },
     {
@@ -605,26 +662,6 @@
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Germany's AfD and leftist BSW call for end to help for Ukraine - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkNsRTQ1VkVKSWlkOWQ5U2pFQnNrbnZFLS02YmxfUzFzRF90S09UX3Nkay1UeGNzU2lvY2NFcHpKTDNfckZFM3pUOUtRdWhLQ2NTOWl3UERRTFJPR0JiLUJoYnVlQUhhNEF0ZDA1VENkVEhmWl9ibV9ESTJxTGdONlRzeVFzNDhtdEMtLTlvV0d0Zw?oc=5",
-      "summary": "Germany's AfD and leftist BSW call for end to help for Ukraine&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-14T16:47:52+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -721,26 +758,6 @@
       ]
     },
     {
-      "title": "US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down? Latest updates on Wall Stree - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNd2xkTndPYUROeEFlaC1Sel93cHFrZ29PdEY1azJCTXgyNl9EbTR2YTlKSlEyU0xJX25DdTg2NGEzZkJRNzlna3pHRFdLbWcydjFabGdheXQ5am9sdFQtc3l0WFVkUFkwR0VUdmI2QUNEdDNGVmpoUlZ3STJUR3poQXQzbmpvazlmbUZYWWdZUkhoOEpmVDZGQ3MtUDVhNmF0a0hnb2Z2eTh5bkJBU1NuMTdGUVJWd0ZqclZnbGdrNmFRdTlVRlFwQWstN1d5STlqNFZRVGhfOWxMb09LV3g0aFM1LXc1QmlBVHljcElYV3dTR2syanVZRlNWRWNXeFNqeWlXem1GMTFxUHZZU1JlRDRXc29Ucm5Qb1FfSGVNRFpuMEU1dE9Ob09UMHVtUndaV1hZ0gG4AkFVX3lxTE1keHB6TEZlRnpUY2RhWXdlakRjbmF6YzhlWS1DWGJqTkNQbmtXWFk0cWhUMkJLZGpJR1luaGNuLVp3eExxbVlfNktxcDc1QzdXRVU5VV9UQW0tUWx0a18xTVRVSmNjZzIzcFFzQ081S0dxZlM0eWktM3pHSm1SRXhVdVctUDE4bjlkeXRGSDBnRzhfa0RDVUlKTURXUWotWTFJcGtmLTBTcWtrbXZjQnNkeFMzWmh6M0JWaWYwQ3VDZVBjT2VUYVR0RmdPU3NIQVgyanJ6a2V2ZFllMThITTNodkhDVDBpWTZBUmM0Zzd4bHJJWldwYU1LSFB2WHlHeXYzR1pfNTBrdVM0SnZySG5razczWGNJbkNkQmVpb1dYcG82SDc5b2x0UkFHVmdIN05CMjRWSjVwVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNd2xkTndPYUROeEFlaC1Sel93cHFrZ29PdEY1azJCTXgyNl9EbTR2YTlKSlEyU0xJX25DdTg2NGEzZkJRNzlna3pHRFdLbWcydjFabGdheXQ5am9sdFQtc3l0WFVkUFkwR0VUdmI2QUNEdDNGVmpoUlZ3STJUR3poQXQzbmpvazlmbUZYWWdZUkhoOEpmVDZGQ3MtUDVhNmF0a0hnb2Z2eTh5bkJBU1NuMTdGUVJWd0ZqclZnbGdrNmFRdTlVRlFwQWstN1d5STlqNFZRVGhfOWxMb09LV3g0aFM1LXc1QmlBVHljcElYV3dTR2syanVZRlNWRWNXeFNqeWlXem1GMTFxUHZZU1JlRDRXc29Ucm5Qb1FfSGVNRFpuMEU1dE9Ob09UMHVtUndaV1hZ0gG4AkFVX3lxTE1keHB6TEZlRnpUY2RhWXdlak",
-      "content": "Business News &rsaquo; News &rsaquo; International &rsaquo; US News &rsaquo; US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down? Latest updates on Wall Street stocks, US Bonds, treasury yields\nThe Economic Times daily newspaper is available online now.\nUS Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down? Latest updates on Wall Street stocks, US Bonds, treasury yields\nUS Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down? Latest updates on Wall Street stocks, US Bonds, treasury yields\n, Global Desk Last Updated: Oct 14, 2026, 06:37:00 AM IST\nWall Street indexes S&P 500, Dow Jones, Nasdaq, Russell 2000 had rough trading day as several stocks fell, weighing on key sectors.\nAP S&P 500 posted 18 new highs and five new lows; the Nasdaq recorded 47 new highs and 408 new lows. (AP Photo)\nUS Stock market indexes witnessed painful trading day at the Wall Street on Tuesday. S&P 500 fell 1.79 points, or less than 0.1 per cent, to 7,805.45, Dow Jones Industrial Average fell 180.45 points, or 0.3 per cent, to 51,670.10, Nasdaq composite fell 41.52 points, or 0.2 per cent, to 27,204.38, Russell 2000 index of smaller companies fell 11.11 points, or 0.4 per cent, to 2,783.37.\nThe benchmark 10-year yield fell 2.72 basis points to 5.22 per cent, inching away from the 24-year high of 5.364 per cent it hit last week. A toxic mix of inflationary pressure from elevated energy prices and worries about ballooning government debt has triggered several bond selloffs in recent weeks, pushing borrowing costs to multi-decade highs across the globe.\nTraders are awaiting US inflation data on Wednesday for clues on the Federal Reserve's policy path. They are pricing in an 80.6 per cent chance that it holds rates steady later this month, up from 51 per cent a month earlier, the CME FedWatch tool showed.\nOil prices eased as traders assessed supply risks from attacks on Saudi Arabia while weighing the prospect of additional diesel supplies from Russia. Brent crude futures dipped 0.9 per cent to $105.69 per barrel.\nWho is Abdulrahman Alfozan? ChatGPT maker OpenAI's Saudi national employee arrested by FBI for planting high tech listening device in San Francisco office\nThe dollar slipped from 18-month highs, along with a drop in yields and oil prices. The euro was last up 0.01 per cent at $1.1199, while the Japanese yen was at 158.31 per dollar.\nThe dollar index, which measures the greenback against a basket of currencies including the yen and the euro, fell 0.34 per cent.\nThe PHLX chip index fell 0.23 per cent, down for a fifth straight session. Micron Technology lost 3.6 per cent and Applied Materials dropped almost 7 per cent. Citigroup dipped 5.6 per cent and Goldman Sachs lost 0.2 per cent after both banks topped profit estimates.\nMicrosoft Azure is not taking cost-cutting measures, says software giant spokesperson amidst AI overhaul reports\nWells Fargo fell 3.1 per cent after its net interest income missed estimates, while JPMorgan Chase ended down 0.9 per cent following a rare profit miss.\nApple hit an intraday record high of $348.15 before closing up 0.1 per cent at $341.27, putting its stock market value at $4.98 trillion. Broadcom rose 0.7 per cent.\nThe PHLX chip index has lost more than 8 per cent in the past five sessions and it remains up over 70 per cent year-to-date, S&P 500 healthcare index fell 1.3 per cent on Tuesday, with Johnson & Johnson down 5.7 per cent despite topping profit estimates.\nBumble jumped almost 57 per cent after the dating-app operator agreed to go private in a $1.3 billion deal, Domino's Pizza declined 4.8 per cent after scaling back its full-year sales outlook. Advancing issues outnumbered falling ones within the S&P 500 by a 1.1-to-one ratio.\nThe S&P 500 posted 18 new highs and five new lows; the Nasdaq recorded 47 new highs and 408 new lows. Volume on US exchanges was relatively light, with 14.8 billion shares traded, compared with an average of 17.6 billion shares over the previous 20 sessions.\n(You can now subscribe to our Economic Times WhatsApp channel )\nUS Stock Market S&P 500 Dow Jones Nasdaq Composite Russell 2000 Apple Stock US Stock Market today down\n(Catch all the US News , UK News , Canada News , International Breaking News Events, and Latest News Updates on The Economic Times.)\nDownload The Economic Times News App to get Daily International News Updates.\n(You can now subscribe to our Economic Times WhatsApp channel )\nUS Stock Market S&P 500 Dow Jones Nasdaq Composite Russell 2000 Apple Stock US Stock Market today down\n(Catch all the US News , UK News , Canada News , International Breaking News Events, and Latest News Updates on The Economic Times.)\nDownload The Economic Times News App to get Daily International News Updates.\nSass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?\nCanadian rock singer Sass Jordan, voice behind ‘Make You a Believer’ and ‘Tell Somebody,’ dies at 63\nHelicopter crash on Montreal’s South Shore leaves 4 dead; Transport Minister expresses condolences as probe begins\nNova Scotia teacher charged with sexually assaulting student at school as police identify more victims\nNova Scotia Crime: Teacher faces multiple serious charges, prohibited from public places after alleged assaults at Riverton school\nPsychology explains why people who dislike being interrupted may be protecting more than just their train of thought\nPowerball jackpot climbs to $313 million for September 21 drawing - Here's what Monday night's winner could take home\nQuote of the Day by Malala Yousafzai: ‘One child, one teacher, one book, one pen can…’ - How one person can spark global change with the simplest tools\nQuote of the Day by Thomas Mann: ‘Whoever loves the more is at a disadvantage and must suffer’ - Nobel-winning novelist on why the person who care more may have more to lose\nQuote of the Day by Anton Chekhov: ‘Every happy man should have someone with a little hammer at his door to knock and remind him that there are unhappy people, and…’\nGary Myers death: NASCAR legend dies at 76; sons mourn ‘hero’ who shaped four generations of racing\nQuote of the day by Rita Wilson: ‘Be fearless in trying new things, whether they are physical, mental…’ – Sleepless in Seattle actress on turning fear into growth\nManager keeps booking 4:45 PM Friday meetings despite team logging off at 5, employee calls it a ‘Friday ambush’ and asks if it’s a power move",
-      "published": "2026-10-14T01:07:29+00:00",
-      "source": "GN Markets",
-      "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 13.5,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Mapping the Market: Dow eyes another run at a rally - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcC00WUtvaGY3QWJtMFEwVEl3RmpmWktna2M2MzlKZXJSN3JQUkNxSjRCRklHUGFEM2VDZkw2RlF6OEtBdmlKN3BhWjlqUDg3WEJ0Y1pZLS1KTjBQQ1RQbVh6c2xkbTdsZmQ5S2VmeHpZNUFSU2Z2UWttRU1JemUzaTBLQUpkaFRGcFJyTA?oc=5",
       "summary": "Mapping the Market: Dow eyes another run at a rally&nbsp;&nbsp;Reuters",
@@ -761,11 +778,11 @@
       "assets": []
     },
     {
-      "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
-      "summary": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments&nbsp;&nbsp;AP News",
+      "title": "Russia's Lavrov, China's Wang discuss cooperation, Ukraine, Iran at Asia security meeting - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWd0VGluQkdsUm1GUWdkQlFINnM3NzFGUEpBSGZYMEtuOEVUdWpPOWY2d3Fxc0Q3OFI4TE95YUVWWFFXaklaTHQtZFRlMlgxWWtTc2hTaHJRejhueS1SOXMxVjRUZXZyYUNWbTNldlNMQTFtUzdzV2g3c2lhNG9ucjd6MWVVdjQ4OFctWnZGcXRmdzZsNVhKU2xNYTVJTzk4NkM3R2ctRm9aZFE3ZFNCa1VsYl9qRXdGOHFpSGRB?oc=5",
+      "summary": "Russia's Lavrov, China's Wang discuss cooperation, Ukraine, Iran at Asia security meeting&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-14T21:53:00+00:00",
+      "published": "2026-10-14T21:53:43+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -774,38 +791,14 @@
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 13.4,
+      "score": 13.3,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
       "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
-    },
-    {
-      "title": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlV0MnV6SXBYOUF1ZEl6UHpJanhsc01iWlhNaUFqOXJadG9abWpra3NjU2NMTTFscElqa2N2YkZLWjV2Qy1Rcm9zRFpLbUVCTnFUNHU4VjlFbUVfUnpoQS04dVF5dFpOVHRTQnU4NmhpUUMxcHlfRGI1ckVBQ1FreHUyNHpnVVZhWmZXN3FHSEJvNzJJRjd5aVdaa3J2S01Ca1hob1RLTUtNMU5MTWdVM19vdV9mUQ?oc=5",
-      "summary": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back&nbsp;&nbsp;Bloomberg.com",
-      "content": "",
-      "published": "2026-10-14T17:43:06+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.4,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
+        "A股",
+        "港股",
+        "人民币"
       ]
     },
     {
@@ -856,7 +849,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR?oc=5",
       "summary": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?&nbsp;&nbsp;The Motley Fool",
       "content": "On Monday, Microsoft ( MSFT -1.80% ) unveiled its latest AI chip architecture, the Maia 300.\nAnd the company went out of its way to point out the ways in which the Maia 300 was superior to graphics processing units (GPUs). \"This is our biggest bet yet on our own silicon,\" said CEO Satya Nadella.\nThis was seen as a shot across the bow to the world&#x27;s premier GPU maker, Nvidia ( NVDA -3.16% ) .\nSo is the Maia 300 the \"Nvidia killer\" that everyone has been anticipating for years? It might be, but not in the way you might think. Here&#x27;s what&#x27;s really going on.\nThe Maia 300 is an upgraded version of the Maia 200, which was released in January.\nThe Maia 200 is currently in production and has already been deployed at Microsoft facilities in Iowa and Arizona, where it&#x27;s used instead of GPUs and other components from Nvidia, Intel ( INTC -4.56% ) , and Advanced Micro Devices ( AMD -5.73% ) .\nMicrosoft claims the new, upgraded Maia 300 chip is even more economical and can process 40% more tokens per megawatt when compared to GPUs. A higher token-per-megawatt ratio results in lower AI costs because the biggest expense for an AI data center is electricity.\nBut even if it&#x27;s cheaper to operate, it&#x27;s certainly not going to match the power of Nvidia&#x27;s top-of-the-line systems. Won&#x27;t that be an issue?\nPerhaps more than any other company, Microsoft has done very well by coming in second. Its Azure cloud platform is the second-largest , compared to Amazon &#x27;s Amazon Web Services. Its Surface tablets have never outsold Apple &#x27;s iPad. Its Xbox has always played second fiddle to the Sony PlayStation.\nSo it shouldn&#x27;t surprise anyone that Microsoft isn&#x27;t trying to beat Nvidia at its own game, but to compete on a more favorable playing field: cost. \"Moving data efficiently, rather than raw compute power, is increasingly the bottleneck in large inference systems,\" Microsoft said in its blog post announcing the Maia 300 system. The company hopes to leverage this to its advantage.\nAustin Lyons, an analyst for Chipstrat, thinks there&#x27;s an opportunity here in optimizing different AI processors for different tasks. \"The advantage of custom silicon is that Microsoft can optimize for the latency its own workloads actually require,\" he wrote. \"A meeting summary and a coding agent don&#x27;t need the same response time. Maia targets more throughput at each of those latency points, translates to more useful tokens served per megawatt and lower cost passed for customers.\"\nPat Moorhead of Moor Insights & Strategy agrees, writing:\nMicrosoft is now moving toward deploying Maia at meaningful production scale. At that scale, custom silicon isn&#x27;t just about performance. It can become an important margin driver by improving the economics of delivering Microsoft&#x27;s own AI services.\nLyons and Moorhead are echoing commentary from across the industry that suggests the AI race is evolving away from a zero-sum contest to create the fastest, most powerful processors. Hyperscalers and other major players are starting to think about the economics of AI and what customers will be willing to pay in an era where the tech giants start to monetize the new technology.\nBy running lower-difficulty, in-house AI queries on processors that operate more cheaply, Microsoft is taking another step in proactive cost management, which is one of the key reasons investors rewarded the stock earlier this year.\n$4.0T Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary.\nSo while the Maia 300 isn&#x27;t an Nvidia killer on its own, it&#x27;s evidence that the most powerful AI processors -- currently Nvidia&#x27;s GPUs -- may not be everyone&#x27;s universal first choice in the future for every application. Routing an AI query to the cheapest infrastructure possible for the difficulty of the problem presented may become the norm.\nIn other words, even if Nvidia continues to produce the best tech in the world for decades to come, its sales volume might suffer regardless.\nThe Maia 300 doesn&#x27;t even begin production until sometime in 2027. And even then, Nvidia AI infrastructure is almost certain to remain a critical part of Microsoft&#x27;s AI mix.\nJust last week, Microsoft started taking preorders for a new Surface Laptop Ultra with a starting price of $2,599. That hefty price tag is thanks to its powerful processor that can run AI models without requiring cloud access.\nThe maker of that incredibly powerful chip? You guessed it: Nvidia.\n3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays\nMicrosoft Is Down 4%. Here&#x27;s Why I&#x27;m Buying More.\n3 Tech Stocks Wall Street Upgraded Last Week, and the One I&#x27;d Buy First\nJohn Bromels has been a contributing Motley Fool stock market analyst since 2012 covering information technology, communication services, industrials, energy, materials, utilities, and healthcare sectors. He finds investing to be more interesting and profitable than collectible trading card games and is an award-winning puzzle designer.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-14T21:11:59+00:00",
+      "published": "2026-10-14T21:57:00+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -868,6 +861,29 @@
       "score": 13.3,
       "is_hypothetical": true,
       "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Microsoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JNVJSMHBtb0RuaDMyZU42Z1RpZ2Q1TmlqeUFYZ1pTcmV5WE9pai1kZk9HZXpsQmVrVC1Ra19RLXJ6MnVjaU9FVzlZQnJvamNXTVk0WkQ3OTh1bDF6OEw3WmtsTVMzbW4zTmNqM2VQcWFnRURH?oc=5",
+      "summary": "Microsoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance&nbsp;&nbsp;Businesskorea",
+      "content": "Microsoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance - Businesskorea\n잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!\nMicrosoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance\nIn-House Accelerator Targets Inference Workloads, With Over 1 Million Units Expected in 2027\nMicrosoft's Azure Maia 300 AI chip, designed to improve inference performance and reduce reliance on Nvidia's GPUs. (Microsoft)\nMicrosoft is mounting a direct challenge to Nvidia's market dominance with the unveiling of its next-generation proprietary artificial intelligence (AI) chip, the Maia 300. As one of Nvidia's largest customers, Microsoft plans to significantly increase its use of in-house chips, a move expected to reshape supply chain dynamics across the AI semiconductor market.\nOn Oct. 12 (local time), Microsoft unveiled the Maia 300, its third-generation AI accelerator, and announced plans to use it as the primary AI inference system across its products and services. With full-scale production and deployment set to begin in 2027, more than 1 million units of the Maia 300 are expected to be supplied that year alone. Scott Guthrie, executive vice president of Microsoft's Cloud and AI division, said, \"We are entering a new phase of infrastructure as the era of superintelligence approaches,\" emphasizing that the Maia 300 would process 40% more tokens per megawatt (MW) than leading graphics processing unit (GPU)-based systems.\nThe Maia 300 incorporates cutting-edge technical specifications. Its computing chiplets, which handle core processing tasks, use TSMC's 2-nanometer-class (N2P) process, while chiplets responsible for functions such as data movement use a 3-nanometer process, forming a multi-chiplet architecture. A key feature is the integration of eight HBM4 stacks, the sixth generation of high-bandwidth memory, delivering memory bandwidth of 18 terabytes (TB) per second.\nPower efficiency and processing capacity have also been substantially improved. A single rack housing 96 accelerators consumes approximately 167 kilowatts (kW) of power while delivering up to seven times the token throughput of its predecessor, the Maia 200. Microsoft designed the chip around an inference-first architecture optimized for AI workloads requiring long-context processing and memory-intensive computation, focusing on reducing service operating costs.\nMicrosoft is not alone in developing proprietary AI chips. Google already operates Tensor Processing Units (TPUs) optimized for both training and inference workloads, while Amazon supports major partners such as Anthropic through its proprietary Trainium chips. OpenAI, the developer of ChatGPT, is collaborating with Broadcom to develop its own inference-specialized chip, Jalape&ntilde;o, while Meta and Anthropic have also begun internally exploring chip design initiatives.\nThese companies are focusing particularly on inference because the proliferation of AI agents is driving a sharp increase in the computing power required to generate responses. Their reasoning is that processing more responses using the same amount of power can improve the profitability of AI service operations. Rani Borkar, president of Microsoft Azure Hardware Systems, said that securing a competitive advantage requires designing the entire system together, encompassing not only chips but also memory, networking and power consumption.\nDespite growing competition from Big Tech companies, Nvidia's influence is expected to remain strong for the time being. Nvidia continues to hold a dominant position in the market for chips used to train large-scale AI models, while companies including Microsoft continue to purchase its latest GPUs alongside their own chip development efforts. Nvidia's second-quarter revenue rose 106% year-on-year to $96.2 billion, maintaining its rapid growth trajectory.\nOver the longer term, however, analysts expect Big Tech companies to gradually reduce their dependence on Nvidia as they strengthen control over the underlying technologies supporting their AI services. Evercore ISI projected that Maia would account for approximately 10% of Microsoft's total AI semiconductor spending by the first quarter of 2027. Microsoft plans to unveil further details of its AI infrastructure strategy at its Ignite 2026 event in November as it accelerates the expansion of its proprietary chip ecosystem.\nCopyright &copy; BusinessKorea. Prohibited from unauthorized reproduction and redistribution",
+      "published": "2026-10-15T01:06:18+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
       "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
       "assets": [
         "科技股",
@@ -939,7 +955,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
       "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-14T22:09:09+00:00",
+      "published": "2026-10-14T21:40:00+00:00",
       "source": "GN Fed",
       "sources": [
         "GN Fed"
@@ -959,19 +975,19 @@
       ]
     },
     {
-      "title": "Tokyo protests Russia’s arrest of Japanese journalist on suspicion of spying - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEZNVndGNHV3YklLSms1Y0Y4dUZVMkhzWmRrSUZNNFNiR3ZpZVF0SDNUZG1MNTBzREZLdEJZd2NKNl9IT09jelVjbHFaZTl4MGRySWdFSGhaVXQ5Yk1Sc2RRdEZsdjMzRDJJZDZKejQzMFA3NG5xak54aXcwSEtDSGRPSE52RFFWQVozX1hocy1feUlvVW1yUjJjZHgybjhsbF9rRHBxQ3o?oc=5",
-      "summary": "Tokyo protests Russia’s arrest of Japanese journalist on suspicion of spying&nbsp;&nbsp;AP News",
+      "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
+      "summary": "Trump went all the way to Alaska in a sign of just how close its Senate race may be&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-14T13:18:49+00:00",
+      "published": "2026-10-14T02:32:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
         "Guardian World"
       ],
       "source_count": 2,
-      "category": "asia",
-      "category_zh": "亚洲",
+      "category": "us",
+      "category_zh": "美国",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
@@ -1009,7 +1025,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWVXV2QyVkppUjcxckt2dEhUbHBLMnVKbXl1VFJLdFU2Y2Fkd0Y0WGlaY21QNnY0QzRnT1g1VTVoOUhPNkdVWlRQOEh2UDA3SEpmWXVNUG9WOEVsTzRMSXh0bk40YUJfWDFPbkVvYWJkbXIwMHBCQ2pKR3ltSmpJbHJCVEZRMlJzcG9sTnlVcmI0N1RpX1E?oc=5",
       "summary": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-14T15:21:00+00:00",
+      "published": "2026-10-14T21:57:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -1022,52 +1038,6 @@
       "score": 13.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "A new bridge linking China and North Korea will open more than a decade late - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUlaZzV2M2tMalVHS3pIWmtjMUV6UDdRQk91cVhjNnNGQjFWcjNFakhYejdMelpQaVYySkxKcWs2WklCTm4tRWJPTjRfUXJrSktuY25SOVhUV3U1UkpPd3FlQ1BpeGlzdkFycWNWMTBfSlMtT0Z0dmZLQm1OczFlZ3BocnYyY2JqYUhtX19VbkFsYmxIOUkyTmh3MEI?oc=5",
-      "summary": "A new bridge linking China and North Korea will open more than a decade late&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-14T08:25:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
-    {
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "content": "US inflation rose by more than expected in the year to September, according to official figures, in the final data release before the midterm elections next month.\nThe pace of price rises increased to 3.7%, up from 3.4% in the 12 months to August.\nInflation was above forecasts, driven by higher petrol prices, which have risen following disruption to Middle East energy supplies due to the US-Israel conflict with Iran.\nThe elections are being fought over cost-of-living pressures across the US.\nInflation is the rate at which the price of products or services increases over time.\nFor example, if a bottle of milk costs $1 but rises to $1.10 a year later, then annual inflation for bottled milk is 10%.\nOfficials from the Bureau of Labor Statistics measure inflation through the consumer price index (CPI).\nIt tracks the price changes of hundreds of day-to-day items including fresh food, gasoline and medical services to work out the overall level of inflation in the US economy.\nThe bureau updates this so-called basket of goods over time as peoples&#x27; spending and lifestyle habits change.\nThere are several factors that can cause inflation to rise.\nIf demand for a product outstrips its supply, that can lead to producers raising prices - the craze for Labubu dolls in recent years and the high resale prices are an example.\nHigher incomes can also lead to higher demand, for example, which in turn pushes up prices.\nImage caption, Supply and demand: Labubu dolls illustrate how inflation can rise\nSupply can also affect inflation. If supply of a product is reduced, but demand remains constant, that can cause prices to rise. A good example of this is crude oil, which is used to make gasoline and diesel.\nBefore the US-Israel war with Iran began, it was trading at just over $70 a barrel, but when the conflict constricted crude supplies, the price quickly rose and is currently over $100.\nInflation has risen to 3.7% in the year to September, which is a higher-than-expected increase fuelled by petrol prices.\nVehicle fuel prices jumped by 34.2% over 12 months.\nIn September alone, they jumped by 9.1%, accounting for more than half of the increase in inflation, according to the Bureau of Labor Statistics.\nOverall, energy inflation was up by 20.4% over the year as prices for fuel oil, energy services and electricity climbed. Fuel oil, used in home heating, was up 74.2% over the year.\nExperts said the US Federal Reserve - which sets the country&#x27;s interest rate - will be closely watching to see if energy costs begin to affect other areas of the economy, such as food prices, and drive inflation higher.\nAt the moment, food inflation remains subdued. It was flat over the month of September, and was 2.5% across the year.\nCore inflation, which strips out food and energy prices, was 2.6%.\nWill the inflation hike change Social Security payments?\nShortly after the latest inflation figure was released, the Social Security Administration announced that Social Security benefits including old age, survivors and disability insurance would rise by a similar amount - 3.6% - in 2027.\nThe administration said that the 3.6% rise will mean an average retirement benefit increase of $75 a month.\nThe cost-of-living adjustment will take effect in January for about 72 million people, while increased payments for the 7.2m receiving the supplemental security income will start on 31 December.\nSince coming into office for the second time, President Donald Trump has introduced tariffs on most US trading partners around the world.\nWhile most of the additional global levies were outlawed by the Supreme Court in February, the president immediately announced a new 10% global tariff to replace them.\nTrump argued the tariffs would increase America&#x27;s tax earnings, boost manufacturing and encourage people to buy US-made goods, but the higher import taxes have also had an impact on inflation, according to research from the Federal Reserve Bank of New York.\nImage caption, US President Donald Trump raised tariffs\nHigher tariffs - which are levies that businesses pay on the goods they import - directly raise prices for US companies unless the overseas firms they are buying from lower prices to absorb some of the cost.\nIn response to the new tariffs, the New York Fed found exporters reduced prices very little, meaning US-based businesses ended up absorbing nearly 90% of the cost of the added tax.\nIndirectly, higher tariffs also affected the prices of locally made goods, as many US producers rely on parts or materials from overseas.\nOverall, the Fed found that every percentage point increase in average tariffs led to nearly a 0.25% price increase for consumer goods after one year.\nWhile inflation is currently above where the US Federal Reserve would like - it has a target of 2% - it has been much higher in previous years.\nDuring the Covid pandemic, issues such as supply chain disruption started pushing inflation up.\nAdditionally, in early 2022 when Russia launched its full-scale invasion of Ukraine, oil prices surged over $100 a barrel.\nBoth of these factors helped to drive inflation to a peak of about 9%.\nIt&#x27;s important to note that if inflation is rising at a slower rate, that does not mean prices are going down - it simply means prices are rising at a slower pace.\nA bit of inflation is considered good for an economy as the the Federal Reserve&#x27;s target rate illustrates.\nMany central banks consider inflation of about 2% or a little higher to be stable, and at a level that doesn&#x27;t impact people&#x27;s purchasing decisions.\nMuch below that, people can delay spending if they expect price rises to slow further, or to fall. That can lead to businesses reducing wages, or reducing the number of workers to cope with lower demand.\n&#x27;It&#x27;s rough out here&#x27;: Americans struggle with rising inflation\nWhich war is having the biggest impact on diesel prices - Iran or Ukraine?\nTrump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "published": "2026-10-14T15:26:14+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "BBC Business",
-        "GN Fed"
-      ],
-      "source_count": 3,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -1113,26 +1083,6 @@
       "assets": []
     },
     {
-      "title": "CoreWeave Stock Sinks. The Credit Market Is Flashing a Warning Sign. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd3VrcEJNdlpYclptNE9EVFdQOEFUV3NOel9JaXBqOThVVDRTSVZTMklhc2xLaVljZVZ5amJmeE5KMUhoYVpKYm5CSTBtMXhxNG5KMHgwTm1CNXVFaGllcE0ybEpYaTZiSjdmZnpDUU5WTkhVNllKaQ?oc=5",
-      "summary": "CoreWeave Stock Sinks. The Credit Market Is Flashing a Warning Sign.&nbsp;&nbsp;Barron's<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUVycnpSdEl3N1l6b1k4R2FXSTJHcW1Sa2hSbFJMWThxOXg5OVFjSzNLcEpiSVVOb",
-      "content": "",
-      "published": "2026-10-14T22:11:00+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Stopping Pip for ADHD or autism would not make big savings, says thinktank",
       "link": "https://www.theguardian.com/society/2026/oct/15/pip-ban-adhd-autism-savings-resolution-foundation",
       "summary": "Resolution Foundation says ‘crude changes’ to benefits system would probably make it harder for people to workBanning people with anxiety, ADHD or autism from claiming disability benefits would not deliver major financial savings and would probably make it harder for them to get or stay in a job and participate in society, a leading thinktank has warned.The Resolution Foundation said any proposals to make certain mental health and neurodevelopmental conditions ineligible for per",
@@ -1153,6 +1103,30 @@
       "assets": [
         "原油",
         "能源股"
+      ]
+    },
+    {
+      "title": "Bank of England's Pill says he's sceptical about market pricing four rate hikes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTzF1Y3FqN0hEMDctSVFDTU1EajlQcmhEa18zY1lGUW8zR253eWF3LUs5UGxXcnlZYUxrQ0Q2RUdyeFBXbkU2bUVRTnZKTFJzU0ZiMVVFSVVBSktXT284aGtlTVpqTXNZRE9aS01jZ3poNlVudjZxSDM3YWxnMDR5a2NUWllQQmlKRE9ydi03cTlxOWdPaUZzZ0QxVlNsM3NaMnpTX1c1V0JNQUJKejFTM2JWTUZidGxfYjdZ?oc=5",
+      "summary": "Bank of England's Pill says he's sceptical about market pricing four rate hikes&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T06:32:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.0,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
       ]
     },
     {
@@ -1196,24 +1170,28 @@
       "assets": []
     },
     {
-      "title": "Michigan GOP Senate nominee Mike Rogers on whether Iran war was a mistake: ‘We’ll find out’ - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVVNWEZFekJvdmpQeGZXdUowRTRHTVFLVVJCZlVYMDdHQzd6RnpLdV80LXZCdncwTzJzUU8zaWJzRl9BTHBMNlZGV3k2aTNzR0h5UVB1NmdsUENLV20yOHZBX3VwMF9hMzVuMUtEMW1DM2JZc2V6M3EwWGZXOEtvR2UwU3ZId0EzSlF0a2JINXU5cUtkUVZnLUdZT3VSU0x1SG44WEVuVktob3QyaTNMdWNycFZLejJya3RIazNjeV8?oc=5",
-      "summary": "Michigan GOP Senate nominee Mike Rogers on whether Iran war was a mistake: ‘We’ll find out’&nbsp;&nbsp;NBC News",
-      "content": "Michigan Senate candidates Abdul El-Sayed and former Rep. Mike Rogers spoke to \"NBC News Nightly\" host Tom Llamas on Wednesday about the state of the race less than a month out from Election Day. NBC News\nFormer Rep. Mike Rogers , R-Mich., said Wednesday it’s too soon to say whether President Donald Trump made a mistake in going to war with Iran.\nFOR SUBSCRIBERS How safe are roller coasters? What riders should know\nFOR SUBSCRIBERS Apple’s HomeView is part iPad, part Apple Watch and part CarPlay\nFOR SUBSCRIBERS The economic crunch ahead of the elections crunch\nFOR SUBSCRIBERS ‘We didn’t think this could happen.’ Pennsylvania doctors seeing what measles can do to kids.\nFOR SUBSCRIBERS Union leader quoted in Maine Senate attack ad sends ‘cease and desist’ to GOP PAC\nFOR SUBSCRIBERS Republicans shift funds in the battle for the House, pulling money from some tough races\nFOR SUBSCRIBERS How do microplastics cause harm inside our bodies? A new study offers an answer\nFOR SUBSCRIBERS Hackers cranked up the heat on hundreds of supermarket refrigerators. But why?\nFOR SUBSCRIBERS Low-key Mike Rogers bets he can outflank Abdul El-Sayed in Michigan’s Senate brawl\nFOR SUBSCRIBERS What to know about lung cancer following the pope’s diagnosis\nFOR SUBSCRIBERS ‘The fear factor persists’: Economic damage lingers in cities hit by immigration raids\nFOR SUBSCRIBERS Angry Cornell students demand change amid fraternity rape allegations\nFOR SUBSCRIBERS How a conspiracy theory about James Talarico raced through the right-wing internet\nFOR SUBSCRIBERS The Data Dive: Steve Kornacki on why 2026 isn’t like 2018\nFOR SUBSCRIBERS How safe are roller coasters? What riders should know\nFOR SUBSCRIBERS Apple’s HomeView is part iPad, part Apple Watch and part CarPlay\nFOR SUBSCRIBERS The economic crunch ahead of the elections crunch\nFOR SUBSCRIBERS ‘We didn’t think this could happen.’ Pennsylvania doctors seeing what measles can do to kids.\nFOR SUBSCRIBERS Union leader quoted in Maine Senate attack ad sends ‘cease and desist’ to GOP PAC\nFOR SUBSCRIBERS Republicans shift funds in the battle for the House, pulling money from some tough races\nFOR SUBSCRIBERS How do microplastics cause harm inside our bodies? A new study offers an answer\nFOR SUBSCRIBERS Hackers cranked up the heat on hundreds of supermarket refrigerators. But why?\nFOR SUBSCRIBERS Low-key Mike Rogers bets he can outflank Abdul El-Sayed in Michigan’s Senate brawl\nFOR SUBSCRIBERS What to know about lung cancer following the pope’s diagnosis\nFOR SUBSCRIBERS ‘The fear factor persists’: Economic damage lingers in cities hit by immigration raids\nFOR SUBSCRIBERS Angry Cornell students demand change amid fraternity rape allegations\nFOR SUBSCRIBERS How a conspiracy theory about James Talarico raced through the right-wing internet\nFOR SUBSCRIBERS The Data Dive: Steve Kornacki on why 2026 isn’t like 2018",
-      "published": "2026-10-14T21:13:45+00:00",
-      "source": "GN Geopolitics",
+      "title": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzl5X29wWW9IbDNPaWhLZDBzeGN2bjdVbnhRSGVmV2xyTHdkZmVnVkZocndZV3pTX2ItUWJ2eUZpa0hFNEw2bk1pR1pGZ0ZsX3dQc0RlZzZpYjdrRERRUXNyTkJfbGJNcUQ3ZHlGQU1TcWRNYjFQQ3oxT3ROVFQwNWVRUERON05HbUpOZ0tIdWtFeXZKMURlUnBIVXJGT0RUc0Q3MXUtZmU?oc=5",
+      "summary": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-14T04:10:00+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN Geopolitics"
+        "Reuters World"
       ],
       "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "china",
+      "category_zh": "中国",
       "stars": 3,
       "score": 12.9,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs - Al Jazeera",
@@ -1236,11 +1214,11 @@
       "assets": []
     },
     {
-      "title": "US-Iran tensions may cause war to reignite after midterm elections - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTmViamhiWENiS2MtQzRDOWh4VFktNkgzZjEtd2lUZm4xdkxKZ1JfVXFUOS1VZ1V5dmJ2TVl3VGZScmMxNDFHZTliVzBJQ2RVU21Qam1wOTY3WXNa?oc=5",
-      "summary": "US-Iran tensions may cause war to reignite after midterm elections&nbsp;&nbsp;The Jerusalem Post",
-      "content": "Return to war with Iran after US midterm elections may be increasingly likely - analysis\nIran’s efforts show it is preparing for war in the near future and may try to strike America and its allies’ weak underbellies: energy facilities, ships, and other economically damaging targets.\nA member of a police force stands guard on a street, amid the U.S.-Israeli conflict with Iran, in Tehran Wednesday, 1st April 2026\nA return to war between the United States and Iran is far from a certainty, and an ongoing tense standoff is still the most likely scenario, but there is no question that the chances of renewed conflict between Washington and Tehran will jump after America’s midterm elections on November 3.\nMany have misinterpreted Iran’s latest additional moves to better defend the Pickaxe Mountain nuclear facility as a sign that the Islamic Republic is possibly trying to rush out to a nuclear weapon.\nThe Jerusalem Post has confirmed that Iran has no significant active nuclear operations currently at Pickaxe Mountain and that Israeli concerns there are more about the future.\nThe Post was also told by numerous sources that it is unclear that even American mega bunker busters such as the 30,000-pound Massive Ordnance Penetrator bomb could fully penetrate the Pickaxe Mountain nuclear facility – even prior to any of the recent new defenses.\nIran may be trying to deter US, Israeli ground operations\nIn that sense, the new defenses are likely an attempt to deter the US and Israel from staging a ground operation at the mountain.\nUS Navy sailors work on the flight deck of the aircraft carrier USS George Washington as it transits the Arabian Sea to support US military operations in the war with Iran August 20, 2026. (credit: US NAVY/HANDOUT VIA REUTERS)\nThe US staged a successful temporary ground operation in Iran at the height of the war in early 2026 to rescue shot-down pilots, and Israel staged a ground operation to destroy a major underground Iranian-built Syrian nuclear facility in Masyaf, Syria, in September 2024.\nIran wants to convince both Washington and Jerusalem that pulling off such an operation at Pickaxe Mountain would be much harder, more costly, and therefore not worth the risk.\nIn that sense, all of Iran’s efforts currently show it is preparing for war in the near future and will try to strike America and its allies’ weak underbellies: energy facilities, slow and large ships, and other economically damaging targets.\nDespite constant warnings from Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz , there is still little inclination from Iran to get caught up in another war with Israel.\nIran’s regime saw that Israel’s war-fighting was more merciless than America’s in the sense of targeting top Iranian officials and that Jerusalem was more ready to continue attacking Iran indefinitely as compared to Washington, which was worried about a drawn-out conflict.\nIn that sense, all of the warnings about Iran seeking to pick a fight with Israel are mostly about lower-grade hostilities, such as attempting terror attacks against Israelis, or Jews globally, or small targeted attacks on Israel which would fall short of requiring a massive Israeli response.\nIranian threats potentially intended to force US concessions\nSuch Iranian threats against Israel are more about forcing the US into making concessions out of fears that an Iranian attack, which would bring Israel back into the war, would lead to Washington losing control and creating greater regional instability.\nIn August, the US’s military power achieved a shift vs Iran in which the harm to the West’s economy was regularly reduced while the harm to Iran’s economy continually worsened.\nAll of this led US President Donald Trump to bet that Iran would blink before the US midterm elections. In that scenario, he could declare victory leading into those elections and potentially even regain some of the nuclear concessions ceded earlier, in the summer.\nTrump’s error was projecting Western rationalism onto the IRGC and religious fanatics running Iran, who believe their regime is aided by divine messianic currents.\nThe president and his team have alternated between proclaiming that a deal with Iran is imminent after the midterm elections and threatening a return to full war with the regime after the midterms.\nIran believes that when Trump’s Republican Party loses the midterms, he will make more concessions to extract himself from this otherwise potentially endless conflict, which appears to sap his popularity daily.\nAnd if Trump does not give in after the midterm elections, the Islamic Republic may escalate to cause enough chaos to bring him back to those concessions.\nNone of this is a grand strategy in which Iran could badly hurt the US or Israel in any deep or strategic way.\nIran has more ballistic missiles left over, around 1,600, than the US and Israel expected in April, but the number is so much lower than the around 6,000 it had expected to reach by now. Further, its future production has been slowed by about as much as 90%.\nMost importantly, the regime cannot fire more than a few dozen rockets in a day vs the several hundred it was able to fire daily in early 2026.\nIran’s preparations are therefore more about either deterring the US from launching a new massive attack, being better prepared to outlast such an attack if it happens, or carrying out a limited Iranian offensive to try to get some more concessions from the US.\nFor months, America’s midterms have been viewed as a turning point in the conflict.\nDevelopments in recent weeks suggest that turning point could mean more conflict. The whole world will be watching closely after November 3.\nThe one email that makes sense of the Middle East. Iran, the Gulf, Syria, Turkey, and whatever moved that day, from The Jerusalem Post, every evening.",
-      "published": "2026-10-14T17:19:42+00:00",
+      "title": "Michigan GOP Senate nominee Mike Rogers on whether Iran war was a mistake: ‘We’ll find out’ - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVVNWEZFekJvdmpQeGZXdUowRTRHTVFLVVJCZlVYMDdHQzd6RnpLdV80LXZCdncwTzJzUU8zaWJzRl9BTHBMNlZGV3k2aTNzR0h5UVB1NmdsUENLV20yOHZBX3VwMF9hMzVuMUtEMW1DM2JZc2V6M3EwWGZXOEtvR2UwU3ZId0EzSlF0a2JINXU5cUtkUVZnLUdZT3VSU0x1SG44WEVuVktob3QyaTNMdWNycFZLejJya3RIazNjeV8?oc=5",
+      "summary": "Michigan GOP Senate nominee Mike Rogers on whether Iran war was a mistake: ‘We’ll find out’&nbsp;&nbsp;NBC News",
+      "content": "Michigan Senate candidates Abdul El-Sayed and former Rep. Mike Rogers spoke to \"NBC News Nightly\" host Tom Llamas on Wednesday about the state of the race less than a month out from Election Day. NBC News\nFormer Rep. Mike Rogers , R-Mich., said in a rare interview Wednesday it’s too soon to say whether President Donald Trump made a mistake in going to war with Iran.\nFOR SUBSCRIBERS Watchdog seeks investigation into press secretary Katie Zacharia’s legal résumé\nFOR SUBSCRIBERS How safe are roller coasters? What riders should know\nFOR SUBSCRIBERS Apple’s HomeView is part iPad, part Apple Watch and part CarPlay\nFOR SUBSCRIBERS The economic crunch ahead of the elections crunch\nFOR SUBSCRIBERS ‘We didn’t think this could happen’: Pennsylvania doctors seeing what measles can do to kids\nFOR SUBSCRIBERS Union leader quoted in Maine Senate attack ad sends ‘cease and desist’ letter to GOP PAC\nFOR SUBSCRIBERS Republicans shift funds in the battle for the House, pulling money from some tough races\nFOR SUBSCRIBERS How do microplastics cause harm inside our bodies? A new study offers an answer\nFOR SUBSCRIBERS Hackers cranked up the heat on hundreds of supermarket refrigerators. But why?\nFOR SUBSCRIBERS Low-key Mike Rogers bets he can outflank Abdul El-Sayed in Michigan’s Senate brawl\nFOR SUBSCRIBERS What to know about lung cancer following the pope’s diagnosis\nFOR SUBSCRIBERS ‘The fear factor persists’: Economic damage lingers in cities hit by immigration raids\nFOR SUBSCRIBERS Angry Cornell students demand change amid fraternity rape allegations\nFOR SUBSCRIBERS How a conspiracy theory about James Talarico raced through the right-wing internet\nFOR SUBSCRIBERS Watchdog seeks investigation into press secretary Katie Zacharia’s legal résumé\nFOR SUBSCRIBERS How safe are roller coasters? What riders should know\nFOR SUBSCRIBERS Apple’s HomeView is part iPad, part Apple Watch and part CarPlay\nFOR SUBSCRIBERS The economic crunch ahead of the elections crunch\nFOR SUBSCRIBERS ‘We didn’t think this could happen’: Pennsylvania doctors seeing what measles can do to kids\nFOR SUBSCRIBERS Union leader quoted in Maine Senate attack ad sends ‘cease and desist’ letter to GOP PAC\nFOR SUBSCRIBERS Republicans shift funds in the battle for the House, pulling money from some tough races\nFOR SUBSCRIBERS How do microplastics cause harm inside our bodies? A new study offers an answer\nFOR SUBSCRIBERS Hackers cranked up the heat on hundreds of supermarket refrigerators. But why?\nFOR SUBSCRIBERS Low-key Mike Rogers bets he can outflank Abdul El-Sayed in Michigan’s Senate brawl\nFOR SUBSCRIBERS What to know about lung cancer following the pope’s diagnosis\nFOR SUBSCRIBERS ‘The fear factor persists’: Economic damage lingers in cities hit by immigration raids\nFOR SUBSCRIBERS Angry Cornell students demand change amid fraternity rape allegations\nFOR SUBSCRIBERS How a conspiracy theory about James Talarico raced through the right-wing internet",
+      "published": "2026-10-14T21:13:45+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -1321,6 +1299,52 @@
         "半导体",
         "台积电",
         "亚太市场"
+      ]
+    },
+    {
+      "title": "ASML Earnings Could Reset AI Chip Stock Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXNTOE9QeE5FQWkxU1RDYnE4Qlo5c0VmNUtuYzlJMU9FNE5oOFZiMFlUakZTNDk0WlhmNHJpTHZOR2xxQ044WU9OVjlTOUo5ZHB1S3hBOUVfamJMY2FYcVlCUC1sd1ppU3E4S1lHZzk0VHAtX0xxaTJwV1BhWUNOSFhzaThlNmxSVDB3XzBHREt4ZUNtYkhDYQ?oc=5",
+      "summary": "ASML Earnings Could Reset AI Chip Stock Expectations\nInflation data and a key ASML earnings update are about to collide, and that mix could reshape how investors think about chipmakers, AI suppliers and the broader equity market. If monthly core CPI cools while ASML signals firm demand for semiconductor equipment, capital could shift quickly. This article explains how that setup ties into AI chip ",
+      "content": "ASML Earnings Could Reset AI Chip Stock Expectations\nInflation data and a key ASML earnings update are about to collide, and that mix could reshape how investors think about chipmakers, AI suppliers and the broader equity market. If monthly core CPI cools while ASML signals firm demand for semiconductor equipment, capital could shift quickly. This article explains how that setup ties into AI chip capital spending and highlights 3 stocks exposed to this news that may warrant closer analysis.\nThe three stocks that follow are only a small sample, and the full screen surfaced 28 more global semiconductor equipment and AI chip-capex suppliers with equally compelling narratives that are not covered here. To identify your own highest conviction ideas, go straight to the Global Semiconductor Equipment and AI Chip-Capex Suppliers screener and use it to filter and analyze this wider group of potential opportunities.\nOverview: Ichor Holdings designs and manufactures gas and chemical delivery subsystems for semiconductor fabrication tools, giving direct exposure to AI oriented wafer-fab capex.\nOperations: Ichor Holdings generates about US$1 billion from semiconductor equipment and services, with major contributions from Singapore, the United States, Europe, and other regions.\nIchor Holdings matters in this screener because it supplies the plumbing inside wafer-fab equipment, so any shift in AI driven tool spending ripples straight through its order book.\n\"Persistent hiring and retention challenges, especially in U.S. manufacturing operations, are limiting Ichor's ability to ramp internal supply, which directly constrains gross margin expansion and reduces potential earnings.\"\nWhat happens to future margins if a single assumption about how much content Ichor Holdings keeps in-house rather than at customers quietly shifts?\nThat margin puzzle is exactly what sits between the quote and the full story, and the full narrative for Ichor Holdings shows how content mix could be quietly decoupling from headline orders.\nNasdaqGS:ICHR Revenue & Expenses Breakdown as at Oct 2026 Marketech International (TWSE:6196)\nOverview: Marketech International supplies semiconductor fabs with equipment, materials, gases, and customized factory systems that keep advanced chip production running.\nOperations: Marketech International generates roughly NT$41.7b from factory system and electromechanical services, NT$12.4b from equipment materials agency sales, and NT$10.2b from customized equipment manufacturing.\nMarketech International is closely tied to wafer fab spending through tools, materials, and turnkey plant systems, so shifts in ASML signals and core CPI sensitive rate expectations can influence how much capex flows through its order book. The combination of reported 2026 sales and earnings with a P/E below both the peer group and the Taiwan semiconductor average increases the focus on how the company may be affected if funding conditions tighten at the same time fabs reassess expansion plans.\nIf that valuation gap has your attention, review the analysis report for Marketech International while funding risk and AI capex expectations are still in tension with each other.\nTWSE:6196 P/E Ratio as at Oct 2026 Advanced Energy Industries (AEIS)\nOverview: Advanced Energy Industries supplies precision power systems and sensors that help semiconductor and AI chip-capex equipment run reliably and efficiently worldwide.\nOperations: Advanced Energy Industries generates about US$2.0b from power electronics conversion products, with key revenue contributions from the United States, Mexico and Japan.\nAdvanced Energy Industries matters for this screener because its power and measurement hardware is built into the same fabrication tools that respond most directly when chipmakers adjust AI oriented capital spending.\n\"Advanced Energy sells into both sides of that chain, a genuinely attractive circuit. The question is whether investors have already overloaded it.\"\nWhat ultimately happens to investor expectations may hinge on how one quietly building pressure around future demand stability actually resolves.\nThat pressure point is exactly where the opportunity sits, and the full narrative for Advanced Energy Industries maps how demand stability, pricing power and sentiment could be quietly decoupling.\nNasdaqGS:AEIS Earnings & Revenue Growth as at Oct 2026 Seeking Alternatives Before The Crowd?\nFresh themes often emerge quietly, then attract broader attention as they develop. Review these ideas while momentum is still forming and expectations remain relatively muted.\nTarget dependable cash generators and review your income plan using the curated 8 dividend fortresses before yields change or valuations move away from your comfort zone.\nLook for early AI leaders with established earnings by scanning the hand picked 39 profitable AI stocks that aren't just burning cash while these companies may still be less widely followed.\nTrack the ongoing evolution of global energy systems and shortlist potential beneficiaries using the focused 43 power grid technology and infrastructure stocks while the grid upgrade theme continues to develop.\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com",
+      "published": "2026-10-14T15:14:09+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+      "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+      "summary": "Throttling of mobile internet system will affect Kyiv’s air defences more than its strikes on oil refineries. Now Zelenskyy must be hoping that US intel holdsIn Ukraine the situation was already jittery enough. Donald Trump has been inventing ceasefires and buying Russian diesel to shore up his flagging popularity, while a sinister new wave of faster, jet-powered drones are breaking through Kyiv’s stretched air defences. Casualties are rising as the weather turns.Overnight, Russ",
+      "content": "A Ukrainian couple and their baby daughter outside a bombed building in Kyiv on Tuesday. Photograph: Evgeniy Maloletka/AP\nA Ukrainian couple and their baby daughter outside a bombed building in Kyiv on Tuesday. Photograph: Evgeniy Maloletka/AP\nIn Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll\nThrottling of mobile internet system will affect Kyiv’s air defences more than its strikes on oil refineries. Now Zelenskyy must be hoping that US intel holds\nIn Ukraine the situation was already jittery enough. Donald Trump has been inventing ceasefires and buying Russian diesel to shore up his flagging popularity, while a sinister new wave of faster, jet-powered drones are breaking through Kyiv’s stretched air defences. Casualties are rising as the weather turns.\nOvernight, Russia bombed three power plants that supply Kyiv, aiming to cut off heating and electricity to the city. According to the president, Volodymyr Zelenskyy , for a second night in a row no warning came from Ukraine’s western allies of the incoming ballistic missiles – and so no air raid alert was issued.\nThen, on Tuesday night, and without warning, Ukraine’s military found that Elon Musk’s Starlink mobile internet system, on which it heavily relies, had stopped working on its drones flying faster than 160km/h (100mph).\nOr at least that was the official limit: in practice, drones flying over 80km/h could no longer communicate.\nThe aftermath of a Russian missile attack in Kyiv on Wednesday. Photograph: Valentyn Ogirenko/Reuters The immediate assumption in Kyiv is that the White House is once again trying to bully Ukraine into accepting an unattractive deal with Russia .\nHowever, on Tuesday Trump did say that no intelligence-sharing had been paused, and similar comments were made by Mark Rutte, the secretary general of Nato on Wednesday. It is possible the lack of ballistic warning is coincidental.\nEven Serhii Beskrestnov, Zelenskyy’s high-profile military technology adviser, has expressed public doubts about whether the US had paused the sharing of missile detection. “Friends, this is not the first time that the launch of an S-400 has not been detected,” he posted on Monday. “We should not jump to conclusions.”\nHowever, there has now been an absence of incoming warnings for two days in a row. The second of these was in tandem with the unexpected throttling of Starlink , a system supplied by Musk with the approval of the US military.\nSo it is hardly reassuring against the backdrop of White House threats, which have emerged every time a flailing Trump has tried to end the war in Ukraine.\nThe last time Trump paused intelligence-sharing – which is, in effect, valuable information about Russian positions and movements – was in March 2025, shortly after Zelenskyy’s infamous dusting down in the Oval Office.\n“You don’t have the cards,” Trump said, as he took another away. Ukraine rapidly lost a chunk of territory it had occupied in Russia’s Kursk region before sharing was restored.\nA confirmed pause this time would mark a serious breach when Ukraine is more than holding off its larger neighbour on the frontline, even as the situation on the home front is worsening.\nRussia has bombed two bridges in Kyiv , gas stations, city centre buildings and out-of-town warehouses, showing little restraint as it aims to harm Ukrainian civilians while it struggles to win the conventional war.\nThe effect of a more permanent halt to Starlink for Ukrainian drones or anything military that moves faster than 50mph is a little more complex. Starlink is how Ukraine directs many of its mid-strike (or mid-range) drones accurately towards their targets into occupied areas behind enemy lines, critical for helping the defenders maintain the rough balance on the front.\nYet, ironically, Starlink is not used for the long-range missions that target the Russian oil refineries about which Trump is so concerned, because it has long been disabled by the company inside Russia’s internationally recognised borders.\n“There’s no meaningful effect on deep-strike operations,” one Ukrainian soldier said, while conceding there could be as much as a 30-fold drop in mid-strike operations because the alternatives are 30 times more expensive. Commanders are “replanning everything”, the soldier added, and aiming to find ways to carry on missions using different technologies and techniques.\nStarlink is also, more importantly – as Beskrestnov emphasised on Wednesday – used by air-defence interceptors in the most effective system to down Russia’s deadly new jet-powered Shahed drones. These are at least twice as fast as traditional piston-engined Shaheds, and Ukraine’s rate of interception had dropped to 60% in September, before recovering to 75% according to the country’s air force.\nThe reality, then, is that the Starlink manoeuvre may not have much impact on oil prices, and only a limited effect on Ukraine’s frontline position, while putting the country’s civilians in greater danger.\nAs the Ukrainian human rights activist Oleksandra Matviichuk put it: “Without that protection, Russian drones will strike residential buildings, hospitals and schools like targets in a shooting gallery.”\nMeanwhile, diplomatically, the situation is more finely poised. It was already the case that the Trump White House had proved to be a difficult and unreliable partner. What Zelenskyy, on a visit to London on Wednesday, needs from the likes of the UK prime minster, Andy Burnham, is pressure on the US to ensure the Starlink pause and whatever is happening with intelligence-sharing does not metastasise into a deeper crisis.",
+      "published": "2026-10-14T18:54:34+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
       ]
     }
   ]
