@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T20:16:27.516947+00:00",
+  "generated_at": "2026-10-18T22:17:21.427925+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-17T20:16:02.092401+00:00",
-  "window_end": "2026-10-18T20:21:02.092401+00:00",
+  "window_start": "2026-10-17T22:16:56.171007+00:00",
+  "window_end": "2026-10-18T22:21:56.171007+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -33,6 +33,29 @@
       ]
     },
     {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "content": "Image caption, Masked settlers are accused of attacking the convoy\nDiplomatic correspondent ,Â  Reporting from Jerusalem\nA delegation of European diplomats has been attacked by masked Israeli settlers in the occupied West Bank.\nBelgium condemned the assault on its consul general and the other envoys, while France decried the attack as \"appalling\". Both called for Israel to bring those responsible to justice.\nThe Israel Defense Forces (IDF) also condemned what they called \"the severe act of violence\" and said they were investigating.\nBut the office of the Prime Minister Benjamin Netanyahu cast doubt on what happened, suggesting it was part of a \"co-ordinated campaign to smear Israel\".\nThe attack came only a day after a number of Palestinians and Heidi Levine, a Washington Post photographer, were injured in a separate assault by settlers in another village in the West Bank.\nUS Secretary of State Marco Rubio said the attack on Levine was \"disturbing\" and \"not a good look\".\nIt was also condemned by the US ambassador to Israel, Mike Huckabee, who called it a \"despicable act of terror carried out by masked cowards\". A staunch ally of Israel, Huckabee said the assailants must face \"prosecution to the fullest extent of the law\".\nFigure caption, Rubio &#x27;very disturbed&#x27; over video of West Bank settler attack on US journalist\nIn Saturday&#x27;s incident, the European diplomats - from Belgium, France, Poland and the Catholic Church - had come to the largely Christian village of Taybeh near Ramallah.\nThey were there to assess the situation on the ground after almost near daily attacks by Israeli settlers on Palestinians trying to bring in their olive harvest.\nVideo footage from the scene showed masked settlers confronting the convoy. Reports suggest stones were thrown.\nThe Belgian authorities said a car from its consulate had a window smashed and a French mayor was assaulted. Video showed a man wearing a French tricolor sash slumped beside a vehicle.\nBelgium&#x27;s foreign minister Maxime Prevot condemned the attack and said Israel had a responsibility to bring those responsible to justice, as well as ensuring the safety of diplomats, journalists and Palestinians.\n\"Palestinians face this violence every day. Settlers also target journalists reporting on it and diplomats. Harvesting olives, reporting the news or carrying out diplomatic duties should never put anyone at risk of attack,\" he said.\nHe also said Belgium will continue to press for EU sanctions against those responsible for the violence.\nImage caption, Palestinians have been harvesting olives in the West Bank this week before Israeli settlers attack\nFrance&#x27;s Foreign Minister Jean-NoÃ«l Barrot echoed those sentiments, calling on Israeli authorities to \"urgently halt this criminal violence and guarantee the safety of civilian populations\".\nPoland&#x27;s foreign affairs ministry also called for a \"firm response\" from Israeli authorities and for \"an end to the spiral of violence in the West Bank\".\nThe EU condemned the attacks, urged Israel to abide by international and human rights law, and end the expansion of settlements.\nA spokesperson said that while they acknowledged some Israeli officials had condemned the attacks, they said they still expect \"full accountability as well as effective measures\" to stop the continued violence against Palestinians and journalists.\nGideon Sa&#x27;ar, Israel&#x27;s foreign minister, said he strongly condemned the violence by what he called \"Israeli rioters\". He said the foreign ministry was in contact with the ambassadors of the countries involved.\nBut he added: \"Without detracting from the severity of the incident, it is unfortunate that the visit was not coordinated with the IDF in advance. Such coordination could have helped safeguard the visitors&#x27; security.\"\nThe IDF said they \"strongly condemn the severe act of violence that took place in the area of Taybeh, during which diplomatic representatives were attacked by Israeli rioters.\"\n\"According to a preliminary inquiry, no IDF soldiers were present at the scene at the time of the attack,\" they added.\nImage caption, Netanyahu&#x27;s office named the injured French official as Bernard Baudoux, the left-wing mayor of Aulnoye-Aymeries\nBut Netanyahu&#x27;s office urged \"caution before drawing conclusions\" from reports about the attack.\nIt said the images on social media \"do not establish the complete sequence of events or individual responsibility\".\nA statement continued: \"Those circumstances remain under investigation. Israeli police and forensic investigators have launched an investigation to establish the facts and identify those responsible.\"\nIt added that \"these reports come amid concerns about a coordinated campaign to smear Israel and the Jewish residents of Judea and Samaria during the annual olive harvest, relying on sensational headlines before the full facts emerge\".\nNetanyahu&#x27;s office named the injured French official as Bernard Baudoux. The left-wing mayor of Aulnoye-Aymeries in northern France told the AFP news agency the attack showed a tolerance by Israel&#x27;s right-wing government for settler violence.\nThe mayor said the settlers kicked him and beat him with iron bars, throwing him to the ground.\n\"It&#x27;s the gratuitous nature of the violence that stuns me,\" he said. \"They arrived completely enraged.\"\n\"The whole world needs to know what&#x27;s happening there. For me, I&#x27;ll go back to my country and everything will be fine. Those who continue to suffer the most are those who are here,\" he said.\nPalestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "published": "2026-10-18T12:16:14+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "GN Top",
+        "Guardian World",
+        "Al Jazeera"
+      ],
+      "source_count": 4,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 4,
+      "score": 16.7,
+      "is_hypothetical": false,
+      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
       "summary": "Rubio says Trump to take up to 60 days to weigh Russia sanctions&nbsp;&nbsp;Reuters",
@@ -55,90 +78,23 @@
       "assets": []
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "content": "Image caption, Masked settlers are accused of attacking the convoy\nDiplomatic correspondent ,Â  Reporting from Jerusalem\nA delegation of European diplomats has been attacked by masked Israeli settlers in the occupied West Bank.\nBelgium condemned the assault on its consul general and the other envoys, while France decried the attack as \"appalling\". Both called for Israel to bring those responsible to justice.\nThe Israel Defense Forces (IDF) also condemned what they called \"the severe act of violence\" and said they were investigating.\nBut the office of the Prime Minister Benjamin Netanyahu cast doubt on what happened, suggesting it was part of a \"co-ordinated campaign to smear Israel\".\nThe attack came only a day after a number of Palestinians and Heidi Levine, a Washington Post photographer, were injured in a separate assault by settlers in another village in the West Bank.\nUS Secretary of State Marco Rubio said the attack on Levine was \"disturbing\" and \"not a good look\".\nIt was also condemned by the US ambassador to Israel, Mike Huckabee, who called it a \"despicable act of terror carried out by masked cowards\". A staunch ally of Israel, Huckabee said the assailants must face \"prosecution to the fullest extent of the law\".\nFigure caption, Rubio &#x27;very disturbed&#x27; over video of West Bank settler attack on US journalist\nIn Saturday&#x27;s incident, the European diplomats - from Belgium, France, Poland and the Catholic Church - had come to the largely Christian village of Taybeh near Ramallah.\nThey were there to assess the situation on the ground after almost near daily attacks by Israeli settlers on Palestinians trying to bring in their olive harvest.\nVideo footage from the scene showed masked settlers confronting the convoy. Reports suggest stones were thrown.\nThe Belgian authorities said a car from its consulate had a window smashed and a French mayor was assaulted. Video showed a man wearing a French tricolor sash slumped beside a vehicle.\nBelgium&#x27;s foreign minister Maxime Prevot condemned the attack and said Israel had a responsibility to bring those responsible to justice, as well as ensuring the safety of diplomats, journalists and Palestinians.\n\"Palestinians face this violence every day. Settlers also target journalists reporting on it and diplomats. Harvesting olives, reporting the news or carrying out diplomatic duties should never put anyone at risk of attack,\" he said.\nHe also said Belgium will continue to press for EU sanctions against those responsible for the violence.\nImage caption, Palestinians have been harvesting olives in the West Bank this week before Israeli settlers attack\nFrance&#x27;s Foreign Minister Jean-NoÃ«l Barrot echoed those sentiments, calling on Israeli authorities to \"urgently halt this criminal violence and guarantee the safety of civilian populations\".\nPoland&#x27;s foreign affairs ministry also called for a \"firm response\" from Israeli authorities and for \"an end to the spiral of violence in the West Bank\".\nThe EU condemned the attacks, urged Israel to abide by international and human rights law, and end the expansion of settlements.\nA spokesperson said that while they acknowledged some Israeli officials had condemned the attacks, they said they still expect \"full accountability as well as effective measures\" to stop the continued violence against Palestinians and journalists.\nGideon Sa&#x27;ar, Israel&#x27;s foreign minister, said he strongly condemned the violence by what he called \"Israeli rioters\". He said the foreign ministry was in contact with the ambassadors of the countries involved.\nBut he added: \"Without detracting from the severity of the incident, it is unfortunate that the visit was not coordinated with the IDF in advance. Such coordination could have helped safeguard the visitors&#x27; security.\"\nThe IDF said they \"strongly condemn the severe act of violence that took place in the area of Taybeh, during which diplomatic representatives were attacked by Israeli rioters.\"\n\"According to a preliminary inquiry, no IDF soldiers were present at the scene at the time of the attack,\" they added.\nImage caption, Netanyahu&#x27;s office named the injured French official as Bernard Baudoux, the left-wing mayor of Aulnoye-Aymeries\nBut Netanyahu&#x27;s office urged \"caution before drawing conclusions\" from reports about the attack.\nIt said the images on social media \"do not establish the complete sequence of events or individual responsibility\".\nA statement continued: \"Those circumstances remain under investigation. Israeli police and forensic investigators have launched an investigation to establish the facts and identify those responsible.\"\nIt added that \"these reports come amid concerns about a coordinated campaign to smear Israel and the Jewish residents of Judea and Samaria during the annual olive harvest, relying on sensational headlines before the full facts emerge\".\nNetanyahu&#x27;s office named the injured French official as Bernard Baudoux. The left-wing mayor of Aulnoye-Aymeries in northern France told the AFP news agency the attack showed a tolerance by Israel&#x27;s right-wing government for settler violence.\nThe mayor said the settlers kicked him and beat him with iron bars, throwing him to the ground.\n\"It&#x27;s the gratuitous nature of the violence that stuns me,\" he said. \"They arrived completely enraged.\"\n\"The whole world needs to know what&#x27;s happening there. For me, I&#x27;ll go back to my country and everything will be fine. Those who continue to suffer the most are those who are here,\" he said.\nPalestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "published": "2026-10-18T12:16:14+00:00",
-      "source": "BBC World",
+      "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHpPTU5QelFLREtoQmFtaWdZMV9DSXA5dkR3RWNMNmZpek5waFVxZE9JSWpLZU81WmFuM016WlRRTjB1S1R0NnFNTVJyZ2pCWGpBaVZDcThObGpQUk1ySWJSQWFqdGpBbzFOd2pzcEE3Vmh5bkR6Z2pwczc1cmNBRlNYbUJoYUg5TVAzcmFCRHJxZlppTnVLTWg0X05FMVAtMWZ1Y3YySmt2R1MyM016ckppVDlrS0tlR2fSAb8BQVVfeXFMTW55QWdNM0RPV3FRbjVkMDNQWmdvTkZ4cEExbHZlY0E3OWRqOVNCQUM3ZC1vcnd5cGtrYmtmTEdBRW5iNU5kTk4wbXVJNHZ6dWNXRi11dkRtTHZ2RVVQcndPMEVYcTdRN09OUklSQUZ3WmlITERjUTh5Ri1tYWxrNWxHTXhER2o1WEpnbVRnVFBwZkJrUFQ5VTY3WHpuMGRtclY4TzZOWnNIblJmSjc1RlpvSVZLTUlVam5TX0cwTGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHpPTU5QelFLREtoQmFtaWdZMV9DSXA5dkR3RWNMNmZpek5waFVxZE9JSWpLZU81WmFuM016WlRRTjB1S1R0NnFNTVJyZ2pCWGpBaVZDcThObGpQUk1ySWJSQWFqdGpBbzFOd2pzcEE3Vmh5bkR6Z2pwczc1cmNBRlNYbUJoYUg5TVAzcmFCRHJxZlppTnVLTWg0X05FMVAtMWZ1Y3YySmt2R1MyM016ckppVDlrS0tlR2fSAb8BQVVfeXFMTW55QWdNM0RPV3FRbjVkMDNQWmdvTkZ4cEExbHZlY0E3OWRqOVNCQUM3ZC1vcnd5cGtrYmtmTEdBRW5iNU5kTk4wbXVJNHZ6dWNXRi11dkRtTHZ2RVVQcndPMEVYcTdRN09OUklSQUZ3WmlITERjUTh5Ri1tYWxrNWxHTXhER2o1WEpnbVRnVFBwZk",
+      "content": "Trump’s Russia diesel deal could undermine US leverage over Putin, expert warns\nFDD Russia Program deputy director John Hardie tells Fox News Digital that easing economic pressure on Moscow before securing a reciprocal energy ceasefire could encourage Putin to hold out for further concessions.\nPresident Donald Trump is easing some of the economic pressure on Russia in hopes of bringing Vladimir Putin closer to a peace deal — a gamble that will test whether economic incentives can move Moscow where years of sanctions have not.\nThe administration's decision to temporarily ease restrictions on Russian diesel has drawn opposition from Republicans on Capitol Hill and skepticism over whether the move will meaningfully lower prices for Americans.\nMeanwhile, Russia has offered few public signs of concessions in return.\nSix Republican senators joined Democrats this week in urging Trump to reverse the decision, while five House Republicans signed a separate bipartisan letter Thursday seeking to revoke the Treasury authorization.\nThe resistance comes as Washington approaches an Oct. 18, 2026, deadline to begin implementing a sweeping new sanctions law Congress overwhelmingly approved to increase economic pressure on Russia.\nBIPARTISAN SENATORS DEMAND TRUMP SCRAP RUSSIA DIESEL DEAL, CALL IT 'BETRAYAL' OF US ALLIES\nThe administration argues that allowing Russian diesel back onto global markets could help bring down prices for American consumers while demonstrating the economic benefits Russia could gain through improved relations with the United States.\nTrump has defended the agreement as a way to add supply to a global diesel market strained by high prices, stressing that the Russian fuel does not necessarily need to come state side to benefit American consumers.\n\"That's a diesel deal that's going to be released into the world for the world market because the world market suffers with high prices,\" Trump told reporters Tuesday.\nBut energy analysts have questioned whether the volumes involved would meaningfully affect prices. Russia, meanwhile, continued striking Ukrainian energy infrastructure after Trump declared an immediate energy ceasefire Sunday.\nJohn Hardie, deputy director of the Russia Program at the Foundation for Defense of Democracies, argued the diesel agreement would make more sense as part of a reciprocal deal under which Moscow and Kyiv both stopped attacking energy infrastructure.\n\"The Ukrainians could stomach it if it were part of a mutual energy truce where both Russia and Ukraine don't strike each other's infrastructure,\" Hardie told Fox News Digital.\nPlumes of smoke rise from fires at an oil refinery following what authorities said was a Ukrainian drone strike during the Russia-Ukraine conflict in Moscow, Russia, on Sept. 20, 2026. (REUTERS/Stringer)\nInstead, Hardie said, Trump pressed Ukraine to halt its refinery strikes without securing the same restraint from Putin.\n\"The better solution is to go back to the Kremlin and try to get that two-way solution,\" he said.\nTrump announced the diesel agreement Oct. 9 after a phone call with Putin, saying Russia would immediately supply more than 300,000 metric tons of diesel to the \"American and Global Marketplace,\" followed by another 500,000 tons in November, 1 million tons shortly thereafter and eventually another 3 million tons depending on the condition of its refineries.\nTRUMP RUSSIA DEAL COULD FUEL PUTIN'S WAR, EX-NATO COMMANDER WARNS AS ZELENSKYY SAYS 'NYET'\nTreasury issued General License 135 the same day, temporarily authorizing transactions involving Russian-origin diesel through April 7, 2027.\nThe diesel dispute has become part of a broader strain between Trump and Ukrainian President Volodymyr Zelenskyy.\nTrump has repeatedly pressed Kyiv to halt refinery attacks, while Zelenskyy has criticized the diesel deal and accused Russia of ignoring Trump's energy ceasefire. Ukraine resumed attacks on Russian oil infrastructure this week after saying Moscow had failed to observe the pause.\nRussia, meanwhile, has intensified attacks on Ukraine's energy system as winter approaches. A major missile and drone attack Wednesday damaged dozens of energy facilities and left hundreds of thousands of Ukrainians without power, according to Ukrainian officials.\nThe White House says the deal serves two purposes: adding supply to global fuel markets and showing Moscow some of the economic benefits that could come with improved relations.\nTrump envoys Steve Witkoff and Jared Kushner discussed the agreement with Ukrainian officials as part of an effort to revive peace negotiations, Reuters reported. One person briefed on the talks said the deal could help \"soften\" Moscow's position by signaling that Trump remains open to doing business with Russia.\nBut analysts question how much genuinely new diesel Russia can provide.\n\"The amount of diesel Russia can provide would be a drop in the bucket compared to global demand,\" Masha Kotkin, a fellow at the Center for Strategic and International Studies, told S&P Global.\n\"If you are asking about US diesel prices, I don't think it's going to make a difference,\" she said.\nA tractor trailer refuels with diesel fuel at a Kwik Star gas station in Mitchellville, Iowa, US, on Thursday, April 30, 2026. (Bryon Houlgrave/Bloomberg via Getty Images)\nSergey Vakulenko, a senior fellow at the Carnegie Russia Eurasia Center and former Russian oil executive, similarly cautioned against treating the roughly $7 billion value of the diesel contemplated under the agreement as new revenue for Moscow, noting that Russia was already exporting substantial quantities despite Western sanctions.\nHe estimated the sanctions relief could instead benefit Russian exporters by roughly $30 to $40 per ton through better commercial terms and lower shipping costs — tens of millions of dollars per month, only part of which would reach the Russian state through taxes.\nAt the same time, Ukrainian strikes have sharply constrained Russia's ability to increase supply. Vakulenko said Russian diesel available for export fell from roughly 3 million tons per month in April to about 325,000 tons in September, leaving both Russia's additional financial benefit and the deal's potential impact on global prices more limited than the headline figures suggest.\nHardie said signs of division between Washington and Kyiv could encourage Putin to increase military pressure rather than compromise.\n\"That message of irresolution and of division between Washington and Kyiv only encourages Putin to intensify military pressure, kind of seeing that opportunity,\" Hardie said.\nSmoke and flames rise over Moscow on June 18, 2026, following a Ukrainian drone attack that hit the Kapotnya oil refinery and other targets in the Russian capital. (East2West)\nHe said the administration had previously presented sanctions relief and renewed economic ties as benefits Russia could unlock through a negotiated settlement. Offering some of those benefits beforehand, he warned, could undermine that incentive.\n\"It'll lead Putin to kind of digging his heels in on maximalist demands,\" Hardie said.\nThe debate comes as Congress is moving in the opposite direction.\nTrump signed the Lindsey O. Graham Sanctioning Russia and Iran Act into law Sept. 18, giving the administration new authorities to target Russian officials, financial institutions and entities helping sustain the war. Its first 30-day implementation deadline arrives Oct. 18.\nSix Republican senators — Thom Tillis, Susan Collins, Alan Armstrong, Lisa Murkowski, Mitch McConnell and John Cornyn — joined six Democrats Tuesday in calling on Trump to rescind the diesel agreement and implement the new sanctions law.\nThe senators acknowledged the need to bring down energy costs but argued the Russian diesel would have a \"negligible impact\" on prices while generating additional revenue for Moscow.\nA separate bipartisan group of 22 House lawmakers called on Trump Thursday to revoke the diesel authorization and fully implement the Graham law.\nThe White House has stood by the agreement, arguing Trump's priority is lowering costs for Americans while continuing to pursue an end to the war.\nHardie questioned whether economic incentives would carry enough weight to change Putin's calculations.\n\"Putin cares much more at this point about Ukraine and his legacy, and this broader kind of cocktail of grievances that led him to this war than he does about, you know, clearly Russia's GDP or well-being, or else he never would have done this in the first place,\" Hardie said.\nThe diesel agreement now puts Trump's theory of leverage to an early test: whether giving Putin a glimpse of the economic benefits available through improved relations can draw him toward a settlement, or whether Moscow will see easing pressure before a ceasefire as a reason to hold out for more.",
+      "published": "2026-10-18T12:00:13+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "BBC World",
-        "Guardian World",
-        "Al Jazeera"
-      ],
-      "source_count": 3,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 15.5,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-      "summary": "Vance faces tough questions on Iran war, immigration and more in CBS town hall&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-18T03:31:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Geopolitics"
+        "GN Geopolitics",
+        "GN Top"
       ],
       "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 15.1,
+      "score": 15.3,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
-      "summary": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-18T17:26:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Geopolitics",
-        "GN Top"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
-      "title": "'You are the real target': Netanyahu warns Iran developing ICBMs, nuclear weapons to target US - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Qa0x3MUZCcVpESlhBNGhWTml1RnpZYkVpNFlKMVlUT3lJYkEtY3lsbkp5M1Rxem5Xbk02VGJWZGpUYVlOYlJKY05EODVCd0lFRWE2UXM2RlpEWS0yTWUtOWtka1RPeG1Dd3loeW5BMUJ1am5lcHVLVUkwOA?oc=5",
-      "summary": "'You are the real target': Netanyahu warns Iran developing ICBMs, nuclear weapons to target US&nbsp;&nbsp;The Jerusalem Post",
-      "content": "&#x27;You are the real target&#x27;: Netanyahu warns Iran developing ICBMs, nuclear weapons to target US\nNetanyahu told FOX News that, if reelected prime minister, his key objectives would be to end the threat posed by Iran, expand the Abraham Accords, and seize the future of AI development.\nPrime Minister and Likud party chairman Benjamin Netanyahu visits supporters in the northern Israeli city of Haifa, ahead of Israel’s upcoming general elections, October 14, 2026\nPrime Minister Benjamin Netanyahu warned that Iran was developing intercontinental ballistic missiles and pursuing nuclear weapons with the aim of threatening American cities, telling FOX News on Saturday that the US, rather than Israel, was the Iranian regime's ultimate target.\nNetanyahu argued that Iran's ambitions extend beyond Israel, warning that the regime intends to target both the US and Europe if it succeeds in destroying Israel. He said Iran's development of long-range missiles and pursuit of a nuclear arsenal were intended to place American cities at the mercy of the regime.\n\"They understand that if they can destroy Israel, then they can conquer the Middle East, control the waterways of the world... and then proceed to the next target, which is you. That&#x27;s why they&#x27;re building intercontinental missiles: to reach the United States,\" Netanyahu said.\n\"This is a regime that chants death to Israel, death to America. You are the real target. And I think we are well on our way to achieving this, with President Trump&#x27;s brilliant leadership, both military and, then, economic blockade.\"\nThe prime minister explained that the Iranian regime views the US as \"the great Satan\" and Israel as the \"little Satan,\" before directing a remark at European countries.\nA Ghadr 1 class Shahab 3 long range missile is prepared for launch during a test from an unknown location in central Iran (credit: REUTERS)\nHe said he \"hoped our European friends are not offended; you are seen as the middle-sized Satan, you are mediocre in so many ways.\"\n\"Iran would be a nuclear power as we&#x27;ve never seen in the entire world, because they don&#x27;t have this careful calculus of cause and benefit. Because they are so fanatic. So you can&#x27;t win them over, you can&#x27;t buy them out,\" he said.\nNetanyahu also described the Iranian regime as a \"malevolent power\" operating alongside what he called the \"Three Hs\": Hamas, Hezbollah, and the Houthis.\n\"They are the arms of this toxic octopus. And it&#x27;s not Iranian people; they are great people,\" he added.\nEliminating the Iranian threat was the first of three priorities Netanyahu outlined for his next term if reelected in the October 27 Knesset election, alongside expanding the Abraham Accords and establishing Israel as a global leader in artificial intelligence.\n\"First, we will achieve the complete elimination of the Iranian threat to Israel, to America, and to the entire world,\" Netanyahu said.\n\"Second thing is to expand the historic Abraham Accords that [US President Donald] Trump and I forged here with four Arab states,\" Netanyahu continued.\n\"There are many more that are waiting in this precise moment, because they saw our strength, our power and fortitude. And they want to join us. So let&#x27;s create an axis of peace and moderation against these barbarians who shoot their own people,\" he said.\nNetanyahu also said he plans to \"forge a different future, a different Middle East, and also a different world\" if reelected.\nPrime Minister and Likud party chairman Benjamin Netanyahu visits supporters in the northern Israeli city of Haifa, ahead of Israel’s upcoming general elections, October 14, 2026. (credit: Sharon Leibel/Flash90)\nNetanyahu&#x27;s third priority focused on artificial intelligence, and the prime minister said he agreed with Trump on both the dangers the technology poses and its potential benefits for humanity.\n\"I plan to seize the future with the 'Neverland AI,' the 'super intelligence,' as the president calls it. He is absolutely right; they are dangerous, but their possibilities in health, in agriculture, in transport, and in education ,\" he explained.\n\"You can personalize AI for every child; they have their own potential, and you can give them the best teachers on the planet. We are doing it today in Israel, and we intend to be the world leaders in that area too. These are all amazing things,\" he added.\nNetanyahu also pointed to Israel&#x27;s economic performance, which he described as among the strongest in the developed world.\n\"By the way, the economy, according to the International Monetary Fund (IMF), is leading all the Western countries, the OCD countries, with the greatest growth. That&#x27;s after three years of war. I want to push that even further, bring a better future to Israel, to our neighbors, to our great ally the United States.\"",
-      "published": "2026-10-18T11:09:31+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.7,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -167,25 +123,24 @@
       ]
     },
     {
-      "title": "Analysis: For Trump, results have often revealed the art of no deal - AP News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTBJSzVrNXJCbFlqdll6ZDhGakxQaVZJWVFoQmYwaXpTTXZMQWI4X252VHZkbGt5amxQMGEwdDNZY1M4YXZrY1dKNERRNE90aEI1ZGtyalpPUmk5YVNua2xDRHd3aFB1TEFQZ19zeVJPTmFEX0lpcGVBVk9DdUhaQUdGT1ZoVWxEYnRUOGhIeFhXNk9FNi1KSWlOcVFuS1d2XzRHVXNVWXVtc3VfM0R3emhn?oc=5",
-      "summary": "Analysis: For Trump, results have often revealed the art of no deal&nbsp;&nbsp;AP News",
+      "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5",
+      "summary": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-18T11:57:00+00:00",
+      "published": "2026-10-18T21:15:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "BBC World",
-        "NPR World",
+        "GN Geopolitics",
         "Al Jazeera"
       ],
-      "source_count": 4,
-      "category": "us",
-      "category_zh": "美国",
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 14.3,
       "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -210,22 +165,22 @@
       "assets": []
     },
     {
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
-      "content": "Image caption, French President Macron (centre) chaired an inter-ministerial crisis meeting at the ÃlysÃ©e Presidential Palace, in Paris, on Sunday\nFrench President Emmanuel Macron has called for \"calm and order\" after a major day of protests turned into rioting and looting on Saturday, and as some disorder continued in Paris on Sunday.\nIn a national address from the ÃlysÃ©e Palace, he warned those who had taken part not to \"escalate\", adding: \"We all feel anger and shame.\"\nSome 550,000 demonstrators took to the streets for largely peaceful protests against rising fuel prices, the cost of living and deteriorating public services, including schools.\nMacron said a distinction must be drawn between the \"legitimate demands\" of protesters and \"those who destroyed, smashed and looted\".\nPolice have arrested about 2,400 people, according to France&#x27;s interior ministry.\nThe French president said \"nothing justifies\" the \"unbridled\" violence seen and said those involved would face justice.\nGroups of rioters, some dressed in black and wearing masks and balaclavas, also came out in Paris, Marseille and other towns and cities, with some setting fire to cars and buildings.\nOn Sunday, looting and clashes with police continued on a smaller scale in parts of the capital and Lyon.\nTear gas and stun grenades were fired at hundreds of people in Paris, according to the AFP news agency, and bottles and rocks were again hurled at police.\nImage caption, Local officials said the Limoges town hall was \"largely lost\" after fire caused part of the building to collapse\nSunday saw cities across the country confront the impact of what developed into one of the worst bouts of disorder in modern French history.\nIn Limoges, the ornate 19th Century city hall was gutted by a fire started by rioters on Saturday, its clock tower and roof collapsing and the flames took hold.\nSpeaking near the ruined building, AnnÃ¨yse said: \"This is very upsetting. Harming heritage buildings just because you are angry at the government is selfish, I think. It&#x27;s hurting everybody.\"\n\"It&#x27;s awful and unbelievable,\" said another man who gave his name as Gerrard. \"We are very sad and I think it will be a long time to put it back as it was before.\"\nShopkeepers were seen early on Sunday morning picking up large shards of glass in Paris as rubbish trucks cleared up debris on some of the larger streets.\nFigure caption, Watch: James Waterhouse speaks to looted shop owvers on the streets of Paris\nWidespread looting took place across the cities of Paris, Marseille and Lille, as well as other areas.\nMacron said local prefects and mayors would draft measures to protections in place for shops and civic buildings.\nThe president also said there would be \"full transparency\" over the police response to the demonstrations.\nTear gas and water cannon were turned on crowds over the weekend and riot police were seen hitting people with batons in several places.\nFrance&#x27;s interior ministry said about 1,000 police officers were injured on Saturday, seven of them seriously.\nImage caption, Riot police were present on the streets of the capital again on Sunday\nImage caption, A man tries to extinguish a fire in Paris on Sunday\nBurnt out cars and shattered glass on Paris streets after protests turn to riots and looting\nViolent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests\nAre student protests being manipulated ahead of France&#x27;s presidential election?",
-      "published": "2026-10-18T20:06:20+00:00",
-      "source": "BBC World",
+      "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
+      "summary": "Vance faces tough questions on Iran war, immigration and more in CBS town hall&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-18T03:31:00+00:00",
+      "source": "AP World",
       "sources": [
-        "BBC World"
+        "AP World"
       ],
       "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.9,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -295,33 +250,11 @@
       "assets": []
     },
     {
-      "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
-      "summary": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says&nbsp;&nbsp;Reuters",
+      "title": "Macron urges calm as France counts cost of worst unrest in years - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
+      "summary": "Macron urges calm as France counts cost of worst unrest in years&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-17T23:49:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Top",
-        "Guardian World"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJUYmVON2MyaDNUd3JSbXFwUmZ3ODRXVW05RTVSZ0cwQzRSSjF3OGkzNWMxQjVobFU3emI3a3FJVVRMQnRxSnFNWXF5QXQzVTZTZmlxNHdUd1hseVliMEJwZ0FEYm5FN1pPYVlfazVxaXpIRkRhZXhJaU1FSTlxRnNScThrMjlkQUhJVmZ6cHpkVF90bjZES2dYNEYtSWZDcXFYNGpsWFVEejdrSnJ5czJhQ0I2TTgzRW1keEw5dFk1Z3M?oc=5",
-      "summary": "Vietnam signs free-trade pact with European countries including Norway, Switzerland&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T05:30:00+00:00",
+      "published": "2026-10-18T20:08:11+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -360,6 +293,26 @@
       ]
     },
     {
+      "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJUYmVON2MyaDNUd3JSbXFwUmZ3ODRXVW05RTVSZ0cwQzRSSjF3OGkzNWMxQjVobFU3emI3a3FJVVRMQnRxSnFNWXF5QXQzVTZTZmlxNHdUd1hseVliMEJwZ0FEYm5FN1pPYVlfazVxaXpIRkRhZXhJaU1FSTlxRnNScThrMjlkQUhJVmZ6cHpkVF90bjZES2dYNEYtSWZDcXFYNGpsWFVEejdrSnJ5czJhQ0I2TTgzRW1keEw5dFk1Z3M?oc=5",
+      "summary": "Vietnam signs free-trade pact with European countries including Norway, Switzerland&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-18T05:30:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
       "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
       "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in yearsA dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and PortugalThe angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal, with rioters clashing with police and setting property on fire in Milan, and a tent encampment springing up",
@@ -376,28 +329,6 @@
       "score": 13.5,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Zelenskyy Says Trump Is Pushing Ukraine to Capitulate to Russia - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnBjV3RPMWhXRnBZTkRWVEdBMkxnOEhDQXZlZlhZcXYzbU1TUFFDM2xGS0tBX2w3X2xKYnhwcDdYSDFYNG1WX0FrMzhaWG5OSjA2cGxWY3NxdUJya1MtTTVzeWY3OUYwbHB2U2pKTkxCWmpZUGw0NVZ0NFZpZDNDTnpqVG0tT3NnYzJoWThZNDZiMjZjZXpaNDM1VU9TeVFSNmd6VXc4OG1MZ0VXVXNyZV9nYmQ?oc=5",
-      "summary": "Zelenskyy Says Trump Is Pushing Ukraine to Capitulate to Russia&nbsp;&nbsp;Bloomberg.com",
-      "content": "",
-      "published": "2026-10-18T18:21:08+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Energy",
-        "Al Jazeera"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -422,33 +353,10 @@
       "assets": []
     },
     {
-      "title": "As AI rally wobbles, stock market’s spotlight turns to earnings By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQi1sWlF3NHlZQU9PazJsdFJRdktNeXdaNGZHWndhd0JSelZ6bTRnZEpkVi1SRDlRaDdVR2xhdGpnVkhoOURLdVBKcXRQZzJiWktYYVhxMHdOZ01uOTRkRnAxT0JRNlNyX3pCTUFPR3Vndld5bjlyVjZOdE83MURodWRGdks0QWNQQ01TQnp4aEdYT0hxTHp4ZTBoNWQwYjZ2ZEdlMUtBV0x2dldWQTd4cEd1dVRxWWdXbGc?oc=5",
-      "summary": "As AI rally wobbles, stock market’s spotlight turns to earnings By Reuters&nbsp;&nbsp;Investing.com",
-      "content": "",
-      "published": "2026-10-18T13:06:35+00:00",
-      "source": "GN Markets",
-      "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 13.3,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
       "title": "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting - Cryptonews",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlF1U1drNFFfSW5GUUlkOTBkUkdyMGppcTA3bmRjZVJOS0NvWnhxTlB0dFJwUEd6WmRWSExqakgwV3VpanlZWWRKNjU0UkR2OW9YQXpPbjVnWll5azhMOGg5cmJEZ0pzZWgtTWxMOVo4bFZndGVQRXh0UC1qdEVYUDkzeHZwb2lWRjEwanJhU2JJbUFEX040czU1djRhdk9peUM3MUJhYVRtMi1FUURfZld3?oc=5",
       "summary": "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting&nbsp;&nbsp;Cryptonews",
-      "content": "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting\nWe believe in full transparency with our readers. Some of our content includes affiliate links, and we may earn a commission through these partnerships. However, this potential compensation never influences our analysis, opinions, or reviews. Our editorial content is created independently of our marketing partnerships, and our ratings are based solely on our established evaluation criteria. Read More\nWe believe in full transparency with our readers. Some of our content includes affiliate links, and we may earn a commission through these partnerships. However, this potential compensation never influences our analysis, opinions, or reviews. Our editorial content is created independently of our marketing partnerships, and our ratings are based solely on our established evaluation criteria. Read More\nAhmed Barakat is a journalist and copywriter based in Georgia with a growing focus on blockchain technology, DeFi, AI, privacy, digital assets, and fintech innovation.\nXRP Price Prediction: Can Ripple Stop the Bleeding?\nBitcoin Price Forecast: $81,500 Leaves Weekly Close Needing a Big Push\nXRP Price Could Surge 145% as 2023 Rally Pattern Returns\nPolymarket Bitcoin and Rate Hike Odds Shift as CME Says No Change\nThe CryptoNews editorial team is composed of seasoned writers specializing in cryptocurrency and blockchain technology. Their expertise ensures comprehensive, accurate, and insightful content for...\nBitcoin Price Prediction: Strategy Has a New BTC Approach\nXRP Price Prediction: Going Mainstream as Kansas Athletics Announces Strategic Jersey Patch\nEthereum Price Prediction: Kiyosaki Still Eyeing ETH, Solana Founder Bullish on EF Staff Cuts\nHow to Exchange ZEC to BTC: Best Zcash to Bitcoin Exchanges 2026\nHow to Take Part in Wadoozie’s Live 48-State Tour to Win WADZ Rewards\nWe believe in full transparency with our readers. Some of our content includes affiliate links, and we may earn a commission through these partnerships. However, this potential compensation never influences our analysis, opinions, or reviews. Our editorial content is created independently of our marketing partnerships, and our ratings are based solely on our established evaluation criteria. Read More\nDisclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.\nFOMC Polymarket odds increasingly favor the Federal Reserve leaving interest rates unchanged at its October meeting, with the probability of another rate hike falling sharply despite persistent inflation concerns.\nAccording to the latest Polymarket figures, the odds of the Fed holding rates steady stand at 87%, while the probability of a 25-basis-point increase has dropped to 14%. The market assigns less than a 1% chance to a rate cut or a larger increase.\nSOURCE: FOMC Polymarket Odds The figures suggest traders expect Federal Reserve Chair Kevin Warsh and the Federal Open Market Committee (FOMC) to take a wait-and-see approach at their October 27–28 meeting. The contract has attracted tens of millions of dollars in trading volume, reflecting significant interest in the central bank's next move.\nHowever, expectations have shifted considerably in recent weeks. After hotter-than-expected inflation data, the probability of an October hike climbed toward 50% before retreating as investors reassessed the likelihood of consecutive hikes.\nFOMC Polymarket Odds: Inflation Keeps Rate Hike Debate Alive\nhttps://twitterx.com/kucoincom/status/2111064744689795532\nThe latest US consumer price index (CPI) report showed annual inflation accelerating to 3.7% in September, up from 3.4% in August. Core inflation also increased, reinforcing concerns that price pressures could remain above the Fed's 2% target.\nNevertheless, some policymakers have argued against rushing into another increase. San Francisco Fed President Mary Daly said on October 14 that further hikes could be necessary to control persistent inflation but stressed there was no urgency to act at the upcoming meeting.\nThat distinction appears central to current market pricing: traders are not ruling out additional tightening, but increasingly expect policymakers to wait for more evidence before moving again.\nGot a Gut Feeling? It Could Pay Out Big on Polymarket\nSocial Media and Market Commentary Reflect Uncertainty\nDiscussion among prediction-market traders has highlighted the competing arguments. In a recent Reddit discussion in the r/Polymarket community, participants pointed to the September inflation figures and elevated energy costs as reasons a hike could remain possible, while also noting that earlier comments from Fed officials had reduced expectations of immediate action.\nWarsh has added another layer of uncertainty by declining to signal the committee's next move publicly. Speaking at an International Monetary Fund event in Bangkok on October 16, he said he does not prejudge individual meetings.\nThe lack of explicit forward guidance leaves traders particularly sensitive to incoming economic data and any remaining policy signals.\nWatch what happens after the announcement pic.twitter.com/uSgRShCqWL\nWith the October meeting approaching, Polymarket's current pricing makes a pause the clear favorite, though odds can shift quickly as new information emerges.\nA fresh inflation surprise could revive bets on a hike, while softer economic data or further calls for patience from policymakers could reinforce expectations of unchanged rates.\nFor now, traders appear to favor caution over immediate tightening. The key question is whether the Fed sees inflation as sufficiently persistent to justify another hike, or whether policymakers will wait until December before deciding their next move.\nRecommended Popular Crypto Topics Price Predictions\nXRP Price Could Surge 145% as 2023 Rally Pattern Returns\nXRP Price Prediction: XRP Duo Turn Bullish, $1,000 Dream Lives On\nPolymarket Bitcoin and Rate Hike Odds Shift as CME Says No Change\nXRP News: RLUSD Settlement Comes to Cross River Fintechs\nGoogle Gemini AI Predicts Bitcoin to Hit $175K by 2027\nClaude AI Predicts that Chainlink (LINK) Could Hit Triple Digits in 2026\nGoogle Quantum 40x Breakthrough Rekindles Fears of Q-Day\nBitcoin Price Prediction: Bitcoin Tracks Treasury Real Rates, Fidelity Finds\nBest Crypto to Buy Now in October 2026 – Top Crypto to Invest In\nNew Cryptocurrencies to Invest in Today &#8211; Top New Crypto Coins\nEarly Access to 6 New & Upcoming Coinbase Listings in October 2026\nBitcoin (BTC) Price Prediction 2026, 2027 &#8211; 2030",
+      "content": "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting\nWe believe in full transparency with our readers. Some of our content includes affiliate links, and we may earn a commission through these partnerships. However, this potential compensation never influences our analysis, opinions, or reviews. Our editorial content is created independently of our marketing partnerships, and our ratings are based solely on our established evaluation criteria. Read More\nWe believe in full transparency with our readers. Some of our content includes affiliate links, and we may earn a commission through these partnerships. However, this potential compensation never influences our analysis, opinions, or reviews. Our editorial content is created independently of our marketing partnerships, and our ratings are based solely on our established evaluation criteria. Read More\nAhmed Barakat is a journalist and copywriter based in Georgia with a growing focus on blockchain technology, DeFi, AI, privacy, digital assets, and fintech innovation.\nGrok AI Predicts a Modest Gain for XRP USD by 2027: Is Bullish Optimism Over?\nXRP Price Prediction: Can Ripple Stop the Bleeding?\nBitcoin Price Forecast: $81,500 Leaves Weekly Close Needing a Big Push\nXRP Price Could Surge 145% as 2023 Rally Pattern Returns\nThe CryptoNews editorial team is composed of seasoned writers specializing in cryptocurrency and blockchain technology. Their expertise ensures comprehensive, accurate, and insightful content for...\nBitcoin Price Prediction: Strategy Has a New BTC Approach\nXRP Price Prediction: Going Mainstream as Kansas Athletics Announces Strategic Jersey Patch\nEthereum Price Prediction: Kiyosaki Still Eyeing ETH, Solana Founder Bullish on EF Staff Cuts\nHow to Exchange ZEC to BTC: Best Zcash to Bitcoin Exchanges 2026\nHow to Take Part in Wadoozie’s Live 48-State Tour to Win WADZ Rewards\nWe believe in full transparency with our readers. Some of our content includes affiliate links, and we may earn a commission through these partnerships. However, this potential compensation never influences our analysis, opinions, or reviews. Our editorial content is created independently of our marketing partnerships, and our ratings are based solely on our established evaluation criteria. Read More\nDisclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.\nFOMC Polymarket odds increasingly favor the Federal Reserve leaving interest rates unchanged at its October meeting, with the probability of another rate hike falling sharply despite persistent inflation concerns.\nAccording to the latest Polymarket figures, the odds of the Fed holding rates steady stand at 87%, while the probability of a 25-basis-point increase has dropped to 14%. The market assigns less than a 1% chance to a rate cut or a larger increase.\nSOURCE: FOMC Polymarket Odds The figures suggest traders expect Federal Reserve Chair Kevin Warsh and the Federal Open Market Committee (FOMC) to take a wait-and-see approach at their October 27–28 meeting. The contract has attracted tens of millions of dollars in trading volume, reflecting significant interest in the central bank's next move.\nHowever, expectations have shifted considerably in recent weeks. After hotter-than-expected inflation data, the probability of an October hike climbed toward 50% before retreating as investors reassessed the likelihood of consecutive hikes.\nFOMC Polymarket Odds: Inflation Keeps Rate Hike Debate Alive\nhttps://twitterx.com/kucoincom/status/2111064744689795532\nThe latest US consumer price index (CPI) report showed annual inflation accelerating to 3.7% in September, up from 3.4% in August. Core inflation also increased, reinforcing concerns that price pressures could remain above the Fed's 2% target.\nNevertheless, some policymakers have argued against rushing into another increase. San Francisco Fed President Mary Daly said on October 14 that further hikes could be necessary to control persistent inflation but stressed there was no urgency to act at the upcoming meeting.\nThat distinction appears central to current market pricing: traders are not ruling out additional tightening, but increasingly expect policymakers to wait for more evidence before moving again.\nGot a Gut Feeling? It Could Pay Out Big on Polymarket\nSocial Media and Market Commentary Reflect Uncertainty\nDiscussion among prediction-market traders has highlighted the competing arguments. In a recent Reddit discussion in the r/Polymarket community, participants pointed to the September inflation figures and elevated energy costs as reasons a hike could remain possible, while also noting that earlier comments from Fed officials had reduced expectations of immediate action.\nWarsh has added another layer of uncertainty by declining to signal the committee's next move publicly. Speaking at an International Monetary Fund event in Bangkok on October 16, he said he does not prejudge individual meetings.\nThe lack of explicit forward guidance leaves traders particularly sensitive to incoming economic data and any remaining policy signals.\nWatch what happens after the announcement pic.twitter.com/uSgRShCqWL\nWith the October meeting approaching, Polymarket's current pricing makes a pause the clear favorite, though odds can shift quickly as new information emerges.\nA fresh inflation surprise could revive bets on a hike, while softer economic data or further calls for patience from policymakers could reinforce expectations of unchanged rates.\nFor now, traders appear to favor caution over immediate tightening. The key question is whether the Fed sees inflation as sufficiently persistent to justify another hike, or whether policymakers will wait until December before deciding their next move.\nRecommended Popular Crypto Topics Price Predictions\nXRP Price Could Surge 145% as 2023 Rally Pattern Returns\nXRP Price Prediction: XRP Duo Turn Bullish, $1,000 Dream Lives On\nPolymarket Bitcoin and Rate Hike Odds Shift as CME Says No Change\nXRP News: RLUSD Settlement Comes to Cross River Fintechs\nGoogle Gemini AI Predicts Bitcoin to Hit $175K by 2027\nClaude AI Predicts that Chainlink (LINK) Could Hit Triple Digits in 2026\nXRP Price Prediction: Can Ripple Stop the Bleeding?\nGoogle Quantum 40x Breakthrough Rekindles Fears of Q-Day\nBest Crypto to Buy Now in October 2026 – Top Crypto to Invest In\nNew Cryptocurrencies to Invest in Today &#8211; Top New Crypto Coins\nEarly Access to 6 New & Upcoming Coinbase Listings in October 2026\nBitcoin (BTC) Price Prediction 2026, 2027 &#8211; 2030",
       "published": "2026-10-18T18:30:00+00:00",
       "source": "GN Fed",
       "sources": [
@@ -605,11 +513,11 @@
       ]
     },
     {
-      "title": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5",
-      "summary": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead&nbsp;&nbsp;The Washington Post",
+      "title": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0FrYlJuVkNFRDhseTBIa3dKbnNMZmk2aVY5WG5fYmZDRnNFVUFzSXd2eFNhLTd3dlctd1F6Z2kwTmZ5SmRoUVFMQ3VUVlNaUzVzMkJYZkZtOGpDVDZJSDRJNzFJV3FWdVhkNTBDTnVMRXlid0cwTlNaYk1mb281dkEyb3ZpYkxRZ0Zvb3g?oc=5",
+      "summary": "Wright says Trump administration has not broken prom",
       "content": "",
-      "published": "2026-10-18T16:00:00+00:00",
+      "published": "2026-10-18T17:18:00+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -625,11 +533,11 @@
       "assets": []
     },
     {
-      "title": "Vance acknowledges ‘failures’ in US handling of Iran war - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVjdEQ5ZDJCUWk?oc=5",
-      "summary": "Vance acknowledges ‘failures’ in US handling of Iran war&nbsp;&nbsp;Anadolu Ajansı",
-      "content": "Vance acknowledges ‘failures’ in US handling of Iran war\nUS vice president admits positioning of US troops exposed weaknesses in military’s approach\nISTANBUL US Vice President JD Vance acknowledged “a lot of mistakes and a lot of fundamental failures” in the handling of the Iran war, as he faced questions over the conflict’s rising human and economic costs during a CBS News town hall.\nVance made the remarks in response to Joey Amor, whose wife, Master Sgt. Nicole Amor, was among six US Army Reserve soldiers killed in an Iranian strike on a military site in Kuwait in the opening hours of the war that began in late February. At least 21 US service members have been killed and hundreds wounded so far.\nAmor questioned reports that the facility had not been adequately secured, demanding accountability from the Trump administration.\n“Though the Iranian drone was the weapon that killed my wife, there were a lot of mistakes and a lot of fundamental failures that led up to that,” Amor said.\nVance acknowledged that there were shortcomings. “Sometimes information doesn't filter up to me,” he said, pledging to “take every single failure extremely seriously.”\nThe vice president also admitted that the positioning of US troops exposed weaknesses in the military’s approach. “I know that there are some issues with, for example … where troops were located that we realized was a huge mistake and that we could do better on. And we have changed that,” he said.\nVance pointed to the growing threat posed by inexpensive drones, saying the US military had altered its tactics to better protect troops and prevent further casualties.\nAsked why Washington had still not secured a decisive victory despite President Donald Trump’s initial expectations, Vance argued that the US had “in some ways … won decisively,” but acknowledged the outcome also depended on Iran’s actions. “The enemy gets a vote here,” he said.\nVance defended the administration’s strategy, saying Washington was seeking a “final firm commitment from the Iranians that they're not going to rebuild their nuclear program.”\nVance acknowledges ‘failures’ in US handling of Iran war\nAnthropic pledges 5% of shares to new public benefit fund\nMadueke&#x27;s late winner rescues Arsenal in narrow victory over Nottingham Forest\nHouthis fire 8 ballistic missiles towards northeastern Yemen, local authorities say\nCarney says 4 killed, dozens seriously wounded in fire at Canadian military base\n28 arrested, 141 officers injured as cost-of-living protests turn violent in Italy\nGulf states express solidarity with Saudi Arabia, urge dialogue on US-Iran tensions\nSaudi Arabia says &#x27;hostile projectile&#x27; fell in southwestern city, injuring 6\nCalifornia wildfire forces thousands to evacuate, burns 570 acres\nAmericans increasingly dissatisfied with Trump as midterms approach: Poll",
-      "published": "2026-10-18T15:03:39+00:00",
+      "title": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5",
+      "summary": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead&nbsp;&nbsp;The Washington Post",
+      "content": "",
+      "published": "2026-10-18T16:00:00+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -665,6 +573,26 @@
       "assets": []
     },
     {
+      "title": "Live - Trump threatens to finish job against Iran, Araghchi warns Tehran has unfinished jobs too - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc?oc=5",
+      "summary": "Live - Trump threatens to finish job against Iran, Araghchi warns Tehran has unfinished jobs too&nbsp;&nbsp;Iran International",
+      "content": "",
+      "published": "2026-10-18T12:56:53+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Retirees Return to the Streets in Iran as Regime Warns of Falling Trust and Presses Nightly Mobilization - National Council of Resistance of Iran - NCRI",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0ZxcXBtOVNnQU5ianpjZTc2Vko4VjdURGgzZlliQ3FydUdYZGlCQkNZclZ3S2FMSFpMS2owQ3gtVWYzV0VCMHZTVXByRFRZdGdTNFRSa09aLWxGWlNpTlZUQkVXQXVUSUZlZWhGWXNmVFhIeXU5bmg0Wmk3bkMyaHNNQU8tZ21OQWZzQ2NMNlIwVEJnQXd5Z1hELWRrTnhBRFBsLVU4OERCem9uZEdobmRqdG04dHo4RmcyOTM3bkpUVm5zcENKWF84OHVsSm9oX0t1N1ZnaU9NaFo5cFQ4?oc=5",
       "summary": "Retirees Return to the Streets in Iran as Regime Warns of Falling Trust and Presses Nightly Mobilization&nbsp;&nbsp;<font c",
@@ -685,22 +613,22 @@
       "assets": []
     },
     {
-      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2R1VGtmMFJWQXhmOERBYmpSYXEySGEzMDZ5Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2",
-      "content": "Share What help can Egypt offer Saudi Arabia in the war against the Houthis? on social media\nEgyptian President Abdel Fattah wl-Sisi meets Saudi Crown Prince Mohammed bin Salman in Cairo, Egypt on September 15, 2026 [Bandar Algaloud/Saudi Royal Court/Reuters]\nEgypt’s parliament is convening on Sunday after President Abdel Fattah el-Sisi requested an emergency session to approve defensive military aid to Saudi Arabia, if Riyadh asks for support in its war with Yemen’s Houthis.\nThe request comes as the Iran-backed armed group continues attacks on Saudi Arabia, including the capital, Riyadh, and its airports and oil facilities.\nlist of 3 items list 1 of 3 How far will Egypt go to help Saudi Arabia secure the Red Sea?\nlist 2 of 3 Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks\nlist 3 of 3 Saudi-led coalition intercepts drones as Egypt weighs sending help\nEl-Sisi declared that Egypt will “carry out any measure to protect” Saudi Arabia, in a speech on Saturday, but said that he “hopes” the parliament will give him authorisation to proceed.\nOn Sunday, Egypt said it would provide “all necessary and possible support to Saudi Arabia to defend its safety and stability”. The National Defence Council, chaired by President el-Sisi, said it “stands fully with” Saudi Arabia to defend its resources, territorial integrity and Islamic holy sites.\nBut what would Egyptian assistance look like? And what capacity does it have to “protect” Saudi Arabia in its war with the Houthis?\nWhat’s behind el-Sisi’s decision to offer help to Saudi Arabia?\nSaudi Arabia has long been a strategic and economic partner of Egypt, and el-Sisi said in a statement last month that Saudi security is “integral” to Egypt’s security.\nPolitical analyst and Gulf studies expert Thomas Bonnie James told Al Jazeera that the Houthi security threat to the kingdom is one of the “converging” pressures that have led to this decision. The other one, is economics.\n“Houthi pressure on [Bab] al-Mandeb threatens the Suez Canal , which Egypt’s foreign minister says has lost about $11bn since the attacks began in 2023,” he said, referring to Houthi attacks on Israeli-linked ships passing through the narrow strait, carried out in solidarity with Gaza.\nJames suggested that the decision is also important to Cairo, because “millions of Egyptians live and work in Saudi Arabia, which is Egypt’s largest single source of remittances. An Egyptian resident was killed, and others were injured in the attacks on Riyadh’s airport.”\nHe also said that Egypt does not want to be seen as the regional ally that “stood aside while others defended the kingdom,” as Turkiye and Pakistan have made their own pledges after activating the Mecca defence pact signed in August amid the deteriorating security situation in the Middle East.\nHostilities in Yemen continue to escalate. Two air raids by the Saudi-led coalition hit Hodeidah in the southwest on Sunday.\nSaudi forces also intercepted drones near Riyadh and Eastern provinces. The capital’s King Khalid international airport has come under attack at least 20 times since fighting flared between the internationally recognised government and the Houthis, also known as Ansar Allah – Arabic for Supporters of God.\nThe Saudi-backed forces are fighting the Houthis on several fronts, including Taiz and Marib, and some analysts argue the Houthis are stretched thin after their summer gains.\nBut James told Al Jazeera “that defeating them outright is a tall order”.\n“Ground forces backed by air power can retake the coastline; stopping missiles launched from the mountains is much harder,” he said.\nThey will be convening on Sunday at 1pm local time (10am GMT).\nUnder the Egyptian law, the President cannot declare war or send the military on foreign missions without the approval from the parliament.\nFor the authorisation to be granted, at least two-thirds of the politicians in the House of Representatives must vote in favour of the proposal.\nDoes Egypt have security cooperation with Saudi Arabia?\nNot exactly. Egypt and Saudi Arabia have not signed a formal bilateral or multilateral pact on defence cooperation. But Cairo has a long history of cooperation with Riyadh.\nEgypt is a founding member of the Multinational Maritime Defense Coalition, which Saudi Arabia launched in July. It aims to protect shipping in the Red Sea and Bab al-Mandeb – territories on Yemen’s coastline. Houthis captured towns and cities near Bab al-Mandeb last month, but the internationally recognised government has since wrested control of some of the areas from the Iran-backed group.\nEgypt also participated in joint military exercises with Saudi Arabia in 2024.\nCairo was also part of a 2015 coalition , cobled together after the Houthi group captured large areas of north and western Yemen, including the capital Sanaa in September 2024. Egypt contributed naval and air forces to help secure maritime corridors in the Red Sea against the Houthis.\nBut James, the Gulf studies expert, told Al Jazeera that what el-Sisi is proposing is different from the maritime defence coalition Egypt recently joined.\n“He is hoping for authorisation to deploy Egyptian forces to help defend Saudi territory itself,” he said. “It would move Egypt from a multilateral maritime framework to a bilateral military commitment.”\nWhat will be the nature of Egyptian assistance to Saudi Arabia?\nEl-Sisi explicitly said that he is only proposing “defence” and that he isn’t “speaking in order for us to fight anyone or attack anyone”.\nMilitary Defence Analyst Alexandru Hudisteanu said that the use of counter-drones and anti-missile support is a high probability if the decision is authorised.\n“It would be the most urgent need at this point to make sure that the defence of Saudi Arabia is backed up and reinforced,” he told Al Jazeera.\nSimultaneously, he added that the request itself is also a strategic move of deterrence.\n“We know Saudi Arabia has one of the most prolific militaries out there in terms of capacities and capabilities. It’s a matter of the territory which Saudi Arabia needs to cover at any given moment,” Hudisteanu said.\nJames said that any contribution by Egypt would focus on the protection of Saudi territory, using “air and missile defence around critical infrastructure, intercepting drones, naval escort and intelligence sharing”.\nJames said that it is unlikely Egypt will deploy troops to Yemen’s front lines.\nIn the 1960s, former Egyptian President Gamal Abdel Nasser deployed tens of thousands of troops in the Yemen Civil War. Saudi Arabia backed the rival side. Egypt suffered heavy casualties and Saudi-Egyptian ties were strained.\n“What Egypt will not want is to send troops into Yemen. Nasser’s intervention there in the 1960s sends a clear message: defend the kingdom, don’t take ownership of Yemen,” he told Al Jazeera.",
-      "published": "2026-10-18T11:13:21+00:00",
+      "title": "Iran's IRGC exploits women through sex trafficking, uses children to fund proxy wars, report finds - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqa3lFRDRIekNuMVRXblpGTU9pLUpIQWRLOEphaktFMEFlMjNiWW13VVljNUhvb1dyS2NYZG1LNy1pNF9sV0ZJV1Q5MlJQLWlRZGZVMWg2TEZwM3ZR?oc=5",
+      "summary": "Iran's IRGC exploits women through sex trafficking, uses children to fund proxy wars, report finds&nbsp;&nbsp;The Jerusalem Post",
+      "content": "Iran&#x27;s IRGC exploits women through sex trafficking, uses children to fund proxy wars, report finds\nA new analysis by the Jerusalem Center for Security and Foreign Affairs details how the Islamic Republic’s human trafficking networks generate revenue and help sustain its military operations.\nAn Iranian woman walks next to an anti-Israeli mural on a street in Tehran, Iran, May 26, 2026\n( photo credit : MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS )\nIranian women, undocumented migrants, children, and refugees are being exploited by the Islamic Republic, specifically the IRGC, to finance and support its proxy wars across the region , according to an analysis published last week by the Jerusalem Center for Security and Foreign Affairs (JCFA).\nElla Rosenberg, a senior research fellow at the JCFA and a member of the Dvorah Forum, said Iran’s legal framework allows the regime to project an image of compliance with international anti-trafficking regulations while relying on flawed legislation that falls short of international standards and fails to adequately protect victims.\nShe noted that the Islamic Republic conflates human trafficking with migrant smuggling, and the regime has consistently refused to ratify the 2000 United Nations Protocol to Prevent, Suppress and Punish Trafficking in Persons (the Palermo Protocol).\nIRGC directly benefiting from sex trafficking, Israeli study finds\nBeyond failing to protect victims, Rosenberg assessed that the IRGC directly benefits from human trafficking. She noted that the IRGC uses the sex trafficking sector, often facilitated by the regime through temporary marriages, as a major source of income.\nRosenberg described Iran as a source, transit, and destination country for the sex trafficking of women and girls , citing widespread poverty, systemic corruption, and economic mismanagement as contributing factors.\nWomen take a selfie at the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force Museum in Tehran, Iran, November 12, 2025 (credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS)\nShe argued that Article 1041 of Iran’s Civil Code, which permits girls to marry at 13 and even younger girls to marry with parental permission and court approval, has helped normalize the sexual exploitation of minors.\nRosenberg also linked the practice of nikah mut’ah, a temporary marriage contract agreed upon for a predetermined period, to the exploitation of vulnerable women and girls for the benefit of organized trafficking networks.\nTrafficking networks move victims within Iran and across its borders into neighboring countries, including Iraq, with the alleged support of the IRGC, according to Rosenberg. She said that the scale of cross-border sex trafficking could not be sustained without the IRGC’s complicity, given its role in border control and the intelligence apparatus’s oversight of internal security checkpoints and airports.\nAdding more weight to her analysis, human rights groups, including the IHR Monitoring and Evaluation Framework and HRANA, have documented allegations that IRGC commanders accepted bribes to facilitate the passage of trafficking victims.\nRosenberg added that the IRGC profits directly from the exploitation of Iranian women by taxing the commercial sex trade.\nIn addition to financially benefiting from human trafficking, the JCFA report said that the IRGC’s Quds Force and the Basij systematically traffic undocumented migrants, refugees, and children to “sustain their proxy wars across the Middle East.”\nThe IRGC exploits vulnerable populations, particularly Afghan and Pakistani refugees, to recruit fighters through deception, financial coercion, and threats of deportation, she said. Individuals harvested from these communities are coerced into joining proxy militias like the Fatemiyoun and the Zainabiyoun Brigades, for deployment in foreign countries like Iraq.\nAdditionally, in violation of international law, the Basij systematically recruits and coerces Iranian children as young as 12 into military indoctrination and combat support roles. This was argued to be a severe form of human trafficking, as the recruitment exploits children’s vulnerability to coerce them into hazardous, involuntary servitude in military environments.\nThough JCFA warns of the abuse of children aged 12 and up, The Jerusalem Post has previously reported on the death of an 11-year-old Basij member who was killed at a checkpoint in Iran.\nRather than directly profiting from the trafficking of vulnerable individuals into the IRGC, Rosenberg suggested, the financial gain can be categorized as cost avoidance rather than revenue.\nShe argued that instead of deploying trained members of the IRGC, which the regime would have to pay and has invested in, the system can deploy underpaid or unpaid vulnerable groups who are deemed disposable because of their lack of funded training.\nSuch deployments were estimated to save the Islamic Republic billions of dollars in military expenditure, freeing funds to be redirected into the IRGC’s domestic corporate monopolies and regional terrorist financing networks.\nAgain, Iran’s “tax” system also allows it to benefit from migrants transiting from Pakistan and Afghanistan who are hoping to reach Europe through Iran and Turkey.\nSuch migrants are also routinely subjected to debt bondage, extortion, and forced labor in Iran’s informal agricultural and construction sectors to pay off exorbitant smuggling fees by criminal networks that pay protection money to the IRGC. This alone is estimated to generate billions of dollars for Iran’s shadow economy.\nA woman holds a picture of Iran’s Supreme Leader, Mojtaba Khamenei, during a rally in Tehran, Iran, May 6, 2026 (credit: MAJID ASGARIPOUR/WANA (WEST ASIA NEWS AGENCY) VIA REUTERS)\nFocus on Iran's nuclear program may distract from IRGC human trafficking\nRosenberg noted that Iran was able to continue to exploit these systems as sanctions from the EU and US have primarily focused on Tehran’s nuclear proliferation, ballistic missile development, support for regional terrorism, and suppression of domestic dissent. Failing to also sanction the IRGC and the front companies it uses for human trafficking continues to provide Tehran a lifeline.\nGiven that the funds raised by human trafficking are often liquid, Rosenberg also alerted to the fact that it was hard for international systems to monitor how much wealth Iran is accumulating through these sources.\nIndividuals involved in facilitating or covering for regime-backed smuggling networks can therefore continue to travel, use regional banks, and manage front companies without fear of asset freezes or international arrest warrants.\nTo prevent Iran from continuing to profit from human trafficking, Rosenberg advised that the US Treasury Department utilize the Global Magnitsky Human Rights Accountability Act to designate IRGC border commanders, Basij recruitment officers, and complicit Iranian law enforcement officials for their roles in labor and sex trafficking.\nShe added that the European Commission must also use the Sixth Anti-Money Laundering Directive (AMLD6) to require European financial institutions to aggressively monitor illicit financial flows generated by Iranian trafficking networks.\nThe one email that makes sense of the Middle East. Iran, the Gulf, Syria, Turkey, and whatever moved that day, from The Jerusalem Post, every evening.",
+      "published": "2026-10-18T19:30:50+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
       ],
       "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 12.9,
       "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -789,26 +717,6 @@
       "assets": []
     },
     {
-      "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
-      "summary": "California officials who process ballots from suspected noncitizens risk prosecution, US warns&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-17T21:16:41+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.7,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Zelenskyy: Russia continues to attack Ukraine’s oil, gas and energy sectors - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHB1R0Rad1hFV1VuUFE1dlB0a05OclkzZHRsU190UDVSTXIzMTRmU0NQdmZhRjNuRHZHOWJ0Y2tQS3pYSEtyQUtlN0xzVmc4NTR3NVc3WkNwa0puSFIxQ3Q1VjRiUWY4Q2dodExyZWR1VmdJMjhlcWdTaVN2MF81b21lTXBRc3FqRVJTUGJFbG11d9IBlwFBVV95cUxNbUJRUUQ0eUowX05CbWZKc0pRVGh2NW9RSE10aURteV9COE1yakhMUEZxY1Z5MnYzWFRXS3hjNEdrZWhBMDAtdUI3WjJqbC1NYlU3RzE3bmRqMFh6TVBnSlNHdXZrenNJOWRDbU13S1ZLaV9jWkRWRk5zc0dGMWpXQ1Bzd19fdTFOeEQ4TWpmcmlsM05PWmU4?oc=5",
       "summary": "Zelenskyy: Russia conti",
@@ -832,11 +740,11 @@
       ]
     },
     {
-      "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NIYzJUcUZjMlBjb2oxUnFCNW81QS1GSnpZQWw3N2ZwUHB2NVNmZVdQT1l1LTB4SHRVcEptT2kxNEJiOWpBM2tCekF5STdSd3d0OE1lWEJjcUV2emJOUUdXckdHNTQzT19RX21PUFlTVXRGU2gxc3ZEaHBqNVJ1ZzBWeXNWYTZnQUpUNV9YZWl3WTJpdWNiTw?oc=5",
-      "summary": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron&nbsp;&nbsp;The Motley Fool",
-      "content": "While companies like Nvidia and  AMD may get most of the headline glory in the AI realm for their powerful processors, the reality is these companies only design some of the chips that go into data centers. The fabrication muscle in the sector lies in a handful of chip foundry businesses, with Taiwan Semiconductor Manufacturing ( TSM -2.28% ) and Micron ( MU -5.63% ) being the two largest in the world by market cap.\nBut which one makes for the better buy? Let&#x27;s dig in, as these two are very different investments.\nMicron and Taiwan Semiconductor aren&#x27;t competitors\nOn the surface, Micron and Taiwan Semiconductor are both chip foundry companies. Both take in client orders, then create their chips. However, that&#x27;s where the similarities end.\nMicron and Taiwan Semiconductor produce two entirely different types of chips; Micron designs and makes memory chips, and Taiwan Semiconductor makes logic chips designed by other companies. Both are required in accelerated computing units like GPUs, but each serves a different role.\nFurthermore, the technologies behind each one are radically different. There isn&#x27;t a ton that separates one memory chip from another. Take basic computer RAM, for example. Nobody cares a lot about which brand of RAM is in a laptop, only what capacity that RAM has. That&#x27;s because most memory chips are practically the same, although Micron is challenging that notion. It recently agreed to design an industry-first custom memory chip for Nvidia&#x27;s GPUs, which could be a different avenue to lock in better long-term contract deals.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $994.34B\nBecause one manufacturer&#x27;s memory chips are much like another&#x27;s, they are subject to commodity-like pricing. This year, demand for memory chips has steeply outpaced supply, causing prices to soar. The shortage is expected to get worse in 2027 and 2028, which would allow Micron to keep turning huge profits on its chips.\nThe logic chips that come out of Taiwan Semiconductor&#x27;s foundries are completely different. Companies like Nvidia and AMD design processors, and their various devices can deliver competitive edges on a range of criteria as the chipmakers work to improve speed, energy efficiency, transistor density, and more. Choosing a reliable chip manufacturer is a big part of this design process, and with TSMC&#x27;s massive production facilities, proven track record, and leading technology, it&#x27;s the partner that is most often selected. However, TSMC has relatively greater production capacity than the memory chip industry, and has been expanding production capacity in recent years, so it was able to mostly handle the AI demand rush.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $2.14T\nMicron holds an edge in the revenue growth department, as it&#x27;s still benefiting from the effect of soaring memory chip prices due to the shortage. However, TSMC&#x27;s growth rate isn&#x27;t bad either.\nTSM Revenue (Quarterly YoY Growth) data by YCharts.\nAnother area where Micron holds an edge is valuation. Investors today can pick up Micron shares at a much cheaper 5.3 times forward earnings compared to TSMC&#x27;s 24.\nWhy the huge price discrepancy? It all has to do with Micron operating in what has historically been a highly cyclical industry. Every time memory demand outpaces supply, the chipmakers start to build new fabs. By the time they come online, the demand waves have often slackened, supply leaps ahead, and prices tumble.\nThe market isn&#x27;t convinced that the current wave of intense memory chip demand driven by the AI infrastructure build-out will last, and it&#x27;s discounting it as a result. But Micron and others in the memory industry have said the shortage is going to get worse before it gets better. If Micron&#x27;s stock rises throughout the year due to strong demand, it could deliver incredible returns.\nTSMC is also a solid investment, and because the logic chip industry is not as cyclical (it still is, but not to the same degree), the market is not as concerned about its outlook, and therefore is not valuing the stock at a discount.\nI think this is a huge mismatch, and Micron makes for the better buy, at least when upside potential is considered. While TSMC is still a fantastic investment, the mismatch between Micron&#x27;s stock price and its earnings potential is just too much to ignore. Investors should pounce on the deal.\nTaiwan Semiconductor Just Proved Why It&#x27;s a Top AI Investment\nTSMC Is Spending up to $64 Billion This Year. Here&#x27;s Why That&#x27;s Great News for Investors.\nPrediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030\n1 Reason TSMC Stock Could Rally After Its Record Quarter\nHere&#x27;s What $10,000 Split Across SpaceX, Palantir, and 3 AI Chip Stocks Could Be Worth in 2035\nAs Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose\nKeithen Drury is a contributing Motley Fool technology analyst covering AI, semiconductors, cybersecurity, and SaaS stocks. In addition to The Motley Fool, Keithen is a mechanical engineer and has held roles at Honeywell and smaller industrial companies like Brand Hydraulics and Lincoln Industries. He holds a bachelor’s degree in mechanical engineering from Dordt University.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-18T16:44:00+00:00",
+      "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWdNdGZSeFJpNll0RnpoS0VKUzFBaHRUYWFmcE1JUE5EVGEwWVlaa2ZoNkNsN1BiRExXMHQxR01pY3ZRV0NvcDdNNm9tN1BvdjBSZ2JuelRfT252ODVDY29sR0JMTXZhVy14NDFnVXJ4ZHhnUVBwbjZXTUkzUm5nWEpZeUlvWWY2dVVscS1Xb2Vwdw?oc=5",
+      "summary": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron\nWhile companies like Nvidia and AMD may get most of the headline glory in the AI realm for their powerful processors, the reality is these companies only design some of the chips that go into data centers. The fabrication muscle in the sector lies in a handful of chip foundry businesses, with Taiwan Semiconductor Manufacturing (NYSE: TSM) and M",
+      "content": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron\nWhile companies like Nvidia and AMD may get most of the headline glory in the AI realm for their powerful processors, the reality is these companies only design some of the chips that go into data centers. The fabrication muscle in the sector lies in a handful of chip foundry businesses, with Taiwan Semiconductor Manufacturing (NYSE: TSM) and Micron (NASDAQ: MU) being the two largest in the world by market cap.\nBut which one makes for the better buy? Let's dig in, as these two are very different investments.\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\nImage source: Getty Images. Micron and Taiwan Semiconductor aren't competitors\nOn the surface, Micron and Taiwan Semiconductor are both chip foundry companies. Both take in client orders, then create their chips. However, that's where the similarities end.\nMicron and Taiwan Semiconductor produce two entirely different types of chips; Micron designs and makes memory chips, and Taiwan Semiconductor makes logic chips designed by other companies. Both are required in accelerated computing units like GPUs, but each serves a different role.\nFurthermore, the technologies behind each one are radically different. There isn't a ton that separates one memory chip from another. Take basic computer RAM, for example. Nobody cares a lot about which brand of RAM is in a laptop, only what capacity that RAM has. That's because most memory chips are practically the same, although Micron is challenging that notion. It recently agreed to design an industry-first custom memory chip for Nvidia's GPUs, which could be a different avenue to lock in better long-term contract deals.\nBecause one manufacturer's memory chips are much like another's, they are subject to commodity-like pricing. This year, demand for memory chips has steeply outpaced supply, causing prices to soar. The shortage is expected to get worse in 2027 and 2028, which would allow Micron to keep turning huge profits on its chips.\nThe logic chips that come out of Taiwan Semiconductor's foundries are completely different. Companies like Nvidia and AMD design processors, and their various devices can deliver competitive edges on a range of criteria as the chipmakers work to improve speed, energy efficiency, transistor density, and more. Choosing a reliable chip manufacturer is a big part of this design process, and with TSMC's massive production facilities, proven track record, and leading technology, it's the partner that is most often selected. However, TSMC has relatively greater production capacity than the memory chip industry, and has been expanding production capacity in recent years, so it was able to mostly handle the AI demand rush.\nMicron holds an edge in the revenue growth department, as it's still benefiting from the effect of soaring memory chip prices due to the shortage. However, TSMC's growth rate isn't bad either.\nTSM Revenue (Quarterly YoY Growth) data by YCharts.\nAnother area where Micron holds an edge is valuation. Investors today can pick up Micron shares at a much cheaper 5.3 times forward earnings compared to TSMC's 24.\nWhy the huge price discrepancy? It all has to do with Micron operating in what has historically been a highly cyclical industry. Every time memory demand outpaces supply, the chipmakers start to build new fabs. By the time they come online, the demand waves have often slackened, supply leaps ahead, and prices tumble.\nThe market isn't convinced that the current wave of intense memory chip demand driven by the AI infrastructure build-out will last, and it's discounting it as a result. But Micron and others in the memory industry have said the shortage is going to get worse before it gets better. If Micron's stock rises throughout the year due to strong demand, it could deliver incredible returns.\nTSMC is also a solid investment, and because the logic chip industry is not as cyclical (it still is, but not to the same degree), the market is not as concerned about its outlook, and therefore is not valuing the stock at a discount.\nI think this is a huge mismatch, and Micron makes for the better buy, at least when upside potential is considered. While TSMC is still a fantastic investment, the mismatch between Micron's stock price and its earnings potential is just too much to ignore. Investors should pounce on the deal.\nShould you buy stock in Taiwan Semiconductor Manufacturing right now?\nBefore you buy stock in Taiwan Semiconductor Manufacturing, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Taiwan Semiconductor Manufacturing wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $380,363 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,315,732 !*\nNow, it's worth noting Stock Advisor's total average return is 919% — a market-crushing outperformance compared to 211% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nKeithen Drury has positions in Micron Technology, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool has positions in and recommends Advanced Micro Devices, Micron Technology, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy .\nBetter AI Chip Stock: Taiwan Semiconductor vs. Micron was originally published by The Motley Fool",
+      "published": "2026-10-18T16:04:00+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -860,7 +768,7 @@
       "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
       "link": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb",
       "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’Get our breaking news email, free app or daily news podcastJordon Steele-John has accused an internal faction within the Greens of",
-      "content": "Greens senator Jordon Steele-John has released a statement addressing a letter that contained complaints about his alleged behaviour towards women. Photograph: Mick Tsikas/AAP\nGreens senator Jordon Steele-John has released a statement addressing a letter that contained complaints about his alleged behaviour towards women. Photograph: Mick Tsikas/AAP\nJordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints\nGreens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’\nGet our breaking news email , free app or daily news podcast\nJordon Steele-John has accused an internal faction within the Greens of playing “nasty political games” and the leader, David Shoebridge, of pressuring him to take leave after complaints about his conduct were made public last week.\nThe 32-year-old Greens senator released a six-page statement on Sunday night after Nine newspapers reported last week that seven former and current party members had demanded an investigation into allegations he had acted inappropriately towards women between 2017 and 2025.\nThe complaints are now subject to an independent investigation commissioned by the Western Australian Greens and have been referred to the Independent Parliamentary Standards Commission .\nSteele-John said in the statement he wanted any alleged behaviour investigated “fairly and thoroughly” but claimed an “unofficial faction” within the WA branch had released the complaint letter to the media in a bid to oust him from the Senate.\nGreens senator Jordon Steele-John takes leave amid investigation into complaints\n“It is no coincidence that the letter arrived at the leader’s office the day after we agreed on the timeline for the next preselection,” Steele-John said on Sunday.\n“It is my opinion that this is an attempt to influence forthcoming party preselections by deliberately leaking out of context or misleading information to smear potential candidates and myself.”\nSteele-John said some of the letter’s authors and signatories may have signed the letter out of “genuine commitment” to people who experienced violence but he was angry it had been politicised.\n“When processes meant to protect victims are turned into weapons in preselection contests, everyone loses. Survivors become less likely to be believed. Real complaints are treated with suspicion. And the people who did this know it,” he said.\n“That is not accountability. It is factionalism, and it has no place in the Greens.”\nThe senator said he was not on leave, contrary to Shoebridge’s comments last week, and that he had been pressured by the leader to request leave on Thursday as Nine’s story was breaking.\n“I feel that he used those meetings to repeatedly pressure me to say that I would take leave,” Steele-John said.\nThe senator said “survivors of family violence are entitled to make decisions about their own lives and the Greens have always said so”.\n“It was a bad call from David. We’ve all made those in politics. So, to be clear, I am not on leave and did not agree to the inclusion of that line within David’s statement.”\nShoebridge said on Thursday that Steele-John had requested leave from the party room “and I have accepted it”.\n“Senator Steele-John has indicated to me that he’s on leave, and that leave means leave,” the Greens leader said on Friday.\nGuardian Australia contacted Shoebridge’s office for comment on Sunday night.\nSteele-John said the letter of complaint to Shoebridge referred to three matters but it did not set out any allegations in detail.\nAddressing a disparaging nickname – “feels on wheels” – the senator said he believed it originated because he was emotional during speeches early in his career regarding the disability royal commission. The nickname, however, had taken on a new meaning in recent time, he said in Sunday’s statement.\n“Over the years, this nickname would periodically resurface like strategic clockwork, growing in lore each time.\n“Eventually, I was informed that this phrase, which mocked my disability and my emotions, had taken on a new, more sinister meaning: that I had treated women inappropriately.”\nSteele-John said another matter contained in the letter related to alleged sexual harassment at a Greens campaign party in 2024; however, the authors did not outline specific allegations.\nThe senator said the final matter related to alleged “serious sexual misconduct”.\nAn investigation into alleged sexual assault was ultimately closed by the Western Australian police with a finding of no charges, he said. Comment was sought from WA police.\n“It took people close to me to make me realise that I was experiencing domestic violence,” Steele-John said in Sunday’s statement.\nNine last week reported on the existence of a 47-page “secret dossier”, first drafted in 2016 , which the newspaper said contained allegations against Steele-John and how the party should respond if they were to come to light.\nSteele-John said on Sunday he had an “interpersonal conflict” between himself and two friends in 2016 before he was preselected. The senator alleged the unofficial faction had attempted to shop the “half-heard rumours” of the conflict to journalists in 2017 as part of a “smear campaign”.\nAs a result, Steele-John said, the document was created so the party office and staff had “the same accurate information to give anyone who had heard the rumours and was concerned”.",
+      "content": "Greens senator Jordon Steele-John has released a statement addressing a letter that contained complaints about his alleged behaviour towards women. Photograph: Mick Tsikas/AAP\nGreens senator Jordon Steele-John has released a statement addressing a letter that contained complaints about his alleged behaviour towards women. Photograph: Mick Tsikas/AAP\nJordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints\nGreens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’\nGet our breaking news email , free app or daily news podcast\nJordon Steele-John has accused an internal faction within the Greens of playing “nasty political games” and the leader, David Shoebridge, of pressuring him to take leave after complaints about his conduct were made public last week.\nThe 32-year-old Greens senator released a six-page statement on Sunday night after Nine newspapers reported last week that seven party members had demanded an investigation into allegations he had acted inappropriately towards women between 2017 and 2025.\nThe complaints are now subject to an independent investigation commissioned by the Western Australian Greens and have been referred to the Independent Parliamentary Standards Commission .\nSteele-John said in the statement he wanted any alleged behaviour investigated “fairly and thoroughly” but claimed an “unofficial faction” within the WA branch had released the complaint letter to the media in a bid to oust him from the Senate.\nGreens senator Jordon Steele-John takes leave amid investigation into complaints\n“It is no coincidence that the letter arrived at the leader’s office the day after we agreed on the timeline for the next preselection,” Steele-John said on Sunday.\n“It is my opinion that this is an attempt to influence forthcoming party preselections by deliberately leaking out of context or misleading information to smear potential candidates and myself.”\nSteele-John said some of the letter’s authors and signatories may have signed the letter out of “genuine commitment” to people who experienced violence but he was angry it had been politicised.\n“When processes meant to protect victims are turned into weapons in preselection contests, everyone loses. Survivors become less likely to be believed. Real complaints are treated with suspicion. And the people who did this know it,” he said.\n“That is not accountability. It is factionalism, and it has no place in the Greens.”\nThe senator said he was not on leave, contrary to Shoebridge’s comments last week, and that he had been pressured by the leader to request leave on Thursday as Nine’s story was breaking.\n“I feel that he used those meetings to repeatedly pressure me to say that I would take leave,” Steele-John said.\nThe senator said “survivors of family violence are entitled to make decisions about their own lives and the Greens have always said so”.\n“It was a bad call from David. We’ve all made those in politics. So, to be clear, I am not on leave and did not agree to the inclusion of that line within David’s statement.”\nShoebridge said on Thursday that Steele-John had requested leave from the party room “and I have accepted it”.\n“Senator Steele-John has indicated to me that he’s on leave, and that leave means leave,” the Greens leader said on Friday.\nGuardian Australia contacted Shoebridge’s office for comment on Sunday night.\nSteele-John said the letter of complaint to Shoebridge referred to three matters but it did not set out any allegations in detail.\nAddressing a disparaging nickname – “feels on wheels” – the senator said he believed it originated because he was emotional during speeches early in his career regarding the disability royal commission. The nickname, however, had taken on a new meaning in recent time, he said in Sunday’s statement.\n“Over the years, this nickname would periodically resurface like strategic clockwork, growing in lore each time.\n“Eventually, I was informed that this phrase, which mocked my disability and my emotions, had taken on a new, more sinister meaning: that I had treated women inappropriately.”\nSteele-John said another matter contained in the letter related to alleged sexual harassment at a Greens campaign party in 2024; however, the authors did not outline specific allegations.\nThe senator said the final matter related to alleged “serious sexual misconduct”.\nAn investigation into alleged sexual assault was ultimately closed by the Western Australian police with a finding of no charges, he said. Comment was sought from WA police.\n“It took people close to me to make me realise that I was experiencing domestic violence,” Steele-John said in Sunday’s statement.\nNine last week reported on the existence of a 47-page “secret dossier”, first drafted in 2016 , which the newspaper said contained allegations against Steele-John and how the party should respond if they were to come to light.\nSteele-John said on Sunday he had an “interpersonal conflict” between himself and two friends in 2016 before he was preselected. The senator alleged the unofficial faction had attempted to shop the “half-heard rumours” of the conflict to journalists in 2017 as part of a “smear campaign”.\nAs a result, Steele-John said, the document was created so the party office and staff had “the same accurate information to give anyone who had heard the rumours and was concerned”.",
       "published": "2026-10-18T09:51:48+00:00",
       "source": "Guardian World",
       "sources": [
@@ -877,31 +785,11 @@
       "assets": []
     },
     {
-      "title": "France counts the cost of worst unrest in years as tensions flare again in Paris - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-      "summary": "France counts the cost of worst unrest in years as tensions flare again in Paris&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T17:11:49+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5",
       "summary": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-18T12:45:09+00:00",
+      "published": "2026-10-18T20:57:43+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -957,26 +845,6 @@
       "assets": []
     },
     {
-      "title": "Lebanon says military delegation will press for halt to Israeli attacks at US talks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVBXRnY2dGJybHo5d2JiMTlEbnE2SGNfX3FBbVIyazh3dFFPWjB6eWpQaTZwZGwxT3dKQTRfVHlTQ0hZaGJfWmZtOFZYSERiV1Q1QWNTeWdDcWpSMkdtci0zOHBvelNXYW9XaFB0ZHRadFN5Sy1Vb25PNU8yeXV5Q01IdEZIX1o2TEpXNS15ZDcxX0MxQ1JJeEJZQ3laeGpvZURhYVpkajZrTmcwQzZzLW9EUnhaOUlaRmd5WGxaVEhpdElCQVE?oc=5",
-      "summary": "Lebanon says military delegation will press for halt to Israeli attacks at US talks&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-17T20:31:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
       "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
       "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
@@ -993,6 +861,27 @@
       "score": 12.4,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
+      "summary": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-18T14:31:31+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -1018,36 +907,15 @@
       "assets": []
     },
     {
-      "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
-      "summary": "Pope Leo pledges gradual return to duties in first event since cancer surgery&nbsp;&nbsp;Reuters",
+      "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
+      "summary": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-18T14:09:12+00:00",
+      "published": "2026-10-17T23:49:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "content": "Image caption, The St Petersburg Oil Terminal was among targets hit in the city overnight\nAt least one person has been killed in an overnight attack on St Petersburg that successfully targeted two of the city&#x27;s oil facilities.\nThe region&#x27;s Governor Alexander Beglov said fires were being extinguished at the St Petersburg Oil Terminal and the Ruchyi oil depot following the attack, which also injured at least five.\nA logistics centre belonging to Ozon - known as Russia&#x27;s Amazon - and a data centre belonging to Facebook equivalent VKontakte were also hit.\nKyiv has not yet commented on the strikes. Ukrainian President Volodymyr Zelensky said on Saturday morning that Russia had targeted his country&#x27;s energy sector 76 times since Donald Trump declared an \"energy ceasefire\" last week.\nUkraine had paused its strikes on Russian oil facilities - which it says are to limit the main revenue stream for Moscow&#x27;s war effort - for three days after the announcement, while accusing Russia of continuing.\nIt then resumed strikes earlier this week, drawing the ire of Trump, who called for a truce to facilitate a deal he struck with his Russian counterpart Vladimir Putin to supply diesel.\nUkraine has struck St Petersburg before, though regions closer to Ukraine are threatened more often. The city&#x27;s oil terminal was last hit in July .\nRussia&#x27;s defence ministry said it had shot down more than 1,000 Ukrainian drones over Russian territory overnight into Sunday.\nSt Petersburg&#x27;s governor said 12 apartment buildings and two homes were damaged in the attacks on the city, while Pulkovo Airport was temporarily closed.\nHe also said mobile internet service disruption was possible.\nSocial network VK confirmed a drone had targeted its regional data centre, but stressed its services were available \"as usual\" after users reported outages in the early hours of the morning.\nOzon also confirmed its local logistics centre had been targeted by a drone, sparking a fire.\nIt said staff were evacuated and no one was injured, and that it was not accepting shipments from sellers at the location \"as it is currently serving other operational purposes\".\nAs well as numerous oil facilities across Russia, Ukraine has also mounted strikes aimed at disrupting the Russian economy more broadly. Earlier this month, it launched a series of attacks on Yandex, Russia&#x27;s largest search engine, that led to service disruptions.\nRelations between Washington and Kyiv have frayed since the US struck a controversial deal to import Russian diesel in the hope of bringing down US energy prices, which have skyrocketed during the Iran war, ahead of the midterm elections.\nZelensky suggested the deal was tantamount to the US investing in Russia&#x27;s war effort.\nTrump&#x27;s decision to temporarily suspend a raft of sanctions against Russia has brought fresh criticism , including from some US Republicans.\nHowever, on Sunday, Zelensky said on Telegram he had had conversations with Trump&#x27;s top negotiators Steve Witkoff and Jared Kushner.\nHe said their teams are in constant communication and preparing the next diplomatic steps.\nBoth Russia and Ukraine have been striking one another&#x27;s energy infrastructure with increasing intensity ahead of the winter, as Moscow&#x27;s full-scale invasion drags on in its fifth year.\nRussia says it hits targets used by Ukraine&#x27;s military, though the UN noted on Friday that the first two weeks of October had been the deadliest for Ukrainian civilians in years.\nRussian strikes on energy facilities have left hundreds of thousands without power, raising concerns about civilians enduring another freezing winter.\nZelensky said on Saturday that tens of thousands of people were still without power. Russia launched nearly 2,700 drones, 1,700 aerial bombs and 66 missiles in the past week, most of which were aimed at energy facilities, he said.\nRussia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume\nUkraine hits major oil terminal in Russia&#x27;s St Petersburg\nUkrainian drones hit St Petersburg as Putin&#x27;s flagship economic forum opens",
-      "published": "2026-10-18T15:46:10+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "GN Geopolitics"
+        "Guardian World"
       ],
       "source_count": 2,
       "category": "geopolitics",
@@ -1056,11 +924,8 @@
       "score": 12.4,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Gleaning group gives £1m of produce to food banks",
@@ -1077,26 +942,6 @@
       "category_zh": "地缘政治",
       "stars": 3,
       "score": 12.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Benjamin Netanyahu accuses Russia of aiding Iran, acting against Israeli interests - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pNHhDcnZ6N0s5UzI0LXpaYjBaRTFqMUJ0SXFqbFNUZ3lXTG1mb2pYUzhXQWZONDZtWTFwRTAyeG9jUTdVQzNDZVpZSDhZdjJTYmlGSFB2RnFwVlNuQU5N?oc=5",
-      "summary": "Benjamin Netanyahu accuses Russia of aiding Iran, acting against Israeli interests&nbsp;&nbsp;The Jerusalem Post",
-      "content": "Netanyahu: Russia aiding Iran&#x27;s antisemitic bot networks, acting against Israeli interests\nThe prime minister criticized Russia&#x27;s ties with Tehran and antisemitic online campaigns targeting Israel, warning that Iran could eventually seek to destabilize Russia itself.\nPrime Minister Benjamin Netanyahu seen during a presentation of Israel’s national security doctrine, in Jerusalem, October 18, 2026\nPrime Minister Benjamin Netanyahu said that Israel’s and Russia’s interests have clashed several times recently, and that Moscow has also taken steps against Israel , during a Sunday presentation of Israel’s national security doctrine.\n“ Russia’s cooperation with Iran is something that runs counter to its interests, as does the existence of bot networks conducting a campaign against the State of Israel with the most blatant antisemitism imaginable,” Netanyahu said in response to a question from The Jerusalem Post . “We raise all these issues with them, and we do so very clearly,” the prime minister added.\nNetanyahu said that he and Russian President Vladimir Putin “speak when necessary.”\n“Russia has its own interests, and the State of Israel has its interests, and they do not always overlap. Sometimes they even clash,” Netanyahu said. “That is why I always try to pursue our shared interests to the fullest extent possible. If that is not possible, you stand by your own interests and fight to defend them.”\nThe prime minister also stressed that Russia understands that there are shared interests that could be jeopardized, for example, if an Islamist Iran were to become a nuclear power.\nPrime Minister Benjamin Netanyahu seen during a presentation of Israel’s national security doctrine, in Jerusalem, October 18, 2026 (credit: MA&#x27;AYAN TOAF/GPO)\n“My assessment, and I do not want to speak on behalf of others, is that, given the Muslim population within Russia itself, Iran would also seek to turn elements within that population into its agents.\n\"This is because Iran holds extreme ideological views concerning the conquest of the world, the subjugation of all Muslims to its doctrine, and the imposition of that doctrine on all nonbelievers,” Netanyahu said.\nRussia's growing military cooperation with Iran emerging as significant concern for Israel\nRussia’s growing military cooperation with Iran has emerged as a significant concern for Israel, particularly amid reports that Moscow is helping Tehran strengthen its military capabilities , improve its drone and missile technology, and obtain intelligence that could support attacks against American and allied forces in the Middle East.\nThe Institute for the Study of War (ISW) published a report saying Russia has continued providing Iran with military equipment and components. A report published in August, citing a European government document and a Western official, said that Russian shipments to Iran via the Caspian Sea included drone components, ammunition and explosives.\nAs of July, more than two dozen Russian vessels reportedly transported cargo to Iran’s Amirabad port.\nA Reuters investigation reported in July that US intelligence officials were examining whether Russia had provided Iran with targeting information or technology that improved the accuracy and resistance to jamming of Iranian Shahed drones.\nRussian President Vladimir Putin speaks with Iranian President Masoud Pezeshkian during a meeting in Turkmenbashi, Turkmenistan, October 8, 2026; illustrative. (credit: SPUTNIK/GAVRIIL GRIGOROV/POOL VIA REUTERS)\nRussia has spent years producing and upgrading Iranian-designed Shahed drones for use in its war against Ukraine.\nDuring the almost five years of war in Ukraine, Russian engineers have gained extensive experience in improving their performance and adapting them to evade air defenses.\nUkrainian President Zelensky and other Officials have warned that technological improvements developed during the Ukraine war could now benefit Iran, potentially making its drones more difficult to intercept.",
-      "published": "2026-10-18T14:59:45+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.1,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
@@ -1124,6 +969,26 @@
         "科技股",
         "半导体"
       ]
+    },
+    {
+      "title": "Stock market week ahead: Tesla averaged a 7.8% earnings move - Opening Bell Daily",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMThQOUZaT2NpNjBtS0ZEV3h2ZExwVUJNcC1kQXh0cHBLdzZQSDBqMFYwTUhaNUJ5aGpPenNtb053eFRVYmxrZHM2Q21RM0FHUVBqekJ5V3ZuTlJzY0VTcDlNeEMyazlJd3BvYWttUjZndGtaeEtFYVEzd0h0OU9INEotY28yQVk?oc=5",
+      "summary": "Stock market week ahead: Tesla averaged a 7.8% earnings move&nbsp;&nbsp;Opening Bell Daily",
+      "content": "Stock market week ahead: Tesla averaged a 7.8% earnings move\nTesla stock has swung 7.8% on average after its last 8 reports\nTesla stock has swung 7.8% on average after its last 8 reports\nTesla reports Wednesday after the close. Its last 8 post-earnings moves averaged 7.8% either way, from a 21.9% jump to a 14.5% drop.\nTesla stock moved an average of 7.8% in either direction the trading day after each of its last 8 earnings reports.\nThe biggest jump was 21.9% after its October 2024 report.\nThe biggest drop was 14.5% after its July 2026 report.\nTesla moved more than 2% in either direction after each of its last 8 reports.\nGet charts like this every morning. Join 200K+ investors on our free morning briefing . Get high-conviction stock ideas in your inbox. Upgrade to Best Ideas Club .\nPhil Rosen is co-founder and CEO of Opening Bell Media and chief market strategist for Silvia Inc. (NASDAQ: SVIA). He hosts Full Signal and writes Opening Bell Daily — the markets briefing read by over 200,000 investors and published on Bloomberg Terminals — and has also published two books and won a Fulbright award for his reporting. Contact him at [email&#160;protected] .\nHigh-conviction stock picks every week and a members-only research portal.\nThe industry-leading data newsletter documenting the story of the stock market for serious investors. Also on Bloomberg Terminals.",
+      "published": "2026-10-18T11:47:48+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.1,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Here are the 3 big things we're watching in the stock market this week",
@@ -1172,14 +1037,14 @@
       ]
     },
     {
-      "title": "France’s Macron vows to hold accountable those who ‘sought to bring down the Republic’ - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHU2Y3QzdlRfOERXUU8tdkVReVV5clJIYkZNNk1USGh5R2Zmci05YUZqTHpVUDhqZ0NIMURCTTN3SWFLNUY5bmdfdDhfcmJVQWFpZkpRd3FoVEtva0pSRTljX25iYlRLUmxUV2d4c3dhN0dMZFJiaURLRnFsT3poeE5KOHdyZGRJTUdubkVaYno0alVYMzJz?oc=5",
-      "summary": "France’s Macron vows to hold accountable those who ‘sought to bring down the Republic’&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-18T18:36:00+00:00",
-      "source": "AP World",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "content": "Figure caption, Watch: James Waterhouse speaks to looted shop owners on the streets of Paris\nFrench President Emmanuel Macron has called for \"calm and order\" after a major day of protests turned into rioting and looting on Saturday, and as some disorder continued in Paris on Sunday.\nIn a national address from the ÃlysÃ©e Palace, he warned those who had taken part not to \"escalate\", adding: \"We all feel anger and shame.\"\nSome 550,000 demonstrators took to the streets for largely peaceful protests against rising fuel prices, the cost of living and deteriorating public services, including schools.\nMacron said a distinction must be drawn between the \"legitimate demands\" of protesters and \"those who destroyed, smashed and looted\".\nPolice have arrested about 2,400 people, according to France&#x27;s interior ministry.\nThe French president said \"nothing justifies\" the \"unbridled\" violence seen and said those involved would face justice.\nGroups of rioters, some dressed in black and wearing masks and balaclavas, also came out in Paris, Marseille and other towns and cities, with some setting fire to cars and buildings.\nImage caption, Local officials said the Limoges town hall was \"largely lost\" after fire caused part of the building to collapse\nOn Sunday, looting and clashes with police continued on a smaller scale in parts of the capital and Lyon.\nTear gas and stun grenades were fired at hundreds of people in Paris, according to the AFP news agency, and bottles and rocks were again hurled at police.\nSunday saw cities across the country confront the impact of what developed into one of the worst bouts of disorder in modern French history.\nIn Limoges, the ornate 19th Century city hall was gutted by a fire started by rioters on Saturday, its clock tower and roof collapsing and the flames took hold.\nImage caption, A view of the damage inside Limoges town hall on Sunday morning\nSpeaking near the ruined building, AnnÃ¨yse said: \"This is very upsetting. Harming heritage buildings just because you are angry at the government is selfish, I think. It&#x27;s hurting everybody.\"\n\"It&#x27;s awful and unbelievable,\" said another man who gave his name as Gerrard. \"We are very sad and I think it will be a long time to put it back as it was before.\"\nShopkeepers were seen early on Sunday morning picking up large shards of glass in Paris as rubbish trucks cleared up debris on some of the larger streets.\nImage caption, Fires were lit and shops looted during smaller scale disorder in Paris on Sunday\nWidespread looting took place across the cities of Paris, Marseille and Lille, as well as other areas.\nMacron said local prefects and mayors would draft measures to protect shops and civic buildings.\nThe president also said there would be \"full transparency\" over the police response to the demonstrations.\nTear gas and water cannon were turned on crowds over the weekend and riot police were seen hitting people with batons in several places.\nFrance&#x27;s interior ministry said about 1,000 police officers were injured on Saturday, seven of them seriously.\nImage caption, A man tries to extinguish a fire in Paris on Sunday\nStudent protests which began last month escalated significant on Saturday after they were joined by trade union members and other anti-government groups.\nThe response from political figures has pointed to France&#x27;s deep political divisions as the country prepares for an election in April which could see the hard-right pitted against the hard-left.\nFrance&#x27;s Interior Minister Laurent NuÃ±ez said that while demonstrating was a fundamental right, there were \"outrages\" committed by \"several thousand far-left individuals\" who were determined to target public buildings and confront the police.\nLater, they were joined by \"delinquents who looted and ransacked numerous businesses in several cities in France\", he said.\nJean-Luc MÃ©lenchon - leader of the hard-left La France Insoumise party - heavily criticised NuÃ±ez and police chiefs on social media.\nHe said they had \"shown complete incompetence\" with their handling of the demonstrations and called them \"specialists in organised chaos\".\nMeanwhile, the leader of the hard-right National Rally party, Marine Le Pen, condemned the \"exploitation\" of anger \"by political forces that encourage violence\".\nBurnt out cars and shattered glass on Paris streets after protests turn to riots and looting\nViolent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests\nAre student protests being manipulated ahead of France&#x27;s presidential election?",
+      "published": "2026-10-18T20:33:21+00:00",
+      "source": "BBC World",
       "sources": [
-        "AP World"
+        "BBC World"
       ],
       "source_count": 1,
       "category": "europe",
@@ -1192,56 +1057,15 @@
       "assets": []
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "content": "By Soram Cheon ,Â  BBC Korean Â  and Â  Aghnia Adzkia ,Â  East Asia Visual Journalism\nAn 80m (263ft) luxury vessel has been repeatedly spotted in satellite images off North Korea&#x27;s Wonsan coast from July to mid-October this year.\nWhat stands out is the 50m swimming pool along the deck, with a cluster of waterslides at one end.\nAfter sitting idle for months at a maintenance facility, it relocated in early July to waters off a strip of coastline known as the Kalma Peninsula.\nThis is close to Wonsan, a seaside resort with a sprawling villa used by North Korean leader Kim Jong Un and his family.\nIt was not the only large vessel on the move. A handful of others were also repeatedly seen near Kim&#x27;s villa, in satellite images analysed by the BBC.\nThe vessels are widely believed to be used by Kim and his family. Former North Korean officials, defectors and experts say it would be difficult for anyone unconnected to the regime&#x27;s leadership to own or freely use vessels of this size.\n\"In winter, they would keep them at the shipyard. When summer came, they would bring them out and move them to Kim Jong Un&#x27;s villa or towards Kalma, and use them for swimming and recreation,\" says Ri Jong Ho.\nRi was once an official at the Workers&#x27; Party&#x27;s Office 39, which is believed to be involved in raising and managing foreign currency for the leadership.\nThe wealth of those who sit at the top of the secretive North Korean dictatorship is just as hard to pin down as the country&#x27;s economic figures.\nThe United Nations and others rely on estimates to classify North Korea as one of the world&#x27;s poorest countries, with an especially large military budget that funds a sanctioned nuclear programme.\nMost North Koreans, according to a 2025 UN report, live under \"systematic, widespread and gross human rights violations\" with total state control, widespread forced labour and chronic food shortages that leave an estimated 40% of the population undernourished.\nBut the regime has long been known to live in luxury.\nWe don&#x27;t know the cost of the vessels seen in the satellite imagery, but comparable luxury yachts run from tens of millions to over $100m (Â£75m). Kim&#x27;s much smaller, 29-metre Princess yacht was previously estimated to be worth about $7m.\nWhile vessel locations alone cannot definitively establish the family&#x27;s whereabouts, their movements - which overlap with gaps in Kim&#x27;s public appearances - point to activities that would otherwise remain out of public view.\nWonsan is where Kim Jong Un spent part of his childhood with his mother, according to biographers and intelligence reports, and one expert told the BBC the city has been associated with the family since his father Kim Jong Il&#x27;s rule.\nA defector who served for 13 years guarding residences used by then leader Kim Jong Il - through the 1990s to the early 2000s - told the BBC the villas around Wonsan were used as a retreat by the elite. He recalls seeing dozens of children and teens waterskiing during summer.\nNorth Korean state media rarely publishes reports about Kim being on holiday, instead framing such visits as official inspections or guidance. But defectors interviewed by the BBC appeared to be aware that the family spent holidays in Wonsan, suggesting that at least some North Koreans knew about it.\nNorth Korean state media also claims Wonsan is home to high-rise hotels, restaurants, shops, sports facilities and water parks, and can accommodate nearly 20,000 visitors.\nState media and Russian outlets have published images of small groups of Russian tourists visiting the Wonsan Kalma resort, which opened in July 2025. Although developed to attract foreign visitors, the resort is also open to local tourists.\nImage caption, North Korean tourists on a beach in Kalma\nA South Korean news report, citing an unnamed source, says some locals were offered four-night tour packages for around $100, a substantial sum for most North Koreans. The country&#x27;s per capita GDP - around $667 in 2024, according to the UN - is a small fraction of South Korea&#x27;s $36,227.\nFor the majority of North Koreans, holidays are out of reach. And while a growing middle class does exist, they might not have much time for leisure.\nDefectors told the BBC that workers, office employees and cooperative farmers are legally entitled to 14 days of annual leave, but this is rarely followed.\nTaking consecutive days off to travel is unusual. People typically take weekend trips or travel during national holidays instead of designated \"summer holidays\".\nEven if leave is granted, travel itself is restricted, with official permission required for people to travel outside their city or county. Moving freely is sometimes as much a luxury as the holiday itself.\nImage caption, Ordinary North Koreans struggle to earn a decent living\nThe BBC tracked four large vessels around Wonsan, measuring approximately 50m, 55m, 60m and 80m. All four vessels repeatedly appeared around Kim&#x27;s Wonsan villa this year.\nThe largest vessel showed the clearest activity, moving from the dock to the waters off the Kalma Peninsula, where it has been since July.\nTwo of the other vessels - 50m and 55m - were repeatedly seen until the end of August around Tae and Sin islands, close to Wonsan.\nSatellite images also showed four smaller boats alongside the 50m vessel.\nImage caption, The 50m vessel was seen in waters near Tae island on 4 July 2026.\nSatellite imagery expert Jeong Seong-hak said the smaller boats ferried people, fuel and supplies to the larger vessel, adding that small islands like Tae and Sin offered \"secluded maritime retreats where privacy can be maintained away from public view\".\nThe 60m vessel was repeatedly seen near Kim&#x27;s Wonsan villa until as recently as last week.\nThough North Korea has never publicly disclosed the vessels&#x27; official ownership, BBC&#x27;s analysis of historical satellite imagery found a large vessel with the same distinctive characteristics in Wonsan in 2002, when Kim Jong Il ruled North Korea.\nFormer NBA star Dennis Rodman, who visited the North in 2013, told the Sun that he had spent much of his seven-day visit with Kim Jong Un around Wonsan, where they went jet-skiing and horse riding.\nHe also described a 60m vessel they used as a cross between a ferry and a Disney boat. It is unclear if this is the same 60m boat pictured in the above satellite imagery.\nTo most North Koreans, the life lived by the Kims and others who support the regime would seem not just extravagant but unimaginable. Especially because state propaganda is dedicated to presenting the \"supreme leader\" as a selfless man who always puts the nation first.\n\"Kim Jong Un is supposed to be a &#x27;leader of the people&#x27;,\" Ri Jong Ho says, \"yet he has four luxury vessels like these while ordinary people are struggling just to get one meal a day.\"\nWhy Kim Jong Un never talks about his mother - or her controversial bloodline\nKim Jong Un was meant to be their only idol - then North Koreans discovered K-pop\nCould Kim&#x27;s teen daughter become North Korea&#x27;s next leader?",
-      "published": "2026-10-17T22:09:50+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
-      "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools&nbsp;&nbsp;AP News",
+      "title": "Analysis: For Trump, results have often revealed the art of no deal - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTBJSzVrNXJCbFlqdll6ZDhGakxQaVZJWVFoQmYwaXpTTXZMQWI4X252VHZkbGt5amxQMGEwdDNZY1M4YXZrY1dKNERRNE90aEI1ZGtyalpPUmk5YVNua2xDRHd3aFB1TEFQZ19zeVJPTmFEX0lpcGVBVk9DdUhaQUdGT1ZoVWxEYnRUOGhIeFhXNk9FNi1KSWlOcVFuS1d2XzRHVXNVWXVtc3VfM0R3emhn?oc=5",
+      "summary": "Analysis: For Trump, results have often revealed the art of no deal&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-18T07:07:00+00:00",
+      "published": "2026-10-18T11:57:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHB4YWgwWHRUS2RUWDd2V0hFVXF3dGVuRk5xRmR4MUtaVHVGaVhoWUVLZ2lIUGFjbkY1Zm5raXQzekI5QWZ1UUhEZ3QxV29QX3dtSDhmeDM4QmJMTzNDOGpucDFsZUMwRm9idGdFSW45NEUzb1BPSXpEWUZwanlFZzFRaWpwMl9WQmtMR2kxUlMzVkU?oc=5",
-      "summary": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-17T21:54:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Top"
+        "Al Jazeera"
       ],
       "source_count": 2,
       "category": "us",
@@ -1292,6 +1116,171 @@
       "score": 11.9,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5",
+      "summary": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-18T17:10:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 2,
+      "score": 11.9,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Japan to launch spacecraft on a mission to get samples from a Martian moon - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0JWSWU4S3JaTElScFlOdnhEZml0TkVISkFVWURZaS02TzR3eGNhMG5QbGI2UUVVSmx3ajBCZXpFNVJNSVQ5eHliRGVmOU9VRjZ0V2l6R1JqVC1xSjVINTBpajhLejg0bUQ2Mkx0dERJTFdzd0pLVGdaSGJ3RUU1MGVBeVo5ellXVXJndGdnYlNoUmczcnpHdVcyVnJXa01lQUk0NEVn?oc=5",
+      "summary": "Japan to launch spacecraft on a mission to get samples from a Martian moon&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-18T12:37:10+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "asia",
+      "category_zh": "亚洲",
+      "stars": 2,
+      "score": 11.9,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028 - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHM2bUxWN1RkMHBLVC0yc3VtNE1WV1dGSDlvUy1oQXhXZmhCYm82Q0ZrXzdWOUNkemtuLUxTSmVQOE0weVBZTU4zYjhGN29FUWYwa0NyTlJCNENVR1ZMX0NmVnJyZi1uR3pPal9DalVpSXhwcFFMXzBIMW9zQ1ktNlFEUW5YMHZocUVVcFoxYUo2blpVaE1PS3JjaDFkLWgyT0VyQUY4YU13RWJoUFpNQjVaaTd5Rllo?oc=5",
+      "summary": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028&nbsp;&nbsp;WSJ",
+      "content": "",
+      "published": "2026-10-18T17:00:00+00:00",
+      "source": "GN Top",
+      "sources": [
+        "GN Top"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 2,
+      "score": 11.8,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+      "link": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+      "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
+      "content": "'Life is absolutely brutal in Gaza,' says World Food Programme head The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.\n'Life is absolutely brutal in Gaza,' says World Food Programme head\n'Life is absolutely brutal in Gaza,' says World Food Programme head\n< iframe src=\"https://www.npr.org/player/embed/nx-s1-6001709/nx-s1-9968646\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">\nThe UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+      "published": "2026-10-18T21:00:08+00:00",
+      "source": "NPR World",
+      "sources": [
+        "NPR World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 2,
+      "score": 11.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkJ2LXpMXzV0dEQ2b1NYcm9XT1FZMTUyZUlVQlZaZ2RYNFhvVFlnVFRJM1RJTU5CNzlDNVdKTmtzX2E0S0xvV2h6UEpOWFJtUlNGczZxeGR4a2NYQlU5NktIN0JQbE54SlRaS3QzRVVvWUdSRGpqWmNYWXlQSWtMbkM2R3lnRWtERTVLcTNadXMwbGxVQm9GXzVLRmVpZDY1OFFDVmI1ZlM3cGVZ?oc=5",
+      "summary": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-18T13:51:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 2,
+      "score": 11.7,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3N2LU9kN0V2VjVuckZHNkgzU2Z1QVN0TFY3OERhay1lWGx4SmtlYzFRNU5GSFpuVUl4YWptSS1ncGtjSVRQcllZU1FudmVqdkYzOTJ1c0wxVzFJa0tZeER4c0ctQ0F1MVRJWlc3aXh3VFlUZHM1MGR2YXo1bWR4ZzE4R0dPYWphbXZwNnhsZks4Nm1lckhaamRIc3JYd3FaUlNJMFlraFRTdVZid2VDZWVONlBBYWtYN2ZYYWQ2TFY?oc=5",
+      "summary": "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy&nbsp;&nbsp;Fortune",
+      "content": "Susan Dell is the one running the Dells’ $10 billion giving operation—and her biggest bets are on kids, health care, and UT Austin\nAlberta has the world’s fourth-largest oil reserves and sends 90% of its crude exports to the U.S. — It will vote on a first step to leaving Canada\nMelinda French Gates has a 48-hour rule for criticizing employees. The billionaire philanthropist says it’s because ‘being clear is kind’\nSusan Dell is the one running the Dells’ $10 billion giving operation—and her biggest bets are on kids, health care, and UT Austin\nAlberta has the world’s fourth-largest oil reserves and sends 90% of its crude exports to the U.S. — It will vote on a first step to leaving Canada\nMelinda French Gates has a 48-hour rule for criticizing employees. The billionaire philanthropist says it’s because ‘being clear is kind’\nIran is running out of money and can’t even pay its troops as U.S. blockade chokes the economy, Central Command says, while domestic unrest grows\nA U.S. Sailor signals aircraft on the flight deck aboard Nimitz-class aircraft carrier USS George Washington (CVN 73), Oct. 14, 2026. U.S. Navy\nU.S. economic warfare against Iran is hitting the regime’s sources of power as troops go without pay—just as they are needed to quell growing unrest in southeastern provinces.\nIn a video message posted on Friday, U.S. Central Command chief Adm. Brad Cooper said the naval blockade has prevented Iran from exporting at least $25 billion worth of crude oil. The U.S. and its partners have also frozen nearly $350 million cryptocurrency assets, he added.\nThe effects have rippled throughout Iran’s economy, forcing the regime to withhold salaries, pensions, and benefits to workers in the energy, manufacturing, construction and security sectors, including the Islamic Revolutionary Guard Corps, Cooper said.\n“The financial strain on Iran’s military has become so significant that there are reports of Iran-aligned militia groups across the region withholding payments to their soldiers in order to funnel money back to the IRGC, which also is not paying its troops,” he explained. “The Islamic regime is clearly feeling the economic pain, and the IRGC is increasingly showing signs of greater desperation as a result.”\nCooper pointed to the resurgence in Iranian attacks on commercial shipping in the Persian Gulf in recent weeks. Still, the flow of oil remains near prewar levels, as Iran’s neighbors export their crude under the protection of the U.S. military.\nIran’s economic collapse is so severe that even Supreme Leader Mojtaba Khamenei has expressed concern . Earlier this month, state media said Mohsen Rezaei, Iran’s top security official, admitted that the situation is one of the most difficult periods the country has ever faced.\nMeanwhile, Iran currency is in free fall as oil revenue dries up, with the trickle of sales from crude that was already at sea prior to the U.S. reimposing its blockade now running out.\nPayments for those final oil deliveries, which primarily end up in China, could stretch out to December. Once that spigot runs dry, however, the Iranian regime will be deprived of what was previously its top source of hard currency.\nOil sales typically make up about a third of Iran’s state budget and are also key sources of funding for the IRGC. Central Command’s update Friday tracks with earlier signs the Iranian regime is suffering a cash crunch.\nLocal media have reported that retired government employees staged protests in recent weeks because they didn’t receive their full pensions, according to the New York Times . Workers in the public and private sector have also announced on social media that they are quitting due to insufficient pay.\nThat’s as inflation is now near 90% and accelerating each month, eroding the salaries that Iranians earn and forcing consumers to pay for everyday essentials like groceries with installment plans.\nLanding Craft, Air Cushion 52, assigned to Assault Craft Unit 5, departs the well of San Antonio-class amphibious transport dock ship USS Portland (LPD 27), during launch and recovery operations, Oct. 9, 2026. U.S. Navy\nIran’s inability to pay its troops comes at an especially critical time. Not only is the military getting more aggressive in the Strait of Hormuz against tankers, it’s also preparing for a fresh U.S. offensive that may come after midterm elections while fighting more domestic unrest.\nSeparatist militants in the southeastern provinces of Sistan and Baluchestan, where Iran has long battled insurgencies, have stepped up attacks against the regime.\nState media reported that at least eight members of Iran’s security forces have been killed there in the past three weeks. That includes a police officer, a Basij militia fighter, and even a senior IRGC commander.\nIran’s security forces are stretched due to a lack of resources as well as increased foreign and internal threats, according to Shay Khatiri, a senior fellow at the Yorktown Institute.\n“As the Iranian regime weakens, the number of such local movements will likely multiply in number and consolidate in power,” he added in a post for the Middle East Forum .\nFortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune ’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.\nJason Ma is the weekend editor at Fortune , where he covers markets, the economy, finance, and housing.",
+      "published": "2026-10-18T20:46:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 2,
+      "score": 11.6,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning — ‘The Preconditions Seem Set For Fireworks’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5",
+      "summary": "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning — ‘The Preconditions Seem Set For Fireworks’&nbsp;&nbsp;Yahoo Finance",
+      "content": "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning — ‘The Preconditions Seem Set For Fireworks’\nThe S&P 500 closed at a record high on Oct. 6, but Burry argues that the headline index is telling only part of the story, while the market breadth has deteriorated sharply underneath.\nBurry said that his bear market ratio, which is the percentage of S&P 500 stocks trading at least 20% below their 10-year highs, stood at 55% on Oct. 6, up from 47% when the index reached a record on Aug. 13.\nHe found only one other instance in the past four decades when the S&P 500 reached a record high while most of its constituents were already in bear markets.\n\"The Big Short\" investor Michael Burry is once again sounding the alarm on the stock market, arguing that a seemingly calm rally is masking a deterioration underneath the surface.\nIn his latest Substack note, Burry dug through decades of S&P 500 data to examine what happens when the index keeps hitting records while an increasing number of its stocks are already in bear markets.\nSee what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox\nThe S&P 500 closed at a record high on Oct. 6, but Burry argues that the headline index is telling only part of the story. Underneath it, market breadth has deteriorated sharply.\nBurry said that his bear market ratio, which is the percentage of S&P 500 stocks trading at least 20% below their 10-year highs, stood at 55% on Oct. 6, up from 47% when the index reached a record on Aug. 13.\nHe found only one other instance in the past four decades when the S&P 500 reached a record high while most of its constituents were already in bear markets.\n\"That makes two times in four decades that the market made new highs with most of its stocks in bear markets relative to 10-year rolling highs. 2000 and today,\" Burry said.\nHe also highlighted that his Fresh Drawdown Ratio stood at 27% in October, versus 53% at the March 2000 peak. Burry cautioned that today's market has not yet reached the extremes of 2000, but the direction is what concerns him.\n\"If the market keeps going like it is, it could surpass 2000 within months, as broken stocks took a massive stepdown late in the summer, continuing into October,\" he said.\nBurry's other major warning sign is how narrow the market's leadership has become. Only 15 S&P 500 stocks closed at new highs on Oct. 6, while just 97 were within 10% of a high.\nAt the March 2000 peak, the corresponding figures were also 15 stocks at new highs and 87 within 10%, he said.\nBurry sees that concentration as evidence that a relatively small group of market leaders is carrying an increasingly fragile index. \"This is a very narrow top - so little dirt I could barely fit in my text, and close to as narrow as 2000,\" he warned.\nBurry described the phenomenon visually as a \"caldera\", which is a seemingly calm market sitting above layers of increasingly broken stocks.\nHe noted that the median S&P 500 stock is now 22% below its high, compared with 31% in March 2000. Meanwhile, 406 of the index's 503 members were more than 10% below their 10-year highs.\nBurry argues that the deterioration in breadth is particularly significant because the Bear Market Ratio is rising while the overall index continues to climb.\nBurry does not necessarily expect a sudden 2000-style collapse and his base case is that market leaders could fall while previously beaten-down stocks recover.\nIn his historical analysis, 2000 was the only major market top where leaders suffered dramatic losses while broken stocks subsequently posted significant gains.\n\"The key stat for me, after all these stats, is the number of new highs and the number of stocks within striking distance - within 10%,\" he said.\nBurry believes that outcome could repeat as the mechanical flows supporting the largest companies lose momentum and fundamental problems become harder to ignore.\n\"All this taken together with the other work I have done, the market will fail in a manner that lifts the median broken stock. This is my base case,\" Burry added.\nHe said that failure may not come as a single devastating crash, but rather through a market that \"will drift lower, sometimes violently\" as fundamental concerns filter into the AI narrative.\nThe biggest warning from Burry is not simply valuation or a potential recession. It is the growing gap between the index's record highs and the deteriorating condition of the stocks underneath it. \"The preconditions seem set for fireworks,\" he said.\nDuring the after-hours session on Friday, the SPDR S&P 500 ETF (SPY), which tracks the S&P 500 index, declined 0.26%; the Invesco QQQ Trust ETF (QQQ) edged lower by 0.27%; and the SPDR Dow Jones Industrial Average ETF Trust (DIA) fell 0.21%. Retail sentiment on Stocktwits toward the S&P 500 ETF was in the 'bearish' territory at the time of writing.\nAlso See: The Fed Has A Problem It Can't Fix — And Stocks May Be The Surprising Winner, According To IO Fund\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nStocktwits News Desk has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .\nEthereum's 'World Computer' Has A Privacy Problem, Charles Hoskinson Says As Midnight Eyes AI Agents\nBitcoin's Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run\nAI Chip Bets Suffer $34M Liquidation Wipeout As Bitcoin, Ethereum Near Danger Zone Ahead Of Black Monday Fears",
+      "published": "2026-10-18T13:04:04+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 2,
+      "score": 11.6,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow and Russell 2000 For the Week Ahead - FOREX.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS1GX3V6Q25uNnZ0MTF3c2duSUFvSWZJSmZNeG03bmxUODZKdnd3WGpCX2NwYTdKdG5TVVBRVlpTcjRxRmxKX2JpQURJRDhlTFUwMDk2ZkNCZXFwZU9oRW50XzF1UVBsWlBqd3NPTnlyVFJ0ZjRRMEVVVzRxUzVwRWFscl9DbHRnSTZMbnpGd2lTS1loa2g5NUpQQXVfaDVmTkcwNmdB0gGyAUFVX3lxTE5qU09SM09BVm1vVzJjX2xnZmVJajNPQ05xUE12RmFrdkNPSDEzaGlvV3daZmVGVzJKZ18ta2tQTDhUNm5sWEtjaFNZbFVLYVhRYm9tZ093WmZQVGtMWU5Uc2J2TXpMeGpoOG9ZLWxqTkswT2RsMWxrUi1JY0xOaTRSbnJ0b05kbWxBeTNONnlkRjNKaS1vNG5lYkZ1Mk9pZ2E0bXpIeEkxZHROWDlyNUdZQkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS1GX3V6Q25uNnZ0MTF3c2duSUFvSWZJSmZNeG03bmxUODZKdnd3WGpCX2NwYTdKdG5TVVBRVlpTcjRxRmxKX2JpQURJRDhlTFUwMDk2ZkNCZXFwZU9oRW50XzF1UVBsWlBqd3NPTnlyVFJ0ZjRRMEVVVzRxUzVwRWFscl9DbHRnSTZMbnpGd2lTS1loa2g5NUpQQXVfaDVmTkcwNmdB0gGyAUFVX3lxTE5qU09SM09BVm1vVzJjX2xnZmVJajNPQ05xUE12RmFrdkNPSDEzaGlvV3daZmVGVzJKZ18ta2tQTDhUNm5sWEtjaFNZbFVLYVhRYm9tZ093WmZQVGtMWU5Uc2J2TXpMeGpoOG9ZLWxqTkswT2RsMWxrUi1JY0xOaTRSbnJ0b05kbWxBeTNONnlkRjNKaS1vNG5lYkZ1Mk9pZ2E0bXpIeE",
+      "content": "",
+      "published": "2026-10-18T03:51:21+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 2,
+      "score": 11.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     }
