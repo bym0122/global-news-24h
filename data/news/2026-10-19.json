@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T02:24:10.011875+00:00",
+  "generated_at": "2026-10-19T04:28:27.316405+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-18T02:23:48.200442+00:00",
-  "window_end": "2026-10-19T02:28:48.200442+00:00",
+  "window_start": "2026-10-18T04:28:11.979294+00:00",
+  "window_end": "2026-10-19T04:33:11.979294+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -15,15 +15,16 @@
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "GN Geopolitics"
+        "GN Geopolitics",
+        "GN Energy"
       ],
-      "source_count": 2,
+      "source_count": 3,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
-      "score": 16.1,
+      "score": 17.3,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
       "assets": [
         "原油",
@@ -32,10 +33,40 @@
       ]
     },
     {
+      "title": "China's economy picks up pace in Q3 as exports power uneven recovery - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
+      "summary": "China's economy picks up pace in Q3 as exports power uneven recovery&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-19T02:22:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "BBC Business",
+        "GN China",
+        "GN AI",
+        "GN Top",
+        "CNBC Top"
+      ],
+      "source_count": 7,
+      "category": "china",
+      "category_zh": "中国",
+      "stars": 4,
+      "score": 16.4,
+      "is_hypothetical": false,
+      "why_important": "被 7 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
       "title": "Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYm5uVkw1QW5ocVRzWDd5ak8zSm9LQXlDelF0bDFYWXNHb1VMamNndDR0cEhHUldwQWxWTkpxZ0VVeFd5RzlydFVpNmdFUkd6b2V5ZTV4d1A5dnB1R3dSWW5JcGxQSUtNc253VHhTRHkxaTAxcDN5WUFta0l5T3lmb202UU04RVd6OFZmNXJQRm95eDZCSkphUXBHcm9uX3FvM3pUT3BYSG04TTBC0gGyAUFVX3lxTE9OMi00U3VjRHY3c1pYSHM3SW5IQUZwNTB5ZWp0cWdwMkpkSGNteVU4VDJ4Q29jdzRlUkcxZ2lVNm5IVnlYM1VPaGRIVXZBQXFrRGpvQUZzV3QzZFVFbnJGZXpISl9pWE1mdkVfZXVfUTI1TFoxVlBJMEhyRWEyWExxOVNWU3FwU0N5RkNaVllNenJUcWRKSTFOcThJUENvZ1VKalAxdXJNLXpQakxHZHZQTWc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQYm5uVkw1QW5ocVRzWDd5ak8zSm9LQXlDelF0bDFYWXNHb1VMamNndDR0cEhHUldwQWxWTkpxZ0VVeFd5RzlydFVpNmdFUkd6b2V5ZTV4d1A5dnB1R3dSWW5JcGxQSUtNc253VHhTRHkxaTAxcDN5WUFta0l5T3lmb202UU04RVd6OFZmNXJQRm95eDZCSkphUXBHcm9uX3FvM3pUT3BYSG04TTBC0gGyAUFVX3lxTE9OMi00U3VjRHY3c1pYSHM3SW5IQUZwNTB5ZWp0cWdwMkpkSGNteVU4VDJ4Q29jdzRlUkcxZ2lVNm5IVnlYM1VPaGRIVXZBQXFrRGpvQUZzV3QzZFVFbnJGZXpISl9pWE1mdkVfZXVfUTI1TFoxVlBJMEhyRWEyWExxOVNWU3FwU0N5RkNaVllNenJUcWRKSTFOcThJUENvZ1",
-      "content": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis | OilPrice.com\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nEquatorial Guinea Rewrites Oil Law After Production Collapses 85%\nGerman Power Supply Startups Exit Market as Wholesale Prices Soar\nGlobal Gas Crunch Makes Europe’s Remaining Coal Plants Profitable\nIran War Set To Push PetroChina’s Trading Profit to Record $3 Billion\nData Centers Drive Surge in India’s Renewable Power Demand\nChina’s Sufficient Gas Stocks Could Ease Winter Supply Concerns\nSouth Korea Turns Back to Coal as LNG Crisis Deepens\nIndia Slashes Diesel Export Tax as Global Fuel Crunch Deepens\nTrump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”\nGlobal Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse\nOil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets\nPakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked\nEurope’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited\nU.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding\nShip-to-Ship Oil Transfers Surge Off India’s West Coast\nIndia’s Annual Wind Power Installations to Double by 2030\nTotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar\nUkraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire\nIMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate\nLithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears\nOil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers\nHouthis Vow More Attacks After Strike on Aramco Headquarters\nNovak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy\nChina's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High\nIndia’s Gas Demand Drops as Iran War Hikes LNG Spot Prices\nRussian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal\nAramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo\nOman Overtakes U.S. as India's Top LNG Supplier in September\nTrump Announces “Massive” Greenland Oil Exploration Plans\nSaudi Aramco Headquarters Hit as Houthi Attacks Escalate\nTaiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject\nRising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.\nOil Prices Climb Above $106 as Iran Threatens More Tanker Attacks\nOPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027\nArgentina Takes Falklands Oil Fight to International Tribunal\nDangote Swings to $4.7 Billion Profit Ahead of Africa’s Biggest IPO\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nInside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine\nIran Faces Rising Threat From Within as Baluch Insurgency Escalates\nShip Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks\nCyril Widdershoven is a senior maritime, energy, and geopolitical analyst and Senior Advisor at Blue Water Strategy, specialising in the strategic intersection of shipping, ports,&#8230;\nHormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis\nThe Hormuz crisis is tightening global bunker fuel supplies, with disrupted Middle Eastern and Russian exports driving shortages and longer delivery times.\nSoaring marine fuel prices are squeezing shipowners, increasing voyage costs, working capital requirements, and pressure on profit margins.\nGlobal shipping faces growing disruption, as unreliable refueling, limited inventories, and tighter credit threaten trade routes and vessel schedules.\nThe Hormuz crisis is not only hitting crude oil and gas, but also container shipping. It is also tightening its grip on global shipping through the fuel tanks of vessels carrying world trade. Disrupted exports, constrained refinery supplies, and increasingly unreliable deliveries are clearly at present pushing the bunker market into a dangerous position. Fuel remains available internationally, but securing the right grade at the right port within a commercially workable window is becoming harder. The consequences will be severe, especially for shipowners, as it extends beyond expensive bunkers. Delayed deliveries and uncertain replenishment are not only threatening voyage schedules but also working capital and the profitability of entire trading routes.\nThis pressure is measurable. On October 16, Vitol estimated that high-sulfur fuel oil flows through Hormuz, including Iranian supplies, remained at least 800,000 tons per month below February levels. At the same time, the successful attacks by Ukraine on Russian refineries have removed an additional estimated million tons monthly. Meanwhile, North Asian refiners were drawing more than a million tons of HSFO for November processing. Global shipping is therefore competing for a constrained product pool. This is a growing reality, even though low-sulfur supplies have received some support from increased exports from China and Nigeria.\nRelated: German Power Supply Startups Exit Market as Wholesale Prices Soar\nThese pressures are now converging on a market that depends as much on reliable distribution as on aggregate production. A ton of fuel awaiting export, committed to another customer or stranded behind a disrupted shipping route cannot satisfy an immediate bunker requirement. The market still doesn't seem to recognize this fully. Refinery output, export capacity, blending components, storage and barge availability must all align before a vessel can refuel. Hormuz has weakened several of those links at once, allowing disruption in one location to ripple through the wider supply chain. The spreading of conflict in the Middle East, especially in and around the Bab El Mandeb and Saudi Arabia, is only increasing the impact.\nFujairah illustrates both the market’s adaptability and its continuing vulnerability. Reuters reported on October 1 that third-quarter fuel oil imports had recovered to 2.6 million tons from 845,000 tons in the second quarter. Nevertheless, September imports remained approximately half February’s level. Yes, supplies were returning, but through a system still operating well below earlier import volumes. A partial recovery in cargo movements cannot establish dependable bunker availability when replenishment remains exposed to renewed interruption. The current security situation in and around Hormuz and the Gulf of Oman doesn’t bode well.\nThe latest delivery assessments show how uneven that recovery remains. ENGINE’s October 13 outlook put Singapore’s recommended very-low-sulfur fuel oil lead times at 11–18 days, compared with 10–15 days a week earlier. HSFO required 11–17 days. Fujairah’s VLSFO availability had improved, while HSFO and low-sulfur marine gasoil remained limited. Key Omani ports offered a more comfortable marine gasoil position, with one supplier quoting one to two days. The emerging crisis is geographically fragmented, with pressure varying by fuel grade and delivery location.\nThat fragmentation complicates procurement, without making the commercial damage less serious. A ship requiring fuel within three days cannot necessarily absorb a two-week booking window. Physical shortages become commercially disruptive well before a port exhausts its stocks. The critical threshold will be crossed when available supply can no longer accommodate the schedules on which shipping contracts depend.\nInventory figures can consequently offer misleading reassurance. ENGINE reported that Fujairah’s heavy distillate and residual stocks averaged 4.72 million barrels in early October, approximately 5% above September’s average. At the same time, local bunker availability remains severely constrained. Those inventories do not all represent uncommitted, immediately deliverable marine fuel. Product specifications, ownership, and export obligations determine how much can actually reach a vessel. More barrels in storage can coexist with fewer practical purchasing options for an owner facing a departure deadline.\nHere, the market and market participants play a pivotal role. The economics of holding inventory add another vulnerability. S&P Global reported in September that strong backwardation, with prompt fuel priced above later deliveries, was discouraging blenders from maintaining stocks. Blending closer to delivery reduced their exposure to falling prices. However, it also increases sensitivity to delayed or unsuitable components. Across a stressed market, individually rational decisions can remove the collective buffer needed to absorb disruption. We are now looking at a situation in which a replenishment delay that would previously have been manageable can then translate directly into a failed delivery.\nAt the same time, shippers are looking at financial constraints too. Higher prices are already imposing a substantial financing burden. General Index assessed September VLSFO averages at $872 per ton in Singapore and $939 in Fujairah, up 6% and 15.9%, respectively, from August. An additional $100 per ton increases the cost of a 2,000-ton purchase by $200,000, before accounting for waiting time or diversion expenses. Shippers will calculate all of this; if it repeats across a fleet, such increases demand considerably more cash to maintain existing operations. It seems the media still doesn’t understand that even strong headline freight earnings don't automatically translate into stronger margins.\nThe next constraint could emerge through credit. When fuel prices rise, an unchanged financing facility buys fewer tons. Suppliers need additional funding to maintain throughput, while owners need more liquidity to cover each voyage. If lenders or counterparties tighten terms, physical availability may be accompanied by financial exclusion: fuel can be purchased, but only by buyers able to provide sufficient cash or security. Smaller operators would be particularly vulnerable to this combination of expensive deliveries and reduced purchasing flexibility.\nOwners are already adjusting. Reuters reported on October 16 that bunker purchases were becoming smaller and more frequent, with shorter contractual commitments and greater use of alternative locations, including Port Louis, Colombo, and Salalah. This not only helps operators manage immediate exposure but also shifts demand toward ports that must secure additional replenishment and delivery capacity. Geographic diversification improves options; its effectiveness still depends on the fuel and infrastructure available behind each alternative call.\nOver the coming weeks, regional shortages will recur, premiums will remain volatile, and booking requirements will lengthen. A broader crisis will occur if additional export losses coincide with refinery outages and reduced tanker availability.\nShipping does not need every bunker hub to run dry for the damage to become systemic. Schedules will be disrupted if persistent uncertainty over delivery remains in place. Hormuz is steadily turning dependable refueling into a more expensive and conditional service. Customers far beyond the Gulf will be feeling the consequences.\nData Centers Drive Surge in India’s Renewable Power Demand\nIran War Set to Push PetroChina’s Trading Profit to Record $3 Billion\nGlobal Gas Crunch Makes Europe’s Remaining Coal Plants Profitable\nIran Faces Rising Threat From Within as Baluch Insurgency Escalates\nCyril Widdershoven is a senior maritime, energy, and geopolitical analyst and Senior Advisor at Blue Water Strategy, specialising in the strategic intersection of shipping, ports,&#8230;\nIran Faces Rising Threat From Within as Baluch Insurgency Escalates\nUkraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure\nU.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nHouse Republicans Move to Block Trump's Russian Diesel Deal\nRecord Tanker Rates Leave Heavy Crude Stranded in the Americas\nInside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine\nThis Ultra-Rare Gas Could Become An Ace In Canada’s Hands\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis | OilPrice.com\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nEquatorial Guinea Rewrites Oil Law After Production Collapses 85%\nGerman Power Supply Startups Exit Market as Wholesale Prices Soar\nGlobal Gas Crunch Makes Europe’s Remaining Coal Plants Profitable\nIran War Set To Push PetroChina’s Trading Profit to Record $3 Billion\nData Centers Drive Surge in India’s Renewable Power Demand\nChina’s Sufficient Gas Stocks Could Ease Winter Supply Concerns\nSouth Korea Turns Back to Coal as LNG Crisis Deepens\nIndia Slashes Diesel Export Tax as Global Fuel Crunch Deepens\nTrump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”\nGlobal Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse\nOil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets\nPakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked\nEurope’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited\nU.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding\nShip-to-Ship Oil Transfers Surge Off India’s West Coast\nIndia’s Annual Wind Power Installations to Double by 2030\nTotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar\nUkraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire\nIMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate\nLithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears\nOil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers\nHouthis Vow More Attacks After Strike on Aramco Headquarters\nNovak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy\nChina's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High\nIndia’s Gas Demand Drops as Iran War Hikes LNG Spot Prices\nRussian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal\nAramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo\nOman Overtakes U.S. as India's Top LNG Supplier in September\nTrump Announces “Massive” Greenland Oil Exploration Plans\nSaudi Aramco Headquarters Hit as Houthi Attacks Escalate\nTaiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject\nRising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.\nOil Prices Climb Above $106 as Iran Threatens More Tanker Attacks\nOPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027\nArgentina Takes Falklands Oil Fight to International Tribunal\nDangote Swings to $4.7 Billion Profit Ahead of Africa’s Biggest IPO\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nShip Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks\nInside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine\nIran Faces Rising Threat From Within as Baluch Insurgency Escalates\nCyril Widdershoven is a senior maritime, energy, and geopolitical analyst and Senior Advisor at Blue Water Strategy, specialising in the strategic intersection of shipping, ports,&#8230;\nHormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis\nThe Hormuz crisis is tightening global bunker fuel supplies, with disrupted Middle Eastern and Russian exports driving shortages and longer delivery times.\nSoaring marine fuel prices are squeezing shipowners, increasing voyage costs, working capital requirements, and pressure on profit margins.\nGlobal shipping faces growing disruption, as unreliable refueling, limited inventories, and tighter credit threaten trade routes and vessel schedules.\nThe Hormuz crisis is not only hitting crude oil and gas, but also container shipping. It is also tightening its grip on global shipping through the fuel tanks of vessels carrying world trade. Disrupted exports, constrained refinery supplies, and increasingly unreliable deliveries are clearly at present pushing the bunker market into a dangerous position. Fuel remains available internationally, but securing the right grade at the right port within a commercially workable window is becoming harder. The consequences will be severe, especially for shipowners, as it extends beyond expensive bunkers. Delayed deliveries and uncertain replenishment are not only threatening voyage schedules but also working capital and the profitability of entire trading routes.\nThis pressure is measurable. On October 16, Vitol estimated that high-sulfur fuel oil flows through Hormuz, including Iranian supplies, remained at least 800,000 tons per month below February levels. At the same time, the successful attacks by Ukraine on Russian refineries have removed an additional estimated million tons monthly. Meanwhile, North Asian refiners were drawing more than a million tons of HSFO for November processing. Global shipping is therefore competing for a constrained product pool. This is a growing reality, even though low-sulfur supplies have received some support from increased exports from China and Nigeria.\nRelated: German Power Supply Startups Exit Market as Wholesale Prices Soar\nThese pressures are now converging on a market that depends as much on reliable distribution as on aggregate production. A ton of fuel awaiting export, committed to another customer or stranded behind a disrupted shipping route cannot satisfy an immediate bunker requirement. The market still doesn't seem to recognize this fully. Refinery output, export capacity, blending components, storage and barge availability must all align before a vessel can refuel. Hormuz has weakened several of those links at once, allowing disruption in one location to ripple through the wider supply chain. The spreading of conflict in the Middle East, especially in and around the Bab El Mandeb and Saudi Arabia, is only increasing the impact.\nFujairah illustrates both the market’s adaptability and its continuing vulnerability. Reuters reported on October 1 that third-quarter fuel oil imports had recovered to 2.6 million tons from 845,000 tons in the second quarter. Nevertheless, September imports remained approximately half February’s level. Yes, supplies were returning, but through a system still operating well below earlier import volumes. A partial recovery in cargo movements cannot establish dependable bunker availability when replenishment remains exposed to renewed interruption. The current security situation in and around Hormuz and the Gulf of Oman doesn’t bode well.\nThe latest delivery assessments show how uneven that recovery remains. ENGINE’s October 13 outlook put Singapore’s recommended very-low-sulfur fuel oil lead times at 11–18 days, compared with 10–15 days a week earlier. HSFO required 11–17 days. Fujairah’s VLSFO availability had improved, while HSFO and low-sulfur marine gasoil remained limited. Key Omani ports offered a more comfortable marine gasoil position, with one supplier quoting one to two days. The emerging crisis is geographically fragmented, with pressure varying by fuel grade and delivery location.\nThat fragmentation complicates procurement, without making the commercial damage less serious. A ship requiring fuel within three days cannot necessarily absorb a two-week booking window. Physical shortages become commercially disruptive well before a port exhausts its stocks. The critical threshold will be crossed when available supply can no longer accommodate the schedules on which shipping contracts depend.\nInventory figures can consequently offer misleading reassurance. ENGINE reported that Fujairah’s heavy distillate and residual stocks averaged 4.72 million barrels in early October, approximately 5% above September’s average. At the same time, local bunker availability remains severely constrained. Those inventories do not all represent uncommitted, immediately deliverable marine fuel. Product specifications, ownership, and export obligations determine how much can actually reach a vessel. More barrels in storage can coexist with fewer practical purchasing options for an owner facing a departure deadline.\nHere, the market and market participants play a pivotal role. The economics of holding inventory add another vulnerability. S&P Global reported in September that strong backwardation, with prompt fuel priced above later deliveries, was discouraging blenders from maintaining stocks. Blending closer to delivery reduced their exposure to falling prices. However, it also increases sensitivity to delayed or unsuitable components. Across a stressed market, individually rational decisions can remove the collective buffer needed to absorb disruption. We are now looking at a situation in which a replenishment delay that would previously have been manageable can then translate directly into a failed delivery.\nAt the same time, shippers are looking at financial constraints too. Higher prices are already imposing a substantial financing burden. General Index assessed September VLSFO averages at $872 per ton in Singapore and $939 in Fujairah, up 6% and 15.9%, respectively, from August. An additional $100 per ton increases the cost of a 2,000-ton purchase by $200,000, before accounting for waiting time or diversion expenses. Shippers will calculate all of this; if it repeats across a fleet, such increases demand considerably more cash to maintain existing operations. It seems the media still doesn’t understand that even strong headline freight earnings don't automatically translate into stronger margins.\nThe next constraint could emerge through credit. When fuel prices rise, an unchanged financing facility buys fewer tons. Suppliers need additional funding to maintain throughput, while owners need more liquidity to cover each voyage. If lenders or counterparties tighten terms, physical availability may be accompanied by financial exclusion: fuel can be purchased, but only by buyers able to provide sufficient cash or security. Smaller operators would be particularly vulnerable to this combination of expensive deliveries and reduced purchasing flexibility.\nOwners are already adjusting. Reuters reported on October 16 that bunker purchases were becoming smaller and more frequent, with shorter contractual commitments and greater use of alternative locations, including Port Louis, Colombo, and Salalah. This not only helps operators manage immediate exposure but also shifts demand toward ports that must secure additional replenishment and delivery capacity. Geographic diversification improves options; its effectiveness still depends on the fuel and infrastructure available behind each alternative call.\nOver the coming weeks, regional shortages will recur, premiums will remain volatile, and booking requirements will lengthen. A broader crisis will occur if additional export losses coincide with refinery outages and reduced tanker availability.\nShipping does not need every bunker hub to run dry for the damage to become systemic. Schedules will be disrupted if persistent uncertainty over delivery remains in place. Hormuz is steadily turning dependable refueling into a more expensive and conditional service. Customers far beyond the Gulf will be feeling the consequences.\nData Centers Drive Surge in India’s Renewable Power Demand\nIran War Set to Push PetroChina’s Trading Profit to Record $3 Billion\nGlobal Gas Crunch Makes Europe’s Remaining Coal Plants Profitable\nIran Faces Rising Threat From Within as Baluch Insurgency Escalates\nCyril Widdershoven is a senior maritime, energy, and geopolitical analyst and Senior Advisor at Blue Water Strategy, specialising in the strategic intersection of shipping, ports,&#8230;\nIran Faces Rising Threat From Within as Baluch Insurgency Escalates\nUkraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure\nU.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nHouse Republicans Move to Block Trump's Russian Diesel Deal\nRecord Tanker Rates Leave Heavy Crude Stranded in the Americas\nInside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine\nThis Ultra-Rare Gas Could Become An Ace In Canada’s Hands\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-18T21:00:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -53,33 +84,6 @@
         "原油",
         "能源股",
         "油运"
-      ]
-    },
-    {
-      "title": "China's Q3 GDP growth set to pick up as exports power ahead - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGVkYXFpU09qRXZIdVQyMDVVaHpJTUo4dE15M2hUSnM4Zm5VR09CLWNRelhzZUd3VDRSbWdCQkljSnJtTWoxNkJ0WXg4cFNLdExWSUlpV3ZEdEhUdTB4WG43RmIxQ0FqMlZrNUpnQ3liTlVraFdfbW1mTnBueVdNMGdaaFAzMVdFdW5nMGFaTEFTMmdqdVNERTA1RzlGanVEZVE?oc=5",
-      "summary": "China's Q3 GDP growth set to pick up as exports power ahead&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T23:03:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "BBC Business",
-        "GN China",
-        "CNBC Top"
-      ],
-      "source_count": 4,
-      "category": "china",
-      "category_zh": "中国",
-      "stars": 4,
-      "score": 16.0,
-      "is_hypothetical": false,
-      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
       ]
     },
     {
@@ -175,27 +179,31 @@
       "assets": []
     },
     {
-      "title": "US pauses sanctions targeting top importers of Russian crude oil and gas - Shipping Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3JDamxISE5SampuUmNjdHh5YlZpcVQteFJpTXc0UmNJbkY5dkx6TTZrVFp3bS1DLWo3Y252NjV4dDdQdUFyc29IQnE0eHZhOEtmTzRFTUQ3QTRpVURITFVjNmkzcE9aOFVtNW1KQ1FHTWpfMzJHd3J2cDFHYzhCZ2FZcWxyUUVrWjd4aE1DT2dzX3NMR3Fycm40NklYeHBPWVFIZWhEUl8zbERYVmFONzBVa1JWRm5TWW1UWQ?oc=5",
-      "summary": "US pauses sanctions targeting top importers of Russian crude oil and gas&nbsp;&nbsp;Shipping Telegraph",
+      "title": "Gold edges higher on softer oil; Fed rate outlook in focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
+      "summary": "Gold edges higher on softer oil; Fed rate outlook in focus&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-19T01:04:09+00:00",
-      "source": "GN Energy",
+      "published": "2026-10-19T03:11:00+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN Energy"
+        "Reuters World",
+        "GN Fed"
       ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 3,
-      "score": 15.2,
+      "score": 15.1,
       "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 黄金 / 美债 / 美元 / 美股 及相关产业链。",
       "assets": [
         "原油",
         "能源股",
-        "油运"
+        "黄金",
+        "美债",
+        "美元",
+        "美股"
       ]
     },
     {
@@ -219,10 +227,95 @@
       "assets": []
     },
     {
+      "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5",
+      "summary": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-19T02:52:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "content": "Image source, SOPA Images/LightRocket via Getty Images\nImage caption, Jack Clark, a co-founder and Head of Public Benefit of Anthropic\nArtificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the \"public good\".\nThe announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (Â£750bn).\nThe AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy. Anthropic reportedly said in its initial public offering (IPO) filing that AI could pose \"catastrophic or existential risks to humanity\".\nAnthropic said its proposed fund could support nonprofit organisations, and efforts to address AI&#x27;s impact on the jobs market.\nNone of the shares held by the the fund would be used for lobbying or political donations in the US or overseas, it added.\nAnthropic&#x27;s Public Benefit Fund could also receive another 2% of the firm&#x27;s shares at its board&#x27;s discretion, the Claude developer said in a statement released on Sunday.\nTechnology billionaire Elon Musk responded to the announcement on social media with: \"I recommend giving the shares directly to the public.\" \"This is what I will be doing,\" he added.\nLast week, Anthropic told prospective investors that its revenue surged by 45% to $16.8bn (Â£12.6bn) in the three months to the end of September.\nIn common with other AI firms, it is seeking to position itself as being able to generate huge profits despite spending billions on developing the technology and building infrastructure to power its models.\nCompanies around the world, primarily technology firms, have cut thousands of jobs after investing in AI, with many pointing to higher efficiencies from its adoption.\nResearch by the International Monetary Fund (IMF) published in 2024 suggested that almost 40% of jobs around the world will be affected by AI , with that figure rising as high as â60% in advanced economies.\nWhy are there concerns AI could threaten humanity, and how real are they?\nAnthropic bans users from being &#x27;cruel&#x27; to its AI systems",
+      "published": "2026-10-19T02:41:41+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "BBC Business",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "content": "US President Donald Trump has said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table.\n\"I am in the process of negotiating Peace in the war between Russia and Ukraine,\" Trump said on his Truth Social messaging platform, adding that he didn&#x27;t want to \"do anything that will drive, foolishly, Russia away from the bargaining table\".\nTrump blocked numerous sanctions on Russia on Friday night, two days before they were due to take effect, as a row with Ukrainian President Volodymyr Zelensky deepened.\nZelensky told NBC News on Sunday that siding with Russian President Vladimir Putin would be a \"historic mistake\".\nRussian envoy Kirill Dmitriev has responded to Trump&#x27;s order by calling it \"an important and truly historic moment\". He said the sanctions, which were passed by the US Congress and signed into law by the US president in September, would have inflicted \"serious damage\" on the US and global market.\nUS Secretary of State Marco Rubio has described the suspension of the sanctions as a 60-day pause during which their potential impact on the US and global economies would be analysed.\nIn his Truth Social post, Trump also said Zelensky \"doesn&#x27;t want to end this war, and probably never did\", adding \"he could have made a better deal two years ago than he can now\".\nZelensky has pushed for an end to fighting, and has repeatedly said that Putin doesn&#x27;t want peace, since Russia launched its full-scale invasion of Ukraine in February 2022.\nRelations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel last week.\nDespite the international sanctions, Russia has still been able to export oil, much of it to China and India - often at attractive discounts. According to the think-tank Centre for Research on Energy and Clean Air (CREA), China has taken about half of Russia&#x27;s crude exports, with India accounting for about 37%.\nIn remarks to a European Union summit, after Trump announced the deal to buy diesel from Russia and said Zelensky was \"more difficult to deal with\" than Putin, Zelensky said it was nice to be among \"real leaders\".\nImage caption, Ukraine&#x27;s President Zelensky attended an EU leaders&#x27; summit in Brussels on Friday\nZelensky has repeatedly pushed for stringent sanctions to limit funding that Russia can use in its war effort. After the latest move from the US, however, he said he believed the Trump administration would lift more sanctions against Russia.\nUkraine and its European allies criticised Trump&#x27;s plans to import Russian diesel to help lower US energy prices, which have skyrocketed during the Iran war.\nThe deal, according to Zelensky, was tantamount to the US investing in Russia&#x27;s war effort.\nConcerns that Trump is siding with Russia have been heightened by disruption to Starlink, a US-provided satellite system used by Ukraine. That hampered Kyiv&#x27;s ability to protect itself from Russian attacks.\nZelensky said US officials had linked speed restrictions to technical issues.\nHowever, he said Ukraine had tested Starlink on EU territory and found it was operating at higher speeds.\nTrump has denied both deliberately slowing down the network and a further accusation from Zelensky that the US had stopped sharing defence intelligence.\nTrump waives several Russia sanctions as row with Zelensky intensifies\nZelensky says Ukraine has right to defend itself after Trump calls latest strikes a &#x27;disgrace&#x27;\nRussia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "published": "2026-10-18T23:20:15+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.7,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+      "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "content": "Share Trump defends Russian sanctions relief, lashes out at Zelenskyy on social media\nUS President Donald Trump greets Ukrainian President Volodymyr Zelenskyy at his Mar-a-Lago resort in Palm Beach, Florida, on December 28, 2025 [Alex Brandon/AP]\nUnited States President Donald Trump has defended sanction waivers for Russia, saying he wants to keep Moscow at the bargaining table and accusing his counterpart in Kyiv of not wanting to end the war in Ukraine.\nTrump made the comments on Truth Social on Sunday in response to criticism of his decision to block numerous sanctions on Russia just days before they were due to take effect.\nlist of 3 items list 1 of 3 Trump faces bipartisan backlash over Russia sanctions waiver\nlist 2 of 3 Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze\nlist 3 of 3 Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says\n“My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table,” he said.\nThe move has triggered a significant diplomatic fallout between Trump and Ukrainian President Volodymyr Zelenskyy over the past week.\nZelenskyy said that waiving sanctions on Russia, which launched a full-scale invasion of its neighbour in 2022, “will hurt Ukraine”, telling NBC’s Meet the Press on Sunday that it would strengthen Russian President Vladimir Putin’s war effort.\n“We can’t compare me and Putin. He’s [an] aggressor. He occupied us. He killed adults and children, his soldiers. He’s a terrorist, and that’s why I hope that President Trump will be very clear with this position.”\nTrump reiterated his claim that Zelenskyy does not want the war on his country to end, saying on Truth Social that Kyiv was launching attacks on diesel refineries in Russia despite knowing it was “seriously hurting the world diesel markets”.\n“Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him… he doesn’t want to end this war, and probably never did,” Trump wrote.\nTrump announced plans on October 9 for Russia to supply more than 300,000 metric tonnes of diesel to US and global markets to tackle fuel prices that have soared since the US and Israel launched war on Iran in late February. The move led Tehran to effectively close the Strait of Hormuz, through which one-fifth of global energy exports transited before the war.\nTrump’s embrace of Russian energy has angered not only Kyiv, but also European partners and many US officials, who say the move rewards Moscow while it continues its four-and-a-half-year war against Ukraine.\nThe Ukrainian president said on X on Sunday that he has spoken with US presidential envoys Steve Witkoff and Jared Kushner as part of “virtually non-stop communication” between the two countries’ teams aimed at the “next steps in diplomacy”.\n“We are doing everything on our part to make this happen, and to ensure that America’s position is strong and helps bring peace closer. Peace that everyone, except Russia, has been waiting for over the past four and a half years,” Zelenskyy wrote.\nZelenskyy spoke with Witkoff and Kushner as Russia and Ukraine continued to strike each other’s energy sites , with Moscow leaving thousands without power, and Kyiv carrying out the largest drone attack on Russia, in St Petersburg, since the war began.",
+      "published": "2026-10-19T03:10:05+00:00",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1R4b2tCRlpUdlprUnd1UEJWcFFvVzdqV3g0RXdCM3NxRElsM0NrWVI2ZnY4aDBqM2pIUDQtQS1YZHJKYnN3MUdHX0EySTNFaFp2UkxfZEF0ZC12c3V0WEVvR0E2ZlJiaVJTX200UTF2TmZwR3RnT1RXdmdmc1hpRzFKZ3pJWG9GR3E2dXZ3M1lkYnJ1NDh1eWlPTkh1T2VXb2RoWlBwWDBoaTVDN1k1REtVWDg5WEdqbnVlejdRcGNXckltdm5OTzB3WQ?oc=5",
       "summary": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz&nbsp;&nbsp;Anadolu Ajansı",
-      "content": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nIran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nIranian force warns of ‘firm response’ against vessels operating with navigation and identification systems switched off\nISTANBUL An oil tanker caught fire after striking a naval mine in the southern part of the Strait of Hormuz, Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy said late Sunday.\nThe blast struck the vessel’s engine room as it attempted to leave the strategic waterway, Iran’s semi-official Fars News Agency reported, citing an IRGC Navy statement.\nThe tanker had switched off all its positioning and navigation systems from the start of its voyage and attempted to use what Tehran considers an unauthorized southern route, according to the statement.\nThe IRGC Navy accused the vessel of violating maritime regulations governing passage through the strait.\nIt warned that ships operating in the Strait of Hormuz and the Gulf with their navigation and identification systems switched off would face a firm response.\nThe statement did not identify the tanker or provide information on possible casualties or the extent of the damage.\nThe announcement follows a series of similar incidents in the strategic waterway.\nOn Saturday, the IRGC Navy said a second supertanker carrying more than 2 million barrels of crude oil struck a naval mine and caught fire while attempting to cross the strait through an unauthorized route.\nA day earlier, the Iranian force reported that another tanker had struck a mine, triggering an explosion and fire.\nThe US and Israel launched a war against Iran on Feb. 28. Tehran responded with missile and drone attacks across the region and effectively closed the Strait of Hormuz, while Washington later imposed a naval blockade on Iranian ports.\nThe US and Iran subsequently signed a memorandum of understanding in June concerning freedom of navigation in the strait, but implementation stalled over disagreements related to security in the strategic waterway.\nRSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official\nPutin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report\nIsraeli opposition slams Netanyahu’s new security doctrine as ‘empty slogans’ ahead of elections\nBomb threat forces flight from Israel to land in Bulgaria under fighter jet escort\nPutin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report\nIran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nRSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official\nIsraeli occupiers injure 2 Palestinians, attack ambulance in West Bank",
+      "content": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nIran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nIranian force warns of ‘firm response’ against vessels operating with navigation and identification systems switched off\nISTANBUL An oil tanker caught fire after striking a naval mine in the southern part of the Strait of Hormuz, Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy said late Sunday.\nThe blast struck the vessel’s engine room as it attempted to leave the strategic waterway, Iran’s semi-official Fars News Agency reported, citing an IRGC Navy statement.\nThe tanker had switched off all its positioning and navigation systems from the start of its voyage and attempted to use what Tehran considers an unauthorized southern route, according to the statement.\nThe IRGC Navy accused the vessel of violating maritime regulations governing passage through the strait.\nIt warned that ships operating in the Strait of Hormuz and the Gulf with their navigation and identification systems switched off would face a firm response.\nThe statement did not identify the tanker or provide information on possible casualties or the extent of the damage.\nThe announcement follows a series of similar incidents in the strategic waterway.\nOn Saturday, the IRGC Navy said a second supertanker carrying more than 2 million barrels of crude oil struck a naval mine and caught fire while attempting to cross the strait through an unauthorized route.\nA day earlier, the Iranian force reported that another tanker had struck a mine, triggering an explosion and fire.\nThe US and Israel launched a war against Iran on Feb. 28. Tehran responded with missile and drone attacks across the region and effectively closed the Strait of Hormuz, while Washington later imposed a naval blockade on Iranian ports.\nThe US and Iran subsequently signed a memorandum of understanding in June concerning freedom of navigation in the strait, but implementation stalled over disagreements related to security in the strategic waterway.\nRSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official\nPutin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report\nClashes erupt outside Colombian museum as protests over removal of exhibits enter 2nd day\nUS Embassy in UAE urges Americans in Middle East to exercise ‘heightened vigilance’\nIsraeli opposition slams Netanyahu’s new security doctrine as ‘empty slogans’ ahead of elections\nBomb threat forces flight from Israel to land in Bulgaria under fighter jet escort\nPutin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report\nIran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nRSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official",
       "published": "2026-10-19T01:15:04+00:00",
       "source": "GN Energy",
       "sources": [
@@ -243,6 +336,33 @@
       ]
     },
     {
+      "title": "Fed Restarts Rate Hikes Alongside Balance-Sheet Runoff as China's Central Bank Cuts Rates 'On Its Own Terms' — Possibly by Changing Its Policy Anchor - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ecmp2VUNKMFNnSHBrcjJ0OElFTDc3bG03dzhaYjJTb2JRSzV1Z0RyeEIwUjd4aWV1X2pfamk0Zkp1cDZsSVlnR0ZPVjdaN3N5V2c1VVRwcU1QUzlhTXdmeDBnSENuMWZzSVEybVFQTEF2b0hmb0E?oc=5",
+      "summary": "Fed Restarts Rate Hikes Alongside Balance-Sheet Runoff as China's Central Bank Cuts Rates 'On Its Own Terms' — Possibly by Changing Its Policy Anchor&nbsp;&nbsp;BigGo Finance",
+      "content": "Fed Restarts Rate Hikes Alongside Balance-Sheet Runoff as China&#x27;s Central Bank Cuts Rates &#x27;On Its Own Terms&#x27; — Possibly by Changing Its Policy Anchor\nIn September, the Federal Reserve raised rates by 25 basis points, its first hike in three years. Multiple chief economists judge this to be a precautionary, intermittent risk-management move rather than a full pivot to tightening, with the subsequent path hinging on three variables: oil prices, the sustainability of AI capital spending, and the K-shaped divergence in the US economy. The Fed&#x27;s shift to a policy paradigm of simultaneous rate hikes and balance-sheet runoff is driving a systemic repricing of global bond markets, lifting the center of long-term yields. For China, spillovers transmit mainly through three channels — cross-border capital flows, investor expectations, and trade — but the direct impact is limited. Domestically, rate-cut expectations implied by interest-rate derivatives have strengthened rapidly since October; CICC believes the People&#x27;s Bank of China is more likely to cut rates by \"changing the anchor\" of its policy rate and keeping the funding-rate center low, rather than broadly lowering the 7-day reverse repo rate and the LPR.\nFederal Reserve People&#x27;s Bank of China CICC Mao Zhenhua Guan Tao Lu Zhe Zhang Yu Hu Jie Kevin Warsh artificial intelligence government bond yields\nIn September, the Federal Reserve raised rates by 25 basis points, its first hike in three years, and global markets immediately fell into a debate: Is this the start of a sustained tightening cycle, or a short-term policy recalibration amid strong economic resilience? Meanwhile, the People's Bank of China (PBOC) is holding to a prudent, accommodative stance of \"keeping to its own course,\" widening the divergence between the Chinese and US monetary policy cycles. Several chief economists said in interviews that this round of hikes is for now a precautionary, intermittent risk-management operation, fundamentally different from the aggressive tightening of 2022 aimed at fighting high inflation — but the transmission channels of external volatility into China's domestic market still need to be re-examined.\nRate-Hike Path Highly Uncertain, Dominated by Three Variables\nMao Zhenhua, chief economist at China Chengxin International, noted that a prominent feature of this round of US inflation is its exogenous nature, with Middle East geopolitical conflict pushing up oil prices as a key driver; rate hikes alone can hardly resolve energy-driven inflation at its root. The US economy currently shows marked structural divergence: traditional industries are weak, but capital spending in the artificial intelligence (AI) sector is robust, with corporate earnings and innovation vitality remaining high. At the same time, US government debt continues to expand, with the 10-year Treasury yield breaking above 5%; the rising interest burden weighs simultaneously on the US government, businesses, and households, objectively constraining the Fed's room to hike. He stressed that the Fed's primary policy goal has always been to serve the domestic economy, not to actively engage in international maneuvering.\nLu Zhe, chief economist at Soochow Securities, defined the September hike as a \"precautionary hike,\" essentially a small retracement of earlier easing rather than a full pivot to tightening. At the start of the year the market widely bet on Fed rate cuts, yet after the hike landed US stocks — especially the Nasdaq — remained firm, showing the market interpreted the tightening as a policy fine-tuning in a strong-growth environment. He believes the future path is highly uncertain and depends mainly on three variables: oil prices driven by geopolitics, the sustainability of AI capital spending, and the evolution of the K-shaped divergence in the US economy. In the baseline scenario, if oil prices stay below $100, US CPI could fall back to around 2% by the second quarter of next year, and the Fed might deliver one or two non-consecutive hikes; should geopolitical conflict escalate and push oil above $120, the pace of tightening could accelerate markedly. AI capital spending is the core engine behind the US economy's upside surprise in 2026, contributing close to 1% to 1.5% of GDP, but elevated Treasury yields are raising financing costs for tech companies, and whether AI investment intensity can be sustained is a matter of considerable debate.\nGuan Tao, chief economist at Huafu Securities, cautioned that the current hikes are a risk-management operation, but there is a potential risk that precautionary, intermittent hikes evolve into sustained tightening. He reviewed the rate-hike history of the 1999-2000 internet bubble: the Fed then also began precautionary hikes amid low inflation and a high-tech investment boom, with the Nasdaq rising initially; but as overheated tech investment pushed up inflation, the Fed was forced to keep tightening, ultimately pricking the tech asset bubble. By comparison, today three factors — large short-term AI investment, energy price increases, and tariff premiums — are together pushing up inflation, and the path and endpoint of this hiking cycle may depend to a large extent on the interplay between Fed hikes and AI capital spending.\nPolicy Paradigm Shift, Systemic Repricing of Global Bond Markets\nZhang Yu, chief economist at Huachuang Securities, argued that the current rise in global long-term bond yields cannot simply be attributed to the market trading a US debt crisis; it is essentially a systemic repricing of the global bond market. After the 2008 financial crisis, central banks worldwide bought government bonds through quantitative easing (QE) for years, becoming price-insensitive rigid buyers that continuously suppressed term premiums. As central banks exit QE and begin balance-sheet runoff, the buyer structure of the government bond market has fundamentally changed, with market-oriented institutions such as pension funds and mutual funds becoming the main players; bond pricing must be re-matched to risk, and a higher center for yields is a long-term trend. On the US debt issue, she believes it should be viewed objectively and rationally: long-term deterioration in debt discipline is an objective fact, but it is a long, gradual process and will not trigger a crash crisis in the short term; US Treasuries remain a scarce safe asset globally.\nHu Jie, professor at Shanghai Advanced Institute of Finance at Shanghai Jiao Tong University and former senior economist at the Federal Reserve, noted that the core of current Fed policy lies in a change of monetary policy paradigm. After Kevin Warsh took the helm of the Fed, the policy approach shifted markedly, re-emphasizing quantitative tightening (QT), with rate hikes and balance-sheet runoff running in parallel to reverse the QE that persisted for years after the financial crisis. QE once left large amounts of base money in the financial system, directly lifting asset prices; this round of runoff may exceed $4 trillion, continuously draining liquidity from financial markets and weighing on asset prices. He stressed, however, that QT does not mean the stock market must immediately plunge; factors such as the tech revolution, productivity gains, and corporate earnings may still support asset prices, and the most critical factor going forward is the pace of runoff.\nThree Spillover Channels; China's Response Focuses on Expectation Management\nWith the Fed restarting hikes while the PBOC maintains easing, and with the Chinese and US monetary policy cycles out of sync, experts believe China's external shocks are broadly manageable; the risk lies not in a one-off severe shock but in expectation disturbances from the sustained repricing of global assets.\nGuan Tao noted that spillovers manifest mainly through three channels: first, cross-border capital flows, where a wider inversion of China-US interest-rate differentials may increase capital outflow pressure; second, investor expectations, where rising Treasury yields and US stock adjustments may reduce global risk appetite and drive repricing of highly valued assets; third, the trade channel, where in recent years a large part of China's export growth has been tied to AI-related demand, and a cooling of overseas AI capital spending could weaken export momentum. He suggested continuously strengthening monitoring of cross-border capital flows, overseas monetary policy, and financial market risks; improving the macroprudential toolkit and establishing clear rules for activating and exiting policies; and at the same time improving mechanisms for medium- and long-term funds to enter the market, strengthening expectation guidance, and blocking the transmission of overseas panic sentiment into the domestic market.\nHu Jie said that from a global perspective, the direct impact of Fed hikes on China is limited; large, sustained trade surpluses and the limited openness of the capital account buffer the depreciation pressure from the inverted China-US rate differential, and China's domestic monetary policy still retains ample room for independent operation.\nZhang Yu cautioned against looking only at overseas interest rates or capital flows themselves; instead, one should observe whether these changes ultimately affect Chinese households' risk appetite and the activation of household deposits. She noted that after the 2022 real estate adjustment, traditional credit indicators have less explanatory power for the economy, and the flow of household deposits between the real economy and the financial sector is the core gauge for judging China's domestic economic circulation, corporate earnings, and capital market valuations. At present, China's household sector is undergoing a phased balance-sheet contraction and credit momentum is weakening; pro-growth policy has entered a window for stepped-up support, and the effect of all domestic and external policies ultimately depends on whether they can stabilize household risk appetite and activate the flow of household deposits into the real economy and capital markets.\nOn the domestic policy path, CICC research believes that after the October National Day holiday, rate-cut expectations implied by the interest-rate derivatives market quickly strengthened to levels seen before the PBOC's previous rounds of cuts. But rather than broadly lowering the 7-day reverse repo rate and the loan prime rate (LPR), the PBOC is more likely to cut rates by \"changing the anchor\" of its policy rate and keeping the funding-rate center at a lower level. Under the latter approach, rates on outstanding loans would be unaffected, and only some newly added loans linked to DR rates would have room to decline, so the hit to banks' net interest margins would be smaller; the bond market has already priced in strong rate-cut expectations, so the room for government bond yields to fall further after a cut lands may be limited.\nChina 10-year government bond yield 1.65% Year-to-date low\nChina 30-year government bond yield 2.06% Year-to-date low\nUS September CPI, year-on-year 3.7% Up from prior reading\nUS September PPI, year-on-year 6.3% Up from prior reading\nDR001 center (after October holiday) Below 1.30% Below September's 1.38%\nNote: Data as of October 16, 2026; government bond yield and funding rate data are from Wind statistics cited by the CICC research department.\nUS September CPI, core CPI, and PPI rose year-on-year to 3.7%, 2.6%, and 6.3%, respectively, with energy price increases combined with commodity demand and sticky rents driving an inflation rebound — yet Treasury yields fell rather than rose. CICC research judges that this divergence reflects the market beginning to reassess the constraint of high rates on AI financing and growth: on one hand, high rates have already done part of the tightening, and several Fed officials have signaled a pause in hikes; on the other hand, financing pressure is transmitting from the AI credit market to equities and growth expectations, with CoreWeave's credit default swap spread breaking above 1,000 basis points this week to a record high, weighing on tech stocks and supporting Treasuries via safe-haven demand. If credit tightening further drags on investment and employment, the Fed may shift toward balancing financial stability over the next three to six months.\nFor Chinese investors, in the short term, ample domestic liquidity and rate-cut expectations support the bond market, but the room for further declines depends on which rate-cut method the PBOC chooses and next year's fiscal intensity; in the medium term, AI-related export demand and the overseas capital spending cycle are becoming a new transmission chain linking Fed policy to Chinese asset pricing, with their weight markedly higher than in the past.",
+      "published": "2026-10-19T02:35:00+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 / A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股",
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
       "title": "60 Minutes Transcript: Helium in short supply as Iran war continues, with spot prices tripling - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDJUVTF1aUgxX3A1NFRZaFpfYURPazBpRldGNERsdUcteWZ1amdxcnRjTVVpMTFxaFhuWHVHUU5jcFU4ekdqN1JyV3hvdFJvM3BnR2RqU2w4NUUzSmhaalBTWldqeHZoM2dhRVcwb1hjX2lpMEJEMEwtNVFEOF9Nalc2dklfVzZJRzZXLXd4a1dSaGJIMFFNWTBWSnk?oc=5",
       "summary": "60 Minutes Transcript: Helium in short supply as Iran war continues, with spot prices tripling&nbsp;&nbsp;CBS News",
@@ -260,46 +380,6 @@
       "score": 14.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-      "summary": "Rubio says Trump to take up to 60 days to weigh Russia sanctions&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T03:38:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.0,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
-      "summary": "Vance faces tough questions on Iran war, immigration and more in CBS town hall&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-18T03:31:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -368,6 +448,30 @@
       ]
     },
     {
+      "title": "Zelenskyy: Russia continues to attack Ukraine’s oil, gas and energy sectors - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHB1R0Rad1hFV1VuUFE1dlB0a05OclkzZHRsU190UDVSTXIzMTRmU0NQdmZhRjNuRHZHOWJ0Y2tQS3pYSEtyQUtlN0xzVmc4NTR3NVc3WkNwa0puSFIxQ3Q1VjRiUWY4Q2dodExyZWR1VmdJMjhlcWdTaVN2MF81b21lTXBRc3FqRVJTUGJFbG11d9IBlwFBVV95cUxNbUJRUUQ0eUowX05CbWZKc0pRVGh2NW9RSE10aURteV9COE1yakhMUEZxY1Z5MnYzWFRXS3hjNEdrZWhBMDAtdUI3WjJqbC1NYlU3RzE3bmRqMFh6TVBnSlNHdXZrenNJOWRDbU13S1ZLaV9jWkRWRk5zc0dGMWpXQ1Bzd19fdTFOeEQ4TWpmcmlsM05PWmU4?oc=5",
+      "summary": "Zelenskyy: Russia conti",
+      "content": "",
+      "published": "2026-10-19T02:04:10+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 13.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Macron condemns \"shocking\" scenes of violence across France - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmJ1bnhSTWszS2NQXzcxU2k2YWxiUThROTNpQmN6YzJtbXJQbEVaUHpFeFRxbjVFbm5FZ0UxRDZOUlVSNkY0Q0JrRXBhVm5CcGlCMkJfUW4wb0lnWmFaUnNDQ08xNnh6enBjaVh5dzYyaUxZMnYyUDJHTk5zeHRNam40bVhhVW9Sd05SV09pUWpXZWxoSHpvS1N3Z3A?oc=5",
       "summary": "Macron condemns \"shocking\" scenes of violence across France&nbsp;&nbsp;Reuters",
@@ -384,28 +488,6 @@
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Austrian Airlines flight from Tel Aviv diverts to Sofia on bomb threat, Sky News says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUtxZ043QVFPYU1WRmVrQU1EOUswTG5xYWhwYWxrcXhPaFdWX0F0Z2E2TXFNM3lnOE9NdHd4amJtbWRXSkpsOXlVN3M2OUgyYVlrTkNjYUx0YUN3ZlBieEplbXNyLVRKNTYzRGJvdExqZGxjWjNlRE5TdVpyUUhKbzlfeGNVN2diOGcwaU9hS1I5VnE2YjJ3X3REZFFwSkJqdHMzZWpUdEtORElCUnB2RXd2MUJLV2ktYk5DZWVn?oc=5",
-      "summary": "Austrian Airlines flight from Tel Aviv diverts to Sofia on bomb threat, Sky News says&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T22:41:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World",
-        "Al Jazeera"
-      ],
-      "source_count": 3,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -457,7 +539,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJUYmVON2MyaDNUd3JSbXFwUmZ3ODRXVW05RTVSZ0cwQzRSSjF3OGkzNWMxQjVobFU3emI3a3FJVVRMQnRxSnFNWXF5QXQzVTZTZmlxNHdUd1hseVliMEJwZ0FEYm5FN1pPYVlfazVxaXpIRkRhZXhJaU1FSTlxRnNScThrMjlkQUhJVmZ6cHpkVF90bjZES2dYNEYtSWZDcXFYNGpsWFVEejdrSnJ5czJhQ0I2TTgzRW1keEw5dFk1Z3M?oc=5",
       "summary": "Vietnam signs free-trade pact with European countries including Norway, Switzerland&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-18T05:30:00+00:00",
+      "published": "2026-10-18T21:23:48+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -469,26 +551,6 @@
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "content": "US President Donald Trump has said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table.\n\"I am in the process of negotiating Peace in the war between Russia and Ukraine,\" Trump said on his Truth Social messaging platform, adding that he didn&#x27;t want to \"do anything that will drive, foolishly, Russia away from the bargaining table\".\nTrump blocked numerous sanctions on Russia on Friday night, two days before they were due to take effect, as a row with Ukrainian President Volodymyr Zelensky deepened.\nZelensky told NBC News on Sunday that siding with Russian President Vladimir Putin would be a \"historic mistake\".\nRussian envoy Kirill Dmitriev has responded to Trump&#x27;s order by calling it \"an important and truly historic moment\". He said the sanctions, which were passed by the US Congress and signed into law by the US president in September, would have inflicted \"serious damage\" on the US and global market.\nUS Secretary of State Marco Rubio has described the suspension of the sanctions as a 60-day pause during which their potential impact on the US and global economies would be analysed.\nIn his Truth Social post, Trump also said Zelensky \"doesn&#x27;t want to end this war, and probably never did\", adding \"he could have made a better deal two years ago than he can now\".\nZelensky has pushed for an end to fighting, and has repeatedly said that Putin doesn&#x27;t want peace, since Russia launched its full-scale invasion of Ukraine in February 2022.\nRelations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel last week.\nDespite the international sanctions, Russia has still been able to export oil, much of it to China and India - often at attractive discounts. According to the think-tank Centre for Research on Energy and Clean Air (CREA), China has taken about half of Russia&#x27;s crude exports, with India accounting for about 37%.\nIn remarks to a European Union summit, after Trump announced the deal to buy diesel from Russia and said Zelensky was \"more difficult to deal with\" than Putin, Zelensky said it was nice to be among \"real leaders\".\nImage caption, Ukraine&#x27;s President Zelensky attended an EU leaders&#x27; summit in Brussels on Friday\nZelensky has repeatedly pushed for stringent sanctions to limit funding that Russia can use in its war effort. After the latest move from the US, however, he said he believed the Trump administration would lift more sanctions against Russia.\nUkraine and its European allies criticised Trump&#x27;s plans to import Russian diesel to help lower US energy prices, which have skyrocketed during the Iran war.\nThe deal, according to Zelensky, was tantamount to the US investing in Russia&#x27;s war effort.\nConcerns that Trump is siding with Russia have been heightened by disruption to Starlink, a US-provided satellite system used by Ukraine. That hampered Kyiv&#x27;s ability to protect itself from Russian attacks.\nZelensky said US officials had linked speed restrictions to technical issues.\nHowever, he said Ukraine had tested Starlink on EU territory and found it was operating at higher speeds.\nTrump has denied both deliberately slowing down the network and a further accusation from Zelensky that the US had stopped sharing defence intelligence.\nTrump waives several Russia sanctions as row with Zelensky intensifies\nZelensky says Ukraine has right to defend itself after Trump calls latest strikes a &#x27;disgrace&#x27;\nRussia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "published": "2026-10-18T23:20:15+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.5,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -513,22 +575,43 @@
       "assets": []
     },
     {
-      "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
-      "summary": "US, Israel face threats of war if oil prices keep rising&nbsp;&nbsp;The Jerusalem Post",
-      "content": "Oil prices over $100 could affect war with Iran, leading to escalation before elections - analysis\nThe US and Israel know that the main hurdle to keeping the lid on the war with Iran is the price of oil, and it will keep rising if no solution can be found for Hormuz and the Houthis.\nVessels transit the Strait of Hormuz off the coast of the port city of Bandar Abbas in southern Iran on September 5, 2026; illustrative\n( photo credit : ATTA KENARE / AFP via Getty Images )\nHigh oil prices are going to be an issue over the next few weeks if they continue to stay above $100 a barrel. That is a clear challenge for the United States and also potentially for Israel in terms of keeping a lid on a renewed conflict with Iran prior to the elections in both countries.\nIt is no secret that the looming elections have tended to change dynamics, estimations, and assessments about whether the conflict could start again.\nThe high oil prices come during a decline in stock prices on Wall Street. This is amid concerns about AI companies and energy prices. That could tend to be a kind of triple threat affecting the US, and thus also affecting Israel.\nThere has been a lot of messaging about how the Strait of Hormuz is open and the availability of alternative energy sources, but the question is whether or not the global market will accept these assertions.\nRecent videos show ships sinking in the Strait of Hormuz and all sorts of containers floating away as ships are in distress. This is not something that will boost global optimism regarding supply chains, and it always remains a question whether enough ships are transporting energy supplies.\nFlames burn at a facility belonging to Saudi oil giant Aramco south of Riyadh on October 3, 2026. (credit: AFP VIA GETTY IMAGES)\nIt also leads to questions about what the Houthis might do. The Houthis could try to threaten the Bab el-Mandeb Strait. They could also encourage other Iranian proxies, such as those in Iraq, to continue attacks on Saudi oil and gas energy infrastructure.\nA mysterious explosion in Iraq on Saturday appears to have struck an Iranian proxy group. All this could continue to disrupt global trade.\nWhen there are attacks on pipelines or transit points in Saudi Arabia, for instance, it takes weeks to repair them. That creates disruption, and all those disruptions add up to the feeling in the global market that there is too much uncertainty.\nThis kind of uncertainty will affect the US. It already appears to be affecting US policy regarding the Ukraine war and Russia, and this is the kind of thing that can lead to escalation in the Middle East or miscalculations in which something happens again with Iran.\nIran continues to be blockaded , but it also tends to feel a bit confident about its next steps. Therefore, we are seeing a potential for escalation within the next week or two.\nIran also knows there are elections in Israel and the US; therefore, Iran and its proxies may want to take advantage of this period.\nThe one email that makes sense of the Middle East. Iran, the Gulf, Syria, Turkey, and whatever moved that day, from The Jerusalem Post, every evening.",
-      "published": "2026-10-18T15:31:45+00:00",
-      "source": "GN Energy",
+      "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSDNtUnNxX1E1dmdKSEtJeUVRQ1JkZUNaNTZCMGduaVcyMVQ3RjUyaWpvbGM3dmkyN250cWN0NklNUnc4WlB3SWVzM0Y0cHl2RDNKOEdNUkRvdHl0SXlRX3AxNzdtNERoemdhR1ZNd1FuU2hycDd6bUlKRmdlZnNSLTd4Rlo3UXl3aGktYVViQWJRMGFyZEN1bEFnMXhUWE8zOS1HVFdrVXFla3lSWFlCczU3Sk8xeS1RTFdhR3BnRWJVRW9LUVdrUGNnU3cyc0lWRGR5ZmstOW44STZsM2ZNSFJZYlhQVDhQUjBHaU5XXzUxXy1aS2J5SjlCWkZWZlhRVm9aUw?oc=5",
+      "summary": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious\nHome News Markets Equity No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious\nNo ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious\nU.S. stock futures rebound after ",
+      "content": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious\nHome News Markets Equity No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious\nNo ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious\nU.S. stock futures rebound after the Nasdaq’s worst week since early June, as investors look ahead to earnings from Netflix, Tesla and Meta.\nPeople walk along Wall Street by the New York Stock Exchange (NYSE) on September 29, 2026 in New York City. Stocks were down slightly in morning trading as high global fuel prices continue to be a drag on the economy. (Photo by Spencer Platt/Getty Images)\nNasdaq futures rise more than 1%, while S&P 500 futures gain 0.6%.\nNetflix, SpaceX, Tesla and Meta report Q3 results this week.\nRetail sentiment is mixed ahead of the 39th anniversary of the 1987 stock market crash.\nU.S. stock index futures rose overnight heading into Monday after a grueling week for Wall Street, as investors looked to a heavyweight lineup of Big Tech earnings to restore momentum amid fears of an AI bubble.\nAs of 11:30 p.m. ET, S&P 500 futures were up 0.8% and Nasdaq futures rose more than 1%. Dow Jones Industrial Average futures gained 0.5%.\nThe bounce suggests some investors are buying the dip in tech ahead of third-quarter results from companies including  Meta Platforms, Inc. ,  Tesla, Inc. and  Netflix, Inc .\nThe SPDR S&P 500 ETF Trust ( SPY ), Invesco QQQ Trust ( QQQ ) and SPDR Dow Jones Industrial Average ETF ( DIA ) Trust also rose around 1% in overnight trading.\nThe rebound followed a brutal week for major benchmarks, dented by a dip in  neocloud operators and reports that frontier AI lab Anthropic’s financial metrics were softer than expected. The tech-heavy Nasdaq Composite fell nearly 4.5% while the S&P 500 dropped 1.95%, the worst week for both since early June. The Dow bucked the trend, rising 0.67% for its second straight weekly gain.\nNetflix reports after the bell on Tuesday and is expected to post earnings per share (EPS) of $0.82, up from $0.59 a year earlier, on revenue of $12.87 billion, according to Stocktwits data.\nSpaceX also reports its second quarterly update as a public company Tuesday evening, with analysts expecting EPS of $0.14 on $12.8 billion in revenue.\nTesla and Meta report after the close on Wednesday. Tesla is expected to post EPS of $0.45 on $27.94 billion in revenue, down from $0.50 a share and $28.09 billion in revenue a year earlier.\nMeta is expected to report EPS of $6.58 on revenue of $63.34 billion. Its year-earlier EPS of $1.05 was weighed down by a one-time tax charge of about $16 billion.\nOther companies reporting this week include General Motors, Procter & Gamble, American Express, Lam Research and Texas Instruments.\nOil prices eased overnight. Brent crude futures fell nearly 1.9% to $107.88 a barrel, while West Texas Intermediate crude slipped 0.8% to $100.58. Prices had briefly spiked after Ukraine reportedly struck Russian oil infrastructure and reports of tanker disruptions in the Persian Gulf. The  United States Oil Fund (USO) fell 1.6% overnight, with retail traders ‘neutral’ on the ETF.\nRussian President Vladimir Putin has proposed a three-way summit with President Donald Trump and Chinese President Xi Jinping, The Wall Street Journal  reported , citing people familiar with the matter.\nTrump has not yet responded directly to the report but  said in a Truth Social post late Sunday that he was holding off on a decision related to Russia to avoid jeopardizing peace negotiations between Moscow and Kyiv. He said progress was being made in the talks, including on hostage negotiations, and argued that signing the document in question at this stage could push Russia away from the negotiating table. Trump also said Moscow was providing limited assistance to Iran and that he wanted to keep it that way. “I WANT THIS WAR END!” he added.\nIn Asia, Japan’s Nikkei fell 1.2%, while South Korea’s Kospi rose 0.2% and Australia’s S&P/ASX 200 gained 0.3%. China’s Shanghai Composite rose 0.25% after official data showed third-quarter economic growth of 4.5% year-over-year, beating forecasts, driven by strong exports.\nRetail sentiment on Stocktwits around QQQ was in ‘neutral’ territory, while sentiment around SPY and DIA was ‘bearish,’ with message volume at ‘normal’ levels.\nMany users noted that Monday marks the 39th anniversary of the 1987 “Black Monday” crash, when the Dow and S&P 500 each lost more than 20% in a single session.\n“QQQ highest volume on Friday since the early June tech-wreck. Would like to see a big green stick tomorrow,” one user  said .\nAnother user  cautioned : “Guys relax let’s not get excited... This can literally dump back before 9:30.”\nA Stocktwits  poll of more than 12,500 respondents found 46% expect the S&P 500 to gain more than 1% in the week of Oct. 19-23, while 31% expect a drop of more than 1%.\nMarkets commentator The Kobeissi Letter  said in a post that calls for a “Black Monday” redux were spreading rapidly on social media over the weekend, but added that it still expects the S&P 500 to hit 8,000.\n“This is arguably the most resilient market in history. If the S&P 500 is 2% away from a record high despite inflation nearing 4%, gas prices on the rise, and the Fed HIKING rates, just imagine where the S&P 500 would be if the Iran War ended, oil prices came back down, and rate cuts returned. Or, if it never even happened,” it said on X.\n“Earnings growth just over the last 7 months of the Iran War has been historic, with the S&P 500 posting +52% blended earnings growth in Q2 2026.”\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nRead Next:  TSLA Stock Rises Overnight: Musk Bets Tesla’s Value On Optimus, Cybercab — Analyst Sees Flying ‘Halo Car’ Luring Buyers\nComments posted here will also appear on symbol pages.\nGet the daily email that keeps you tuned in and makes markets fun again.\nRead about our editorial guidelines and ethics policy\nNo ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious Ramakrishnan M · 20m ago\nSLS Stock Logs Worst Week In Over A Month: Retail Bulls Bet ASH Embargo Is Keeping Regal Results Under Wraps Deepti Sri · 44m ago\nWhy Did XOM, V, TEAM Stocks Hit 52-Week Highs Last Week? Shivani Kumaresan · 47m ago\nAnthropic IPO: Musk Wants AI Firm To Hand Shares Directly To Public, Says &#x27;This Is What I Will Be Doing&#x27; Yuvraj Malik · 1h ago\nStocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In Deepti Sri · 1h ago\nCRWV, NBIS, IREN Bounce Overnight After Brutal Week — But Industry Execs Reportedly See Only A Few Neocloud Survivors Yuvraj Malik · 2h ago",
+      "published": "2026-10-19T04:15:49+00:00",
+      "source": "GN Markets",
       "sources": [
-        "GN Energy"
+        "GN Markets"
       ],
       "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVZOMUNTX2d1WHkyZTJ5TVZBNFBVQjAySjAwOXFyS2tIQ0lZbFlPdmhqLU5GcEpQUFZ3N241Q245MzBtUlk2QUZDbHRjSE9HQ3R4NlctbjdWajRZNHg3dV80S2lPMUQ0N2l5NVdVdXJHaVZhVTAzY09QNkNOeDlFc0VEY1EzV2NhaEVZb01pdjh6b2ZWSGY2cFBQTS14TTRJS0J2MGhJZzBucFdqLUE?oc=5",
+      "summary": "Oil, foreign flows in focus for rupee; bond traders eye rate-hike bets&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-19T01:33:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "CNBC Top"
+      ],
+      "source_count": 2,
+      "category": "energy",
+      "category_zh": "能源",
       "stars": 3,
       "score": 13.4,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
       "assets": [
         "原油",
@@ -579,26 +662,6 @@
       ]
     },
     {
-      "title": "Frail Indonesian markets reel after MSCI shock warning - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREg5RnZxam01U0FhNE1NOUhVWE9fM0ctLWd6VHBFY0d4ZjkzN2JPS0M3a2J1Y3M3X3VTTHhrTVBOaUZ5eWhZaDE0NDZVR1ZuNXB5N2dTbGUyVUdLSm1MNURGSmZiSGxsUWFWbERoMTRFbXZQSkhoVmlwTkpCRF8xdGVDMXMyUEh0N05lTUVtR0FqZU52NW9jVWtvR3lCc1UwNWJMcWc2N2pIbjQxM2c?oc=5",
-      "summary": "Frail Indonesian markets reel after MSCI shock warning&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-19T00:36:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
       "summary": "Saudi-led coalition says helicopter crash in Najran kills two crew members&nbsp;&nbsp;Reuters",
@@ -619,11 +682,33 @@
       "assets": []
     },
     {
+      "title": "Analysis: For Trump, results have often revealed the art of no deal - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTBJSzVrNXJCbFlqdll6ZDhGakxQaVZJWVFoQmYwaXpTTXZMQWI4X252VHZkbGt5amxQMGEwdDNZY1M4YXZrY1dKNERRNE90aEI1ZGtyalpPUmk5YVNua2xDRHd3aFB1TEFQZ19zeVJPTmFEX0lpcGVBVk9DdUhaQUdGT1ZoVWxEYnRUOGhIeFhXNk9FNi1KSWlOcVFuS1d2XzRHVXNVWXVtc3VfM0R3emhn?oc=5",
+      "summary": "Analysis: For Trump, results have often revealed the art of no deal&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-18T11:57:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
       "summary": "Russia-Ukraine | Breaking News & Live Updates&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-18T22:23:28+00:00",
+      "published": "2026-10-19T00:26:27+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -687,6 +772,30 @@
       ]
     },
     {
+      "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF",
+      "content": "Federal Reserve raises interest rates for the 1st time since 2023\nTrump criticized the moving, calling on the Fed to \"LOWER THE INTEREST RATES.\"\nThe Federal Reserve raised interest rates on Wednesday in an effort to battle back a monthslong surge of inflation set off by the Iran war . The move marks the central bank&#x27;s first rate increase since July 2023.\nThe central bank hiked its benchmark rate a quarter of a percentage point, putting interest rates at a level between 3.75% and 4%.\nHours after the announcement, President Donald Trump criticized the move, repeating a call for lower interest rates that he has made on multiple occasions since his return to office last year.\nThe Federal Reserve Building is the headquarters of the Federal Reserve System and 12 Federal Reserve Banks, in Washington, D.C.\n\"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!\" Trump said in a social media post.\nHowever later, Trump told ABC News that despite the Fed doing the opposite of what he has demanded he still has confidence in Fed Chair Kevin Warsh.\n\"I’m relying on Kevin, but he’s got a very tough board,\" Trump said from the tarmac while traveling to a campaign rally in North Carolina, referring to the 12-member policymaking board. \"He&#x27;s got a board that was put there by a lot of other people, and the interest rates are too high, they’re not appropriate.\"\nTrump insisted the Fed raised rates “only for political reasons” and to hurt him.\n“They’re raising the rates to make Trump do as bad as he can possibly do,\" he said. \"The problem they have is that we have the greatest economy in history.\"\nEarlier Wednesday, the board, including Trump-appointed Warsh, voted unanimously in favor of the rate increase.\nThat current level of interest rates marks a significant drop from a recent peak attained in 2023, but borrowing costs remain well above a 0% rate established at the outset of the COVID-19 pandemic.\nIran live updates: Sticker shock woes rise after Saudi refinery stops crude loading\nThe major stock indexes turned lower after the policy announcement. The Dow Jones Industrial Average closed down 630 points, or 1.2%, while the S & P 500 dropped 0.4%. The tech-heavy Nasdaq ticked down 0.01%.\n\"The plain fact is that inflation is too high and has been for too long,\" Warsh said at a press conference in Washington, D.C., on Wednesday. \"The committee’s unanimous vote shows our resolve to achieve price stability on a timelier basis.\"\nThe move appears aimed at containing a recent bout of price increases. Global oil prices are hovering near a four-month high and the average price for a gallon of gasoline tops $4.30, according to AAA .\nThe U.S. economy has shown signs of additional strain in recent days, including a bond selloff that is pushing up borrowing costs for credit cards and mortgages.\nThe price woes previously divided central bankers eager to contain inflation but reluctant to cool off the economy and weaken the labor market.\nThe Fed opted to hold interest rates steady at its most recent meeting in July. Three of the 12 members on the Fed&#x27;s policymaking board, however, voted in favor of a rate hike, marking the largest number of dissenters casting ballots in the same direction in a decade.\nBend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say\n2 dead, 11 injured after Kansas mother drives onto soccer field during game: Police\nHurricane Isaias: At least 4 dead as Isaias downgraded\nWarsh, who took the helm of the central bank in May, has vowed to cool off persistently elevated price increases.\n\"The Fed&#x27;s predominant focus right now should be on prices,\" Warsh said in remarks last month at the Fed&#x27;s annual summer gathering in Jackson Hole, Wyoming.\nFederal Reserve Chair Kevin Warsh speaks during a news conference following Federal Open Market Committee meetings at Federal Reserve Headquarters, September 16, 2026 in Washington.\nPrices rose 3.4% in August compared to a year earlier, maintaining the same level from the prior month, federal government data last week showed.\nInflation stands more than a percentage point higher than the Federal Reserve&#x27;s target rate of 2%.\nDespite a stubborn bout of inflation, the economy remains fairly robust by some measures.\nA blockbuster jobs report earlier this month showed employers added 162,000 workers in August, demonstrating continued resilience for the nation&#x27;s labor market. The economy grew over three months ending in June, defying fear of a downturn triggered by the Iran war.\nFighting in the Middle East kept global crude prices above $105 a barrel as of Wednesday, which amounted to a rise of about 50% since the Iran war broke out in late February.\nInflation holds steady at elevated level as Iran war pushes up gas prices\nThe average price of a gallon of gas in the U.S. stands at $4.36, putting it more than $1.30 higher than before the war, AAA data showed.\nRecord-high diesel prices have raised transport costs for many everyday products, including groceries, clothes and furniture.\nThe war in Iran, which began with a large-scale U.S.-Israeli attack in the winter, prompted Iran&#x27;s near-closure of the Strait of Hormuz, which facilitates one-fifth of global crude supply. Saudi Arabia over the weekend shut down a key pipeline bypassing the strait, which further constrained oil delivery and put upward pressure on prices.\nABC News&#x27; Karen Travers, Michelle Stoddart and Devin Garbitt contributed to this report.\nBend, Oregon, shooting: Suspect ID&#x27;d, had attended elementary school, police say\nHurricane Isaias: At least 4 dead as Isaias downgraded\n2 dead, 11 injured after Kansas mother drives onto soccer field during game: Police\nIran live updates: Trump admin prepares options, including &#x27;mother of all bombs&#x27;",
+      "published": "2026-10-18T21:52:35+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
       "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
       "summary": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
@@ -707,37 +816,10 @@
       "assets": []
     },
     {
-      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-      "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-      "summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.",
-      "content": "Share ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships on social media\nTaiwan's coastguard said it took 'forceful action' to confront Chinese vessels [File: Cheng-chia Huang/AFP]\nTaiwan has confronted and driven away 16 Chinese coastguard, research and fishing vessels that it said were involved in simultaneous “maritime harassment” operations.\nAn “unusually large” number of Chinese vessels took part in coordinated operations around Taiwan’s main island and Pratas (also known as Dongsha), a disputed island to the southwest, the Taiwanese coastguard said in a statement on Sunday.\nlist of 3 items list 1 of 3 Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters\nlist 2 of 3 Taiwan president says defence spending boost aims to ‘deter war’\nlist 3 of 3 China sanctions Paraguay, Belize ministers over Taiwan ties\nThe Chinese vessels included four fishing boats, which engaged in “simultaneous operations’ that the coastguard described as “hybrid warfare”.\nTaiwan’s coastguard said its vessels took “forceful action immediately to effectively neutralise the threats” and accused Beijing of “attempting to unilaterally alter the status quo” in the Taiwan Strait and give the “false impression of jurisdiction”.\nSome of the vessels reportedly entered Taiwan’s restricted waters.\nBeijing claims Taiwan and Pratas as part of its territory and asserts jurisdiction over the surrounding waters, which Taipei rejects. China has long threatened to use force to regain control of Taiwan.\nIn an incident on October 1 , Taiwan’s coastguard fired water cannon at a Chinese recreational fishing vessel near Pratas island between Taiwan and mainland China that Beijing claims.\nChina has intensified its maritime pressure on Taiwan in recent months. Beijing deployed a record 244 coastguard, scientific research and other ships around Taiwan’s main island in July, Taiwanese official data show, compared with just 58 in the same month last year.\nIn the first 21 days of August, 152 vessels were detected; most were from the Chinese Coastguard, but fishing boats and research vessels were also involved.\nChina also deploys warships around Taiwan on a near-daily basis, but those are counted separately.",
-      "published": "2026-10-18T16:25:52+00:00",
-      "source": "Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币",
-        "台积电",
-        "半导体",
-        "亚太市场"
-      ]
-    },
-    {
       "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
       "link": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
       "summary": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databasesThe UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has been locked out of since Brexit.According to the European Commission, they will discuss “migration, border management, law enforcement cooperation and counte",
-      "content": "Shabana Mahmood is also expected to discuss counter-terrorism efforts with the senior EU official during their meeting on Monday. Photograph: Marcin Nowak/Anadolu/Getty Images\nShabana Mahmood is also expected to discuss counter-terrorism efforts with the senior EU official during their meeting on Monday. Photograph: Marcin Nowak/Anadolu/Getty Images\nShabana Mahmood to hold talks with EU over law enforcement cooperation\nUK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databases\nThe UK home secretary, Shabana Mahmood , will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has been locked out of since Brexit.\nAccording to the European Commission , they will discuss “migration, border management, law enforcement cooperation and counter-terrorism”, with the latest Frontex data published on Monday showing a 43% decline in small boats crossing the Channel.\nIt will be the second time Mahmood has met Magnus Brunner in two months and comes amid an increase in engagement between London and Brussels since Andy Burnham announced he would use an upcoming EU-UK summit to “ lay out to the country ” what he believes are the “different options for Britain’s long-term relationship” with the EU.\nBrexit’s back – but are British voters ready to contemplate a reversal?\nBrunner said “the UK’s contribution is indispensable” to continuing efforts to suppress irregular migration after the EU introduced a suite of new laws aimed at speeding up asylum decisions and deportations.\nOn the agenda for Monday’s meeting will be talks on the UK rejoining some of the police and security databases it was locked out from after Brexit and rejoining a new database, Eurodac , centring on migration.\nLast week Burnham told MPs that “one of the most positive aspects of my meeting with [the European Commission] president [Ursula] von der Leyen in New York, was her openness to the conversation about restoring data sharing on immigration across the UK, across Europe”.\nHe said it was “control” that the UK “lost” and should get “more attention” in the debate about Brexit . “I will work hard to see if we can get a practical arrangement on that very issue at the summit in November,” Burnham said.\nMagnus Brunner will discuss ‘migration, border management, law enforcement cooperation and counter-terrorism’ with Shabana Mahmood, according to the European Commission. Photograph: Dursun Aydemir/Anadolu/Getty Images Brunner will also meet the MI5 director general, Ken McCallum, and visit the National Counter Terrorism Security Office, as well as meet senior officials from the UK’s child sexual abuse centre to discuss joint efforts to tackle such crimes.\nHe has also been chosen to deliver a lecture at King’s College London on migration and asylum, where he will talk about the impact of the EU’s new Pact on Migration and Asylum, a framework of 10 pieces of legislation overhauling how the EU manages its borders, processes asylum applications and shares information among member states.\nBrunner will tell those he meets that the new laws have already had a significant impact along with a shift in political priorities around migration in key countries such as Germany, Italy and France.\nHe said the “reforms are paying” off in the UK too, with illegal crossings down 43%.\n“We must stay on this course, including along all relevant migration routes, and the UK’s contribution is indispensable,” he said. “We have put our European house in order. Illegal crossings at our external borders are down 55% over two years, with a further third this year, and asylum applications are at record lows in the countries that used to be main destinations.”\nOne key database the UK wants access to is Eurodac, a new platform which collects fingerprints and facial images of asylum seekers from the age of six, and security flags for people linked to terrorism or serious crime.\nAnother is the Schengen Information System (SIS), which contains data on missing persons, stolen goods, vehicles and number plates, and fugitives crossing internal EU borders. About 20m searches are made daily on the SIS, according to EU data, mostly on cars.\n‘Made in Europe’ law threatens UK plans for reset with EU\nBriton threatened with deportation from Sweden over Brexit rules goes into hiding\nLabour seeking ‘deeper relationship’ with EU under Burnham, new minister says\nUK could quickly re-enter EU with ‘Switzerland plus’ deal, senior MEP says\nUK will get no special treatment from EU, European ministers say\nRussia did try to interfere in Brexit referendum, head of MI5 confirms\nUK and EU poised to strike deal sparing British business from carbon border tax\nHow significant are Burnham’s remarks on Kremlin interference in Brexit vote?\nLabour seeks ‘ambitious’ youth mobility scheme with EU\nAndy Burnham says it is clear Russia interfered in Brexit referendum",
+      "content": "Shabana Mahmood is also expected to discuss counter-terrorism efforts with the senior EU official during their meeting on Monday. Photograph: Marcin Nowak/Anadolu/Getty Images\nShabana Mahmood is also expected to discuss counter-terrorism efforts with the senior EU official during their meeting on Monday. Photograph: Marcin Nowak/Anadolu/Getty Images\nShabana Mahmood to hold talks with EU over law enforcement cooperation\nUK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databases\nThe UK home secretary, Shabana Mahmood , will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has been locked out of since Brexit.\nAccording to the European Commission , they will discuss “migration, border management, law enforcement cooperation and counter-terrorism”, with the latest Frontex data published on Monday showing a 43% decline in small boats crossing the Channel.\nIt will be the second time Mahmood has met Magnus Brunner in two months and comes amid an increase in engagement between London and Brussels since Andy Burnham announced he would use an upcoming EU-UK summit to “ lay out to the country ” what he believes are the “different options for Britain’s long-term relationship” with the EU.\nBrexit’s back – but are British voters ready to contemplate a reversal?\nBrunner said “the UK’s contribution is indispensable” to continuing efforts to suppress irregular migration after the EU introduced a suite of new laws aimed at speeding up asylum decisions and deportations.\nOn the agenda for Monday’s meeting will be talks on the UK rejoining some of the police and security databases it was locked out from after Brexit and rejoining a new database, Eurodac , centring on migration.\nLast week Burnham told MPs that “one of the most positive aspects of my meeting with [the European Commission] president [Ursula] von der Leyen in New York, was her openness to the conversation about restoring data sharing on immigration across the UK, across Europe”.\nHe said it was “control” that the UK “lost” and should get “more attention” in the debate about Brexit . “I will work hard to see if we can get a practical arrangement on that very issue at the summit in November,” Burnham said.\nMagnus Brunner will discuss ‘migration, border management, law enforcement cooperation and counter-terrorism’ with Shabana Mahmood, according to the European Commission. Photograph: Dursun Aydemir/Anadolu/Getty Images Brunner will also meet the MI5 director general, Ken McCallum, and visit the National Counter Terrorism Security Office, as well as meet senior officials from the UK’s child sexual abuse centre to discuss joint efforts to tackle such crimes.\nHe has also been chosen to deliver a lecture at King’s College London on migration and asylum, where he will talk about the impact of the EU’s new Pact on Migration and Asylum, a framework of 10 pieces of legislation overhauling how the EU manages its borders, processes asylum applications and shares information among member states.\nBrunner will tell those he meets that the new laws have already had a significant impact along with a shift in political priorities around migration in key countries such as Germany, Italy and France.\nHe said the “reforms are paying” off in the UK too, with illegal crossings down 43%.\n“We must stay on this course, including along all relevant migration routes, and the UK’s contribution is indispensable,” he said. “We have put our European house in order. Illegal crossings at our external borders are down 55% over two years, with a further third this year, and asylum applications are at record lows in the countries that used to be main destinations.”\nOne key database the UK wants access to is Eurodac, a new platform which collects fingerprints and facial images of asylum seekers from the age of six, and security flags for people linked to terrorism or serious crime.\nAnother is the Schengen Information System (SIS), which contains data on missing persons, stolen goods, vehicles and number plates, and fugitives crossing internal EU borders. About 20m searches are made daily on the SIS, according to EU data, mostly on cars.\n‘Made in Europe’ law threatens UK plans for reset with EU\nBritain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank\nLabour seeking ‘deeper relationship’ with EU under Burnham, new minister says\nBriton threatened with deportation from Sweden over Brexit rules goes into hiding\nUK could quickly re-enter EU with ‘Switzerland plus’ deal, senior MEP says\nUK will get no special treatment from EU, European ministers say\nUK and EU poised to strike deal sparing British business from carbon border tax\nRussia did try to interfere in Brexit referendum, head of MI5 confirms\nLabour seeks ‘ambitious’ youth mobility scheme with EU\nHow significant are Burnham’s remarks on Kremlin interference in Brexit vote?",
       "published": "2026-10-18T18:13:11+00:00",
       "source": "Guardian World",
       "sources": [
@@ -781,7 +863,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
       "summary": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on&nbsp;&nbsp;The Guardian",
       "content": "Donald Trump and Volodymyr Zelenskyy have clashed in recent days after the US president blocked new sanctions on Russia and struck a diesel deal with Moscow. Photograph: Nathan Howard/Reuters\nDonald Trump and Volodymyr Zelenskyy have clashed in recent days after the US president blocked new sanctions on Russia and struck a diesel deal with Moscow. Photograph: Nathan Howard/Reuters\nUkraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on\nTrump defends decision to waive some sanctions on Russia; Lithuania foils attack on Starlink site; Kyiv hits another oil terminal. What we know on day 1,699\nDonald Trump has defended his decision to waive some sanctions on Russia, while once again accusing Volodymyr Zelenskyy of not wanting to end the war. “My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table,” the US president wrote on Truth Social. “Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him … he doesn’t want to end this war, and probably never did,” he added. Trump’s remarks come after he signed an executive order on Friday putting on hold a sweeping new sanctions package targeting the Russian economy.\nEarlier on Sunday, Zelenskyy had thanked the Trump administration for resuming intelligence sharing between the two countries , but maintained the US had intentionally throttled its Starlink satellite internet access to send a “message” to Kyiv, write Andrew Roth and Sam Jones.\nLithuania said Russia was likely behind an attempted arson attack on a company hosting communication hardware for Starlink satellites . Prime minister Mindaugas Sinkevicius made the claim on broadcaster LRT after authorities discovered flammable liquids at the company in question. Sinkevicius said the firm, whose location he did not mention, houses “nine satellite antennas to guarantee the Starlink connection, which of course supports and assists Ukraine”. He added: “It is obvious this is part of the hybrid war being waged by Russia, involving acts of sabotage.”\nIn September, a satellite station belonging to the network located in central Poland was set ablaze with Warsaw claiming sabotage. In Bulgaria, an investigation is under way amid claims that antennas linked to the Starlink satellite network were set on fire .\nShipping Russian diesel to the US market will take 15 to 20 days once contracts are signed , a senior Russian official said on Sunday, though a date for signing has yet to be announced. Trump announced the controversial agreement with Moscow last week, seen as a way to try to lower fuel prices for American consumers ahead of crucial midterm elections. “Negotiations are currently under way regarding the commercial terms – that is, on finalisation of the contracts,” Russian deputy prime minister for energy Alexander Novak said in an interview with state media. “Once the contracts are signed, the fuel will reach the markets – in this case, the US markets – within 15 to 20 days.”\nUkrainian strikes set an oil export terminal and a depot ablaze in St Petersburg on Sunday as Kyiv launched more than 1,000 drones at Russia in one of its largest aerial attacks of the war. One person was killed and five others were wounded in the attack, which sparked fires at the Petersburg oil terminal and the city’s Ruchi oil depot, officials said. A logistics centre belonging to Russian retailer Ozon and a datacentre operated by Russian tech company VK were also targeted, the companies confirmed. Russia’s defence ministry said Sunday that its forces had destroyed 1,015 Ukrainian drones over 15 Russian regions, the annexed Ukrainian peninsula of Crimea and the Black Sea.\nA ⁠Russian air ⁠strike ⁠killed one person ​and injured ⁠two in Kyiv ‌overnight , mayor Vitali ‌Klitschko said on Telegram early on ‌Monday. A medical facility ​and a non-residential ⁠building were damaged ​in the ​attack, ​he ​said.\nA suspected ⁠drone exploded over Lithuania after triggering an alert that forced residents in northern and central areas to seek shelter for an hour on Sunday, officials said. Ukraine’s foreign ​ministry said later it regretted the incident in Lithuania’s airspace, adding that it may have resulted from Russian electronic warfare diverting drones off course. The object flew ⁠into Lithuania’s airspace from Poland, Lithuanian defence minister Robertas Kaunas told reporters.",
-      "published": "2026-10-18T23:36:00+00:00",
+      "published": "2026-10-19T03:19:00+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -820,7 +902,7 @@
       "title": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVURFUTFiLXNhSFpqRmhOdkNnY2xiTThhSWVzVHNCWHd6MHM2TUd1MWFudlNscUxhSkZDQTF4Q2Ewb0RuSjJjZUV1VVFOZ1B2MkFHSGpPRU1keTlrS3FHcXQxMkhZVG05ZUtqeGtPN3VvbjJwN1YtVGd4R2xWX2VvWjVCT29sMU9XRkZLcjQxWTNILTdjenRudEVXSF9KekNtc0t1NUNDMWl4R2NobjdSWUlWYnF4Z2RIWC16MjZKTHR2dw?oc=5",
       "summary": "Iran's foreign minister accuses Netanyahu of pushing US toward another war to avoid prison&nbsp;&nbsp;Anadolu Ajansı",
-      "content": "Iran&#x27;s foreign minister accuses Netanyahu of pushing US toward another war to avoid prison\nIran&#x27;s foreign minister accuses Netanyahu of pushing US toward another war to avoid prison\nAbbas Araghchi warns Tehran has ‘unfinished jobs’ of its own as Trump endorses Israeli leader ahead of elections\nIranian Foreign Minister Abbas Araghchi accused Israeli Prime Minister Benjamin Netanyahu late Sunday of seeking to drag the United States into another war with Iran to avoid imprisonment while warning Washington against renewed military action.\n“Netanyahu is driving America into another war to stay out of jail,” Araghchi wrote on the US social media platform X, accusing the Israeli leader of disregarding the consequences for Israel and US President Donald Trump.\n“Last time you wanted to ‘finish the job,’ Iran emerged even stronger. Want to try your luck again? Be our guest. But be careful; we have unfinished jobs too,” he added.\nHis remarks came after Trump endorsed Netanyahu earlier Sunday ahead of Israel’s Oct. 27 elections, praising their partnership in confronting Iran and warning that Washington might have to take on the task itself if Israelis elected another leader.\n“If Israel has the wrong Leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so,” Trump wrote on his Truth Social platform, using Netanyahu’s nickname.\nNetanyahu has headed the current government since late 2022, which has been described as the most right-wing in Israel’s history. He is also standing trial domestically on corruption charges that could carry prison sentences if convicted and has been wanted by the International Court of Justice since 2024 for war crimes in Gaza.\nOpposition parties have intensified coordination in an effort to replace Netanyahu’s government through the ballot box.\nThe US and Israel launched military strikes against Iran on Feb. 28, prompting retaliatory attacks by Tehran.\nDespite an April ceasefire and a framework agreement reached in June, fighting later resumed as negotiations between Washington and Tehran stalled.\nBahrain’s King, Russian foreign minister stress coordination to enhance regional security\nIsraeli occupiers injure 2 Palestinians, attack ambulance in West Bank\nIsraeli opposition slams Netanyahu’s new security doctrine as ‘empty slogans’ ahead of elections\nBomb threat forces flight from Israel to land in Bulgaria under fighter jet escort\nPutin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report\nIran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nRSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official\nIsraeli occupiers injure 2 Palestinians, attack ambulance in West Bank",
+      "content": "Iran&#x27;s foreign minister accuses Netanyahu of pushing US toward another war to avoid prison\nIran&#x27;s foreign minister accuses Netanyahu of pushing US toward another war to avoid prison\nAbbas Araghchi warns Tehran has ‘unfinished jobs’ of its own as Trump endorses Israeli leader ahead of elections\nIranian Foreign Minister Abbas Araghchi accused Israeli Prime Minister Benjamin Netanyahu late Sunday of seeking to drag the United States into another war with Iran to avoid imprisonment while warning Washington against renewed military action.\n“Netanyahu is driving America into another war to stay out of jail,” Araghchi wrote on the US social media platform X, accusing the Israeli leader of disregarding the consequences for Israel and US President Donald Trump.\n“Last time you wanted to ‘finish the job,’ Iran emerged even stronger. Want to try your luck again? Be our guest. But be careful; we have unfinished jobs too,” he added.\nHis remarks came after Trump endorsed Netanyahu earlier Sunday ahead of Israel’s Oct. 27 elections, praising their partnership in confronting Iran and warning that Washington might have to take on the task itself if Israelis elected another leader.\n“If Israel has the wrong Leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so,” Trump wrote on his Truth Social platform, using Netanyahu’s nickname.\nNetanyahu has headed the current government since late 2022, which has been described as the most right-wing in Israel’s history. He is also standing trial domestically on corruption charges that could carry prison sentences if convicted and has been wanted by the International Court of Justice since 2024 for war crimes in Gaza.\nOpposition parties have intensified coordination in an effort to replace Netanyahu’s government through the ballot box.\nThe US and Israel launched military strikes against Iran on Feb. 28, prompting retaliatory attacks by Tehran.\nDespite an April ceasefire and a framework agreement reached in June, fighting later resumed as negotiations between Washington and Tehran stalled.\nBahrain’s King, Russian foreign minister stress coordination to enhance regional security\nIsraeli occupiers injure 2 Palestinians, attack ambulance in West Bank\nClashes erupt outside Colombian museum as protests over removal of exhibits enter 2nd day\nUS Embassy in UAE urges Americans in Middle East to exercise ‘heightened vigilance’\nIsraeli opposition slams Netanyahu’s new security doctrine as ‘empty slogans’ ahead of elections\nBomb threat forces flight from Israel to land in Bulgaria under fighter jet escort\nPutin proposes trilateral summit with Trump and Xi to discuss Ukraine: Report\nIran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz\nRSF attack kills 11 at displacement camp in Sudan’s West Darfur: Official",
       "published": "2026-10-18T23:42:17+00:00",
       "source": "GN Geopolitics",
       "sources": [
@@ -837,11 +919,11 @@
       "assets": []
     },
     {
-      "title": "Putin suggests meeting with Trump, Xi to discuss Ukraine war resolution - report - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGhUVE1JYkZmRGJMOWtWaHFMR2tWX3hYRHdBZnBxcEFCd2FXU01tMTh4b3h2c0FnTHZNY2xXVzdWeEFVLXJYRmZkRThzOVNzMHNPSWNYcWlHNzhsWlFlWWZsSW9OYm9vN09iQ011cjdwbUxzeXJ3WktYZDREZTJtMDJ5cmNxNGlYWHc?oc=5",
-      "summary": "Putin suggests meeting with Trump, Xi to discuss Ukraine war resolution - report&nbsp;&nbsp;The Jerusalem Post",
-      "content": "Putin suggests meeting with Trump, Xi to discuss Ukraine war resolution - report\nThis comes as Trump and Zelensky publicly criticize the other&#x27;s decisions, with Trump claiming that Zelensky &#x27;doesn&#x27;t want to end this war, and probably never did.&#x27;\nRussian President Vladimir Putin attends a meeting with Jared Kushner, U.S. President Donald Trump&#x27;s son-in-law, and U.S. Special Envoy Steve Witkoff at the Kremlin in Moscow, Russia, September 5, 2026.\n( photo credit : SPUTNIK/GAVRIIL GRIGOROV/POOL VIA REUTERS )\nRussian President Vladimir Putin proposed a meeting with US President Donald Trump and Chinese leader Xi Jinping next month to discuss ending the Russia-Ukraine war, the Wall Street Journal reported Sunday night, citing people familiar with the discussions.\nThe talks would not involve Ukrainian President Volodymyr Zelensky , an unprecedented move which would be expected to alarm many European countries, WSJ wrote.\nAccording to the report, the Kremlin suggested the three leaders meet on the sidelines of the upcoming Asia-Pacific Economic Cooperation (APEC) summit, which takes place Nov. 18 and 19 in Shenzhen, southern China.\nPutin first suggested the meeting while speaking to Trump on October 9, in the same conversation in which the two leaders agreed that the US would buy Russian diesel fuel and facilitate its sale, a former Russian intelligence officer told WSJ .\nKremlin spokesperson Dmitry Peskov confirmed that discussions over a potential meeting were ongoing.\nUS PRESIDENT Donald Trump with Chinese President Xi Jinping after a visit to the Zhongnanhai Garden in Beijing, May 15. (credit: Evan Vucci/Pool/File/Reuters)\n“There is no clear understanding yet regarding the meeting itself or its potential agenda, although all three parties acknowledge the hypothetical possibility of such a meeting taking place,” he told WSJ .\nA senior US official told WSJ that Trump hadn't agreed to the meeting but may be receptive to the idea due to his desire to end the war.\nTrump, Zelensky clash over Ukrainian attacks, US sanctions\nThis comes as Trump and Zelensky publicly criticize the other's decisions, with Zelensky saying on Saturday that Trump's decision to waive sanctions on Russia and tariffs on its goods days before they were to take effect will embolden Moscow to keep attacking Ukraine, and Trump suggesting that Ukraine needs a new president.\nTrump claimed that Zelensky \"doesn't want to end this war, and probably never did,\" in a post on Truth Social earlier on Sunday, calling on the Ukrainian leader to stop attacking Russian diesel refineries.\nNeither the White House nor the Chinese Embassy in Washington has commented on the report, but analysts told WSJ that a meeting between Trump, Xi, and Putin could advance Xi&#x27;s ambitions for China&#x27;s place in global diplomacy.\n“China wants to be seen as the pivot of the great powers, and potentially as a mediator between the US and Russia,” Yun Sun, director of the China program at the Stimson Center, a Washington think tank, told WSJ .\nHowever, Chinese officials have expressed concern that the meeting could overshadow China&#x27;s role in the region at APEC, according to the report.\nPeople familiar with the discussions told WSJ that Xi is also trying to balance support for Putin and economic ties with Europe. A meeting with Putin and Trump to discuss Ukraine could raise the risk of European backlash.",
-      "published": "2026-10-19T00:19:20+00:00",
+      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWx4MWZFMUNnc1FwUy1uMTVlWTZ5cTItMjJFZ1JxV1QtRWRJV1pWRnQzalNqRUR2QWhWdzEzaTEzS1d4ZkFSODJ0TExCRE9EMkI1OTN5OTk3R1lCTnJQQVo2N0JOaWJ0MXJvVHJwRTFnTmlXMkxXS0RPVFdFWHJBMFp0Nm16YUh3VS1wR0VxSy04bGFYa0FIQk9MX0YxUENablZOVDA2UlJad3pn0gGyAUFVX3lxTFBNaTNENjdoWTA0a2hNeW5rOEtYYzdpa0F1WXFsTzZwcXZWZzhoU05VTDRTdFBDa0l2cEhBMjZGSlVpRGRQMnQwWE1QSy1hbHRZS1lqMnR6U0l0aFNDVGZLNG1VbGdNSlZNWUlpMGV2Z21vVnkzd0F0c3lqRGF5c3FNSjJIX0NkU2xRZzFKeDk4TGZGa3hWNmppM1BLdnFYT0hxYWJWRmMxZzZMQWZ3Ulcwanc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWx4MWZFMUNnc1FwUy1uMTVlWTZ5cTItMjJFZ1JxV1QtRWRJV1pWRnQzalNqRUR2QWhWdzEzaTEzS1d4ZkFSODJ0TExCRE9EMkI1OTN5OTk3R1lCTnJQQVo2N0JOaWJ0MXJvVHJwRTFnTmlXMkxXS0RPVFdFWHJBMFp0Nm16YUh3VS1wR0VxSy04bGFYa0FIQk9MX0YxUENablZOVDA2UlJad3pn0gGyAUFVX3lxTFBNaTNENjdoWTA0a2hNeW5rOEtYYzdpa0F1WXFsTzZwcXZWZzhoU05VTDRTdFBDa0l2cEhBMjZGSlVpRGRQMnQwWE1QSy1hbHRZS1lqMnR6U0l0aFNDVGZLNG1VbGdNSlZNWUlpMGV2Z21vVnkzd0F0c3lqRGF5c3FNSjJIX0NkU2xRZzFKeDk4TGZGa3hWNmppM1BLdnFYT0",
+      "content": "Share ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships on social media\nTaiwan's coastguard said it took 'forceful action' to confront Chinese vessels [File: Cheng-chia Huang/AFP]\nTaiwan has confronted and driven away 16 Chinese coastguard, research and fishing vessels that it said were involved in simultaneous “maritime harassment” operations.\nAn “unusually large” number of Chinese vessels took part in coordinated operations around Taiwan’s main island and Pratas (also known as Dongsha), a disputed island to the southwest, the Taiwanese coastguard said in a statement on Sunday.\nlist of 3 items list 1 of 3 Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters\nlist 2 of 3 Taiwan president says defence spending boost aims to ‘deter war’\nlist 3 of 3 China sanctions Paraguay, Belize ministers over Taiwan ties\nThe Chinese vessels included four fishing boats, which engaged in “simultaneous operations’ that the coastguard described as “hybrid warfare”.\nTaiwan’s coastguard said its vessels took “forceful action immediately to effectively neutralise the threats” and accused Beijing of “attempting to unilaterally alter the status quo” in the Taiwan Strait and give the “false impression of jurisdiction”.\nSome of the vessels reportedly entered Taiwan’s restricted waters.\nBeijing claims Taiwan and Pratas as part of its territory and asserts jurisdiction over the surrounding waters, which Taipei rejects. China has long threatened to use force to regain control of Taiwan.\nIn an incident on October 1 , Taiwan’s coastguard fired water cannon at a Chinese recreational fishing vessel near Pratas island between Taiwan and mainland China that Beijing claims.\nChina has intensified its maritime pressure on Taiwan in recent months. Beijing deployed a record 244 coastguard, scientific research and other ships around Taiwan’s main island in July, Taiwanese official data show, compared with just 58 in the same month last year.\nIn the first 21 days of August, 152 vessels were detected; most were from the Chinese Coastguard, but fishing boats and research vessels were also involved.\nChina also deploys warships around Taiwan on a near-daily basis, but those are counted separately.",
+      "published": "2026-10-18T16:28:02+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -853,50 +935,14 @@
       "score": 12.9,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Scott Bessent says prices will come down after Iran war: ‘we will get to the other side’ - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX3pMdGo4RnV3dUFGY296STN2LVI2N3JoVTd3UzNWbEp6Ykh2U2RVX2J4N2I2eHpiVFRYdlFIcG0wMEpFVmphTnVKUjVYMDVKNktBaDdzbXlyYmYzbVdWZDRIUU55OVQ4STVLSE9Rb2ZyTjdSS2k5YWlMYlJBWVBNc2FDVnJXQ0ZrN3JyMDAwaHNkYW16cDE5b2J0N0NDVTRaYUZPczUybkVRdUxjS3BGR0lEejlOY0pHVWh2X04tN2I4ZnNYN1l6bEx5SjV2ck1ZVGQ4VktWQXY2NlU?oc=5",
-      "summary": "Scott Bessent says prices will come down after Iran war: ‘we will get to the other side’&nbsp;&nbsp;NBC Ne",
-      "content": "",
-      "published": "2026-10-18T13:58:44+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "The AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch? - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1NBQ285VzJjcV9IclBFSk9uVDQtTUdLRHljY1JOenFYNEZaVy1uXzFCTnYyM3Y0dUVDbGMyYzJteDItQi1LSHFZajN0cVp4ZjJxMXpDSVcxOVpkZEJwdE5fcWYxSzFOMF9xTjJ0TFlWQWlienNwQ0Q1LXVzYlB3TzI4d1lMY0RhWXpObUY5Q1VVYXFYZXM5T21XMk5Ydw?oc=5",
-      "summary": "The AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?&nbsp;&nbsp;Moomoo",
-      "content": "The AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nAI stocks rallied after OpenAI's revenue concerns triggered selloff. The Nasdaq recovered, led by software stocks, but semiconductor stocks remained under pressure, highlighting a divided AI trade. Is it time to buy software and Big Tech?\nAI stocks rallied after OpenAI's revenue concerns triggered selloff. The Nasdaq recovered, led by software stocks, but semiconductor stocks remained under pressure, highlighting a divided AI trade. Is it time to buy software and Big Tech?\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nColumns After-Hours Tech Slump Pressures Nasdaq Futures\nTap the related stocks on the image above to add them to your Watchlist. Market Recap Regular session: $S&P 500 Index (.SPX.US)$ +0.33% to 7,744.06, $Nasdaq Composite Index (.IXIC.US)$ +0.08% to 26,713.03, $Dow Jones Industrial Average (.DJI.US)$ +1.08% to 52,177.69, $Russell 2000 Index (.RUT.US)$ +1.38% to 2,767.27; $CBOE Volatility S&P 500 Index (.VIX.US)$ -2.43% to 16.46. After-hours futures flipped lower: $E-mini S&P 500 Futures (DEC6) (ESmain.US)$ -0.20%, $E-mini NASDAQ 100 Futures (DEC6) (NQmain.US)$ -0.55%, ...\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nI’m Adding More MongoDB Today - I Stand By With What I Say - Bullish\nYes I stand by with what I been saying with $MongoDB (MDB.US)$ So I added more to my position, making the biggest one in my portfolio. Investor Day Transcript - Worth the reminder I have it said it many times, Guidance is up, 2 billion dollar buyback is demonstration that the stock is cheap and the company feels that they can buy back stock around these levels. It’s a sign of confidence. Voyage Ai is not even priced into the st...\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nBad move no volume and insiders selling. Massive put wall too.\nokay…. 👏 tomorrow is another day, im not a day trading this 😂 , NEXT!\nthe entire tech sector is down, you didnt tell anything. Tell whats going to happen next week me I told you so…….\nThe Prisoners Of Wallstreet Are Bullish - Who Are They? 📰\nThe Unwanted Are Now Wanted If you have read of my recent 2 part articles of the “S&B Research and Prisoners Of Wallstreet” I advise you all to so…👇👇Publish on August 21, 2026: S&B Research and the Prisoners of Wallstreet - The Forgotten Why? Let the screenshots of my article be the reminder of why software like CRMs stocks are up yesterday and today and why semiconductor and data centers buildout are lower again. Please read the article f...\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\n$CoreWeave (CRWV.US)$ # Which semiconductor and AI companies could survive an AI crash like the dot-com bubble? My central investment thesis is that the strongest survivors will not necessarily be the AI stocks with the fastest revenue growth today. They will be companies with essential technology, durable customers, strong balance sheets and the ability to remain profitable when AI spending slows. During the dot-com crash of 2000–2002, the internet itself did not disappear. Companies such as A...\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nBitFuFu partnered with Finloop to launch Hashrate Token (HASH)\n$BitFuFu (FUFU.US)$ 🚀 Exciting news! We’ve partnered with Finloop to launch Hashrate Token (HASH), an #on-chain note product that gives eligible investors exposure to BTC-denominated returns generated by our professionally managed #Bitcoin mining operations. The product will be deployed on #Ethereum and #Solana, expanding the applications of our mining capabilities and connecting Bitcoin mining with the broader digital asset ecosystem....\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\n📊 CARDINAL BRIDGE CAPITAL BREAKDOWN: Thursday, October 15, 2026\nGood Morning Traders! Tech is extending a weeklong slide, and the selling is spreading across the globe. South Korea’s KOSPI fell as much as 8% overnight, triggering trading halts on both the Kospi and Kosdaq, with Samsung and SK Hynix leading the rout. The drivers have widened: yesterday’s hot CPI, rate-hike fears, and a Gartner report warning that more than $3.5 trillion in AI infrastructure spending faces write-down risk by 2030....\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nIt may be worth waiting a bit longer, as there is still downside potential.\n$SanDisk (SNDK.US)$ end regular market 1403 then buy\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nTap the related stocks on the image above to add them to your Watchlist. Market Recap After-hours futures are mixed: $E-mini S&P 500 Futures (DEC6) (ESmain.US)$ -0.3%, $E-mini NASDAQ 100 Futures (DEC6) (NQmain.US)$ -0.9%, $E-mini Dow Futures (DEC6) (YMmain.US)$ +0.0%, $E-mini Russell 2000 Index Futures (DEC6) (RTYmain.US)$ -0.1%. Cash indices closed the regular session lower: $S&P 500 Index (.SPX.US)$ -1.1%, $Nasdaq Composite Index (.IXIC.US)$ -1.9%, $Dow Jones Industrial Average (.DJI.US)$ -0.1%, $Russell 2000 Index (.RUT.US)$ -1.9%....\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nThe AI Trade Isn't Over—It's Shifting From Chips to Software. What to Watch?\nI was assigned before when the stock dipped after closing. Wondering if this could still be the case.\nMarket Take | Peak Rates, Surging Cloud Growth: A Perfect Storm for Hyperscalers?\nWho Captures AI Revenue? OpenAI's ARR Gap Highlights the Power of Cloud Providers\nOpenAI's Missing $20 Billion: Did Wall Street Misread the AI Trade?\nASML Earnings Preview: Can 55% Sales Growth Still Surprise Wall Street?\nMicron Sees Heavy Bullish Options Activity: Is More Upside Ahead? | Smart Money Option\nNvidia Trader Uses Cheap Options to Bet the Record Run Fades: Options Chatter\nQQQ Options See Third-Busiest Day Ever as Oil Surge Shakes the Tape | Options Income Daily",
-      "published": "2026-10-18T13:52:30+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
       "assets": [
-        "科技股",
-        "半导体"
+        "A股",
+        "港股",
+        "人民币",
+        "台积电",
+        "半导体",
+        "亚太市场"
       ]
     },
     {
@@ -922,9 +968,9 @@
       ]
     },
     {
-      "title": "Asian stocks skid, Wall Street and bonds aided by oil slip - Reuters",
+      "title": "Asian stocks slip, Wall St and bonds benefit from oil skid - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
-      "summary": "Asian stocks skid, Wall Street and bonds aided by oil slip&nbsp;&nbsp;Reuters",
+      "summary": "Asian stocks slip, Wall St and bonds benefit from oil skid&nbsp;&nbsp;Reuters",
       "content": "",
       "published": "2026-10-19T00:38:00+00:00",
       "source": "Reuters World",
@@ -949,7 +995,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXdNZG9zOHV1cGdzbEhITUdRMkRJWVo5eXo5SUZFMXp5UTlrV1pFVzdxT1NrYXV4Vjk1TDVQVG40akFTdHNsN1g3VlYzNl84YTJONkZFei1WdGRWYXVrTnhZQUNzYTVnWHkxRXh1d0xYSnRrd2U4V3hxTGJrdE5kc05VNnBNaTZJRUlmZFVJQ01idkt2TWpWbnliWQ?oc=5",
       "summary": "Massachusetts GOP lieutenant governor candidate suspends campaign after arrest in car crash&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-18T23:24:00+00:00",
+      "published": "2026-10-18T21:52:17+00:00",
       "source": "AP World",
       "sources": [
         "AP World"
@@ -963,29 +1009,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Zelenskyy: Russia continues to attack Ukraine’s oil, gas and energy sectors - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHB1R0Rad1hFV1VuUFE1dlB0a05OclkzZHRsU190UDVSTXIzMTRmU0NQdmZhRjNuRHZHOWJ0Y2tQS3pYSEtyQUtlN0xzVmc4NTR3NVc3WkNwa0puSFIxQ3Q1VjRiUWY4Q2dodExyZWR1VmdJMjhlcWdTaVN2MF81b21lTXBRc3FqRVJTUGJFbG11d9IBlwFBVV95cUxNbUJRUUQ0eUowX05CbWZKc0pRVGh2NW9RSE10aURteV9COE1yakhMUEZxY1Z5MnYzWFRXS3hjNEdrZWhBMDAtdUI3WjJqbC1NYlU3RzE3bmRqMFh6TVBnSlNHdXZrenNJOWRDbU13S1ZLaV9jWkRWRk5zc0dGMWpXQ1Bzd19fdTFOeEQ4TWpmcmlsM05PWmU4?oc=5",
-      "summary": "Zelenskyy: Russia conti",
-      "content": "",
-      "published": "2026-10-18T17:07:52+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
     },
     {
       "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron - The Motley Fool",
@@ -1010,6 +1033,29 @@
         "半导体",
         "台积电",
         "亚太市场"
+      ]
+    },
+    {
+      "title": "Nova (NVMI) Pulls Back As The AI Chip Story Tests Whether The Stock Is A Bargain - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTktVbVpPU05IaHBsVUVXUy1HVWZQOVEzME9SUTNfVzN5YnJHdml2dEJjNEUzaU9tVEhMX0RnUk45ci00OVk5dTRic1RGWFZjMFd5bTlqQ0ZuUXVfY0Y3M3R6cm9ZX3VNeDJDclI5allOdmpKY3pEdWdyRlFnVEVrYlJHUG9KaDJYeWdCVVlQSVBLTHhHME1ibVBpcTA0OHZwbkZDbDhFdWFQaVpjOHFvNi1NSHVudVBJRTB0b2s2a2ZNMmlXWWxj0gHMAUFVX3lxTE5GdU5YM1kzQU51MlM3bXZ0S00ySGZzSmlnR3E0TXlhcFpsYkFhS1o5VVpleDhPdktaTXBTSWp5WHB4UlVWNjB2ZzNobnppc2ZZWWZtS0dGYWlULVl0RGg0b3Q4bms3N2o5OWxtRGlMRGRCcTN3aG9BdmNCLTd1anNmX2xETjNYY2ZuZjhlWGpabHFKc0wxNzkyd3l4aFhJYlJwR1RyUm5VNk9jQXN0SVFyYUdUQlcyUlpUQVlZaURQN3RTaVNUMXhsRm40dQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTktVbVpPU05IaHBsVUVXUy1HVWZQOVEzME9SUTNfVzN5YnJHdml2dEJjNEUzaU9tVEhMX0RnUk45ci00OVk5dTRic1RGWFZjMFd5bTlqQ0ZuUXVfY0Y3M3R6cm9ZX3VNeDJDclI5allOdmpKY3pEdWdyRlFnVEVrYlJHUG9KaDJYeWdCVVlQSVBLTHhHME1ibVBpcTA0OHZwbkZDbDhFdWFQaVpjOHFvNi1NSHVudVBJRTB0b2s2a2ZNMmlXWWxj0gHMAUFVX3lxTE5GdU5YM1kzQU51MlM3bXZ0S00ySGZzSmlnR3E0TXlhcFpsYkFhS1o5VVpleDhPdktaTXBTSWp5WHB4UlVWNjB2ZzNobnppc2ZZWWZtS0dGYWlULVl0RGg0b3Q4bms3N2o5OWxtRGlMRGRCcTN3aG9BdmNCLTd1anNmX2xETj",
+      "content": "Novo (NVMI) has come under pressure recently, with the share price down about 10% over the past month and roughly 26% over the past 3 months, drawing fresh attention to its valuation.\nThe latest pullback comes after a strong multi year run, with Nova’s share price sliding in recent weeks even as the 3 year total shareholder return is above 200%. This pattern suggests that recent momentum may be fading while longer term holders still sit on substantial gains.\nSpot fresh ideas by comparing Nova’s recent pullback with a hand picked group of 20 high quality undiscovered gems that also pair strong fundamentals with long term potential. Nova has pulled back significantly while longer term holders still sit on large gains. Do you lean into the reset now, or wait for a cleaner entry once the valuation picture is clear?\nAt a last close of $321.20 versus a widely followed fair value estimate of $515.13, Nova is framed as materially mispriced, with that gap hinging on how its metrology tools track rising chip complexity and capacity builds.\nThe accelerating complexity of semiconductor devices driven by AI workloads, larger die sizes, advanced nodes and heterogeneous packaging continues to fuel demand for Nova’s advanced metrology solutions across logic, foundry and memory. This demand can support higher revenue and earnings as customers expand metrology intensity. Ongoing global investments in semiconductor manufacturing capacity, including new fabs and regional diversification, are broadening Nova’s customer base and spreading exposure across more geographies. This can support a more resilient revenue mix and smoother operating margins over time.\nStill, the narrative around Nova can shift quickly if competition from China erodes its roughly 30% revenue exposure there, or if sector wide multiple compression deepens valuation pressure.\nFind out about the key risks to this Nova narrative .\nAnother View: Cash Flows Paint A Tougher Picture For Nova\nPrice targets and earnings based fair values present Nova as materially undervalued, yet the Simply Wall St DCF model points the other way. On that approach, the current share price of $321.20 sits well above an estimated future cash flow value of $145.57, suggesting a stock that screens as expensive rather than cheap.\nThat gap raises a practical question for you: Do you give more weight to analyst earnings projections and multiples, or to a cash flow model that signals less room for error at today’s price?\nLook into how the SWS DCF model arrives at its fair value.\nSimply Wall St performs a discounted cash flow (DCF) on every stock in the world every day ( check out Nova for example ). We show the entire calculation in full. You can track the result in your watchlist or portfolio and be alerted when this changes, or use our stock screener to discover 33 high quality undervalued stocks . If you save a screener we even alert you when new companies match - so you never miss a potential opportunity.\nPlenty of optimism sits alongside clear concerns in the Nova story, which means your view matters right now more than ever. To weigh those trade offs for yourself, start with the 4 key rewards and 1 important warning sign .\nIf Nova has your attention, do not stop here. Broaden your watchlist now so you are not relying on a single story to drive your next move.\nTarget potential bargains that pair quality with attractive pricing by scanning the 33 high quality undervalued stocks for ideas that may complement your Nova thesis.\nBalance out single stock risk and seek steadier compounding by using the 32 resilient stocks with low risk scores to surface businesses with more resilient profiles.\nHunt for tomorrow&#x27;s leaders before the crowd notices by running the 20 high quality undiscovered gems and lining them up alongside Nova on your watchlist.\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data\nand analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your\nfinancial situation. We aim to bring you long-term focused analysis driven by fundamental data.\nNote that our analysis may not factor in the latest price-sensitive company announcements or qualitative material.\nSimply Wall St has no position in any stocks mentioned.\nValuation is complex, but we&#x27;re here to simplify it.\nDiscover if Nova might be undervalued or overvalued with our detailed analysis, featuring fair value estimates, potential risks, dividends, insider trades, and its financial condition.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com\nWhen GPS fails: this small cap is fixing a $54B drone problem\n· 0 comments users have commented on this narrative\nI Went Looking for a Crashed Space Stock.I Found a Machine That Remembers Earth.\ndeyan_89mg6 on Space Exploration Technologies · 9 days ago\nAttractive / Buy on weakness / positive, but valuation-disciplined\n· 0 comments users have commented on this narrative\nBroadcom&#x27;s $115 Billion AI Opportunity Changes The Valuation Equation\n· 2 comments users have commented on this narrative\nDrone investors all look up. The most strategic frontier might be the one underwater.\nSubsea is a small, high-margin, slow-moving market with a tiny customer list. Threat of disruption is high too.\nSorry, when Teslas are flying now, I will only look up!!\nHow drones are changing the world of business, not just the battlefield\nDrones are more than just toys. They are now changing the face of numerous industries. We take a look into the wide world of drones.\nEngages in the design, development, production, and sale of process control systems used in the manufacture of semiconductors in Taiwan, the United States, China, Korea, and internationally.\nHigh growth potential with excellent balance sheet.\nHow drones are changing the world of business, not just the battlefield AN\nWhich experience stocks actually have pricing power? CH\nArena REIT (ASX: ARF): The Tenant Failed. The Buildings Didn&#x27;t.\n· 0 comments users have commented on this narrative\nHarishPK on lululemon athletica · about 7 hours ago\nQuantifying the Transition: Why Lululemon’s Moat Remains Intact\n· 3 comments users have commented on this narrative\nAlphamin Resources: High-Grade Tin in a Tight Market\n· 0 comments users have commented on this narrative\nAI Factory Demand And Physical AI Workloads Will Drive Multi‑Year Upside Potential\n· 8 comments users have commented on this narrative\nAI Infrastructure And Cloud Commitments Will Drive Long-Term Upside For This Business\nAI Infrastructure And Cloud Services Will Drive Long-Term Value In This Retail Giant\nGEMOILSpelliscy on Terra Balcanica Resources · 6 days ago\nDear Sir,I recently read your article on Orestocks, which led me to discover this website. Thank you for that. It certainly appears to have very good potential, but I should like to make a public request to the owner of this service.Is there no way for me to leave a comment on a stock if it lacks a “narrative”? I have looked, but I cannot seem to find a way to do so.This is rather inconvenient if one’s focus, much like my own, is on “high risk / 100x reward” types of stocks such as this one.I do apologize for leaving this note as a comment on your article. I share your view on this stock, as you can likely tell from the category of mining stocks in which I personally place Terra Balcanica, as I mentioned just a few sentences prior.I should also like to give you a friendly reminder to make the minor mathematical correction on this website as well, just as you have corrected it on Orestocks. The corrected $0.0107 is every bit as extraordinary as $0.0089; there is no difference in that regard. I had done the calculations myself before reading your work and arrived at the same conclusion. However, I must confess that I have become a little disappointed that the market does not seem to have noticed it.Warm regards,\nThe contracted-volume angle is the strongest part of this thesis, since 16 agreements covering about 20% of DRAM volume gives some floor under pricing. What I would watch is the capex response: with margins this high, DRAM and HBM supply additions from Samsung, SK Hynix and the Chinese players typically arrive 4 to 6 quarters later. I would frame valuation on through-cycle earnings rather than peak EPS, and track HBM share at Nvidia&#x27;s next platform and contract pricing resets as the key signals of whether this cycle is really structural.",
+      "published": "2026-10-19T04:12:52+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
       ]
     },
     {
@@ -1073,46 +1119,6 @@
       "assets": []
     },
     {
-      "title": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHpkelZ3dVpCdWF5d2JkVGE3TmZGUzJXLUtsQWUxQnZWVXBtNWJQY1dQOVZJakRiaWRrYlZBQVhsX0JJZ2FKM3AtTW0zRWN3TGNtY2NERnRNckJFU2s1LWNVUUVDb1d3XzVFSHJwT0VOMGVieVBiZHhTbk8ta3A0MkFQeUxUeGhtTnU0aHl0OG0taVh0VU45Y25HNkhwQ2RKWGEwa2w5d0o5RVJPNURXUXRoajdReG5ZbG1YbU1hVQ?oc=5",
-      "summary": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T08:31:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Mass protests in France spiral into worst riots in years - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3ZSMTR3dmZDamlnT3EyMWx2U1hma3VycjFxblg3SmxXMi1mUEhibjJVTV8ySGRheTEyVndBWEF4em1sbEdoZ0pKcU0tS0JVSzVVS3VZdUVrOXdHNVNYdThleU0zaDE2RXpwMWxyYURCNGt1akVuRUF0aWhYY1VkQTV6cG9UeWd2eVRjTXV6U2V2NnpCeS1zMUl5M2N3Wk16a0t3ZQ?oc=5",
-      "summary": "Mass protests in France spiral into worst riots in years&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-18T02:38:28+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "UK housing market showing signs of mortgage rates impact, Rightmove says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWFjYmdlWlpxc2JxSGc1YnZhM3ptTFp2bHdQbUUwVS1XTnoyeFpMVXh5TjNINy0tWm5hMmViQ2xpdzRFZWRHZjRyMHF4TkhDY0l0ZXhjS2FUTWpaNlpGRjl0ZEFUTm9qR1B2bUpYTnpWQjVNWXhwZDR0OFo0V2RheDdobm5jMGFCNWZuXzQ5WUdzM20xQ2dkd3JkUW9PWFh3Z1JrREVxcnJyNG1UR0M5ZXM0SQ?oc=5",
       "summary": "UK housing market showing signs of mortgage rates impact, Rightmove says&nbsp;&nbsp;Reuters",
@@ -1133,15 +1139,15 @@
       "assets": []
     },
     {
-      "title": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUllscVFHdi1ER1I5djNzUWkwbXpXUGVTRkRVLUNWSWRBUU9lek5waWFCVjJwMXphLXFHaV9EUkF0SjdXVGMwNnpLYl9xZ2xrWDFvZzlrN2RwV2J4QUt1UUtiLTlzZTA1Qms2eTMtTjMyRXRGblJXVkF5NV9nTzEzTE1rbDFLUDdNOWRuQlhrS1BIVXFRdVJiQUtuT0lmODVRcVZ1dTRMeU11SkJuWlJvNGNJUjJhY1RBVGN1WWJGQ0JyZw?oc=5",
-      "summary": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence&nbsp;&nbsp;Reuters",
+      "title": "Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria after bomb threat - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0VEeWVKc016WmRCZlRtMkVXS09IaEJOUTZpM080ZlBGV2ZJNjVBSWhJam5HWU5WUHRSektQaUJ0ejFoRUtmNk9scjZQbmNzUUJuRnM1b2F0TmlyTHBreGd5OUNxR185ZE5nb3d5TzFIeUcwamV5SUw4Y2VxTWpfOUM5Q2M1UnpoTnBkMk1SQktlTFNGMDV5dw?oc=5",
+      "summary": "Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria after bomb threat&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-18T09:08:02+00:00",
-      "source": "Reuters World",
+      "published": "2026-10-18T20:28:00+00:00",
+      "source": "AP World",
       "sources": [
-        "Reuters World",
-        "GN Geopolitics"
+        "AP World",
+        "Al Jazeera"
       ],
       "source_count": 2,
       "category": "geopolitics",
@@ -1157,8 +1163,28 @@
       "title": "Major fire at Canada military base leaves four dead, dozens injured",
       "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "content": "By Jessica Murphy ,Â  Canada digital editor Â  and Â  Nadine Yousif ,Â  Senior Canada reporter ,Â  Reporting from Edmonton\nFour members of the Canadian military have died and dozens were injured in a major fire at a base in the province of Alberta.\nAddressing the nation on Sunday from Ottawa, Prime Minister Mark Carney described it as \"one of the worst tragedies for the forces on Canadian soil in peacetime\".\nThe fire broke out at about 16:00 local time (22:00 GMT) on Saturday at Canadian Forces Base Wainwright, one of the country&#x27;s busiest military training bases, and is now contained. Its cause is still unclear, but officials said it did not appear tied to \"terrorist activity\".\n\"The nation is in mourning for those brave members of our armed forces who we have lost,\" said Carney.\nThe BBC has confirmed that Sgt Morgan Wong, Pte Shaun Farrell, Pte Aidan Goulding and Pte Hayden Lykkemark have died.\nOf the 39 injured people being cared for in hospital, at least 19 are in a critical condition, Alberta Premier Danielle Smith said at a press briefing on Sunday evening.\nFire and rescue teams are remaining at the scene to contain any potential flare-ups, Wainwright Mayor Bruce Pugh told the BBC.\nMembers of the infantry had been conducting \"high-intensity combat training with live munitions\" at a grenade range and attack range, where 10 soldiers practise attacking a simulated enemy, Maj-Gen Wade Rutland told reporters at the briefing.\n\"There was a multitude of ordnance moving through the Wainwright training area,\" he said, including a grenade launcher, grenades, small arms and ammunition.\nA grass fire ignited about 1km (0.6 miles) away, with the cause currently under investigation, and moved toward the attack range.\n\"What I would say is there was multiple training activities happening throughout the training area at the time,\" he said. \"Uncommonly strong winds caused the fire to spread rapidly and shift direction towards the range administrative area.\"\nCannon fire had been heard coming from the base on Saturday before it suddenly stopped, Mayor Pugh told the BBC, noting it&#x27;s not uncommon to hear cannons being fired there.\nNews then came through that local emergency services had been deployed to an \"all hands on deck\" situation.\nCarney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".\nThe people who were hurt were on the attack range and included reservists and soldiers from the Princess Patricia&#x27;s Canadian Light Infantry, officials said.\nIn a statement early on Sunday, the Canadian Armed Forces said that \"while the incident remains under investigation, at this time, there are no indications that it was the result of any terrorist activity\".\nRutland told the briefing: \"We do not believe this [incident] to be a result of any oil and gas infrastructure nor any outside interference\".\nWhat we know so far about deadly fire at Canadian military base\nWainwright, about 210km (130 miles) east of Edmonton, Alberta&#x27;s capital, is one of the main bases used by the Canadian military for live-fire training exercises, and it houses troops from Canada and allied countries. About 690 military personnel and 300 civilian workers are on site on a typical day.\nWarren Thirsk, an emergency department doctor at the Royal Alexandra Hospital, told broadcaster CBC that the number of patients involved in the incident had \"completely overwhelmed\" healthcare facilities in Wainwright.\nThe Royal Alexandra Hospital is in Edmonton, where patients are being transferred. The hospital at first declared a code orange - a disaster-response protocol for a high-casualty incident. That has since been stood down.\nImage caption, Wainwright is about 200km (125 miles) from Edmonton, the provincial capital\nThe provincial health agency said in a statement on Sunday that it deployed 30 units directly into Wainwright, including 22 ground ambulances, six fixed-wing and two rotary wing units.\n\"It is anticipated that care for patients impacted by this incident will be intensive and will add to existing high demand on acute care in Alberta,\" it said, adding that patients were being treated at facilities across the province.\nSTARS, the regional air ambulance service, said aircraft and crews from Edmonton, Saskatoon, and Calgary had been deployed.\nBrandon Simmons, who lives in long-term care at the Wainwright Health Centre, told Reuters that when code orange was announced, nurses dropped everything and immediately started grabbing stretchers, gurneys and medical equipment before running to the front entrance.\nAmbulances kept coming \"throughout the night\", he said.\n\"I heard people screaming inside of those vehicles that will never end up being out of my mind,\" he recalled, saying it was \"like a scene from a war movie\".\nSeveral dead and injured in major fire at Canada military base",
+      "content": "Figure caption, Carney: &#x27;Canada must now serve&#x27; service members killed in fire\nBy Jessica Murphy ,Â  Canada digital editor Â  and Â  Nadine Yousif ,Â  Senior Canada reporter ,Â  Reporting from Edmonton\nFour members of the Canadian military have died and dozens were injured in a major fire at a base in the province of Alberta.\nAddressing the nation on Sunday from Ottawa, Prime Minister Mark Carney described it as \"one of the worst tragedies for the forces on Canadian soil in peacetime\".\nThe fire broke out at about 16:00 local time (22:00 GMT) on Saturday at Canadian Forces Base Wainwright, one of the country&#x27;s busiest military training bases, and is now contained. Its cause is still unclear, but officials said it did not appear tied to \"terrorist activity\".\n\"The nation is in mourning for those brave members of our armed forces who we have lost,\" said Carney.\nThe BBC has confirmed that Sgt Morgan Wong, Pte Shaun Farrell, Pte Aidan Goulding and Pte Hayden Lykkemark have died.\nOf the 39 injured people being cared for in hospital, at least 19 are in a critical condition, Alberta Premier Danielle Smith said at a press briefing on Sunday evening.\nFire and rescue teams are remaining at the scene to contain any potential flare-ups, Wainwright Mayor Bruce Pugh told the BBC.\nMembers of the infantry had been conducting \"high-intensity combat training with live munitions\" at a grenade range and attack range, where 10 soldiers practise attacking a simulated enemy, Maj-Gen Wade Rutland told reporters at the briefing.\n\"There was a multitude of ordnance moving through the Wainwright training area,\" he said, including a grenade launcher, grenades, small arms and ammunition.\nA grass fire ignited about 1km (0.6 miles) away, with the cause currently under investigation, and moved toward the attack range.\n\"What I would say is there was multiple training activities happening throughout the training area at the time,\" he said. \"Uncommonly strong winds caused the fire to spread rapidly and shift direction towards the range administrative area.\"\nFigure caption, Watch: Incident at Canadian military base &#x27;unheard of&#x27;, says local mayor\nCannon fire had been heard coming from the base on Saturday before it suddenly stopped, Mayor Pugh told the BBC, noting it&#x27;s not uncommon to hear cannons being fired there.\nNews then came through that local emergency services had been deployed to an \"all hands on deck\" situation.\nCarney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".\nThe people who were hurt were on the attack range and included reservists and soldiers from the Princess Patricia&#x27;s Canadian Light Infantry, officials said.\nIn a statement early on Sunday, the Canadian Armed Forces said that \"while the incident remains under investigation, at this time, there are no indications that it was the result of any terrorist activity\".\nRutland told the briefing: \"We do not believe this [incident] to be a result of any oil and gas infrastructure nor any outside interference\".\nWhat we know so far about deadly fire at Canadian military base\nWainwright, about 210km (130 miles) east of Edmonton, Alberta&#x27;s capital, is one of the main bases used by the Canadian military for live-fire training exercises, and it houses troops from Canada and allied countries. About 690 military personnel and 300 civilian workers are on site on a typical day.\nWarren Thirsk, an emergency department doctor at the Royal Alexandra Hospital, told broadcaster CBC that the number of patients involved in the incident had \"completely overwhelmed\" healthcare facilities in Wainwright.\nThe Royal Alexandra Hospital is in Edmonton, where patients are being transferred. The hospital at first declared a code orange - a disaster-response protocol for a high-casualty incident. That has since been stood down.\nImage caption, Wainwright is about 200km (125 miles) from Edmonton, the provincial capital\nThe provincial health agency said in a statement on Sunday that it deployed 30 units directly into Wainwright, including 22 ground ambulances, six fixed-wing and two rotary wing units.\n\"It is anticipated that care for patients impacted by this incident will be intensive and will add to existing high demand on acute care in Alberta,\" it said, adding that patients were being treated at facilities across the province.\nSTARS, the regional air ambulance service, said aircraft and crews from Edmonton, Saskatoon, and Calgary had been deployed.\nBrandon Simmons, who lives in long-term care at the Wainwright Health Centre, told Reuters that when code orange was announced, nurses dropped everything and immediately started grabbing stretchers, gurneys and medical equipment before running to the front entrance.\nAmbulances kept coming \"throughout the night\", he said.\n\"I heard people screaming inside of those vehicles that will never end up being out of my mind,\" he recalled, saying it was \"like a scene from a war movie\".\nSeveral dead and injured in major fire at Canada military base",
       "published": "2026-10-18T23:06:09+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Threat forces Israel to Austria flight into emergency landing",
+      "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "content": "Image caption, An Austrian Airlines jet similar to the one diverted to Bulgaria\nAn Austrian Airlines flight from Israel to Austria has been forced to divert to Bulgaria after a reported bomb threat.\nThe Airbus A320 plane was travelling from Tel Aviv to Vienna on Sunday night but made an emergency landing in Sofia, where passengers were evacuated, the Bulgarian transport ministry said in a statement.\nThe Bulgarian air force scrambled a MiG-29 fighter jet to escort the airliner, the transport ministry said. No injuries have been reported and an investigation has begun.\nIt comes after a pilot attempted to hijack a Flydubai flight en route to Tel Aviv last month by attacking the captain, before the flight&#x27;s crew and passengers overpowered him and landed the plane safely in Saudi Arabia.\nBulgarian and Israeli media reported that a bomb threat had been made.\nAustrian Airlines has confirmed a threat was made, without giving further details. A spokesperson told the AFP news agency there were 51 passengers and six crew members on board the jet.\nAuthorities conducted a security search of the plane after it landed in Sofia, about 30 minutes from when the alert was first raised. It was over Romania when it diverted to Sofia.\nFlight tracking data showed Austrian Airlines 82 left Ben Gurion Airport in Tel Aviv on Sunday evening before landing at Vasil Levski airport in Sofia three hours later.\nLast week, Croatia and Germany both scrambled fighter jets after a commercial flight from the Greek holiday island of Corfu to the German city of Nuremberg accidentally sent out a hijacking alert.\nThe BBC has sought further comment from Lufthansa, the owner of Austrian Airlines.\n&#x27;I was not going to let others die&#x27; - pilot of Flydubai flight describes cockpit attack by co-pilot\nFlydubai attacker began a &#x27;drift towards extremism and terrorism&#x27; in Australia, UAE says",
+      "published": "2026-10-19T02:41:50+00:00",
       "source": "BBC World",
       "sources": [
         "BBC World"
@@ -1194,6 +1220,28 @@
       "assets": []
     },
     {
+      "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+      "summary": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech&nbsp;&nbsp;Bloomberg.com",
+      "content": "",
+      "published": "2026-10-18T23:47:43+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.2,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：黄金 及相关产业链。",
+      "assets": [
+        "黄金"
+      ]
+    },
+    {
       "title": "China A-share Pre-Market: Top-Level Policy Backing for Computing Power Networks and CXMT's 100-Billion-Yuan Profit Forecast; AI Supply Chain Earnings Beat Expectations - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZXzVLdXJ2VUpOd1EwQVFfVGxsMUQxNkJ4Y3c0SFNpZ0VYclFOcXhCMHJUZUVieHlsVEp4c0tKMk9mbkhHcENKLS0xVjNzYVRrX1ljaEpKd3VrMklmVmF4VEpwRFkxZktIY0l6eS1ESFFPd3l1T0E?oc=5",
       "summary": "China A-share Pre-Market: Top-Level Policy Backing for Computing Power Networks and CXMT's 100-Billion-Yuan Profit Forecast; AI Supply Chain Earnings Beat Expectations&nbsp;&nbsp;BigGo Finance",
@@ -1220,6 +1268,31 @@
       ]
     },
     {
+      "title": "In response to NVIDIA's standardization requirements, Samsung will collaborate with Taiwan Semiconductor for the first time to produce HBM! - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWW4xRlpxMXI3dGRULXVXU2R1dXhLaTM1WFEtWjM3SzliZG5WbmNyNi1ZT2hoOVp4NGVHbG1BYl8xeHd4S2pOR0ZOVVVyTWNPdks0dGhUS1llQXJLLXFhR1dISmkyTUJHTjluZjZwSzlOcUY5ZktzZzU4a3RnSjdSSGQ4Si1JM2tWWkJjNVFvSW9SUFhmVjByUUVhbGZOT3RJeE1TNkoxOFItTTl4MXVBaEZrYVd3RnZVWmJnLWJn?oc=5",
+      "summary": "In response to NVIDIA's standardization requirements, Samsung will collaborate with Taiwan Semiconductor for the first time to produce HBM!&nbsp;&nbsp;<font color=\"#6f",
+      "content": "",
+      "published": "2026-10-19T03:27:10+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.1,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 / 台积电 / 亚太市场 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体",
+        "台积电",
+        "亚太市场"
+      ]
+    },
+    {
       "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
       "summary": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
@@ -1240,32 +1313,6 @@
       "assets": []
     },
     {
-      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-      "content": "Top analysts are bullish on the growth potential of these 3 stocks\nA cyclist rides past the Meta sign outside the headquarters of Facebook parent company Meta Platforms in Mountain View, California, on Nov. 9, 2022.\nFears around the artificial intelligence trade and higher pressure on oil prices are weighing on global markets, but a few stocks offer investors solid growth prospects even in choppy times.\nInvestors with a long-term horizon can look beyond the ongoing volatility and track the recommendations of top Wall Street analysts to pick attractive stocks with strong long-term growth potential.\nHere are three stocks favored by some of Wall Street&#x27;s top pros, according to TipRanks, a platform that ranks analysts based on their past performance.\nHealth insurer UnitedHealth delivered better-than-expected results for the third quarter of 2026. The company also raised its full-year earnings outlook, reflecting continued progress on its turnaround plan.\nFollowing the Q3 print, Morgan Stanley analyst Erin Wright reiterated a buy rating on UNH stock with a price target of $529 . \" UNH &#x27;s beat & raise reinforces turnaround momentum, with improving MA [Medicare Advantage]/Optum Health supporting a higher &#x27;26 EPS baseline & upside to &#x27;27 consensus,\" said Wright.\nThe five-star analyst added that better-than-expected performance in the UnitedHealthcare and Optum Health businesses supported another upgrade to the company&#x27;s 2026 adjusted earnings per share outlook to at least $20.50. Wright noted that UNH raised the earnings guidance despite incremental investments planned for the fourth quarter of 2026.\nFurthermore, Wright highlighted management&#x27;s view that the consensus 2027 EPS of $22.63 was too conservative. Reaching even the low end of the company&#x27;s 13% to 16% long-term EPS growth target would imply an EPS of $23.17.\nWright raised her 2026 EPS estimate to $20.65 from $19.82 and 2027 EPS to $23.24 from $22.54, reflecting the latest upside and an improving 2026 medical loss ratio to 87.4% from 88.1%. Overall, she believes that UNH&#x27;s operational performance continues to improve, increasing her confidence in its UHC strategy and Optum Health turnaround execution.\nWright ranks No. 264 among more than 12,500 analysts tracked by TipRanks. Her ratings have been successful 64% of the time, delivering an average return of 15%.  See UnitedHealth Ownership Structure on TipRanks.\nSocial media giant Meta Platforms has been making headlines since the launch of its Muse AI agent, which is seeing solid traction . Investors look forward to updates on the company&#x27;s AI strategy when it announces its third-quarter results on Oct. 21.\nHeading into Q3 earnings, Guggenheim analyst Michael Morris maintained a buy rating on Meta stock and increased his price target to $850 from $700, reflecting higher estimates for 2027. He expects Muse usage momentum and engagement levels to shape investor sentiment into the Q3 earnings call.\nSpecifically, Morris highlighted that, according to Apptopia, Muse reached 1.3 million daily active users in five weeks versus 300,000 in the first week. Given that Muse&#x27;s current adoption represents less than 0.05% of Meta&#x27;s 3.6 billion daily active user base, the analyst expects management to prioritize boosting usage over near-term monetization.\n\"Over time, we believe Muse monetizes primarily through businesses paying to reach consumers through their agents, consistent with the economics of Meta&#x27;s core advertising business, rather than consumer wallets,\" said the five-star analyst. He added that the checkout integrations with Shopify and PayPal reflect this framework.\nWhile there are concerns that a rival could overtake Muse or the recently launched Muse Wonder and push Meta into a prolonged cycle of overinvestment, Morris remains bullish due to the company&#x27;s strong record in scaling WhatsApp and competing strongly with TikTok via Reels as well as free distribution to an extensive user base.\nMorris ranks No. 629 among more than 12,500 analysts tracked by TipRanks. His ratings have been successful 57% of the time, delivering an average return of 13.2%.  See Meta Platforms KPIs on TipRanks.\nNext is semiconductor company Marvell Technology . Earlier this month, Marvell held its Investor Day, where it raised its total addressable market estimate to $400 billion by 2030, reflecting solid AI-led demand tailwinds.\nAfter hosting a non-deal roadshow with Marvell &#x27;s senior management following the Investor Day, Stifel analyst Tore Svanberg reiterated a buy rating on the stock with a price target of $370 .\nThe five-star analyst said that a major focus of the roadshow was the XPU and XPU Attach mix, as Marvell&#x27;s Custom business expands toward its FY31 revenue target of $30 billion. In this regard, management reiterated that it expects a balanced mix of XPU and XPU Attach revenue in FY31, though it noted that either segment could grow rapidly enough to shift the mix toward 60/40 or 40/60.\nWhile XPU drove most of the nearly $1.5 billion Custom revenue in FY26, Svanberg expects Marvell&#x27;s XPU Attach business to grow substantially through the end of the decade, leading to a more balanced mix in this business. At the Investor Day event, the company raised its FY29 Custom target from more than $10 billion to over $12 billion, mainly driven by strength in the XPU Attach business.\nSvanberg said that another key topic in the roadshow was whether Marvell can secure enough capacity to meet its raised targets. Management said that it met with suppliers ahead of Investor Day to share its five-year goals and received commitments to support these targets. The analyst believes that Marvell&#x27;s supply chain commitments give it a competitive edge over rivals as customers seek reliable partners for large-scale infrastructure buildouts.\nSvanberg ranks No. 91 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 58% of the time, delivering an average return of 31.8%.  See Marvell Technology Statistics on TipRanks.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-18T12:34:51+00:00",
-      "source": "CNBC Top",
-      "sources": [
-        "CNBC Top"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 12.0,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Latino voters helped put Trump back in the White House. What’s their next move? - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFBVRGczQ3NZa3MxX0c2VXB0enIyQ0twZkwtWjI5RjhpWGdHOHBkZndUYU5CWmhOeHYzRUFEMndlWHRhOThRdFB5THlka0xaY1U3MUdNMzh2bzVkd25ScEtrYkk2LWJtdl9XVFlITWY4N3AwREZCd1ZpMURkZGJhaWZTV2ZLcHA0cjBreHZBSTFrSEJBQ1pIcTRKX3gzSUg3bUMtUTJPcWd3QQ?oc=5",
       "summary": "Latino voters helped put Trump back in the White House. What’s their next move?&nbsp;&nbsp;AP News",
@@ -1278,26 +1325,6 @@
       "source_count": 1,
       "category": "us",
       "category_zh": "美国",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "content": "Figure caption, Watch: James Waterhouse speaks to looted shop owners on the streets of Paris\nFrench President Emmanuel Macron has called for \"calm and order\" after a major day of protests turned into rioting and looting on Saturday, and as some disorder continued in Paris on Sunday.\nIn a national address from the ÃlysÃ©e Palace, he warned those who had taken part not to \"escalate\", adding: \"We all feel anger and shame.\"\nSome 550,000 demonstrators took to the streets for largely peaceful protests against rising fuel prices, the cost of living and deteriorating public services, including schools.\nMacron said a distinction must be drawn between the \"legitimate demands\" of protesters and \"those who destroyed, smashed and looted\".\nPolice have arrested about 2,400 people, according to France&#x27;s interior ministry.\nThe French president said \"nothing justifies\" the \"unbridled\" violence seen and said those involved would face justice.\nGroups of rioters, some dressed in black and wearing masks and balaclavas, also came out in Paris, Marseille and other towns and cities, with some setting fire to cars and buildings.\nFigure caption, &#x27;Very upsetting&#x27;: Residents in shock after historic French town hall set alight\nOn Sunday, looting and clashes with police continued on a smaller scale in parts of the capital and Lyon.\nTear gas and stun grenades were fired at hundreds of people in Paris, according to the AFP news agency, and bottles and rocks were again hurled at police.\nSunday saw cities across the country confront the impact of what developed into one of the worst bouts of disorder in modern French history.\nIn Limoges, the ornate 19th Century city hall was gutted by a fire started by rioters on Saturday, its clock tower and roof collapsing and the flames took hold.\nImage caption, A view of the damage inside Limoges town hall on Sunday morning\nSpeaking near the ruined building, AnnÃ¨yse said: \"This is very upsetting. Harming heritage buildings just because you are angry at the government is selfish, I think. It&#x27;s hurting everybody.\"\n\"It&#x27;s awful and unbelievable,\" said another man who gave his name as Gerrard. \"We are very sad and I think it will be a long time to put it back as it was before.\"\nShopkeepers were seen early on Sunday morning picking up large shards of glass in Paris as rubbish trucks cleared up debris on some of the larger streets.\nImage caption, Fires were lit and shops looted during smaller scale disorder in Paris on Sunday\nWidespread looting took place across the cities of Paris, Marseille and Lille, as well as other areas.\nMacron said local prefects and mayors would draft measures to protect shops and civic buildings.\nThe president also said there would be \"full transparency\" over the police response to the demonstrations.\nTear gas and water cannon were turned on crowds over the weekend and riot police were seen hitting people with batons in several places.\nFrance&#x27;s interior ministry said about 1,000 police officers were injured on Saturday, seven of them seriously.\nImage caption, A man tries to extinguish a fire in Paris on Sunday\nStudent protests which began last month escalated significant on Saturday after they were joined by trade union members and other anti-government groups.\nThe response from political figures has pointed to France&#x27;s deep political divisions as the country prepares for an election in April which could see the hard-right pitted against the hard-left.\nFrance&#x27;s Interior Minister Laurent NuÃ±ez said that while demonstrating was a fundamental right, there were \"outrages\" committed by \"several thousand far-left individuals\" who were determined to target public buildings and confront the police.\nLater, they were joined by \"delinquents who looted and ransacked numerous businesses in several cities in France\", he said.\nJean-Luc MÃ©lenchon - leader of the hard-left La France Insoumise party - heavily criticised NuÃ±ez and police chiefs on social media.\nHe said they had \"shown complete incompetence\" with their handling of the demonstrations and called them \"specialists in organised chaos\".\nMeanwhile, the leader of the hard-right National Rally party, Marine Le Pen, condemned the \"exploitation\" of anger \"by political forces that encourage violence\".\nBurnt out cars and shattered glass on Paris streets after protests turn to riots and looting\nViolent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests\nAre student protests being manipulated ahead of France&#x27;s presidential election?",
-      "published": "2026-10-18T20:33:21+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
       "stars": 2,
       "score": 11.9,
       "is_hypothetical": false,
