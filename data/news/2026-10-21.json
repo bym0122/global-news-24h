@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T18:26:34.605663+00:00",
+  "generated_at": "2026-10-21T20:22:59.720610+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-20T18:26:15.621717+00:00",
-  "window_end": "2026-10-21T18:31:15.621717+00:00",
+  "window_start": "2026-10-20T20:22:42.060413+00:00",
+  "window_end": "2026-10-21T20:27:42.060413+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -52,11 +52,80 @@
       "assets": []
     },
     {
-      "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTZkLUl6WUxDbU5jQ0VIX0RIR0xiRkdiQTBOS1pUYjM5TEstN0M2WjhhLTFtZGMxckx3cnVPckR6bFhxbWptSjc1ZjJ5Vy02YldETk9qemJJR3UxZWgxVjhCVjRlQkt6SmV4OU9vZFlZekRqc3ZEaHBJcWMtWDNkbDVKYmR0SjlubzUwSzdWWXRFSmFzdkZKazc5MDFIV0kwczdCVVlOcld3QnNoWExNUA?oc=5",
-      "summary": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks&nbsp;&nbsp;Bloomberg.com",
+      "title": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpoaHpLeXVSZ015UFRLMU1jOXJDbTN3cGI5Ymo5N2hjWkxyTzF2WDVsNTZTX2pNclQwZHcwY1ZaQ1pacTNncGVWYVJISnA4aHI5YjBlclFvRnBqNlFFNWtwSVVYVHRURU9VS2ZRS3JCN3lycDRnZHFGeEwxeEVLYmJENG40NTNlSFYweUIzWmlOcHpyemxnRk1PVkRURjhTTEtodXAzZUplNG5fZG42VWZwS1NZZ0k?oc=5",
+      "summary": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T13:59:42+00:00",
+      "published": "2026-10-21T19:35:45+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "GN Geopolitics",
+        "Guardian World",
+        "NPR World"
+      ],
+      "source_count": 5,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.4,
+      "is_hypothetical": false,
+      "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
+      "summary": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-21T18:15:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics",
+        "GN Top"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.3,
+      "is_hypothetical": false,
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemdZcXZ3ZTFlZDFWZG9IYmRmMG5RdHA1QXp6RlJnN2dVWm14azJrTGFqczVvYS1XWGY4QlJtQUJIYzQwWWVHNnZadGtDaG1vY1gxT1VGUGJWY0ktRU9fVVZ0cUFRN244b1UwdnNzRjhaa3NqdW9NTDVCZklCXzNGUExVLVUtTVNPUGJMRmJQM2FoaXB0bi1IakdoSHo2b1ZPWnl0V25WVW0zdVk1V3otSndSU1hmVVVWbi0tN1RSc3QtZw?oc=5",
+      "summary": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T19:25:50+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Top",
+        "Guardian World",
+        "NPR World"
+      ],
+      "source_count": 4,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.0,
+      "is_hypothetical": false,
+      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTBrYjNkSzNrVUdaZFpRWDZnZlViT3c1VUIwakNfQ3lRaUNVdUkwbnFfVWRReXUzTWczMF9QamJVT01xbTMyNVVzbnh2RlVHSTNhYThFaUpFdTltVkJiZnk5Um1FRmVHUVB6al80b1VtQWQzVkpSYzU4TnNYUFh4VFdLT0ZmeTYtZXc?oc=5",
+      "summary": "Middle East Oil Flows Near Prewar Levels Defy Hormuz Attacks&nbsp;&nbsp;gCaptain",
+      "content": "The Soho Square, a crude oil tanker sailing under the flag of Liberia, is at anchor in the Galveston Bay as it makes it’s way to the Port of Houston shortly after U.S. President Donald Trump announced a 60-day waiver of the Jones Act shipping law, in Texas City, Texas, U.S. March 18, 2026. REUTERS/Antranik Tavitian\nMiddle East Oil Flows Near Prewar Levels Defy Hormuz Attacks\nBy Julian Lee (Bloomberg) &#8212; Oil shipments from the Middle East are showing little sign of buckling in the face of Iran’s more frequent and damaging attacks on merchant ships in the region.\nCrude and condensate flows from the Persian Gulf hit a high of 24.6 million barrels a day in the week to Oct. 18, according to data provider Kpler. However, shipments are volatile and figures for the average of October to date remain below prewar levels. Loadings tend to happen in bunches, with ships traveling in convoys through the Strait of Hormuz , shuttling cargoes to tankers waiting outside the waterway before returning to reload.\nFigures from rival data firm Vortexa don’t show the same weekly surge, highlighting the difficulty of establishing export levels as most tankers are currently operating with their positioning signals turned off. It pegs flows over the same seven-day period at 18 million barrels a day. Both companies estimate flows before the conflict was at least 18.5 million barrels a day.\nThe continued strong volumes despite the Iranian attacks show the desire for Middle Eastern producers to keep moving their barrels. Oil forms the backbone of the countries’ economies and they’ve been competing for customers in recent months to make up for billions of dollars of missed sales during the conflict.\nFor October so far, Kpler pegs Middle East flows at 16.7 million barrels a day, while Vortexa puts it at 15.4 million. Kpler aggregates its numbers from Hormuz transits, net flows via ship-to-ship transfers in the Gulf of Oman, exports through Red Sea ports and those on the Gulf of Oman in the United Arab Emirates and Oman. The Vortexa numbers sum shipments from Saudi Arabia, Iraq, Iran, Kuwait, the United Arab Emirates, Qatar and Oman.\nThe resilience comes as producers including Iraq are sending more volumes through Hormuz while Saudi Arabia is sending oil out from both its Persian Gulf and Red Sea coast. The kingdom boosted production by a third in September to over 8 million barrels a day, recovering from the lowest in more than three decades in the previous month. The UAE, one of the most successful in moving tankers through Hormuz, has pushed its production to record-high levels, according to the International Energy Agency.\nThese efforts appear to be holding up in spite of a spate of attacks in the waterway that’s also sunk at least one container ship this month. UK Maritime Trade Operations, a unit of the country’s navy, has reported 32 attacks on ships around the Arabian peninsula so far this month, compared with 16 in the whole of September. Some of these have struck ships’ engine rooms, inflicting more severe damage.\n“Attacks on merchant vessels around the Strait have increased sharply in recent weeks,” Morgan Stanley analysts including Martijn Rats wrote in a note. Still, “oil flow through the strait has remained relatively resilient,” they added.\nShipments are proving strong with fleets owned by the producing countries and a few gutsy shipowners keeping crude flows close to last month’s levels that were the highest since the conflict began. The UAE, Saudi Arabia and Kuwait are among nations that have shuttled their oil through Hormuz in their own tankers, and delivered the cargo to customers’ vessels outside the strait.\nThe levels are also significant because of the complete loss of Iran’s exports following a US blockade of the country’s ports. Both Kpler and Vortexa estimate the Islamic Republic was shipping close to 2 million barrels a day in February.\nThe assessments of Mideast flows are subject to change as tankers operating in the Persian Gulf and Red Sea with their automatic information systems switched off make real-time tracking more complicated. The process is hampered further by the withholding of satellite imagery over the region. As a result, shipments are frequently only recorded several days after they occur, leading to upward revisions.\nThe shuttling service and the tendency for tankers to move in convoys have also made exports lumpy at times, with brief surges followed by periods of relative slowdown.\nFor example, satellite images of the biggest Saudi oil terminal in the Persian Gulf show five very large crude carriers loading at the seven moorings on Oct. 12 and 13, but the number had fallen to just one on Oct. 20. The pattern is similar at other oil ports in the Persian Gulf and on the Red Sea.\nSign up for gCaptain’s newsletter and never miss an update\nGet The Daily Insights That Power Maritime Professionals Worldwide\nEssential maritime and offshore news, insights, and updates delivered daily straight to your inbox\nDive into a sea of curated content with our weekly ‘Dispatch’ email. Your personal maritime briefing awaits!\nU.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown\nThe United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international...\nIEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels\nThe cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex...\nTwo More Tankers Struck as Maritime Attacks Spread Across Persian Gulf\nTwo more tankers have been struck by unidentified projectiles in separate incidents near the Strait of Hormuz and in the northern Persian Gulf, adding to a growing series of attacks...",
+      "published": "2026-10-21T17:01:59+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
@@ -72,6 +141,29 @@
       "assets": [
         "原油",
         "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw?oc=5",
+      "summary": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T18:37:59+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.7,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：油运 及相关产业链。",
+      "assets": [
         "油运"
       ]
     },
@@ -96,11 +188,11 @@
       "assets": []
     },
     {
-      "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
-      "summary": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report&nbsp;&nbsp;Kitco",
-      "content": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report\nArticles by Kitco News Wire were generated by Kitco's AI-assisted reporting workflow and reviewed by Kitco News editorial staff, with every claim independently verified before publication.\nKitco labels all AI-assisted content as part of our commitment to editorial transparency.\nFor questions or corrections, contact the Kitco News editorial team.\n(Kitco NewsWire) – Spot  gold prices were slightly higher and spot  silver prices were lower in early U.S. trading Wednesday, as renewed concerns about energy supplies through the Strait of Hormuz and persistent expectations for additional Federal Reserve tightening weighed on precious metals. Gold found some support from lower Treasury yields and defensive demand, while silver struggled to sustain Tuesday&#x27;s recovery amid uncertainty surrounding industrial activity and the interest rate outlook. At the time of the latest verified morning price reading, spot gold was trading near $4,136.70 an ounce, up $12.60, or 0.31%, while spot silver was trading near $57.510, down $0.370, or 0.64%.\nMarket positioning remains divided between signs of weakening economic activity and stubborn inflation pressure. September consumer prices increased 0.6% on the month and 3.7% annually, while producer prices surged 1.3% and 6.3%, respectively. Despite those inflation surprises, traders continue to assign approximately an 83% probability that the Federal Reserve will leave interest rates unchanged at its Oct. 27-28 meeting. Expectations for another rate increase remain concentrated in December, with futures indicating roughly a 94% probability that rates will be higher by the Dec. 9 meeting. The benchmark 10-year Treasury yield was trading near the 5.1% area Wednesday morning, down from recent highs above 5.3%, as weaker housing activity and concerns about financial-market stability supported government bonds. The dollar&#x27;s broader resilience and the prospect of additional Fed tightening continue to limit gold&#x27;s upside potential despite some relief from lower yields.\nThe Federal Reserve remains in its premeeting communications blackout, leaving incoming economic releases and energy-market developments as the principal drivers of interest rate expectations. Wednesday&#x27;s calendar includes the weekly U.S. petroleum inventory report at 10:30 a.m. EDT and a 20-year Treasury bond auction at 1 p.m. EDT. Thursday brings weekly initial jobless claims at 8:30 a.m. EDT, followed Friday by preliminary October manufacturing and services purchasing managers&#x27; indexes at 9:45 a.m. EDT and the final University of Michigan consumer sentiment reading at 10 a.m. EDT. Softer employment and business activity figures could reinforce concerns about slowing growth and reduce December tightening expectations, supporting gold through lower Treasury yields and a weaker dollar. However, persistently elevated inflation expectations or renewed energy-price increases would strengthen the case for additional Fed tightening and maintain pressure on non-yielding bullion.\nThe Strait of Hormuz and U.S.-Iran situation remains a significant source of volatility in global energy and precious metals markets. Oil prices rebounded Wednesday following reports of additional attacks on commercial shipping in the strategic waterway, while Iranian Foreign Minister Abbas Araghchi signaled that prospects for a near-term peace agreement with Washington remain limited. The latest escalation followed Tuesday&#x27;s sharp intraday reversal in crude prices amid conflicting reports about potential diplomatic negotiations. The underlying supply situation remains fragile despite a recovery in overall Middle Eastern crude exports. Regional oil shipments averaged approximately 24.6 million barrels per day in the week ending Oct. 18, exceeding the prewar average of 23.3 million barrels per day as producers expanded alternative export routes. However, shipments directly through Hormuz remained approximately 33% below prewar levels, while attacks on vessels and infrastructure continued to threaten the reliability of regional energy supplies. Brent crude climbed back above $110.00 a barrel Wednesday, reinforcing concerns about the inflationary consequences of a prolonged regional conflict.\nFor gold, continued uncertainty surrounding Gulf security supports defensive demand, but higher crude prices also reinforce inflation expectations and the prospect of restrictive U.S. monetary policy. This competing influence helps explain why bullion has struggled to sustain rallies despite the continuing geopolitical conflict. Silver faces similar interest rate headwinds, with its industrial exposure adding sensitivity to signs of weaker economic activity. The prospect of further Fed tightening, alongside uncertainty about the direction of oil prices, continues to complicate the near-term outlook for both metals.\nGlobal equity markets were mixed to firmer before the U.S. open, with technology shares recovering amid a fresh round of corporate earnings. Nasdaq futures advanced approximately 0.4% and S&P 500 futures gained 0.2%, while Dow futures were little changed. Asian markets were generally firmer, with South Korea&#x27;s Kospi gaining approximately 3.3% and Japan&#x27;s Nikkei 225 advancing as investors returned to semiconductor and artificial intelligence-related shares. European markets were mixed, with the pan-European Stoxx 600 near unchanged, Germany&#x27;s DAX slightly lower and France&#x27;s CAC 40 posting modest gains. The U.K.&#x27;s FTSE 100 weakened amid pressure on mining shares. Investors are also assessing quarterly corporate results and the implications of elevated financing costs for technology-sector investment, while continuing fiscal uncertainty in France has kept European government bond markets under pressure.\nThe key outside markets see Nymex WTI crude oil prices higher and trading near $99.40 a barrel, while Brent crude was near $111.00. The yield on the benchmark 10-year U.S. Treasury note is trading near the 5.1% area. The U.S. dollar index is slightly firmer in early dealings, continuing to reflect expectations that U.S. monetary policy will remain restrictive despite recent evidence of slowing economic activity. ( Kitco Global Index shows how much of today&#x27;s gold move is the dollar versus the gold market itself.)\nTechnically, spot  gold bulls&#x27; next upside price objective is to push prices back above the $4,154.00 to $4,180.00 resistance zone, with a sustained move targeting $4,199.00 and then $4,200.00. Bears&#x27; next near-term downside price objective is a break below $4,083.00, with deeper downside targets at $4,070.00 and then $4,053.00. First resistance is seen at $4,154.00 and then at $4,180.00. First support is seen at $4,083.00 and then at $4,070.00.\nSpot  silver bulls&#x27; next upside price objective is to drive prices back above the $57.860 to $58.370 resistance zone, with a move above that zone targeting $58.700 and then $60.835. The next downside price objective for the bears is a break below $56.920, with deeper downside targets at $56.720 and then $56.340. First resistance is seen at $57.860 and then at $58.370. Next support is seen at $57.390 and then at $56.920.\nSee live  precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.\nArticles by Kitco News Wire were generated by Kitco's AI-assisted reporting workflow and reviewed by Kitco News editorial staff, with every claim independently verified before publication.\nKitco labels all AI-assisted content as part of our commitment to editorial transparency.\nFor questions or corrections, contact the Kitco News editorial team.\ngold silver Ai-assisted-content S&P 500 futures Nymex WTI crude oil prices 10-year U.S. Treasury U.S. dollar index Kitco Global Index U.S. monetary policy France&#x27;s CAC 40 Germany&#x27;s DAX U.K.&#x27;s FTSE 100 U.S. monetary policy Japan&#x27;s Nikkei 225 inflation Nasdaq futures Federal Reserve\nDisclaimer:  The views expressed in this article are those of the author and may not reflect those of Kitco Metals Inc. The author has made every effort to ensure accuracy of information provided; however, neither Kitco Metals Inc. nor the author can guarantee such accuracy. This article is strictly for informational purposes only. It is not a solicitation to make any exchange in commodities, securities or other financial instruments. Kitco Metals Inc. and the author of this article do not accept culpability for losses and/ or damages arising from the use of this publication.",
-      "published": "2026-10-21T13:00:11+00:00",
+      "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WdnJJOGRiLUl2S25aWER1amp5THIzbVphMy03THhNenlpaExPX045LVpiTnNNTXgxbDZVRkVaRDJCYU9EYzhHNlhjdi1LNlNhcmNyZnlkQWFZaW9IOGg3VnZyTE5tOVJSQ0U4R0c4a21JRVFZYnRrRDkzVmp2QQ?oc=5",
+      "summary": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks&nbsp;&nbsp;Yahoo Finance Singapore",
+      "content": "Gold prices have been under pressure this year. A stronger U.S. dollar and the Fed's hawkish stance continue to weigh on its prices.\nNote that the Fed enacted the first rate hike of this year in September. There are expectations of another Fed rate hike this year. However, rising geopolitical tensions could support bullion by boosting safe-haven demand.\nWhile the prospect of another U.S. interest-rate hike may limit near-term gains, expectations that the Fed could avoid further tightening in 2027 may help support gold prices over the longer term, per Bloomberg, as quoted on Yahoo Finance.\nRising oil prices, driven by renewed attacks on vessels in the Strait of Hormuz, have added to concerns about energy supply disruptions and persistent inflation. Higher energy costs could complicate the Federal Reserve's efforts to contain inflation.\nNew York Fed president John Williams indicated that another rate hike may be appropriate this year, while suggesting that additional tightening may not be necessary in 2027.\nThis outlook creates a mixed environment for bullion. Higher interest rates generally weigh on gold because the metal does not generate interest income, making interest-bearing assets more attractive. However, if investors begin anticipating an end to the tightening cycle, gold could regain support as the opportunity cost of holding the metal becomes less of a concern.\nOil Prices Contribute to Another Layer of Uncertainty\nDevelopments in the Middle East could also influence gold's performance. Renewed attacks on vessels in the Strait of Hormuz have heightened concerns about global energy supplies, supporting oil prices and increasing the risks of another inflationary shock.\nGold could benefit if escalating geopolitical tensions prompt investors to seek safe-haven assets. Sustained increases in energy prices could push inflation higher, potentially encouraging the Fed to maintain restrictive monetary policy for longer, whereas further disruptions to energy supplies could support investor interest in precious metals.\nGold ETFs may remain sensitive to policy expectations and developments in the Middle East. Rather than assuming that rising oil prices will automatically lift bullion due to increased safe-haven demand, investors should watch whether inflation risks translate into higher interest-rate expectations, which could weigh on the metal price.\nAgainst this backdrop, take a look at the below-mentioned gold ETFs.\nSPDR Gold Shares GLD is designed to track the price of gold bullion,. The fund fell more than 4% in a month (as of Oct. 14, 2026).\nGLD has assets under management worth 142 billion and an expense ratio of 0.40%. The fund trades at a three-month average volume of 9.17 million shares.\niShares Gold Trust IAU is a physically backed gold ETF that primarily depends on gold prices, interest-rate expectations and geopolitical developments. The fund fell 4.6% in a month (as of Oct. 14, 2026).\nIAU has assets under management worth 62.17 billion and an expense ratio of 0.25%. The fund trades at a three-month average volume of 5.13 million shares.\nSPDR Gold Minishares Trust GLDM aims to reflect the price of gold bullion and gives investors gold-price exposure without requiring them to buy and store gold themselves. The fund dropped more than 4% in a month (as of Oct. 14, 2026).\nGLDM has assets under management worth 31.08 billion and an expense ratio of 0.10%. The fund trades at a three-month average volume of 4.48 million shares.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nSPDR Gold MiniShares Trust (GLDM): ETF Research Reports\nThis article originally published on Zacks Investment Research (zacks.com).",
+      "published": "2026-10-21T14:21:00+00:00",
       "source": "GN Fed",
       "sources": [
         "GN Fed"
@@ -123,48 +215,22 @@
       ]
     },
     {
-      "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYTVkY1QzQXRiVXEwVnloOTV4TEZjalpwS0ViOVI5UEl5a1lyekozOGoxN01OT252WXV4YW12S3JNVTQ1Rm5XdFhmaWFHV0tKNnIxQjB2V2V1X2w5d01XMklUdTd4dk9FYy1fblFXZjd4R0JpQmdXVUZlbUYwZC1zcDBWZExtZ1dRam8xYkwzdFJlVmZoQkt4WTBpU25aTWFzSG5lbkl4RkpWWWJpOEV1dTFMcXF5Ukl4WmJ1LS1JakFzeF9vaTFoSTc0Qm5jM3dMVC05MUpzX2dIZXJJWU5wWA?oc=5",
-      "summary": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway&nbsp;&nbsp;<font",
-      "content": "Volodymyr Zelenskyy hugs US special envoy Steve Witkoff next to Norwegian prime minister Jonas Gahr Store and Finnish president Alexander Stubb in Oslo, Norway, 20 October 2026. Photograph: Heiko Junge/Reuters\nVolodymyr Zelenskyy hugs US special envoy Steve Witkoff next to Norwegian prime minister Jonas Gahr Store and Finnish president Alexander Stubb in Oslo, Norway, 20 October 2026. Photograph: Heiko Junge/Reuters\nUkraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway\nTalks in Oslo made ‘meaningful progress’ toward engaging Russia, a US official said. What we know on day 1,701\nUS envoy Steve Witkoff will meet Russian president Vladimir Putin on Wednesday after what a US official called “constructive” talks with Ukrainian president Volodymyr Zelenskyy in Norway. The US official said Ukraine brought forward new ideas and proposals to the Oslo talks, which also involved the leaders of Norway and Finland ⁠and European and Nato representatives, and that participants made “meaningful ⁠progress” toward a coordinated approach to engaging Russia.\nThe official, who ​spoke to Reuters on the condition of anonymity, said the talks covered “key elements of a comprehensive peace framework” , including security guarantees for Ukraine, a postwar economic plan and a broader European security architecture. Witkoff would aim to “create a pathway toward direct trilateral and broader multilateral negotiations”, the official said. US president Donald ⁠Trump on Tuesday ⁠called ​on Ukraine to make a deal ⁠to settle the war with Russia. “Ukraine has to ⁠want to settle this ​war,” Trump ‌told reporters.\nZelenskyy travelled to Oslo seeking to repair relations with Washington , which have sunk to new lows. Trump’s recent gestures toward Moscow, including a deal to buy Russian diesel and a waiver of new sanctions, have sparked bipartisan pushback in the US Congress and worry in European capitals. Zelenskyy said he had ​discussed “Article 5-like” security guarantees, referring to the Nato stipulation that an attack on one ally is an attack on all. “I am ‌thankful to the American side that they underlined again that it will ‌be strong,” he said.\nElon Musk last week ordered the slowdown of a military-grade ⁠version of SpaceX’s Starlink satellite service that Ukraine relies on , the Wall Street Journal reported on Tuesday, citing US ⁠officials and people familiar ⁠with the ​matter. Musk, SpaceX and the White House did not immediately respond to Reuters requests for comment. Ukraine uses the service – known as Starshield – for battlefield communications and drone operations. Restricting the satellite service hampered the country’s attack and air ⁠defence drone missions against Russia.\nUS defence secretary Pete Hegseth meanwhile insisted Tuesday that the Pentagon had not directed any changes to Starshield , saying: “We haven’t pulled anything back.” “Nothing’s changed from our view. We haven’t made any directives or anything like that,” he said. On Friday, Trump said he did not request any curbs to Starshield. “It wasn’t me. And I don’t think it was Elon,” Trump said. Musk previously said that “any limits on speed or usage” of Starshield systems were “decided by the US military and ultimately POTUS.”\nNato said Tuesday it was deploying additional planes, drones and radar systems to the Black Sea after a string of attacks on ships near Romania and Bulgaria in the latest spillover from Russia’s war on Ukraine. “Allies have or will send additional maritime patrol aircraft, radar systems, explosive exploitation teams, intelligence personnel, drones, and more to the Black Sea,” said Col Martin O’Donnell, a Nato spokesperson. “The most important thing we can do, however, is to increase our situational awareness in the region through increased sensors and data sharing,” he added.\nThe ⁠Russian military ⁠struck ​three cargo vessels in Ukraine’s ⁠port of Reni and two ⁠other cargo vessels en ​route ‌to ‌Odesa , Russia’s defence ‌ministry said on Tuesday. Russian forces also hit two logistics hubs in ‌the Volyn region and in the ​city of Khmelnitskiy, it said, adding that ⁠the vessels and hubs ​were ​all being ​used for ​military ‌purposes. Russia also unleashed another missile and drone blitz of civilian areas in Ukraine on Tuesday, killing at least nine people, officials said.\nThe Kremlin said Tuesday that work was under way to ease ⁠the humanitarian ⁠situation ​in the Russian-controlled town of Oleshky in southern ⁠where residents have reported a worsening food crisis. Kremlin spokesperson ⁠Dmitry Peskov said ‌Putin had ‌discussed the situation in Oleshky with Trump and told him that Russia’s human rights commissioner was engaged on the issue.",
-      "published": "2026-10-21T08:53:00+00:00",
-      "source": "GN Geopolitics",
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Image caption, Witkoff (R) said there was still important work to do after the meeting with Putin (L)\nBy Steve Rosenberg Russia Editor ,Â  Reporting from Moscow\nAfter two days of diplomacy â in Norway&#x27;s capital and Russia&#x27;s St Petersburg â is the war in Ukraine any closer to ending?\n\"Good and constructive\" is how Norway&#x27;s prime minister described Tuesday&#x27;s talks between Ukr",
+      "content": "Image caption, Witkoff (R) said there was still important work to do after the meeting with Putin (L)\nBy Steve Rosenberg Russia Editor ,Â  Reporting from Moscow\nAfter two days of diplomacy â in Norway&#x27;s capital and Russia&#x27;s St Petersburg â is the war in Ukraine any closer to ending?\n\"Good and constructive\" is how Norway&#x27;s prime minister described Tuesday&#x27;s talks between Ukrainian President Volodymyr Zelensky, US President Trump&#x27;s special envoy Steve Witkoff and European representatives.\nIn Oslo, the idea of a trilateral meeting at leaders&#x27; level was floated. The hope was that Steve Witkoff&#x27;s trip to Russia would pave the way for President Vladimir Putin, Zelensky and Trump to meet and agree an end to the fighting.\nBut Putin has shown little desire to share a table with Zelensky - unless that table is in Moscow.\nThe Kremlin says it may be willing to resume trilateral talks next month in Abu Dhabi, but only at the technical level.\nIn a post on X, Steve Witkoff himself conceded that \"there is still important work to do\", though he claimed \"President Trump remains committed to seeing this war end...\"\nRussia says it is ready to resume talks with Ukraine and US to end war\nTrump and Zelensky at loggerheads despite new optimism\nUS citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin\nFor me, the most telling statement of the day was from Vladimir Putin&#x27;s foreign policy aide Yuri Ushakov. He took part in the St Petersburg talks.\nUshakov said that Steve Witkoff had told President Putin about the discussions in Oslo and (as Witkoff viewed them) \"new approaches from the Europeans and Kyiv\".\nThe Kremlin adviser was clearly unimpressed by what he heard.\n\"In terms of resolving the Ukraine crisis, there wasn&#x27;t much there that was useful,\" commented Ushakov.\nLater Russian state TV asked him about the prospects for peace.\n\"I don&#x27;t know how close we are getting,\" Yuri Ushakov said, \"but things are moving in that direction.\"\nIt seems that President Putin doesn&#x27;t feel under pressure right now to end the war.\nHe knows that Ukraine&#x27;s air defences are under severe strain.\nHe knows that winter is coming and may well view the cold weather as an opportunity to pound Ukraine into submission.\nHe knows, too, that there is a US president in the White House who clearly wants a bigger, better, more profitable relationship with Moscow.\nImage caption, Despite a \"constructive\" meeting between Witkoff and Zelensky in Oslo, Norway, the idea of a US-Russia-Ukraine trilateral summit does not seem to have taken hold\nIn recent days Donald Trump has paused some sanctions on Moscow, has agreed to buy Russian diesel and expressed biting criticism of President Zelensky.\nThat suits Russia just fine. It eases the pressure on the Kremlin leader.\n\"Right now Trump is the only leader in the Western world who is doing something for peace,\" Russian MP and TV anchor Evgeny Popov says.\n\"Doing something for peace, but a peace on your terms?\" I respond. \"Is that what you want?\"\nA Putin-Zelensky-Trump trilateral may not be imminent.\nBut in China next month a meeting between Vladimir Putin, Donald Trump and Xi Jinping may well take place on the fringes of the Apec summit.\nSome commentators here are already dubbing it \"The New Yalta\" - a reference to the Yalta Conference of 1945, where Stalin, Churchill and Roosevelt met to plan the political and territorial reorganisation of post-war Europe.\n\"Russia, China and the United States are the only superpowers right now in the world,\" Evgeny Popov says. \"Of course, it will be good for the entire world if our leaders meet in China.\"\nAfter nearly five years of war, that would put Vladimir Putin exactly where he wants to be - at the top table of global politics.",
+      "published": "2026-10-21T19:58:06+00:00",
+      "source": "BBC World",
       "sources": [
-        "GN Geopolitics",
-        "Guardian World",
-        "NPR World"
+        "BBC World"
       ],
-      "source_count": 3,
+      "source_count": 1,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 15.3,
+      "score": 15.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "US Democratic congressional candidate Lander detained by Israeli authorities in West Bank - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemdZcXZ3ZTFlZDFWZG9IYmRmMG5RdHA1QXp6RlJnN2dVWm14azJrTGFqczVvYS1XWGY4QlJtQUJIYzQwWWVHNnZadGtDaG1vY1gxT1VGUGJWY0ktRU9fVVZ0cUFRN244b1UwdnNzRjhaa3NqdW9NTDVCZklCXzNGUExVLVUtTVNPUGJMRmJQM2FoaXB0bi1IakdoSHo2b1ZPWnl0V25WVW0zdVk1V3otSndSU1hmVVVWbi0tN1RSc3QtZw?oc=5",
-      "summary": "US Democratic congressional candidate Lander detained by Israeli authorities in West Bank&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T15:58:11+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Top",
-        "Guardian World",
-        "NPR World",
-        "Al Jazeera"
-      ],
-      "source_count": 5,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.2,
-      "is_hypothetical": false,
-      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -198,12 +264,12 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
       "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T15:44:38+00:00",
+      "published": "2026-10-21T19:27:02+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "BBC World",
-        "GN Geopolitics"
+        "GN Geopolitics",
+        "Al Jazeera"
       ],
       "source_count": 3,
       "category": "europe",
@@ -238,11 +304,31 @@
       "assets": []
     },
     {
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjJOS3VQS00zTHNGVG5fSjljX1ByRjZMQVozMEt3WVNwdWhfU00wTjZEUHpIZThFNFZUWG5QNTJoOTBVN3NRMWhnTHNZd1dJa1lRenJMVExzZEpVYmRSQzIwU0V2dkRlR1M3VGdUTTJvNC1ZQnZUWVBqbHhDMHVfMzB3dzMzSVdka19qS3BJbElEdEREME54eHM2TVBQZw?oc=5",
+      "summary": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make&nbsp;&nbsp;Yahoo Finance",
+      "content": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make\nAfter a year of record-breaking gains, major market indexes are wobbling. The S&P 500 (SNPINDEX: ^GSPC) has fallen by nearly 2% over the last week, as of this writing, while the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) is down by more than 4% in that time.\nMuch of the sell-off is stemming from the tech sector, with artificial intelligence (AI) spending under the microscope. Rising bond yields have driven up borrowing costs, making it more expensive for AI hyperscalers to continue building data centers and related infrastructure. If big tech companies pull back on AI spending, it could cause a ripple effect across the broader market.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nAt this point, it's too soon to tell whether this volatility is a blip on the radar or the beginning of a deeper drawdown. Regardless of what's coming, though, Warren Buffett has one tried-and-tested strategy that can set your portfolio up for success.\nImage source: Getty Images. An industry's potential has limits\nIn a 1999 essay for Fortune , Warren Buffett issued a warning to investors. The stock market was reaping the rewards of the dot-com boom, with the S&P 500 surging by nearly 200% over the previous four years, but Buffett predicted stock prices would fall.\nHe also emphasized that when an industry is poised to transform society, it's especially important to choose your investments carefully. Buffett mentioned airlines as an example, noting that while air travel itself has had a monumental impact on our lives, 129 airlines had filed for bankruptcy over the previous 20 years.\nBuffett's 1999 warning eventually rang true, as the dot-com bubble officially popped in early 2000 -- leading to a bear market that would last more than two years. Hundreds of tech stocks crashed and burned, despite the internet's revolutionary impact on the world.\n\"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow,\" Buffett said in the Fortune essay, \"but rather determining the competitive advantage of any given company and, above all, the durability of that advantage.\"\nWhen the dot-com bubble burst, overvalued stocks crashed the hardest. These companies earned explosive returns when the bubble was building, but many had unsustainable business models, poorly managed finances, or inexperienced leadership teams that couldn't navigate the bear market.\nNow, we could be facing a similar situation. AI, as a technology, could transform the world. But not every company in the AI space will thrive. Many tech stocks have seen eye-popping returns this year, but it's likely that at least a few of them have been driven by hype and are overvalued right now.\nThis doesn't mean that all stocks will struggle over time, though. Since the start of the dot-com bear market in March 2000, for example, the S&P 500 has soared by more than 715%. While many companies failed, some tech stocks of the era -- like Apple , Amazon , and Microsoft -- went on to become industry-leading giants.\nOvervalued stocks from weak companies will be hit the hardest whenever the next bear market arrives. Companies with strong fundamentals and a durable competitive advantage, however, have the best chance at recovering and going on to earn positive long-term returns.\nThe single best move investors can make right now is to load up on quality stocks. The healthier your portfolio, the more likely it is to survive even a severe downturn. In Buffett's words: \"The products or services that have wide, sustainable moats around them are the ones that deliver rewards to investors.\"\nBefore you buy stock in S&P 500 Index, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and S&P 500 Index wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $376,696 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,333,920 !*\nNow, it's worth noting Stock Advisor's total average return is 925% — a market-crushing outperformance compared to 212% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nKatie Brockman has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Amazon, Apple, and Microsoft. The Motley Fool has a disclosure policy .\nIf a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make was originally published by The Motley Fool",
+      "published": "2026-10-21T07:20:00+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "The Stock Market is Flashing Several Warning Signs at Once. Does That Mean a Crash is Imminent? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb3ZkZFhjd1VEX0lKU0NRRDkwanItZmJtdU0yY3ZWZGJGc0I1WWpIN0NHekh5N0VvUEJLQWc0UkhBMVZnUjUzNGNKajdIR2FZRU5mTXluYUxtSGtNWmZWak9Ic3Y0QldleFA0ZEhldFpzdWlLUEY0M3RIazB2TFI5OVV3M0pDWk9BSkpWdlZMT2U2TEI0LUdTWEhZcXBJTjNxRVJMVktxZTJWN2RWMEMzUmVJNzR5SnA2YkxDYmVRcTVyR1BlX21hdC1mZWpSSUcwQ1E?oc=5",
       "summary": "The Stock Market is Flashing Several Warning Signs at Once. Does That Mean a Crash is Imminent?&nbsp;&nbsp;The Motley",
-      "content": "There have been many headlines recently about the stock market flashing warning signs. I&#x27;ve even written some of them . However, even when several signs flash at once, they don&#x27;t mean a crash is imminent because they don&#x27;t all tell us the same thing.\nInstead, what they do signal is that now is the time to be more prepared. Here&#x27;s how to read these signs and prepare your portfolio for what could lie ahead.\nThe stock market regularly experiences meaningful downdrafts. It has historically corrected (a 10% or more decline) roughly once every 18 months and tumbled into a bear market (a 20% or more drop) about once every six years. However, it doesn&#x27;t move in that exact pattern. That&#x27;s why investors are always looking for signs that another meaningful decline could be on the horizon.\nOne sign that has historically preceded a major decline is an elevated CAPE ratio (cyclically adjusted price-to-earnings ratio). It measures whether the market is undervalued or overvalued relative to its historical inflation-adjusted earnings record. It&#x27;s currently at 40.5; it&#x27;s the second-highest reading in 150 years. Its prior peak was just before the dot-com crash. It was last above 40 in late 2021, right before the 2022 rate-driven bear market.\nSpeaking of rates, the Federal Reserve just started raising interest rates for the first time in three years. According to data from LPL Financial , the S&P 500 ( ^GSPC +0.68% ) has declined in five of the last six Fed rate-hike cycles (including 2022).\nFinally, there&#x27;s margin debt, which has surged 49% over the past year. According to data from Fundstrat Global Advisors, the market has declined five out of six times when margin debt has surged 45% or more year-over-year since 1960.\nWhile all that sounds foreboding, none of these signs mean a crash is forthcoming, as they&#x27;re not perfect predictors. For example, while a high CAPE ratio is a strong indicator of lower market returns over the longer term, it doesn&#x27;t mean the market will crash next year. For example, it was above 30 in 2018. The next year, the S&P 500 rose 29%. It&#x27;s also worth noting that the S&P 500 didn&#x27;t decline during the 1997 rate-hike cycle (though that was only a 25-basis-point increase). Meanwhile, the S&P 500 was up 12 months following a 45% (or more) year-over-year increase in margin debt one out of every six times. For example, it last hit that level in October 2025, but was up 10.9% 12 months later.\nSo, we shouldn&#x27;t read all these signs as imminent warnings of a crash. Instead, they should serve more as a reminder that the market does correct from time to time, and we need to ensure our portfolios remain prepared for the next downturn.\nOne way we can do that is by selling lower-conviction holdings to raise cash and by trimming positions where current valuations require perfect execution to deliver acceptable returns. That would build cash to capitalize on a meaningful decline in the coming months.\nNow&#x27;s also the time to build a watch list of stocks you want to buy if there is a downdraft. For example, Alphabet ( GOOG -1.78% ) ( GOOGL -1.71% ) is one of my higher-conviction holdings. It has a dominant search business and a growing cloud business, which is just scratching the surface of its AI potential. However, at 26 times forward earnings, Alphabet isn&#x27;t cheap enough for me to add to right now, given that the tech-heavy Nasdaq-100 index trades at about 21.5 times forward earnings. It&#x27;s also investing heavily in AI ($180 billion to $190 billion this year), increasing its risks. While Alphabet&#x27;s AI investments could drive meaningful growth in the coming years, I&#x27;d like a little more margin of safety. If Alphabet&#x27;s stock got down closer to $300 per share (around 22.5x forward earnings), I&#x27;d start buying more.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $4.14T\nWith the market flashing lots of warning signs these days, it&#x27;s easy to become fearful that it&#x27;s about to crash. However, there&#x27;s no guarantee this will happen, as these aren&#x27;t perfect predictors. Meanwhile, even if a downdraft did happen, it&#x27;s far better to see one not as a threat but as an opportunity. The best way to do that is to use the warning signs as a signal to be better prepared by building cash and a watch list now, so you can capitalize on any potential opportunities that may arise in the near term.\nAmazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One\nAmazon vs Alphabet: Which \"Magnificent Seven\" Stock Is the Better Buy Right Now?\nBerkshire Hathaway&#x27;s New Top Holding Owns Its Market\nMatt DiLallo has been a contributing Motley Fool stock analyst specializing in the energy, industrials, and real estate sectors since 2012. He also covers dividend-paying stocks, pre-IPO companies, ETFs, and other investing topics. He holds an MBA from Liberty University.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-21T14:11:56+00:00",
+      "content": "There have been many headlines recently about the stock market flashing warning signs. I&#x27;ve even written some of them . However, even when several signs flash at once, they don&#x27;t mean a crash is imminent because they don&#x27;t all tell us the same thing.\nInstead, what they do signal is that now is the time to be more prepared. Here&#x27;s how to read these signs and prepare your portfolio for what could lie ahead.\nThe stock market regularly experiences meaningful downdrafts. It has historically corrected (a 10% or more decline) roughly once every 18 months and tumbled into a bear market (a 20% or more drop) about once every six years. However, it doesn&#x27;t move in that exact pattern. That&#x27;s why investors are always looking for signs that another meaningful decline could be on the horizon.\nOne sign that has historically preceded a major decline is an elevated CAPE ratio (cyclically adjusted price-to-earnings ratio). It measures whether the market is undervalued or overvalued relative to its historical inflation-adjusted earnings record. It&#x27;s currently at 40.5; it&#x27;s the second-highest reading in 150 years. Its prior peak was just before the dot-com crash. It was last above 40 in late 2021, right before the 2022 rate-driven bear market.\nSpeaking of rates, the Federal Reserve just started raising interest rates for the first time in three years. According to data from LPL Financial , the S&P 500 ( ^GSPC +0.58% ) has declined in five of the last six Fed rate-hike cycles (including 2022).\nFinally, there&#x27;s margin debt, which has surged 49% over the past year. According to data from Fundstrat Global Advisors, the market has declined five out of six times when margin debt has surged 45% or more year-over-year since 1960.\nWhile all that sounds foreboding, none of these signs mean a crash is forthcoming, as they&#x27;re not perfect predictors. For example, while a high CAPE ratio is a strong indicator of lower market returns over the longer term, it doesn&#x27;t mean the market will crash next year. For example, it was above 30 in 2018. The next year, the S&P 500 rose 29%. It&#x27;s also worth noting that the S&P 500 didn&#x27;t decline during the 1997 rate-hike cycle (though that was only a 25-basis-point increase). Meanwhile, the S&P 500 was up 12 months following a 45% (or more) year-over-year increase in margin debt one out of every six times. For example, it last hit that level in October 2025, but was up 10.9% 12 months later.\nSo, we shouldn&#x27;t read all these signs as imminent warnings of a crash. Instead, they should serve more as a reminder that the market does correct from time to time, and we need to ensure our portfolios remain prepared for the next downturn.\nOne way we can do that is by selling lower-conviction holdings to raise cash and by trimming positions where current valuations require perfect execution to deliver acceptable returns. That would build cash to capitalize on a meaningful decline in the coming months.\nNow&#x27;s also the time to build a watch list of stocks you want to buy if there is a downdraft. For example, Alphabet ( GOOG -1.63% ) ( GOOGL -1.65% ) is one of my higher-conviction holdings. It has a dominant search business and a growing cloud business, which is just scratching the surface of its AI potential. However, at 26 times forward earnings, Alphabet isn&#x27;t cheap enough for me to add to right now, given that the tech-heavy Nasdaq-100 index trades at about 21.5 times forward earnings. It&#x27;s also investing heavily in AI ($180 billion to $190 billion this year), increasing its risks. While Alphabet&#x27;s AI investments could drive meaningful growth in the coming years, I&#x27;d like a little more margin of safety. If Alphabet&#x27;s stock got down closer to $300 per share (around 22.5x forward earnings), I&#x27;d start buying more.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $4.14T\nWith the market flashing lots of warning signs these days, it&#x27;s easy to become fearful that it&#x27;s about to crash. However, there&#x27;s no guarantee this will happen, as these aren&#x27;t perfect predictors. Meanwhile, even if a downdraft did happen, it&#x27;s far better to see one not as a threat but as an opportunity. The best way to do that is to use the warning signs as a signal to be better prepared by building cash and a watch list now, so you can capitalize on any potential opportunities that may arise in the near term.\nAmazon or Alphabet: If I Could Only Own One for the Next Decade, It Would Be This One\nAmazon vs Alphabet: Which \"Magnificent Seven\" Stock Is the Better Buy Right Now?\nBerkshire Hathaway&#x27;s New Top Holding Owns Its Market\nMatt DiLallo has been a contributing Motley Fool stock analyst specializing in the energy, industrials, and real estate sectors since 2012. He also covers dividend-paying stocks, pre-IPO companies, ETFs, and other investing topics. He holds an MBA from Liberty University.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "published": "2026-10-21T15:05:00+00:00",
       "source": "GN Markets",
       "sources": [
         "GN Markets"
@@ -252,130 +338,6 @@
       "category_zh": "市场",
       "stars": 3,
       "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVhVSi1RenZkbnpGNzdUQlpxb1BwSEw0WENHODdjempfS3FGSk9KdkVjWXRVcnV5TnhZY3hEbVQxS200ZlRWS2pSbmZfQ0M1ajBkNlBlTHFSbDR2ZzlYcFhUcVBxbnp6UGZLaWxBVlNqU2hBYjVZdzBwTVBfcEhWTWlFd1lIamVPaFBBWlA3WFgyYTdkOXE1Vg?oc=5",
-      "summary": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make&nbsp;&nbsp;The Motley Fool",
-      "content": "After a year of record-breaking gains, major market indexes are wobbling. The S&P 500 ( ^GSPC +0.66% ) has fallen by nearly 2% over the last week, as of this writing, while the tech-heavy Nasdaq Composite ( ^IXIC +1.22% ) is down by more than 4% in that time.\nMuch of the sell-off is stemming from the tech sector, with artificial intelligence (AI) spending under the microscope. Rising bond yields have driven up borrowing costs, making it more expensive for AI hyperscalers to continue building data centers and related infrastructure. If big tech companies pull back on AI spending, it could cause a ripple effect across the broader market.\nAt this point, it&#x27;s too soon to tell whether this volatility is a blip on the radar or the beginning of a deeper drawdown. Regardless of what&#x27;s coming, though, Warren Buffett has one tried-and-tested strategy that can set your portfolio up for success.\nIn a 1999 essay for Fortune , Warren Buffett issued a warning to investors. The stock market was reaping the rewards of the dot-com boom, with the S&P 500 surging by nearly 200% over the previous four years, but Buffett predicted stock prices would fall.\nHe also emphasized that when an industry is poised to transform society, it&#x27;s especially important to choose your investments carefully. Buffett mentioned airlines as an example, noting that while air travel itself has had a monumental impact on our lives, 129 airlines had filed for bankruptcy over the previous 20 years.\nBuffett&#x27;s 1999 warning eventually rang true, as the dot-com bubble officially popped in early 2000 -- leading to a bear market that would last more than two years. Hundreds of tech stocks crashed and burned, despite the internet&#x27;s revolutionary impact on the world.\n\"The key to investing is not assessing how much an industry is going to affect society, or how much it will grow,\" Buffett said in the Fortune essay, \"but rather determining the competitive advantage of any given company and, above all, the durability of that advantage.\"\nWhen the dot-com bubble burst, overvalued stocks crashed the hardest. These companies earned explosive returns when the bubble was building, but many had unsustainable business models, poorly managed finances, or inexperienced leadership teams that couldn&#x27;t navigate the bear market.\nNow, we could be facing a similar situation. AI, as a technology, could transform the world. But not every company in the AI space will thrive. Many tech stocks have seen eye-popping returns this year, but it&#x27;s likely that at least a few of them have been driven by hype and are overvalued right now.\nThis doesn&#x27;t mean that all stocks will struggle over time, though. Since the start of the dot-com bear market in March 2000, for example, the S&P 500 has soared by more than 715%. While many companies failed, some tech stocks of the era -- like Apple , Amazon , and Microsoft -- went on to become industry-leading giants.\nOvervalued stocks from weak companies will be hit the hardest whenever the next bear market arrives. Companies with strong fundamentals and a durable competitive advantage, however, have the best chance at recovering and going on to earn positive long-term returns.\nThe single best move investors can make right now is to load up on quality stocks. The healthier your portfolio, the more likely it is to survive even a severe downturn. In Buffett&#x27;s words: \"The products or services that have wide, sustainable moats around them are the ones that deliver rewards to investors.\"\nStock Market Midday, Oct. 21: Tech Gains Lift Nasdaq as SpaceX Soars\nThe Market Is Triggering a Warning Not Seen in Decades. Here&#x27;s What History Says Comes Next.\nWhat Should You Do With Your Investments if the Stock Market Crashes? This 1 Move Is Key.\nBlackRock CEO Larry Fink Thinks This Midterm Election Issue Could Lead to a Recession\nTrumpflation Is Evolving, and There&#x27;s a New Twist That Threatens to Sink Stocks\nTrump&#x27;s Latest Warning Is Sending Shockwaves Through Wall Street. Here&#x27;s What It Could Mean for Your Retirement Savings.\nKatie Brockman is a contributing writer at The Motley Fool covering retirement, Social Security, and investing fundamentals. Prior to The Motley Fool, Katie held various writing and editing roles at companies ranging from small start-ups to multimillion-dollar brands. Her work has appeared in USA Today, Inc magazine, and other authoritative media outlets. She holds a bachelor’s degree in business administration and management from Illinois Wesleyan University.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-21T08:00:00+00:00",
-      "source": "GN Markets",
-      "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Who is Stephen Hubbard, the US citizen released by Russia? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFh5SkZ6WDhTdzNGNmFvZV9hd3JLalBDVG1Jd19VenBJMm1WSWRwQ3VHaDNyWll2Tl9qcFFBSlZLcFYtUTI4UXlqclpQLWVnU2tXeG5kdXlDMVBjbmc1dFFNOWlrWmxibmk3UGZOYlRSTkg2cGJRbFVtQ0J2aWc5ZzFTb2MxcnBfU0ROVHlES21VRk8wUXlscXZ3?oc=5",
-      "summary": "Who is Stephen Hubbard, the US citizen released by Russia?&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T16:09:28+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World",
-        "GN Top",
-        "Al Jazeera"
-      ],
-      "source_count": 4,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "content": "By Rachel Clun Business reporter ,Â  Reporting from New York\nUS President Donald Trump is facing another legal challenge on tariffs after the group that successfully sued over his so-called \"liberation day\" import taxes filed a new lawsuit over the latest Canadian levies.\nThe White House imposed a 50% levy on some $20bn of Canadian goods after trade talks between the US and Canada broke down in August.\nThe Liberty Justice Center filed a suit on behalf of US food business Gellert Global Group, urging the US Court of International Trade to find the levies unlawful and to order refunds with interest for affected importers.\nThe lawsuit argues the White House exceeded its authority in imposing the tariffs and caused \"immediate harm to American businesses\".\nGellert Global Group is a third-generation family business that is paying 50% tariffs on cheese exported from Canada. The New Jersey-based firm is also facing retaliatory tariffs from Canada on American-made cheese it sells north of the border.\nCo-chief executive Thomas Gellert said the firm had spent generations building relationships with suppliers and customers in the food industry.\n\"These tariffs disrupt those relationships overnight and create costs and uncertainty that ripple through the entire supply chain,\" he said on Tuesday.\nThe Liberty Justice Center is challenging the administration&#x27;s use of Section 338 of the 1930 Tariff Act to hit Canadian goods from wine to dairy products and hockey sticks.\nThat section of the nearly 100-year-old Act is aimed at protecting US business against foreign discrimination, but the legal group is arguing that it does not allow the executive branch \"to impose sweeping tariffs or import restrictions whenever a trade dispute arises\".\nThe lawsuit seeks to challenge the White House&#x27;s reliance on retaliatory tariffs imposed by Canada to justify its own duties under Section 338.\nCanada has imposed a series of countermeasures against numerous US tariffs. Last month, Canadian Prime Minister Mark Carney matched the Section 338 US tariffs \"dollar for dollar\" after Trump imposed them for what he called \"unequal treatment\" of US cars, dairy and alcohol.\nIt also points out Section 338 requires a 30-day waiting period before levies can be imposed, but the tariff on products including cheese was added to the list just a week before tariff collection began.\nSara Albrecht, chief executive of the Liberty Justice Center, said the case was not about Trump himself but about the presidency.\n\"No president should have the power to pull a dormant statute off the shelf and use it to impose sweeping tariffs or import bans without the limits Congress required,\" she said.\nThe lawsuit argues that Section 338 of the Tariff Act of 1930 has been superseded by Section 301 of the Trade Act of 1974.\nIt also argues that if Section 338 still applies, the White House has not established the legal basis for the sweeping tariffs against Canada.\n\"The case is not an objection to tariffs as such. It asks who has the power to impose them and whether the executive branch followed the law Congress wrote,\" the Liberty Justice Center said.\nThe law group has also filed a motion for a preliminary injunction to block their collection.\nIt is the fourth case brought by the group against Trump&#x27;s tariffs, including its successful case against the sweeping tariffs brought in under the International Emergency Economic Powers Act (IEEPA) that were struck down in February this year.\nAlbrecht said the group had brought all the cases for the same reason: \"the Constitution gives tariff power to Congress. The executive branch cannot keep moving the same policy from one statute to another and pretend the limits disappear\".\nFigure caption, As Trump shares an AI goose meme amid the trade war, the BBC&#x27;s Jessica Murphy examines how much Canada can fight back.\nWhat tariffs will really cost Canadians and Americans\n&#x27;Half my business will be gone&#x27; - firms in Canada and US fear trade war",
-      "published": "2026-10-20T19:30:05+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "BBC Business"
-      ],
-      "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 3,
-      "score": 14.7,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "summary": "The European states say their support for Riyadh is &#039;defensive&#039;, but analysts warn Houthi reaction may complicate that.",
-      "content": "Share Are the UK, France being pulled into the Saudi-Houthi conflict? on social media\nTyphoon fighter jets operate from a British air station in Coningsby, UK, October 21 [Ryan Jenkinson/Getty Images]\nFrance and the United Kingdom have both moved to deploy military assets to Saudi Arabia, deepening their defence ties with the kingdom as its conflict with the Houthis, an armed group also known as Ansar Allah (Arabic for Supporters of God), in Yemen escalates.\nParis last week said it had begun sending assets to Saudi Arabia as part of a previously announced agreement, after President Emmanuel Macron committed to deploying troops and air defence systems to help protect the Red Sea port city of Yanbu, which has come under attack from the Iran-backed Houthis .\nlist of 2 items list 1 of 2 Egyptian parliament delays vote on military support for Saudi Arabia\nlist 2 of 2 UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks\nThe UK , for its part, on Tuesday announced plans to deploy fighter jets to help shield Saudi Arabia from Houthi attacks.\nBoth countries stressed that their support would be defensive.\nAnalysts say the European moves serve several geopolitical purposes: protecting Saudi oil exports that are important to European energy markets, shoring up their strategic alliance in the Gulf amid US reluctance to offer direct military assistance to Saudi Arabia, and strengthening deterrence against future Houthi attacks.\nBut the deployments also carry significant risks, many analysts say, potentially drawing the two European states more directly into the protracted Saudi-Houthi conflict.\n“If insufficiently deterred, the Houthis may decide that the moment is ripe to test the resolve and resilience of Saudi Arabia’s defensive posture, and attempt to draw Saudi Arabia’s allies even further into the Yemen-Saudi confrontation,” Burcu Ozcelik, a senior research fellow for Middle East Security at the Royal United Services Institute (RUSI), told Al Jazeera.\nThe British and French military support measures come as Saudi Arabia faces a sustained Houthi missile and drone campaign against it , including targeting energy and transport infrastructure.\nHouthi attacks targeting Saudi airports in Riyadh and Abha this month have killed 19 people and injured more than 300 others, according to the Saudi-led coalition spokesman Turki al-Maliki.\nAddressing the UK’s stepped-up military support for Saudi Arabia, UK Defence Secretary Wes Streeting called recent Houthi attacks in Saudi Arabia “absolutely despicable”, specifically condemning the group’s targeting of Riyadh airport.\nThe UK Ministry of Defence said it would deploy Typhoon fighter jets to fly “defensive counter air missions” in Saudi Arabia, send UK military advisers to work with Saudi staff officers and provide an A400M transport aircraft to help move defence material within the kingdom.\nFrench support for Saudi Arabia would include soldiers, radars and defence systems, Macron has said, without detailing the scale of the support.\nUrban Coningham, a research fellow at RUSI, noted differences in the British and French roles, with the French mainly limited to protecting Saudi export infrastructure. The British, by contrast, will conduct “defensive patrols where they would shoot down incoming missiles or drones” in Saudi Arabia, as well as provide air-to-air refuelling support for Saudi bombers and jets heading into Yemeni airspace, he said.\nCamille Lons, policy fellow and deputy head of the Paris office at the European Council on Foreign Relations, said France is limited in what it can provide to Saudi Arabia, particularly given the demands on European defences amid the war in Ukraine. Still, Paris sees its assistance as a way to “show support [for Saudi Arabia] in times of crisis, and a way to deepen the defence partnership”, Lons told Al Jazeera.\nSaudi Arabia will welcome the European deployments, as it has struggled to translate some of its security partnerships into high-level military support.\nIn September, US President Donald Trump rejected multiple Saudi requests to participate in strikes on the Houthis, agreeing only to provide intelligence and targeting support, the news agency Reuters cited informed sources saying.\nTurkiye and Pakistan have committed to “collective deterrence measures”, including potential troop deployments, under the newly signed Mecca defence pact with Saudi Arabia, but the agreement has yet to be ratified in Turkiye .\nEgypt’s parliament has also postponed a vote that would authorise its armed forces to support Saudi Arabia.\nNawaf Obaid, a senior fellow at King’s College War Studies Department, called the UK and French deployments “militarily valuable and politically significant”, saying they could help shield the kingdom’s sprawling territory from persistent Houthi air attacks while giving Riyadh more room to focus its own assets on offensive operations.\n“The British Typhoons can reinforce Saudi air defences and, crucially, free up Saudi Eurofighters for offensive operations,” Obaid told Al Jazeera. “France’s contribution is particularly important for protecting Yanbu.”\nSaudi Arabia “does not need foreign assistance to conduct air strikes”, Obaid added, noting that the kingdom has its own powerful combat aircraft fleet. “What it needs is additional defensive coverage across its enormous territory, particularly for critical energy infrastructure.”\nOzcelik said the recent British move was “not insignificant”, but its deterrent impact was not immediately clear.\n“The question remains whether the UK air missions will move the dial in deterring sustained Houthi attacks while Saudi air defences and interceptor stockpiles are stretched,” said Ozcelik. “The difference between deterrence and interdiction is an important one.”\nWhat also remains to be seen is whether the UK and France will maintain a purely defensive posture – and whether the Houthis will recognise that distinction at all.\nConingham said the Houthis could interpret European military involvement, especially the UK’s air-to-air support for Saudi bombers and jets, as “offensive” rather than defensive, leading the group to view those countries as belligerents and their forces as targets.\nAs a result, Coningham said, the Houthis could strike at British forces stationed in the region – whether in Saudi Arabia or elsewhere, such as Cyprus – or reverse their position on allowing free transit to non-Saudi vessels, including European ships, in the Bab al-Mandeb strait – a key maritime route in the world.\nAnother potential flashpoint would be a Houthi attack in Saudi Arabia that kills British or French personnel, analysts noted.\n“Whether it’s a direct attack planned by the Houthis or collateral damage, if the British or French have any casualties … then there becomes a pointed debate in those countries as to whether they should then retaliate,” said Coningham.\nOzcelik said the UK could face pressure to play a more offensive role in the event of a “mass civilian casualty event” caused by the Houthis or “debilitating attacks on Saudi’s energy infrastructure”, although London would likely view such a scenario as a “last resort”.\n“Neither the Mecca signatories nor the UK are inclined to get dragged into deeper and likely protracted conflict inside Yemen,” said Ozcelik.",
-      "published": "2026-10-21T13:25:50+00:00",
-      "source": "Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 14.5,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Fighter jet crashes in northeast France, at least one person dead - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjRieTdHWUNzMHlHelpvbDNtSE91c1Z2LWVjNlN5djlBQWVraHByNkRRSEpZOE5raDloOE40ZWxUWXNDMmRoQXFEZVNwYzBmSEliSmo0eWxfam5SZ1FpdWFGZXpTWGRRMlJRZDlpRnBaUkdCTVExeXNFaFQtRkhBUS1aY0xGR3dBdjBJdFF2OEVnNGxZcGVkMlpwYnBhblF1YWRMOQ?oc=5",
-      "summary": "Fighter jet crashes in northeast France, at least one person dead&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T06:53:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 14.3,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "From France to Spain, Portugal, Italy and Albania, social unrest is setting Europe's streets ablaze - AP News",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMG9iNzZLMlJDeWRYM3lPZDRGS2M0WlEzODVlb2NYb0xCNmJLeGE1aU1CN1k1N3h0bldpTGhOYlk5NTFsUnNsNjdaVHBqcU1GQXk2VFA2SHRMMVp2Vkk1TlItUElxcmFvdl9nOGQyOWIyc3VCSktEYVBGWEtsTmNNQ3RveU4wTGU5dHlLOURxdl81bkZRc1hsbk5fSWFGUXBsMWFobkE1LUdOeVViVGNrNUY4NGd2ZXd2UlRMaFRQRk5nMnZBeHhJZWtKTk4zNkM0R3JNdTQwaUJRQm1YbGxGQnhjZ0lVekda?oc=5",
-      "summary": "From France to Spain, Portugal, Italy and Albania, social unrest is setting Europe's streets ablaze&nbsp;&nbsp;",
-      "content": "",
-      "published": "2026-10-20T18:52:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 14.3,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
@@ -445,6 +407,26 @@
       "assets": []
     },
     {
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+      "summary": "Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.",
+      "content": "Share Iran determined to keep uranium amid increased war odds, flurry of meetings on social media\nIranian Foreign Minister Abbas Araghchi, right, gestures to Russian Foreign Minister Sergey Lavrov during their meeting in Tehran, Iran, October 19, 2026 [Vahid Salemi/AP]\nTehran, Iran – There has been a flurry of diplomatic activity in the Middle East in recent days, with hopes of a diplomatic breakthrough to end the United States and Israel war on Iran.\nPakistan’s army chief Asim Munir was in Tehran on Wednesday to discuss the war and recent tensions in Yemen. It comes against the backdrop of fears of a new breakout in conflict in the region.\nlist of 3 items list 1 of 3 Iran’s enriched uranium re-emerges as point of contention in US talks\nlist 2 of 3 UK approves development of Jackdaw gasfield in North Sea\nlist 3 of 3 Putin ready to resume three-way Ukraine peace talks\nDespite this, Tehran has held firm to its position that the war will not end, and the Strait of Hormuz will not reopen, until the US accepts its conditions.\nIran maintains an unyielding stance on its contentious nuclear programme, which was a factor in the Trump administration’s decision to launch the war on February 28.\n“Not a single gram of enriched uranium will be removed from Iran,” Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said late Tuesday after meeting Munir.\nBut he did not rule out downblending the highly enriched uranium inside the country under supervision from monitors, something Iran has offered before.\nIran’s authorities present the decades-old nuclear programme as a sovereign right and an achievement gained despite strikes, sabotage and assassinations. Rezaei described it as “national wealth” on Tuesday.\nIran has also used low-enriched uranium for civilian purposes like manufacturing radiopharmaceuticals and for power generation at the Bushehr plant in cooperation with Russia.\nThe authorities argue that surrendering the nuclear programme under military pressure would amount to capitulation, if it did not guarantee that Iran would not be left exposed to more attacks.\nUS President Donald Trump has repeatedly emphasised since the start of the war that he wanted to dismantle the Iranian nuclear programme. US Vice President JD Vance, however, suggested earlier this month that a “meaningful” reduction in the level of enrichment capacity may satisfy US demands.\nBefore Israeli and US attacks on Iran’s nuclear facilities in June 2025, the International Atomic Energy Agency (IAEA) estimated that Tehran possessed 440 kilogrammes (970 pounds) of uranium enriched up to 60 percent. A nuclear bomb would need enrichment of more than 90 percent.\nThe attacks, followed by further US-Israeli strikes on nuclear sites in 2026, severely damaged Iran’s nuclear infrastructure. With the IAEA unable to inspect key facilities, the current size, condition and whereabouts of much of Iran’s enriched uranium stockpile remain unverified.\nTehran has refused access to the IAEA to inspect its nuclear facilities since the war started, accusing the agency of advancing Western interests through adopting resolutions and referring the nuclear file to the United Nations Security Council .\nIranian authorities maintain they are not pursuing a bomb. But senior Iranian officials, like Rezaei, have publicly questioned the validity of being a party to the international nuclear Non-Proliferation Treaty if Iran’s nuclear facilities and other infrastructure continue to be attacked.\nStill, Iranian officials have hosted numerous foreign diplomats this week. Russian Foreign Minister Sergey Lavrov was in Tehran on Monday after attending a meeting with Gulf Cooperation Council (GCC) countries a day earlier. There were also indications of visits to Tehran by other Arab officials.\nUS Secretary of Defense Pete Hegseth is also reported to have met Israeli security officials earlier this week. These meetings did not appear to have decreased the prospects of renewed war.\nBut speaking at a conference for Iranian exporters in Tehran on Wednesday, Iranian Foreign Minister Abbas Araghchi cautioned that the country faces threats of more attacks and expansive economic sanctions .\n“The reality is that the country is truly in war conditions and the war continues. We have not reached peace conditions and are away from it, so all decisions must be made within war conditions,” he said.\nParliament speaker and chief negotiator Mohammad Bagher Ghalibaf told Munir that Iran had “nothing new” to tell Washington and expected realisation of conditions offered in New York last month to reopen the Strait of Hormuz within seven days.\nMediators did not publicly divulge details of their proposals to Tehran this week, but were told the US needed to build trust by accepting Iran’s conditions. These include returning to the June memorandum of understanding and recognising an Iran-Oman deal over temporary transit in the Strait of Hormuz .\nUS Navy sailors tend to a fighter jet on the flight deck of the USS George Washington in the Arabian Sea, September 11, 2026 [Ed Ou/Reuters] In addition to a pledge for immediate talks on a bigger deal regarding Iran’s nuclear issue, the memorandum included removing the US naval blockade on southern Iranian ports, waivers for oil sanctions, unfreezing Iranian assets and halting military action in Lebanon and other regional hotspots.\nEllie Geranmayeh, a senior policy fellow and deputy head of the Middle East and North Africa programme at the European Council on Foreign Relations, said it was clear that Tehran would be unwilling to give up its enriched uranium without guarantees of sanctions relief.\n“The Iranians have made it very clear, and I see no evidence that’s changing, that they are willing to negotiate over the fate of the highly enriched uranium or access for international monitors, but that has to be directly linked with a very clear implementation protocol for US sanctions relief,” she told Al Jazeera. “We are very far from those types of negotiations at this stage.”\nUS media cited unnamed officials as saying on Tuesday that the Pentagon was sending the USS Theodore Roosevelt carrier strike group and a Marine unit to the Middle East. That would present President Trump with a range of strike options after the US midterm elections on November 3.\nOver recent weeks, Trump and his officials have further discussed a range of military operations, including hitting Iran’s Pickaxe Mountain to diminish nuclear facilities inside, and dropping the “mother of all bombs” on nuclear and energy facilities. They have also previously raised the idea of seizing Iran’s southern islands on the Strait of Hormuz and assassinating more Iranian officials.\nIran’s state-run Press TV cited an unnamed security official as saying on Wednesday that decision-makers in Tehran have chosen to advance “without any limitations or restraint” if there are more US and Israeli attacks or assassinations.\nGeranmayeh pointed out that Tehran had also helped its ally, the Houthis in Yemen, with their advances along the Bab al-Mandeb strait, and even considered potential preemptive strikes to rattle the US ahead of the election.\n“One thing we should be watching out for is Israel and the US combining forces on military attacks after the Israeli elections and the US midterms,” she said, after Trump backed Netanyahu’s election bid .",
+      "published": "2026-10-21T18:58:29+00:00",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA?oc=5",
       "summary": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says&nbsp;&nbsp;Reuters",
@@ -507,27 +489,6 @@
       "assets": []
     },
     {
-      "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHFiRnNfU1ZqdEFSWG9fQV93dDJCNVQ0NTh2bF9WRmtQcERCbFZlQ3ZVRllOeWVjejY2RGZhNjJzVjV5U19lMUhZV3ZpNTZpcElSbGFaY0dpTUxEaGx4eElobk9qakZXZ3g5LVZqaHV0QTZ3eElMSGdjQzdqT3Y1alVuVDh4NV9RZF9ycmc1bkUyeTVTTnFvVzdUUVFnWXRDb29aQk13YU1OeFBNQ3BFQ2tNRjlCTWFIX2c?oc=5",
-      "summary": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T05:54:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazVLcDItRGFmTHc0VFY0M3FhV1B4Ymg2NUl0eGRDc0JHb25hUkZrblhjelAzM3JjYVU5Z1BMald1NFZRSVhFcFVLcFB5MmhLYlktcVVrREN1aHk1bGNKaEdHejB3cHVmUzFvaXIwaHc1WEFnQS1QczNHVHNNOFhtUTBkZWFhdGtacXpwQ1BjbW1kV1FGQU90VA?oc=5",
       "summary": "US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&amp;P, Nasdaq, Wall Street&nbsp;&nbsp;Yahoo Finance",
@@ -571,7 +532,7 @@
       "title": "Stock market today: S&P 500, Nasdaq futures rise as earnings roll in, SpaceX stock surges - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFVXBFWU5TeEpMQXJCeXF1d3AzTVc0OVJ0cHZsM0h0c3czV0RfNXJRUHNMd3pOLV9Za2hOUDhMbFFUNzNmdDFZZVZINTRwYmgzNEUwRmtwbm1fRjhYOXYzcjJkRi00QW1Cd0hDcW5SMkZQekdoQk5F?oc=5",
       "summary": "Stock market today: S&amp;P 500, Nasdaq futures rise as earnings roll in, SpaceX stock surges&nbsp;&nbsp;AOL.com",
-      "content": "US stocks rose on Wednesday as SpaceX&#x27;s ( SPCX ) quarterly results  renewed enthusiasm for the AI tech trade ahead of earnings from Tesla ( TSLA ) and Meta ( META ).\nThe Dow Jones Industrial Average ( ^DJI ) rose 0.5%, while the S&P 500 ( ^GSPC ) gained 0.7%. The tech-heavy Nasdaq Composite ( ^IXIC ) climbed 1.2% after the major averages closed mixed on Monday.\nShares of SpaceX surged as much as 10% after posting quarterly results, while Elon Musk, who also leads Tesla, said both companies formed special committees to discuss a potential merger .\nTesla, along with social media giant Meta, is expected to report results after the bell on Wednesday, kicking off Big Tech&#x27;s earnings season.\nMeanwhile, Anthropic ( ANTH.PVT ) could file its S-1 as soon as Friday , paving the way for what could be the largest IPO in history, according to people familiar with the AI developer&#x27;s plans.\nOutside of the tech world, Netflix ( NFLX ) shares dropped 4% after the streamer&#x27;s Q4 revenue forecast missed estimates and 2026 ad revenue guidance was lowered.\nBrent crude futures ( BZ=F ) hovered at $108 per barrel, while West Texas Intermediate crude ( CL=F ) traded close to $97 per barrel.",
+      "content": "Technology stocks rose on Wednesday as shares of SpaceX surged and focus shifted to Tesla and Meta earnings after the closing bell.\nUS stocks rose on Wednesday as SpaceX&#x27;s ( SPCX ) quarterly results  renewed enthusiasm for the AI tech trade.\nThe Dow Jones Industrial Average ( ^DJI ) rose 0.7%, while the S&P 500 ( ^GSPC ) gained almost 0.6%. The tech-heavy Nasdaq Composite ( ^IXIC ) climbed 1% after the major averages closed mixed on Monday.\nShares of SpaceX surged nearly 8% after posting quarterly results, while Elon Musk, who also leads Tesla, said both companies formed special committees to discuss a potential merger .\nTesla, along with social media giant Meta, is expected to report results after the bell on Wednesday, kicking off Big Tech&#x27;s earnings season.\nMeanwhile, Anthropic ( ANTH.PVT ) could file its S-1 as soon as Friday , paving the way for what could be the largest IPO in history, according to people familiar with the AI developer&#x27;s plans.\nOutside of the tech world, Netflix ( NFLX ) shares dropped 5% after the streamer&#x27;s Q4 revenue forecast missed estimates and 2026 ad revenue guidance was lowered.\nBrent crude futures ( BZ=F ) climbed to $110 per barrel after a Saudi Arabian oil field was attacked amid ongoing Middle East tensions. Meanwhile, West Texas Intermediate crude ( CL=F ) traded near $98 per barrel.",
       "published": "2026-10-21T10:00:00+00:00",
       "source": "GN Markets",
       "sources": [
@@ -582,6 +543,26 @@
       "category_zh": "市场",
       "stars": 3,
       "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "European shares flat as strong earnings offset French unrest worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0l0UndFem5tT1A5MjFoMDI2dXJGY3FiRnNaZE1CNzVRVmJmWmlOY19xLXRDclZkbkgwWGFVdlNqbGlpckJFQUYxRXpHZmtnS2NMVDB6cnV5T3Q4eW9DalhZRHJ4MTRJSDVRaGFJVGdJTFJYQ3E2RFhOUWpXTFB0X0tnaHhIdHBKQmxaS0I1LU5OWHlYc3VnaVdDRVktMFJxWDdjNnhHOFVBbk5HQXpNM2pqUlFTZG8?oc=5",
+      "summary": "European shares flat as strong earnings offset French unrest worries&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T07:29:12+00:00",
+      "source": "Reuters Markets",
+      "sources": [
+        "Reuters Markets"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.4,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
@@ -676,31 +657,34 @@
       "assets": []
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamllOWJjaEV4NHlRcUM4NTl1M0E4eFJMc3l1dG0yU3UzMFlDUS1uN0U3STlfQ3d4alc3Qk1PZ19TTGhQTG1BcTFLckg1b0s2RTBWckctLTJLeE04VlFvcG9wZXUtRzYtVW1ubHNQSWx2b1JUMUlqTHRKNkk1Z1hLeXo4TnZuSkFPOGtZeFMyRi1RU0ltZmJDM1FzclBreWJJMWcxVDB1ZE1lNEZIYlpZRWZDenl2dzg?oc=5",
-      "summary": "Stock Market: Will S&amp;P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga",
+      "title": "Canadian publisher says Thelyson Orelien used AI to write award-winning book, ends relationship - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHJjNGwwdFdCWEo1NlJGa3R4cG1GalQ2N0RGYWFMdGZaWWZWcDVTTlN4bmVfWlhROTQzeGo1MTcyZzk4TmI5Tk1UeW5xRnllQ21NdHVFU2JqZGNIdVp4aFhkY0ZNNEtRYWRZTHBGNnE1OW96ZHliSDE2Y0EwbGZ5UzBZQ0VjR1dUMGY4d2pNQVl2eGt2OHZwRGt5ZVg4UklCQlpCeEg0VHJzMGpfNlhKeHQ3MTNpUzdjaW5vbzh5MTE0empEUXVCdw?oc=5",
+      "summary": "Canadian publisher says Thelyson Orelien used AI to write award-winning book, ends relationship&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T07:17:24+00:00",
-      "source": "GN Markets",
+      "published": "2026-10-21T18:30:40+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN Markets"
+        "Reuters World"
       ],
       "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
-      "score": 13.3,
+      "score": 13.2,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
-      "title": "Yemen's Houthis deny launching drones towards Saudi Arabia's Medina - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc2ZjQXV3eDBJb0ZSQVR6eGFkazItZW9IbnhpQVJESVNVekFRZzJNSFhSRFZjMlRLMmQ0TDFBMHlBQkJ0dlBUY1dVSEQ5Z204MVZ2ODJpQ2xuaVpNb2N3WGdVUExETTdTbXdnMGNYZmVUN1Y2ajZmRUc3ZmZvMFJpT2ozdW85bng5QnRhQVBtUjhocVZwVmt2Q3RIdDdRSU9RcXA1T2JlUmNvVk5vMVk0c21WcDhTbWhIdGdyWnh3?oc=5",
-      "summary": "Yemen's Houthis deny launching drones towards Saudi Arabia's Medina&nbsp;&nbsp;Reuters",
+      "title": "Italian retailers warn of food shortages caused by truck drivers' protest - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU9VRTRDWGZjeWIweFFSZVBPbEVOMmVSeFhlckJVbTliVG1JZExjVDNJTjVOaW1RdFh3M2dQMkRBVF9idTlRYWdZbWZnYWRhTzhTdjFuc1V6U0RTakt6Ulc0YUJqOFRDb0RJYnV0WjVqQVMxZUt3aXRYUHdDOGdNWFR2R0ZacUtOdndZUGpzRUpJM21NanR1bC1hc2hjc0NUS05MZy1PcU90RGVHQklKcA?oc=5",
+      "summary": "Italian retailers warn of food shortages caused by truck drivers' protest&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T11:27:24+00:00",
+      "published": "2026-10-21T18:23:56+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -716,11 +700,11 @@
       "assets": []
     },
     {
-      "title": "Italian retailers warn of food shortages caused by truck drivers' protest - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU9VRTRDWGZjeWIweFFSZVBPbEVOMmVSeFhlckJVbTliVG1JZExjVDNJTjVOaW1RdFh3M2dQMkRBVF9idTlRYWdZbWZnYWRhTzhTdjFuc1V6U0RTakt6Ulc0YUJqOFRDb0RJYnV0WjVqQVMxZUt3aXRYUHdDOGdNWFR2R0ZacUtOdndZUGpzRUpJM21NanR1bC1hc2hjc0NUS05MZy1PcU90RGVHQklKcA?oc=5",
-      "summary": "Italian retailers warn of food shortages caused by truck drivers' protest&nbsp;&nbsp;Reuters",
+      "title": "Yemen's Houthis deny launching drones towards Saudi Arabia's Medina - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc2ZjQXV3eDBJb0ZSQVR6eGFkazItZW9IbnhpQVJESVNVekFRZzJNSFhSRFZjMlRLMmQ0TDFBMHlBQkJ0dlBUY1dVSEQ5Z204MVZ2ODJpQ2xuaVpNb2N3WGdVUExETTdTbXdnMGNYZmVUN1Y2ajZmRUc3ZmZvMFJpT2ozdW85bng5QnRhQVBtUjhocVZwVmt2Q3RIdDdRSU9RcXA1T2JlUmNvVk5vMVk0c21WcDhTbWhIdGdyWnh3?oc=5",
+      "summary": "Yemen's Houthis deny launching drones towards Saudi Arabia's Medina&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T13:55:30+00:00",
+      "published": "2026-10-21T11:27:24+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -780,7 +764,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ?oc=5",
       "summary": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-21T14:42:00+00:00",
+      "published": "2026-10-21T19:42:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World"
@@ -797,6 +781,27 @@
         "科技股",
         "半导体"
       ]
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "content": "Image caption, Meta has been hit with numerous legal fines this year\nMeta, the company behind Facebook, Instagram and WhatsApp has been hit with the largest ever fine against it for its business practices.\nA judge in New Mexico on Wednesday ordered the company to pay $25bn (Â£18.6bn) following a two-week trial earlier this year that found it had spent years lying to the public about how it handled Facebook user data.\n\"The lies extend beyond Facebook&#x27;s data practices as well,\" the judge said, adding they went to \"the heart of Facebook&#x27;s core business practices\".\nMeta&#x27;s head lawyer CJ Mahoney said the ruling made it \"all but impossible to do business in the state of New Mexico\". The company intends to appeal, a move Mahoney said will be successful.\nThe fine is the largest to date against Meta, which has either been fined or agreed to settle several other lawsuits this year, including an $18bn deal with California over child safety.\nNew Mexico&#x27;s lawsuit stemmed from the role of Meta, then still doing business as Facebook, in what became known as the Cambridge Analytica scandal.\nThat firm utilized data and information from millions of Facebook users as part of its work in political consulting, including on work related to the 2016 US Presidential election, which saw Donald Trump elected for the first time.\nNew Mexico had also accused Meta of intentionally misleading the public on how it benefitted from content that included hate speech, and how such rules against it were enforced. The jury found the company had intentionally misled the public on those claims, too.\nMeta disputed those accusations. \"At its core, this lawsuit seeks to impose a tax on speech to enforce new rules for what people can say online,\" Mahoney added.\nLawyers for New Mexico sued the company over many statements Meta executives had made over the years that user data was never shared with or accessed by third parties without a user&#x27;s permission, when in reality it had been.\nThey claimed that the entire population of the state, roughly two million people, was impacted by Meta&#x27;s dishonesty regarding the way it controlled user data. A jury found that Meta had violated state laws more than 40 million times.\n\"For too long, powerful technology companies have operated as though their size and influence put them beyond the reach of the law,\" New Mexico Attorney General RaÃºl Torrez said Wednesday.\n\"Today&#x27;s result makes clear that no corporation is too powerful to be held accountable.\"\nThe state lawyers sought up to $40bn in fines against Meta. Meta had argued anything beyond $3.4bn would be unconstitutional.\nJudge Francis Mathew on Wednesday was direct in his decision to fine Meta an amount roughly equal to its profits each quarter.\nHe said Meta&#x27;s violations of law and misrepresentations to the public about how their Facebook data was used and shared were \"willful\" and spanned \"more than 11 years\", stretching from 2010 to 2021.\nCommunications between senior executives, including Mark Zuckerberg, were \"designed to mislead the public\", Judge Mathew wrote in his order.\nWhile the full amount of the penalty against Meta, based on thousands of violations of state law, was calculated as $219bn, Judge Mathew reduced the penalty to the $25bn fine.\nIt follows a $5bn fine levied by the US Federal Trade Commission in 2019 against the company over its data privacy practices.\nNew Mexico has been one of Meta&#x27;s most notable adversaries in court. The state this year also fined Meta almost $1bn for misleading the public about the safety of its social media platforms for children.\nThe judge overseeing that lawsuit ultimately compared Meta to an industrial polluter of the air, with its form of pollution being \"the psychological harm and sexual exploitation of children\".\nCalifornia and several other states had collectively sued Meta over similar issues related to a lack of child safety features on Meta&#x27;s platforms and resulting harms to children.\nMeta and the states reached a mutual settlement deal, which did not include a fine or any admission of wrongdoing, to end that case only a few days into what was expected to be a multi-week trial.",
+      "published": "2026-10-21T19:54:16+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Fed Interest Rate Predictions for October 2026 - Norada Real Estate Investments",
@@ -871,31 +876,11 @@
       ]
     },
     {
-      "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-      "summary": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-21T18:15:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Zelensky says he’d be open to freezing front lines to end Russia war - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzdqSmNqOHczZ2FpSExPYm1GdlUySlE2cl9oWGdWbnRtWFgyOE81TWlGMjJ4UHY3R3U3Ylc2OVEtRFV0TjVGMmRPbllaWXBaZWtHWkVQeTNfcXQ3R1hWNHJOOEZvRTh1Q2xWTDZKVUlrVi03QkpCUGNiRDVsTWFNcXlHaWtIZWV6b0U2Ni1BbmFsUEQ0Sl9LbdIBngFBVV95cUxQRk9TSGM2N1VQM3FZc2hxN3h5X2FSZzRSR29YdWVxRjM0RlR1aVNyb0lzMHhFcDBONVJtVm5idVk5UUhZWEl4cHhaVkJ4cW9zVl9hSThfMk4taF9vUHkwNDdVRHdLcU9lbWdvTHdJaEpKY0pXZjZtYkx2LUg0VWd2NDI5TDdiNmg3ZTM3Q1FPeVhfSnJJd0VQN3MtVmFIUQ?oc=5",
-      "summary": "Zelen",
-      "content": "",
-      "published": "2026-10-21T14:52:00+00:00",
+      "title": "Iran is trying to ‘create a rot from within’ through ‘information warfare,’ analyst warns - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzJlbFdpSHFVdDlEdEJOemQ3Y3EwMDJrdlFMeUplN01kTjQyRmEyWjlkdmo3WmVOUFYxMkJQV3BrcWI0cmZFTmtOWWR1ZmxVYzdyRHJReXFpUFQyb3ZERnlSU0IzcG84emN4N3ViYkVhdUQ3dlg5bEk2WHNRdVd4TTgyTmpQZEIyN2pKa1FmUzFHeHd1T2tEa1VRTGHSAaIBQVVfeXFMUEhEcXVKZENjcHBJUFpGdTduYWZUZENFZ3ZmdHdXYl9RSG10TFRkTWNHM0ZwVlByeFh1TnE4OGtZMHVXSXBGeFR5clpSX2ExRW4tMS1Qb29BNzJDbFMzZ09PNFdCWlVKeVhYZXNyREZIVm8wLXFja2VDWmhSS3gteVFXZktiRHAxaG1yR1Vkb053bDdRVG5hclFfVnlZaHZFVjhB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzJlbFdpSHFVdDlEdEJOemQ3Y3EwMDJrdlFMeUplN01kTjQyRmEyWjlkdmo3WmVOUFYxMkJQV3BrcWI0cmZFTmtOWWR1ZmxVYzdyRHJReXFpUFQyb3ZERnlSU0IzcG84emN4N3ViYkVhdUQ3dlg5bEk2WHNRdVd4TTgyTmpQZEIyN2pKa1FmUzFHeHd1T2tEa1VRTGHSAaIBQVVfeXFMUEhEcXVKZENjcHBJUFpGdTduYWZUZENFZ3ZmdHdXYl9RSG10TFRkTWNHM0ZwVlByeFh1TnE4OGtZMHVXSXBGeFR5clpSX2ExRW4tMS1Qb29BNzJDbFMzZ09PNFdCWlVKeVhYZXNyREZIVm8wLXFja2VDWmhSS3gteVFXZktiRHAxaG1yR1Vkb053bDdRVG5hclFfVnlZaHZFVjhB?oc=5\" target=\"_bl",
+      "content": "Yuval David: Iran resorts to 'information warfare,' because it cannot win 'kinetic war' against US, Israel\nUS-Israel strategic communications advisor Yuval David says Iran resorting to information warfare because it knows it cannot win 'kinetic war' with a strong U.S.-Israel alliance.\nIran , recognizing surefire defeat in a kinetic war, is leaning in on an information warfare campaign to undermine the United States and Israel from within, according to Yuval David, a strategic U.S.-Israel geopolitical communications advisor.\n\"You cannot beat Israel or the United States in a physical kinetic war,\" David told Fox News Digital from Budapest, where he joined Israeli President Isaac Herzog for high-level diplomatic talks Wednesday, adding the warning of an \"information warfare system.\"\n\"And that’s what’s going on with social media, with our devices and the people who are on TikTok and Instagram and Facebook and X and YouTube and all of the different social media platforms where the Islamic Republic of Iran is able to affect people’s minds.\"\nIRAN TARGETS US WITH PSYCHOLOGICAL WARFARE CAMPAIGN TO MANIPULATE AMERICANS, EMBARRASS TRUMP: EXPERTS\nPresident Donald Trump has had his disagreements with Israeli Prime Minister Benjamin Netanyahu, but appeasement of Iran is not one of them. (REUTERS/Kevin Mohatt)\n\"One of the things that it does is it tries to create a rot from within the societies and, sadly, it’s very much succeeding in doing so,\" he added, stating that Iran's campaign has enjoyed \"guidance from Russia and China.\"\nDavid’s warning comes as Israel prepares for an election next week that analysts say could change its leadership but is unlikely to produce a fundamental shift in the country’s Iran policy.\nNETANYAHU PRAISES TRUMP'S 'WICKED SENSE OF HUMOR,' DEFENDS IRONCLAD ALLIANCE AHEAD OF HISTORIC ISRAEL VOTE\nA Reuters analysis published Wednesday found that Iran will likely remain Israel’s chief adversary, with military force continuing to serve as the country’s preferred tool against its enemies. The report said Israel’s security doctrine is centered on confronting Iran, maintaining buffer zones beyond its borders and keeping military pressure on to deter threats.\nA victory for Prime Minister Benjamin Netanyahu , backed by conservative coalition partners, could deepen Israel’s confrontation with Tehran, not bring about appeasement. Even an opposition-led government would likely share the same broad strategic outlook, David said.\nTRUMP IS DISMANTLING IRAN’S WAR MACHINE, BUT AMERICA STILL NEEDS AN ENDGAME\n\"The Islamic Republic of Iran is a massive concern for the world,\" David said. \"Tehran does not fear another diplomatic statement. It fears an America and an Israel with the intelligence, military capabilities and political will to act together.\"\nDavid said the U.S.-Israel alliance should not be judged by whether American leaders support the same Israeli candidate.\nTRUMP SAYS NETANYAHU NEEDS TO BE RE-ELECTED, OR ELSE US WILL HAVE TO 'FINISH THE JOB’ AGAINST IRAN ALONE\n\"Presidents come and go, prime ministers come and go. America’s and Israel’s enemies do not take election years off,\" he said. \"America doesn’t need to choose Israel’s prime minister, nor will it, nor can it, nor is it even trying to. America just needs a strong Israeli partner, whoever the Israelis elect.\"\nReuters has cited regional analysts who said Netanyahu’s re-election could allow him to pursue a more aggressive campaign against Iran, while Arab states remain wary of his policies but want Tehran’s influence contained.\nDavid said Iran’s hostility toward the United States and Israel extends beyond the current conflict.\nIRAN’S PROXY WAR HAS CROSSED OCEANS AND IS NOW KNOCKING ON AMERICA’S DOOR\n\"The Islamic Republic of Iran has been waging this ideological war against America and also against Israel and also against democracies around the world since 1979,\" he said. \"The regime never stopped a war.\n\"Americans thought we have had a war, and then we didn't have a war. Then we had one. Then we didn't. Well, the Islamic Republic of Iran never ended that war. They've seen this as an ongoing war since 1979.\"\nFROM INTELLIGENCE SHARING TO MISSILE DEFENSE, HOW ISRAEL'S PARTNERSHIP PROTECTS AMERICAN SECURITY\nHe also framed U.S. support for Israel as a matter of serving American national security interests.\n\"America does not support Israel because Israel is helpless. America partners with Israel because Israel is capable,\" David said. \"Supporting Israel’s security isn’t charity. It’s American strategic self-interest.\"\nPresident Donald Trump’s endorsement of Netanyahu, contrasted with Vice President JD Vance’s decision to stay out of the race, reflects differing political approaches rather than a split over Iran or the U.S.-Israel alliance, according to David.\nVP JD VANCE ADDRESSES US-ISRAEL RELATIONSHIP, WHETHER IRAN IS TRYING TO 'PLAY' THE UNITED STATES\n\"President Trump is endorsing Prime Minister Netanyahu – Vice President Vance is emphasizing American priorities, but supporting Israel’s security doesn’t require endorsing a particular Israeli politician,\" he concluded.\n\"Trump is speaking to Israeli voters because that’s what Trump is able to do – Vance is speaking to American voters,\" David said. \"Far too many Americans don’t realize both Trump and Vance know that Tehran is listening.\"\nEric Mack is a breaking news reporter and writer Sunday through Thursday, 6 a.m. ET to 2 p.m. ET, with a particular interest in stories that lead the news cycle on politics, elections, foreign affairs and government.",
+      "published": "2026-10-21T17:39:43+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -931,58 +916,11 @@
       "assets": []
     },
     {
-      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-      "link": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
-      "summary": "OpenAI will now have its models on all three of the top clouds, giving corporate developers more choice.",
-      "content": "OpenAI bring its AI models to Google&#x27;s cloud, expands beyond Microsoft\nOpenAI said its models will be available for developers through Google&#x27;s cloud after years of competition between the two companies.\nThe ChatGPT maker will now have its models on the three major U.S. clouds.\nAmazon started hosting OpenAI models in April after exclusivity ended with Microsoft.\nOpenAI CEO Sam Altman delivers a keynote speech during OpenAI&#x27;s annual DevDay event in San Francisco, California, US, September 29, 2026.\nOpenAI will make its artificial intelligence models available for developers through Google&#x27;s cloud, following years of competition between the two companies.\nFor OpenAI, the effort reflects a growing push to expand distribution of its technology to enterprise developers. That&#x27;s critical as the ChatGPT creator looks to build its business beyond its consumer roots, and the move puts OpenAI&#x27;s models on all three of the top cloud infrastructure providers.\nLess than six months ago, OpenAI said Microsoft would no longer have the exclusive license on its intellectual property. The day after that ended, cloud leader Amazon unveiled plans to host OpenAI models .\nNow Google is getting its shot, bringing OpenAI&#x27;s GPT products to its cloud&#x27;s model garden and Antigravity coding tool in the coming weeks.\n\"Google Cloud&#x27;s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them,\" OpenAI said in a blog post.\nGoogle has been on a run in cloud computing this year. Annualized revenue growth in the segment accelerated to about 82% in the second quarter from 63% in the first quarter, thanks partly to strong demand for AI models and custom chips. Amazon and Microsoft posted second-quarter cloud growth of 37% and 42% , respectively. All three report quarterly results next week.\nMost business spending on AI is on OpenAI and Anthropic, according to data from corporate card issuer Ramp, though some corporate IT departments have integrated Google&#x27;s Gemini models into their systems. In September, Google announced its next-generation Gemini 4 Argon model.\nOpenAI was founded in 2015 partly as a counterweight to the concentration of AI research at companies like Google. Two years later, Google employees submitted the influential Transformer academic paper that propelled AI, but it was OpenAI that helped bring the technology forward with ChatGPT. Now OpenAI is courting investors at a $1.4 trillion valuation and targeting an initial public offering.\nGoogle and OpenAI previously partnered last year, when the AI lab said it was using Google&#x27;s cloud to run ChatGPT and its application programming interface.\nWATCH: Google broadens access to Gemini 4 Argon in bid to regain AI momentum\nGoogle broadens access to Gemini 4 Argon in bid to regain AI momentum\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-21T12:20:13+00:00",
-      "source": "CNBC Top",
-      "sources": [
-        "CNBC Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.8,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Experts warn of interest rate hike; new mortgages could cost buyers thousands more - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2tjbjdSUEFzMWZZXzVWM2ZCT2ZvUFl2elNqc25kZTVHLWliNGZkWjFSMFp4dnNNdHJ5T0xiYXFQeTh6Vi13dmlWTnU3eFZzeXB6VkdHeEtYNGpIU01ESDJCamFLTmJ2MW1VRkFpbWR5NFRGYUo2dG52TWFjcVFHREZpOXp0TTEzZ3VKNUV1TTZXQWJuNVVBbUxoM3dpN1lCNEZ2MkNoNENfekVENkM3WlRWWWFXQ21OVGJXcVJ0UTFPazhD?oc=5",
-      "summary": "Experts warn of interest rate hike; new mortgages could cost buyers thousands more&nbsp;&nbsp;AL.com",
-      "content": "",
-      "published": "2026-10-20T19:00:00+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.73,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "Consumers Energy plans to seek another rate hike, days after natural gas increase - WWMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnpiVmNUWkRFRDdRZVE5T0F5dEt6U2wxeE5iWjZsSXFqT2FmT1AyY1NOOWNkc011OGZobklON18ybDhyQlJ1V0V0V3otUzRBTGs0LUhtMXRrcER5cllTOGx1Q0p2QjNEVjRBOFpTUF9pSFJyNVd0d2VXR2lCSUtONkRBWlFzeE5RNkYxejJBdHNQcnlMX3dCd0d2TlN0eGtJWDN1R2dQYnZKX2Ry?oc=5",
-      "summary": "Consumers Energy plans to seek another rate hike, days after natural gas increase&nbsp;&nbsp;WWMT",
-      "content": "Consumers Energy plans to seek another rate hike, days after natural gas increase\nFILE: A Consumers Energy truck and worker at Solar Gardens construction at Western Michigan University in Kalamazoo, Mich., in April 2016. (Consumers Energy/WWMT)\nLANSING, Mich.— Consumers Energy is announcing their intention to file another rate hike.\nThis comes five days after the Michigan Public Service Commission approved a $139 million natural gas rate hike for the energy giant.\nThe MPSC authorized Consumers Energy to raise its natural gas rates by 4.3% for a typical residential customer on October 15th, allowing the monopoly utility to raise an additional $139.2 million per year from its bill-paying customers, according to Michigan Attorney General Dana Nessel.\nIt is not known at this time what the next rate hike request will be. However, they have announced that the rate hike will be likely filed this December.\nRELATED NEWS: Flint non-profit accepting applications for savings program\nAttorney General Dana Nessel announced Tuesday that her office will file to intervene in the case.\n“Consumers Energy was approved for a new natural gas rate hike just last week, and before a single new dollar could be spent, they’ve announced their next rate hike,” said Attorney General Nessel. “Major utilities like Consumers Energy and DTE employ entire teams of staff to craft rate hike applications to file one right after another, and their bill paying customers pay all the costs to craft these massive proposals. In the past, we have asked the MPSC to require both companies to track their costs associated with rate hike cases and, as long as their customers are paying for the process, I hope someday soon we’ll know just how much.”\nConsumers Energy sells electricity to approximately 1.9 million customers throughout Michigan and natural gas to 1.8 million customers across the state.\n&#x27;They were inseparable&#x27;: Mattawan teens identified by family as victims of fatal crash\nThe family of two teenagers involved in an early Sunday morning crash in Texas Township have identified the teens.\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nA proposal aimed at increasing public input on thousands of planned roadside tree removals is raising questions about how far Kalamazoo County should go.\nPetition to recall Plainfield Township trustee rejected in Kent County\nA Plainfield Township trustee at the center of controversy over an alleged anti-Muslim Facebook post has avoided recall for now.\nRetired KDPS Exec. Lt. says years of lenient bond rulings puts community&#x27;s safety at risk\nEvery week, dozens of defendants in kalamazoo county are arraigned on serious felony charges.but some are allowed back on the streets the next day - as they awa\nTwo Mattawan High School students killed, three others critically hurt in crash\nTwo Mattawan High School students were killed and three others were critically hurt in a crash early Sunday morning in Texas Township.\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nKPS, township police and CEIA OpenGate pressed for answers after gun brought to school\nSurvivor urges testing after getting stage 3 diagnosis months after clear mammogram\n&#x27;There were no words&#x27;: Mattawan community grieves after fatal crash",
-      "published": "2026-10-21T16:26:30+00:00",
+      "title": "Consumers Energy plans to seek another rate hike, days after natural gas increase - WSMH",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0x2QmZWWlc1SWZUWTYySHZ3OWxUcTVaaC16dGNVVllUU1pRRlJaeGxzbFkzN3ZUUDhDUHVjRUlKaV9WYVhZMjEwLWMtOTQyN0EtTFI0NkRJLXN2endQZHpLajc3WjJrc2l4NHEydnlDV3pxVDB3Tk1NdFJPT3psX3QwcEpjMnZ0TkZRMUdYYUk4UHhQR2hjNjFpdWlQV3RfT1pKMGN6QnVGRWtmelZlX1gxWWNvMWJNeWc?oc=5",
+      "summary": "Consumers Energy plans to seek another rate hike, days after natural gas increase&nbsp;&nbsp;WSMH",
+      "content": "Consumers Energy plans to seek another rate hike, days after natural gas increase\nFILE: A Consumers Energy truck and worker at Solar Gardens construction at Western Michigan University in Kalamazoo, Mich., in April 2016. (Consumers Energy/WWMT)\nLANSING, Mich.— Consumers Energy is announcing their intention to file another rate hike.\nThis comes five days after the Michigan Public Service Commission approved a $139 million natural gas rate hike for the energy giant.\nThe MPSC authorized Consumers Energy to raise its natural gas rates by 4.3% for a typical residential customer on October 15th, allowing the monopoly utility to raise an additional $139.2 million per year from its bill-paying customers, according to Michigan Attorney General Dana Nessel.\nIt is not known at this time what the next rate hike request will be. However, they have announced that the rate hike will be likely filed this December.\nRELATED NEWS: Flint non-profit accepting applications for savings program\nAttorney General Dana Nessel announced Tuesday that her office will file to intervene in the case.\n“Consumers Energy was approved for a new natural gas rate hike just last week, and before a single new dollar could be spent, they’ve announced their next rate hike,” said Attorney General Nessel. “Major utilities like Consumers Energy and DTE employ entire teams of staff to craft rate hike applications to file one right after another, and their bill paying customers pay all the costs to craft these massive proposals. In the past, we have asked the MPSC to require both companies to track their costs associated with rate hike cases and, as long as their customers are paying for the process, I hope someday soon we’ll know just how much.”\nConsumers Energy sells electricity to approximately 1.9 million customers throughout Michigan and natural gas to 1.8 million customers across the state.\nSaginaw United High School cancels football game after MSHAA decision\nA Friday night varsity football game in Saginaw has been called off after an on-field fight during last week's game.\nFlint non-profit accepting applications for savings program\nMission Possible are once again accepting applications for their Accelerated Savings and Asset program or known as ASAP.\nFLINT, Mich. &ndash; Police are turning to the public to hep find a man that has not been seen for five months.33-year-old Shane Soulliere was last seen on May 4, 202\nMichigan allocates $135 million for after-school, summer programs in 2027 budget\nMichigan lawmakers have set aside $135 million in the 2027 school budget for after-school and summer programming, a move supporters say is expanding opportuniti\nThere is no verified evidence that Kim has died or suffered the reported medical emergency.\n\"DON&#x27;T VEER FOR DEER:\" Drivers urged to watch for deer as car-deer crashes increase\nConsumers Energy plans to seek another rate hike, days after natural gas increase\nLocal Non-profit hosts a fundraiser that brings the community together\nGenesee Health Plan celebrates 25 years after serving thousands of county residents",
+      "published": "2026-10-21T14:10:15+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
@@ -1026,51 +964,34 @@
       ]
     },
     {
-      "title": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjhvWEdwZUdTd0ltY1FCUFc1eW5TdFhlMHBDei11dFZXTTFpWjdYdVJLbDR5dXpDcjVmX0NVWG94RDExS3FsOW1Cd3ZBMDJZVWhaYlBQNUFuRTA5N2dqb2xHbVZ0alZzMlFFbl9zODktakM5ekc2LVRpQ2xGNU91RUJ3RG42Q1hlcFhrNG11MEV0OVNyLXlyNU1mRQ?oc=5",
-      "summary": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-21T01:48:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.7,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "content": "Image caption, Witkoff and Zelensky met in the Norwegian capital\nThe hug that Trump envoy Steve Witkoff offered Volodymyr Zelensky before talks in Oslo is unlikely to have dispelled the Ukrainian leader&#x27;s misgivings about the current direction of US policy towards his war-ravaged country.\nZelensky posted a video of the moment on social media, with the message \"Ukraine is working for peace. I thank our partners for their support!\"\nBut given everything that&#x27;s happened this month, does the Ukrainian leader still regard Donald Trump as a partner?\nThe two men have never been close â that much is obvious â but have they now fallen out once and for all?\nBoth in rhetoric and actions, the past 10 days have seen evidence of a rupture as deep as any in their fractious relationship.\n\"Zelensky&#x27;s not a good guy for us to deal with,\" Trump told Newsmax last week.\n\"Zelensky doesn&#x27;t know what he&#x27;s talking about,\" Trump told a reporter on Monday when asked what he thought of the Ukrainian leader&#x27;s suggestion that striking a diesel deal with Russia put the US on the wrong side of history.\nSuch personal attacks are typical of Trump&#x27;s sledgehammer approach to diplomacy. It&#x27;s hard to know when to take them seriously.\nIn June, he lashed out at Israel&#x27;s prime minister, using an expletive while criticising Benjamin Netanyahu&#x27;s judgement. Four months later, he endorsed Netanyahu enthusiastically, calling him a \"great warrior prime minister\".\n\"Trump can always do another U-turn,\" says Ian Bond of the Centre for European Reform. \"But this does look bad.\"\nFigure caption, Watch: Zelensky says US military intelligence sharing \"works now\"\nFor his part Zelensky has generally been circumspect in how he describes his unreliable but vital American counterpart.\nBut this month his frustration has been clear. Addressing a US congressional delegation, he spoke of \"decisions on the American side that are hard to explain between friends\" and voiced the fear that \"some political decision has been made to slow down support for us.\"\nAnswering Trump&#x27;s charge that he represented the principal obstacle to a negotiated settlement, Zelensky sounded more exasperated than ever.\n\"We have welcomed literally EVERY attempt by our partners to end this war with dignity,\" he wrote on Telegram on Monday.\nAfter their notorious televised bust up in the Oval Office in February 2025, at which Trump accused Zelensky of \"gambling with World War III\", the US suspended military assistance and restricted intelligence sharing.\nThe crisis only lasted a week. And when the Trump administration decided, later that year, that it no longer wanted to finance direct military assistance to Ukraine, a mechanism was put in place for European countries to pay for American equipment instead.\nOne exception, in the wake of this year&#x27;s US war with Iran, has been badly needed US-made Patriot air defence missiles.\nAmid a global shortage, the supply to Ukraine has slowed to a trickle, making it harder than ever for Kyiv to shoot down Russian ballistic missiles.\nThe Washington Post, quoting an unnamed Ukrainian official, said \"only a couple\" of Patriot interceptors remained in Ukraine&#x27;s stockpile, and that the Trump administration had slowed down the process by which US allies seek approval to transfer their stocks.\nSimilar concerns have been voiced in the past, but the latest reports â not confirmed by US officials â come against an increasingly difficult backdrop for Kyiv.\nEarlier this month, as Ukrainian negotiators arrived in Miami for talks with Trump&#x27;s all-purpose envoys Witkoff and Jared Kushner, they were blindsided by the news that the president had just struck a deal with Vladimir Putin to open US markets to Russian diesel.\nExperts questioned whether it would do much to drive down US petrol prices, ahead of congressional mid-term elections (the apparent motive), but as a signal of US displeasure over Ukraine&#x27;s campaign of long-range strikes on Russian oil refineries and Washington&#x27;s willingness to do deals with the Kremlin, it represented a stinging rebuke to Kyiv.\nFigure caption, Watch: &#x27;Time for Ukraine to get a new president&#x27;, says Trump\nLast Friday, Trump went further, waiving wide-ranging sanctions on Russia just two days before they were due to take effect.\nTrump said the sanctions contained in the Graham Act (named after the former South Carolina senator Lindsey Graham, a vocal supporter of Ukraine who died in July) would hinder his efforts to broker peace. But for Kyiv and its supporters this was another alarming sign that the White House was siding with the Kremlin.\n\"What the Trump administration is doing is providing carrots to the Russians and sticks to the Ukrainians,\" former US ambassador to Kyiv William Taylor told the BBC.\nKiriil Dmitriev, a senior Putin envoy, called it \"an important and truly historic moment\".\nFor Moscow, this felt like a welcome return to the \"spirit of Alaska\", a phrase much touted by Russian officials in the wake of the Trump-Putin summit in Anchorage in August 2025.\nAdding to the impression that Trump is turning his back on Ukraine is the allegation â again not confirmed by Washington â that the US has restricted the flow of intelligence and interfered with Ukraine&#x27;s access to Elon Musk&#x27;s Starlink satellite internet service.\nAmid an escalation in Russia&#x27;s drone and missile war on Ukraine&#x27;s cities, Kyiv says advance warning provided by US satellite intelligence has been lacking.\n\"We didn&#x27;t receive it during ballistic attacks for three days,\" Zelensky told NBC News.\nOn 12 October five Russian S-400 missiles hit Kyiv, reportedly before air raid sirens or mobile alerts had sounded.\nThe US Secretary of State, Marco Rubio, denied there had been any pause in intelligence sharing, blaming a \"software problem\" for the temporary lack of early warnings.\nSimilar uncertainty surrounds Ukraine&#x27;s access to Starlink .\nA week ago, Ukrainian officials reported that the system was being throttled, with terminals unable to maintain connections at high speeds, making it harder for Ukraine&#x27;s military to intercept fast moving Russian drones.\nSince the summer, Ukraine has struggled to cope with a wave of attacks by advanced, jet-powered drones.\nIt&#x27;s not clear where any order to limit Ukraine&#x27;s use of Starlink â or its military grade equivalent Starshield â originated. Reuters reported that it came from the White House.\nRubio said \"no-one at the White House ordered anyone to slow down internet.\"\nBut the fact that such suspicions surface so frequently points to the lack of trust that continues to infect US-Ukrainian relations.\nMuch of this has its roots in Donald Trump&#x27;s seemingly long-standing mistrust of Ukraine as a whole - and Zelensky in particular.\nImage caption, Russian strikes on Ukraine have continued unabated\nA decade ago, Trump became convinced that Ukraine had tried to prevent him from becoming US president. Among a number of unfounded allegations was the suggestion that the US Democratic National Committee had a server hidden somewhere in Ukraine.\nWhen Zelensky became president, three years later, he resisted Trump&#x27;s demands that he investigate charges of election interference.\nDuring a notorious July 2019 telephone conversation, Trump also asked Zelensky to investigate Joe Biden, the man who went on to defeat him in the 2020 presidential election. Again, Zelensky refused.\nAt the time, the White House was withholding $391m (Â£290m) in military assistance to Ukraine, a juxtaposition that ultimately led to Trump&#x27;s first impeachment.\nWhether Trump&#x27;s resentment over these historic slights continues to inform his current policy towards Ukraine is an open question, but it&#x27;s clear that the roller coaster of US-Ukraine relations has taken another stomach-churning dip.\nFollowing the talks in Oslo, Witkoff is taking a set of updated proposals to St Petersburg. All eyes will now be on Putin.\nJonas Gahr StÃ¸re, the Norwegian leader, said the talks in Oslo had helped \"to straighten out a few things.\"\n\"There&#x27;s nothing to gain fromâ¦ digging into what was said yesterday or a week ago,\" he said diplomatically.\nZelensky said the day had begun with a productive conversation with the US Secretary of State and indicated that the issue of early warning had already been fixed. He also sounded optimistic about Patriot missiles and Starlink.\nYet despite the optimistic tone, it&#x27;s hard to get around the fact that Volodymyr Zelensky and Donald Trump appear, once again, to be at loggerheads.\nZelensky says US intelligence sharing &#x27;works now&#x27; after talks with Trump envoy in Oslo\nUkrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC\nZelensky says Ukraine has right to defend itself after Trump calls latest strikes a &#x27;disgrace&#x27;\nTrump waives several Russia sanctions as row with Zelensky intensifies",
-      "published": "2026-10-20T20:00:57+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.7,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "DJE Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says - https://www.dowjones.com/",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNXzB6aFFJS2lYVFB2Zmo1dWZCTlFqU0dQRHNGd1JNblF5TXFiUmNUczVGbTVTUzAtVmVlUGVyNldfTzA2NFVObm1OUWFxYWJCeXZyZmd4SDF5ajJsb2lXbFB6d2xDOTZmdm10UGs2aTZ5akdyMEdTRTZfQ2RIdXhQTHZlS0ZPZTRwRF9WOHN0MTdWa3FYaXpnX0N1ZElIQ2RZZl9BalRrSVFiU3hfVE8zU2JzVTZBSlhlbU9IZjk5V0Joakt1dEFFdmd4N3lmN1RsY2RvR3ZZSVBjN3dDaEhaeXhqbUJBOVkxa082OHMwM2FwQ19xZkJvRjdJVnNEUzhiQlpqZHRVOVlxcTNqclVNLWxUNzMzSjdWbTl3ZVY2Nk43VmU4X19WWUdYNmRCNVU?oc=5",
-      "summary": "DJE Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says\nU.K. policymakers need to “wake up” to the fact that oil and gas supplies will be needed to meet energy demand, the chairman of Ineos Energy said Wednesday, with investment needed across all sectors of the industry.\n“It’s a U.K. message of ‘Use the oil and gas that we have, rather than importing mol",
-      "content": "DJE Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says\nU.K. policymakers need to “wake up” to the fact that oil and gas supplies will be needed to meet energy demand, the chairman of Ineos Energy said Wednesday, with investment needed across all sectors of the industry.\n“It’s a U.K. message of ‘Use the oil and gas that we have, rather than importing molecules from somewhere else, which are more expensive and may not be on secure supply routes anymore,’” Brian Gilvary said, on the same day the government approved Shell’s plans to develop the Jackdaw field in the North Sea.\nPolicymakers have grown complacent about access to energy, Gilvary added, even as modern warfare has escalated the costs of defending oil and gas supplies and access to capital for hydrocarbon investments has become constrained.\n“This idea that power will always be available in a population that’s now 8.3 billion going to 10 billion is an assumption that, on a point-forward basis, policymakers really need to think about what that means — because if the power isn’t available, not only do you not have heat and you don’t have light, you also don’t have mobility,” he said at the Dow Jones Energy Forum in New York City.\nIneos Energy, a subsidiary of Ineos Group, owns and operates several oil fields in the North Sea — though not Jackdaw, which is being developed by a joint venture between Shell and Equinor and had been subject to legal challenges brought by environmental campaigners.\nThe joint venture also is seeking U.K. government approval, along with partner Ithaca Energy, to drill in the Rosebank oil and gas field west of Shetland in Scotland.\nIn approving Jackdaw, the government said it would start supplying gas to British homes and businesses from the end of the month.\n“Recent events in the Middle East have triggered global energy shocks and pushed up bills for families across the country,” the government said in a press release. “At a time of global instability, homegrown energy can be a source of national strength.”\nGilvary, a former chief financial officer of BP from 2012-2020, said that pressure from climate policies and regulatory shifts had severely constrained financing for oil and gas projects, which have long lead times. The International Energy Agency’s Net Zero roadmap, which was published in 2021 and called for no new oil and gas investment, severely impacted the industry — as well as policies imposed by banks on reporting the climate impacts of their investments, he said.\nThat has diminished the industry’s ability to respond to major oil shocks, which have been happening every three to four years since the 2008 financial crisis, Gilvary added.\n“There has been a particularly heavy focus over the last decade around the carbon content and the cost of that carbon, and we are now suffering the consequences of underinvestment, specifically in oil — to a degree in gas — which is why we see this situation today of these tight supplies,” Gilvary said.\nHe said policymakers should help the industry to ensure future energy security by investing across the entire end-to-end chain, including midstream logistics, storage and chemical feedstocks, while addressing permitting challenges and reducing supply bottlenecks.\n“I think what governments will need to do is ensure that they’ve put the policies in place that will attract capital in, because for our sector it’s a multi-decade investment,” Gilvary said. “Most of all, it requires a degree of stability and understanding of the energy system and how you move energy around your particular geography.”\nIneos Energy itself is “still very focused on the United States as being the place where our marginal dollar will go,” he said.\nIneos Energy’s oil and gas portfolio, which spans the U.K. and Danish North Sea, the Eagle Ford shale formation in Texas and deepwater fields in the U.S. Gulf of Mexico, is expected to produce around 73,000 boe/d in 2026, down from around 85,000 boe/d in 2025 as its assets gradually deplete, according to Fitch Ratings.\n—Reporting by Herman Wang with editing by Dean Visser from the Dow Jones Energy Forum",
+      "summary": "Dow Jones Energy Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says\nU.K. policymakers need to “wake up” to the fact that oil and gas supplies will be needed to meet energy demand, the chairman of Ineos Energy said Wednesday, with investment needed across all sectors of the industry.\n“It’s a U.K. message of ‘Use the oil and gas that we have, rather than ",
+      "content": "Dow Jones Energy Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says\nU.K. policymakers need to “wake up” to the fact that oil and gas supplies will be needed to meet energy demand, the chairman of Ineos Energy said Wednesday, with investment needed across all sectors of the industry.\n“It’s a U.K. message of ‘Use the oil and gas that we have, rather than importing molecules from somewhere else, which are more expensive and may not be on secure supply routes anymore,’” Brian Gilvary said, on the same day the government approved Shell’s plans to develop the Jackdaw field in the North Sea.\nPolicymakers have grown complacent about access to energy, Gilvary added, even as modern warfare has escalated the costs of defending oil and gas supplies and access to capital for hydrocarbon investments has become constrained.\n“This idea that power will always be available in a population that’s now 8.3 billion going to 10 billion is an assumption that, on a point-forward basis, policymakers really need to think about what that means — because if the power isn’t available, not only do you not have heat and you don’t have light, you also don’t have mobility,” he said at the Dow Jones Energy Forum in New York City.\nIneos Energy, a subsidiary of Ineos Group, owns and operates several oil fields in the North Sea — though not Jackdaw, which is being developed by a joint venture between Shell and Equinor and had been subject to legal challenges brought by environmental campaigners.\nThe joint venture also is seeking U.K. government approval, along with partner Ithaca Energy, to drill in the Rosebank oil and gas field west of Shetland in Scotland.\nIn approving Jackdaw, the government said it would start supplying gas to British homes and businesses from the end of the month.\n“Recent events in the Middle East have triggered global energy shocks and pushed up bills for families across the country,” the government said in a press release. “At a time of global instability, homegrown energy can be a source of national strength.”\nGilvary, a former chief financial officer of BP from 2012-2020, said that pressure from climate policies and regulatory shifts had severely constrained financing for oil and gas projects, which have long lead times. The International Energy Agency’s Net Zero roadmap, which was published in 2021 and called for no new oil and gas investment, severely impacted the industry — as well as policies imposed by banks on reporting the climate impacts of their investments, he said.\nThat has diminished the industry’s ability to respond to major oil shocks, which have been happening every three to four years since the 2008 financial crisis, Gilvary added.\n“There has been a particularly heavy focus over the last decade around the carbon content and the cost of that carbon, and we are now suffering the consequences of underinvestment, specifically in oil — to a degree in gas — which is why we see this situation today of these tight supplies,” Gilvary said.\nHe said policymakers should help the industry to ensure future energy security by investing across the entire end-to-end chain, including midstream logistics, storage and chemical feedstocks, while addressing permitting challenges and reducing supply bottlenecks.\n“I think what governments will need to do is ensure that they’ve put the policies in place that will attract capital in, because for our sector it’s a multi-decade investment,” Gilvary said. “Most of all, it requires a degree of stability and understanding of the energy system and how you move energy around your particular geography.”\nIneos Energy itself is “still very focused on the United States as being the place where our marginal dollar will go,” he said.\nIneos Energy’s oil and gas portfolio, which spans the U.K. and Danish North Sea, the Eagle Ford shale formation in Texas and deepwater fields in the U.S. Gulf of Mexico, is expected to produce around 73,000 boe/d in 2026, down from around 85,000 boe/d in 2025 as its assets gradually deplete, according to Fitch Ratings.\n—Reporting by Herman Wang with editing by Dean Visser from the Dow Jones Energy Forum",
       "published": "2026-10-21T16:42:20+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "EU vows to develop Arctic renewable energy, says oil and gas should stay in the ground - The Barents Observer",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzB4U0s2ZWlkNFJSVTI3YXpiZzU1Rlhaajh4SEctMTdsX3pwRGUtc1dyM0ZSQjByTk5xSC0wTk1iNE5VSjV6TmVFQkpDeXZSbWtrV2o5czcxZ01vcGdYSFdrUm1YdlFXMzBsdGJHMk1OamFTMDB6RE5TYkdOaFo1MWd2VTU0RXFHeldPS3ZObDhtVlI1LWdIM3llUlpudVV4d2tkZG9IRW5qSjJCNVZTaGFncTNZTWxfM0Vxbll6VWNLNEx6TWZBTEd6YkV3dVU3bnNZMzJwSE9odw?oc=5",
+      "summary": "EU vows to develop Arctic renewable energy, says oil and gas should stay in the ground&nbsp;&nbsp;The Baren",
+      "content": "WORLD'S NORTHERNMOST: Fossil fuel consumption was reduced by 70% at Isfjord Radio basecamp on Svalbard after these six ground-mounted rows with a total of 360 bifacial panels - a 198 kW system - was installed in 2024.\nEU vows to develop Arctic renewable energy, says oil and gas should stay in the ground\nThe European Union says the Arctic is critical to its future as the climate crisis deepens, the security landscape deteriorates and economic activity expands.\nDubbed Northern Neighbourhood , the EU’s revised Arctic strategy was unveiled on Tuesday. The main headline highlighted by much of the media following the publication of the 22-page document was Brussels’ continued opposition to fossil fuel extraction in the region.\nAlthough the text no longer calls for a legally binding commitment not to drill for oil and gas, or a ban on purchasing fossil fuels extracted from new Arctic fields, the new document maintains the same overall position as the 2021 strategy: oil, gas and coal should stay in the ground.\nThe EU member states with territory inside the Arctic Circle — Finland and Sweden — have neither oil and gas fields nor coal mines in the region.\nNorway, however, which is not an EU member, is Europe’s largest supplier of natural gas, a role that has grown in importance since Russia’s full-scale invasion of Ukraine in 2022. Ahead of the new EU Arctic strategy, Norway actively lobbied the bloc to weaken or abandon its opposition to new oil and gas drilling in the Arctic.\nBy January 1, 2027, the EU will also ban import of liquid natural gas (LNG) from Russia.\nThe Melkøya LNG plant on Norway's Barents Sea coast is for the most part exporting to terminals in the European Union.\nThe EU strategy sets out four main priorities: strengthening security and resilience; responding to climate change in the Arctic; promoting prosperity; and creating opportunities for people and communities across the region.\nEuropean Commission President Ursula von der Leyen said the EU, alongside Sweden, Finland and Denmark, was part of the Arctic.\n“The Arctic is Europe's Northern Neighbourhood — close, connected and critical to our future. And it is changing. New shipping routes and resources are driving strategic competition. With our new Strategy, we are investing in stronger security, resilient infrastructure and economic opportunities. For the benefit of the people who call the Arctic home, and for our shared space,” von der Leyen said.\nThe strategy calls for greater investment in the Arctic’s renewable energy resources and sustainable mineral potential. Some of Europe’s largest onshore wind farms are located in Norrbotten, Sweden, and the EU wants to further integrate energy networks across its northern borders by funding new power lines.\n“The Arctic is a powerhouse for renewable energy,” the strategy states, highlighting wind power alongside the region’s potential for hydropower, geothermal energy and renewable hydrogen production.\nWindmills in the Norwegian-Swedish borderland near Riksgrensen.\nA major change since the EU’s previous Arctic strategy in 2021 has been the sharp deterioration in the security situation following Russia’s illegal full-scale war against Ukraine.\nKaja Kallas, the EU’s High Representative for Foreign Affairs and Security Policy, said the revised Arctic strategy reflected this new reality and placed security firmly at its core.\n“To defend our interests, we are stepping up efforts in surveillance, infrastructure, military mobility, and defence technologies that can withstand the harsh climate. Access to Arctic sea lanes and natural resources is of strategic interest to the EU,” Kallas said.\nShe added: “With Russia and China increasing their footprint and ambition, the Arctic has become a front line of global power competition.”\nClose cooperation with NATO is described as “essential to improve Europe’s military mobility in the region”.\nTo facilitate rapid, large-scale deployment of troops across the Arctic, the EU aims to accelerate the development of east–west transport links. These include rail connections running from Norway’s port of Narvik through Sweden’s Norrbotten region to Finnish Lapland.\nIn military propaganda show, Russian Arctic marines report to Putin about capture of Dobropillia\nEU vows to develop Arctic renewable energy, says oil and gas should stay in the ground\nLongest-serving Murmansk Communist politician behind bars\nRosatom to begin construction of €700 million shipyard in Murmansk in 2027\nGas carriers change identity ahead of Arctic operations\nRussian billionaire Vitaly Orlov’s lawsuit against the Barents Observer is absurd and dirty\nMurmansk Airport takes protection measures against Ukrainian drones\nNATO maintains intensive surveillance amid Russian Arctic training and weapons testing\nMounting war-time trade between Moscow and Beijing expands in the Arctic\nEU sanctions shipyards and design bureaus key to Russia’s nuclear submarine fleet\nSanctioned Chinese heavy lift carrier on standby outside Norwegian Arctic coast\n“My grandmother gave me this name so that I would do something with it”\nAhead of drills in Belarus, Putin’s allies pay visit to Northern Fleet",
+      "published": "2026-10-21T13:30:01+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
@@ -1092,7 +1013,7 @@
       "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXQxem5wYy1SbzVLODlWTXROU0FVd0Y0TERrVGtxVHczLVcwMmF0OGNrWE0wcUVGNnlmMkptbFg4U2xDbmoyM2tpS1dTTGs0S25WZXJSRkJPVzlXRzJQOUVhY0JIRXp3UElsQVlQd0h3SEg5bXJhYU9oV2ZxZ3lhVWx5RFl4cDF5QkdJclI3WU5oTUVsUS0yQnNuVU9wbmRTaWpzTllRZ1Nla0pzWXBMb3UtbzFnbFFp?oc=5",
       "summary": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?&nbsp;&nbsp;The Motley Fool",
-      "content": "OpenAI is raising cash again. The ChatGPT maker is seeking around $30 billion in a round that might value it at over $1.4 trillion, Reuters said on Oct. 19. That&#x27;s up from an $852 billion valuation in March. The talks are still ongoing, though, so nothing&#x27;s closed.\nFor chip investors, the bigger number might be what OpenAI has already lined up. In 2025, it announced plans for 26 gigawatts of computing capacity with Nvidia ( NVDA +2.29% ) , Advanced Micro Devices ( AMD +3.62% ) , and Broadcom ( AVGO +1.23% ) . By comparison, OpenAI is reportedly pitching investors on annualized revenue of around $50 billion.\nIn other words, new cash directly affects whether those plans get paid for. And each of these chip stocks has a different amount riding on it.\nNvidia&#x27;s September 2025 letter of intent covered at least 10 gigawatts of its systems, and Nvidia planned to invest up to $100 billion in OpenAI as each gigawatt was deployed.\nThe backing has since changed form. Nvidia put $30 billion into OpenAI&#x27;s March round. Then in August, it agreed to guarantee up to $105 billion of obligations at an Ohio data center campus that will house Nvidia hardware under 20-year leases to OpenAI. The first guarantees aren&#x27;t expected to take effect until fiscal 2029, and Nvidia&#x27;s exposure drops as OpenAI pays its rent.\nA well-funded OpenAI, then, lowers the odds that guarantee ever costs Nvidia anything.\nShowing how much is at stake, Nvidia said every generation of its systems at that one site could mean $150 billion to $200 billion in revenue. Yet Nvidia isn&#x27;t waiting on OpenAI. Its revenue climbed 106% year over year to $96.2 billion in the fiscal 2027 second quarter, which ended July 26.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $5.22T\nBased on the consensus estimate for fiscal 2028 (the year through January 2028), Nvidia&#x27;s price-to-earnings ratio is about 14 with shares near $217 as I write. I think that&#x27;s a modest price for this much growth.\nAMD&#x27;s Oct. 6, 2025, deal covers 6 gigawatts of its graphics processing units (GPUs) , starting with 1 gigawatt in the second half of 2026. Chief financial officer Jean Hu put the expected payoff at \"tens of billions of dollars in revenue for AMD.\"\n\"We are very happy with our strategic anchor customers in OpenAI, Meta, and Anthropic. They are all in the process of ramping,\" CEO Lisa Su said on AMD&#x27;s second-quarter earnings call in August.\nMeta Platforms signed a matching 6-gigawatt deal, while Anthropic&#x27;s covers up to 2 gigawatts. That leaves OpenAI with around 43% of the gigawatts across AMD&#x27;s three anchor customers. And management expects data center revenue to more than double in 2027, after second-quarter sales for the segment climbed 107% year over year to $6.7 billion.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $872.95B\nThe stock already prices much of that in. At roughly $539 as I write, AMD&#x27;s price-to-earnings ratio on 2027 consensus estimates is near 34 -- more than twice Nvidia&#x27;s.\nBroadcom&#x27;s 10-gigawatt deal announced Oct. 13, 2025, has OpenAI designing its own artificial intelligence (AI) chips and Broadcom developing and deploying them through 2029.\nBroadcom shipped Jalapeño, OpenAI&#x27;s first custom accelerator, in the quarter ending Aug. 2. On the Sept. 2 earnings call, CEO Hock Tan said Jalapeño is on track for 1.3 gigawatts of deployments in 2027. And he sees OpenAI deploying over 5 gigawatts in 2028, enough to make it Broadcom&#x27;s second-largest custom-chip customer.\nThat&#x27;s when Broadcom&#x27;s forecast makes its biggest dollar jump. Management expects AI chip revenue to about double to $115 billion in fiscal 2027, then double again to $230 billion in fiscal 2028.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $1.60T\nBut the money behind OpenAI&#x27;s deployments is less settled. In June, Broadcom set up a financing vehicle with Apollo Global Management and Blackstone for OpenAI and Anthropic, and the first $35 billion goes to Anthropic&#x27;s expansion. Asked about financing on the call, Tan mentioned Anthropic&#x27;s path to an initial public offering .\n\"OpenAI, we still have less clarity, but it&#x27;s different,\" he said.\nOn analysts&#x27; fiscal 2027 estimates, Broadcom&#x27;s price-to-earnings ratio is around 17 with shares near $335 as of this writing.\nSure, a reported funding round isn&#x27;t cash in the bank. And $30 billion is small next to OpenAI&#x27;s chip plans.\nYet if the round closes, I think Broadcom gains the most, because its OpenAI financing is the least settled, and Nvidia arguably gains the least. I&#x27;d consider buying all three stocks. But with so much of AMD&#x27;s plan riding on one customer at over twice Nvidia&#x27;s price, I&#x27;d hold AMD as the smallest position.\nThe Ultimate AI Investing Basket: 4 Stocks Primed to Skyrocket in 2027\nMicron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys?\nNvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here&#x27;s Why That Could Be Great News for the Stock\nDaniel Sparks is a contributing Motley Fool stock market analyst covering technology, industrials, financials, and consumer goods. Daniel is the owner and chief investment officer of Sparks Capital Management. He holds a master’s degree in business administration from Colorado State University. The Globe and Mail profiled him and his investing philosophy in an article titled, “This stock picker is outperforming nearly everybody else. Here’s how he is doing it.”\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "content": "OpenAI is raising cash again. The ChatGPT maker is seeking around $30 billion in a round that might value it at over $1.4 trillion, Reuters said on Oct. 19. That&#x27;s up from an $852 billion valuation in March. The talks are still ongoing, though, so nothing&#x27;s closed.\nFor chip investors, the bigger number might be what OpenAI has already lined up. In 2025, it announced plans for 26 gigawatts of computing capacity with Nvidia ( NVDA +2.50% ) , Advanced Micro Devices ( AMD +3.36% ) , and Broadcom ( AVGO +1.03% ) . By comparison, OpenAI is reportedly pitching investors on annualized revenue of around $50 billion.\nIn other words, new cash directly affects whether those plans get paid for. And each of these chip stocks has a different amount riding on it.\nNvidia&#x27;s September 2025 letter of intent covered at least 10 gigawatts of its systems, and Nvidia planned to invest up to $100 billion in OpenAI as each gigawatt was deployed.\nThe backing has since changed form. Nvidia put $30 billion into OpenAI&#x27;s March round. Then in August, it agreed to guarantee up to $105 billion of obligations at an Ohio data center campus that will house Nvidia hardware under 20-year leases to OpenAI. The first guarantees aren&#x27;t expected to take effect until fiscal 2029, and Nvidia&#x27;s exposure drops as OpenAI pays its rent.\nA well-funded OpenAI, then, lowers the odds that guarantee ever costs Nvidia anything.\nShowing how much is at stake, Nvidia said every generation of its systems at that one site could mean $150 billion to $200 billion in revenue. Yet Nvidia isn&#x27;t waiting on OpenAI. Its revenue climbed 106% year over year to $96.2 billion in the fiscal 2027 second quarter, which ended July 26.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $5.22T\nBased on the consensus estimate for fiscal 2028 (the year through January 2028), Nvidia&#x27;s price-to-earnings ratio is about 14 with shares near $217 as I write. I think that&#x27;s a modest price for this much growth.\nAMD&#x27;s Oct. 6, 2025, deal covers 6 gigawatts of its graphics processing units (GPUs) , starting with 1 gigawatt in the second half of 2026. Chief financial officer Jean Hu put the expected payoff at \"tens of billions of dollars in revenue for AMD.\"\n\"We are very happy with our strategic anchor customers in OpenAI, Meta, and Anthropic. They are all in the process of ramping,\" CEO Lisa Su said on AMD&#x27;s second-quarter earnings call in August.\nMeta Platforms signed a matching 6-gigawatt deal, while Anthropic&#x27;s covers up to 2 gigawatts. That leaves OpenAI with around 43% of the gigawatts across AMD&#x27;s three anchor customers. And management expects data center revenue to more than double in 2027, after second-quarter sales for the segment climbed 107% year over year to $6.7 billion.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $872.95B\nThe stock already prices much of that in. At roughly $539 as I write, AMD&#x27;s price-to-earnings ratio on 2027 consensus estimates is near 34 -- more than twice Nvidia&#x27;s.\nBroadcom&#x27;s 10-gigawatt deal announced Oct. 13, 2025, has OpenAI designing its own artificial intelligence (AI) chips and Broadcom developing and deploying them through 2029.\nBroadcom shipped Jalapeño, OpenAI&#x27;s first custom accelerator, in the quarter ending Aug. 2. On the Sept. 2 earnings call, CEO Hock Tan said Jalapeño is on track for 1.3 gigawatts of deployments in 2027. And he sees OpenAI deploying over 5 gigawatts in 2028, enough to make it Broadcom&#x27;s second-largest custom-chip customer.\nThat&#x27;s when Broadcom&#x27;s forecast makes its biggest dollar jump. Management expects AI chip revenue to about double to $115 billion in fiscal 2027, then double again to $230 billion in fiscal 2028.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $1.60T\nBut the money behind OpenAI&#x27;s deployments is less settled. In June, Broadcom set up a financing vehicle with Apollo Global Management and Blackstone for OpenAI and Anthropic, and the first $35 billion goes to Anthropic&#x27;s expansion. Asked about financing on the call, Tan mentioned Anthropic&#x27;s path to an initial public offering .\n\"OpenAI, we still have less clarity, but it&#x27;s different,\" he said.\nOn analysts&#x27; fiscal 2027 estimates, Broadcom&#x27;s price-to-earnings ratio is around 17 with shares near $335 as of this writing.\nSure, a reported funding round isn&#x27;t cash in the bank. And $30 billion is small next to OpenAI&#x27;s chip plans.\nYet if the round closes, I think Broadcom gains the most, because its OpenAI financing is the least settled, and Nvidia arguably gains the least. I&#x27;d consider buying all three stocks. But with so much of AMD&#x27;s plan riding on one customer at over twice Nvidia&#x27;s price, I&#x27;d hold AMD as the smallest position.\nThe Ultimate AI Investing Basket: 4 Stocks Primed to Skyrocket in 2027\nMicron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys?\nNvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here&#x27;s Why That Could Be Great News for the Stock\nDaniel Sparks is a contributing Motley Fool stock market analyst covering technology, industrials, financials, and consumer goods. Daniel is the owner and chief investment officer of Sparks Capital Management. He holds a master’s degree in business administration from Colorado State University. The Globe and Mail profiled him and his investing philosophy in an article titled, “This stock picker is outperforming nearly everybody else. Here’s how he is doing it.”\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
       "published": "2026-10-20T23:53:00+00:00",
       "source": "GN AI",
       "sources": [
@@ -1110,26 +1031,6 @@
         "科技股",
         "半导体"
       ]
-    },
-    {
-      "title": "Kremlin warned Germany after Leipzig airport sabotage that it won’t be the last attack, WSJ reports - Meduza",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVhramt1dW9XU1lVVDJhZ3RDOXd4NXpKcHZGTHZCRHF5MU5Qa1hHd2YtWFNlWEhZVk85eXYxQWZiRzNJMS1FQm1TLTBrbEpJam9hbVROZWJiZ3U1UDg4TG85bWNCWXVOQWlwR29zNlhRVTF5cWllUm84NXM2dW92SlNrakozSVhHbEgxYVRJOTg0WUxkM0lNOUpoanB1cm1JLThPSU5CdHBxVVd2RWktUjUyQVZRdl9xdEtodWdTS1dCWDBJR0hGOUZETE5ZTTJr0gHWAUFVX3lxTE5pTXlmT202QVZ5Tjk0TGt3dUZtX1RwdXBsWUVPVDJRVXlsdjhYNld6QlMtVlZBeWpJQ2hMMGJVTjRKRTdOY25DbjdZZWpqMDZtZFBxVS1yUzBsS01HMU9PWVZTNFlWcDltT3BYTHp3NF9EVDYzY0xHT01YYl9Vem8xQmRJV0l4bm9CTFFqSWUzWkVOTmF4MHhRT1R4Z0ctVE9wbVZjTHd0VVJLRjM3bjhkYnFBOHVVRWxvdzBzX0x0QUFWcUQzXzR1M3ZlbDlrdVgtazhIaHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVhramt1dW9XU1lVVDJhZ3RDOXd4NXpKcHZGTHZCRHF5MU5Qa1hHd2YtWFNlWEhZVk85eXYxQWZiRzNJMS1FQm1TLTBrbEpJam9hbVROZWJiZ3U1UDg4TG85bWNCWXVOQWlwR29zNlhRVTF5cWllUm84NXM2dW92SlNrakozSVhHbEgxYVRJOTg0WUxkM0lNOUpoanB1cm1JLThPSU5CdHBxVVd2RWktUjUyQVZRdl9xdEtodWdTS1dCWDBJR0hGOUZETE5ZTTJr0gHWAUFVX3lxTE5pTXlmT202QVZ5Tjk0TGt3dUZtX1RwdXBsWUVPVDJRVXlsdjhYNld6QlMtVlZBeWpJQ2hMMGJVTjRKRTdOY25DbjdZZWpqMDZtZFBxVS1yUzBsS01HMU9PWVZTNFlWcDltT3BYTHp3NF9EVDYzY0",
-      "content": "Kremlin warned Germany after Leipzig airport sabotage that it won’t be the last attack, WSJ reports\nAfter German authorities uncovered an attempted act of sabotage at Leipzig Airport, a Kremlin official contacted a counterpart in the German government and warned that the Leipzig attack would not be Moscow’s last target, The Wall Street Journal reported , citing sources. The newspaper did not disclose the Russian official’s name.\nIn August 2026, a drone loaded with explosives was found at Leipzig Airport near a Ukrainian An-124 transport aircraft. Several drones, not just one, were later found to have been involved. On September 1, Germany officially accused Russia of attempting to sabotage the airport. Moscow denies the accusations.\nEuropean officials, citing U.S. intelligence, told the newspaper that frustration had grown in Moscow over the summer because neither fighting on the front line nor negotiations with Washington had persuaded Ukraine to accept Vladimir Putin’s demands.\nThe Russian president personally ordered an intensified campaign of sabotage and covert operations against NATO countries, people familiar with U.S. intelligence findings told the WSJ. After a  trip to Moscow, CIA Director John Ratcliffe personally told his counterparts in European intelligence services, as well as a number of politicians, that Moscow is stepping up sabotage operations against their countries.\nThe WSJ said sabotage-related incidents have risen sharply across Europe since the attempted attack in Leipzig. In August, arson attacks targeted drone manufacturing facilities in Estonia and Poland. That same month, Slovak authorities said they had foiled a planned arson attack on a factory producing Ukrainian drones in Slovakia. In recent weeks, Poland, Lithuania, and Bulgaria have each reported sabotage targeting Starlink ground stations.\nAt Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.\nIf you find any errors in this translation, please contact us at  [email&#160;protected] .\nTo read Meduza’s exclusive content in English, please subscribe to our newsletter .",
-      "published": "2026-10-21T07:45:00+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     },
     {
       "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
@@ -1152,44 +1053,28 @@
       "assets": []
     },
     {
-      "title": "Comcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapest S&P 500 Dividend Stocks, or Is This a No-Brainer Buying Opportunity? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSU12aExBMDZBTVY1WVBrckJmNEwzaHJWd2RmelhfNl9FWU1LMlhrU3JEYWNpQjhSWUhnbHpGUXN1ejRRalpKRlZ6ZkZ2VVFEeTlLdnR2NFpzVElqMVV2U1pkUmJBVDRWS3JWYS0tY0FkRVVwTzNMczh5VWJpLTI3MlBieGNFZi1LbmktbDRWd1VHWW11NjYycGxLRVc?oc=5",
-      "summary": "Comcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapest S&amp;P 500 Dividend Stocks, or Is This a No-Brainer Buying Opportunity?&nbsp;&nbsp;Yahoo Finance<",
-      "content": "Comcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapest S&P 500 Dividend Stocks, or Is This a No-Brainer Buying Opportunity?\nTrading at just 6 times forward earnings and with a 6% forward dividend yield, Comcast (NASDAQ: CMCSA) stock is arguably priced for disaster. But is the super-low valuation of this telecommunications and media giant warranted, or have investors overreacted by giving the stock such a \"value trap\" valuation?\nOn one hand, there is justification for caution, given the company's ongoing broadband subscriber losses. On the other hand, with Comcast's upcoming plans to spin off the rest of its media assets, it may be on the verge of unlocking its underlying value. Or is it?\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nLet's take a closer look to see whether this is a prime deep-value opportunity or a name that's likely to remain a value-and-yield trap.\nImage source: Getty Images. Comcast, valuation, and market skepticism\nBroadband subscriber losses and their impact on Comcast's profitability remain key drivers of the stock's poor performance and low valuation. Comcast stopped reporting subscriber numbers this year, but as noted in a recent downgrade by KeyBanc analyst Brandon Nispel, the company is on track to lose 558,000 broadband subscribers in 2026, with another 665,000 expected to \"cut the cord\" with Comcast in 2027.\nNispel is not alone in his downbeat view on Comcast's dwindling subscriber base. Based on analyst estimates for 2026 and 2027 earnings, it's clear that declining subscribers, and thus declining revenue and earnings for Comcast, remain highly anticipated. Forecasts call for earnings of $3.48 and $3.59 per share in 2026 and 2027, respectively, down from $4.10 per share in 2025.\nStill, it's not as if this is the sole factor at play with Comcast shares right now. After last year's spinoff of Versant Media Group (NASDAQ: VSNT), a new entity that owns Comcast's former cable television business, Comcast plans to spin off NBCUniversal and Sky into a separate public company soon.\nAnalysts anticipate the market rerating these businesses separately, leading to share appreciation, even if earnings aren't set to amaze anytime soon. These bullish price targets range from $31 to $37 per share.\nA major reason so many analysts still believe better times lie ahead for the stock price is recent merger activity among telecom stocks and media stocks . Following Charter Communications' purchase of Cox's cable business, there is much speculation that Comcast will merge with Charter, creating new opportunities for cost and growth synergies.\nAfter Skydance (NYSE: SKYD) purchases Warner Bros. Discovery , there's also much speculation that a larger media conglomerate could swallow up NBCUniversal after it becomes independent. However, there are no guarantees. It's unclear whether a Comcast-Charter merger would get through antitrust scrutiny.\nAfter completing such a big transaction, I don't see Skydance rushing in to buy NBCUniversal, either. Other companies could bid for NBCUniversal, but given how peers like Walt Disney already own competing broadcast networks, finding a deep-pocketed buyer may be harder than you think.\nIn short, consider this catalyst highly speculative. Meanwhile, subscriber losses remain a concern, calling into question the sell side's current view that Comcast's earnings could stabilize in the coming year. Until it can fully shake off this perception, err on the side of caution and avoid the effort to bottom-fish Comcast stock .\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Comcast wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $376,696 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,333,920 !*\nNow, it's worth noting Stock Advisor's total average return is 925% — a market-crushing outperformance compared to 212% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nThomas Niel has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Walt Disney. The Motley Fool recommends Comcast and Versant Media Group. The Motley Fool has a disclosure policy .\nComcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapest S&P 500 Dividend Stocks, or Is This a No-Brainer Buying Opportunity? was originally published by The Motley Fool",
-      "published": "2026-10-21T08:40:00+00:00",
-      "source": "GN Markets",
+      "title": "China expresses ‘firm opposition’ to Trump administration sanctions tied to former Google engineer - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSHo2LWQ2OXh3aXVCZldDR3p3bTZOSGF3ZGM2MlZRYlMwVmszV2lhRGFfMjNDaVYwRGpDaE1rZjRmMUVIUUwtNzQ2QWNla3Fwak0zcXY5UzFnMURHTHNpWEU5VktnM3Uzd05ycjJWNS1WdTM4Q05Na0hyNDAyelXSAYQBQVVfeXFMTTlvN0pxSURBekU5Q0NnSTFfX0RENWtBbkhUYTJfOG5YRlRsU3FycGR6ODcyOUhqeGNhRjgxbUZXLTBmWEQtd2J4S2kzUkxGWVJfVEpUUGdVcDlkem4taW1kbDBEQTlNeGI2cE5IdjlydUs2Q0RzRGVsSTU5eXVJa1pXSHVX?oc=5",
+      "summary": "China expresses ‘firm opposition’ to Trump administration sanctions tied to",
+      "content": "",
+      "published": "2026-10-21T16:18:00+00:00",
+      "source": "GN China",
       "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-      "link": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
-      "summary": "Steve Witkoff’s flattery of the Russian leader could be just the start of a mendacious stratagem from a US president who says Moscow ‘has been fine on Ukraine’They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now encompasses some extraordinary lies.Steve Witkoff delivered one as he sat down with Vladimir Putin in his native St Petersburg on Wednesday, aiming to close the deal on Russia’s land grab in Ukraine with the White H",
-      "content": "Students and teachers in the hallway at an underground school in Kharkiv, Ukraine. Photograph: Pete Kiehart/The Guardian\nStudents and teachers in the hallway at an underground school in Kharkiv, Ukraine. Photograph: Pete Kiehart/The Guardian\n‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die\nSteve Witkoff’s flattery of the Russian leader could be just the start of a mendacious stratagem from a US president who says Moscow ‘has been fine on Ukraine’\nThey say the first casualty of war is truth. For the Trump administration , the road to peace with Russia now encompasses some extraordinary lies.\nSteve Witkoff delivered one as he sat down with Vladimir Putin in his native St Petersburg on Wednesday, aiming to close the deal on Russia’s land grab in Ukraine with the White House’s strategy of maximum pressure on Kyiv and saccharine flattery of the Kremlin.\n“You talk so much about my president, President Trump, being a humanitarian,” said Witkoff, a real-estate mogul who, thanks to being Trump’s friend, is now the US’s senior envoy and diplomat to end the largest European conflict since the second world war. “You are a humanitarian also, sir, and I salute that. I commend you.”\nIn Putin’s 26 years in power, it is a rare moment when he has been granted that specific honour. Skim through Russia’s past wartime exploits, the bombing campaigns in Chechnya and Georgia and Syria, to the thousands of Russian citizens jailed for dissent, to the violent deaths of prominent opposition journalists and politicians in barely disguised assassinations and poisonings – and it will be difficult to identify Putin’s credentials as a humanitarian.\nVladimir Putin and Steve Witkoff meet in St Petersburg. Photograph: Kristina Solovyova/Reuters And that is before looking to Ukraine, where Russia chose to launch a full-scale invasion that has now claimed hundreds of thousands of lives. The Guardian recently obtained a Russian strategy document showing the Kremlin’s potential to black out Ukrainian cities this winter, cutting off up to 90% of electricity to cities such as Kyiv and Odesa and Kharkiv – where millions of people live – to intentionally create a humanitarian catastrophe. And judging by the nightly barrages levelled at power plants for cities across Ukraine, the Kremlin has decided to move forward with that strategy until Kyiv surrenders.\nAs Witkoff met Putin on Wednesday , schoolchildren in Kharkiv hustled down a reinforced stairway, sirens announcing the arrival of Shahed drones overhead. This is no ordinary bomb shelter; it is one of 10 underground schools Kharkiv has constructed because of Russia’s regular bombing of the brotherly city less than 20 miles from the border.\nParents had welcomed the schools because they were safe, said teachers, and this was the one way that young people could have an uninterrupted school day during a war that could last years more – and reignite even if a shaky peace deal is reached.\nStudents and parents arrive and depart from the entrance to an underground school in Kharkiv. Photograph: Pete Kiehart/The Guardian “We all believed in Trump. We all really had hopes for America and for Trump to stop this monster Putin,” said Olena Svytlychna, the head of the education department of the Novobavarskyi region in Kharkiv, sitting in the school’s cafe on Wednesday.\n“And now we have doubts, we don’t believe them. And we are very scared.”\nAs Witkoff spoke, the families of six people killed in a drone strike in a park near Kharkiv this week were still holding funerals. The youngest victim of the strike was a one-year-old girl, Anhelina, who was killed as she was sitting strapped into her stroller in a playground. Her mother, Inna Mariukhna, a local schoolteacher, was also killed in the strike. The final death toll was four adults and two children, Anhelina and an 11-year-old girl.\nA destroyed building in Kharkiv after an air attack on Tuesday. Photograph: Sergey Bobok/AFP/Getty Images Those lives have barely earned a mention from the White House as it pushes for Ukraine to capitulate as quickly as it can this week – and crucially before the 3 November midterm elections when voters will deliver a referendum on Trump’s leadership for the last two years.\nShortly after the bombing, Trump told reporters on the White House lawn that Russia “has been fine on Ukraine”. After taking criticism for that remark, he mentioned the attacks in passing just to downplay the shelling of civilians: there were “some people in a town that got hit or whatever, but mostly young soldiers” died, he said from the Oval Office on Tuesday.\nFor the White House, those words cost little. Witkoff’s goal was to bring home a US citizen, a 74-year-old retired teacher from Michigan, who had been detained in Russia. But if Witkoff wants to buy a peace deal by 3 November through flattering Putin, then this will only be the White House’s opening salvo in its war on truth.\nPutin orders release of jailed American as he meets Trump envoy for Ukraine talks\nUS gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says\nZelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’\nTrump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says\nPower plant attacks reflect Russian blueprint to make Ukrainian cities unlivable\nTrump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’\nRussia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses\nVolodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-      "published": "2026-10-21T17:57:48+00:00",
-      "source": "Guardian World",
-      "sources": [
-        "Guardian World"
+        "GN China"
       ],
       "source_count": 1,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
       "score": 12.5,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Trump to rally for Graham in tight South Carolina Senate race amid Russia rift - Reuters",
@@ -1259,6 +1144,31 @@
       "assets": []
     },
     {
+      "title": "Gold edges higher as yields retreat, Fed decision in focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+      "summary": "Gold edges higher as yields retreat, Fed decision in focus&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T03:45:00+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：黄金 / 美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "黄金",
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
       "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
       "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
       "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
@@ -1282,11 +1192,32 @@
       ]
     },
     {
+      "title": "EXCLUSIVE: US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+      "summary": "EXCLUSIVE: US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials&nbsp;&nbsp;Reute",
+      "content": "",
+      "published": "2026-10-21T19:13:03+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Supreme Court won't allow Trump administration restrictions on transgender inmates - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb05XM3ZlNDVMQU42NUZWTWl0TF95di1wZTVSOVBxYVkwNWEyTDdWZjhvaGdwbFE1M1JNTEVhMkNxcFFBczZzZUI4blV5bGNxMnRrX1djZ3BrZTlvYXpxMG0zTmNJWE0wRkMzY19OYUlMX1YwXy1XeDg2NUJtOWNGeGxia2xjUDlfdnJTaWJzUHotZlRIQ1VRMXJydm11eW9VTm44bVlWTnE4cFRDNnVGQmwxNkxzbDgzUEhXTQ?oc=5",
       "summary": "Supreme Court won't allow Trump administration restrictions on transgender inmates&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T16:12:50+00:00",
+      "published": "2026-10-21T17:25:55+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -1299,6 +1230,92 @@
       "score": 12.4,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Who is Stephen Hubbard, the US citizen released by Russia? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFh5SkZ6WDhTdzNGNmFvZV9hd3JLalBDVG1Jd19VenBJMm1WSWRwQ3VHaDNyWll2Tl9qcFFBSlZLcFYtUTI4UXlqclpQLWVnU2tXeG5kdXlDMVBjbmc1dFFNOWlrWmxibmk3UGZOYlRSTkg2cGJRbFVtQ0J2aWc5ZzFTb2MxcnBfU0ROVHlES21VRk8wUXlscXZ3?oc=5",
+      "summary": "Who is Stephen Hubbard, the US citizen released by Russia?&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T16:09:28+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Taiwan regulator blocks Grab's purchase of Foodpanda delivery business in Taiwan - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3NtcUZ6MWtvTkRoTDhjc2luUUNyelJ3TmdtcjlmVzJpaDZTVzhZcENnOXpPeFRDMUZOR3N1WDZqdnhvUUNSWC1WN2dPNTVzU0RnanRucHU2ZkVUOFNTckRUc1FIVGV3NzJ6bkYyWWFmbFEzVk5GaUpqcTNqZHd6UUN4YUVFXzR5RXNuWnZ0RFcxRVhhLW8yVUg3WEV1dW5penR6dUZ3dVJTUmMxN1p4WHZTdC1sUjNrWFlWYV9yWUlxTnRUdzdV?oc=5",
+      "summary": "Taiwan regulator blocks Grab's purchase of Foodpanda delivery business in Taiwan&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T14:27:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：台积电 / 半导体 / 亚太市场 及相关产业链。",
+      "assets": [
+        "台积电",
+        "半导体",
+        "亚太市场"
+      ]
+    },
+    {
+      "title": "Mapping the Market: UnitedHealth shares look ready to extend rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3MzMXh2TGYtblAxNEhzbUtGRWhweUZnTFFmRndrNC1MU0V2ajZQUGNCcU5MdUNUcHU1bGpaT3ozQ0I3S3hmSHk0ODF5YnFXUXhFTVlUWHB2bjVIMDd5eWt6cFYwTmt2Zk9CWmpSaTZrNFlyalQyNTA1ZHUtYVNHRmREMWNlVlpqS0E?oc=5",
+      "summary": "Mapping the Market: UnitedHealth shares look ready to extend rally&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T10:04:21+00:00",
+      "source": "Reuters Markets",
+      "sources": [
+        "Reuters Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.2,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "French 10-year bond yields hit 5%, highest since 2002 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXc5VF91b3J6TjJpdkR6VFR1SUtTX1VUY1ZTUFBTNXFIT3ZZQ3RBMTVPaDNjMVNZbzRqcGdqRjRXcFhEQjRZd0V6R2ZRZVJwOHdmeHl5LWhva0Y3c285ZUNuaG80bWxBNUMyczhxWWdPd0NZZlNUTVJmUEszM1dCMzU2dU43ZzJ0bHNMQVF5cjgzZWZMUWViWE5aeWc3NUYwSkE?oc=5",
+      "summary": "French 10-year bond yields hit 5%, highest since 2002&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T09:44:40+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 12.2,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     }
