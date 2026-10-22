@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T00:28:19.128160+00:00",
+  "generated_at": "2026-10-22T02:25:10.391235+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-21T00:28:02.726066+00:00",
-  "window_end": "2026-10-22T00:33:02.726066+00:00",
+  "window_start": "2026-10-21T02:24:55.124762+00:00",
+  "window_end": "2026-10-22T02:29:55.124762+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -11,21 +11,20 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw?oc=5",
       "summary": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T21:52:50+00:00",
+      "published": "2026-10-21T21:51:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "AP World",
         "GN Geopolitics",
         "GN Top"
       ],
-      "source_count": 4,
+      "source_count": 3,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
-      "score": 19.2,
+      "score": 18.0,
       "is_hypothetical": false,
-      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -75,30 +74,6 @@
       "assets": []
     },
     {
-      "title": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpoaHpLeXVSZ015UFRLMU1jOXJDbTN3cGI5Ymo5N2hjWkxyTzF2WDVsNTZTX2pNclQwZHcwY1ZaQ1pacTNncGVWYVJISnA4aHI5YjBlclFvRnBqNlFFNWtwSVVYVHRURU9VS2ZRS3JCN3lycDRnZHFGeEwxeEVLYmJENG40NTNlSFYweUIzWmlOcHpyemxnRk1PVkRURjhTTEtodXAzZUplNG5fZG42VWZwS1NZZ0k?oc=5",
-      "summary": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T19:35:45+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics",
-        "Guardian World",
-        "NPR World",
-        "Al Jazeera"
-      ],
-      "source_count": 5,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 4,
-      "score": 16.4,
-      "is_hypothetical": false,
-      "why_important": "被 5 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
       "summary": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says&nbsp;&nbsp;AP News",
@@ -120,17 +95,17 @@
       "assets": []
     },
     {
-      "title": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemdZcXZ3ZTFlZDFWZG9IYmRmMG5RdHA1QXp6RlJnN2dVWm14azJrTGFqczVvYS1XWGY4QlJtQUJIYzQwWWVHNnZadGtDaG1vY1gxT1VGUGJWY0ktRU9fVVZ0cUFRN244b1UwdnNzRjhaa3NqdW9NTDVCZklCXzNGUExVLVUtTVNPUGJMRmJQM2FoaXB0bi1IakdoSHo2b1ZPWnl0V25WVW0zdVk1V3otSndSU1hmVVVWbi0tN1RSc3QtZw?oc=5",
-      "summary": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank&nbsp;&nbsp;Reuters",
+      "title": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpoaHpLeXVSZ015UFRLMU1jOXJDbTN3cGI5Ymo5N2hjWkxyTzF2WDVsNTZTX2pNclQwZHcwY1ZaQ1pacTNncGVWYVJISnA4aHI5YjBlclFvRnBqNlFFNWtwSVVYVHRURU9VS2ZRS3JCN3lycDRnZHFGeEwxeEVLYmJENG40NTNlSFYweUIzWmlOcHpyemxnRk1PVkRURjhTTEtodXAzZUplNG5fZG42VWZwS1NZZ0k?oc=5",
+      "summary": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T19:25:50+00:00",
+      "published": "2026-10-21T19:35:45+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "GN Top",
-        "Guardian World",
-        "NPR World"
+        "GN Geopolitics",
+        "NPR World",
+        "Al Jazeera"
       ],
       "source_count": 4,
       "category": "geopolitics",
@@ -143,27 +118,28 @@
       "assets": []
     },
     {
-      "title": "Putin agrees to resume 3-way peace talks with Ukraine and US - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-      "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US&nbsp;&nbsp;Reuters",
+      "title": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5",
+      "summary": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz&nbsp;&nbsp;Barchart.com",
       "content": "",
-      "published": "2026-10-21T21:06:57+00:00",
-      "source": "Reuters World",
+      "published": "2026-10-21T16:02:04+00:00",
+      "source": "GN Energy",
       "sources": [
-        "Reuters World",
-        "BBC World",
-        "GN Geopolitics",
-        "Al Jazeera"
+        "GN Energy"
       ],
-      "source_count": 4,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 4,
-      "score": 16.0,
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 15.6,
       "is_hypothetical": false,
-      "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
     },
     {
       "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report - Kitco",
@@ -191,27 +167,6 @@
         "美元",
         "美股"
       ]
-    },
-    {
-      "title": "South Florida Ukrainians dismayed by Trump stance on Russia's war on Ukraine - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzdGczhMNktSWmRJcnc0cnpHWTNnX0VleFZ4S3BLZlNUaEFYSTU0TFl5blNmQTVRUFhOXzJvd0daODA1NmRpZDdoSGthTFJ4bUdxY1VVY3l4Q2Z5alg3bEcwMzdpQmltdG9oNmtfU3FsNHZWc0steldNeXJ5cU8xSDBqaHIyUWVpY002dU42a3lzUlJjMkhXMGVkalhOdnBHZlVV0gGrAUFVX3lxTFBMVDFZOG1qamJ0NlZvTFZ1U1FEcGhRUW40OHVETDBvQkRabk54X3VMNklKZm5QZ1AxLXVyQ2NuQTdnQUlSYzNvMW52RGdqd3pDbmFYWjlNVHJiU3lDMnByd1RUWE96TVJYVmZNaGFzTGtHNlM4RDhPUmtEWlNzdm1LZVA5MFF1OV9URmFpanhPMWdNYUk1elV1aUt4VHJWUlVjNDQ1UzBCX3RVUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzdGczhMNktSWmRJcnc0cnpHWTNnX0VleFZ4S3BLZlNUaEFYSTU0TFl5blNmQTVRUFhOXzJvd0daODA1NmRpZDdoSGthTFJ4bUdxY1VVY3l4Q2Z5alg3bEcwMzdpQmltdG9oNmtfU3FsNHZWc0steldNeXJ5cU8xSDBqaHIyUWVpY002dU42a3lzUlJjMkhXMGVkalhOdnBHZlVV0gGrAUFVX3lxTFBMVDFZOG1qamJ0NlZvTFZ1U1FEcGhRUW40OHVETDBvQkRabk54X3VMNklKZm5QZ1AxLXVyQ2NuQTdnQUlSYzNvMW52RGdqd3pDbmFYWjlNVHJiU3lDMnByd1RUWE96TVJYVmZNaGFzTGtHNlM4RDhPUmtEWlNzdm1LZVA5MFF1OV9URmFpanhPMWdNYUk1elV1aUt4VHJWUlVjNDQ1UzBCX3",
-      "content": "South Florida Ukrainians dismayed by Trump stance on Russia's war on Ukraine\nLast Friday, President Donald Trump waived the sanctions and tariffs against Russia mandated in the Lindsey Graham Act, which he had just signed into law a month ago.\nSouth Florida’s large Ukrainian population is appalled by the United States seemingly taking Russia’s side in its war of aggression against Ukraine. NBC6's Ari Odzer reports\nSouth Florida’s large Ukrainian population is appalled by the United States seemingly taking Russia’s side in its war of aggression against Ukraine.\nOn Wednesday, United States special envoy Steve Witkoff called Russian dictator Vladimir Putin a “humanitarian,” adding to the list of recent Trump Administration praise of the man who launched an unprovoked war against a democratic country, a war which has targeted and killed thousands of civilians. So when South Florida Ukrainians get together, the president’s response to the war is the biggest topic of discussion.\n“Anger, frustration, disappointment,” said Darya Robinson, a Ukrainian who moved to South Florida a few years ago.\nHer friend and fellow Ukrainian, Oksana Ridge, had similar feelings.\n“Anger, disappointment, because the America I know stands for compassion, freedom,” Ridge said.\nAs Russia bombs civilian targets constantly in Ukraine, Robinson says her community can’t help but feel Trump has taken Putin’s side.\nFlorida governor&#039;s race focuses on affordability as candidates campaign across South Florida\nFort Lauderdale cracks down on Himmarshee entertainment area\nShe and Ridge go to Washington every year to lobby lawmakers to support Ukraine, and they say they feel betrayed by the president.\n“He completely changed the direction, waiving all the sanctions against Russia,” Robinson said.\nLast Friday, President Donald Trump waived the sanctions and tariffs against Russia mandated in the Lindsey Graham Act, which he had just signed into law a month ago.\n“Russia, frankly, has been fine on Ukraine, they haven’t been doing much,” the president said at the time.\n“There has not been some political directive to go out and harm Ukraine, that’s just not accurate,” said Secretary of State Marco Rubio on Tuesday.\nBut the civilian death toll keeps rising. Ukrainian president Volodymyr Zelensky tweeted pictures Tuesday of a little girl and her mom, each killed in a Russian drone attack on a playground. To get a first-hand feel for life in Kiev right now, Robinson FaceTimed a friend there, who said the city has never been more dangerous.\n“It’s still a permanent danger for everyone that’s out in the streets or inside their apartments or somewhere at work, we just don’t know where and when you’re killed,” said Yan Earl-Ruzhytskyi.\nSpeaking from a coffee shop, he said Ukrainians are grateful for any support from the United States, and will never surrender their democracy to a dictator.\n“It’s not a question of whether we want this war or not, of course we don’t want it, but this is a question of survival for Ukraine on the large scale and it’s an existential war for us; for Russia, it has always been a war of choice,” Earl-Ruzhytskyi said.\nThe best peace plan is for Putin to simply withdraw and end the war he started, these Ukrainians say, and they are hoping the United States will send that message to Russia.\n“Because Americans don’t stand with the aggressors, this is not the America that I know,” said Ridge, who became an American citizen.\nShe and Robinson will continue to advocate for their homeland, from 5,700 miles away.",
-      "published": "2026-10-21T23:44:52+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "NPR World"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     },
     {
       "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
@@ -279,6 +234,50 @@
       "assets": []
     },
     {
+      "title": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemdZcXZ3ZTFlZDFWZG9IYmRmMG5RdHA1QXp6RlJnN2dVWm14azJrTGFqczVvYS1XWGY4QlJtQUJIYzQwWWVHNnZadGtDaG1vY1gxT1VGUGJWY0ktRU9fVVZ0cUFRN244b1UwdnNzRjhaa3NqdW9NTDVCZklCXzNGUExVLVUtTVNPUGJMRmJQM2FoaXB0bi1IakdoSHo2b1ZPWnl0V25WVW0zdVk1V3otSndSU1hmVVVWbi0tN1RSc3QtZw?oc=5",
+      "summary": "US congressional candidate Brad Lander released after being detained by Israeli military in West Bank&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T19:25:50+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "Guardian World",
+        "NPR World"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Putin agrees to resume 3-way peace talks with Ukraine and US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+      "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T22:25:11+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "GN Geopolitics"
+      ],
+      "source_count": 3,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjJOS3VQS00zTHNGVG5fSjljX1ByRjZMQVozMEt3WVNwdWhfU00wTjZEUHpIZThFNFZUWG5QNTJoOTBVN3NRMWhnTHNZd1dJa1lRenJMVExzZEpVYmRSQzIwU0V2dkRlR1M3VGdUTTJvNC1ZQnZUWVBqbHhDMHVfMzB3dzMzSVdka19qS3BJbElEdEREME54eHM2TVBQZw?oc=5",
       "summary": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make&nbsp;&nbsp;Yahoo Finance",
@@ -295,6 +294,29 @@
       "score": 14.8,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+      "summary": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T18:58:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "source_count": 4,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -321,11 +343,55 @@
       ]
     },
     {
-      "title": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEltSS1zUTlhei1vR08tbC1JbU5zakRMWTA5eExYZmZoX2JrZElRbHF3OHctOGhsTkJicVRyZk9kR2N0bmpsMUU1YjdPSU96SWJkMkRfN1lyMW9CVnFGcVFsalZTdDZhY1h2anA2eEtHWjQtajVxbjBsXzQwU1h0WGdrOVU?oc=5",
-      "summary": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin&nbsp;&nbsp;CBS News",
-      "content": "Progress toward a negotiated resolution to Russia's war on Ukraine is \"theoretically possible,\" Kremlin officials said Wednesday as U.S. special envoy Steve Witkoff met Russian President Vladimir Putin in St. Petersburg, but any headway will require Ukraine's leaders to make \"necessary decisions,\" according to Russian state media.\nIf Ukraine fails to make those decisions, the situation for the country \"will be worse,\" the officials said, according to Russian state news agency TASS.\nKremlin spokesman Dmitry Peskov was quoted by Russian news agencies as saying Moscow would study proposals on the Ukraine war brought to St. Petersburg by Witkoff, but that the talks would take a long time.\nDuring Witkoff's meeting with Putin, he and the Russian leader confirmed that Stephen Hubbard , a U.S. citizen jailed in Russia for more than four years, had been released from custody. President Trump said Putin agreed to free the American with \"no 'swap' necessary,\" but he also said it wouldn't have happened had the U.S. not prevented new sanctions against Moscow from taking effect last week. Witkoff told Putin he was a \"humanitarian\" for releasing Hubbard, sparking backlash in the U.S.\nState media said Russian officials told Witkoff on Wednesday that a meeting between Mr. Trump, Putin and Chinese President Xi Jinping was \"possible,\" referring to an idea the White House has also floated, but Ukrainian officials have balked at as it would sideline them from talks on their own country's fate.\nRussian President Vladimir Putin shakes hands with U.S. special envoy Steve Witkoff at Constantine Palace in St. Petersburg, Russia, Oct. 21, 2026.\nAfter Putin and Witkoff's meeting, a U.S. official told CBS News that the Russians and Ukrainians had agreed to the resumption of trilateral talks with the U.S. at the technical level.\nAccording to a Kremlin transcript, Putin's senior foreign policy aide Yury Ushakov said that the Russian leader told Witkoff that Moscow was prepared, in principle, to resume the talks in early November. Ushakov also said the talks would involve building a security system for Russia and Ukraine after the war.\nBut Ushakov also said that the proposals brought to St. Petersburg by Witkoff, which he attributed to Ukraine and the European Union, \"contained little that was useful in the context of resolving the Ukrainian crisis.\"\nUkrainian President Volodymyr Zelenskyy told Fox News on Wednesday that he believed trilateral talks between himself, Mr. Trump and Putin were the best way to resolve the conflict, and that he would not accept any resolution crafted by China, Russia and the U.S., saying: \"Don't talk about us without us.\"\nZelenskyy also said any negotiated end to the war would need to be approved by Ukraine's Parliament.\nSecretary of State Marco Rubio told journalists on a separate trip Wednesday that Witkoff held \"positive\" talks with Zelenskyy on Tuesday in Oslo before traveling to Russia, and that he would share ideas discussed with Zelenskyy with the Russian side in an attempt to \"make some progress.\"\nAfter that meeting with Witkoff in Oslo, Zelenskyy thanked Washington for restoring U.S. intelligence sharing on Russian strikes, after saying this week that his country had stopped receiving advance warnings of imminent Russian missile strikes.\n\"We are thankful that intelligence works,\" Zelenskyy told reporters in Oslo. He said the early warnings for ballistic missiles were \"very, very important for our people, for children, adults, civilians.\"\nZelenskyy told Fox on Wednesday, however, that access to data from the Starshield satellite network, the military version of Elon Musk's Starlink system, remained \"limited\" in Ukraine , but that Rubio was working on it and expected full access to be restored.\nUkrainian President Volodymyr Zelenskyy, right, and Masud Gharahkhani, the president of Norway's Parliament, speak to journalists on Oct. 21, 2026, in Oslo.\nWitkoff planned to return to Oslo for more consultations with European officials following his visit to Russia, Norwegian Prime Minister Jonas Gahr St&oslash;re said.\n\"I think we may have entered a phase now where the Russians are also looking for opportunities for diplomacy,\" St&oslash;re told Norwegian broadcaster NRK on Wednesday morning.\nZelenskyy was still in Oslo on Wednesday, where he said \"a lot depends on whether the American side manages to hear something new from Russia today.\"\nThe diplomacy comes after weeks of friction between Kyiv and Washington, with Mr. Trump criticizing Zelenskyy for Ukraine's continued response to relentless, deadly Russian strikes on energy and civilian infrastructure with Ukrainian attacks on Russian oil infrastructure.\nMr. Trump announced an \" energy ceasefire \" earlier in the month, claiming both sides had agreed to halt strikes on each other's energy infrastructure, but within hours Russia launched new missile attacks on Ukrainian refineries and other sites, and neither Ukraine nor Russia ever confirmed agreeing to a truce of any kind.\nThe U.S. president also announced a deal with Moscow on Oct. 10 for Russia to release millions of tons of diesel fuel over the next several months, which Zelenskyy labeled a sign of \"weakness.\"\nRussian state media said the first shipment of diesel had been dispatched for the U.S. on Wednesday.",
-      "published": "2026-10-21T12:19:00+00:00",
+      "title": "Kinder Morgan's Natural Gas Pipeline Backlog Hits Record $13.2 Billion - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlp6b1c0N0UyNEpTQlpMb3JxWlJQTXJGYTlZMlpjX1U0dy1WMXpuRFNRSDVWeHhhbWNoVTI2dDdGMzlrd2NJOFdsTm0weWNLWlhfdjlWNTV4N01FZTI1UF9BUnlsOG0yY2NWeVBNV2hzRUxZdjRNN2VXWnNnQjZEa0VPNTI2YW9Hd1NqSUh1d2w3NDZFbllGcmpXQ3Y2NEluTDNjQnF4Mmg3UdIBrwFBVV95cUxNRWdFZDhmamE0ZXUyMnNncFVZdGFla3ZMRjA3NDEyNkFjX1ZoUkFwUXBNQ1JFWG1TZjRUaWJGcGw0RFFJZDNuOFlsTG0yUThRWFJHYnpMeFdRZW9CMS0xVTZkTjF0elhjd2VkVWw2ZnljbDFJZDBxSWgtLXdIbzdCSWJhRklyN1VUSmdqN01FTnBLZGdiT0pfR1BHeEp1TzItV29EUXNRaUpuVDFIdzVR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlp6b1c0N0UyNEpTQlpMb3JxWlJQTXJGYTlZMlpjX1U0dy1WMXpuRFNRSDVWeHhhbWNoVTI2dDdGMzlrd2NJOFdsTm0weWNLWlhfdjlWNTV4N01FZTI1UF9BUnlsOG0yY2NWeVBNV2hzRUxZdjRNN2VXWnNnQjZEa0VPNTI2YW9Hd1NqSUh1d2w3NDZFbllGcmpXQ3Y2NEluTDNjQnF4Mmg3UdIBrwFBVV95cUxNRWdFZDhmamE0ZXUyMnNncFVZdGFla3ZMRjA3NDEyNkFjX1ZoUkFwUXBNQ1JFWG1TZjRUaWJGcGw0RFFJZDNuOFlsTG0yUThRWFJHYnpMeFdRZW9CMS0xVTZkTjF0elhjd2VkVWw2ZnljbDFJZDBxSWgtLXdIbzdCSWJhRklyN1VUSmdqN01FTnBLZGdiT0pfR1BHeEp1TzItV2",
+      "content": "Kinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion | OilPrice.com\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nIndia’s Top State Refiner to Reduce Middle East Term Oil Purchases\nHigher Oil Availability Pressures Middle East Crude Benchmarks\nJapan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs\nRussia to Send First Diesel Tanker to U.S. on Thursday\nMorgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027\nUK Approves Jackdaw Gas Field as Energy Crisis Deepens\nGoldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar\nTrump Administration Pushes Refiners to Boost Diesel Output as Prices Soar\nOil Prices Climb Above $110 as Middle East Supply Fears Persist\nNorway's Gas Production Plunges 12.6% as Europe Heads into Winter\nEU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis\nRussia’s Oil Export Revenue Slides as Production Declines\nSaudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals\nShipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers\nAsia’s Coal Prices To Stay High as Supply Drops and Demand Firms\nCopper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says\nChina Moves to Rein In Its Booming Hydrogen Industry\nOil-Rich Alberta Votes to Stay in Canada in Historic Referendum\nTrump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers\nAsian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate\nBrent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply\nQatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria\nPakistan’s Growth Slows as Hormuz Crisis Hits Industry\nCanada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%\nIraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels\nMozambique Pitches Sasol and ROMPCO on $250 Million Gas Project\nQatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run\nChina’s Solar Exports Keep Falling as Beijing Mulls Export Controls\nWoodside Resumes Work at Australian LNG Project after Greenpeace Stunt\nJapan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar\nChina's Coal Production Slumps 6.8% as Winter Supply Fears Grow\nIndia's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices\nGreenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project\nOil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nUS and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in\nThe Sulfur Crisis Threatening the World's Food Supply\nSerica Energy Targets 65,000 Boepd Despite Triton Restart Delay\nNew Hope to Acquire Malabar in A$1.8 Billion Australian Coal Deal\nAmpol Refining Margins Jump 125% as Lytton Maintenance Hits Output\nIthaca Energy CEO to Retire Amid Major International Expansion\nINPEX Secures Landmark Offshore Carbon Storage Approval in Australia\nKinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion\nKinder Morgan reported record third-quarter 2026 earnings on Wednesday and announced $5.4 billion in new expansion projects, bringing its total project backlog to $14.4 billion, including a record $13.2 billion in natural gas infrastructure investments.\nThe Houston-based pipeline operator said its overall project backlog increased by a net $4.7 billion from the second quarter, after accounting for approximately $700 million in projects entering service.\nThe expansion reflects rising demand for natural gas infrastructure across the United States, particularly from power generation, data centers, industrial development, and liquefied natural gas (LNG) exports.\nMore than 75% of Kinder Morgan's total project backlog is tied to electricity generation and local gas distribution demand.\nTwo major natural gas pipeline projects account for a significant portion of the company's latest investment commitments.\nThe Southeast Connector Project, developed by Southern Natural Gas Company, will transport up to 2.6 billion cubic feet per day (Bcf/d) of natural gas through approximately 470 miles of new pipeline and associated compression infrastructure.\nThe project will connect Marcellus and Utica shale gas supplies with expanding markets in the southeastern United States. Kinder Morgan expects its share of the investment to reach approximately $3.1 billion, with initial operations scheduled for the fourth quarter of 2030, subject to regulatory approvals.\nMeanwhile, Natural Gas Pipeline Company of America has approved the Permian Link Project, a roughly $4.2 billion development designed to transport approximately 2.8 Bcf/d of natural gas.\nThe 434-mile pipeline will support new electricity generation serving a major hyperscale technology customer. Kinder Morgan's share of the investment is estimated at $1.6 billion, with startup targeted for the third quarter of 2030.\nBoth projects have secured long-term transportation agreements, providing contracted revenue streams once operational.\nKinder Morgan is also expanding its Creekside Lateral Project in Central Texas, approving an additional $150 million in development phases following new agreements with data center and industrial customers.\nThe approximately $235 million project is expected to supply more than 750 million cubic feet per day of contracted transportation capacity upon completion.\nThe company's expanding pipeline investment program comes alongside stronger operating performance.\nThird-quarter net income climbed 22% to $764 million, compared with $628 million a year earlier. Adjusted earnings per share increased 21% to $0.35, while adjusted EBITDA rose 9% to $2.18 billion.\nNatural gas transportation volumes increased 3% year over year, supported by higher LNG deliveries and increased demand across the company's Texas pipeline network. Natural gas gathering volumes climbed 14%, primarily reflecting stronger activity on the KinderHawk system.\nThe company now expects full-year adjusted EBITDA to exceed its original $8.6 billion budget by more than 6%, while adjusted earnings per share are projected to beat the initial $1.36 forecast by more than 13%.\nKinder Morgan also maintained its commitment to shareholder returns, declaring a quarterly dividend of $0.2975 per share, representing a 2% increase from the corresponding period last year.\nBeyond natural gas, the company is advancing its Western Gateway refined products pipeline alongside Phillips 66 and HF Sinclair. The approximately 1,300-mile project is designed to deliver 230,000 barrels per day of transportation capacity to markets in Arizona and California, with operations targeted for 2029.\nFor investors, Kinder Morgan's growing inventory of contracted pipeline projects highlights the expanding role of natural gas infrastructure in meeting U.S. electricity demand, particularly as hyperscale data centers and industrial facilities drive new requirements for reliable power supplies.\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nMozambique Pitches Sasol and ROMPCO on $250 Million Gas Project\nCanada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%\nBeach Energy Posts Record Revenue as Oil and Gas Production Jumps 9%\nAPA Greenlights A$700 Million Gas Pipeline Backed by Origin Deal\nIndiana Eyes 6 GW Nuclear Expansion With AtkinsRéalis\nEndurance Energy Generates First Subsea Geothermal Power at Pacific Volcano\nApache Strike Could Shut Down Britain's Critical Forties Pipeline\nDevon Energy Exits Eagle Ford in $4.2 Billion Shale Deal\nPetrobras Makes Second Oil Discovery in Amapá Ultra-Deepwater Well\nVestas Unveils Larger-Rotor Turbine to Boost Onshore Wind Returns\nPetronas Moves to Appraise Major Oil Discovery Offshore Malaysia\nApache Strike Could Shut Down Britain's Critical Forties Pipeline\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "published": "2026-10-22T00:55:00+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 14.3,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’ - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
+      "summary": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’&nbsp;&nbsp;Politico",
+      "content": "",
+      "published": "2026-10-21T23:33:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "The Russia-Ukraine War Report Card, Oct. 21, 2026 - Russia Matters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkNpbTE1U1lGMVEtYWFHM1JRdDYzQ1NGZjRyU0RjWlVEZzRyV2xfWmFTcmM0OHhyZHZNSjhiUEx1WktBeGgyc2FHdzlYa3YzZnJUMFhZRzF6aVdSTFVaLVUxbFlkS1Y0VFZBNFZVYndLRjBrVURvQ0d4bGVrWW9UZmxCcFFOU2lpVVpYTmZoRFREcXJKVW5rbGM5R182bncyZkF0RHdBekRFcjlR?oc=5",
+      "summary": "Find past issues in the Russia-Ukraine War Report Card archive .\nOct. 19, 2026, update: Based on data from Ukraine’s DeepState OSINT group, in the past four weeks (Sept. 22–Oct. 19, 2026), Russia has gained a net of 3 square miles of Ukrainian territory (about 1/7th the area of Manhattan Island). In comparison, during the previous four-week period (Aug. 25–Sept. 22, 2026), Russia’s net gain was 37",
+      "content": "Find past issues in the Russia-Ukraine War Report Card archive .\nOct. 19, 2026, update: Based on data from Ukraine’s DeepState OSINT group, in the past four weeks (Sept. 22–Oct. 19, 2026), Russia has gained a net of 3 square miles of Ukrainian territory (about 1/7th the area of Manhattan Island). In comparison, during the previous four-week period (Aug. 25–Sept. 22, 2026), Russia’s net gain was 37 square miles of Ukraine’s territory, according to DeepState’s data. In contrast, according to The Economist’s Oct. 19, 2026 estimate, Ukraine has regained 30 square miles of its own territory.\nNB: As of 12:00 p.m. on the date of publication, data from the Institute for the Study of War on changes in territorial control and maps for Oct. 21, 2026, remained unavailable to RM staff. Thus, ISW data had to be omitted from this issue of the war card, with the exception of the figure showing “Russian net territorial control in Ukraine by month: February 2022–September 2026.” We continue to work to resolve this situation as soon as possible. In addition, As of 12:00 p.m. on the date of publication, DeepState was yet to update its estimates of changes in territorial control for Oct. 20, 2026. Thus, we used DS’ estimate for Oct. 19, 2026 in our calculations.\nTerritorial Control (DS figures and maps as of Oct. 19, 2026)\nChange in Russia’s control of Ukrainian territory and change in Ukraine’s control of Russian territory\nBased on data from DeepState as of 2:00 pm on Oct. 19, 2026\n12% of Ukraine. (Area roughly equivalent to half the U.S. state of Illinois.)\nTotal area of all Ukrainian territory Russia presently controls, including Crimea and parts of Donbas that Russia had seized prior to the full-scale invasion on Feb. 24, 2022: +45,196 square miles.\nAbout 19% of Ukraine. (Area roughly equivalent to the U.S. state of Pennsylvania.)\nIn the four-week period of: In the four-week period of Sept. 22–Oct. 19, 2026: Russian forces saw a net gain of 3 square miles of Ukrainian territory.\nDuring the previous four-week period (Aug. 25–Sept 22, 2026), Russian forces registered a net gain of 37 square miles.\nIn the one-week period of: In the six-day period of Oct. 13–19, 2026: Russian forces saw a net loss of 20 square miles of Ukrainian territory.\nDuring the previous one-week period of Oct. 6–13, 2026, 2 Russian forces registered a net gain of 13 square miles.\nIn the past year: From Oct. 19, 2025, to Oct. 19, 2026, Russia made a net gain of 753 square miles (just over half the size of Rhode Island)—about 0.3% of Ukraine’s total territory of 233,062 square miles at the time of its independence in 1991.\nRussia’s average monthly gains/losses for the past 12 months: 74 square miles.\nRussian net territorial gains in Ukraine by month, May 2022–September 2026 (Based on data from DeepState ; click here for an interactive version of this chart) .\nRussian net territorial control in Ukraine by month: February 2022–September 2026 (Based on data from the Institute for the Study of War ; click here for an interactive version of this chart) .\nMilitary casualties (see footnotes for detailed source estimates)\n1,000,000 Russian military casualties (killed and wounded), according to a February 2026 estimate that a highly-informed former high-ranking Western official shared with RM.\n250,000–300,000 Ukrainian military casualties (killed and wounded), according to a February 2026 estimate that a highly-informed former high-ranking Western official shared with RM.\n1. Here are more estimates of losses of the Russian military personnel [in chronological order]:\n600,000 killed or injured, according to Trump’s December 2024 estimate.\nAlmost 1,000,000 killed, according to Trump’s January 2025 estimate.\nMore than 750,000 killed or injured, according to a March 2025 estimate by DNI/U.S. intelligence community.\nMore than 790,000 killed or injured, according to an April 2025 estimate by then-SACEUR Cavoli. 84,568 missing, according to an April 2025 estimate by the Ukrainian Coordination Center for the Treatment of Prisoners of War.\n950,000 killed or injured, according to CSIS’s June 2025 estimate, including 250,000 killed and 700,000 injured.\nMore than 1,000,000 , including 250,000 killed, according to the U.K. Defense Ministry’s June 2025 estimate.\n219,000 Russian soldiers estimated killed in Meduza’s and Mediazona’s August 2025 estimate.\nSome 1,000,000 in casualties, including 250,000 KIAs, according to then-British spy chief Richard Moore’s September 2025 estimate.\nSome 1 ,168,000 killed and wounded, according to the U.K. Ministry of Defense’s December 2025 estimate.\n1,100,000 casualties, according to ex-CIA director William Burns’ January 2026 interview in FT.\n1,200,000 Russian military casualties (killed, wounded and missing) with as many as 325,000 killed between February 2022 and December 2025, according to CSIS ’s January 2026 estimate.\n1,000,000 Russian soldiers have been killed or wounded, according to a February 2026 estimate by the Estonian Foreign Intelligence Service.\n1,200,000 casualties, including killed and wounded, according to a February 2026 estimate by Western officials reported by Bloomberg. The unnamed officials estimate that this casualty total includes 430,000 casualties in 2024 and 415,000 casualties in 2025.\nMore than 200,000 identified as killed in a February 2026 estimate by Mediazona and BBC.\n1,100,000-1,400,000 casualties, including 230,000–430,000 dead, according to a February 2026 estimate by The Economist.\n1,200,000 casualties, including 325,000 killed, according to a February 2026 estimate by WSJ.\nRussia has suffered about 1,200,000 permanent losses, including more than 500,000 dead, according to an April 2026 estimate of Netherlands’ Military Intelligence and Security Service.\n352,000 estimated killed in Meduza’s and Mediazona’s May 2026 estimate.\n1,100,000-1,500,000 killed and wounded, according to Economist’s May 17, 2026, estimate .\nNearly 500,000 Russian soldiers are estimated to have been killed since 2022, Anne Keast-Butler, top British intelligence official, has said in a May 2026 estimate.\n“Some intelligence reports” indicate that 1,200,000 Russian soldiers have been killed or wounded since February 2022, according to a May 2026 FT article.\nRussian forces have lost some 1,400,000 killed, wounded or missing between February 2022 and June 2026, according to a July 2026 report by CSIS .\n450,000 Russians have been killed, according to a July 2026 estimate by ex-SACEUR Christopher Cavoli.\n1,400,000 casualties, including 500,000 deaths, according to September 2026 estimate by Western officials reported by The Telegraph.\n1,500,000 casualties, according to an Oct. 18, 2026 estimate by ex-CIA Chief David Petraeus.\n2. Here are more estimates of losses of the Ukrainian military personnel [in chronological order]:\n400,000 killed or injured, according to Trump’s December 2024 estimate.\n43,000 Ukrainian soldiers have been killed and 370,000 injured, according to Zelenskyy’s December 2024 estimate.\n700,000 killed, according to Trump’s January 2025 estimate.\nUp to 100,000 killed, according to CBS’s April 2025 estimate.\n400,000 killed or injured, according to CSIS’s June 2025 estimate, including somewhere between 60,000 and 100,000 killed and 300,000-340,000 injured.\n73,000–140,000 killed, according to The Economist’s July 2025 estimate.\n140,000 killed , according to BBC’s December 2025 estimate.\n500,000–600,000 Ukrainian military casualties, including killed, wounded and missing, and between 100,000 and 140,000 fatalities between February 2022 and December 2025, according to CSIS’s January 2026 estimate.\n55,000 Ukrainian soldiers have been killed, according to Ukrainian president Volodymyr Zelenskyy’s February 2026 estimate.\n500,000–600,000 killed, wounded or missing, according to a February 2026 estimate by RFE/RL.\nUkraine has suffered about 500,000 “permanent losses,” according to an April 2026 estimate of Netherlands’ Military Intelligence and Security Service.\nThe Ukrainian military has suffered somewhere between 500,000 and 600,000 casualties, according to Western estimates, reports a May 2026 FT article.\nUkrainian forces have lost somewhere between 525,000 and 625,000 killed, wounded or missing between February 2022 and June 2026, according to a July 2026 report by CSIS .\n150,000 Ukrainians have been killed, according to a July 2026 estimate by ex-SACEUR Christopher Cavoli.\nRussia: 9,000 persons killed by the Ukrainian armed forces, according to the RF government.\nUkraine: “Over 17,000 civilians have been killed and almost 54,000 injured in Ukraine,” according to the U.N.\nRussia: 24,192 . Same as on Oct.14. Tanks and armored vehicles: 14,193 . Same as on Oct. 14 .\nUkraine: 12,259 . Same as on Oct. 14 . Tanks and armored vehicles: 6,154 . Same as on Oct. 14 .\nRussia: Internally displaced: 23,000 , including 3,419 in the Kursk region.\n1,000,000 (0.7% of Russia’s 2022 population) left Russia for economic or political reasons in the first year of the full-scale war. Between 15% and 45% of those who had left have returned since then , so, between 550,000 and 850,000 people have not returned to Russia.\nUkraine : 9,600,000 displaced Ukrainians, 22% of Ukraine’s pre-invasion population of 44,000,000, including: Internally displaced: 3,700,000 .\nRussia’s cumulative economic growth in 2022–2025: 8 % . 1.1% GDP growth in 2025.\nRussian ruble: 0.012086 U.S. dollars . 3% since the invasion.\nUkraine’s cumulative economic growth (negative) in 2022–2025: - 21 . 2% 2% GDP growth in 2025.\nUkrainian hryvnia: 0.02220 U.S. dollars: -34% since the invasion.\nCheck out RM’s timeline of infrastructure damage here .\nRussia estimates since Jan. 1, 2026: 5 In January 2026, Russia’s western border regions saw weeks‑long outages caused by Ukrainian strikes, with heating at only 50% capacity and thousands without power as of early February 2026.\nAt least 40% of Russia's oil export capacity was at a halt following Ukrainian drone attacks on all three of Russia's major western oil export ports, including Novorossiysk on the Black ​Sea and Primorsk and Ust-Luga on the Baltic Sea, according to Reuters calculations based ‌on market data on March 25, 2026.\nIn late March-early April 2026 Ukraine intensified its drone campaign against Russian oil infrastructure. The strikes have damaged or destroyed about 20% of Russia’s refining capacity since early 2024, according to an April 7, 2026, assessment by NYT.\nOil industry sources estimated that in April 2026 Russia was forced to reduce oil production by roughly 300,000–400,000 barrels per day from first-quarter levels—the sharpest monthly drop in about six years—because of Ukrainian drone strikes, according to Reuters .\nApril 2026 saw at least 21 Ukrainian strikes on Russian oil refineries, export terminals, ships and pipeline pumping stations—the highest monthly total since December—cutting refinery runs to their lowest in over 16 years, according to Bloomberg. As a result, Russia’s crude-processing rate fell to 4.69 million barrels a day, about 11–12% below early‑2026 levels, according to Bloomberg ’s estimate.\nMonths preceding May 2026 saw Ukrainian drones and missiles knock out 10% of Russia’s refining capacity, according to Volodymyr Zelenskyy’s May 19, 2026, estimate.\nFrom April to mid-May 2026, Ukrainian armed forces hit 20 oil refineries and export terminals in Russia, according to a May 18, 2026, estimate published in FP .\nDue to Ukrainian strikes Russia lost basically 27% of its refining capacity, from “about 5.2 million barrels a day before the war to 3.8 million now,” the “lowest level in 21 years,” according to a June 2026 estimate by Oxford Institute for Energy Studies cited by FP on June 13, 2026.\nAnalyst Sergey Vakulenko estimated more than a quarter of Russia’s refining was offline in June 2026, according to the June 20, 2026, issue of WSJ .\nSince March 2026, analysts estimated that Ukrainian strikes on Russian oil refineries have knocked out some 20% of the country’s refining capacity, according to a June 25, 2026, estimate published in the WSJ .\nUkrainian drone and missile strikes have knocked out up to 28% of Russia’s refining capacity, according to a June 2026 estimate by WSJ on June 30, 2026.\nUkraine’s deep‑strike campaign has knocked out 20–40% of Russian refining capacity, according to a July 2026 estimate by economists cited by WSJ on July 7, 2026.\nUkraine’s strike campaign has knocked out more than 30% of Russia’s actual refining capacity, driving its worst fuel crisis since the Soviet collapse, according to FT’s July 30, 2026, report.\nUkrainian long-range attacks have reduced Russia’s oil-refining capacity by 25–30%, according to estimates of Russian industrialists cited by ISW on Aug. 22, 2026.\nUkraine’s strikes have pushed Russian oil processing to just over 3.8 million barrels per day in August 2026, down from 5.3–5.5 million barrels per day last summer, according to an Aug. 28, 2026 estimate reported by Bloomberg.\nUkrainian attacks inflicted damage equivalent to about 1% of Russia’s GDP during a 40-day campaign of strikes ordered by Ukrainian President Volodymyr Zelenskyy on June 25, 2026, according to Russian President Vladimir Putin’s Sept. 1, 2026 estimate .\nUkraine estimates since Jan. 1, 2026: 6 As a result of the Russian attacks, Ukraine’s available generating capacity has fallen from 33.7 GW at the start of the full‑scale invasion to about 14 GW as of January 2026, according to The Economist . The resulting outages have produced blackouts of several days in parts of Ukraine, The Economist wrote in January 2026. 16\nUkrainian energy provider DTEK’s CEO said in late January 2026 Ukraine has lost about 70% of its generation capacity and many civilians get only 3–4 hours of electricity daily, driving roughly 600,000 people to leave Kyiv, according to a Jan. 29, 2026, report by Istories. DTEK then said Russia’s Feb. 3 assault “dealt the most powerful blow to the energy sector since the beginning of the year,” WP reported .\nFrom early October 2025 through mid‑January 2026, Ukraine’s intelligence service logged 256 drone and missile strikes on Ukrainian energy facilities: 11 on hydroelectric plants, 94 on thermal plants and 151 on substations. Ukraine’s then energy minister Denys Shmyhal said on Jan. 16 that “there is not a single power plant in Ukraine that the enemy has not attacked” and that “thousands of megawatts of generation have been knocked out,” according to The New Yorker .\nEvery power plant in Ukraine has been damaged by Russian attacks, according to Volodymyr Zelenskyy’s February 2026 estimate .\nAt one point, about half of Kyiv’s 12,000 apartment buildings were without heating because of the Russian attacks, according to a February 2026 estimate reported by Financial Times .\nRussia launched 15 large-scale strikes on Ukraine’s energy system between December 2025 and February 2026—over three times the average of the previous three winters—leaving Kyiv’s 3.5 million residents on average without power for about half of each day in January, according to a March 2026 report by NYT .\nAt least two-thirds of Ukraine’s energy production capacity has been destroyed, damaged or occupied by Russia since the fall of 2024, according to an estimate by Western military officials reported by The Times of London in late February 2026.\nUkraine has restored 3.5 gigawatts of generating capacity at thermal power plants, combined heat and power plants, and hydropower plants out of more than 9 gigawatts damaged by Russian strikes, Energy Minister Denys Shmyhal told the Ukrainian parliament in mid-March 2026, according to a Korrespondent.net report.\nUkrainian energy expert Oleksandr Kharchenko estimated in March 2026 that restoring Ukraine’s full electrical and heating capacity would require years. “In the best-case scenario, we will be able to restore maybe 30 or 40% of electrical capacity before next winter,” he estimated according to a NYT March 30, 2026 report.\nEnergy blackouts, which have been caused by Russian attacks, have cut economic growth in Ukraine by 2.5 percentage points so far in 2026, according to a May 2026 estimate by the Economist .\n“Russians have destroyed or damaged more than 80% of Ukraine’s power generation,” according to an Aug. 3, 2026, estimate given by Energy Minister Denys Shmyhal.\nIn the three weeks preceding Aug. 18, 2026, Russian strikes on Ukrainian warehouses had cost Ukrainian businesses $500 million, according to an Aug. 18, 2026, estimate by The Economist .\nRussian strikes have destroyed about 90% of Ukraine’s food-logistics infrastructure, according to an Aug. 30, 2026 estimate by Ukraine’s Agriculture Minister Taras Vysotskyi.\nRussia’s air campaign has destroyed about 2.1 million square meters of Ukraine’s 5 million square meters of modern warehouse space, including 900,000 square meters in recent months, according to a Sept. 20, 2026, estimate by Financial Times .\nUkraine’s economy ministry estimates the damage from Russian attacks will reach approximately $10 billion by the end of 2026, while EBRD cut its growth forecast for Ukraine from 2.2% to 1.5% with some economists expecting zero growth, according to a Sept. 25, 2026, report by NYT . The Russian strikes also disabled Ukraine’s three remaining major steel plants responsible for 90% of national output, according to the Sept. 20, 2026, estimate by Financial Times .\nUkraine: 75% of Ukrainians open to negotiations with Russia to end war.\nOther criteria which may be even more important (about which we continue to search for reliable indicators):\nRM cannot verify military or civilian casualty figures or equipment losses estimated by various sources cited in this card.\nOryx, “Attack On Europe: Documenting Equipment Losses During The 2022 Russian Invasion Of Ukraine,” Oryx (blog), https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html ; “The Military Balance 2022,” IISS, https://www.iiss.org/publications/the-military-balance/the-military-balance-2022 ; Oryx, “List Of Aircraft Losses During The Russian Invasion Of Ukraine,” https://www.oryxspioenkop.com/2022/03/list-of-aircraft-losses-during-2022.html ; Oryx, “List of Naval Losses During The Russian Invasion Of Ukraine,” https://www.oryxspioenkop.com/2022/03/list-of-naval-losses-during-2022.html .\nInternational Monetary Fund, World Bank, and Russian estimates. “Russia and Ukraine 3-Year Bond Yield,” Investing.com, https://www.investing.com/rates-bonds/russia-3-year-bond-yield ; World Bank Group, “Europe and Central Asia Economic Update,” https://openknowledge.worldbank.org/server/api/core/bitstreams/94bdc078-9c64-4833-992a-fda7b3d1a640/content ; World Bank, “Russian Federation MPO,” https://thedocs.worldbank.org/en/doc/d5f32ef28464d01f195827b7e020a3e8-0500022021/related/mpo-rus.pdf ; Trading Economics, “Russia 3-Year Bond Yield,” https://tradingeconomics.com/ruge3y:gov ; World Bank, “The World Bank in Ukraine,” https://www.worldbank.org/en/country/ukraine/overview#3 ; https://www.exchange-rates.org/exchange-rate-history/rub-usd-2024-11-01 .\nFor earlier estimates, see the Aug. 5, 2026 , issue of this card.\nFor earlier estimates, see the Aug. 5, 2026 , issue of this card.\nRussia Matters offers weekly news and analysis digests, event announcements and media advisories.",
+      "published": "2026-10-21T20:49:09+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -361,6 +427,30 @@
       "assets": []
     },
     {
+      "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+      "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+      "summary": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
+      "content": "Share Qatar, France call for opening of Hormuz and Gaza ceasefire implementation on social media\nQatar's Emir Sheikh Tamim bin Hamad Al Thani looks on alongside Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and French President Emmanuel Macron at the Rosewood Hotel in Lusail, Qatar, on October 21, 2026 [Benoit Tessier/Reuters]\nQatar and France have called for freedom of navigation in the Strait of Hormuz and the implementation of the so-called ceasefire in Gaza, after the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, met French President Emmanuel Macron in Doha.\nA joint statement on Wednesday said the two leaders stressed the importance of restoring freedom of navigation in the Strait of Hormuz “without constraints or fees”.\nlist of 3 items list 1 of 3 Macron lines up more Gulf diesel as France battles soaring fuel prices\nlist 2 of 3 As Macron visits Gulf, can France forge its own energy-for-security future?\nlist 3 of 3 Iran’s enriched uranium re-emerges as point of contention in US talks\nQatari mediator Ibrahim bin Sultan Al Hashmi had said on Tuesday that diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz, while Iran’s Foreign Minister Abbas Araghchi said on Wednesday that “Iran is prepared to give diplomacy another chance.”\n“The two leaders condemned Iranian military attacks against countries in the region which constitute a serious breach of international law,” according to the Qatari-French statement.\nThe two leaders also called for the withdrawal of Israeli forces from Gaza “in accordance with the agreed arrangements”, as well as the urgent, safe and unhindered delivery of humanitarian aid “without conditions or restrictions”.\nThe United Nations World Food Programme (WFP) said on Monday that about 1.4 million people in Gaza, roughly two-thirds of the population, face acute food insecurity at crisis levels or worse.\n“France and Qatar reiterated their opposition to any annexation of the West Bank and called for an end to Israeli settlement policies and settler violence,” the statement added.\nOn Lebanon, the two countries backed full implementation of the Trilateral Framework Agreement to restore Lebanese sovereignty, disarm Hezbollah and secure a complete Israeli withdrawal.\nThey also warned against a security vacuum following the end of the UN peacekeeping mission’s mandate, calling for continued international support for Lebanese authorities and armed forces.\nOn Syria, both countries said they were ready to jointly support stabilisation and economic recovery projects in coordination with Syrian authorities.\nBeyond regional issues, Qatar and France agreed to expand defence, security and economic cooperation.\nMacron’s regional tour, which also included Kuwait, the United Arab Emirates, Bahrain and Saudi Arabia, aimed to strengthen strategic and economic partnerships and support efforts to restore regional stability and freedom of navigation through the Strait of Hormuz.",
+      "published": "2026-10-22T01:45:48+00:00",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
       "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
       "summary": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
@@ -381,26 +471,50 @@
       "assets": []
     },
     {
-      "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
-      "summary": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes&nbsp;&nbsp;Reuters",
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington.Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who ha",
+      "content": "Witkoff calls Putin a ‘humanitarian’ after release of jailed American – video\nPutin orders release of jailed American as he meets Trump envoy for Ukraine talks\nRussia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’\nVladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington.\nTrump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine .\nHis release appeared to be Moscow’s latest calculated move to bring Trump further into line with Putin’s position on Ukraine , while offering the US president a diplomatic victory before the midterm elections.\nHubbard was released unilaterally by Russia , rather than as part of a prisoner exchange as has often been the case with previous releases of Americans held in the country.\nWriting on social media after the release was announced, Trump said it followed a request he had made “directly” to Putin last week.\nHe wrote on Truth Social: “The United States, out of respect for President Trump, was not required to give anything in return – an unprecedented situation for Russia … There was no ‘swap’ necessary for this release.”\nStephen Hubbard in court in Moscow in October 2024. Photograph: Moscow city court press service/AP\\ Hubbard’s younger sister told the Associated Press she had spoken to her brother, who said he had thought he was “going to die in prison”.\n“He’s out of Russia territory. He is free, praise God,” Patricia Hubbard Fox said, adding that her brother suffered beatings and starvation while he was held captive.\nWitkoff, meanwhile, lavished praise on Putin during their meeting at the grand Constantine Palace in St Petersburg, describing the Russian president as a humanitarian.\n“You talk so much about my president, President Trump, being a humanitarian. You are a humanitarian also, sir, and I salute that,” Witkoff told Putin. He also conveyed Trump’s thanks for a deal to resume Russian diesel exports to the US.\nThe Russian president is wanted by the international criminal court (ICC) as a war criminal, in relation to the deportation of Ukrainian children to Russia during the war.\nMore than 17,500 civilians have been confirmed killed in Ukraine since Russia launched its full-scale invasion in February 2022, according to the UN, which says the true toll is likely to be significantly higher.\nThe warmth of Witkoff’s remarks stood in stark contrast to the increasingly hostile rhetoric directed at Volodymyr Zelenskyy by senior US officials, most notably Trump, who has called for the Ukrainian president to resign and portrayed him as the main obstacle to peace.\nWitkoff travelled to Russia from Oslo, where he had met Zelenskyy and European leaders a day earlier in an attempt to inject momentum into stalled negotiations, with Russia’s full-scale invasion of Ukraine now in its fifth year.\nWitkoff told Putin during a televised portion of their meeting: “We’ve brought some papers. It’s really some ideas, some sort of peace deal between Russia and Ukraine, and you’ll read that at your leisure.”\nThe visit was Witkoff’s ninth to Russia since Trump tasked him with brokering an end to the war.\nWitkoff described his meeting with Putin as “constructive” but said “important work” remained and trilateral talks between the US, Russia and Ukraine “at the technical level” would follow.\nThe Kremlin said it had agreed “in principle” to the talks, which would focus on how to guarantee the security of Ukraine and Russia once the war ended.\n‘You are a humanitarian also, sir, and I salute that,’ Witkoff told Putin during their meeting. Photograph: Kristina Solovyova/Pool Sputnik Kremlin/AP The latest rupture in relations between Washington and Kyiv was triggered by Trump’s surprise decision to lift sanctions on Russian diesel as part of a deal with Putin, followed by his call for Zelenskyy to be replaced after Ukraine refused to halt its strikes on Russian oil refineries.\nKyiv has since complained of disruptions to US intelligence-sharing and restrictions on its access to Starshield , the military-grade version of Elon Musk’s Starlink satellite network.\nZelenskyy said on Tuesday that Washington had resumed providing advance warnings of Russian missile attacks after his meeting with Witkoff in Oslo.\nBut Ukraine continues to face restrictions on Starshield, although it remains unclear who ordered them. The Wall Street Journal reported on Tuesday that Musk had personally ordered the slowdown, while Reuters, citing sources, said the directive had come from inside the White House.\nThe US secretary of state, Marco Rubio, said on Wednesday that the decision to restrict Ukraine’s access came from Musk.\n“I’m not aware that we knew ​about this decision beforehand. But that’s irrelevant,” Rubio told reporters ‌during a trip to India.\n“The bottom ‌line is that, that is governed by a private commercial contract as to how their stuff can be used and what speeds ‌they’ll allow it to be used at.”\n‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline\nDuring Wednesday’s meeting with Witkoff, Putin thanked Trump and his wife, Melania, for “their attention to efforts to end the war”.\nYet there are few signs of an imminent breakthrough. Despite repeated Ukrainian calls for a ceasefire, including a halt to attacks on energy infrastructure, Moscow has given little indication that it intends to end its bombardment of Ukraine as winter approaches, apparently confident that continued pressure will help it extract greater concessions from Kyiv.\nThe Russian leader remains intent on sticking to his maximalist war aims, including his demand for full Russian control of Ukraine’s eastern Donetsk region.\nPutin also sought to emphasise the prospects for closer economic ties between Russia and the US once the war ends, suggesting that Moscow could significantly increase its exports of fertilisers to the American market.\nRussian officials said the first tanker carrying diesel to the US would depart on Thursday as part of an initial shipment of about 300,000 tonnes.\nEnergy analysts and traders have questioned whether Trump’s agreement to temporarily resume Russian diesel imports will deliver meaningful relief to US consumers before the midterm elections, arguing that the volumes involved are too small to significantly ease the global supply squeeze.\nThe talks on Wednesday also touched on a possible meeting in China next month between Putin, Trump and the Chinese president, Xi Jinping. The Kremlin said Beijing was already making preparations for what it described as an unprecedented summit between the three leaders.\n‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die\nUS gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says\nZelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’\nTrump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says\nPower plant attacks reflect Russian blueprint to make Ukrainian cities unlivable\nTrump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’\nRussia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses\nVolodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+      "published": "2026-10-22T01:16:20+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.8,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Philippines exploring deeper cooperation with Taiwan to protect cables - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXI3SFRVTXFrMURWSExwd01uY0lFUVZ4M3J2amc4XzE3QVBidmZZOU9qVUFkQ3c3U1RSMG8wOTZ1M1M5Q1RXM0RwUzN5MkpILTEwQ3hjdjlQRU1jWVUyb1JXT3BFdzRWdFdyZzcxLXNoUk5hWDlTY2I3LWRpYkpZUkg1bmJtamZRYnMtdTJvOG5VX21RQ05fRkJCY082Ql90ME1zYllHZ1MyS211WWdDd2l3WFJ0dw?oc=5",
+      "summary": "Philippines exploring deeper cooperation with Taiwan to protect cables&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T18:58:00+00:00",
+      "published": "2026-10-21T23:05:43+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "BBC World",
-        "Al Jazeera"
+        "GN Geopolitics",
+        "GN China"
       ],
       "source_count": 3,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：台积电 / 半导体 / 亚太市场 及相关产业链。",
+      "assets": [
+        "台积电",
+        "半导体",
+        "亚太市场"
+      ]
     },
     {
       "title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says - Reuters",
@@ -444,40 +558,19 @@
       "assets": []
     },
     {
-      "title": "Russian strikes kill elderly Ukrainians after Trump urges Kyiv to agree terms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1VpcUFrQ2VwNVlieXZQaWZROUhiV2VKd09xMkZnR0xYeGw2aFV2RGxZZlQtQUZVS3hDRG92N1hReE11cWJ1NHFlNEV6X1h4YnVTbnZJSm4waXBiSEdsQ0J4ajdqdDI2V3Fod1BIXzdoYmoxNWZDQnYzaWJSQXJGOXFuMWpJTGxsSWVrLVBYd2xUSlF1aFJZeUh6ckFFb2JVekIwdFNYdw?oc=5",
-      "summary": "Russian strikes kill elderly Ukrainians after Trump urges Kyiv to agree terms&nbsp;&nbsp;Reuters",
+      "title": "Trump campaigns in South Carolina to support Senate candidate Graham - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHk5a3JmU3lLWWtaN3RQRDVPRUdfWVA5czZfWk5WQlBNcnFmdndzTnZQV2RZRFBrOGdXU3ByMHMtS0EtQXNSaDc1OXZ6UTl2UDZrYk8wcFlPc1FaYlFFUVVTVUd6RG5uaDZhYk55elN4TGRXNFFGeklyUzJkXzQtUzBBTzJUS0YxNGJhdF9HOE9zRzVJc1VTcE5HUEg1OVpMYS1UTGVYLWhvSXlEMU1yZW1HMA?oc=5",
+      "summary": "Trump campaigns in South Carolina to support Senate candidate Graham&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T09:04:07+00:00",
+      "published": "2026-10-21T10:05:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "CNBC Top"
+        "GN Top"
       ],
       "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHFiRnNfU1ZqdEFSWG9fQV93dDJCNVQ0NTh2bF9WRmtQcERCbFZlQ3ZVRllOeWVjejY2RGZhNjJzVjV5U19lMUhZV3ZpNTZpcElSbGFaY0dpTUxEaGx4eElobk9qakZXZ3g5LVZqaHV0QTZ3eElMSGdjQzdqT3Y1alVuVDh4NV9RZF9ycmc1bkUyeTVTTnFvVzdUUVFnWXRDb29aQk13YU1OeFBNQ3BFQ2tNRjlCTWFIX2c?oc=5",
-      "summary": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T05:54:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "us",
+      "category_zh": "美国",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
@@ -508,6 +601,29 @@
         "美债",
         "美元",
         "美股"
+      ]
+    },
+    {
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+      "content": "Critical web security flaws spark global alarm: Google, OpenAI, Amazon\nTwo critical vulnerabilities, collectively known as “PHP2Shell,” could allow hackers to remotely execute malicious code on affected servers.\nGovernments worldwide have issued urgent security warnings, while Google, OpenAI and other tech companies have worked to identify vulnerabilities and protect affected systems.\nAmazon detected attempts to exploit the flaws before their public disclosure, but said it remains unclear how attackers obtained information about them.\n21 October 2026, Baden-Württemberg, Stuttgart: When visiting the website of the Baden-Württemberg Ministry of the Interior, a warning message appears in the browser indicating a potential security issue. A serious security vulnerability is threatening websites worldwide; blogs, online stores, and news portals could become targets for attackers. The PHP vulnerability allows attackers to take over entire servers. Photo: Bernd Weißbrod/dpa (Photo by Bernd Weißbrod/picture alliance via Getty Images)\nThe tech world is racing to implement fixes after the discovery of critical security vulnerabilities in software used to power much of the internet.\nThe software, known as PHP, is an open-source programming language widely used to power websites and web applications. The discovery of the flaws prompted urgent warnings from governments worldwide, while tech giants including Google, OpenAI and Amazon have been involved in efforts to uncover the vulnerabilities, detect potential attacks and protect affected systems.\nThe two vulnerabilities, collectively known as \"PHP2Shell,\" could allow hackers to remotely execute malicious code on affected servers, potentially exposing sensitive data, according to cybersecurity researchers. While not every website using PHP is necessarily vulnerable, the software&#x27;s widespread use has raised concerns about the potential scale of attacks.\nThe U.S. National Security Agency on Wednesday urged organizations using PHP to prepare security updates addressing the vulnerabilities, warning that the flaws could provide attackers with direct access to server file systems and databases. The agency recommended taking affected systems offline until the vulnerabilities are fully addressed if immediate updates are not possible.\nThe Federal Bureau of Investigation also warned that malicious actors could exploit the vulnerabilities to execute code remotely, putting sensitive data and networks at risk.\nCybersecurity authorities in Singapore , the United Kingdom , Australia , Canada and the European Union have issued similar alerts, underscoring concerns about the potential impact on businesses, government agencies and other organizations that rely on PHP-based systems.\nAmazon said its threat intelligence team had detected attempts to exploit the vulnerabilities before they were publicly disclosed, using its MadPot threat detection system, which monitors suspicious activity across internet-facing infrastructure. It said the findings suggest malicious actors were already attempting to exploit the vulnerabilities. However, Amazon said it remains unclear how the attackers obtained information about the flaws ahead of their disclosure.\nMeanwhile, Google and OpenAI highlighted the growing role of artificial intelligence in identifying and addressing cybersecurity threats. Google said its cybersecurity unit Wiz used AI models to help find and investigate the vulnerabilities, while its Gemini AI contributed to efforts to assess the flaws, test potential attacks and verify security patches.\nOpenAI said researchers working with its AI models had also helped uncover critical vulnerabilities in PHP. The company said it had spent the past two months leading a coalition of software maintainers, cybersecurity researchers and security providers to coordinate fixes and prepare protective measures ahead of public disclosure.\nThe ChatGPT maker described the flaws as among the most significant security issues in recent memory, highlighting both the potential of advanced AI systems to identify vulnerabilities in widely used software and the risk that similar capabilities could be exploited by cybercriminals.\nCloudflare, which provides cybersecurity and website infrastructure services, said it had deployed protections against the PHP2Shell vulnerabilities through its web application firewall. The company said its measures were designed to help block malicious requests targeting affected systems, providing an additional layer of defense as organizations work to install software updates.\nThe PHP development team has released security fixes, with authorities urging website operators to identify affected versions and apply the updates as quickly as possible. The episode underscores how vulnerabilities in widely used software can pose risks across industries and borders, even as AI increasingly plays a role in helping security researchers uncover and address those weaknesses.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-22T01:05:15+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
       ]
     },
     {
@@ -619,18 +735,38 @@
       ]
     },
     {
-      "title": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
-      "summary": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-      "content": "",
-      "published": "2026-10-21T23:58:56+00:00",
-      "source": "GN Markets",
+      "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
+      "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+      "content": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.\nFormer U.S. Ambassador to Ukraine on Trump's turn toward Russia\nFormer U.S. Ambassador to Ukraine on Trump's turn toward Russia\n< iframe src=\"https://www.npr.org/player/embed/nx-s1-6009376/nx-s1-9972442\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">\nNPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.\nSTEVE INSKEEP, HOST: Let's bring Ambassador John Herbst into the conversation. He served 31 years in the U.S. State Department and was ambassador to Ukraine in the George W. Bush administration. He's now senior director of the Atlantic Council's Eurasia Center. Ambassador, good morning. JOHN HERBST: Good morning. INSKEEP: We just heard Volodymyr Zelenskyy's perspective saying, we're not losing this war. We're losing people, we're losing time, but we're not losing the war. I want to just go right to President Trump's perspective, what he's saying most recently. He says President Zelenskyy doesn't want the war to end. Let's listen to Trump's claim. (SOUNDBITE OF ARCHIVED RECORDING) PRESIDENT DONALD TRUMP: Zelenskyy has to want to settle this war. And if he doesn't, I think it's going to be a very bad thing. Look, we have given tremendous amounts to Ukraine. We've got nothing back, other than high diesel. INSKEEP: He also said Ukraine is weaker, smaller, fewer people, and so they should, quote, \"make a deal\" from that position of weakness, as Trump perceives it, giving up. Do you agree with that assessment? HERBST: President Trump's statement is factually incorrect in many ways. The war is a stalemate. It's been a stalemate for over four years. I think it - actually, it's been a stalemate over since the beginning back in 2014. The big invasion has not enabled Putin to achieve his aim of seizing most of the country. They haven't even been able to seize the most important strategic depth in western Donbas, which is why they want the United States to persuade Ukraine to give them that strategically valuable land 'cause their forces were not able to take it. And they've taken tremendous casualties. They're losing 35, 40,000 soldiers a month, more than half of them dead. And, of course, the Ukrainian drone strikes in Russia have taken out roughly 40% of their refining capability. So the Russians are not winning. The only way Moscow could win this war is if Western aid ceased, both American and European. INSKEEP: You just said that Russia wants to persuade the United States to help them take more territory. Looking at the news over the last week to 10 days, do you think that Vladimir Putin is making progress in persuading the United States or the U.S. president onto their side? HERBST: You know, Trump's policy has been inconsistent since he returned to the White House. He has a positive impulse, which he used to state frequently, he wanted to create an end to the war around the current lines held by the two forces and having Ukraine emerge sovereign and secure (inaudible). So that's a positive impulse. But then he has this peculiar fascination with Putin, and he doesn't want to cross him. So his policy jumps back and forth between really hammering Ukraine and then sometimes putting some lesser form of pressure on the Kremlin. INSKEEP: Well, I'm trying to figure out how the release of Stephen Hubbard fits into this, Russia's effort to cultivate President Trump. I suppose there may have been negotiations behind the scenes that we don't see. I suppose this could've been a humanitarian gesture. Or do you see the release of Stephen Hubbard right now as a friendly gesture toward the United States, which Russia may want to use to widen the gap between the United States and Ukraine? HERBST: I'm sorry to say that this is exactly Putin's intention, and sadly, President Trump plays along. And the news story I listened to before I got onto this interview helps them do that because they talked about merely the release of Hubbard. They didn't talk about the American role in freeing a person we've wanted extradited to the United States, a guy named Mikhail Zvinchuk, who was arrested in Montenegro. He was released - I don't know - eight or nine days ago because the U.S. insisted on it. So this is a straight-up trade deal where we trade the release of a bad guy for the release of an American citizen who's not a bad guy. We've seen this play before, not just under Trump. INSKEEP: So you're telling me there's another layer to this beyond the release today. This is the United States... HERBST: Yes. INSKEEP: ...Doing a deal with Vladimir Putin. HERBST: Yes. And then we saw this before. You know, when Witkoff went to Moscow the first time, at the beginning of the Trump administration and brought home an American, we released a notorious Russian arms dealer, whom we had captured - I don't know - six, eight, 12 months before. So in trade, that's perfect for Russia's nasty foreign policy, we get an innocent American released. So that's good. We want Americans to come home. But we pay a national security price for it. So it's no wonderful gestures from Putin. It's a cynical game. INSKEEP: One other question then. How is Volodymyr Zelenskyy doing in this situation, mending fences with the United States, trying to get back on the same page with Trump or trying to get Trump back on the same page with him? HERBST: Zelenskyy is handling this as best he can. He made a mistake for criticizing publicly the diesel deal, but ever since he's been trying to fix things. And he's helped by the fact that over 80% of the American people consider Putin a villain, and over 60% of the Congress - Republicans and Democrats - support a much stronger policy in aid of Ukraine. And we know that President Trump's being raked over the coals, including by Republicans, for this weak turn of the last, you know, week and a half. INSKEEP: Former U.S. ambassador to Ukraine, John Herbst. Thanks so much. HERBST: Thank you. Bye-bye.\nCopyright &copy; 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+      "published": "2026-10-21T10:56:00+00:00",
+      "source": "NPR World",
       "sources": [
-        "GN Markets"
+        "NPR World"
       ],
       "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "​Europe stands by Ukraine – but how long can that last? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVlaQ21sQzdMLUdIdU9pV1hQeGxXN2l0Z01Cc1F5YkoyZG94TFp4aFdXYmpQRGZJdnJfSWV1eHV2c1pxa2JuT3NiRmtBWDNKWXpuUW1jNWNHQ1NRQ1dTMmZjQ1U5ZWhGOHRnSjl6ZDBkQWlUenpkUk4xOHd3NzdWcDdBR21leUdydm5hSlpUb1JJZGtuVm5CZ0h2MnltQQ?oc=5",
+      "summary": "European Council President Antonio Costa, Ukraine's President Volodymyr Zelensky and European Commission President Ursula von der Leyen in Brussels on October 16, 2026. Photograph: Nicolas Tucat/AFP/Getty Images\nEuropean Council President Antonio Costa, Ukraine's President Volodymyr Zelensky and European Commission President Ursula von der Leyen in Brussels on October 16, 2026. Photograph: Nicolas",
+      "content": "European Council President Antonio Costa, Ukraine's President Volodymyr Zelensky and European Commission President Ursula von der Leyen in Brussels on October 16, 2026. Photograph: Nicolas Tucat/AFP/Getty Images\nEuropean Council President Antonio Costa, Ukraine's President Volodymyr Zelensky and European Commission President Ursula von der Leyen in Brussels on October 16, 2026. Photograph: Nicolas Tucat/AFP/Getty Images\n​Europe stands by Ukraine – but how long can that last?\nAs US support ebbs away, looming European elections and growing financial strains across the continent could fracture the precious coalition that has kept Ukraine afloat\nE urope woke up last Friday to another belligerent outburst from Donald Trump – this time berating Ukraine’s wartime leader Volodymyr Zelenskyy again. Just a few days after his diesel deal with the Kremlin, the US president said Zelenskyy was more difficult to deal with than Vladimir Putin and blamed Ukraine’s leader for rocketing oil prices – without any reference to the impact of his own war on Iran.\nThe contrast in Europe was obvious. When Zelenskyy walked into the multi-coloured summit room of the European Council headquarters in Brussels that Friday morning, the EU’s 27 leaders burst into applause, getting to their feet to offer big hugs and brisk handshakes. European Council president António Costa told Zelenskyy and the media: “This is no time to withdraw the support to Ukraine ,” calling instead for increased pressure on Russia. Zelenskyy was thankful, pointedly saying he was happy to have “huge support” from “real leaders”.\nThe symbolism was powerful. As US support crumbles, Europe seems to be stepping up. According to the Kiel Institut’s Ukraine Support Tracker , Europe – including non-EU countries such as the UK and Norway – has spent €236bn supporting Ukraine from 2022 to April 2026, compared with a US outlay of €115bn.\nWhile Trump is weakening sanctions, Europe is promising more. The EU has passed 21 rounds of sanctions against Russia and last year agreed to raise a €90bn loan for Ukraine – an unprecedented sum for a non-member state. Meanwhile the EU has opened accession negotiations with Kyiv and given shelter to 4.4million Ukrainian refugees.\nBehind the declarations of Europe’s enduring support, the outlook is more complex and less encouraging for Ukraine, as it approaches its fifth winter since the launch of Russia’s all-out invasion.\nFirst, Europe is not able to replace US military dominance in areas such as intelligence. This was brutally exposed by the disruption to the US SpaceX technologies that Ukraine uses in frontline drone operations and air-defences protecting civilians from Russian air attacks. Zelenskyy said the US had intentionally throttled its Starlink satellite internet access, a charge that senior figures in the Trump administration have denied.\nUkraine also depends on US-made Patriot interceptors capable of shooting down Russian ballistic missiles. Deepening the spat, Zelenskyy this week accused the Trump administration of preventing European countries from passing on their Patriot stocks to Ukraine.\nSecondly, Europe’s monetary support for Ukraine is not evenly spread. Germany is the second-largest donor, having spent €54bn since the start of the war, a particularly crucial contribution since Trump ceased virtually all new US funding. But a report from the Kiel Institut describes this funding as “sizeable but not exceptional” given the scale of the German economy. Four Nordic countries together have given more than Germany, even though they total only a third of Germany’s population, the researchers note. The EU’s other big economies, France and Italy, give less than Germany.\nThe Nordic, Baltic and other north European states are Ukraine’s most generous donors when contributions are measured against national income, according to the Kiel Institut. Denmark, for instance, spends an equivalent to 4.17% of its gross domestic product supporting Ukraine, and Estonia 3.77%, compared with 1.49% spent by Germany, 1.1% by France, 1% by Italy and 0.86% by the UK. With Ukraine’s huge bill to defend itself growing, and Russia’s relentless attacks continuing to wreak a heavy toll, these more generous donors might arguably feel Europe’s biggest economies – and other western allies – could do more to shoulder these ever-rising costs.\nFinancial aid from 24 January 2022 to 31 August 2026 as a % of a country’s 2021 GDP. Illustration: Guardian graphic/Source: Kiel Institute for the World Economy Thirdly, and most critically, Europe’s support for Ukraine could be reaching its limits, as Europe enters a supercycle of elections in which the far-right are expected to make gains. National votes are due in Spain, France, Poland and Italy, four of the five biggest EU member states by population. Mujtaba Rahman , managing director for Europe at the Eurasia Group, argued that the biggest risk for Ukraine is not Trump’s opinions, but the potential for European support to fragment. There is a risk 2027 will be the year “when political reality, electoral reality, policy reality, economic reality catches up with Europe and prevents it being able to go further in its support for Ukraine”, he said.\nFrance’s elections could be the most consequential. The far-right leader and frontrunner Marine Le Pen is seeking to present herself as the candidate to restore order and security, after days of rioting and looting across French cities. She has also vowed to cease aid to Ukraine within six months of taking office “because we simply cannot do it any more”. Speaking to the Financial Times (£) , Le Pen vowed to slash France’s contributions to the EU budget, which raises questions about a proposed €100bn fund for Ukraine in the upcoming 2028-34 budget cycle. Beyond Ukraine, her election could plunge the EU into a deep internal crisis that will consume political energies and attention.\nUS patience is running out with Ukraine as US special envoy Steve Witkoff meets with Vladimir Putin in Russia. Photograph: Kristina Solovyova/Reuters “European support for Ukraine is already fragmenting,” argued Rahman, who points out the €90bn loan for Ukraine was agreed by only 24 EU countries (Hungary, Czechia and Slovakia opted out). But a Le Pen victory could tilt the balance, especially if anti-Ukraine parties make gains in Spain, Poland and Italy. “Le Pen is the biggest gamechanger because she will provide cover for many other countries to say: ‘enough is enough, we can’t keep funding,’” Rahman said.\nThat scenario paints “a really dark picture for Ukraine, a really sad picture for Ukraine” he said. “Because it’s not about Ukraine’s performance on the battlefield – Ukraine has done a remarkable job of holding the line. This is the risk Europe has been talking about for a very long time, and has promised Ukraine many times it would not allow to happen: that through strategic patience, Russia gains in the negotiating room what it has not been able to gain on the battlefield. And that is precisely the risk Ukraine is now confronting.”\nTo head off this risk, EU leaders will seek to shore up support for Ukraine by agreeing another funding plan. The head of the European Commission, Ursula von der Leyen, confirmed that Kyiv has a €70bn funding gap in 2027, although she expects Ukraine’s other international partners to help raise the sum.\nJana Kobzová, co-director of the European Security Programme at the European Council on Foreign Relations, said an EU leaders summit in December will be the moment when “we should have a clear idea and mechanism” on providing the €70bn for Ukraine ahead of key elections. “I think the urgency and the consciousness on the side of the European leaders is already there.”\nTo some extent, EU Russia policy is protected, after a recent decision to keep sanctions in place for three years, avoiding the need for divisive rollover decisions every six months.\nBut a Le Pen victory in six months’ time could lead to a bigger problem than financing Ukraine, suggests Kobzová. “If there is a huge shift in Europe as a result of these elections that are going to affect the way the EU itself works, then Ukraine might become collateral damage.”\nAlexander Hurst and Rokhaya Diallo. Composite: Guardian Design At 3pm BST/4pm CEST on Friday 23 October, Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Click here to submit yours now, or join the discussion on Friday.\nTo receive the complete version of This Is Europe in your inbox every Wednesday, please subscribe here .",
+      "published": "2026-10-21T16:24:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 13.3,
       "is_hypothetical": false,
@@ -642,7 +778,7 @@
       "title": "Stock Market Today: Nasdaq Leads Wall Street Rally - STL.News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MYTZQakx0UzdtWTZQQWQxMU1MLXpPcXdIWnpua0RFOGt2Z09XNk1WZzdFNUp6a1RaQ0M4dmthdEhqQnNmUFNUZzVEbGx1SkhmNGJmY0NaaG5pU3J1c2RTbWxwaEtLN21LWHg0TXV5TzFwTS1ucjJqcDRwVQ?oc=5",
       "summary": "NEW YORK, NY – October 21, 2026 ( STL.News ) Stock Market Today – U.S. stocks closed higher Wednesday as stronger corporate earnings and renewed confidence in artificial intelligence investments helped lift Wall Street’s major indexes. Technology shares led the advance, while weakness in telecommunications and streaming companies limited the broader market’s gains.\nU.S. Stock Market Closing Snapsh",
-      "content": "NEW YORK, NY – October 21, 2026 ( STL.News ) Stock Market Today – U.S. stocks closed higher Wednesday as stronger corporate earnings and renewed confidence in artificial intelligence investments helped lift Wall Street’s major indexes. Technology shares led the advance, while weakness in telecommunications and streaming companies limited the broader market’s gains.\nU.S. Stock Market Closing Snapshot — October 21, 2026 SpaceX Reports $4.4 Billion Quarterly Profit Possible SpaceX–Tesla Merger Attracts Attention Super Micro Computer Surges on Strong AI Outlook Semiconductor Stocks Help Lift Technology Sector Biggest Stock Market Winners Wednesday Netflix and Telecommunications Stocks Decline Biggest Stock Market Losers Wednesday Market Breadth Shows Uneven Participation U.S. Stocks Extend Weekly Gains Interest Rates and Energy Prices Remain Risks What Investors Should Watch Next Wall Street Closing Outlook\nThe Nasdaq Composite rose 1.05%, outperforming the Dow Jones Industrial Average and S&P 500. The Dow gained more than 360 points, while the S&P 500 moved closer to its record high established earlier in October.\nInvestors responded positively to SpaceX’s third-quarter results and Super Micro Computer’s improved preliminary business outlook. Both announcements helped ease concerns about the enormous amounts companies are spending on artificial intelligence infrastructure.\nHowever, the market performed unevenly. Netflix, AT&T, and other telecommunications companies fell sharply, showing that investors continued to distinguish between companies with strong growth and those facing uncertainty about future earnings.\nU.S. Stock Market Closing Snapshot — October 21, 2026\nSource: Reuters and The Associated Press, October 21, 2026. Figures represent regular-session closing values.\nThe Nasdaq’s leadership reflected strong demand for shares of companies tied to artificial intelligence, semiconductor manufacturing, and computing infrastructure.\nThe S&P 500’s advance brought the benchmark index within about 0.8% of its previous record, showing continued investor interest in equities despite higher borrowing costs and uncertainty about future corporate profitability.\nThe Russell 2000, which tracks smaller publicly traded companies, gained 0.27%. Its comparatively modest performance suggested that Wednesday’s strongest buying interest remained concentrated in selected larger businesses.\nThe Dow’s advance showed the rally extended beyond the technology-heavy Nasdaq, though the most prominent market catalysts remained tied to artificial intelligence and corporate earnings.\nSpaceX was one of Wednesday’s most influential market stories after reporting stronger-than-expected third-quarter financial results.\nShares of the aerospace, satellite communications and technology company gained approximately 7.8%.\nSpaceX, which began trading publicly in June 2026 under the Nasdaq ticker SPCX, reported third-quarter revenue of $14.6 billion, up 161% from $5.6 billion in the comparable period in 2025.\nAccording to the company’s October 20 earnings release furnished to the Securities and Exchange Commission, SpaceX recorded net income of $4.4 billion, compared with a net loss of $1.1 billion a year earlier.\nOperating income reached $2.8 billion, while adjusted earnings before interest, taxes, depreciation and amortization totaled $8.8 billion.\nThe results marked the company’s first profitable quarter since it became publicly traded.\nSpaceX attributed much of its revenue expansion to its Super Intelligence business and growth in its Connectivity segment.\nThe company reported continued expansion of artificial intelligence computing capacity, including infrastructure supporting cloud services, software applications and advanced computing systems.\nIts Connectivity business also benefited from increased adoption of satellite communications services among enterprise, government and consumer customers.\nThe earnings announcement mattered because investors have grown increasingly concerned that large investments in artificial intelligence will not deliver sufficient financial returns.\nSpaceX’s results provided evidence of substantial revenue growth and improving profitability for a company in capital-intensive technology businesses.\nThe positive market reaction extended to other artificial intelligence-related stocks.\nSpaceX also drew investor interest after CEO Elon Musk commented on the possibility of combining SpaceX and Tesla.\nMusk said that a merger between the companies would be a good idea, generating speculation about potential strategic advantages.\nTesla shares gained approximately 3.4% during Wednesday’s regular trading session.\nBoth companies operate businesses involving advanced technology, computing systems, and substantial infrastructure investments.\nHowever, no definitive merger agreement was announced.\nMusk’s comments should not be interpreted as confirmation that a transaction will occur.\nAny potential combination would require consideration of corporate valuations, shareholder interests, financing arrangements and regulatory requirements.\nFor Wednesday’s market, the discussion fueled investor enthusiasm, though SpaceX’s confirmed financial performance remained the main development.\nSuper Micro Computer was another major winner Wednesday, with shares advancing approximately 9.6%.\nThe San Jose, California-based company manufactures servers and computing infrastructure used in artificial intelligence applications, cloud computing, and data centers.\nOn October 20, Super Micro released a preliminary business update for its first quarter of fiscal 2027, which ended September 30, 2026.\nThe company estimated quarterly revenue of $18.5 billion to $19.5 billion, substantially above its previous forecast of $14.5 billion to $15.5 billion.\nAt the midpoint, the revised revenue estimate was about $4 billion higher.\nSuper Micro also raised its estimated gross margin range to 12%–12.5%, up from 10.4%–10.8%.\nThe company attributed the stronger revenue outlook primarily to increased demand for artificial intelligence platforms.\nManagement said the improved gross margin estimate reflected changes in customer and product mix.\nImportantly, these figures were preliminary, unaudited estimates, not finalized quarterly financial results.\nSuper Micro cautioned that actual results could differ from the estimates as the company completed its financial closing procedures.\nThe company scheduled its fiscal first-quarter earnings conference call for November 3, 2026.\nThe stronger outlook helped restore investor confidence in businesses supplying artificial intelligence computing equipment.\nTechnology companies have committed enormous financial resources to expand data centers, buy advanced processors, and increase computing capacity.\nInvestors have questioned whether the resulting revenue and profitability will justify those expenditures.\nSuper Micro’s announcement provided evidence that demand for AI infrastructure remained strong.\nThe positive reaction spread to other companies that supply computing equipment.\nDell Technologies advanced approximately 5.3%, while Hewlett Packard Enterprise gained about 3.7%.\nThe rebound in artificial intelligence-related shares also benefited semiconductor companies.\nThe Philadelphia Semiconductor Index gained about 2% Wednesday, after a volatile period that included eight consecutive down days earlier in October.\nSemiconductor stocks are closely tied to artificial intelligence development because advanced processors are essential to data centers and machine-learning systems.\nThe sector has experienced significant investor scrutiny as technology companies increase spending on computing infrastructure.\nConcerns include financing costs, electricity requirements, future demand, and the time necessary for businesses to generate returns on their investments.\nWednesday’s developments helped ease some of those concerns.\nThe S&P 500 information technology sector advanced approximately 1.6%, making it the strongest-performing sector among the index’s 11 major groups.\nThe rally suggested investors were becoming more willing to buy technology stocks after encouraging corporate announcements.\nHowever, positive results from individual companies do not guarantee that all artificial intelligence investments will generate attractive returns.\nFuture earnings, capital spending and management forecasts will remain important factors influencing the sector.\nSeveral prominent companies posted notable gains during regular trading.\nSelected notable gainers confirmed in Reuters’ October 21 closing report. Figures are rounded and do not represent a comprehensive ranking of all U.S. stocks.\nSuper Micro’s substantial advance reflected optimism about continued demand for AI servers.\nSpaceX benefited from stronger quarterly earnings and investor interest in its future business strategy.\nDell and Hewlett Packard Enterprise gained as investors considered the implications of Super Micro’s improved outlook for the broader computing equipment industry.\nTesla benefited from investor interest surrounding Musk’s comments about a possible merger with SpaceX.\nTogether, these developments helped lift the Nasdaq and the broader technology sector.\nDespite Wednesday’s broader rally, several prominent companies experienced substantial losses.\nNetflix shares declined approximately 5.3% after the streaming company issued a weaker-than-expected forecast for fourth-quarter profitability.\nThe decline showed how much investors value future earnings expectations.\nA company can report respectable historical financial results and still experience selling pressure if its guidance raises concerns about future performance.\nAT&T shares fell approximately 6.5%, even though the company exceeded third-quarter revenue and profit expectations.\nInvestors focused on rising competition, including the possibility that SpaceX could become a more significant telecommunications competitor.\nSpaceX’s satellite communications operations and recent wireless spectrum purchase contributed to those concerns.\nT-Mobile US fell about 2.5%, while Verizon Communications fell about 2.2%.\nAlphabet, Google’s parent company, declined approximately 1.6%.\nAbbott Laboratories fell about 1.9% after reducing its forecast for 2026 sales growth.\nWeakness in telecommunications and media-related companies weighed on the S&P 500 communication services sector, which fell about 1.3%.\nThat contrasted sharply with the 1.6% advance in information technology.\nThe difference showed how investors distinguished between companies benefiting from stronger growth expectations and those facing competition or concerns about future profitability.\nSelected notable decliners confirmed in Reuters’ October 21 closing report. Figures are rounded.\nThe losses demonstrated that Wednesday’s rally was not uniform.\nWhile artificial intelligence-related companies benefited from encouraging financial developments, businesses facing competitive challenges or disappointing forecasts experienced substantial selling pressure.\nThat divergence may remain a key market characteristic as more companies report quarterly results.\nWednesday’s gains extended beyond a small group of companies, although technology remained the strongest-performing sector.\nOn the New York Stock Exchange, advancing stocks outnumbered declining stocks by approximately 1.37 to 1.\nThe Nasdaq recorded 2,690 advancing stocks and 2,068 declining stocks, representing an advance-to-decline ratio of approximately 1.3 to 1.\nThose figures indicated that more companies gained than lost during the session.\nHowever, other market statistics suggested that weakness persisted in portions of the market.\nThe S&P 500 recorded 26 new 52-week highs and three new lows.\nThe Nasdaq Composite recorded 53 new highs and 216 new lows.\nThe relatively large number of Nasdaq stocks reaching new lows suggested that some companies remained under pressure despite the index’s overall advance.\nAbout 16.11 billion shares changed hands on U.S. exchanges, down from an average of 17.10 billion over the previous 20 trading sessions.\nPositive market breadth and below-average trading volume suggested improving investor sentiment without showing exceptionally strong participation across the market.\nFor investors evaluating the rally’s sustainability, broader participation across industries could become an important indicator.\nThrough the October 21 close, the S&P 500 was up approximately 1.3% for the week.\nThe Dow had gained about 1.6%, while the Nasdaq and Russell 2000 were each up approximately 2.2%.\nYear-to-date performance also remained positive across all four major indexes.\nSource: The Associated Press, October 21, 2026. Figures are rounded.\nThe Nasdaq’s stronger year-to-date performance reflected the continued importance of technology companies in the broader market.\nHowever, positive returns for the Dow and Russell 2000 showed that market gains in 2026 were not limited to large technology businesses.\nThe challenge for Wall Street will be sustaining those advances as uncertainty persists around interest rates, inflation, and corporate investment spending.\nAlthough corporate earnings dominated Wednesday’s trading, broader economic conditions continued to influence investor expectations.\nElevated borrowing costs can affect businesses, consumers and financial markets.\nHigher interest rates increase the cost of financing corporate expansion, home purchases, and other major expenses.\nWhen government bonds offer relatively attractive returns, investors may become less willing to pay premium prices for companies whose expected profits depend heavily on future growth.\nThis relationship matters especially for technology companies making substantial investments in artificial intelligence infrastructure.\nElevated crude oil prices can increase transportation expenses, manufacturing costs, and household gasoline bills.\nBusinesses may experience pressure on profit margins if they cannot pass additional expenses along to customers.\nConsumers may also reduce discretionary spending when fuel and other essential costs increase.\nEnergy prices can influence inflation expectations and the Federal Reserve’s monetary policy decisions.\nAs a result, interest rates and energy markets remain key risks even as major stock indexes approach record territory.\nCorporate earnings will remain a major focus as investors evaluate whether current stock valuations are supported by business performance.\nTesla and Meta Platforms released quarterly results after Wednesday’s regular trading session.\nAccording to Reuters, Meta shares gained about 3% in late trading after the report.\nTesla shares, which had already advanced 3.4% during the regular session, rose another 1.6% in extended trading.\nThose after-hours moves were separate from Wednesday’s official closing prices and could change as investors continued to evaluate the announcements.\nAdditional earnings reports from major technology companies could help determine whether Wednesday’s rebound develops into a sustained recovery.\nThe outlook for artificial intelligence infrastructure spending will remain particularly important.\nCompanies have committed substantial financial resources to expanding computing capacity, and investors will continue looking for evidence that those expenditures can generate attractive financial returns.\nSuper Micro’s scheduled November 3 earnings report will provide an opportunity to compare its preliminary financial estimates with finalized results.\nInvestors will also monitor interest-rate developments, inflation trends, and geopolitical risks.\nFinally, market breadth will remain an important indicator.\nA rally supported by multiple industries and a growing number of companies may be more durable than one dependent primarily on a small group of highly valued technology stocks.\nWednesday’s stock market performance demonstrated the continued importance of corporate earnings in shaping investor confidence.\nSpaceX’s stronger financial results and Super Micro Computer’s improved preliminary outlook helped restore enthusiasm for artificial intelligence-related investments.\nDell, Hewlett Packard Enterprise and other technology companies benefited from renewed buying interest.\nHowever, declines in Netflix and telecommunications companies demonstrated that investors remained selective.\nThe broader economic environment also presented challenges.\nBorrowing costs, energy prices and uncertainty surrounding future corporate investment spending continued to influence financial markets.\nNevertheless, Wall Street’s major indexes finished higher Wednesday, with the Nasdaq leading the advance and the S&P 500 nearing its previous record.\nWednesday’s closing takeaway: Stronger corporate earnings and encouraging artificial intelligence demand lifted U.S. stocks, but uneven performance across industries and broader economic risks remained key considerations.\nWhether the rally continues will depend on upcoming earnings announcements, interest-rate developments, inflation trends, and the direction of the broader economy.\nFinancial Disclaimer: This article is provided for news and informational purposes only. It does not constitute investment advice, a recommendation to buy or sell securities, or a prediction of future market performance. Investors should conduct independent research and consult qualified financial professionals before making investment decisions.\nMartin Smith is the founder and Editor in Chief of STL.News, an independent digital news publication owned and operated by St. Louis Media, LLC. He founded STL.News in 2016 and oversees its editorial direction and digital publishing operations. His coverage includes business, financial markets, securities litigation, government and regulatory developments, legal news, and St. Louis-area businesses and economic activity.\nYour Trusted Source for Accurate and Timely Updates!\nOur commitment to accuracy, impartiality, and delivering breaking news as it happens has earned us the trust of a vast audience. Stay ahead with real-time updates on the latest events, trends.\nHow Astronauts Manage Medical Crises in Space and Efforts by Scientists to Avert Them\nHeadline: Astronauts Tackle Space Emergencies with Innovative Solutions In the unforgiving environment of space, medical&hellip;\nBILOXI, MS - August 13, 2026 (STL.News) Ground Zero Biloxi LLC, operator of the Ground&hellip;",
+      "content": "NEW YORK, NY – October 21, 2026 ( STL.News ) Stock Market Today – U.S. stocks closed higher Wednesday as stronger corporate earnings and renewed confidence in artificial intelligence investments helped lift Wall Street’s major indexes. Technology shares led the advance, while weakness in telecommunications and streaming companies limited the broader market’s gains.\nU.S. Stock Market Closing Snapshot — October 21, 2026 SpaceX Reports $4.4 Billion Quarterly Profit Possible SpaceX–Tesla Merger Attracts Attention Super Micro Computer Surges on Strong AI Outlook Semiconductor Stocks Help Lift Technology Sector Biggest Stock Market Winners Wednesday Netflix and Telecommunications Stocks Decline Biggest Stock Market Losers Wednesday Market Breadth Shows Uneven Participation U.S. Stocks Extend Weekly Gains Interest Rates and Energy Prices Remain Risks What Investors Should Watch Next Wall Street Closing Outlook\nThe Nasdaq Composite rose 1.05%, outperforming the Dow Jones Industrial Average and S&P 500. The Dow gained more than 360 points, while the S&P 500 moved closer to its record high established earlier in October.\nInvestors responded positively to SpaceX’s third-quarter results and Super Micro Computer’s improved preliminary business outlook. Both announcements helped ease concerns about the enormous amounts companies are spending on artificial intelligence infrastructure.\nHowever, the market performed unevenly. Netflix, AT&T, and other telecommunications companies fell sharply, showing that investors continued to distinguish between companies with strong growth and those facing uncertainty about future earnings.\nU.S. Stock Market Closing Snapshot — October 21, 2026\nSource: Reuters and The Associated Press, October 21, 2026. Figures represent regular-session closing values.\nThe Nasdaq’s leadership reflected strong demand for shares of companies tied to artificial intelligence, semiconductor manufacturing, and computing infrastructure.\nThe S&P 500’s advance brought the benchmark index within about 0.8% of its previous record, showing continued investor interest in equities despite higher borrowing costs and uncertainty about future corporate profitability.\nThe Russell 2000, which tracks smaller publicly traded companies, gained 0.27%. Its comparatively modest performance suggested that Wednesday’s strongest buying interest remained concentrated in selected larger businesses.\nThe Dow’s advance showed the rally extended beyond the technology-heavy Nasdaq, though the most prominent market catalysts remained tied to artificial intelligence and corporate earnings.\nSpaceX was one of Wednesday’s most influential market stories after reporting stronger-than-expected third-quarter financial results.\nShares of the aerospace, satellite communications and technology company gained approximately 7.8%.\nSpaceX, which began trading publicly in June 2026 under the Nasdaq ticker SPCX, reported third-quarter revenue of $14.6 billion, up 161% from $5.6 billion in the comparable period in 2025.\nAccording to the company’s October 20 earnings release furnished to the Securities and Exchange Commission, SpaceX recorded net income of $4.4 billion, compared with a net loss of $1.1 billion a year earlier.\nOperating income reached $2.8 billion, while adjusted earnings before interest, taxes, depreciation and amortization totaled $8.8 billion.\nThe results marked the company’s first profitable quarter since it became publicly traded.\nSpaceX attributed much of its revenue expansion to its Super Intelligence business and growth in its Connectivity segment.\nThe company reported continued expansion of artificial intelligence computing capacity, including infrastructure supporting cloud services, software applications and advanced computing systems.\nIts Connectivity business also benefited from increased adoption of satellite communications services among enterprise, government and consumer customers.\nThe earnings announcement mattered because investors have grown increasingly concerned that large investments in artificial intelligence will not deliver sufficient financial returns.\nSpaceX’s results provided evidence of substantial revenue growth and improving profitability for a company in capital-intensive technology businesses.\nThe positive market reaction extended to other artificial intelligence-related stocks.\nSpaceX also drew investor interest after CEO Elon Musk commented on the possibility of combining SpaceX and Tesla.\nMusk said that a merger between the companies would be a good idea, generating speculation about potential strategic advantages.\nTesla shares gained approximately 3.4% during Wednesday’s regular trading session.\nBoth companies operate businesses involving advanced technology, computing systems, and substantial infrastructure investments.\nHowever, no definitive merger agreement was announced.\nMusk’s comments should not be interpreted as confirmation that a transaction will occur.\nAny potential combination would require consideration of corporate valuations, shareholder interests, financing arrangements and regulatory requirements.\nFor Wednesday’s market, the discussion fueled investor enthusiasm, though SpaceX’s confirmed financial performance remained the main development.\nSuper Micro Computer was another major winner Wednesday, with shares advancing approximately 9.6%.\nThe San Jose, California-based company manufactures servers and computing infrastructure used in artificial intelligence applications, cloud computing, and data centers.\nOn October 20, Super Micro released a preliminary business update for its first quarter of fiscal 2027, which ended September 30, 2026.\nThe company estimated quarterly revenue of $18.5 billion to $19.5 billion, substantially above its previous forecast of $14.5 billion to $15.5 billion.\nAt the midpoint, the revised revenue estimate was about $4 billion higher.\nSuper Micro also raised its estimated gross margin range to 12%–12.5%, up from 10.4%–10.8%.\nThe company attributed the stronger revenue outlook primarily to increased demand for artificial intelligence platforms.\nManagement said the improved gross margin estimate reflected changes in customer and product mix.\nImportantly, these figures were preliminary, unaudited estimates, not finalized quarterly financial results.\nSuper Micro cautioned that actual results could differ from the estimates as the company completed its financial closing procedures.\nThe company scheduled its fiscal first-quarter earnings conference call for November 3, 2026.\nThe stronger outlook helped restore investor confidence in businesses supplying artificial intelligence computing equipment.\nTechnology companies have committed enormous financial resources to expand data centers, buy advanced processors, and increase computing capacity.\nInvestors have questioned whether the resulting revenue and profitability will justify those expenditures.\nSuper Micro’s announcement provided evidence that demand for AI infrastructure remained strong.\nThe positive reaction spread to other companies that supply computing equipment.\nDell Technologies advanced approximately 5.3%, while Hewlett Packard Enterprise gained about 3.7%.\nThe rebound in artificial intelligence-related shares also benefited semiconductor companies.\nThe Philadelphia Semiconductor Index gained about 2% Wednesday, after a volatile period that included eight consecutive down days earlier in October.\nSemiconductor stocks are closely tied to artificial intelligence development because advanced processors are essential to data centers and machine-learning systems.\nThe sector has experienced significant investor scrutiny as technology companies increase spending on computing infrastructure.\nConcerns include financing costs, electricity requirements, future demand, and the time necessary for businesses to generate returns on their investments.\nWednesday’s developments helped ease some of those concerns.\nThe S&P 500 information technology sector advanced approximately 1.6%, making it the strongest-performing sector among the index’s 11 major groups.\nThe rally suggested investors were becoming more willing to buy technology stocks after encouraging corporate announcements.\nHowever, positive results from individual companies do not guarantee that all artificial intelligence investments will generate attractive returns.\nFuture earnings, capital spending and management forecasts will remain important factors influencing the sector.\nSeveral prominent companies posted notable gains during regular trading.\nSelected notable gainers confirmed in Reuters’ October 21 closing report. Figures are rounded and do not represent a comprehensive ranking of all U.S. stocks.\nSuper Micro’s substantial advance reflected optimism about continued demand for AI servers.\nSpaceX benefited from stronger quarterly earnings and investor interest in its future business strategy.\nDell and Hewlett Packard Enterprise gained as investors considered the implications of Super Micro’s improved outlook for the broader computing equipment industry.\nTesla benefited from investor interest surrounding Musk’s comments about a possible merger with SpaceX.\nTogether, these developments helped lift the Nasdaq and the broader technology sector.\nDespite Wednesday’s broader rally, several prominent companies experienced substantial losses.\nNetflix shares declined approximately 5.3% after the streaming company issued a weaker-than-expected forecast for fourth-quarter profitability.\nThe decline showed how much investors value future earnings expectations.\nA company can report respectable historical financial results and still experience selling pressure if its guidance raises concerns about future performance.\nAT&T shares fell approximately 6.5%, even though the company exceeded third-quarter revenue and profit expectations.\nInvestors focused on rising competition, including the possibility that SpaceX could become a more significant telecommunications competitor.\nSpaceX’s satellite communications operations and recent wireless spectrum purchase contributed to those concerns.\nT-Mobile US fell about 2.5%, while Verizon Communications fell about 2.2%.\nAlphabet, Google’s parent company, declined approximately 1.6%.\nAbbott Laboratories fell about 1.9% after reducing its forecast for 2026 sales growth.\nWeakness in telecommunications and media-related companies weighed on the S&P 500 communication services sector, which fell about 1.3%.\nThat contrasted sharply with the 1.6% advance in information technology.\nThe difference showed how investors distinguished between companies benefiting from stronger growth expectations and those facing competition or concerns about future profitability.\nSelected notable decliners confirmed in Reuters’ October 21 closing report. Figures are rounded.\nThe losses demonstrated that Wednesday’s rally was not uniform.\nWhile artificial intelligence-related companies benefited from encouraging financial developments, businesses facing competitive challenges or disappointing forecasts experienced substantial selling pressure.\nThat divergence may remain a key market characteristic as more companies report quarterly results.\nWednesday’s gains extended beyond a small group of companies, although technology remained the strongest-performing sector.\nOn the New York Stock Exchange, advancing stocks outnumbered declining stocks by approximately 1.37 to 1.\nThe Nasdaq recorded 2,690 advancing stocks and 2,068 declining stocks, representing an advance-to-decline ratio of approximately 1.3 to 1.\nThose figures indicated that more companies gained than lost during the session.\nHowever, other market statistics suggested that weakness persisted in portions of the market.\nThe S&P 500 recorded 26 new 52-week highs and three new lows.\nThe Nasdaq Composite recorded 53 new highs and 216 new lows.\nThe relatively large number of Nasdaq stocks reaching new lows suggested that some companies remained under pressure despite the index’s overall advance.\nAbout 16.11 billion shares changed hands on U.S. exchanges, down from an average of 17.10 billion over the previous 20 trading sessions.\nPositive market breadth and below-average trading volume suggested improving investor sentiment without showing exceptionally strong participation across the market.\nFor investors evaluating the rally’s sustainability, broader participation across industries could become an important indicator.\nThrough the October 21 close, the S&P 500 was up approximately 1.3% for the week.\nThe Dow had gained about 1.6%, while the Nasdaq and Russell 2000 were each up approximately 2.2%.\nYear-to-date performance also remained positive across all four major indexes.\nSource: The Associated Press, October 21, 2026. Figures are rounded.\nThe Nasdaq’s stronger year-to-date performance reflected the continued importance of technology companies in the broader market.\nHowever, positive returns for the Dow and Russell 2000 showed that market gains in 2026 were not limited to large technology businesses.\nThe challenge for Wall Street will be sustaining those advances as uncertainty persists around interest rates, inflation, and corporate investment spending.\nAlthough corporate earnings dominated Wednesday’s trading, broader economic conditions continued to influence investor expectations.\nElevated borrowing costs can affect businesses, consumers and financial markets.\nHigher interest rates increase the cost of financing corporate expansion, home purchases, and other major expenses.\nWhen government bonds offer relatively attractive returns, investors may become less willing to pay premium prices for companies whose expected profits depend heavily on future growth.\nThis relationship matters especially for technology companies making substantial investments in artificial intelligence infrastructure.\nElevated crude oil prices can increase transportation expenses, manufacturing costs, and household gasoline bills.\nBusinesses may experience pressure on profit margins if they cannot pass additional expenses along to customers.\nConsumers may also reduce discretionary spending when fuel and other essential costs increase.\nEnergy prices can influence inflation expectations and the Federal Reserve’s monetary policy decisions.\nAs a result, interest rates and energy markets remain key risks even as major stock indexes approach record territory.\nCorporate earnings will remain a major focus as investors evaluate whether current stock valuations are supported by business performance.\nTesla and Meta Platforms released quarterly results after Wednesday’s regular trading session.\nAccording to Reuters, Meta shares gained about 3% in late trading after the report.\nTesla shares, which had already advanced 3.4% during the regular session, rose another 1.6% in extended trading.\nThose after-hours moves were separate from Wednesday’s official closing prices and could change as investors continued to evaluate the announcements.\nAdditional earnings reports from major technology companies could help determine whether Wednesday’s rebound develops into a sustained recovery.\nThe outlook for artificial intelligence infrastructure spending will remain particularly important.\nCompanies have committed substantial financial resources to expanding computing capacity, and investors will continue looking for evidence that those expenditures can generate attractive financial returns.\nSuper Micro’s scheduled November 3 earnings report will provide an opportunity to compare its preliminary financial estimates with finalized results.\nInvestors will also monitor interest-rate developments, inflation trends, and geopolitical risks.\nFinally, market breadth will remain an important indicator.\nA rally supported by multiple industries and a growing number of companies may be more durable than one dependent primarily on a small group of highly valued technology stocks.\nWednesday’s stock market performance demonstrated the continued importance of corporate earnings in shaping investor confidence.\nSpaceX’s stronger financial results and Super Micro Computer’s improved preliminary outlook helped restore enthusiasm for artificial intelligence-related investments.\nDell, Hewlett Packard Enterprise and other technology companies benefited from renewed buying interest.\nHowever, declines in Netflix and telecommunications companies demonstrated that investors remained selective.\nThe broader economic environment also presented challenges.\nBorrowing costs, energy prices and uncertainty surrounding future corporate investment spending continued to influence financial markets.\nNevertheless, Wall Street’s major indexes finished higher Wednesday, with the Nasdaq leading the advance and the S&P 500 nearing its previous record.\nWednesday’s closing takeaway: Stronger corporate earnings and encouraging artificial intelligence demand lifted U.S. stocks, but uneven performance across industries and broader economic risks remained key considerations.\nWhether the rally continues will depend on upcoming earnings announcements, interest-rate developments, inflation trends, and the direction of the broader economy.\nFinancial Disclaimer: This article is provided for news and informational purposes only. It does not constitute investment advice, a recommendation to buy or sell securities, or a prediction of future market performance. Investors should conduct independent research and consult qualified financial professionals before making investment decisions.\nMartin Smith is the founder and Editor in Chief of STL.News, an independent digital news publication owned and operated by St. Louis Media, LLC. He founded STL.News in 2016 and oversees its editorial direction and digital publishing operations. His coverage includes business, financial markets, securities litigation, government and regulatory developments, legal news, and St. Louis-area businesses and economic activity.\nYour Trusted Source for Accurate and Timely Updates!\nOur commitment to accuracy, impartiality, and delivering breaking news as it happens has earned us the trust of a vast audience. Stay ahead with real-time updates on the latest events, trends.\nThe Hypocrisy of Failed Leadership: When Mayors and Governors Demand Federal Bailouts for Their Own&hellip;\nSt Ann Residents Ready to Take Action After Sewer Backup\nResidents of St. Ann, Missouri, were Impacted After a Water Main Break Flooded the Sewer&hellip;",
       "published": "2026-10-21T23:31:17+00:00",
       "source": "GN Markets",
       "sources": [
@@ -769,12 +905,12 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
       "summary": "Russia frees American Stephen Hubbard after over 4 years behind bars&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-21T22:15:00+00:00",
+      "published": "2026-10-22T00:52:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "GN Geopolitics",
-        "NPR World"
+        "NPR World",
+        "Al Jazeera"
       ],
       "source_count": 3,
       "category": "geopolitics",
@@ -809,6 +945,28 @@
       "assets": []
     },
     {
+      "title": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWcyb3BTdkhoSy1xYy1hU0xpUllHU2ZBbWMyUTYyYkJQUi0xQ0wyN1hJVFZSckxqRFYwOW1RQk1VSUgtMkdJbjJJaFNQaTR0VDJ6TlktcEJvVFJWUFlTMUNrenZaTkJqNzQ2TnBTQzc5cEdzVmVvaWVaQU5mMXlTX0FvQms3NzIzaVNhN3ZmaFNvc1dBaWc?oc=5",
+      "summary": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-22T00:55:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "BBC World",
+        "Guardian World"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
@@ -826,28 +984,6 @@
       "score": 13.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
-      "content": "Huge crowds watch attempt to rescue shark stranded in South Korean canal\nHuge crowds watch attempt to rescue shark stranded in South Korean canal Close\nHuge crowds have flocked to a canal in South Korea to watch a stranded shark.\nThe 9ft 10in (3m) shark, nicknamed Bukangi, was first spotted in the waterway last month in the south-eastern city of Busan.\nEarly on Thursday morning local time, South Korea&#x27;s oceans ministry said the shark had been successfully guided out of the canal.\nIt is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.\nThe BBC&#x27;s Seoul correspondent Jake Kwon goes to Busan to follow the latest attempt to rescue Bukangi, who has since been successfully guided out of the canal.\nUpdates from your News topics will appear in My News and in a collection on the News homepage .\nUpdates from your News topics will appear in My News and in a collection on the News homepage .\nUpdates from your News topics will appear in My News and in a collection on the News homepage .\nUpdates from your News topics will appear in My News and in a collection on the News homepage .",
-      "published": "2026-10-21T20:31:47+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "GN Geopolitics",
-        "Guardian World"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -877,31 +1013,11 @@
       ]
     },
     {
-      "title": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’ - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
-      "summary": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’&nbsp;&nbsp;Politico",
+      "title": "‘Tipping point’: Fresh strikes may end war in Iran, former commander says - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTW5vS3BlZ3dKSHRNRm5DdDZFcEVnR25HTlJZWWo5QkxQbXVuSGN4akZEUVNGeWg0cmYxYmNzbjV4MlQ4ZTIzYTNKLWdIVVIyOVlGMFY5QldkcFd4b3lxYzZnakQ3NTNlZ01COGg0V1pyeHlVNUNidktqQktfMkJhdFJXT0FRc0tDcTZENWNCVjMwRThCSGQxYUlPTURXU2dGd2d0Qk1vN1hSWlhh0gGyAUFVX3lxTE9GRnd5RDNEN09rWlNRcDVwUW5FaVpUSlljbkhrTmZkM3VtaGVjUXYzVm8zTTBkWFRac0FZMW82RXZ0NzZRQlF4dWZSc0wxeGZUdkZoZlZIR3Zwb3RvTlFGRjhINkUzdlZic2xGcEtCUEpGZ1hOYTJmWlZ4UGFtNDhUTUFrREkyMkRCc3NqRmxjbFpSbjl5Z0VHQUhpcmRDXzdXZDdGRFprMEpSTjc4YWotaGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTW5vS3BlZ3dKSHRNRm5DdDZFcEVnR25HTlJZWWo5QkxQbXVuSGN4akZEUVNGeWg0cmYxYmNzbjV4MlQ4ZTIzYTNKLWdIVVIyOVlGMFY5QldkcFd4b3lxYzZnakQ3NTNlZ01COGg0V1pyeHlVNUNidktqQktfMkJhdFJXT0FRc0tDcTZENWNCVjMwRThCSGQxYUlPTURXU2dGd2d0Qk1vN1hSWlhh0gGyAUFVX3lxTE9GRnd5RDNEN09rWlNRcDVwUW5FaVpUSlljbkhrTmZkM3VtaGVjUXYzVm8zTTBkWFRac0FZMW82RXZ0NzZRQlF4dWZSc0wxeGZUdkZoZlZIR3Zwb3RvTlFGRjhINkUzdlZic2xGcEtCUEpGZ1hOYTJmWlZ4UGFtNDhUTUFrREkyMkRCc3NqRmxjbFpSbjl5Z0VHQUhpcmRDXz",
       "content": "",
-      "published": "2026-10-21T23:33:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Iran is trying to ‘create a rot from within’ through ‘information warfare,’ analyst warns - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzJlbFdpSHFVdDlEdEJOemQ3Y3EwMDJrdlFMeUplN01kTjQyRmEyWjlkdmo3WmVOUFYxMkJQV3BrcWI0cmZFTmtOWWR1ZmxVYzdyRHJReXFpUFQyb3ZERnlSU0IzcG84emN4N3ViYkVhdUQ3dlg5bEk2WHNRdVd4TTgyTmpQZEIyN2pKa1FmUzFHeHd1T2tEa1VRTGHSAaIBQVVfeXFMUEhEcXVKZENjcHBJUFpGdTduYWZUZENFZ3ZmdHdXYl9RSG10TFRkTWNHM0ZwVlByeFh1TnE4OGtZMHVXSXBGeFR5clpSX2ExRW4tMS1Qb29BNzJDbFMzZ09PNFdCWlVKeVhYZXNyREZIVm8wLXFja2VDWmhSS3gteVFXZktiRHAxaG1yR1Vkb053bDdRVG5hclFfVnlZaHZFVjhB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzJlbFdpSHFVdDlEdEJOemQ3Y3EwMDJrdlFMeUplN01kTjQyRmEyWjlkdmo3WmVOUFYxMkJQV3BrcWI0cmZFTmtOWWR1ZmxVYzdyRHJReXFpUFQyb3ZERnlSU0IzcG84emN4N3ViYkVhdUQ3dlg5bEk2WHNRdVd4TTgyTmpQZEIyN2pKa1FmUzFHeHd1T2tEa1VRTGHSAaIBQVVfeXFMUEhEcXVKZENjcHBJUFpGdTduYWZUZENFZ3ZmdHdXYl9RSG10TFRkTWNHM0ZwVlByeFh1TnE4OGtZMHVXSXBGeFR5clpSX2ExRW4tMS1Qb29BNzJDbFMzZ09PNFdCWlVKeVhYZXNyREZIVm8wLXFja2VDWmhSS3gteVFXZktiRHAxaG1yR1Vkb053bDdRVG5hclFfVnlZaHZFVjhB?oc=5\" target=\"_bl",
-      "content": "Yuval David: Iran resorts to 'information warfare,' because it cannot win 'kinetic war' against US, Israel\nUS-Israel strategic communications advisor Yuval David says Iran resorting to information warfare because it knows it cannot win 'kinetic war' with a strong U.S.-Israel alliance.\nIran , recognizing surefire defeat in a kinetic war, is leaning in on an information warfare campaign to undermine the United States and Israel from within, according to Yuval David, a strategic U.S.-Israel geopolitical communications advisor.\n\"You cannot beat Israel or the United States in a physical kinetic war,\" David told Fox News Digital from Budapest, where he joined Israeli President Isaac Herzog for high-level diplomatic talks Wednesday, adding the warning of an \"information warfare system.\"\n\"And that’s what’s going on with social media, with our devices and the people who are on TikTok and Instagram and Facebook and X and YouTube and all of the different social media platforms where the Islamic Republic of Iran is able to affect people’s minds.\"\nIRAN TARGETS US WITH PSYCHOLOGICAL WARFARE CAMPAIGN TO MANIPULATE AMERICANS, EMBARRASS TRUMP: EXPERTS\nPresident Donald Trump has had his disagreements with Israeli Prime Minister Benjamin Netanyahu, but appeasement of Iran is not one of them. (REUTERS/Kevin Mohatt)\n\"One of the things that it does is it tries to create a rot from within the societies and, sadly, it’s very much succeeding in doing so,\" he added, stating that Iran's campaign has enjoyed \"guidance from Russia and China.\"\nDavid’s warning comes as Israel prepares for an election next week that analysts say could change its leadership but is unlikely to produce a fundamental shift in the country’s Iran policy.\nNETANYAHU PRAISES TRUMP'S 'WICKED SENSE OF HUMOR,' DEFENDS IRONCLAD ALLIANCE AHEAD OF HISTORIC ISRAEL VOTE\nA Reuters analysis published Wednesday found that Iran will likely remain Israel’s chief adversary, with military force continuing to serve as the country’s preferred tool against its enemies. The report said Israel’s security doctrine is centered on confronting Iran, maintaining buffer zones beyond its borders and keeping military pressure on to deter threats.\nA victory for Prime Minister Benjamin Netanyahu , backed by conservative coalition partners, could deepen Israel’s confrontation with Tehran, not bring about appeasement. Even an opposition-led government would likely share the same broad strategic outlook, David said.\nTRUMP IS DISMANTLING IRAN’S WAR MACHINE, BUT AMERICA STILL NEEDS AN ENDGAME\n\"The Islamic Republic of Iran is a massive concern for the world,\" David said. \"Tehran does not fear another diplomatic statement. It fears an America and an Israel with the intelligence, military capabilities and political will to act together.\"\nDavid said the U.S.-Israel alliance should not be judged by whether American leaders support the same Israeli candidate.\nTRUMP SAYS NETANYAHU NEEDS TO BE RE-ELECTED, OR ELSE US WILL HAVE TO 'FINISH THE JOB’ AGAINST IRAN ALONE\n\"Presidents come and go, prime ministers come and go. America’s and Israel’s enemies do not take election years off,\" he said. \"America doesn’t need to choose Israel’s prime minister, nor will it, nor can it, nor is it even trying to. America just needs a strong Israeli partner, whoever the Israelis elect.\"\nReuters has cited regional analysts who said Netanyahu’s re-election could allow him to pursue a more aggressive campaign against Iran, while Arab states remain wary of his policies but want Tehran’s influence contained.\nDavid said Iran’s hostility toward the United States and Israel extends beyond the current conflict.\nIRAN’S PROXY WAR HAS CROSSED OCEANS AND IS NOW KNOCKING ON AMERICA’S DOOR\n\"The Islamic Republic of Iran has been waging this ideological war against America and also against Israel and also against democracies around the world since 1979,\" he said. \"The regime never stopped a war.\n\"Americans thought we have had a war, and then we didn't have a war. Then we had one. Then we didn't. Well, the Islamic Republic of Iran never ended that war. They've seen this as an ongoing war since 1979.\"\nFROM INTELLIGENCE SHARING TO MISSILE DEFENSE, HOW ISRAEL'S PARTNERSHIP PROTECTS AMERICAN SECURITY\nHe also framed U.S. support for Israel as a matter of serving American national security interests.\n\"America does not support Israel because Israel is helpless. America partners with Israel because Israel is capable,\" David said. \"Supporting Israel’s security isn’t charity. It’s American strategic self-interest.\"\nPresident Donald Trump’s endorsement of Netanyahu, contrasted with Vice President JD Vance’s decision to stay out of the race, reflects differing political approaches rather than a split over Iran or the U.S.-Israel alliance, according to David.\nVP JD VANCE ADDRESSES US-ISRAEL RELATIONSHIP, WHETHER IRAN IS TRYING TO 'PLAY' THE UNITED STATES\n\"President Trump is endorsing Prime Minister Netanyahu – Vice President Vance is emphasizing American priorities, but supporting Israel’s security doesn’t require endorsing a particular Israeli politician,\" he concluded.\n\"Trump is speaking to Israeli voters because that’s what Trump is able to do – Vance is speaking to American voters,\" David said. \"Far too many Americans don’t realize both Trump and Vance know that Tehran is listening.\"\nEric Mack is a breaking news reporter and writer Sunday through Thursday, 6 a.m. ET to 2 p.m. ET, with a particular interest in stories that lead the news cycle on politics, elections, foreign affairs and government.",
-      "published": "2026-10-21T17:39:43+00:00",
+      "published": "2026-10-22T01:40:30+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -944,7 +1060,7 @@
       "title": "Consumers Energy plans to seek another rate hike, days after natural gas increase - WWMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnpiVmNUWkRFRDdRZVE5T0F5dEt6U2wxeE5iWjZsSXFqT2FmT1AyY1NOOWNkc011OGZobklON18ybDhyQlJ1V0V0V3otUzRBTGs0LUhtMXRrcER5cllTOGx1Q0p2QjNEVjRBOFpTUF9pSFJyNVd0d2VXR2lCSUtONkRBWlFzeE5RNkYxejJBdHNQcnlMX3dCd0d2TlN0eGtJWDN1R2dQYnZKX2Ry?oc=5",
       "summary": "Consumers Energy plans to seek another rate hike, days after natural gas increase&nbsp;&nbsp;WWMT",
-      "content": "Consumers Energy plans to seek another rate hike, days after natural gas increase\nFILE: A Consumers Energy truck and worker at Solar Gardens construction at Western Michigan University in Kalamazoo, Mich., in April 2016. (Consumers Energy/WWMT)\nLANSING, Mich.— Consumers Energy is announcing their intention to file another rate hike.\nThis comes five days after the Michigan Public Service Commission approved a $139 million natural gas rate hike for the energy giant.\nThe MPSC authorized Consumers Energy to raise its natural gas rates by 4.3% for a typical residential customer on October 15th, allowing the monopoly utility to raise an additional $139.2 million per year from its bill-paying customers, according to Michigan Attorney General Dana Nessel.\nIt is not known at this time what the next rate hike request will be. However, they have announced that the rate hike will be likely filed this December.\nRELATED NEWS: Flint non-profit accepting applications for savings program\nAttorney General Dana Nessel announced Tuesday that her office will file to intervene in the case.\n“Consumers Energy was approved for a new natural gas rate hike just last week, and before a single new dollar could be spent, they’ve announced their next rate hike,” said Attorney General Nessel. “Major utilities like Consumers Energy and DTE employ entire teams of staff to craft rate hike applications to file one right after another, and their bill paying customers pay all the costs to craft these massive proposals. In the past, we have asked the MPSC to require both companies to track their costs associated with rate hike cases and, as long as their customers are paying for the process, I hope someday soon we’ll know just how much.”\nConsumers Energy sells electricity to approximately 1.9 million customers throughout Michigan and natural gas to 1.8 million customers across the state.\n&#x27;They were inseparable&#x27;: Mattawan teens identified by family as victims of fatal crash\nThe family of two teenagers involved in an early Sunday morning crash in Texas Township have identified the teens.\nMattawan high schooler critically hurt in crash released from hospital\nOne of five teenage girls involved in Sunday&#x27;s deadly Texas Township crash was released from the hospital Tuesday.\nMattawan student hurt in deadly crash may be released soon from hospital, parents say\nThe family of one of three teenagers hospitalized following a deadly crash in Texas Township Sunday said they are hoping their daughter will be released soon.\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nA proposal aimed at increasing public input on thousands of planned roadside tree removals is raising questions about how far Kalamazoo County should go.\nRetired KDPS Exec. Lt. says years of lenient bond rulings puts community&#x27;s safety at risk\nEvery week, dozens of defendants in kalamazoo county are arraigned on serious felony charges.but some are allowed back on the streets the next day - as they awa\nReport details when a student brought a loaded gun into Kalamazoo Central High School\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nKPS, township police and CEIA OpenGate pressed for answers after gun brought to school\nSurvivor urges testing after getting stage 3 diagnosis months after clear mammogram",
+      "content": "Consumers Energy plans to seek another rate hike, days after natural gas increase\nFILE: A Consumers Energy truck and worker at Solar Gardens construction at Western Michigan University in Kalamazoo, Mich., in April 2016. (Consumers Energy/WWMT)\nLANSING, Mich.— Consumers Energy is announcing their intention to file another rate hike.\nThis comes five days after the Michigan Public Service Commission approved a $139 million natural gas rate hike for the energy giant.\nThe MPSC authorized Consumers Energy to raise its natural gas rates by 4.3% for a typical residential customer on October 15th, allowing the monopoly utility to raise an additional $139.2 million per year from its bill-paying customers, according to Michigan Attorney General Dana Nessel.\nIt is not known at this time what the next rate hike request will be. However, they have announced that the rate hike will be likely filed this December.\nRELATED NEWS: Flint non-profit accepting applications for savings program\nAttorney General Dana Nessel announced Tuesday that her office will file to intervene in the case.\n“Consumers Energy was approved for a new natural gas rate hike just last week, and before a single new dollar could be spent, they’ve announced their next rate hike,” said Attorney General Nessel. “Major utilities like Consumers Energy and DTE employ entire teams of staff to craft rate hike applications to file one right after another, and their bill paying customers pay all the costs to craft these massive proposals. In the past, we have asked the MPSC to require both companies to track their costs associated with rate hike cases and, as long as their customers are paying for the process, I hope someday soon we’ll know just how much.”\nConsumers Energy sells electricity to approximately 1.9 million customers throughout Michigan and natural gas to 1.8 million customers across the state.\nMattawan student hurt in deadly crash released from hospital, parents say\nThe family of one of three teenagers hospitalized following a deadly crash in Texas Township Sunday said they are hoping their daughter will be released soon.\nMattawan high schooler critically hurt in crash released from hospital\nOne of five teenage girls involved in Sunday&#x27;s deadly Texas Township crash was released from the hospital Tuesday.\n&#x27;They were inseparable&#x27;: Mattawan teens identified by family as victims of fatal crash\nThe family of two teenagers involved in an early Sunday morning crash in Texas Township have identified the teens.\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nA proposal aimed at increasing public input on thousands of planned roadside tree removals is raising questions about how far Kalamazoo County should go.\nGrand Rapids man gets 20 years in federal prison for intent to distribute cocaine\nA Grand Rapids man was sentenced to 20 years in federal prison for drug trafficking charges.\nNEW Mendon cheer alumni turn annual fundraiser into support for Mattawan crash victims&#x27; family\nReport details when a student brought a loaded gun into Kalamazoo Central High School\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nKPS, township police and CEIA OpenGate pressed for answers after gun brought to school",
       "published": "2026-10-21T16:26:30+00:00",
       "source": "GN Energy",
       "sources": [
@@ -965,24 +1081,28 @@
       ]
     },
     {
-      "title": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjhvWEdwZUdTd0ltY1FCUFc1eW5TdFhlMHBDei11dFZXTTFpWjdYdVJLbDR5dXpDcjVmX0NVWG94RDExS3FsOW1Cd3ZBMDJZVWhaYlBQNUFuRTA5N2dqb2xHbVZ0alZzMlFFbl9zODktakM5ekc2LVRpQ2xGNU91RUJ3RG42Q1hlcFhrNG11MEV0OVNyLXlyNU1mRQ?oc=5",
-      "summary": "Justice Kagan warns Supreme Court rulings are fueling polarization and undermining democracy&nbsp;&nbsp;AP News",
+      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa0NkenN2WUo2NHU0WXRYU0dmdldBVmhIVmphdk9HZFpMckZOZ2paMVFiQ3BaMHFCZ0lydjdyVHVWWUFwNUwzblVZVWVacU8tRXBCVXI0V1pibHdaT1BtelN4Qks5eVA0VDJkOGdWS1BpNWhZZVdtRXgtMmJ2bXFkYkZUMlRSNjF0WTBVZEZKdkVkakgtd0R2SnZHUk9MSHNJYXppMUpWNXhDMXFJQjg1QTBoemZBUG9GWVNwRlZyZW9xYlE?oc=5",
+      "summary": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade&nbsp;&nbsp;WSJ",
       "content": "",
-      "published": "2026-10-21T01:48:00+00:00",
-      "source": "AP World",
+      "published": "2026-10-22T01:00:00+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "AP World"
+        "GN Geopolitics"
       ],
       "source_count": 1,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 12.7,
+      "score": 12.6,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
     },
     {
       "title": "Dow Jones Energy Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says - https://www.dowjones.com/",
@@ -1072,18 +1192,18 @@
       ]
     },
     {
-      "title": "Trump to rally for Graham in tight South Carolina Senate race amid Russia rift - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHk5a3JmU3lLWWtaN3RQRDVPRUdfWVA5czZfWk5WQlBNcnFmdndzTnZQV2RZRFBrOGdXU3ByMHMtS0EtQXNSaDc1OXZ6UTl2UDZrYk8wcFlPc1FaYlFFUVVTVUd6RG5uaDZhYk55elN4TGRXNFFGeklyUzJkXzQtUzBBTzJUS0YxNGJhdF9HOE9zRzVJc1VTcE5HUEg1OVpMYS1UTGVYLWhvSXlEMU1yZW1HMA?oc=5",
-      "summary": "Trump to rally for Graham in tight South Carolina Senate race amid Russia rift&nbsp;&nbsp;Reuters",
+      "title": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWNFNGhkNmNLdmNHYjRIcXJFV0ZjYWFYVHJyMnpvd01tUk10Z3RyZmgtbU44S1JjTHJMRmtSUG9jQ2VNVWRzeDU5S3B0ZURmSnpobkN0b1hPRmhNYjdsRS1mYVZyTE9GUFVpbTFHX0d6TDdMQlJSTkgzeHZ3M2R3djBldW84OWF2OHJUZDMtbUhQRUxKVXFWOUZKbnV4M2dPSElXVmwxd1hxamNEMXhIYVJMVkl1WXZxanUxZXpuMUxzRlVjRFE?oc=5",
+      "summary": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T10:17:43+00:00",
+      "published": "2026-10-21T22:43:37+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
       ],
       "source_count": 1,
-      "category": "us",
-      "category_zh": "美国",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 12.4,
       "is_hypothetical": false,
@@ -1092,27 +1212,25 @@
       "assets": []
     },
     {
-      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
-      "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-      "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
-      "content": "OpenAI&#x27;s most powerful AI models disabled their own safety monitoring\nOpenAI has disclosed two internal coding incidents in which agents weakened the company’s misalignment monitoring safeguards.\nWarnings about the risks of developing increasingly advanced AI systems have ramped up in recent months.\nOpenAI has revealed that agents operated by two of its most powerful models disabled their own safety monitoring when carrying out routine tasks, with one subsequently denying it had done so.\nAn agent powered by GPT Sol 6.1 disabled automatic alerts to OpenAI&#x27;s security team, the company said in a blog post late on Tuesday. In a separate task, a GPT-6 Astra agent migrating a program removed its monitoring integration and then falsely claimed it hadn&#x27;t. The incidents happened during internal coding tasks.\n\"In both cases, the agents considered whether monitoring safeguards should be preserved, but interpreted routine coding instructions as permission to weaken them,\" OpenAI said in a blog post.\nWarnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue models and growing calls for a slowdown from researchers building the tech.\nThe latest incidents reported by OpenAI highlight how agents can autonomously weaken safety guardrails while carrying out seemingly innocuous tasks.\nOpenAI did not classify either incident under its most significant category, and the company said it was updating its misalignment monitoring system in response.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-21T07:49:48+00:00",
-      "source": "CNBC Top",
+      "title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm?oc=5",
+      "summary": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-21T22:21:44+00:00",
+      "source": "Reuters World",
       "sources": [
-        "CNBC Top"
+        "Reuters World",
+        "Al Jazeera"
       ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 12.4,
       "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Supreme Court won't allow Trump administration restrictions on transgender inmates - Reuters",
@@ -1128,27 +1246,6 @@
       "source_count": 2,
       "category": "us",
       "category_zh": "美国",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Top Cuban diplomat accuses US of threatening countries that vote with Cuba at UN - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3JjaDJmX3M3N2FwWVZrOTRaYk93cXBtTkpGMlZLV0p2cXJRQmRZMUhaVF9CTlJaOUo3T201eUZCYnctWXA3V1ZfQm03Uy1GNElxeExkZFNMcGlHc1ZmSUsza0E3WTlMV2xMdXlfVjBGMGpEQXRla1pfaGNSVE91Q2ZXVjVGY3Z0ODhqUzBhcWE5RV9tTVllUXVyd3kta3lSTEN3VTZ1Q2xSY296aGJNMDM5Zm5xdFJtU2hhem9FQ0dSX2RmY3dVYw?oc=5",
-      "summary": "Top Cuban diplomat accuses US of threatening countries that vote with Cuba at UN&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T17:38:55+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "Al Jazeera"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
       "stars": 3,
       "score": 12.4,
       "is_hypothetical": false,
@@ -1182,36 +1279,11 @@
       ]
     },
     {
-      "title": "China's coast guard monitors the Philippines resupplying vessel at disputed shoal - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU9McVh3djNpcDhfdlJmTzN0ZVIyX2F0dDRvZ1VRZzZKVVpxRG1pYTFJWjA3OEhzMmg3Umd1WnozUC1rSnRqWG9XaTZnQl9UbHl4UTZSRVpvY2YzUmlkX2FIR3NQbDU0aGljMC0wcTlfYU1jRlp2X3Z1RmdMb1NVNUxVUzhzUXFBRUhKMmFGSWtlTGlQdEFJOUpYTDRzbG5ua3FVR0hISFdQVElneEs3d2JTSVk0ay1xTi11dkJn?oc=5",
-      "summary": "China's coast guard monitors the Philippines resupplying vessel at disputed shoal&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T13:31:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN China"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
-    {
       "title": "Meta Will Split Stock, Create New Class to Fund AI Spending - WSJ",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5",
       "summary": "Meta Will Split Stock, Create New Class to Fund AI Spending&nbsp;&nbsp;WSJ<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5HVnM1M1JBSWFqUlBzWnZDYlNqcksySUpHN2xrOU0zM1BpZjE",
       "content": "",
-      "published": "2026-10-21T21:33:00+00:00",
+      "published": "2026-10-22T00:32:00+00:00",
       "source": "GN Top",
       "sources": [
         "GN Top"
@@ -1246,66 +1318,6 @@
       "score": 12.2,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "French 10-year bond yields hit 5%, highest since 2002 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXc5VF91b3J6TjJpdkR6VFR1SUtTX1VUY1ZTUFBTNXFIT3ZZQ3RBMTVPaDNjMVNZbzRqcGdqRjRXcFhEQjRZd0V6R2ZRZVJwOHdmeHl5LWhva0Y3c285ZUNuaG80bWxBNUMyczhxWWdPd0NZZlNUTVJmUEszM1dCMzU2dU43ZzJ0bHNMQVF5cjgzZWZMUWViWE5aeWc3NUYwSkE?oc=5",
-      "summary": "French 10-year bond yields hit 5%, highest since 2002&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T09:44:40+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.2,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "EA to shutter BioWare studio, cut jobs as it narrows game slate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWZsdG5YZXBLSU1NVDZ4c3dmbFBNZW9kbjhEbmJvdXRQYXlsMzIxTE0yWDBmUWtnZ1hXSmEzSnQtZW5pUE9kM28yX3daSWlwRHRUQmlnZmM5T0hzczJGc1lkb0cxNFZTbXB0aTNlMldQRUY3aGdUenNlN0hCd1M0U3JQM0pOSDk2TEI4UDdWa3pOSFNOc1h1Qi1ad0oyZ3A2aWptbE9n?oc=5",
-      "summary": "EA to shutter BioWare studio, cut jobs as it narrows game slate&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T18:49:13+00:00",
-      "source": "Reuters Technology",
-      "sources": [
-        "Reuters Technology"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Israeli military conducts massive \"power projection\" operation near Iran's border - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0l5ZTBmUDZOQ1VIS1A4Rjd6dFZPMDc0ZTRaQ2FMWEhxajJ3ME1yS2N5UFpvd1ZrMnFtdUZDYjJUYk95bHlZMnl2b1FEeVY4TWhJamxOTW15bl9JQ1MweG5fYldjWTByazNBYmVfbE5pN0Z3THlYMnhQTDBqV3ZuWGFR?oc=5",
-      "summary": "Israeli military conducts massive \"power projection\" operation near Iran's border&nbsp;&nbsp;Axios",
-      "content": "",
-      "published": "2026-10-21T18:48:26+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.1,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     }
