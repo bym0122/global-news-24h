@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T02:25:10.391235+00:00",
+  "generated_at": "2026-10-22T04:27:30.714943+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-21T02:24:55.124762+00:00",
-  "window_end": "2026-10-22T02:29:55.124762+00:00",
+  "window_start": "2026-10-21T04:27:12.230982+00:00",
+  "window_end": "2026-10-22T04:32:12.230982+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -16,7 +16,7 @@
       "sources": [
         "Reuters World",
         "GN Geopolitics",
-        "GN Top"
+        "Guardian World"
       ],
       "source_count": 3,
       "category": "geopolitics",
@@ -99,7 +99,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpoaHpLeXVSZ015UFRLMU1jOXJDbTN3cGI5Ymo5N2hjWkxyTzF2WDVsNTZTX2pNclQwZHcwY1ZaQ1pacTNncGVWYVJISnA4aHI5YjBlclFvRnBqNlFFNWtwSVVYVHRURU9VS2ZRS3JCN3lycDRnZHFGeEwxeEVLYmJENG40NTNlSFYweUIzWmlOcHpyemxnRk1PVkRURjhTTEtodXAzZUplNG5fZG42VWZwS1NZZ0k?oc=5",
       "summary": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T19:35:45+00:00",
+      "published": "2026-10-21T19:32:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -116,30 +116,6 @@
       "why_important": "被 4 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJYMzVoV05ja2lpbDlvQk1LNjlfTzRuaERHdFB4TE94NkJXVDM1QmVaTFN5V1YyTVp6WmJaTkFpX3kwa293SXAtNFZHWldIMnU0SVhZOFJDU1prNkhMVTBCYV9vQjVBOTBYWkZFUVBObTV4dEI3Vm1Gd1B4U1NJSk5qRHRsUVpCLUswc3FOcl9KOVBDUUFLVEk3cndwb3dabU1TRHRHbFBhZmJuTnBnSWZwT2E0QQ?oc=5",
-      "summary": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz&nbsp;&nbsp;Barchart.com",
-      "content": "",
-      "published": "2026-10-21T16:02:04+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 15.6,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
     },
     {
       "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report - Kitco",
@@ -260,7 +236,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
       "summary": "Putin agrees to resume 3-way peace talks with Ukraine and US&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T22:25:11+00:00",
+      "published": "2026-10-21T09:23:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -343,10 +319,34 @@
       ]
     },
     {
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "content": "Image caption, Yemen&#x27;s Iran-backed Houthis also attacked the airport in Saudi Arabia&#x27;s capital Riyadh earlier this month\nThe US State Department has ordered some diplomats and their families to leave Saudi Arabia as attacks escalate, with three people killed in strikes across the country.\nSaudi authorities said debris from a drone intercepted during an attempted attack on an oil field killed two people, while one person died after a strike at the King Fahd International Airport in Dammam.\nConflict between Yemen&#x27;s Iran-backed Houthis and Saudi Arabia has been rising in the past month.\nThe Houthis have responded to Saudi strikes by launching missiles and drones at airports, energy facilities and military bases in Saudi Arabia. A recent strike on Riyadh&#x27;s international airport was the deadliest in the kingdom in years.\nFigure caption, Watch: Who are the Houthis, and why are they so hard to fight?\n\"The US Department of State issued an ordered departure for non-emergency US government employees and their family members in Saudi Arabia,\" a state department spokesperson said in a statement.\n\"Iranian-supported Houthis have increasingly engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions,\" it added.\nThe spokesperson also warned \"the hostilities have the potential to escalate rapidly\".\nIn the latest attack on the King Fahd International Airport eight people sustained injuries that ranged from \"minor to serious\", officials said.\nNo details of the attack have yet been given, but the strike comes after airports in Saudi Arabia have been repeatedly targeted by Houthi forces.\nThe energy ministry has also not said who had launched the drone aimed at the Shaybah oil field near the border with the United Arab Emirates that left two people injured.\nYemen has been devastated by a civil war that began when the Houthis ousted the government from the capital, Sanaa, in 2014. Conflicts escalated in 2015, after a Saudi-led military coalition tried to restore the government&#x27;s rule.\nAn informal ceasefire had been in place for the past four years, but it unravelled in July after the Houthis announced a \"maritime embargo\" against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea.\nThe Houthis said they were retaliating for what they have called a Saudi blockade of their territory, as well as an air strike on Sanaa airport that they blamed on the kingdom.\nThe group&#x27;s \"maritime embargo\" in the Bab al-Mandab Strait along Yemen&#x27;s south-western coast has contributed to a surge in global oil prices because Saudi Arabia had been relying on the Red Sea for oil exports since the US and Israel&#x27;s war with Iran effectively closed the Strait of Hormuz in the Gulf.\nUK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "published": "2026-10-22T01:07:34+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "Guardian World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Kinder Morgan's Natural Gas Pipeline Backlog Hits Record $13.2 Billion - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlp6b1c0N0UyNEpTQlpMb3JxWlJQTXJGYTlZMlpjX1U0dy1WMXpuRFNRSDVWeHhhbWNoVTI2dDdGMzlrd2NJOFdsTm0weWNLWlhfdjlWNTV4N01FZTI1UF9BUnlsOG0yY2NWeVBNV2hzRUxZdjRNN2VXWnNnQjZEa0VPNTI2YW9Hd1NqSUh1d2w3NDZFbllGcmpXQ3Y2NEluTDNjQnF4Mmg3UdIBrwFBVV95cUxNRWdFZDhmamE0ZXUyMnNncFVZdGFla3ZMRjA3NDEyNkFjX1ZoUkFwUXBNQ1JFWG1TZjRUaWJGcGw0RFFJZDNuOFlsTG0yUThRWFJHYnpMeFdRZW9CMS0xVTZkTjF0elhjd2VkVWw2ZnljbDFJZDBxSWgtLXdIbzdCSWJhRklyN1VUSmdqN01FTnBLZGdiT0pfR1BHeEp1TzItV29EUXNRaUpuVDFIdzVR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlp6b1c0N0UyNEpTQlpMb3JxWlJQTXJGYTlZMlpjX1U0dy1WMXpuRFNRSDVWeHhhbWNoVTI2dDdGMzlrd2NJOFdsTm0weWNLWlhfdjlWNTV4N01FZTI1UF9BUnlsOG0yY2NWeVBNV2hzRUxZdjRNN2VXWnNnQjZEa0VPNTI2YW9Hd1NqSUh1d2w3NDZFbllGcmpXQ3Y2NEluTDNjQnF4Mmg3UdIBrwFBVV95cUxNRWdFZDhmamE0ZXUyMnNncFVZdGFla3ZMRjA3NDEyNkFjX1ZoUkFwUXBNQ1JFWG1TZjRUaWJGcGw0RFFJZDNuOFlsTG0yUThRWFJHYnpMeFdRZW9CMS0xVTZkTjF0elhjd2VkVWw2ZnljbDFJZDBxSWgtLXdIbzdCSWJhRklyN1VUSmdqN01FTnBLZGdiT0pfR1BHeEp1TzItV2",
-      "content": "Kinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion | OilPrice.com\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nIndia’s Top State Refiner to Reduce Middle East Term Oil Purchases\nHigher Oil Availability Pressures Middle East Crude Benchmarks\nJapan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs\nRussia to Send First Diesel Tanker to U.S. on Thursday\nMorgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027\nUK Approves Jackdaw Gas Field as Energy Crisis Deepens\nGoldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar\nTrump Administration Pushes Refiners to Boost Diesel Output as Prices Soar\nOil Prices Climb Above $110 as Middle East Supply Fears Persist\nNorway's Gas Production Plunges 12.6% as Europe Heads into Winter\nEU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis\nRussia’s Oil Export Revenue Slides as Production Declines\nSaudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals\nShipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers\nAsia’s Coal Prices To Stay High as Supply Drops and Demand Firms\nCopper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says\nChina Moves to Rein In Its Booming Hydrogen Industry\nOil-Rich Alberta Votes to Stay in Canada in Historic Referendum\nTrump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers\nAsian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate\nBrent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply\nQatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria\nPakistan’s Growth Slows as Hormuz Crisis Hits Industry\nCanada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%\nIraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels\nMozambique Pitches Sasol and ROMPCO on $250 Million Gas Project\nQatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run\nChina’s Solar Exports Keep Falling as Beijing Mulls Export Controls\nWoodside Resumes Work at Australian LNG Project after Greenpeace Stunt\nJapan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar\nChina's Coal Production Slumps 6.8% as Winter Supply Fears Grow\nIndia's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices\nGreenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project\nOil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nUS and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in\nThe Sulfur Crisis Threatening the World's Food Supply\nSerica Energy Targets 65,000 Boepd Despite Triton Restart Delay\nNew Hope to Acquire Malabar in A$1.8 Billion Australian Coal Deal\nAmpol Refining Margins Jump 125% as Lytton Maintenance Hits Output\nIthaca Energy CEO to Retire Amid Major International Expansion\nINPEX Secures Landmark Offshore Carbon Storage Approval in Australia\nKinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion\nKinder Morgan reported record third-quarter 2026 earnings on Wednesday and announced $5.4 billion in new expansion projects, bringing its total project backlog to $14.4 billion, including a record $13.2 billion in natural gas infrastructure investments.\nThe Houston-based pipeline operator said its overall project backlog increased by a net $4.7 billion from the second quarter, after accounting for approximately $700 million in projects entering service.\nThe expansion reflects rising demand for natural gas infrastructure across the United States, particularly from power generation, data centers, industrial development, and liquefied natural gas (LNG) exports.\nMore than 75% of Kinder Morgan's total project backlog is tied to electricity generation and local gas distribution demand.\nTwo major natural gas pipeline projects account for a significant portion of the company's latest investment commitments.\nThe Southeast Connector Project, developed by Southern Natural Gas Company, will transport up to 2.6 billion cubic feet per day (Bcf/d) of natural gas through approximately 470 miles of new pipeline and associated compression infrastructure.\nThe project will connect Marcellus and Utica shale gas supplies with expanding markets in the southeastern United States. Kinder Morgan expects its share of the investment to reach approximately $3.1 billion, with initial operations scheduled for the fourth quarter of 2030, subject to regulatory approvals.\nMeanwhile, Natural Gas Pipeline Company of America has approved the Permian Link Project, a roughly $4.2 billion development designed to transport approximately 2.8 Bcf/d of natural gas.\nThe 434-mile pipeline will support new electricity generation serving a major hyperscale technology customer. Kinder Morgan's share of the investment is estimated at $1.6 billion, with startup targeted for the third quarter of 2030.\nBoth projects have secured long-term transportation agreements, providing contracted revenue streams once operational.\nKinder Morgan is also expanding its Creekside Lateral Project in Central Texas, approving an additional $150 million in development phases following new agreements with data center and industrial customers.\nThe approximately $235 million project is expected to supply more than 750 million cubic feet per day of contracted transportation capacity upon completion.\nThe company's expanding pipeline investment program comes alongside stronger operating performance.\nThird-quarter net income climbed 22% to $764 million, compared with $628 million a year earlier. Adjusted earnings per share increased 21% to $0.35, while adjusted EBITDA rose 9% to $2.18 billion.\nNatural gas transportation volumes increased 3% year over year, supported by higher LNG deliveries and increased demand across the company's Texas pipeline network. Natural gas gathering volumes climbed 14%, primarily reflecting stronger activity on the KinderHawk system.\nThe company now expects full-year adjusted EBITDA to exceed its original $8.6 billion budget by more than 6%, while adjusted earnings per share are projected to beat the initial $1.36 forecast by more than 13%.\nKinder Morgan also maintained its commitment to shareholder returns, declaring a quarterly dividend of $0.2975 per share, representing a 2% increase from the corresponding period last year.\nBeyond natural gas, the company is advancing its Western Gateway refined products pipeline alongside Phillips 66 and HF Sinclair. The approximately 1,300-mile project is designed to deliver 230,000 barrels per day of transportation capacity to markets in Arizona and California, with operations targeted for 2029.\nFor investors, Kinder Morgan's growing inventory of contracted pipeline projects highlights the expanding role of natural gas infrastructure in meeting U.S. electricity demand, particularly as hyperscale data centers and industrial facilities drive new requirements for reliable power supplies.\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nMozambique Pitches Sasol and ROMPCO on $250 Million Gas Project\nCanada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%\nBeach Energy Posts Record Revenue as Oil and Gas Production Jumps 9%\nAPA Greenlights A$700 Million Gas Pipeline Backed by Origin Deal\nIndiana Eyes 6 GW Nuclear Expansion With AtkinsRéalis\nEndurance Energy Generates First Subsea Geothermal Power at Pacific Volcano\nApache Strike Could Shut Down Britain's Critical Forties Pipeline\nDevon Energy Exits Eagle Ford in $4.2 Billion Shale Deal\nPetrobras Makes Second Oil Discovery in Amapá Ultra-Deepwater Well\nVestas Unveils Larger-Rotor Turbine to Boost Onshore Wind Returns\nPetronas Moves to Appraise Major Oil Discovery Offshore Malaysia\nApache Strike Could Shut Down Britain's Critical Forties Pipeline\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "Kinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion | OilPrice.com\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nIndia’s Top State Refiner to Reduce Middle East Term Oil Purchases\nHigher Oil Availability Pressures Middle East Crude Benchmarks\nJapan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs\nRussia to Send First Diesel Tanker to U.S. on Thursday\nMorgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027\nUK Approves Jackdaw Gas Field as Energy Crisis Deepens\nGoldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar\nTrump Administration Pushes Refiners to Boost Diesel Output as Prices Soar\nOil Prices Climb Above $110 as Middle East Supply Fears Persist\nNorway's Gas Production Plunges 12.6% as Europe Heads into Winter\nEU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis\nRussia’s Oil Export Revenue Slides as Production Declines\nSaudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals\nShipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers\nAsia’s Coal Prices To Stay High as Supply Drops and Demand Firms\nCopper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says\nChina Moves to Rein In Its Booming Hydrogen Industry\nOil-Rich Alberta Votes to Stay in Canada in Historic Referendum\nTrump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers\nAsian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate\nBrent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply\nQatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria\nPakistan’s Growth Slows as Hormuz Crisis Hits Industry\nCanada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%\nIraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels\nMozambique Pitches Sasol and ROMPCO on $250 Million Gas Project\nQatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run\nChina’s Solar Exports Keep Falling as Beijing Mulls Export Controls\nWoodside Resumes Work at Australian LNG Project after Greenpeace Stunt\nJapan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar\nChina's Coal Production Slumps 6.8% as Winter Supply Fears Grow\nIndia's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices\nGreenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project\nOil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nRobot Wars – How China Has the Robotics Industry in Its Grip\nOne Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict\nSerica Energy Targets 65,000 Boepd Despite Triton Restart Delay\nNew Hope to Acquire Malabar in A$1.8 Billion Australian Coal Deal\nAmpol Refining Margins Jump 125% as Lytton Maintenance Hits Output\nIthaca Energy CEO to Retire Amid Major International Expansion\nINPEX Secures Landmark Offshore Carbon Storage Approval in Australia\nKinder Morgan’s Natural Gas Pipeline Backlog Hits Record $13.2 Billion\nKinder Morgan reported record third-quarter 2026 earnings on Wednesday and announced $5.4 billion in new expansion projects, bringing its total project backlog to $14.4 billion, including a record $13.2 billion in natural gas infrastructure investments.\nThe Houston-based pipeline operator said its overall project backlog increased by a net $4.7 billion from the second quarter, after accounting for approximately $700 million in projects entering service.\nThe expansion reflects rising demand for natural gas infrastructure across the United States, particularly from power generation, data centers, industrial development, and liquefied natural gas (LNG) exports.\nMore than 75% of Kinder Morgan's total project backlog is tied to electricity generation and local gas distribution demand.\nTwo major natural gas pipeline projects account for a significant portion of the company's latest investment commitments.\nThe Southeast Connector Project, developed by Southern Natural Gas Company, will transport up to 2.6 billion cubic feet per day (Bcf/d) of natural gas through approximately 470 miles of new pipeline and associated compression infrastructure.\nThe project will connect Marcellus and Utica shale gas supplies with expanding markets in the southeastern United States. Kinder Morgan expects its share of the investment to reach approximately $3.1 billion, with initial operations scheduled for the fourth quarter of 2030, subject to regulatory approvals.\nMeanwhile, Natural Gas Pipeline Company of America has approved the Permian Link Project, a roughly $4.2 billion development designed to transport approximately 2.8 Bcf/d of natural gas.\nThe 434-mile pipeline will support new electricity generation serving a major hyperscale technology customer. Kinder Morgan's share of the investment is estimated at $1.6 billion, with startup targeted for the third quarter of 2030.\nBoth projects have secured long-term transportation agreements, providing contracted revenue streams once operational.\nKinder Morgan is also expanding its Creekside Lateral Project in Central Texas, approving an additional $150 million in development phases following new agreements with data center and industrial customers.\nThe approximately $235 million project is expected to supply more than 750 million cubic feet per day of contracted transportation capacity upon completion.\nThe company's expanding pipeline investment program comes alongside stronger operating performance.\nThird-quarter net income climbed 22% to $764 million, compared with $628 million a year earlier. Adjusted earnings per share increased 21% to $0.35, while adjusted EBITDA rose 9% to $2.18 billion.\nNatural gas transportation volumes increased 3% year over year, supported by higher LNG deliveries and increased demand across the company's Texas pipeline network. Natural gas gathering volumes climbed 14%, primarily reflecting stronger activity on the KinderHawk system.\nThe company now expects full-year adjusted EBITDA to exceed its original $8.6 billion budget by more than 6%, while adjusted earnings per share are projected to beat the initial $1.36 forecast by more than 13%.\nKinder Morgan also maintained its commitment to shareholder returns, declaring a quarterly dividend of $0.2975 per share, representing a 2% increase from the corresponding period last year.\nBeyond natural gas, the company is advancing its Western Gateway refined products pipeline alongside Phillips 66 and HF Sinclair. The approximately 1,300-mile project is designed to deliver 230,000 barrels per day of transportation capacity to markets in Arizona and California, with operations targeted for 2029.\nFor investors, Kinder Morgan's growing inventory of contracted pipeline projects highlights the expanding role of natural gas infrastructure in meeting U.S. electricity demand, particularly as hyperscale data centers and industrial facilities drive new requirements for reliable power supplies.\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nMozambique Pitches Sasol and ROMPCO on $250 Million Gas Project\nCanada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%\nBeach Energy Posts Record Revenue as Oil and Gas Production Jumps 9%\nAPA Greenlights A$700 Million Gas Pipeline Backed by Origin Deal\nIndiana Eyes 6 GW Nuclear Expansion With AtkinsRéalis\nEndurance Energy Generates First Subsea Geothermal Power at Pacific Volcano\nApache Strike Could Shut Down Britain's Critical Forties Pipeline\nDevon Energy Exits Eagle Ford in $4.2 Billion Shale Deal\nPetrobras Makes Second Oil Discovery in Amapá Ultra-Deepwater Well\nPetronas Moves to Appraise Major Oil Discovery Offshore Malaysia\nApache Strike Could Shut Down Britain's Critical Forties Pipeline\nConocoPhillips Weighs Sale of Norway Business and Teesside Asset\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-22T00:55:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -366,23 +366,25 @@
       ]
     },
     {
-      "title": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’ - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
-      "summary": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’&nbsp;&nbsp;Politico",
+      "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
+      "summary": "Russia frees American Stephen Hubbard after over 4 years behind bars&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-21T23:33:00+00:00",
-      "source": "GN Geopolitics",
+      "published": "2026-10-22T02:59:00+00:00",
+      "source": "AP World",
       "sources": [
-        "GN Geopolitics",
-        "GN Top"
+        "AP World",
+        "GN Top",
+        "NPR World",
+        "Al Jazeera"
       ],
-      "source_count": 2,
+      "source_count": 4,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 14.1,
+      "score": 14.3,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -405,6 +407,30 @@
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Iran's supreme leader, parliament speaker discuss war impact, social solidarity - chinadailyhk",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mVjQ3RzI4NmpuYkpoNFgycEJGcEo2UE1UOWQwNG55V3NFeTZXR1BkN0hwVzBlYXMzTExTVEwxTFByVzhSU0F4QUVNMGl3bHZqN2xXZEw4NXQ?oc=5",
+      "summary": "Iran's supreme leader, parliament speaker discuss war impact, social solidarity&nbsp;&nbsp;chinadailyhk",
+      "content": "Iran&#x27;s supreme leader, parliament speaker discuss war impact, social solidarity\nIran's supreme leader, parliament speaker discuss war impact, social solidarity\nMotorists ride past portraits of Iran's Supreme Leader Mojtaba Khamenei in Tehran, Iran, Oct 21, 2026. (PHOTO/AP) TEHRAN/LONDON/BAGHDAD – Iran's Supreme Leader Mojtaba Khamenei met with Parliament Speaker Mohammad Baqer Qalibaf on Wednesday to review the latest developments surrounding the US-Israeli war against Iran and discuss ways to bolster national resilience, according to a statement published on the leader's website.\nThe meeting highlighted the necessity to strengthen the country's components of power and the Iranian lawmakers' effective role in maintaining and fostering social solidarity, the statement said.\nDiscussions also covered the need for continued public engagement, the commitment of the government and parliament to expanding cooperation to resolve the people's economic and livelihood-related problems, and the advancement of affairs related to the country's strategic partners.\nQalibaf presented reports on parliamentary activities since the beginning of the 40-day war and the parliament's current and future plans to address the country's issues, according to the statement.\nALSO READ: Netanyahu says discussed overthrowing Iran's govt with Trump\nAlso on Wednesday, Iran's Foreign Minister Seyed Abbas Araghchi warned in an article published in the Financial Times that any further escalation around the Strait of Hormuz or elsewhere in the West Asia region could seriously endanger civilian lives, regional security and the global economy.\nAraghchi said Iran is fully prepared to defend itself, while stressing that the country remains willing to give diplomacy another chance if it sees clear evidence that Washington is genuinely willing to pursue a \"fair and dignified\" solution aimed at ending the conflict.\nCommercial vessels appear anchored in the Strait of Hormuz off Bandar Abbas, Iran, Oct 6, 2026. (PHOTO/ISNA VIA AP) Britain, Oman agree on need to open Hormuz\nDuring a meeting in Downing Street on Wednesday, British Prime Minister Andy Burnham and Oman's Sultan Haitham bin Tariq agreed on the need to open the Strait of Hormuz, according to a statement released by the British government.\nReopening the Strait of Hormuz would reduce the pressure on global supply chains and ease the impact on people at home, said Burnham.\nTurning to the situation in the Middle East, Burnham underlined the key role Oman plays in regional stability, and gave his thanks for the Oman's work for reopening the Strait of Hormuz, according to the statement.\nIn another development, Iraq closed the al-Sheeb border crossing with Iran in southern Maysan province effective Wednesday morning until further notice, a security source told Xinhua .\nThe source, speaking on condition of anonymity, said the closure started at 6:00 am local time (0300 GMT) on Wednesday, without specifying the reasons.\nIn September, Iraq also temporarily shut three border crossings with Iran, including al-Sheeb, in response to attacks originating from Iraqi territory targeting Saudi Arabia, a move aimed at reinforcing regional security and tightening border control.\nNetanyahu says discussed overthrowing Iran's govt with Trump\nTrump administration sued over 50% tariffs on Canadian goods\nIran's supreme leader, parliament speaker discuss war impact, social solidarity\n‘Orbital truth’ deserves fair amount of attention at meeting tables\nHK greenlights Star Ferry fare increase for two cross-harbor routes\nChan: Hong Kong eyes trade finance links with Southeast Asia\nChina, Russia eye ties in AI, other frontier sectors\nHK greenlights Star Ferry fare increase for two cross-harbor routes\nChan: Hong Kong eyes trade finance links with Southeast Asia\nUAE diplomat joins race for next UN secretary-general\nSource: Houthis intensify attacks on airport, oil terminal in Hadramout\nOfficial: DPRK to use loudspeakers for psychological warfare against ROK\nTurkiye, Qatar, Pakistan, Indonesia ink deal to deepen defense ties\nTakaichi faces growing criticism over military buildup, security policy shift\nKCNA: Japan's leaders spread 'venomous militarism' by Yasukuni visits\nKCNA: US-involved military drills by ROK, Japan bring 'new danger of war'\nCopyright 1995 - 2026. All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily. Without written authorization from China Daily, such content shall not be republished or used in any form.",
+      "published": "2026-10-22T01:58:55+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
@@ -558,25 +584,32 @@
       "assets": []
     },
     {
-      "title": "Trump campaigns in South Carolina to support Senate candidate Graham - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHk5a3JmU3lLWWtaN3RQRDVPRUdfWVA5czZfWk5WQlBNcnFmdndzTnZQV2RZRFBrOGdXU3ByMHMtS0EtQXNSaDc1OXZ6UTl2UDZrYk8wcFlPc1FaYlFFUVVTVUd6RG5uaDZhYk55elN4TGRXNFFGeklyUzJkXzQtUzBBTzJUS0YxNGJhdF9HOE9zRzVJc1VTcE5HUEg1OVpMYS1UTGVYLWhvSXlEMU1yZW1HMA?oc=5",
-      "summary": "Trump campaigns in South Carolina to support Senate candidate Graham&nbsp;&nbsp;Reuters",
+      "title": "Taiwan probes organised crime links to China's 'transnational repression' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejRPNmlvaDhHZDJQYlloWDU5cnZpTHZEOU0yWHotRTRsX3Q0TGs4V1F3ZzRBLVNqMnhSVUtNS3ZlWGFTVEU1VUJodkdZMUR0aFUxVnhqU1lVdWEyTlI0dVp1VmRncVIzVDU0WmtxcmI1TXo4cHh0SDhGWXJHY1lSMG8wSnJuUWRrbkI3VXhqWXlUajNuSjYwTFRyNWtOSzlDNnZkamRWRFBUdjVkQUFaTlhSNHZGQQ?oc=5",
+      "summary": "Taiwan probes organised crime links to China's 'transnational repression'&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T10:05:00+00:00",
+      "published": "2026-10-22T02:32:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "GN Top"
+        "GN Geopolitics"
       ],
       "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "台积电",
+        "半导体",
+        "亚太市场"
+      ]
     },
     {
       "title": "Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns - Kitco PM Report - Kitco",
@@ -667,6 +700,50 @@
       "assets": []
     },
     {
+      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings? - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOVZMTjBjR29lVmM4cUdwTVRLckZCY2hBVVpDdW42VWNKb2ZGYTVhdWVtbnNjOEx0X253TXVjZEV4Z3VZSjZkVUNnenVOczdIcGZha003Vm81SHZWQkRVTGVzVnpTa0w0QThPN1JYX0w4dXQ0RGNCZ2tkaDBBRHdpOVNUNUJZMklCWGZaWVVlZUlhdkhuYVFIanRWRGRxMFVZRFl6SkI1a2VIYldXTzAxdG52aGo4TkViY0l6WW83dXM4bXJNNGUyQXhVQWdFaG9D?oc=5",
+      "summary": "How Are Dow, S&amp;P 500, Nasdaq Futures Trading After META, TSLA Earnings?&nbsp;&nbsp;Stocktwits",
+      "content": "How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?\nHome News Markets Equity How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?\nHow Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?\nEarnings from Meta Platforms and Tesla were squarely in focus on Wednesday as markets grappled with the reality of the AI trade.\nThe New York Stock Exchange stands on Wall Street in New York City. (Photo by Spencer Platt/Getty Images)\nMeta’s board approved a new class of non-voting Class C common stock that is to be distributed via a one-time stock dividend, functioning as a 2-for-1 stock split.\nTesla cut its full-year capital expenditure guidance to about $20 billion from more than $25 billion and revised the timeline for scaling the Optimus robot.\nMeanwhile, tensions between the U.S. and Iran remained high, keeping oil prices elevated.\nU.S. stock futures declined in the overnight session late on Wednesday following results from Meta Platforms Inc. (META) and Tesla Inc. (TSLA) as earnings season kicks into full throttle this week.\nAs of 10:39 p.m. EDT, Nasdaq-100 futures were down 1%, S&P 500 futures fell 0.49% and Dow futures slipped 0.21%.\nRead Next BE Stock Is Up More Than 174% In 2026: Why This Analyst Sees Further 9% Upside Aashika Suresh\nOn Wednesday, the three benchmark indexes closed higher. The Nasdaq Composite led the climb, adding 278 points to end the session 1.05% higher. The Dow Jones Industrial Average and S&P 500 climbed 0.69% and 0.58%, respectively, at close.\nEarnings from Meta Platforms and Tesla dominated Wednesday as markets grappled with the reality of the AI trade.\nMeta’s revenue for the  third quarter climbed 26% to $64.6 billion, surpassing Wall Street expectations of $63.4 billion. Meanwhile, earnings per share of $3.83 missed projections of $5.46 a share due to a $9.89 billion legal charge.\nThe Facebook parent also said its board had approved a new class of non-voting Class C shares to be distributed through a one-time dividend that effectively creates a 2-for-1 split.\nThe company said the fresh stock would help raise capital, structure employee compensation, and fund potential acquisitions amid AI competition.\nMeanwhile, CEO Mark Zuckerberg highlighted the  success of Meta’s Muse , noting that it has attracted over 10 million users in the U.S. and Canada since its Sept. 8 launch. Zuckerberg said that even as growth remains strong, the company is eyeing a billion users in the next few years.\nDeepwater Asset Management managing partner Gene Munster noted in a post on X that Zuckerberg’s commentary suggests Muse models and agents will become the center of Meta’s universe. “My take: In three years, Muse will become the lens consumers engage with Instagram, FB, WhatsApp, Reels,” he said.\nMeanwhile, Elon Musk’s Tesla also posted its  Q3 print , reporting revenue of $28 billion, missing analyst estimates of $28.3 billion. Earnings per share came in at $0.48 per share, against an expected EPS of $0.45.\nHowever, shares slipped overnight after the company cut its full-year capital expenditure guidance to about $20 billion from more than $25 billion and revised the timeline for scaling the Optimus robot.\nMeanwhile, media reports suggest that a  merger between Tesla and Musk’s rocket company  SpaceX (SPCX) could potentially be announced as soon as the first half of 2027, to close during Trump’s presidency. Bloomberg reported that the companies have a combined market value of about $3.7 trillion, but their independent committees are yet to agree on deal terms.\nBrett Winton, an analyst at Cathie Wood’s ARK Investment Management, said on X that a merger between Musk’s two companies could benefit both shareholder groups. ARK’s model puts Tesla shareholders about five times better off after a merger and SpaceX shareholders about 1.3 times better off by 2036, compared to the companies staying independent.\nMarkets will now turn their attention to earnings from other marquee names, including  Procter & Gamble (PG) ,  Western Digital (WDC) ,  Lockheed Martin (LMT) ,  Honeywell (HON) , and  Bloom Energy (BE) , among others.\nMeanwhile, tensions between the U.S. and Iran remained high, keeping oil prices elevated. Brent crude futures were trading at $110.40 a barrel, up 1.45%, while WTI crude futures traded at $98.34 per barrel.\nAlibaba Group Holding Ltd. (BABA):  The Chinese internet stock fell more than 4% in the overnight session late on Wednesday as  weakness in the Hong Kong-based Hang Seng Tech Index weighed on the company.\nMeta Platforms Inc. (META):  The Facebook parent was on the retail radar due to its Q3 results announcement, which has set the tone for AI earnings going forward.\nStrategy (MSTR):  Shares were on the retail radar after the company reversed to red after closing more than 7.5% higher amid rising bitcoin prices.\nRobinhood Markets Inc. (HOOD):  The brokerage firm slipped nearly 3% in the overnight session on Wednesday, ahead of its Q3 results expected next week.\nAmong ETFs tracking benchmark indexes, the  SPDR S&P 500 ETF (SPY) , the  Invesco QQQ Trust (QQQ) and  SPDR Dow Jones Industrial Average ETF Trust (DIA) were down at the time of writing.\nMeanwhile, U.S. long-dated Treasury yields continued above 5%. At the time of writing, the 10-year U.S. Treasury yield was 5.088%, and the 30-year Treasury yield was 5.377%.\nThe  iShares 20+ Year Treasury Bond ETF (TLT) was up 0.55% amid ‘bearish’ sentiment.\nAsian markets opened lower on Thursday, with South Korea&#x27;s KOSPI, Japan’s Nikkei 225, China’s SSE Composite, and Australian stocks trading in negative territory.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nGet the daily crypto email you’ll actually love to read. It&#x27;s value-packed, data-driven, and seasoned with wit.\nRead about our editorial guidelines and ethics policy\nBE Stock Is Up More Than 174% In 2026: Why This Analyst Sees Further 9% Upside Aashika Suresh · 4m ago\nWhy Did MRNA, CVX, V Stocks Jump To 52-Week Highs Today? Aashika Suresh · 26m ago\nIBM Stock Heads For Best Week Since June: CEO Says ‘Q2 Softness Was Timing Rather Than Demand’ After Q3 Beat, Sees Infrastructure Momentum Shivani Kumaresan · 1h ago\nHow Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings? Aashika Suresh · 1h ago\nLRCX Stock Tumbles Overnight Despite Record Profits: Supply Snags Put Sales On Hold As China Slowdown Looms Deepti Sri · 1h ago\nFUN Stock Heads For 4th Week Of Loss: Analyst Sees 29% Downside Ahead Of Earnings As Mounting Debt, Weak Sales Loom Shivani Kumaresan · 2h ago",
+      "published": "2026-10-22T03:11:00+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Dip in the dollar takes a breather with Fed in focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
+      "summary": "Dip in the dollar takes a breather with Fed in focus&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-22T02:10:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
       "title": "European shares flat as strong earnings offset French unrest worries - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0l0UndFem5tT1A5MjFoMDI2dXJGY3FiRnNaZE1CNzVRVmJmWmlOY19xLXRDclZkbkgwWGFVdlNqbGlpckJFQUYxRXpHZmtnS2NMVDB6cnV5T3Q4eW9DalhZRHJ4MTRJSDVRaGFJVGdJTFJYQ3E2RFhOUWpXTFB0X0tnaHhIdHBKQmxaS0I1LU5OWHlYc3VnaVdDRVktMFJxWDdjNnhHOFVBbk5HQXpNM2pqUlFTZG8?oc=5",
       "summary": "European shares flat as strong earnings offset French unrest worries&nbsp;&nbsp;Reuters",
@@ -685,29 +762,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon. - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdUhINkV6d09DTmpHOG5sM1BaV0EzZGd0S1ZwS2pKTEZSY3JHc1h5OFRjU3NOZmNjY1dXLU5LY1V2R29IUzBCS1ZOb1p4UlVHLWl6SC1MeXh3YTgxcnFWbC1ZRDJ4WlIyTjVWLVhUQWg3TklGSEdKTUpZMkZ3VEM1WWc4QzN5WVBKRUU2TzU4WmxvNER2Y0tJQl8ta0FoRnA2ZzNCeHFCXzk4eVR5bFdnYWtONmx0WkF6ZlhrYzNhbkE1NTdXeEo5SU5aV2F5aFlWZHNDVnpsTktmS0lHZUstWUZubTdnV0hHcFp1T1hkNA?oc=5",
-      "summary": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down a",
-      "content": "",
-      "published": "2026-10-21T21:14:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.4,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
     },
     {
       "title": "A 2027 pivot? Goldman, Citi see warming signs in China’s housing market - South China Morning Post",
@@ -767,6 +821,26 @@
       "source_count": 1,
       "category": "europe",
       "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+      "summary": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+      "content": "",
+      "published": "2026-10-22T01:57:00+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
       "stars": 3,
       "score": 13.3,
       "is_hypothetical": false,
@@ -838,26 +912,6 @@
       "assets": []
     },
     {
-      "title": "Yemen's Houthis deny launching drones towards Saudi Arabia's Medina - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc2ZjQXV3eDBJb0ZSQVR6eGFkazItZW9IbnhpQVJESVNVekFRZzJNSFhSRFZjMlRLMmQ0TDFBMHlBQkJ0dlBUY1dVSEQ5Z204MVZ2ODJpQ2xuaVpNb2N3WGdVUExETTdTbXdnMGNYZmVUN1Y2ajZmRUc3ZmZvMFJpT2ozdW85bng5QnRhQVBtUjhocVZwVmt2Q3RIdDdRSU9RcXA1T2JlUmNvVk5vMVk0c21WcDhTbWhIdGdyWnh3?oc=5",
-      "summary": "Yemen's Houthis deny launching drones towards Saudi Arabia's Medina&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T11:27:24+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
       "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
       "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other citiesMeanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow on allegations of fighting as a mercenary for Ukraine (<a href=\"https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-",
@@ -901,28 +955,6 @@
       ]
     },
     {
-      "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
-      "summary": "Russia frees American Stephen Hubbard after over 4 years behind bars&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-22T00:52:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "NPR World",
-        "Al Jazeera"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Macron slams as ‘stupid’ claims by Trump and others blaming Muslim migrants for French riots - AP News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUJidmNJUXJrTm9ZQ25iQTYySjJCWGR2amJnSmZYTTdOSjN2QW5zRkoyUVA2TTlMbm5EWGFWUzFwdVJFR1pvTUZkSXlEN3BJc0kyakpHOGItakdRc3FfMmhHaVU3cC1RVUtPWTBYZEpuMDJUVXdLSGQyQkVralFpSWxoZHZ1ekVSaDBFdkRWVEZsYWNhRnBNYVdKa2pzdw?oc=5",
       "summary": "Macron slams as ‘stupid’ claims by Trump and others blaming Muslim migrants for French riots&nbsp;&nbsp;AP News",
@@ -945,24 +977,23 @@
       "assets": []
     },
     {
-      "title": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWcyb3BTdkhoSy1xYy1hU0xpUllHU2ZBbWMyUTYyYkJQUi0xQ0wyN1hJVFZSckxqRFYwOW1RQk1VSUgtMkdJbjJJaFNQaTR0VDJ6TlktcEJvVFJWUFlTMUNrenZaTkJqNzQ2TnBTQzc5cEdzVmVvaWVaQU5mMXlTX0FvQms3NzIzaVNhN3ZmaFNvc1dBaWc?oc=5",
-      "summary": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free&nbsp;&nbsp;AP News",
+      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5",
+      "summary": "North Korea says it will resume propaganda broadcasts across border into South Korea&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-22T00:55:00+00:00",
+      "published": "2026-10-22T02:20:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "BBC World",
-        "Guardian World"
+        "GN Top"
       ],
-      "source_count": 3,
+      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -1013,6 +1044,91 @@
       ]
     },
     {
+      "title": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmlhb3pLU0NQQTViS2RnajU0NGlTWENPYlpOWUtZS3JYUkI0TGNVTHlXckJhMDZZUHBRakRLVVlfWDZTSkxSVzNZaFB3Umw0Uk9oT29DZ1pBdTFjTHhOZGMtU2FUS0U5cVVTOEZGTWhsSkN1YkhpTk9JTExha214NHZ6LWdla3BYanhtUEc2TDhLbXlNb3gwU3VvekdMWnNmRnBjR2FIOXBPZVQzUjd3ZEV3NXVLakxxam9OYUR4N2laWFNuV2ozVQ?oc=5",
+      "summary": "Gold falls near $4,115 as Saudi attacks fuel inflation, Fed outlook in focus&nbsp;&nbsp;Investing.com",
+      "content": "",
+      "published": "2026-10-22T01:04:17+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：黄金 / 美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "黄金",
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Indonesia issues record fines to companies over stock market violations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3MzeE9TNmZPQTI1dUhlSW9PZktuNzdWOUFsdnFkbkcxT01LMjZwRHJEU0xVVU84eERjYjhmcGd4X3FjVnM2NXJKWVptM2RfaE9MeXpraE5oT1BFenV3NTZxR2ptOWFmYkJUYmJmRVpieGhEX0VHRmxYQ2NMTzdwYmRuTUZ4OWxmLVpLZTJNS040TVJjOUIwcDdrbDlXZUh6RU1wNGhSWVV5WGtpWnIzVERpVEt2MWtub2h2Q3JId18?oc=5",
+      "summary": "Indonesia issues record fines to companies over stock market violations&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-22T01:23:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’ - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5",
+      "summary": "Peter Thiel breaks with Trump over Iran war: ‘We should not have done it’&nbsp;&nbsp;Politico",
+      "content": "",
+      "published": "2026-10-21T23:33:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "War warnings and talk of diplomacy compete in Tehran - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaVdxU0tLR0VqbjB0eURLYldaQXNtOFBvSVM5VHp2RTBoSXpUU0RLNC1UOHFVa290SHBSTmlNbThuMEMxRGRNU2pmTWlhdGJjZFE?oc=5",
+      "summary": "War warnings and talk of diplomacy compete in Tehran&nbsp;&nbsp;Iran International",
+      "content": "",
+      "published": "2026-10-21T20:26:11+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "‘Tipping point’: Fresh strikes may end war in Iran, former commander says - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTW5vS3BlZ3dKSHRNRm5DdDZFcEVnR25HTlJZWWo5QkxQbXVuSGN4akZEUVNGeWg0cmYxYmNzbjV4MlQ4ZTIzYTNKLWdIVVIyOVlGMFY5QldkcFd4b3lxYzZnakQ3NTNlZ01COGg0V1pyeHlVNUNidktqQktfMkJhdFJXT0FRc0tDcTZENWNCVjMwRThCSGQxYUlPTURXU2dGd2d0Qk1vN1hSWlhh0gGyAUFVX3lxTE9GRnd5RDNEN09rWlNRcDVwUW5FaVpUSlljbkhrTmZkM3VtaGVjUXYzVm8zTTBkWFRac0FZMW82RXZ0NzZRQlF4dWZSc0wxeGZUdkZoZlZIR3Zwb3RvTlFGRjhINkUzdlZic2xGcEtCUEpGZ1hOYTJmWlZ4UGFtNDhUTUFrREkyMkRCc3NqRmxjbFpSbjl5Z0VHQUhpcmRDXzdXZDdGRFprMEpSTjc4YWotaGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTW5vS3BlZ3dKSHRNRm5DdDZFcEVnR25HTlJZWWo5QkxQbXVuSGN4akZEUVNGeWg0cmYxYmNzbjV4MlQ4ZTIzYTNKLWdIVVIyOVlGMFY5QldkcFd4b3lxYzZnakQ3NTNlZ01COGg0V1pyeHlVNUNidktqQktfMkJhdFJXT0FRc0tDcTZENWNCVjMwRThCSGQxYUlPTURXU2dGd2d0Qk1vN1hSWlhh0gGyAUFVX3lxTE9GRnd5RDNEN09rWlNRcDVwUW5FaVpUSlljbkhrTmZkM3VtaGVjUXYzVm8zTTBkWFRac0FZMW82RXZ0NzZRQlF4dWZSc0wxeGZUdkZoZlZIR3Zwb3RvTlFGRjhINkUzdlZic2xGcEtCUEpGZ1hOYTJmWlZ4UGFtNDhUTUFrREkyMkRCc3NqRmxjbFpSbjl5Z0VHQUhpcmRDXz",
@@ -1060,7 +1176,7 @@
       "title": "Consumers Energy plans to seek another rate hike, days after natural gas increase - WWMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnpiVmNUWkRFRDdRZVE5T0F5dEt6U2wxeE5iWjZsSXFqT2FmT1AyY1NOOWNkc011OGZobklON18ybDhyQlJ1V0V0V3otUzRBTGs0LUhtMXRrcER5cllTOGx1Q0p2QjNEVjRBOFpTUF9pSFJyNVd0d2VXR2lCSUtONkRBWlFzeE5RNkYxejJBdHNQcnlMX3dCd0d2TlN0eGtJWDN1R2dQYnZKX2Ry?oc=5",
       "summary": "Consumers Energy plans to seek another rate hike, days after natural gas increase&nbsp;&nbsp;WWMT",
-      "content": "Consumers Energy plans to seek another rate hike, days after natural gas increase\nFILE: A Consumers Energy truck and worker at Solar Gardens construction at Western Michigan University in Kalamazoo, Mich., in April 2016. (Consumers Energy/WWMT)\nLANSING, Mich.— Consumers Energy is announcing their intention to file another rate hike.\nThis comes five days after the Michigan Public Service Commission approved a $139 million natural gas rate hike for the energy giant.\nThe MPSC authorized Consumers Energy to raise its natural gas rates by 4.3% for a typical residential customer on October 15th, allowing the monopoly utility to raise an additional $139.2 million per year from its bill-paying customers, according to Michigan Attorney General Dana Nessel.\nIt is not known at this time what the next rate hike request will be. However, they have announced that the rate hike will be likely filed this December.\nRELATED NEWS: Flint non-profit accepting applications for savings program\nAttorney General Dana Nessel announced Tuesday that her office will file to intervene in the case.\n“Consumers Energy was approved for a new natural gas rate hike just last week, and before a single new dollar could be spent, they’ve announced their next rate hike,” said Attorney General Nessel. “Major utilities like Consumers Energy and DTE employ entire teams of staff to craft rate hike applications to file one right after another, and their bill paying customers pay all the costs to craft these massive proposals. In the past, we have asked the MPSC to require both companies to track their costs associated with rate hike cases and, as long as their customers are paying for the process, I hope someday soon we’ll know just how much.”\nConsumers Energy sells electricity to approximately 1.9 million customers throughout Michigan and natural gas to 1.8 million customers across the state.\nMattawan student hurt in deadly crash released from hospital, parents say\nThe family of one of three teenagers hospitalized following a deadly crash in Texas Township Sunday said they are hoping their daughter will be released soon.\nMattawan high schooler critically hurt in crash released from hospital\nOne of five teenage girls involved in Sunday&#x27;s deadly Texas Township crash was released from the hospital Tuesday.\n&#x27;They were inseparable&#x27;: Mattawan teens identified by family as victims of fatal crash\nThe family of two teenagers involved in an early Sunday morning crash in Texas Township have identified the teens.\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nA proposal aimed at increasing public input on thousands of planned roadside tree removals is raising questions about how far Kalamazoo County should go.\nGrand Rapids man gets 20 years in federal prison for intent to distribute cocaine\nA Grand Rapids man was sentenced to 20 years in federal prison for drug trafficking charges.\nNEW Mendon cheer alumni turn annual fundraiser into support for Mattawan crash victims&#x27; family\nReport details when a student brought a loaded gun into Kalamazoo Central High School\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nKPS, township police and CEIA OpenGate pressed for answers after gun brought to school",
+      "content": "Consumers Energy plans to seek another rate hike, days after natural gas increase\nFILE: A Consumers Energy truck and worker at Solar Gardens construction at Western Michigan University in Kalamazoo, Mich., in April 2016. (Consumers Energy/WWMT)\nLANSING, Mich.— Consumers Energy is announcing their intention to file another rate hike.\nThis comes five days after the Michigan Public Service Commission approved a $139 million natural gas rate hike for the energy giant.\nThe MPSC authorized Consumers Energy to raise its natural gas rates by 4.3% for a typical residential customer on October 15th, allowing the monopoly utility to raise an additional $139.2 million per year from its bill-paying customers, according to Michigan Attorney General Dana Nessel.\nIt is not known at this time what the next rate hike request will be. However, they have announced that the rate hike will be likely filed this December.\nRELATED NEWS: Flint non-profit accepting applications for savings program\nAttorney General Dana Nessel announced Tuesday that her office will file to intervene in the case.\n“Consumers Energy was approved for a new natural gas rate hike just last week, and before a single new dollar could be spent, they’ve announced their next rate hike,” said Attorney General Nessel. “Major utilities like Consumers Energy and DTE employ entire teams of staff to craft rate hike applications to file one right after another, and their bill paying customers pay all the costs to craft these massive proposals. In the past, we have asked the MPSC to require both companies to track their costs associated with rate hike cases and, as long as their customers are paying for the process, I hope someday soon we’ll know just how much.”\nConsumers Energy sells electricity to approximately 1.9 million customers throughout Michigan and natural gas to 1.8 million customers across the state.\nMattawan student hurt in deadly crash released from hospital, parents say\nThe family of one of three teenagers hospitalized following a deadly crash in Texas Township Sunday said they are hoping their daughter will be released soon.\nMattawan high schooler critically hurt in crash released from hospital\nOne of five teenage girls involved in Sunday&#x27;s deadly Texas Township crash was released from the hospital Tuesday.\n&#x27;They were inseparable&#x27;: Mattawan teens identified by family as victims of fatal crash\nThe family of two teenagers involved in an early Sunday morning crash in Texas Township have identified the teens.\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nA proposal aimed at increasing public input on thousands of planned roadside tree removals is raising questions about how far Kalamazoo County should go.\nGrand Rapids man gets 20 years in federal prison for intent to distribute cocaine\nA Grand Rapids man was sentenced to 20 years in federal prison for drug trafficking charges.\nMendon cheer alumni turn annual fundraiser into support for Mattawan crash victims&#x27; family\nReport details when a student brought a loaded gun into Kalamazoo Central High School\n&#x27;This sounds like a threat&#x27;: Kalamazoo County debates tree removal resolution\nKPS, township police and CEIA OpenGate pressed for answers after gun brought to school",
       "published": "2026-10-21T16:26:30+00:00",
       "source": "GN Energy",
       "sources": [
@@ -1081,51 +1197,47 @@
       ]
     },
     {
-      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa0NkenN2WUo2NHU0WXRYU0dmdldBVmhIVmphdk9HZFpMckZOZ2paMVFiQ3BaMHFCZ0lydjdyVHVWWUFwNUwzblVZVWVacU8tRXBCVXI0V1pibHdaT1BtelN4Qks5eVA0VDJkOGdWS1BpNWhZZVdtRXgtMmJ2bXFkYkZUMlRSNjF0WTBVZEZKdkVkakgtd0R2SnZHUk9MSHNJYXppMUpWNXhDMXFJQjg1QTBoemZBUG9GWVNwRlZyZW9xYlE?oc=5",
-      "summary": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade&nbsp;&nbsp;WSJ",
-      "content": "",
-      "published": "2026-10-22T01:00:00+00:00",
-      "source": "GN Geopolitics",
+      "title": "3 Semiconductor Stocks Investors Are Watching For The Next AI Compute Buildout - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb2pzaHI5T2JGUnBYTjJsaHpyV3hwZUM1aXJIOFh6V0xadXBFNWNXdHlLOTVhQ0ZTZldGaVB2elJWaWktMjh6aVhOUWVlbnV1STZXeTdFQkF0LVN1TVAtREM5dUFCMEw0R01FcEh6dDdxSERYZWxSUGh6Y3BxUTdHMFFoT0o1YTNIV1djX3hCU1JyQU92REp3dEE1VlRYQ3pLUzVHVWNLaklkQnhDNFlwRk5WY3ZvWjlURE54dFdTdmhkMDRmd1VuREdGRnNGUnh4RDJDcFdyeWZFOHB0dXREVy1OSGlhVklZek5ZRtIB8gFBVV95cUxQQlRhVjNmYmg2aHVla1g4RkhBMG41c0FaOGVjUEVFWU1YSjBHVnpveW0tbWxHY25WbTA4Tnc3NGxRbDRXUndsZHB5cVlYU0JjS2JDcTVtcW5qUm0zMEdLeXJpWVk5dTVYRVF0QzBmMG1iLW5UV3ZFRHNGb3VfZnVqLXJjMUJVamdsaDVzdDNwYVNmQmFGNzBMSmw5cmtEUFRZbFNjbFJMRDFBcGJoNWt0ZW80VXB4U0loVW5rWkR1ejVFOFdyek5NaFhzRy1xRGhodW1rX2xqT0xPWEppeWxOMWpJb3I0RXpmWjd1cUtaT2V3QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb2pzaHI5T2JGUnBYTjJsaHpyV3hwZUM1aXJIOFh6V0xadXBFNWNXdHlLOTVhQ0ZTZldGaVB2elJWaWktMjh6aVhOUWVlbnV1STZXeTdFQkF0LVN1TVAtREM5dUFCMEw0R01FcEh6dDdxSERYZWxSUGh6Y3BxUTdHMFFoT0o1YTNIV1djX3hCU1JyQU92REp3dEE1VlRYQ3pLUzVHVWNLaklkQnhDNFlwRk5WY3ZvWjlURE54dFdTdmhkMDRmd1VuREdGRnNGUnh4RDJDcFdyeWZFOHB0dXREVy1OSGlhVklZek5ZRtIB8gFBVV95cUxQQlRhVjNmYmg2aHVla1g4RkhBMG41c0FaOGVjUEVFWU1YSjBHVnpveW0tbWxHY25WbTA4Tnc3NGxRbDRXUndsZHB5cVlYU0JjS2JDcTVtcW5qUm0zMEdLeX",
+      "content": "A possible Tesla and SpaceX merger into a roughly US$3.6t Musk conglomerate has put a fresh spotlight on who might help feed that kind of AI and compute ambition. Investors watching SpaceX up about 9% and Tesla up roughly 2.5% on the speculation risk missing where the picks-and-shovels money could flow. This piece walks through 3 stocks exposed to that news and why each one could matter for your watchlist.\nThe three stocks below are just a starting sample. The full screen surfaced 64 more large semiconductor players with similarly compelling stories that are not included here.\nTo identify and analyze the highest conviction semiconductor suppliers tied to hyperscale compute, head straight into the AI Chip and Semiconductor Suppliers to Hyperscale Compute Builders screener .\nBE Semiconductor Industries builds the assembly and advanced packaging gear that can sit behind AI accelerators in hyperscale data centers, so any step up in compute spending puts attention on how its order mix is shifting toward those higher value tools.\n\"The rapid rise in AI related orders, which reached about 60% of BE Semiconductor Industries’ total orders in the first half of 2026, creates room for a further mix shift toward higher value AI infrastructure tools that could lift both revenue and net margins if this order profile carries through into future shipment periods.\"\nWhat happens if that evolving order mix intersects with one unresolved pressure on future pricing power and profitability could matter a lot.\nBE Semiconductor Industries generates about €733.83 million from semiconductor equipment and services, entirely tied to assembly and packaging tools, and carries a roughly €13.1b market cap, which puts it among the larger specialist suppliers in the AI packaging value chain.\nIf that pricing pressure is what you are watching, the full narrative for BE Semiconductor Industries sets out how that order mix could accelerate or cap the upside potential for BE Semiconductor Industries.\nENXTAM:BESI Earnings & Revenue Growth as at Oct 2026 Samsung Electronics (KOSE:A005930)\nSamsung Electronics links consumer devices, foundry services, and high performance memory that can support large AI data centers. This is why it shows up in an AI chip and hyperscale compute screen rather than just a smartphones and TVs bucket.\nSamsung Electronics runs a wide range of hardware and semiconductor activities, with the Device Solutions unit generating about ₩286,354b, Device Experience around ₩193,357b, SDC roughly ₩31,773b, and Harman about ₩16,928b in revenue, and carries a market value near ₩1,426,707b.\n\"However, due to recurring margin calls and KRW instability, the stock price crashed around 32% from its peak.\"\nWhat happens to Samsung Electronics if hyperscale AI memory demand collides with a tight constraint on future capacity and pricing power?\nThat potential squeeze on capacity and pricing is exactly what the full narrative for Samsung Electronics unpacks, showing how Samsung Electronics could turn volatility into accelerating AI memory leverage.\nKOSE:A005930 Revenue & Expenses Breakdown as at Oct 2026 Credo Technology Group Holding (CRDO)\nCredo Technology Group Holding plugs directly into the AI Chip and Semiconductor Suppliers to Hyperscale Compute Builders theme, because its Ethernet and PCIe gear helps GPUs and accelerators talk to each other inside dense AI data centers. The bigger story is how far that reach can extend.\nCredo generates about US$1.6b from semiconductors and related connectivity products and carries roughly a US$32.2b market value, tying high-speed data-center links to a sizeable pure-play exposure to AI networking.\n\"The DustPhotonics acquisition gives Credo a weapon to fight in this longer-range, higher-bandwidth territory that was previously Marvell&#x27;s exclusive domain.\"\nWhat happens to Credo’s growth profile if that new piece of the portfolio quietly reshapes where hyperscale AI customers choose to spend?\nIf that shift is what you are tracking, the full narrative for Credo Technology Group Holding explains how Credo Technology Group Holding’s AI connectivity story could accelerate beyond the DustPhotonics headline.\nNasdaqGS:CRDO Earnings & Revenue Growth as at Oct 2026 Seeking Fresh Alternatives Before They Fly\nFresh breakouts, fading laggards, and under the radar stories keep moving while you read this. Get to the short list before the crowd and act now.\nSpot early momentum and filter for resilient balance sheets by running the list of solid balance sheet and fundamentals (203 results) . Catch potential compounders while they are still under the radar for now.\nHunt for resilient payers using the 218 dividend fortresses . Track companies with sizable yields before everyone chases the same income stories and entry yields start dropping.\nScan for outsized upside potential through the 617 high quality undiscovered gems . Focus on under followed opportunities before fresh buying interest drives the next leg of momentum.\nOur new AI Stock Screener scans the market every day to uncover opportunities.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com\nUnder the radar: This $78M stock controls a $1.5B project and it’ll start producing in a few months\n· 2 comments users have commented on this narrative\nZscaler: The Market May Still Be Treating AI Security As An Add-On. Management Is Betting It Becomes The Platform.\n· 0 comments users have commented on this narrative\njoehanncsad2717 on BTQ Technologies · about 2 months ago\nQuantum-Era Security Transition: Preparing for Q-Day\n· 0 comments users have commented on this narrative\nGeneral Dynamics: A Decade of Submarines, at a Discount\nMusk wants to merge Tesla and SpaceX. Would that be a good thing for shareholders?\nMerger will help Elon to consolidate control and move captial easily and efficiently. So why not?\nThis merger will be like moving mountains. And actually not a good thing for Tesla shareholders, if SpaceX continues to do well before the merger.\nHow drones are changing the world of business, not just the battlefield\nDrones are more than just toys. They are now changing the face of numerous industries. We take a look into the wide world of drones.\nProvides various high-speed connectivity solutions for optical and electrical Ethernet and PCIe applications in the United States, Taiwan, Mainland China, Hong Kong, and other international markets.\nExceptional growth potential with flawless balance sheet.\nHow drones are changing the world of business, not just the battlefield AN\nWhich experience stocks actually have pricing power? CH\nmitchell_lawler on Global X Funds - Global X MLP ETF · about 3 hours ago\n· 0 comments users have commented on this narrative\n· 0 comments users have commented on this narrative\nNetflix: Solid Q3 Numbers, a Cautious Outlook and a Stock Priced About 30% Below Our Fair Value\n· 0 comments users have commented on this narrative\nAI Factory Demand And Physical AI Workloads Will Drive Multi‑Year Upside Potential\n· 8 comments users have commented on this narrative\nAI Infrastructure And Cloud Commitments Will Drive Long-Term Upside For This Business\nAI Infrastructure And Cloud Services Will Drive Long-Term Value In This Retail Giant\nThe question is in a diversified portfolio, what makes GD a better investment than RTX or Lockheed Martin\nI really don’t understand why the valuation is so low right now. The market seems to be pricing this way below its actual value. Growth remains strong, the dividend is solid, and there’s no debt on the balance sheet. At these levels, I’m almost afraid it might become a buyout target and get taken private ? Itryed that before with Ming Yang windpower\nAgree with the split between a great business and a great investment. One variable I&#x27;d add to the bear case is that a big slice of that $89bn data centre line still comes from a handful of hyperscalers who are all ramping their own custom silicon, so mix shift rather than demand collapse could be what pressures the 75% gross margin first. If Q3 lands near the $108bn guide with margins holding, your $240 base case looks fair; a capex pause from even one large customer would pull it toward the bear end quickly.",
+      "published": "2026-10-22T02:49:59+00:00",
+      "source": "GN AI",
       "sources": [
-        "GN Geopolitics"
+        "GN AI"
       ],
       "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
       "score": 12.6,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
       "assets": [
-        "原油",
-        "能源股",
-        "油运"
+        "科技股",
+        "半导体"
       ]
     },
     {
-      "title": "Dow Jones Energy Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says - https://www.dowjones.com/",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNXzB6aFFJS2lYVFB2Zmo1dWZCTlFqU0dQRHNGd1JNblF5TXFiUmNUczVGbTVTUzAtVmVlUGVyNldfTzA2NFVObm1OUWFxYWJCeXZyZmd4SDF5ajJsb2lXbFB6d2xDOTZmdm10UGs2aTZ5akdyMEdTRTZfQ2RIdXhQTHZlS0ZPZTRwRF9WOHN0MTdWa3FYaXpnX0N1ZElIQ2RZZl9BalRrSVFiU3hfVE8zU2JzVTZBSlhlbU9IZjk5V0Joakt1dEFFdmd4N3lmN1RsY2RvR3ZZSVBjN3dDaEhaeXhqbUJBOVkxa082OHMwM2FwQ19xZkJvRjdJVnNEUzhiQlpqZHRVOVlxcTNqclVNLWxUNzMzSjdWbTl3ZVY2Nk43VmU4X19WWUdYNmRCNVU?oc=5",
-      "summary": "Dow Jones Energy Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says\nU.K. policymakers need to “wake up” to the fact that oil and gas supplies will be needed to meet energy demand, the chairman of Ineos Energy said Wednesday, with investment needed across all sectors of the industry.\n“It’s a U.K. message of ‘Use the oil and gas that we have, rather than ",
-      "content": "Dow Jones Energy Forum: Policymakers Too Complacent About Volatile Oil, Gas Supplies, Ineos Energy Chairman Says\nU.K. policymakers need to “wake up” to the fact that oil and gas supplies will be needed to meet energy demand, the chairman of Ineos Energy said Wednesday, with investment needed across all sectors of the industry.\n“It’s a U.K. message of ‘Use the oil and gas that we have, rather than importing molecules from somewhere else, which are more expensive and may not be on secure supply routes anymore,’” Brian Gilvary said, on the same day the government approved Shell’s plans to develop the Jackdaw field in the North Sea.\nPolicymakers have grown complacent about access to energy, Gilvary added, even as modern warfare has escalated the costs of defending oil and gas supplies and access to capital for hydrocarbon investments has become constrained.\n“This idea that power will always be available in a population that’s now 8.3 billion going to 10 billion is an assumption that, on a point-forward basis, policymakers really need to think about what that means — because if the power isn’t available, not only do you not have heat and you don’t have light, you also don’t have mobility,” he said at the Dow Jones Energy Forum in New York City.\nIneos Energy, a subsidiary of Ineos Group, owns and operates several oil fields in the North Sea — though not Jackdaw, which is being developed by a joint venture between Shell and Equinor and had been subject to legal challenges brought by environmental campaigners.\nThe joint venture also is seeking U.K. government approval, along with partner Ithaca Energy, to drill in the Rosebank oil and gas field west of Shetland in Scotland.\nIn approving Jackdaw, the government said it would start supplying gas to British homes and businesses from the end of the month.\n“Recent events in the Middle East have triggered global energy shocks and pushed up bills for families across the country,” the government said in a press release. “At a time of global instability, homegrown energy can be a source of national strength.”\nGilvary, a former chief financial officer of BP from 2012-2020, said that pressure from climate policies and regulatory shifts had severely constrained financing for oil and gas projects, which have long lead times. The International Energy Agency’s Net Zero roadmap, which was published in 2021 and called for no new oil and gas investment, severely impacted the industry — as well as policies imposed by banks on reporting the climate impacts of their investments, he said.\nThat has diminished the industry’s ability to respond to major oil shocks, which have been happening every three to four years since the 2008 financial crisis, Gilvary added.\n“There has been a particularly heavy focus over the last decade around the carbon content and the cost of that carbon, and we are now suffering the consequences of underinvestment, specifically in oil — to a degree in gas — which is why we see this situation today of these tight supplies,” Gilvary said.\nHe said policymakers should help the industry to ensure future energy security by investing across the entire end-to-end chain, including midstream logistics, storage and chemical feedstocks, while addressing permitting challenges and reducing supply bottlenecks.\n“I think what governments will need to do is ensure that they’ve put the policies in place that will attract capital in, because for our sector it’s a multi-decade investment,” Gilvary said. “Most of all, it requires a degree of stability and understanding of the energy system and how you move energy around your particular geography.”\nIneos Energy itself is “still very focused on the United States as being the place where our marginal dollar will go,” he said.\nIneos Energy’s oil and gas portfolio, which spans the U.K. and Danish North Sea, the Eagle Ford shale formation in Texas and deepwater fields in the U.S. Gulf of Mexico, is expected to produce around 73,000 boe/d in 2026, down from around 85,000 boe/d in 2025 as its assets gradually deplete, according to Fitch Ratings.\n—Reporting by Herman Wang with editing by Dean Visser from the Dow Jones Energy Forum",
-      "published": "2026-10-21T16:42:20+00:00",
-      "source": "GN Energy",
+      "title": "Pennsylvania warns of congenital measles risk as cases rise - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXNCc3RoYmFQMk1uNjYtWHRrY3pVT0FDUkx6MEpHODRwZW9HNTNuSElpRjhjZTZEQkhrZU1pNkxCZDZleENHZEtlVkh2akxJVmZ5bC1pUGIzcU5TRFE4eWhzS1pualBpY0VsZjluVjI1NE9STVhEMHdVQ2I5RkFHUzVGZW9MZkRNclV3STZ5d0hXRUY3WENySFpB0gGfAUFVX3lxTE4tRlBYRU5iWnoyOTNFVmh6aEVBM0dqOGxra3VjUEZ5MmFNWDV0NXQzeUo2bXgxV2txbGl5UVo5ZGJZNTdlb29BN0R2OHFYbVZWQlZOSm1Kd214bFVMMG1ZemltWHFZRU1JeVk3T0tqV2I1U3duWlZDQ2k0N0RYT2tlSXFyeGE1UWw0aVZkUTNpOVFaZ0gxNGYzN0hsNVhoMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXNCc3RoYmFQMk1uNjYtWHRrY3pVT0FDUkx6MEpHODRwZW9HNTNuSElpRjhjZTZEQkhrZU1pNkxCZDZleENHZEtlVkh2akxJVmZ5bC1pUGIzcU5TRFE4eWhzS1pualBpY0VsZjluVjI1NE9STVhEMHdVQ2I5RkFHUzVGZW9MZkRNclV3STZ5d0hXRUY3WENySFpB0gGfAUFVX3lxTE4tRlBYRU5iWnoyOTNFVmh6aEVBM0dqOGxra3VjUEZ5MmFNWDV0NXQzeUo2bXgxV2txbGl5UVo5ZGJZNTdlb29BN0R2OHFYbVZWQlZOSm1Kd214bFVMMG1ZemltWHFZRU1JeVk3T0tqV2I1U3duWlZDQ2k0N0RYT2tlSXFyeGE1UWw0aVZkUTNpOVFaZ0gxNGYzN0hsNVhoMA?oc=5\" target=\"_",
+      "content": "",
+      "published": "2026-10-21T23:01:00+00:00",
+      "source": "GN Top",
       "sources": [
-        "GN Energy"
+        "GN Top"
       ],
       "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 12.6,
       "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
@@ -1192,130 +1304,20 @@
       ]
     },
     {
-      "title": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWNFNGhkNmNLdmNHYjRIcXJFV0ZjYWFYVHJyMnpvd01tUk10Z3RyZmgtbU44S1JjTHJMRmtSUG9jQ2VNVWRzeDU5S3B0ZURmSnpobkN0b1hPRmhNYjdsRS1mYVZyTE9GUFVpbTFHX0d6TDdMQlJSTkgzeHZ3M2R3djBldW84OWF2OHJUZDMtbUhQRUxKVXFWOUZKbnV4M2dPSElXVmwxd1hxamNEMXhIYVJMVkl1WXZxanUxZXpuMUxzRlVjRFE?oc=5",
-      "summary": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view&nbsp;&nbsp;Reuters",
+      "title": "Asian markets dip as investors weigh tech earnings, Gulf tensions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
+      "summary": "Asian markets dip as investors weigh tech earnings, Gulf tensions&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-21T22:43:37+00:00",
+      "published": "2026-10-22T02:15:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
       ],
       "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm?oc=5",
-      "summary": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T22:21:44+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "Al Jazeera"
-      ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Supreme Court won't allow Trump administration restrictions on transgender inmates - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb05XM3ZlNDVMQU42NUZWTWl0TF95di1wZTVSOVBxYVkwNWEyTDdWZjhvaGdwbFE1M1JNTEVhMkNxcFFBczZzZUI4blV5bGNxMnRrX1djZ3BrZTlvYXpxMG0zTmNJWE0wRkMzY19OYUlMX1YwXy1XeDg2NUJtOWNGeGxia2xjUDlfdnJTaWJzUHotZlRIQ1VRMXJydm11eW9VTm44bVlWTnE4cFRDNnVGQmwxNkxzbDgzUEhXTQ?oc=5",
-      "summary": "Supreme Court won't allow Trump administration restrictions on transgender inmates&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T17:25:55+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World"
-      ],
-      "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Taiwan regulator blocks Grab's purchase of Foodpanda delivery business in Taiwan - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3NtcUZ6MWtvTkRoTDhjc2luUUNyelJ3TmdtcjlmVzJpaDZTVzhZcENnOXpPeFRDMUZOR3N1WDZqdnhvUUNSWC1WN2dPNTVzU0RnanRucHU2ZkVUOFNTckRUc1FIVGV3NzJ6bkYyWWFmbFEzVk5GaUpqcTNqZHd6UUN4YUVFXzR5RXNuWnZ0RFcxRVhhLW8yVUg3WEV1dW5penR6dUZ3dVJTUmMxN1p4WHZTdC1sUjNrWFlWYV9yWUlxTnRUdzdV?oc=5",
-      "summary": "Taiwan regulator blocks Grab's purchase of Foodpanda delivery business in Taiwan&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T14:27:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：台积电 / 半导体 / 亚太市场 及相关产业链。",
-      "assets": [
-        "台积电",
-        "半导体",
-        "亚太市场"
-      ]
-    },
-    {
-      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5",
-      "summary": "Meta Will Split Stock, Create New Class to Fund AI Spending&nbsp;&nbsp;WSJ<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5HVnM1M1JBSWFqUlBzWnZDYlNqcksySUpHN2xrOU0zM1BpZjE",
-      "content": "",
-      "published": "2026-10-22T00:32:00+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.3,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Mapping the Market: UnitedHealth shares look ready to extend rally - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3MzMXh2TGYtblAxNEhzbUtGRWhweUZnTFFmRndrNC1MU0V2ajZQUGNCcU5MdUNUcHU1bGpaT3ozQ0I3S3hmSHk0ODF5YnFXUXhFTVlUWHB2bjVIMDd5eWt6cFYwTmt2Zk9CWmpSaTZrNFlyalQyNTA1ZHUtYVNHRmREMWNlVlpqS0E?oc=5",
-      "summary": "Mapping the Market: UnitedHealth shares look ready to extend rally&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-21T10:04:21+00:00",
-      "source": "Reuters Markets",
-      "sources": [
-        "Reuters Markets"
-      ],
-      "source_count": 1,
       "category": "markets",
       "category_zh": "市场",
       "stars": 3,
-      "score": 12.2,
+      "score": 12.4,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
