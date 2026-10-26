@@ -1,58 +1,11 @@
 {
-  "generated_at": "2026-10-26T02:28:16.056358+00:00",
+  "generated_at": "2026-10-26T04:29:15.905813+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-25T02:27:49.988086+00:00",
-  "window_end": "2026-10-26T02:32:49.988086+00:00",
+  "window_start": "2026-10-25T04:28:48.844292+00:00",
+  "window_end": "2026-10-26T04:33:48.844292+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
-    {
-      "title": "Israel's Eisenkot praises Trump strikes on Iran, warns of nuclear threat - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nWkwwREFvaFVaSW5Cc0t6WHNHOHNTUjQtZUwwUGI3RURiTTVEX0h1RzVSQVpnN3U1WS1lSzdjMnBTZXNhcXlHVnFURExDMUhEMXc?oc=5",
-      "summary": "Israel's Eisenkot praises Trump strikes on Iran, warns of nuclear threat&nbsp;&nbsp;Iran International",
-      "content": "",
-      "published": "2026-10-25T14:01:06+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "Al Jazeera"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 4,
-      "score": 17.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
-      "summary": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-25T03:36:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Geopolitics",
-        "GN China"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.5,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
     {
       "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service - AP News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
@@ -77,25 +30,31 @@
       "assets": []
     },
     {
-      "title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW05UHQ5YjRDajJGVFZOdDRXWVM4YWZ0ZVZEakU1R2xFWk02Z1MwWHBic3Q0ZW1BUVk0YXFRLUpwd3d1MTAtdkxsNjVxenAtLVpJakpZTDJXOEVxSHFOYVotNjc3QWE4MEhEbWktZ3cycndLc0dERDJzaU01N1EyRGJwSU1pVXliOG13TmZUZllNU1c1ak00TWVoRDlFSFFEWXBuSlBYd1pnckJKdUJQTWNqa2Y2Zw?oc=5",
-      "summary": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic&nbsp;&nbsp;WSJ",
+      "title": "Oil prices, Fed policy decision to steer rupee, bonds this week - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelJyN3JpclF1bWk1YzFhM1prRER2SmsyZ0tLbEYyVnZxb0JhbV9sVEplUzhvbnFydkUtdURhektCU2Z1a3VNVk8xaGRBZXZSanpsYWkzMkh1RDBpQktlR25CeEZabmZLWTdfN0QwYUZWQjQ2VmVGdENPSm04Z1BwUF83am40bVlTYjVjV0REZWdUS3E3cUNLaFZCaEFoQzhBemhoRkFxa3hSUQ?oc=5",
+      "summary": "Oil prices, Fed policy decision to steer rupee, bonds this week&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-25T21:00:00+00:00",
-      "source": "GN Geopolitics",
+      "published": "2026-10-26T01:31:00+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN Geopolitics",
-        "GN Top"
+        "Reuters World",
+        "GN Fed"
       ],
       "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 3,
-      "score": 15.3,
+      "score": 15.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：原油 / 能源股 / 美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
       "title": "Iran says messages are still being passed to the US amid war concerns, and other Mideast news - AP News",
@@ -163,7 +122,7 @@
       "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’ - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWp2U0RzdHBRTFh6dVpHUlBqb3lxMXFFWnM1Mld3WndRbzRpbXEtbkxLbWw2aFhscGJJT3M5aWF5Q3lLaWJyOVRHUEtKT04yWWZNdUVHWWdhMklva2k3TF82YUs3RlBtVVhxTFBVTjRXc3NCWGtIWi1nX19uSzN5UzJ4TXVMZFJfYkoxc3JORDRhak5LU1lCWnFlbk9SZDRCN3pGYWJORUN6aTIweUE?oc=5",
       "summary": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’&nbsp;&nbsp;Stocktwits</f",
-      "content": "GOOGL&#x27;s $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’\nHome News Markets Equity GOOGL&#x27;s $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’\nGOOGL&#x27;s $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’\nKindig said Google&#x27;s advantage may not come from simply building a faster accelerator, but from attacking the economics of AI infrastructure.\nA Google corporate logo hangs above the entrance of their St. John&#x27;s Terminal office building in New York City. (Photo by Gary Hershorn/Getty Images)\nKindig says the AI accelerator market is entering a new phase as Google moves its merchant TPU strategy from announcement toward commercial execution.\nThe analyst noted that the focus is increasingly on cost per token now, as massive AI infrastructure spending puts pressure on Big Tech&#x27;s free cash flow.\nKindig believes that the bigger opportunity for Google could come from the company selling TPUs directly to third-party customers rather than exclusively deploying them through Google Cloud.\nAlphabet Inc. (GOOG, GOOGL) could be positioning its artificial intelligence chips as a serious challenge to Nvidia Corp. (NVDA), with third-party Tensor Processing Unit sales potentially becoming a major new revenue stream, according to IO Fund analyst Beth Kindig.\nIn a note on Friday, Kindig said Google&#x27;s advantage may not come from simply building a faster accelerator, but from attacking the economics of AI infrastructure, particularly the cost of running increasingly expensive AI workloads.\nRead Next SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week Shivani Kumaresan\nShe said Google’s AI story is about to change “not from advancements in AI software, but by going after one of the most profitable hardware businesses the tech industry has ever seen.”\nAlphabet’s Class A shares closed 1% lower in Friday’s regular trading session, while  Nvidia shares fell about 0.6%.\nKindig Points To Google Targeting AI&#x27;s Biggest Cost Problem With TPU Strategy\nKindig says the AI accelerator market is entering a new phase as Google moves its merchant TPU strategy from announcement toward commercial execution. Google recognized its first TPU-related revenue from third-party customers in the second quarter.\nThe analyst noted that the focus is increasingly on cost per token now, as massive AI infrastructure spending puts pressure on Big Tech&#x27;s free cash flow.\nGoogle&#x27;s latest TPU 8t and 8i systems are designed to improve performance per dollar compared with the previous-generation Ironwood TPU. Kindig says TPU 8i can deliver up to an 80% improvement in performance per dollar, particularly for low-latency inference workloads, while TPU 8t offers up to 2.7 times better performance per dollar for training.\nThe result could allow customers to process substantially more AI workloads for the same infrastructure spending.\n“Google’s greatest competitive advantage may not be building a faster chip than Nvidia, but rather in building AI infrastructure at a lower cost,” she added.\nKindig believes that the bigger opportunity for Google could come from the company selling TPUs directly to third-party customers rather than exclusively deploying them through Google Cloud.\nShe added that this would create a second revenue stream for Google while shifting much of the upfront infrastructure burden toward customers, including data centers, power, cooling and hardware.\nAnthropic is already expected to deploy a gigawatt of Ironwood TPUs in 2026, followed by 5GW of TPU 8i in 2027 and another 10GW in 2028, according to Broadcom&#x27;s update cited by Kindig, who believes that this would create a significant revenue stream for the company.\nAt the high end, that would represent a staggering acceleration for Google&#x27;s chip business, potentially reaching the current run rate of its Search business in just a few years, the analyst noted.\nGoogle Could Challenge Nvidia Beyond Inference, Says Kindig\nGoogle&#x27;s threat to Nvidia also extends beyond inference. Kindig highlights TPU 8t&#x27;s ability to scale to a 9,600-chip superpod with 2PB of shared HBM and 121 exaflops of FP4 compute.\nGoogle&#x27;s Virgo Network fabric can then connect 14 such superpods, creating a domain capable of supporting 134,400 TPUs.\nThe scale could become particularly important if Nvidia encounters further delays with its next-generation systems, potentially giving Google additional room to gain accelerator share, she added.\nRetail sentiment on Stocktwits around Alphabet trended in the ‘bullish’ territory at the time of writing.\nGOOGL stock is up 2% year-to-date, while  NVDA stock is up 13%. The Invesco QQQ Trust (QQQ) is up 15% over the past 12 months, while the iShares U.S. Technology ETF (IYW) is up 25%.\nAlso See:  Rubio Calls Trump&#x27;s Russia Diesel Deal &#x27;Very Wise&#x27; Amid Soaring Prices — Russian Deputy PM Says Ready To Supply &#x27;As Much As Our Partners Want&#x27;\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nGet the daily crypto email you’ll actually love to read. It&#x27;s value-packed, data-driven, and seasoned with wit.\nRead about our editorial guidelines and ethics policy\nSPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week Shivani Kumaresan · 26m ago\nCRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is ‘Pointless’ Yuvraj Malik · 31m ago\nBE Stock Dips Overnight After 3 Weeks In The Red: Analyst Sees Share Prices ‘Heavily Weighted On Optimistic Expectations’ Aashika Suresh · 33m ago\nSPCX Rises Overnight: Musk Confirms $40B GPU Deal, Warns On Neoclouds — Dan Ives Sees ‘Game Of Thrones’ Compute War Deepti Sri · 57m ago\nWhy Is NU Stock Plunging Nearly 12% Overnight? Aashika Suresh · 1h ago\nTeraWulf CEO Paul Prager Turns Elon Musk’s ‘Stranded Compute’ Warning Into A Buying Pitch Anushka Basu · 10h ago",
+      "content": "GOOGL&#x27;s $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’\nHome News Markets Equity GOOGL&#x27;s $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’\nGOOGL&#x27;s $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’\nKindig said Google&#x27;s advantage may not come from simply building a faster accelerator, but from attacking the economics of AI infrastructure.\nA Google corporate logo hangs above the entrance of their St. John&#x27;s Terminal office building in New York City. (Photo by Gary Hershorn/Getty Images)\nKindig says the AI accelerator market is entering a new phase as Google moves its merchant TPU strategy from announcement toward commercial execution.\nThe analyst noted that the focus is increasingly on cost per token now, as massive AI infrastructure spending puts pressure on Big Tech&#x27;s free cash flow.\nKindig believes that the bigger opportunity for Google could come from the company selling TPUs directly to third-party customers rather than exclusively deploying them through Google Cloud.\nAlphabet Inc. (GOOG, GOOGL) could be positioning its artificial intelligence chips as a serious challenge to Nvidia Corp. (NVDA), with third-party Tensor Processing Unit sales potentially becoming a major new revenue stream, according to IO Fund analyst Beth Kindig.\nIn a note on Friday, Kindig said Google&#x27;s advantage may not come from simply building a faster accelerator, but from attacking the economics of AI infrastructure, particularly the cost of running increasingly expensive AI workloads.\nRead Next Financial Stocks Analyst Roundup: Truist Weighs In On PYPL, FISV, SOFI, AFRM, MA, V Aashika Suresh\nShe said Google’s AI story is about to change “not from advancements in AI software, but by going after one of the most profitable hardware businesses the tech industry has ever seen.”\nAlphabet’s Class A shares closed 1% lower in Friday’s regular trading session, while  Nvidia shares fell about 0.6%.\nKindig Points To Google Targeting AI&#x27;s Biggest Cost Problem With TPU Strategy\nKindig says the AI accelerator market is entering a new phase as Google moves its merchant TPU strategy from announcement toward commercial execution. Google recognized its first TPU-related revenue from third-party customers in the second quarter.\nThe analyst noted that the focus is increasingly on cost per token now, as massive AI infrastructure spending puts pressure on Big Tech&#x27;s free cash flow.\nGoogle&#x27;s latest TPU 8t and 8i systems are designed to improve performance per dollar compared with the previous-generation Ironwood TPU. Kindig says TPU 8i can deliver up to an 80% improvement in performance per dollar, particularly for low-latency inference workloads, while TPU 8t offers up to 2.7 times better performance per dollar for training.\nThe result could allow customers to process substantially more AI workloads for the same infrastructure spending.\n“Google’s greatest competitive advantage may not be building a faster chip than Nvidia, but rather in building AI infrastructure at a lower cost,” she added.\nKindig believes that the bigger opportunity for Google could come from the company selling TPUs directly to third-party customers rather than exclusively deploying them through Google Cloud.\nShe added that this would create a second revenue stream for Google while shifting much of the upfront infrastructure burden toward customers, including data centers, power, cooling and hardware.\nAnthropic is already expected to deploy a gigawatt of Ironwood TPUs in 2026, followed by 5GW of TPU 8i in 2027 and another 10GW in 2028, according to Broadcom&#x27;s update cited by Kindig, who believes that this would create a significant revenue stream for the company.\nAt the high end, that would represent a staggering acceleration for Google&#x27;s chip business, potentially reaching the current run rate of its Search business in just a few years, the analyst noted.\nGoogle Could Challenge Nvidia Beyond Inference, Says Kindig\nGoogle&#x27;s threat to Nvidia also extends beyond inference. Kindig highlights TPU 8t&#x27;s ability to scale to a 9,600-chip superpod with 2PB of shared HBM and 121 exaflops of FP4 compute.\nGoogle&#x27;s Virgo Network fabric can then connect 14 such superpods, creating a domain capable of supporting 134,400 TPUs.\nThe scale could become particularly important if Nvidia encounters further delays with its next-generation systems, potentially giving Google additional room to gain accelerator share, she added.\nRetail sentiment on Stocktwits around Alphabet trended in the ‘bullish’ territory at the time of writing.\nGOOGL stock is up 2% year-to-date, while  NVDA stock is up 13%. The Invesco QQQ Trust (QQQ) is up 15% over the past 12 months, while the iShares U.S. Technology ETF (IYW) is up 25%.\nAlso See:  Rubio Calls Trump&#x27;s Russia Diesel Deal &#x27;Very Wise&#x27; Amid Soaring Prices — Russian Deputy PM Says Ready To Supply &#x27;As Much As Our Partners Want&#x27;\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nThe best trade ideas and analysis from the Stocktwits community. Delivered daily by 8 pm ET.\nRead about our editorial guidelines and ethics policy\nFinancial Stocks Analyst Roundup: Truist Weighs In On PYPL, FISV, SOFI, AFRM, MA, V Aashika Suresh · 7m ago\nNebius CEO Admits Neocloud Financing Has Tightened, Says Company Has Enough To Build Its Gigawatt Yuvraj Malik · 14m ago\nThis Movie Theater Chain Stock Has Outperformed Peers With 86% Gains In 2026: Wall Street Sees Further Upside Aashika Suresh · 36m ago\nWhy Did TMUS, LKQ, CMG Stocks Tumble To 52-Week Lows Last Week? Shivani Kumaresan · 1h ago\nWhy Did XOM, COP, CVX Jump To 52-Week Highs Last Week? Aashika Suresh · 1h ago\nASTS Stock Slips Overnight: AST Seeks More Spectrum For Broadband Expansion — Market Veteran Flags ‘Sky-High’ Valuation Deepti Sri · 1h ago",
       "published": "2026-10-25T14:46:00+00:00",
       "source": "GN AI",
       "sources": [
@@ -223,11 +182,11 @@
       "assets": []
     },
     {
-      "title": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdl85UGVoQy1pVDVRdEhMV2FubnRDSmtnSUxZalVGU3JyWlJGQjdKNjRaZEJzMVU0azl6X1pza21QaUdIV21BYnl0dUVvbzBWYjBVTW9iVl9QNzlBdV9zRFk4djI5blBfYlltT1VLTTI3WERSQ3VKVkN0VWRiN05jd1hHRERzV2tpNHFXNWF6djFFVDNyanB2RlpyXzc5TEI4a3pTdGNPMWdUdHpGQkJMa3dseXVUbC1jT25HYXJRRktFVkR0QkN1VE9seTJKYmRhbEtFVkZEdw?oc=5",
-      "summary": "From a purely statistical standpoint, Wall Street has enjoyed having President Donald Trump in the White House. Even accounting for a few periods of historic volatility (e.g., the COVID-19 crash in February-March 2020 and the tariff tantrum of April 2025), the average annual return of the Dow Jones Industrial Average ( ^DJI -1.23% ) , S&P 500 ( ^GSPC -0.52% ) , and Nasdaq Composite ( ^IXIC -0.21% ",
-      "content": "From a purely statistical standpoint, Wall Street has enjoyed having President Donald Trump in the White House. Even accounting for a few periods of historic volatility (e.g., the COVID-19 crash in February-March 2020 and the tariff tantrum of April 2025), the average annual return of the Dow Jones Industrial Average ( ^DJI -1.23% ) , S&P 500 ( ^GSPC -0.52% ) , and Nasdaq Composite ( ^IXIC -0.21% ) has been higher under Trump than under most presidents since the late 1890s.\nHowever, this doesn&#x27;t mean that all of the president&#x27;s policies are necessarily well-received on Wall Street. For example, Trumpflation (inflation specifically driven by Donald Trump&#x27;s policies) is a genuine threat to the artificial intelligence (AI)-driven bull market.\nPresident Trump&#x27;s tariffs are doing more harm than good. Image source: Official White House Photo by Daniel Torok.\nPresident Trump sees things differently. While speaking to an audience at a campaign rally in Montana ahead of the Nov. 3 midterm elections, Trump touched on inflation and the role his tariff and trade policy may have played in it. Said the president:\nWe don&#x27;t have inflation, and tariffs don&#x27;t cause inflation. You know what they cause? Wealth. Although Trump insists that tariffs aren&#x27;t contributing to persistently elevated inflation and are beneficial to the U.S. economy, reports from New York Federal Reserve economists show otherwise .\nTariffs have been foundational to Donald Trump&#x27;s presidency\nWhile tariffs have been a hot-button topic since Trump&#x27;s second non-consecutive term began in January 2025, they&#x27;ve been a theme throughout both of his terms. In 2018, the Trump administration kicked off a trade war with China, imposing tariffs on washing machines, solar panels, steel, aluminum, and various tech goods.\nTo encourage overseas companies to manufacture their U.S.-bound products in America\nTo make U.S. products more price-competitive with those being imported\nTrump: Tariffs don’t cause inflation. They cause wealth. https://t.co/U2prDNdRJy\nShortly after the start of his second term, he introduced a new round of tariffs . Trump&#x27;s April 2025 \"Liberation Day\" tariffs imposed a sweeping global duty and higher reciprocal tariffs on dozens of countries deemed to have adverse trade imbalances with America. A majority of these tariffs, imposed under the International Emergency Economic Powers Act, were invalidated by the U.S. Supreme Court in February 2026.\nIn late July, the Trump administration imposed new sweeping global duties, ranging from 10% to 12.5%, on more than 80 countries under Section 301 of the Trade Act of 1974. These new tariffs cover more than 99% of U.S. imports.\nWhile President Trump has frequently praised tariffs for bringing in extra revenue , New York Federal Reserve economists have found that the president&#x27;s tariffs are doing more harm than good.\nDonald Trump&#x27;s tariffs are raising consumer prices, according to Federal Reserve economists\nRecently, three NY Federal Reserve economists writing for Liberty Street Economics dug into the impact of President Trump&#x27;s 2025 tariffs on consumer prices. In \"How Fast Do Tariffs Pass Through into Consumer Prices,\" the trio of authors found clear evidence that tariffs cause inflation .\nAccording to the report, every percentage point increase in average tariffs equated to a quarter-percentage-point increase in consumer goods prices after one year. Economists estimate that Trump&#x27;s tariffs have added 2.9 percentage points to goods price inflation by February 2026 . Here&#x27;s the kicker: economists estimate that goods prices would have modestly declined without the president&#x27;s tariffs.\nNew from the New York Fed: \"By February 2026, tariffs had contributed 2.9 pp to goods price inflation, and without them goods prices would have fallen slightly.\"\nAbout one quarter of every point in higher tariff rates shows up in consumer prices within one year.\n• A 10% across-the-board tariff yields a 2.6% rise in consumer goods prices after one year.\n• About two thirds of the increase comes from pricier imports, which get passed through quickly.\n• Another third comes from U.S. made goods, as producers face higher input costs and less import competition. This takes longer, about 6-12 months, to filter through.\nThe authors homed in on three catalysts that have lifted consumer prices:\nTariffs directly raise prices for imported goods, with overseas companies rarely absorbing tariff costs.\nHigher input costs. Adding duties to unfinished imported goods (e.g., steel) used to complete the manufacture of a product domestically can increase production costs, which are then passed on to consumers.\nIn some instances where tariffs made imported goods notably pricier than U.S.-made products, domestic manufacturers would increase their prices to capture some of this difference.\nA separate Liberty Street Economics report from December 2024 (\"Do Import Tariffs Protect U.S. Firms?\") also uncovered negative correlations from Donald Trump&#x27;s 2018 China tariffs.\nThe four economists who contributed to this report highlighted the effects of input tariffs in raising consumer prices . Perhaps more importantly, the authors found a clear correlation between public companies whose stock declined on China tariff announcement days and worse future real outcomes.\nThe public companies that performed poorly on tariff announcement days were associated with declines in employment, labor productivity, sales, and profits from 2019-2021. In other words, the adverse effects of Trump&#x27;s tariffs endured for years after they were enacted.\nPresident Trump&#x27;s tariffs are one of the two policies directly lifting consumer prices at the moment. The Trump-led Iran war is the other catalyst. The ongoing closure of the Strait of Hormuz has led to the largest energy supply disruption in modern times , sending gas and diesel prices soaring.\nFederal Reserve policymakers have been left with little choice but to undertake only the fourth interest rate-hiking cycle of the 21st century. Fed Chair Kevin Warsh and 11 other members of the Federal Open Market Committee (FOMC) voted unanimously to raise the federal funds target rate by 25 basis points to 3.75%-4.00% on Sept. 16.\nHowever, the FOMC&#x27;s battle against persistently elevated inflation is far from over. Sticky core inflation, which excludes volatile food and energy costs, coupled with near-record-high diesel prices, will likely prompt several additional rate hikes over the next year.\nBREAKING: September PPI Inflation unexpectedly rises to 6.3%, above expectations of 5.3%.\nCore PPI Inflation rose to 5.0%, above expectations of 4.4%\nPPI inflation is now at its second highest level since November 2022.\nThe odds of rate hikes are rising sharply on the news.\n— The Kobeissi Letter (@KobeissiLetter) October 15, 2026\nHistorically, Fed rate-hiking cycles have coincided with strong economic growth and healthy bull markets. But this time may very well be different.\nThe stock market entered 2026 at its second-priciest valuation in history and can ill afford any speed bumps or potholes. If the FOMC gets aggressive with rate hikes to deliver price stability, the AI-driven stock market could pay the price. Even a relatively small slowdown in the AI data center build-out or AI growth projections due to higher interest rates may be enough to send the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite over the edge.\nMicrosoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.\nShould You Still Invest if a Bear Market Is Coming? History Offers a Clear Answer.\nPrediction: A Stock Market Crash Is Coming. Here&#x27;s What Investors Should Do Based on Warren Buffett&#x27;s Advice.\nWe&#x27;re Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What&#x27;s Next for Stocks\nThis Stock Market Metric Warns History May Be Repeating Itself. Here&#x27;s How the Smartest Investors Are Preparing.\nHow Long Does It Take to Turn $300 per Month Into $1 Million in the Stock Market? Here&#x27;s What History Says.\nSean Williams is a data-driven Motley Fool contributing analyst who's been investing for 28 years and has penned north of 16,000 articles. You'll find him at the intersection of politics and investing tackling macroeconomic topics of interest (Social Security and Donald Trump's economic/tax policies), analyzing which stocks billionaire investors (e.g., Warren Buffett) are buying and selling, and digging into how the world's most-influential businesses and trends -- everything from the evolution of artificial intelligence (AI) to the next stock split -- are changing Wall Street.\nHe holds a B.A. in Economics from the University of California, San Diego.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-25T09:06:00+00:00",
+      "title": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkxLNVhEY2o3MVhmdGxiNHhzQ0VLbmJoOTJ2NzdPOGt4UHhNMGF2c3pnbXlMRUFydTRjZzVaVDRobEV1c1JxTHJKaEd6QVoyLUVKdE51bmdUeXRQY0Q1WHJMNmh0bDVjY28xekNvUmZ5Wkw3WmswRi1Odm9IMDJSQU1NOWhhVzMxMHhKVF83LU84M1Z3Yzl3M2p4NEN1eGZ1a1FOYXZ3?oc=5",
+      "summary": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise&nbsp;&nbsp;Yahoo Finance</fon",
+      "content": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise\nFrom a purely statistical standpoint, Wall Street has enjoyed having President Donald Trump in the White House. Even accounting for a few periods of historic volatility (e.g., the COVID-19 crash in February-March 2020 and the tariff tantrum of April 2025), the average annual return of the Dow Jones Industrial Average (DJINDICES:^DJI), S&P 500 (SNPINDEX:^GSPC), and Nasdaq Composite (NASDAQINDEX:^IXIC) has been higher under Trump than under most presidents since the late 1890s.\nHowever, this doesn't mean that all of the president's policies are necessarily well-received on Wall Street. For example, Trumpflation (inflation specifically driven by Donald Trump's policies) is a genuine threat to the artificial intelligence (AI)-driven bull market.\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\nPresident Trump's tariffs are doing more harm than good. Image source: Official White House Photo by Daniel Torok.\nPresident Trump sees things differently. While speaking to an audience at a campaign rally in Montana ahead of the Nov. 3 midterm elections, Trump touched on inflation and the role his tariff and trade policy may have played in it. Said the president:\nWe don't have inflation, and tariffs don't cause inflation. You know what they cause? Wealth.\nAlthough Trump insists that tariffs aren't contributing to persistently elevated inflation and are beneficial to the U.S. economy, reports from New York Federal Reserve economists show otherwise .\nTariffs have been foundational to Donald Trump's presidency\nWhile tariffs have been a hot-button topic since Trump's second non-consecutive term began in January 2025, they've been a theme throughout both of his terms. In 2018, the Trump administration kicked off a trade war with China, imposing tariffs on washing machines, solar panels, steel, aluminum, and various tech goods.\nTo encourage overseas companies to manufacture their U.S.-bound products in America\nTo make U.S. products more price-competitive with those being imported\nShortly after the start of his second term, he introduced a new round of tariffs. Trump's April 2025 \"Liberation Day\" tariffs imposed a sweeping global duty and higher reciprocal tariffs on dozens of countries deemed to have adverse trade imbalances with America. A majority of these tariffs, imposed under the International Emergency Economic Powers Act, were invalidated by the U.S. Supreme Court in February 2026.\nIn late July, the Trump administration imposed new sweeping global duties, ranging from 10% to 12.5%, on more than 80 countries under Section 301 of the Trade Act of 1974. These new tariffs cover more than 99% of U.S. imports.\nWhile President Trump has frequently praised tariffs for bringing in extra revenue, New York Federal Reserve economists have found that the president's tariffs are doing more harm than good.\nDonald Trump's tariffs are raising consumer prices, according to Federal Reserve economists\nRecently, three NY Federal Reserve economists writing for Liberty Street Economics dug into the impact of President Trump's 2025 tariffs on consumer prices. In \"How Fast Do Tariffs Pass Through into Consumer Prices,\" the trio of authors found clear evidence that tariffs cause inflation.\nAccording to the report, every percentage point increase in average tariffs equated to a quarter-percentage-point increase in consumer goods prices after one year. Economists estimate that Trump's tariffs have added 2.9 percentage points to goods price inflation by February 2026. Here's the kicker: economists estimate that goods prices would have modestly declined without the president's tariffs.\nThe authors homed in on three catalysts that have lifted consumer prices:\nTariffs directly raise prices for imported goods, with overseas companies rarely absorbing tariff costs.\nHigher input costs. Adding duties to unfinished imported goods (e.g., steel) used to complete the manufacture of a product domestically can increase production costs, which are then passed on to consumers.\nIn some instances where tariffs made imported goods notably pricier than U.S.-made products, domestic manufacturers would increase their prices to capture some of this difference.\nA separate Liberty Street Economics report from December 2024 (\"Do Import Tariffs Protect U.S. Firms?\") also uncovered negative correlations from Donald Trump's 2018 China tariffs.\nThe four economists who contributed to this report highlighted the effects of input tariffs in raising consumer prices. Perhaps more importantly, the authors found a clear correlation between public companies whose stock declined on China tariff announcement days and worse future real outcomes.\nThe public companies that performed poorly on tariff announcement days were associated with declines in employment, labor productivity, sales, and profits from 2019-2021. In other words, the adverse effects of Trump's tariffs endured for years after they were enacted.\nPresident Trump's tariffs are one of the two policies directly lifting consumer prices at the moment. The Trump-led Iran war is the other catalyst. The ongoing closure of the Strait of Hormuz has led to the largest energy supply disruption in modern times, sending gas and diesel prices soaring.\nFederal Reserve policymakers have been left with little choice but to undertake only the fourth interest rate-hiking cycle of the 21st century. Fed Chair Kevin Warsh and 11 other members of the Federal Open Market Committee (FOMC) voted unanimously to raise the federal funds target rate by 25 basis points to 3.75%-4.00% on Sept. 16.\nHowever, the FOMC's battle against persistently elevated inflation is far from over. Sticky core inflation, which excludes volatile food and energy costs, coupled with near-record-high diesel prices, will likely prompt several additional rate hikes over the next year.\nHistorically, Fed rate-hiking cycles have coincided with strong economic growth and healthy bull markets. But this time may very well be different.\nThe stock market entered 2026 at its second-priciest valuation in history and can ill afford any speed bumps or potholes. If the FOMC gets aggressive with rate hikes to deliver price stability, the AI-driven stock market could pay the price. Even a relatively small slowdown in the AI data center build-out or AI growth projections due to higher interest rates may be enough to send the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite over the edge.\nBefore you buy stock in S&P 500 Index, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and S&P 500 Index wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $355,124 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,296,254 !*\nNow, it's worth noting Stock Advisor's total average return is 901% — a market-crushing outperformance compared to 210% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nSean Williams has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy .\nPresident Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise was originally published by The Motley Fool",
+      "published": "2026-10-25T08:26:01+00:00",
       "source": "GN Fed",
       "sources": [
         "GN Fed"
@@ -263,6 +222,47 @@
       "score": 14.1,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW05UHQ5YjRDajJGVFZOdDRXWVM4YWZ0ZVZEakU1R2xFWk02Z1MwWHBic3Q0ZW1BUVk0YXFRLUpwd3d1MTAtdkxsNjVxenAtLVpJakpZTDJXOEVxSHFOYVotNjc3QWE4MEhEbWktZ3cycndLc0dERDJzaU01N1EyRGJwSU1pVXliOG13TmZUZllNU1c1ak00TWVoRDlFSFFEWXBuSlBYd1pnckJKdUJQTWNqa2Y2Zw?oc=5",
+      "summary": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic&nbsp;&nbsp;WSJ",
+      "content": "",
+      "published": "2026-10-25T21:00:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran signals readiness for war amid claims that strikes have already begun - Amwaj.media",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFHdzBkSWZpY29vbHpsYXRQanVRQk1aNzRzWmJ2YXZQekFIOEdxd0ltNXRFdG9hU0MzUjJ1cGF6MjN4bTBFNVRnYjM4YWxWVHR0WE5RaDJYR21jOEphcE5SN0lLRmx3dklVbFdwYVlseXFIMXp0MkhlNk80MlhnRVNHdVNLaFFEeUlxd0NneWRLRlU2S2FBYWFIbVB3RjZsM19SenF0LWpHcGI3SWNhUw?oc=5",
+      "summary": "Iran signals readiness for war amid claims that strikes have already begun&nbsp;&nbsp;Amwaj.media",
+      "content": "Economy Society Diplomacy Environment Religion Security Politics On the region, from the region\nEconomy Society Diplomacy Environment Religion Security Politics\nAmwaj.data Newsletter Submissions Careers Advertise\nEconomy Society Diplomacy Environment Religion Security Politics\nIran signals readiness for war amid claims that strikes have already begun\nIran signals readiness for war amid claims that strikes have already begun\nParliament Speaker Mohammad Baqer Qalibaf addresses lawmakers in Tehran, Iran on Oct. 25, 2025. (Photo via ICANA)\nThe story: Iranian officials are warning that renewed war with Israel and the US could trigger retaliation far beyond the region. This comes as suspected Israeli strikes on Iran-aligned Shiite armed groups in Iraq and Tel Aviv’s military preparations fuel fears of escalation. With Qatari mediators reportedly in Tehran and reports of Israeli-US plans to strike again after the US midterm elections, diplomacy and preparations for renewed righting are running side by side.\nThe coverage: Iranian officials have issued increasingly expansive warnings in recent days about the consequences of a return to all-out...\nIran-Israel-US war , Mohammad Baqer Qalibaf , Iran-Iraq , Mahmoud Ahmadinejad\nIraqi explanations for shuttering of Iran crossing fail to quiet US pressure claims\nEgypt pledges support to Saudi Arabia as parliament weighs troop deployment\nOld News: America hit by Arab oil embargo over support for Israel\nReported IMF loan request complicates Iraqi PM&#x27;s no-borrowing pledge",
+      "published": "2026-10-26T03:47:03+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -312,30 +312,25 @@
       ]
     },
     {
-      "title": "S&P500: AI Spending, Big Tech Earnings and Fed Risk Test US Stock Market - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1VJWGlnOHFVWXYzbDAwVHFoaDE4MXUxelhGQnFINkt6XzJraVdQaUpBdjdudGxUYWI4OWtJWmwxRWJwSl80cXcyY25ZZk9YUmZJMG0yMEpPUHd4d2Z4T2tBWkpaMWczZkxHa1l1dGIwU0R1Z1ZWNFA1ZjRWcld5eUtyQlp0RzYxSWM3Y2gwNjMxdFlFN1RfUGVOMzJUa2o1Mjg2S19DQmFqa1Zxd1M3ZzlxeFN4V0JvMDRqNw?oc=5",
-      "summary": "S&amp;P500: AI Spending, Big Tech Earnings and Fed Risk Test US Stock Market&nbsp;&nbsp;FXEmpire",
-      "content": "S&P500: AI Spending, Big Tech Earnings and Fed Risk Test US Stock Market\nMeta’s spending surge and Lam Research’s weak guidance renewed concern about AI investment returns.\nAmazon, Alphabet, Microsoft and Caterpillar earnings will test whether buyers return to the broad market.\nThe Fed decision and PCE report could revive inflation and December rate-hike concerns.\nThe benchmark S&P 500 Index finished lower for a second straight week last week as nervous investors booked profits on concerns over corporate spending and rising global inflation.\nWeakness in the technology sector was the primary driver of the market’s decline. Investors were especially rattled by the massive amounts of money major hyperscalers are pouring into artificial intelligence (AI) infrastructure.\nThe biggest reaction in the market came after Meta Platforms reported that its free cash flow turned negative for the first time in years as its AI spending surged by nearly 80%.\nHyperscalers weren’t the only weak sub-sector. Semiconductor and hardware equipment makers like Lam Research dropped sharply due to supply chain challenges that hurt their future guidance.\nTesla was also under pressure after reporting quarterly revenue that fell slightly short of Wall Street forecasts.\nWhile the sell-off in the tech sector received the most headlines, rising oil prices also weighed on the S&P 500 Index. Energy prices jumped due to growing political tensions in the Middle East. This reignited fears about inflation and potential Fed rate hikes.\nEssentially, we saw a week where money rotated away from growth stocks and into safer assets like Treasury bonds .\nHeading into this week, risk is on the table due to the Fed’s interest rate decision. The FedWatch Tool shows that investors aren’t expecting an October rate hike, but a December rate hike is still on the table. The PCE inflation report , the one favored by the Fed, is also going to be released. Investors have been pricing in a hotter inflation reading due to the jump in oil prices.\nOn the earnings front, we’re expecting to see reactions in the index from Amazon , Alphabet , Microsoft and Caterpillar .\nThe main trend is up according to the weekly swing chart. A trade through 7507.77 will change the main trend to down. Taking out 7844.52 will signal a resumption of the uptrend.\nThe minor trend is down. This shifted momentum to the downside.\nThe minor range is 7507.77 to 7844.52. The index finished the week on the weak side of its 50% level at 7676.15. Trader reaction to this level is likely to set the tone for the week.\nA pair of short-term 50% levels at 7579.22 and 7541.19 are the next potential downside targets.\nThe intermediate range is 6316.91 to 7844.52. Its retracement zone at 7080.72 to 6900.46 is another key target zone.\nThe longer-term range is 4835.04 to 7844.52. Its retracement zone at 6399.78 to 5984.66 is the major downside target area.\nThe main trend is up according to the weekly swing chart and the 52-week moving average. A trade through $265.34 will signal a resumption of the uptrend. The main trend will change to down on a break under $244.30.\nThe minor trend is down. This is controlling the momentum.\nThe 52-week moving average is providing support at $241.10. A sustained move under this indicator will strengthen the downtrend on the swing chart.\nAmazon is currently straddling a 61.8% level at $249.10. Trader reaction to this level is likely to set the tone this week.\nA sustained move over $249.10 will signal the return of buyers. Overcoming the 50% level at $256.38 will indicate the buying is getting stronger with $265.75 to $270.81 the next likely target zone.\nA sustained move under $249.10 will indicate the presence of sellers. This could trigger a break into a support cluster formed by the 50% level at $241.60 and the 52-week moving average at $241.10.  If this fails, prices could plunge into $230.84 and $224.29 to $209.44.\nCaterpillar settled at $687.00, down 5.99% last week. For the second week in a row, the stock closed under the 52-week moving average at $761.50, putting it in a weak position. The company reports earnings on Thursday.\nThe main trend is down according to the weekly swing chart. A trade through the swing bottom at $662.85 will reaffirm the downtrend. The main trend will change to up when buyers take out the swing top at $876.95.\nThe long-term range is $267.30 to $1073.46. A test of its retracement zone at $670.38 to $575.25 could attract counter-trend buyers.\nThe trend may be up according to the weekly swing chart and the 52-week moving average at 7192.83, but my bias has shifted to the downside because of the change in trend on the minor swing chart and the close below the pivot at 7676.15.\nA failure at 7507.77 will strengthen my bias while putting the 52-week moving average on the radar. A sustained move over the pivot at 7676.15 will weaken my growing bearish outlook.\nDespite the uptrend on the main swing chart and the support from the 52-week moving average, my bias is to the downside because of the shift to the downside by the minor swing indicator and the close under the 61.8% level at $249.10. Overtaking $265.34 will shift my bias back to the upside.\nMy bias is to the downside with the stock on the weak side of the 52-week moving average and the main trend down on the weekly chart. I’ll gain more confidence in my outlook if the swing bottom at $662.85 is taken out. However, I recognize the possibility of a technical bounce, following a test of the retracement zone at $670.38. Recapturing the 52-week moving average at $761.50 will also weaken my outlook.\nJames Hyerczyk is a U.S. based seasoned technical analyst and educator with over 40 years of experience in market analysis and trading, specializing in chart patterns and price movement. He is the author of two books on technical analysis and has a background in both futures and stock markets.",
-      "published": "2026-10-26T00:44:00+00:00",
-      "source": "GN Markets",
+      "title": "France's Le Pen launches presidential bid as protests rattle the nation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5",
+      "summary": "France's Le Pen launches presidential bid as protests rattle the nation&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-25T19:31:11+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN Markets"
+        "Reuters World",
+        "GN Top"
       ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
-      "score": 13.8,
+      "score": 13.6,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 / 科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股",
-        "科技股",
-        "半导体"
-      ]
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed - Reuters",
@@ -346,7 +341,7 @@
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "GN Top"
+        "Al Jazeera"
       ],
       "source_count": 2,
       "category": "us",
@@ -406,6 +401,26 @@
       ]
     },
     {
+      "title": "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWmluXzRSdUFjVjh6MWNzZ0NCclhhQWFlYmJHRGdIMHYweDMtanRiV2Ezbi00MG14akJTSEtVb3BhbGJYR3Vtem90TXp3VlJKMHctNnBROVVOOGYxZlFnVTZWV3NqWUxjOEJNZERtWHBkODRCNHBDb20yRjRjd1B4aXpQaVJyTF9ma2tnSTFwTGV2ZjViRTJFcXlHTTlNNWNITXNjOGIyZi13WFdEcXlIdmhjSlItZ2UtSjJobzEtbWlkbTJRUlhoMTZVUmdKLUtpMUw0Y0F2RzBSTzhyanFtMHB0R2dLLWcydnRpc1VPNjRnZlBNMmUwaDRzQklva1h4NTJJTEVTejZseVhOQV94VXN5eXhMc3BIaERpQnRhX2VDaFpWRmc?oc=5",
+      "summary": "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus\nHome News Markets Equity Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus\nNasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week",
+      "content": "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus\nHome News Markets Equity Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus\nNasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus\nTechnology stocks sold off sharply last week amid growing concerns around artificial intelligence’s sustainability and debt woes.\nStock market numbers are displayed as traders work on the floor of the New York Stock Exchange. (Photo by Michael M. Santiago/Getty Images)\nPresident Donald Trump told reporters on Sunday that “there will not be a strike (on Iran) today,” putting to rest fears of re-escalation.\nOil prices pulled back from six-month highs overnight.\nThe Federal Reserve is also slated to begin its policy meeting on Tuesday, with October’s interest rate decision likely to set the tone for equity and bond markets for the rest of the year.\nU.S. stock futures tracked mixed overnight late on Sunday, as last week&#x27;s sharp selloff in technology stocks weighed on the Nasdaq even as markets brace for crucial earnings updates.\nAs of 10:20 p.m. EDT, Dow futures gained 0.22%, and S&P 500 futures were up 0.11%. Nasdaq-100 futures were down 0.02%.\nRead Next Financial Stocks Analyst Roundup: Truist Weighs In On PYPL, FISV, SOFI, AFRM, MA, V Aashika Suresh\nOn Friday, U.S. benchmark indexes closed lower. The Dow Jones Industrial Average shed more than 650 points to end 1.23% lower. The Nasdaq Composite was down 2.1% at close, while the S&P 500 fell 0.52%.\nThe Nasdaq and S&P 500 clocked two consecutive weeks of declines amid a widespread tech and AI selloff. However, the Dow Jones clocked three back-to-back weeks in the green.\nTechnology stocks sold off sharply last week amid growing concerns about the sustainability of artificial intelligence and debt woes.\nThe  iShares Semiconductor ETF (SOXX) ,  Direxion Daily Semiconductor Bull 3X Shares (SOXL) , and  VanEck Semiconductor ETF (SMH) posted three straight weeks in the red but climbed higher in the overnight session late on Sunday.\nMeanwhile, on the geopolitical front, even as relations between the U.S. and Iran remain fraught with challenges, U.S. President Donald Trump told reporters on Sunday that “there will not be a strike (on Iran) today,” easing fears of re-escalation.\nAdditionally, the U.S. Central Command  said on X that the commander of CENTCOM, Brad Cooper, visited the Strait of Hormuz on Oct. 25, as U.S. forces have helped Gulf partners export more than 1.5 billion barrels of crude oil since summer.\nCENTCOM also said it had helped more than 3,000 commercial vessels successfully transit the Strait over the last six months.\n\"Today, primary transit routes in the Strait of Hormuz remain free and clear of Iranian sea mines thanks to incredible efforts by our people,\" said Cooper. \"We remain intensely focused on keeping commercial traffic flowing as we work with our teammates in the U.S. interagency, Gulf Cooperation Council, and shipping industry.\"\nOil prices pulled back from six-month highs overnight. Brent crude futures were trading at $114.85 a barrel, down 1.60%, while WTI crude futures traded nearly 2% lower at $101.28 per barrel.\nMeanwhile, as election season takes off worldwide, Trump reaffirmed his endorsement of Benjamin Netanyahu in the lead-up to the Israeli elections. “To the people of Israel, to those who haven’t seen it, I am attaching the Endorsement I gave one week ago to your Prime Minister, Bibi Netanyahu,” he said in a  post on Truth Social.\nIn Brazil, leftist President Luiz Inacio Lula da Silva defeated right-wing Senator Flavio Bolsonaro in a surprising turn of events, sending  Brazilian stocks lower .\nMarkets will now brace for a busy earnings week, with  Alphabet Inc. (GOOGL) ,  Microsoft Corporation (MSFT) , and  Amazon.com Inc. (AMZN) set to report their earnings. Other key companies set to post their latest quarterly results this week include  Verizon Communications Inc. (VZ) ,  Visa Inc. (V) ,  Boeing Co. (BA) , and  Coca-Cola Co. (KO) .\nThe Federal Reserve is also set to begin its policy meeting on Tuesday, and October’s interest rate decision is likely to set the tone for equity and bond markets for the rest of the year. Markets largely expect the central bank to hold rates steady as the midterm elections approach.\nCoreWeave Inc. (CRWV) : The ceocloud stock fell nearly 3% overnight after billionaire entrepreneur Elon Musk said the sector will see “guppy-level death and consolidation,” adding that his rocket and AI firm SpaceX has no interest in buying a neocloud company.\nIREN Limited (IREN)  and Nebius Group N.V. (NBIS)  stocks also slid nearly 3% on Musk’s comments.\nModerna Inc. (MRNA) : Shares of the vaccine developer sold off overnight following a data leak from its highly anticipated melanoma vaccine trial.\niShares MSCI Brazil ETF (EWZ) : The Brazilian exchange-traded fund plunged more than 18% overnight following election results.\nAmong ETFs tracking benchmark indexes, the  SPDR S&P 500 ETF (SPY) and the  SPDR Dow Jones Industrial Average ETF Trust (DIA) trended higher, while the  Invesco QQQ Trust (QQQ) was down at the time of writing.\nMeanwhile, the 10-year U.S. Treasury yield fell below 5% to 4.966%. However, the 30-year Treasury yield was at 5.294%.\nThe  iShares 20+ Year Treasury Bond ETF (TLT) was up 0.48% amid ‘neutral’ sentiment.\nAsian markets opened mixed on Monday. South Korea&#x27;s KOSPI, Japan’s Nikkei 225, and China’s SSE Composite were trading lower at the time of writing. However, Australian stocks were in the green at the open.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nComments posted here will also appear on symbol pages.\nGet the daily crypto email you’ll actually love to read. It&#x27;s value-packed, data-driven, and seasoned with wit.\nRead about our editorial guidelines and ethics policy\nFinancial Stocks Analyst Roundup: Truist Weighs In On PYPL, FISV, SOFI, AFRM, MA, V Aashika Suresh · 7m ago\nNebius CEO Admits Neocloud Financing Has Tightened, Says Company Has Enough To Build Its Gigawatt Yuvraj Malik · 14m ago\nThis Movie Theater Chain Stock Has Outperformed Peers With 86% Gains In 2026: Wall Street Sees Further Upside Aashika Suresh · 36m ago\nWhy Did TMUS, LKQ, CMG Stocks Tumble To 52-Week Lows Last Week? Shivani Kumaresan · 1h ago\nWhy Did XOM, COP, CVX Jump To 52-Week Highs Last Week? Aashika Suresh · 1h ago\nASTS Stock Slips Overnight: AST Seeks More Spectrum For Broadband Expansion — Market Veteran Flags ‘Sky-High’ Valuation Deepti Sri · 1h ago",
+      "published": "2026-10-26T02:50:55+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to rebound as Wall Street investors set to be - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPRzVQd1VVWWw2M19UNWhwMDRyb05wVXRBR2o3U3VXTHhHdE5wbk9Scm9RS1UtUXJJSDlDZ29SRVZQd0txcHRkWHZxYUFBWEthYUlOV3ZUOEJfUEQzZmx3VkZPbzNhTHI4LWFBelpReHlFVzM3X1l2WVZLOFRHcDVJTzM1NE8tRlFtUFJHY3JsdG1VYXZEZVVoM1NKN2t3dzBJbVNZZUZmZzk2aTltS2pGaEdxYlcxVGVlOTdsNDNKbFBmWHNlWEJVRkxFckNna1NZdXJCYnJnTmlZcFpSYmRQMVlTZm5FanYyMVNteFpxMWpwVXUycHp5Vy01SG52OVFyZFRpdjVuSVJyMThNYXd2SFQ4WThuUWJqYWxMQXh2R2IzMzMwT1pmMHFRZmN1S0diZUsyb25Ic3BLbUxLcERWLTExdzPSAcoCQVVfeXFMUDY3b2FQQlVmQ0xDUXdCdEZodm5iLTRybXBXX2xnQ0UtRTFfbE40UHV5OFZMUW5ReEFSN3BhUWx5MU5vTkU5eTJWZGhEVkFMWWtuT01XQ3pWMWdpWGxsSUYyLWRtV1l0VGVrRENUVmgyTU9IX1c4am16Yk9mS3M4U09fYldycW0wX01YTGdaWFROVXEzejRPaktZUl9fWU1TLTNIU2QxRlNRUnYzQXM0cVliQXhzVk5vbjJiZnY0LTlPWGFzaldrN0lOTmtFUEpNQnRMZlVvUDZwY2xRdDlsaTlmd3E2dUNBXzUtcERJcDJkaURTdFBtTzV5dHVxVU4zWTVlS0JSbGw3VUZaUmVlNnh0aHdCdzBoUkMxa3hkM2pGdURKdklKMTIwdU9qV0JaTHlNaU5nS1NxSjhxenFMaFo5VWtockd6dlZn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxPRzVQd1VVWWw2M19UNWhwMDRyb05wVXRBR2o3U3VXTHhHdE5wbk9Scm9RS1UtUXJJSDlDZ29SRVZQd0txcHRkWHZxYUFBWEthYUlOV3ZUOEJfUEQzZmx3VkZPbzNhTHI4LWFBelpReHlFVzM3X1l2WVZLOFRHcDVJTzM1NE8tRlFtUFJHY3JsdG1VYXZEZVVoM1NKN2t3dzBJbVNZZUZmZzk2aTltS2pGaEdxYlcxVGVlOTdsNDNKbFBmWHNlWEJVRkxFckNna1NZdXJCYnJnTmlZcFpSYmRQMVlTZm5FanYyMVNteFpxMWpwVXUycHp5Vy01SG52OVFyZFRpdjVuSVJyMThNYXd2SFQ4WThuUWJqYWxMQXh2R2IzMzMwT1pmMHFRZmN1S0diZUsyb25Ic3BLbUxLcERWLTExdzPSAcoCQVVfeXFMUD",
@@ -426,11 +441,36 @@
       "assets": []
     },
     {
-      "title": "Fed expected to pause rate hikes ahead of US midterms - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVJCZXdzaUFVeU1SRlY1ajhfWHhYYkc0S0dnbW1scjg3cmI2V3EzV2pGbG9EQS1rMFNVVjU0ME1mb1VYR2ZEeE1ZLWFvREFHaDBaZ0dkOHF2eE9jRnlseF9Id1lzUm1ZMHd1aGx6X0t4TlU2Vk1HanJ2cnFIN0pPcGNrc2t6NzgxN0U1R21PSDM3Rm0yN21VSDdLVTEyR1o2bWt5X080SkJtUy02SFBVQmx0dVhSS2t1a0tUZ2dQZFl6TlE1ejYtSmF30gHPAUFVX3lxTE8tVzl4V2Z0SkQ1N0ZucnpFQU9majA3V296a2lONm1CS2ZZV1dlYldPUXI4ckZ1TlktVFNOY21PUTRxY3JSbnhxRGF2TkwycllDdkxDVE1rZ3FKYUJqSVktUldscUs1YlFveWF5TVU2MjJDU3dpc3dVZV90dFkwRHRHQUtjTHF2U21HV1Q2cDZwcHk2MlhSX3JuWEk1Y2hSbmlQaVpzdzJFOVFkRzJvSnZwV0l6a0FmOU9Wd3RGWWdRNVd1cTBmM1ZhQXczQUpJQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVJCZXdzaUFVeU1SRlY1ajhfWHhYYkc0S0dnbW1scjg3cmI2V3EzV2pGbG9EQS1rMFNVVjU0ME1mb1VYR2ZEeE1ZLWFvREFHaDBaZ0dkOHF2eE9jRnlseF9Id1lzUm1ZMHd1aGx6X0t4TlU2Vk1HanJ2cnFIN0pPcGNrc2t6NzgxN0U1R21PSDM3Rm0yN21VSDdLVTEyR1o2bWt5X080SkJtUy02SFBVQmx0dVhSS2t1a0tUZ2dQZFl6TlE1ejYtSmF30gHPAUFVX3lxTE8tVzl4V2Z0SkQ1N0ZucnpFQU9majA3V296a2lONm1CS2ZZV1dlYldPUXI4ckZ1TlktVFNOY21PUTRxY3JSbnhxRGF2TkwycllDdkxDVE1rZ3FKYUJqSVktUldscUs1YlFveWF5TVU2MjJDU3dpc3dVZV90dFkwRHRHQU",
-      "content": "Business News &rsaquo; Markets &rsaquo; US Stocks &rsaquo; News &rsaquo; Fed expected to pause rate hikes ahead of US midterms\nThe Economic Times daily newspaper is available online now.\nFed expected to pause rate hikes ahead of US midterms\nFed expected to pause rate hikes ahead of US midterms\nThe US Federal Reserve's upcoming meeting is expected to result in steady interest rates. High inflation continues to challenge economic policies, with rates anticipated to rise later this year. The Federal Open Market Committee will analyze data amidst political considerations ahead of the midterm elections. Analysts believe that while inflation remains a concern, a cautious approach will likely be taken.\nANI FOMC to announce decision on Oct 28 after two-day meeting.\nThe US Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation , with markets pricing in at least one rate hike before year-end.\nThe central bank's Federal Open Market Committee (FOMC) will meet over two days and announce its decision at 2:00 pm local time (18:00 GMT) on Wednesday.\nThe Fed has missed its long-term 2% inflation target for more than five years, and at its last meeting in September, the FOMC voted to raise the key federal funds rate for the first time in three years, lifting the target range to 3.75% to 4%.\nThe Fed's meeting comes days ahead of the key US midterm elections on November 3, with Democratic Party seeking to wrest control of both houses of Congress from US President Donald Trump 's Republicans.\nTrump frequently berated and criticised Fed Chair Kevin Warsh's predecessor, Jerome Powell, over interest rates - which he deems to be too high - but has so far refrained from targeting the man he appointed to replace him on the issue.\nThe Fed's preferred gauge for inflation, the Personal Consumption Expenditures (PCE) price index, hit a pandemic-era peak of 7.2% in 2022, before a series of interest-rate hikes tamed it to around 2.2% by late 2024.\nTrump's economic policies - including his upending of the global trade order using tariffs and his war on Iran - fuelled it once more, and it hit a three-year high of 3.9 % in May.\nSince the United States and Israel attacked Iran in late February, global energy prices have skyrocketed, with Tehran's retaliatory actions sharply curtailing oil and gas supplies through the Gulf.\nHigher energy prices have begun to cascade into other goods and services, fuelling inflation in the United States, with prices a key issue for voters as they head to the polls.\nLoretta Mester, former regional head of the Cleveland Fed, told AFP that the meeting's timing, just days ahead of election, would not be a factor for policymakers.\"The Fed doesn't take into account any kind of political issues in that FOMC room,\" she said. \"It really is based on the economics.\"\nMester argued that the fundamentals call for continuing to raise the interest rates. \"The data that's come in continue to show a stable labour market and continue to show inflation above target,\" she said, adding that there was no evidence that inflation was on a path towards the target.\"The economics would suggest then you need to continue raising rates.\"\nStill, she thought most policymakers seemed keen to avoid moving too quickly and may hold rates at this meeting, waiting to tighten the screws at the following meeting in early December.\n(You can now subscribe to our ETMarkets WhatsApp channel )\nFederal Reserve Interest Rates US midterms Donald Trump Inflation\n(What's moving Sensex and Nifty Track latest market news , stock tips , Budget 2025 , Share Market on Budget 2025 and expert advice , on ETMarkets . Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)\nTop Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price\n(You can now subscribe to our ETMarkets WhatsApp channel )\nFederal Reserve Interest Rates US midterms Donald Trump Inflation\n(What's moving Sensex and Nifty Track latest market news , stock tips , Budget 2025 , Share Market on Budget 2025 and expert advice , on ETMarkets . Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)\nTop Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price\nPrime Exclusives Investment Ideas Stock Report Plus ePaper Wealth Edition\nWill oil turn into a lingering problem? Is the world economy, India, or the market prepared?\nKYB and KYC: Business behind the wealth creator called ‘Divi’s Lab’ – Part 2, concluding\nKYB and KYC: Business behind the wealth creator called “Divi’s Lab” – Part 1\nOne company, 2 words. Bond yield and CDS: Will they decide the fate of global markets?\nBusiness of Odd Things: Inside an industry that farms fish that nobody is meant to eat\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
-      "published": "2026-10-26T01:44:05+00:00",
+      "title": "Taiwan’s Egis Partners with France’s SiPearl to Advance CPU Chiplets for Europe’s Sovereign AI Ambitions - 天下雜誌",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lUi1pUGZVTWFBdlZUMEVEd204TE05TEVlNzUteUVqSzkzNS0wenZyQmVyQnVzYkRFOTB0NXhvUVBHVVFPQ3NiU2h4bVpHVnVZbGo0aTBFRTFoZzFReEpxd281WnJhUTg?oc=5",
+      "summary": "Taiwan’s Egis Partners with France’s SiPearl to Advance CPU Chiplets for Europe’s Sovereign AI Ambitions&nbsp;&nbsp;天下雜誌",
+      "content": "Taiwan’s Egis Partners with France’s SiPearl to Advance CPU Chiplets for Europe’s Sovereign AI Ambitions\nEgis subsidiary Alcor Micro will provide its Arm-based Mobius 100 CPU chiplet platform for SiPearl’s second-generation processor, marking a new chapter in Taiwan–France semiconductor collaboration beyond manufacturing.\nTaiwan’s Egis Partners with France’s SiPearl to Advance CPU Chiplets for Europe’s Sovereign AI Ambitions\nThe strategic partnership between Taiwan's Egis Group and French chip design startup SiPearl on October 22 marks the first tangible outcome of the Taiwan&ndash;France Innovative R&D Collaboration Grant Program, according to officials from both countries who attended the signing ceremony.\nLaunched in 2025, the bilateral initiative is expanding its scope this year to include space technologies, smart technologies, smart manufacturing, advanced materials, biomedical sciences, and green energy, with the aim of accelerating cross-border technological innovation and industrial collaboration.\nTaiwan's Minister of Economic Affairs, Ming-hsin Kung, said the program supported six joint projects in 2025, generating more than NT$1.2 billion in R&D investment.\n\"Through cooperation across key sectors such as advanced packaging, silicon photonics, AI data centers, and satellite supply chains, both sides are steadily advancing technological research and development, industrial investment, and supply chain integration, underscoring a shared commitment between Taiwan and France toward high-value-added development and co-innovation,\" Kung said.\n\"Today's agreement deepens collaboration between Taiwan and France in AI and advanced semiconductor technologies,\" said Deputy Minister of Foreign Affairs Chih-chung Wu. \"It reflects not only Egis Group's global expansion ambitions, but also the immense potential of Taiwan-France synergies built on our complementary strengths.\"\nSpeaking in Mandarin at the ceremony, Fr&eacute;d&eacute;ric Laplanche, Director of the French Office in Taipei, noted, \"Over the past three years, we have seen a significant acceleration in bilateral tech cooperation, highlighted by Foxconn's two strategic investments in France, Quanta Computer's investment in the French quantum company Pasqal, and ProLogium's EV battery venture.\"\nFrom strategic investment to joint processor development\nEgis Group, a global fabless semiconductor company specializing in semiconductor products, connectivity IP, and turnkey chiplet design services, announced its participation in SiPearl's Series B funding round, taking a minority stake in the French chip designer.\nBeyond the financial investment, the partnership establishes a technology collaboration between Egis subsidiary Alcor Micro Corp. and SiPearl to develop advanced processors for the HPC and AI data center markets.\nUnder the agreement, SiPearl will adopt Alcor Micro's proprietary Arm-based Mobius 100 CPU chiplet platform for its second-generation processor, combining the Taiwanese company's hardware design technology with SiPearl's software capabilities.\nSiPearl CEO Philippe Notton said the collaboration would extend beyond the second-generation processor, with plans to continue leveraging Egis Group's technologies in the joint development of SiPearl's third- and fourth-generation CPUs.\nTaiwan moves up the semiconductor value chain through chiplet innovation\nThe partnership highlights an emerging dimension of Taiwan&ndash;France semiconductor cooperation: moving beyond traditional manufacturing and supply chain relationships toward joint development of advanced computing technologies.\nFor Taiwan, the agreement demonstrates how its semiconductor industry can expand its role in the global value chain by contributing proprietary CPU chiplet platforms and processor design expertise, rather than relying solely on its established strengths in foundry manufacturing and advanced packaging.\nFor France, the collaboration offers an opportunity to combine domestic processor development and software capabilities with Taiwan's semiconductor design expertise, potentially accelerating the development of competitive computing platforms for HPC and AI infrastructure.\nAs AI workloads drive demand for increasingly powerful and energy-efficient processors, chiplet-based architectures are emerging as an important approach to improving performance, scalability, and design flexibility.\nBy integrating Alcor Micro's CPU chiplet platform with SiPearl's processor development and software expertise, the partnership illustrates how cross-border technology collaboration could help both countries strengthen their positions in the evolving AI computing ecosystem.\nMore significantly, the agreement signals a potential shift in Taiwan&ndash;Europe semiconductor relations&mdash;from a predominantly manufacturing-centered partnership toward deeper co-innovation in processor architecture, chiplet technologies, and the computing platforms that will underpin next-generation AI infrastructure and sovereign AI initiatives.\nNvidia Turns to Samsung to Shake Up the AI Substrate Market. Unimicron and Kinsus Face a New Threat\nTaiwan's Auto Parts Makers Need Reliability Data to Win in AI Cooling\nTaiwan Builds World-Class Products. It Forgets to Tell Anyone\nStay abreast of what's happening in Taiwan with our weekly digest.\nFrom Sugar to Semiconductors: The Price Taiwan Keeps Getting Wrong\nFrom Sugar to Semiconductors: The Price Taiwan Keeps Getting Wrong\nNvidia Turns to Samsung to Shake Up the AI Substrate Market. Unimicron and Kinsus Face a New Threat\nTaiwan PCB Output to Hit Record High, but AI Boom Exposes Supply Chain Risks\nHow a Cambridge Professor Became LITEON’s Secret Weapon in the Server Power Supply Battle\nTaiwan’s Auto Parts Makers Need Reliability Data to Win in AI Cooling\nTaiwan AI Nexus 2026 Unveils Key Insights into Enterprise AI Governance",
+      "published": "2026-10-26T02:37:23+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：科技股 / 半导体 / 台积电 / 亚太市场 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体",
+        "台积电",
+        "亚太市场"
+      ]
+    },
+    {
+      "title": "Fed expected to pause rate hikes ahead of US midterms - inkl",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnkyU0hpUnBCSEhYYk80Skw2OXVES29RSDJRTElkZlNlLWQ2Q0lQOHd0aldUZ3YxcVJsV0pNMWl6LXhDVkJmSDMtdGtKWDN0bm1aV3U1MFRsWmNZZVJqNzZ0UXNRdHFVeVhXa2kyeDVFWG5lc3Q3ZllQTGwtb0dIVHdnQWpNdw?oc=5",
+      "summary": "Fed expected to pause rate hikes ahead of US midterms\nThe US Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation, with markets pricing in at least one rate hike before year-end.\nThe central bank's Federal Open Market Committee (FOMC) will meet over two days and announce its decision at 2:00 pm local time (18:00 GMT) on",
+      "content": "Fed expected to pause rate hikes ahead of US midterms\nThe US Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation, with markets pricing in at least one rate hike before year-end.\nThe central bank's Federal Open Market Committee (FOMC) will meet over two days and announce its decision at 2:00 pm local time (18:00 GMT) on Wednesday.\nRead news from 100's of titles, curated specifically for you.\nBrazil's Lula clinches election victory as Bolsonaro rejects results\nLula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.\n'Had Enough' Prague Protest: Thousands march against media funding bill; critics fear political pressure\nThousands gathered in Prague to protest government proposals affecting public television and radio funding. The planned changes would replace licence fees with state budget allocations, raising concerns about media independence. Critics argue that these measures may expose broadcasters to political pressure and reduce their financial stability. Public media employees announced…\n‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim\nElon Musk claimed that Ukraine breached Starlink's terms of service by using it for offensive strikes. Serhii Beskrestnov challenged Musk's assertions concerning the operational restrictions imposed on Starlink in Ukraine. Ukrainian officials indicated that these restrictions significantly impaired their drone operations. Meanwhile, Ukraine is exploring alternative satellite communication networks to…\nCanada taking advantage of US, but getting close to deal: Donald Trump\nUS President Donald Trump accused Canada of exploiting the United States through trade imbalances, claiming Ottawa had made $90 billion annually at Washington's expense for years. Speaking ahead of a Michigan rally, Trump said negotiations were progressing towards a deal, but stressed he wanted a long-term agreement favourable to the…\nOne subscription that gives you access to news from hundreds of sites\nPennsylvania Senate Republicans Stall Bill That Would Let Child Sex Abuse Survivors Sue Their Abusers\nPennsylvania lawmakers have yet to approve a proposed two-year window allowing eligible survivors of childhood sexual abuse to pursue civil claims that expired under the statute of limitations.\nHow the Rays Can Battle Back From 2–0 World Series Deficit vs. Brewers\nThe Rays are down, but not out, in the World Series, set to return to Tropicana Field in a 2–0 hole.\nBrazil's Lula clinches election victory as Bolsonaro rejects results\nLula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.\n'Had Enough' Prague Protest: Thousands march against media funding bill; critics fear political pressure\nThousands gathered in Prague to protest government proposals affecting public television and radio funding. The planned changes would replace licence fees with state budget allocations, raising concerns about media independence. Critics argue that these measures may expose broadcasters to political pressure and reduce their financial stability. Public media employees announced…\n‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim\nElon Musk claimed that Ukraine breached Starlink's terms of service by using it for offensive strikes. Serhii Beskrestnov challenged Musk's assertions concerning the operational restrictions imposed on Starlink in Ukraine. Ukrainian officials indicated that these restrictions significantly impaired their drone operations. Meanwhile, Ukraine is exploring alternative satellite communication networks to…\nCanada taking advantage of US, but getting close to deal: Donald Trump\nUS President Donald Trump accused Canada of exploiting the United States through trade imbalances, claiming Ottawa had made $90 billion annually at Washington's expense for years. Speaking ahead of a Michigan rally, Trump said negotiations were progressing towards a deal, but stressed he wanted a long-term agreement favourable to the…\nOne subscription that gives you access to news from hundreds of sites\nPennsylvania Senate Republicans Stall Bill That Would Let Child Sex Abuse Survivors Sue Their Abusers\nPennsylvania lawmakers have yet to approve a proposed two-year window allowing eligible survivors of childhood sexual abuse to pursue civil claims that expired under the statute of limitations.\nHow the Rays Can Battle Back From 2–0 World Series Deficit vs. Brewers\nThe Rays are down, but not out, in the World Series, set to return to Tropicana Field in a 2–0 hole.\nWhy Some Foods Taste Better When You Eat Them With a Plastic Fork\nHave you ever noticed that a fast-food salad, a takeout pasta dish, or a slice of cake seems more satisfying when you eat it with a flimsy plastic fork? The food itself has not changed, yet the experience can feel different from eating the same meal with silverware at home.…\nTable for 1? Nearly 40 percent of all restaurant visits are solo diners\nMore people are embracing the idea of taking themselves out on a date in recent years, with one New York City-based influencer telling her viewers: ‘It’s hard for me to want a boyfriend because I take myself on cute solo dates’\nThe Hidden Difference Between “Natural” and “Organic” on Food Labels\nWalk down a grocery store aisle, and you will find packages promising everything from natural ingredients to certified organic products. Both labels can make food sound healthier, cleaner, or closer to the way nature intended, but they do not mean the same thing. One generally describes certain characteristics of a…\nA Trump administration doctor says neon yellow urine is normal because of diets consisting entirely of meat and fermented foods. Here’s what experts say\nCountry Music Star Accused of Satanism Rips Online 'Parasites' Pushing a Highly Negative Narrative\nZac Brown rejects satanic claims about his Las Vegas Sphere shows, calling online critics 'parasites' and explaining the personal story behind the imagery. Copy\nNicki Minaj's Lawyers Reportedly Want To Quit Rapper's 'Unreasonably Difficult' Jingle Ball Lawsuit\nNicki Minaj's lawyers are seeking to withdraw from a $275K Jingle Ball lawsuit, citing irreconcilable differences and a breakdown in communication.",
+      "published": "2026-10-26T01:45:18+00:00",
       "source": "GN Fed",
       "sources": [
         "GN Fed"
@@ -454,7 +494,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUpDZXNBYUVfN1paZGJuNHd4RkMtVW0zdHpXQ2ZTaU0tc3dVbTRHSnlHMmk5UXM1cHZmbzUtamNjdDQ3aW1rZFlsQjhaMXdDNm1VZDk3VHlnMXRuOGJkazNXREx3anVtZnk4RUpVSEhteXJ0d09HYmloUndES3luWnF5UDJBaWhZVzI3MWxnNGFVanBULU41dXhYVTZRRXl3T296YjJuZTgyTHh2Wmc?oc=5",
       "summary": "Federal Reserve Interest Rate Predictions Next Week: October 27–28, 2026&nbsp;&nbsp;Norada Real Estate Investments",
       "content": "Next week's Federal Reserve meeting, on October 27–28, 2026 , looks set to end with no change. Forecasts expect the Fed to keep its benchmark rate at 3.75% to 4.00% when it announces its decision on Wednesday, October 28. As of October 20, CME FedWatch showed futures traders putting the odds of a pause at about 83% , with roughly a 17% chance of a quarter-point hike and almost no chance of a cut. The bigger question is what comes after next week. With inflation at 3.7% , most Fed officials expect one more increase before year-end, which puts the December meeting in focus.\nSo don't count on next week's decision to make borrowing cheaper this fall. If you have money in savings, though, the outlook works in your favor.\nFederal Reserve Interest Rate Predictions Next Week: October 27–28, 2026\nThink of the Fed like a driver who just tapped the brakes and is waiting to see how the car responds. Officials raised rates in September for the first time in three years. Now they want more data before pressing again.\nIt helps to see the whole road. In late 2025, the Fed was cutting. It lowered its target range three times, in September, October, and December 2025, bringing it down to 3.50% to 3.75%. Then it parked there for most of 2026.\nThat changed at the September 15–16 meeting. With prices heating up again, the Fed raised its range by a quarter point to 3.75% to 4.00%, effective September 17. The chart below shows that path, plus where Fed officials think the rate will finish this year.\nThe meeting runs October 27–28, and the decision comes out at 2 p.m. Eastern Time on the 28th. Here's how the bets stack up as of October 20, based on CME FedWatch:\nThe pause has actually gained support over the past week. Looking further out, the same FedWatch numbers show about a 94% chance that the Fed raises rates at least once more by the end of its December 8–9 meeting. In plain terms, traders aren't asking \"if\" anymore. They're asking \"when.\"\nInflation Is the Big Reason Rates Aren't Coming Down\nThe September inflation report from the Bureau of Labor Statistics explains a lot. Consumer prices rose 0.6% in a single month and 3.7% over the past year. That's up from 3.4% in August, and it's far above the Fed's 2% target.\nGas is the main troublemaker. Gasoline prices jumped 9.1% in September alone and are up 34.2% from a year ago. Energy overall is up 20.4% over 12 months.\nHere's what keeps the Fed patient. Leave out food and energy, and \"core\" prices rose 2.6% over the year. That's up from August's 2.4%, but well below the headline number. Officials want to know if high fuel costs are a passing storm or the start of a wider spread into rents and services. The next inflation report lands on November 10, after the October meeting.\nFed Chair Kevin Warsh isn't dropping hints. Speaking in Bangkok on October 16, during the annual IMF and World Bank gathering, he said simply, \"I don't prejudge meetings,\" according to Reuters. He added that he won't say ahead of time what he might do at the two meetings left this year.\nHe did remind people that the Fed \"removed a dose of accommodation about a month ago,\" which is a polite way of describing the September hike.\nThe official record is more revealing. Minutes from the September meeting, released October 7, show that most officials think one more rate increase \"would likely be appropriate by year end.\" Several of them also described the current rate as \"not restrictive or only mildly restrictive.\" Put simply, a good number of them don't think rates are high enough yet to cool prices.\nThe Fed's own September projections back that up. The median official expects the federal funds rate to end 2026 at 4.1%, up from 3.8% in the June projections. That number lines up with one more quarter-point hike, to a range of 4.00% to 4.25%.\nHere's a key point many buyers miss. The Fed doesn't set your mortgage rate. Mortgage rates follow the bond market, especially the 10-year Treasury yield, and that yield reacts to inflation and to where investors think the Fed is headed over the next few years.\nRight now, that bond market is already braced for higher rates. The 10-year Treasury yield closed at 5.15% on October 19, according to the U.S. Treasury. Freddie Mac's weekly survey showed the average 30-year fixed mortgage at 7.40% for the week of October 15, with the 15-year at 6.71%. A year ago, the 30-year averaged 6.27%.\nBecause a pause is already expected, a hold on October 28 probably won't drop mortgage rates. What could move them is the tone. If Warsh sounds calm about inflation, rates could ease a little. If he sounds worried, they could tick up even without a hike.\nLet's put real dollars on it. On a $350,000 loan, a 30-year fixed at 7.40% costs about $2,423 a month in principal and interest. If rates rose a quarter point to 7.65%, that payment becomes about $2,483. That's around $60 more each month, or about $720 a year. Compared with last year's 6.27%, today's buyer is already paying about $264 more every month on the same loan.\nHigher rates are a mixed bag, so here's a quick breakdown.\nIf you keep cash in a high-yield savings account, money market fund, CD, or Treasury bills, a Fed on hold or hiking works in your favor. Yields on these tend to follow the Fed's rate. The 3-month Treasury bill yielded 4.27% on October 19, above the latest 3.7% inflation rate. So your cash can grow a bit faster than prices for now.\nCredit cards, home equity lines of credit, and many personal loans are tied to the prime rate, which moves with the Fed. Those rates won't fall while the Fed is holding, and they'd rise quickly after a December hike. If you carry a card balance, paying it down now is one of the smartest moves you can make. If you have a HELOC with a variable rate, plan for your payment to stay the same or go up.\nHere's how I see the odds playing out, based on the data above:\nHold in October (very likely): I think the Fed stays at 3.75% to 4.00% on October 28. Officials want to see more data, and the chair has given no sign of a surprise.\nHike in October (unlikely): A surprise is possible, but it would take a real shock in the next few days. I'd put it close to what the market says, under 1 in 5.\nCut in October (almost no chance): With inflation at 3.7% and rising, a cut isn't on the table.\nFor December, I lean toward one more quarter-point hike, taking the range to 4.00% to 4.25%. That matches both the Fed's own median projection and what traders are betting on. I don't expect any rate cuts in 2026.\nFor mortgages, my best guess is that 30-year rates hover around 7% to 7.5% through the end of the year. Rates could slip if gas prices cool off and the November inflation report looks softer. They could climb if price increases start spreading beyond energy.\nIf you're buying a home soon, don't wait for the Fed to bail you out. Compare quotes from several lenders, ask about a rate lock that covers your closing date, and keep your credit clean. Savers can enjoy the higher yields while they last. And if you're carrying debt, chip away at it before December.\nRates go up and down over time, and no one rings a bell at the top. Make the choice that fits your budget and your plans today. If rates come down later, you can always revisit your options then.\nExplore these related articles for even more insights:\nHow Fed Rate Hikes Affect Your Wallet, Credit Cards, and Loans\nGoldman Sachs and J.P. Morgan Warn of an Imminent Fed Rate Hike This Week\nFed Interest Rate Decision July 29, 2026: Rates Steady at 3.50-3.75%\nInterest Rate Predictions for the Next 5 Years: 2026-2030\nJ.P. Morgan Predicts No Fed Rate Cuts Before 2027 as Inflation Persists\nFed Interest Rate Predictions for the Next 3 Years: 2026-2028\nThe Fed After Jerome Powell: Who Could Drive Rate Cuts in 2026?\nWhy Your Loan Payment Isn’t Budging Despite Recent Fed Rate Cut\nHow Does the Recent Fed Rate Cut Impact Your Personal Finances\nMarco Santarelli is an investor, author, Inc. 5000 entrepreneur, and the founder of Norada Real Estate Investments – a nationwide provider of turnkey cash-flow investment property.  His mission is to help 1 million people create wealth and passive income and put them on the path to financial freedom with real estate.  He’s also the host of the top-rated podcast – Passive Real Estate Investing.",
-      "published": "2026-10-25T21:16:54+00:00",
+      "published": "2026-10-26T03:16:54+00:00",
       "source": "GN Fed",
       "sources": [
         "GN Fed"
@@ -542,51 +582,11 @@
       ]
     },
     {
-      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
-      "summary": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War&nbsp;&nbsp;The New York Times",
-      "content": "",
-      "published": "2026-10-25T14:38:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Iran Update, October 25, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkNJMmRzS1FXTkZ5OFNCRVN5cmlBTl9oTnRaeEdZVnZ0c2VMQlFubzUtaVRzbUhablhNaUdxcG1rSTU5YW9wbFdmWDZRZFIzd1BEZHEzbFQ4SnNSTEMzdWdwSmI5dmY0NmxWU0o1ZWVyYnJPYlRVc0d6cUdQSW9kMzBTOUw?oc=5",
-      "summary": "The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing updates Monday through Friday to provide analysis on the war with Iran and the broader Middle East. Weekday updates cover events from the past 24-hour period, whereas weekend updates are abbreviated and cover the Houthi-Saudi conflict and major breaking developments r",
-      "content": "The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing updates Monday through Friday to provide analysis on the war with Iran and the broader Middle East. Weekday updates cover events from the past 24-hour period, whereas weekend updates are abbreviated and cover the Houthi-Saudi conflict and major breaking developments related to the war with Iran.\nThe Houthis have fired at least 12 missiles and two drones targeting Saudi Arabia since October 24 as part of the Houthi strike campaign, which aims to impose economic and political costs on Saudi Arabia and compel Saudi Arabia to capitulate to the Houthis’ primarily economic demands.\nYemeni government-aligned forces continue to engage Houthi forces south of Taiz City in an effort to break the Houthi encirclement of the city and central Taiz Governorate.\nThe Houthis have fired at least 12 missiles and two drones targeting Saudi Arabia since October 24 as part the Houthi strike campaign, which aims to impose economic and political costs on Saudi Arabia and compel Saudi Arabia to capitulate to the Houthis’ primarily economic demands. The Saudi Joint Forces Command reported that Saudi air defenses intercepted 11 missiles over southern Saudi Arabia, including Asir Province, on October 25.[1] Debris from two missile interceptions over Asir Province injured two individuals and damaged several residential buildings and vehicles, according to the Saudi Civil Defense Directorate.[2] Saudi forces also intercepted two drones and a missile over Riyadh Province on October 24 after ISW-CTP's data cutoff.[3] The Houthis have not yet claimed the attacks as of this writing. The Houthis have repeatedly targeted Saudi critical infrastructure, including energy and transport infrastructure, as part of the Houthis’ ongoing strike campaign. The Houthis seek to compel Saudi Arabia to halt military operations against the Houthis and accept the Houthis’ demands, which include lifting Saudi controls on Houthi-controlled ports and airports and granting the Houthis control over Yemen’s oil and gas resources.[4]\nYemeni government-aligned forces continue to engage Houthi forces south of Taiz City in an effort to break the Houthi encirclement of the city and central Taiz Governorate. Anti-Houthi media sources reported that Yemeni government-aligned forces engaged Houthi forces near al Aqroud, al Misrakh District on October 25.[5] An anti-Houthi source also reported that Houthi artillery struck civilian homes in al Aqroud on October 25, which further indicates that fighting between government forces and the Houthis has continued in that area.[6] Yemeni government-aligned forces will gain little from breaking the Houthi encirclement of central Taiz unless they also recapture and secure key segments of the Taiz-Aden ground line of communication to restore reliable routes for resupply and reinforcements to Taiz City.[7]\nSecure international recognition of Iranian control over the Strait of Hormuz\nDegrade the US ability and willingness to continue the war\nRestore deterrence vis- à -vis the United States and its regional partners\nDivide the United States and Israel from the Arab states\n[1] https://x.com/CJFCSpox/status/2114250213913440577 ; https://x.com/CJFCSpox/status/2114277401764991226\n[2] https://x.com/SaudiDCD/status/2114347309010202819\n[3] https://x.com/CJFCSpox/status/2114114725524971606 ; https://x.com/CJFCSpox/status/2114173159784227312 ; https://x.com/CJFCSpox/status/2114195670219599917\n[4] https://understandingwar.org/research/middle-east/iran-update-october-24-2026/ ; https://www.criticalthreats.org/analysis/iran-update-september-22-2026 ; https://www.criticalthreats.org/analysis/iran-update-october-15-2026 ; https://x.com/SaudiDCD/status/2113440753120592327;\n[5] https://x.com/FaresALhemyari/status/2114392696026476585 ; https://x.com/ALyemennow/status/2114394408753959121\n[6] https://x.com/FaresALhemyari/status/2114326358683697275 ; https://x.com/FaresALhemyari/status/2114413208085700678\n[7] https://understandingwar.org/research/middle-east/iran-update-october-20-2026/",
-      "published": "2026-10-25T22:12:42+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Trump started a trade war with Canada. GOP candidates became casualties. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFBHZlRreWd4WG1mTlk4ZTVjME5pUkJFTVdDaGxRNldybXRjVlFVNkRsbHJqdFhoWmVIbWUzX21WZVFKellXamZVaExlVXl5UUpsTG5ITVNYR2psSmFHNHY0NV9jX055Qi1LS2lVNE96TnEycVRvM0c4cjNzM19YSmFMR1NsT0lQb2Y5blh5T1cwUEZBTF9ic0VocnBBQ3BVUTNuX01ST2JkX054MVV4TGg0TlVFZ0M5Z0E?oc=5",
       "summary": "Trump started a trade war with Canada. GOP candidates became casualties.&nbsp;&nbsp;The Washington Post",
       "content": "",
-      "published": "2026-10-26T01:31:31+00:00",
+      "published": "2026-10-26T03:39:16+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -602,11 +602,11 @@
       "assets": []
     },
     {
-      "title": "The Iran War Has Dragged Saudi Arabia Back Into Its Yemen Nightmare - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVEVCN0c2TFNGSXRwWTlJNDg1TWZiQW5aNnczS0JZY2VMbDhtVUZIaGhGNk1iQUF2RDJaUy0xSzBrV1JFckQ4UXY4d05HbDBfNDdsM1BDSzhKeXZfS3ljb3dHOVRkZG1WeHVaZHZuT1l4a0VLb1gxUnZMTWdPZGw2ckJJZFVDN2NaTC1SQjEyUURSVnZfalA0ZUZzMTg1blFzVThwcXoxRllLZmZVY3F1bV9mQ01BTW9GcUlWNFFoSWt4eUlk?oc=5",
-      "summary": "The Iran War Has Dragged Saudi Arabia Back Into Its Yemen Nightmare&nbsp;&nbsp;Forbes",
-      "content": "",
-      "published": "2026-10-25T15:01:11+00:00",
+      "title": "Iran Update, October 25, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkNJMmRzS1FXTkZ5OFNCRVN5cmlBTl9oTnRaeEdZVnZ0c2VMQlFubzUtaVRzbUhablhNaUdxcG1rSTU5YW9wbFdmWDZRZFIzd1BEZHEzbFQ4SnNSTEMzdWdwSmI5dmY0NmxWU0o1ZWVyYnJPYlRVc0d6cUdQSW9kMzBTOUw?oc=5",
+      "summary": "The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing updates Monday through Friday to provide analysis on the war with Iran and the broader Middle East. Weekday updates cover events from the past 24-hour period, whereas weekend updates are abbreviated and cover the Houthi-Saudi conflict and major breaking developments r",
+      "content": "The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing updates Monday through Friday to provide analysis on the war with Iran and the broader Middle East. Weekday updates cover events from the past 24-hour period, whereas weekend updates are abbreviated and cover the Houthi-Saudi conflict and major breaking developments related to the war with Iran.\nThe Houthis have fired at least 12 missiles and two drones targeting Saudi Arabia since October 24 as part of the Houthi strike campaign, which aims to impose economic and political costs on Saudi Arabia and compel Saudi Arabia to capitulate to the Houthis’ primarily economic demands.\nYemeni government-aligned forces continue to engage Houthi forces south of Taiz City in an effort to break the Houthi encirclement of the city and central Taiz Governorate.\nThe Houthis have fired at least 12 missiles and two drones targeting Saudi Arabia since October 24 as part the Houthi strike campaign, which aims to impose economic and political costs on Saudi Arabia and compel Saudi Arabia to capitulate to the Houthis’ primarily economic demands. The Saudi Joint Forces Command reported that Saudi air defenses intercepted 11 missiles over southern Saudi Arabia, including Asir Province, on October 25.[1] Debris from two missile interceptions over Asir Province injured two individuals and damaged several residential buildings and vehicles, according to the Saudi Civil Defense Directorate.[2] Saudi forces also intercepted two drones and a missile over Riyadh Province on October 24 after ISW-CTP's data cutoff.[3] The Houthis have not yet claimed the attacks as of this writing. The Houthis have repeatedly targeted Saudi critical infrastructure, including energy and transport infrastructure, as part of the Houthis’ ongoing strike campaign. The Houthis seek to compel Saudi Arabia to halt military operations against the Houthis and accept the Houthis’ demands, which include lifting Saudi controls on Houthi-controlled ports and airports and granting the Houthis control over Yemen’s oil and gas resources.[4]\nYemeni government-aligned forces continue to engage Houthi forces south of Taiz City in an effort to break the Houthi encirclement of the city and central Taiz Governorate. Anti-Houthi media sources reported that Yemeni government-aligned forces engaged Houthi forces near al Aqroud, al Misrakh District on October 25.[5] An anti-Houthi source also reported that Houthi artillery struck civilian homes in al Aqroud on October 25, which further indicates that fighting between government forces and the Houthis has continued in that area.[6] Yemeni government-aligned forces will gain little from breaking the Houthi encirclement of central Taiz unless they also recapture and secure key segments of the Taiz-Aden ground line of communication to restore reliable routes for resupply and reinforcements to Taiz City.[7]\nSecure international recognition of Iranian control over the Strait of Hormuz\nDegrade the US ability and willingness to continue the war\nRestore deterrence vis- à -vis the United States and its regional partners\nDivide the United States and Israel from the Arab states\n[1] https://x.com/CJFCSpox/status/2114250213913440577 ; https://x.com/CJFCSpox/status/2114277401764991226\n[2] https://x.com/SaudiDCD/status/2114347309010202819\n[3] https://x.com/CJFCSpox/status/2114114725524971606 ; https://x.com/CJFCSpox/status/2114173159784227312 ; https://x.com/CJFCSpox/status/2114195670219599917\n[4] https://understandingwar.org/research/middle-east/iran-update-october-24-2026/ ; https://www.criticalthreats.org/analysis/iran-update-september-22-2026 ; https://www.criticalthreats.org/analysis/iran-update-october-15-2026 ; https://x.com/SaudiDCD/status/2113440753120592327;\n[5] https://x.com/FaresALhemyari/status/2114392696026476585 ; https://x.com/ALyemennow/status/2114394408753959121\n[6] https://x.com/FaresALhemyari/status/2114326358683697275 ; https://x.com/FaresALhemyari/status/2114413208085700678\n[7] https://understandingwar.org/research/middle-east/iran-update-october-20-2026/",
+      "published": "2026-10-25T22:12:42+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -642,14 +642,14 @@
       "assets": []
     },
     {
-      "title": "Russian Offensive Campaign Assessment, October 24, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjVGQVlSYnI4d3kwaGJ1NHF2Ync0U1dlTHUySS02UV9XMHFoOEt1QTRTRHNnQjg0dDY3cldKVUxXSWJDRXFSb0VHTnZLeDlDeGZXQXpRMWhyU1V0VmE2RS1BWTg5WV9vbDNkbERON0IySWxnTEFYOHVuZFpyMHloWTcwUTdrTGlob3N0aTdQaXVWUFNzWEZna0hKbjJ5cVlmT1Z3UFJDSm03a3c?oc=5",
-      "summary": "Russian Offensive Campaign Assessment, October 24, 2026&nbsp;&nbsp;Institute for the Study of War",
-      "content": "Russian Offensive Campaign Assessment, October 24, 2026\nUkrainian officials are confirming the resumption of unrestricted access to SpaceX’s low-earth orbit satellite communication technology (Starlink and Starshield) without disruptions in Ukraine on October 24. Ukrainian officials, including Ukrainian President Volodymyr Zelensky, Ukrainian Defense Minister Yevheniy Khmara, and sources within the Ukrainian Ministry of Defense (MoD), reported on October 24 that Starlink/Starshield terminals are operating at speeds exceeding 161 kilometers per hour (about 100 miles per hour) and that Ukrainian forces are recording speeds of over 400 kilometers per hour (about 248 miles per hour) and reporting stable connections.[1]\nUkraine’s intermediate-range strike campaign against energy infrastructure in Russia and occupied Ukraine overnight on October 23 to 24 caused power outages across occupied Ukrainian oblasts including occupied Crimea. Krasnodar Krai Operational Headquarters claimed on October 24 that Ukrainian drone debris fell at a substation near Bely, Temryuk raion, Krasnodar Krai (about 69 kilometers from the Ukrainian border).[2] NASA Fire Information for Resource Management System (FIRMS) data from October 24 shows heat anomalies at the Taman electrical substation located near Bely, Krasnodar Krai that likely caused power outages in occupied Crimea and across occupied Ukraine, according to Ukrainian defense source Militarnyi.[3] The Taman substation is the main power node connecting all four lines of the Russian energy bridge that transmits electricity from Russia to occupied Crimea.[4] Data from the Ukrainian Unmanned Systems Forces (USF) between October 23 and 24 indicates that Ukrainian forces struck five “power hubs,” likely referring to electrical power stations, as part of Ukraine’s ongoing operation Crimea Switch Off in occupied Crimea.[5]\nThe Russian Ministry of Energy claimed on October 24 that there are power outages in occupied Crimea and occupied Kherson, Zaporizhia, Donetsk, and Luhansk oblasts due to an “external impact” on energy infrastructure facilities.[6] Zaporizhia Oblast occupation head Yevgeny Balitsky claimed on October 24 that a Ukrainian drone strike against an unspecified main power grid node outside of occupied Zaporizhia Oblast caused power outages in occupied Zaporizhia Oblast.[7] Sevastopol occupation governor Mikhail Razvozhaev claimed on October 24 that Ukrainian strikes against energy infrastructure outside of Sevastopol caused power outages in Sevastopol and added that public energy facilities are switching to backup power systems.[8] Razvozhaev noted that only 40 percent of Sevastopol apartment buildings have power and that Sevastopol is operating on a “two through six” schedule (residents receiving power for two hours and having outages for six hours).[9] Crimea occupation head Sergei Aksyonov claimed on October 24 that there are electricity and water supply restrictions in occupied Crimea following Ukrainian drone strikes and power outages outside of occupied Crimea.[10] A local Crimean-based Telegram channel claimed on October 23 that consumers observed simultaneous power outages in occupied Sevastopol, Simferopol, Yalta, Feodosia, Alushta, Dzhankoy, and other major settlements in occupied Crimea.[11] The channel noted that the power bridge into occupied Crimea is not working, and that occupied Crimea is relying on its own power generators.[12] Internet observation organization NetBlocks reported a sharp drop in internet traffic in occupied Crimea following Ukrainian drone strikes against energy infrastructure on October 24.[13]\nUkraine agreed to observe a limited ceasefire in Russian-occupied Oleshky, Kherson Oblast beginning on October 27, indicating a convergence between Russia and Ukraine on the ceasefire start date, but the geographical extent and other terms of the ceasefire remain unclear. The Ukrainian General Staff confirmed on October 23 that Ukraine will observe a ceasefire in a “designated area” of Russian-occupied Oleshky beginning at 0300 local Kyiv time on October 27 to conduct a humanitarian operation in occupied Oleshky.[14] Russian Chief of the General Staff Army General Valery Gerasimov stated on October 23 that Russia has agreed to the limited ceasefire “in the Kherson direction” beginning at 0400 local Moscow time (equivalent to 0300 Kyiv time) on October 27.[15] Russian Human Rights Commissioner Yana Lantratova claimed on October 23 that there will be a safe passage for citizens who wish to leave the combat zone.[16] Ukraine and Russia agreed to begin observing a ceasefire on the morning of October 27 but the precise geographical area that the ceasefire will cover and whether the Russian forces will provide a legitimate and duress-free choice to the Ukrainian Oleshky residents to evacuate to Ukraine or Russia remains unclear.\nUkrainian officials are confirming the resumption of unrestricted access to SpaceX’s low-earth orbit satellite communication technology (Starlink and Starshield) without disruptions in Ukraine on October 24.\nUkraine’s intermediate-range strike campaign against energy infrastructure in Russia and occupied Ukraine overnight on October 23 to 24 caused power outages across occupied Ukrainian oblasts including occupied Crimea.\nUkraine agreed to observe a limited ceasefire in Russian-occupied Oleshky, Kherson Oblast beginning on October 27, indicating a convergence between Russia and Ukraine on the ceasefire start date, but the geographical extent and other terms of the ceasefire remain unclear.\nRussian forces recently advanced southeast of Dobropillya.\nUkrainian forces continued their long-range strike campaign against Russian military, energy, and industrial infrastructure on the night of October 23 to 24. Russian forces launched 126 drones against Ukraine overnight.\nWe do not report in detail on Russian war crimes because these activities are well-covered in Western media and do not directly affect the military operations we are assessing and forecasting. We will continue to evaluate and report on the effects of these criminal activities on the Ukrainian military and the Ukrainian population and specifically on combat in Ukrainian urban areas. We utterly condemn Russian violations of the laws of armed conflict and the Geneva Conventions and crimes against humanity even though we do not describe them in these reports.\nUkrainian forces continued their long-range strike campaign against Russian military, energy, and industrial infrastructure on the night of October 23 to 24. The Ukrainian General Staff reported that Ukrainian forces struck an unspecified Russian aircraft at Yeysk Airfield in Krasnodar Krai (roughly 178 kilometers from the frontline) and the Tolyattikauchuk petrochemical plant in Tolyatti, Samara Oblast (roughly 775 kilometers from the international border) on October 23 or overnight on October 23 to 24.[17] Geolocated footage published on October 24 shows a fire at the Tolyattikauchuk petrochemical plant following Ukrainian strikes.[18] Tolyatti City Mayor Ilya Sukhikh acknowledged that Ukrainian strikes damaged industrial facilities in the city.[19] A Ukrainian open-source intelligence (OSINT) channel posted footage on October 24 showing Ukrainian forces striking the Omskiy Kauchuk Chemical Plant and the Ozon warehouse in Omsk City, Omsk Oblast (roughly 2,500 kilometers from the international border), causing fires.[20] Geolocated footage published on October 24 shows the aftermath of the strike against the Omskiy Kauchuk Chemical Plant which reportedly damaged its D-3 and D-5 production units.[21] Omsk Oblast Governor Vitaliy Khotsenko acknowledged that Ukrainian forces struck Omsk City’s northern industrial zone.[22] Rostov Oblast Governor Yuri Slyusar reported on October 24 that Ukrainian drone debris fell on a Rostovpassazhirtrans trucking company branch in Rostov-on-Don, Rostov Oblast and damaged a transformer station in Kalinin, Rostov Oblast (both between roughly 190 and 200 kilometers from the frontline), causing localized power outages.[23]\nThe Ukrainian General Staff provided an updated battlefield damage assessment (BDA) of Ukraine's October 23 strike against the Proton-Electrotex plant in Oryol City, Oryol Oblast. The Ukrainian General Staff confirmed on October 24 that Ukraine’s October 23 strike damaged the main production building of the Proton-Electrotex plant — a manufacturer of optoelectronic equipment for S-71 Kover cruise missiles, Iskander-M ballistic missiles, and Pantsir-S1 air defense systems — in Oryol City, Oryol Oblast (roughly 161 kilometers from the international border).[24]\nRussian objective: Create defensible buffer zones in Sumy Oblast along the international border\nA Russian milblogger claimed on October 24 that Russian forces continued limited offensive operations in northern Sumy Oblast, but ISW did not observe evidence that Russian forces advanced.[25] A source reporting on the Russian Northern Grouping of Forces claimed on October 24 that Russian forces are conducting a personnel rotation in Krasnopillya raion southeast of Sumy City.[26]\nRussian objective: Push Ukrainian forces back from the international border to create a defensible buffer zone with Belgorod Oblast and approach Kharkiv City\nRussian forces continued offensive operations in northern Kharkiv Oblast on October 23 and 24 but did not advance.[27] Ukrainian Joint Forces Group Spokesperson Colonel Viktor Trehubov stated on October 24 that Russian forces are actively attacking toward Vilcha, Vovchanski Khutory, and Bilyi Kolodyaz (all northeast of Kharkiv City).[28] Trehubov stated that terrain features in the area are forcing Russian forces to use the same routes repeatedly to attack the settlements, likely enhancing Ukrainian forces’ ability to detect and strike Russian infiltration groups.\nRussian forces continued limited offensive operations in the Velykyi Burluk direction on October 23 and 24 but did not advance.[29]\nRussian objective: Cross the Oskil River in Kharkiv Oblast and push westward into eastern Kharkiv Oblast and northern Donetsk Oblas t\nUkrainian drone and subsurface operations north of Kupyansk are denying Russian forces a staging ground from which to conduct infiltration missions into Kupyansk from the north. Ukrainian Joint Forces Group Spokesperson Colonel Viktor Trehubov stated on October 24 that Russian forces move through Holubivka (just north of Kupyansk) to reach Kupyansk but do not permanently station their troops in the settlement, indicating that Russian forces do not maintain a consistent presence in Holubivka.[30] Trehubov stated that Russian forces rarely manage to enter Radkivka (west of Holubivka and north of Kupyansk) and typically do so only during poor weather conditions, indicating that Ukrainian drone operations are preventing Russian forces from establishing control over Radkivka. A source reporting on the Russian Western Grouping of Forces claimed on October 23 that Ukrainian forces took control of a section of an underground pipeline extending from Radkivka to a point northeast of Holubivka where the pipeline passes beneath the Oskil River.[31] The source claimed that Ukrainian control of the pipeline in this area prevents Russian forces from reaching the northern part of Kupyansk. The source claimed that Ukrainian forces maintain drone air superiority in this area, which prevents Russian forces from using open terrain to conduct infiltration missions into Kupyansk.\nA source reporting on the Russian Western Grouping of Forces claimed that Russian forces continued offensive operations northeast of Borova on October 24, but ISW has not observed evidence that Russian forces advanced.[32]\nRussian Main Effort: Capture Ukraine's Fortress Belt and complete the seizure of Donetsk Oblast\nRussian Subordinate Main Effort #1 – Encircle the Fortress Belt from the northwest\nRussian objective: Seize Lyman and cross the Siverskyi Donets River to support a wide encirclement of the Fortress Belt – assessed objective of the Russian 25th Combined Arms Army and Western Grouping of Forces elements\nRussian forces continued limited offensive operations in the Lyman direction on October 23 and 24 but did not advance.[33]\nRussian Subordinate Main Effort #2 – Advance on the Fortress Belt from the east\nRussian objective: Advance on Slovyansk, Kramatorsk, and Druzhkivka from the east – assessed objective of the Russian 3rd Combined Arms Army and Southern Grouping of Forces elements\nRussian forces continued limited offensive operations east of Slovyansk on October 23 and 24 but did not advance.[34] Geolocated footage published on October 23 shows a Russian fiber-optic first-person view (FPV) drone striking a Ukrainian civilian evacuation vehicle in Slovyansk.[35]\nRussian Subordinate Main Effort #3 – Advance on the Fortress Belt from the south\nRussian objective: Advance on Kostyantynivka and Druzhkivka from the south and southwest, east of the Kazenyi Torets River – assessed objective of the Russian 8th Combined Arms Army and Southern Grouping of Forces elements\nRussian forces continued offensive operations within, west of, and northwest of Kostyantynivka on October 23 and 24 but did not advance.[36]\nRussian Subordinate Main Effort #4 – Encircle the Fortress Belt from the southwest\nRussian objective: Conduct a wide encirclement of the Fortress Belt from near Dobropillya and Pokrovsk west of the Kazenyi Torets River – assessed objective of the Russian 51st Combined Arms Army and Central Grouping of Forces elements\nRussian forces recently advanced southeast of Dobropillya. Ukrainian forces conducted an airstrike on a Russian position in central Bilytske (southeast of Dobropillya), according to geolocated footage published on October 23, indicating that Russian forces advanced in the area.[37]\nRussian forces reportedly conducted a large motorized assault in the Pokrovsk direction on October 21. A Ukrainian brigade operating in the Pokrovsk direction reported on October 23 that Russian forces conducted the largest motorized assault in its area of responsibility (AoR) of 2026, using motorcycles and other vehicles.[38] The brigade added that Russian forces attempted to advance at dawn under low-visibility weather conditions, but that Ukrainian forces repelled the assault, eliminating 43 Russian personnel and injuring 12.\nRussian Supporting Effort: Advance into Dnipropetrovsk Oblast\nRussian objective: Interdict Ukrainian ground lines of communication that support Ukrainian positions in Donetsk Oblast and envelop Ukrainian positions in southwestern Donetsk Oblast – assessed objective of elements of the Russian Central and Eastern groupings of forces\nRussian forces continued limited offensive operations in the Novopavlivka and Oleksandrivka directions on October 23 and 24 but did not advance.[39] A Russian milblogger claimed on October 24 that Ukrainian forces are counterattacking towards Perebudova (northeast of Oleksandrivka) along the left (western) bank of the Mokri Yaly River.[40]\nA Russian milblogger claimed on October 24 that Russian forces advanced north of Marivka (northeast of Novopavlivka).[41]\nRussian objective: Maintain frontline positions, secure rear areas against Ukrainian strikes, and advance within tube artillery range of Zaporizhzhia City – assessed objective of the Russian Eastern and Dnepr Grouping of Forces\nRussian forces continued offensive operations in the Hulyaipole direction on October 23 and 24 but did not advance.[42] Russian milbloggers claimed on October 24 that Russian forces advanced toward Novosoloshyne (northwest of Hulyaipole and 12 kilometers from the furthest Russian advances).[43] The milbloggers’ reporting patterns are consistent with the Kremlin’s systematic cognitive warfare effort to fabricate claims of Russian tactical successes in areas where Russian forces do not maintain enduring positions to falsely portray the frontline as collapsing, contrary to all available evidence.[44]\nRussian forces continued limited offensive operations in the Orikhiv direction on October 23 and 24 but did not advance, as Ukrainian forces counterattacked.[45]\nNeither Russian nor Ukrainian sources reported ground activity in the Kherson direction on October 24.\nRussian forces continue to hunt civilians using human safari tactics in Kherson Oblast. Footage published on October 24 shows a Russian drone striking a civilian walking a dog in Kherson Oblast.[46] Russian forces in the Kherson direction have long employed human safari tactics, in which Russian drone operators purposefully hunt civilians as part of the broader effort to institutionalize intentional civilian harm as a tool of war.[47]\nSee topline text for reporting on power outages in occupied Crimea.\nRussian Objective: Target Ukrainian military and civilian infrastructure in the rear and on the frontline\nNote: The Ukrainian military ceased regularly reporting the number of Russian missiles fired and the number of missiles intercepted as of August 11.[48]\nRussian forces conducted a series of drone strikes against Ukraine overnight on October 23 to 24. The Ukrainian Air Force reported that Russian forces launched 126 Shahed-type (61 of which were jet-powered) and Gerbera-type strike drones, Banderol and Dan-T loitering munitions, and Parodiya-type decoy drones from the direction of Shatalovo, Smolensk Oblast; Oryol, Bryansk, and Kursk Cities; Primorsko-Akhtarsk, Krasnodar Krai; occupied Donetsk City; and occupied Hvardiiske, Crimea.[49] The Ukrainian Air Force reported that Ukrainian forces downed 101 drones and loitering munitions, that an unspecified number of aerial vehicles struck 14 locations, and debris fell at five locations.\nRussian forces continue striking Ukrainian bridges across the Dnipro River as part of their campaign to degrade Ukraine’s economy and logistics across the Dnipro River. Geolocated footage published on October 24 shows Russian strikes against the Zaporizhzhia Cable-Stayed Bridge in Zaporizhzhia City.[50]\nRussian forces fielded two new small cruise missiles based on the Geran-5 drone as part of Russia’s continued focus on producing scalable and more cost-effective ground- and air-launched cruise missiles and jet-powered drones that are difficult for Ukrainian forces to intercept at scale. Ukrainian defense source Militarnyi reported on October 23 that Russian forces have introduced two modified Geran-5 K5-K variants that feature redesigned fuselages with changes to their tail assembly, wing design, and internal turbojet engine mounting.[51] Ukrainian military personnel stated to Militarnyi that Russian designers made changes to the design to increase the missiles’ maximum speed to 900 kilometers per hour, comparable to the Russian Kh-101 cruise missile.\nRussian efforts to increase its military presence in Belarus and further integrate Belarus into Russian-favorable frameworks\nNote: ISW does not receive any classified material from any source, uses only publicly available information, and draws extensively on Russian, Ukrainian, and Western reporting and social media as well as commercially available satellite imagery and other geospatial data as the basis for these reports. References to all sources used are provided in the endnotes of each update.\n[1] https://t.me/V_Zelenskiy_official/21517 ; https://www.president.gov dot ua/news/vidnovili-robotu-starlinku-starshildu-na-shvidkosti-yaka-bul-107025; https://armyinform dot com.ua/2026/10/24/starlink-vidnovyv-robotu-na-shvydkosti-ponad-400-km-god/; https://armyinform dot com.ua/2026/10/24/starlink-pochav-praczyuvaty-na-shvydkosti-bilshe-nizh-161-km-god/\n[3] https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@37.196,45.178,12.771z; https://militarnyi dot com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty/\n[4] https://t.me/astrapress/129193; https://militarnyi dot com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty/\n[5] https://sbs-group dot army/en/subdivision/usf_grouping/?period=prev_day\n[11] https://t.me/Crimeanwind/111521?ct=1792862183846\n[12] https://t.me/Crimeanwind/111540?ct=1792863531564\n[13] https://x.com/netblocks/status/2113789810267803985; https://x.com/netblocks/status/2114004970907578437\n[15] https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-23-2026/ ; https://t.me/mod_russia/68479\n[18] https://x.com/neonhandrail/status/2113843923458326868; https://x.com/neonhandrail/status/2113954965018616043; https://x.com/neonhandrail/status/2113961199620788444;\nhttps://t.me/exilenova_plus/33332; https://t.me/DniproOfficial/8303\n[20] https://x.com/Exilenova_plus/status/2114001836407431245; https://x.com/Exilenova_plus/status/2113990806734258322; https://x.com/Exilenova_plus/status/2113988669082423299\n[21] https://t.me/DniproOfficial/8307 ; https://t.me/exilenova_plus/33362\n[24] https://t.me/GeneralStaffZSU/42678 ; https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-23-2026/\n[27] https://t.me/GeneralStaffZSU/42675 ; https://t.me/GeneralStaffZSU/42672 ; https://t.me/wargonzo/37858 ; https://t.me/severnnyi/9702 ; https://t.me/z_arhiv/34198\n[28] https://armyinform dot com.ua/2026/10/24/ruh-ye-a-progresu-nemaye-rosiyany-namagayutsya-prosuvatys-u-bik-vilchoyi-ta-vovchanskyh-hutoriv/\n[29] https://t.me/GeneralStaffZSU/42675 ; https://t.me/GeneralStaffZSU/42672 ; https://t.me/severnnyi/9702\n[30] https://armyinform dot com.ua/2026/10/24/mapy-vidriznyayutsya-vid-realnosti-u-sylah-oborony-sprostuvaly-zayavy-rf-pro-prosuvannya-na-harkivshhyni/\n[33] https://t.me/GeneralStaffZSU/42675; https://t.me/GeneralStaffZSU/42672; https://t.me/wargonzo/37858; https://t.me/grvZapad/20180\n[34] https://t.me/GeneralStaffZSU/42675; https://t.me/GeneralStaffZSU/42672\n[35] https://t.me/patrolpolice_ua/14761; https://x.com/99Dominik_/status/2113720237535211803\n[36] https://t.me/GeneralStaffZSU/42675 ; https://t.me/GeneralStaffZSU/42672 ; https://t.me/wargonzo/37858\n[37] https://x.com/Bielitzling/status/2113708105511162077 ; https://t.me/soniah_hub/18823\n[38] https://www.facebook.com/reel/1019268177841498; https://armyinform dot com.ua/2026/10/23/tyzhden-tomu-motoshturm-teper-kynuly-shhe-bilshe-155-ta-brygada-vidbyla-najmasshtabnishyj-shturm-za-rik/\n[39] https://t.me/GeneralStaffZSU/42675; https://t.me/GeneralStaffZSU/42672\n[42] https://t.me/GeneralStaffZSU/42675; https://t.me/GeneralStaffZSU/42672; https://t.me/motopatriot78/57038; https://t.me/voin_dv/21729\n[43] https://t.me/motopatriot78/57038; https://t.me/wargonzo/37858\n[44] https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-20-2026/; https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-17-2026/; https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-8-2026/ ; https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-june-27-2026/\n[45] https://t.me/GeneralStaffZSU/42675; https://t.me/GeneralStaffZSU/42672; https://t.me/wargonzo/37858; https://t.me/motopatriot78/57037\n[47] https://understandingwar.org/research/russia-ukraine/russias-fpv-drone-campaign-in-ukraine-institutionalizes-intentional-civilian-harm-as-a-tool-of-war/\n[48] https://www.bloomberg.com/news/articles/2026-08-11/ukraine-stops-reporting-russia-missile-data-as-defenses-struggle?srnd=homepage-americas; https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-august-11-2026/\n[50] https://t.me/creamy_caprice/13309; https://x.com/johnspectator/status/2113941417550811375;\n[51] https://militarnyi dot com/uk/news/shho-vidomo-pro-novi-versiyi-geran-5/",
-      "published": "2026-10-25T02:46:19+00:00",
-      "source": "GN Geopolitics",
+      "title": "The US-China Tech Cold War Is Moving Undersea - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYk1YUTlkOHNSaGtQU1d0WTk5Y2xTemFfOW1SZHplZVZmMFluWm5ma0l4clpXWlUxVXluMFVOR0pGdzdSRThqTS1IMnBwSjBkRVM4NE80MHFzWWg0YmxrZTVOTnNIQm80cUdTMU8tR1FEOXg3ZUZwM29DLWY0Qll5bGZWSlJ1V3dqMzk0bVRtU1o2TE1XQnBiQmQ3azFScnM1?oc=5",
+      "summary": "The US-China Tech Cold War Is Moving Undersea&nbsp;&nbsp;Bloomberg.com",
+      "content": "",
+      "published": "2026-10-25T20:01:02+00:00",
+      "source": "GN China",
       "sources": [
-        "GN Geopolitics"
+        "GN China"
       ],
       "source_count": 1,
       "category": "geopolitics",
@@ -658,8 +658,12 @@
       "score": 12.9,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "This Stock Market Metric Warns History May Be Repeating Itself. Here's How the Smartest Investors Are Preparing. - The Motley Fool",
@@ -682,10 +686,30 @@
       "assets": []
     },
     {
+      "title": "Trump says Canada tariff deal coming 'soon' at Michigan border rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEJMMGdRVDJoVkVSSGFSV1FvRmJMTy1LWnZhMWRzeUFjNlN4QUFKQ2tZc285cEs4akdIZ0dvZzJtSTBWU3ZwX1VGX2l3TllKVGxfNnh0Vm5rOTVtX2JpLXhwOXdJTEJURVBjYjRLS3hWSHk4bXBCT3lIWmZGMS1YTE5WQmpYVTVWcEk3YnE3WWV6anVTdElYUlV0Q3o4cnF2N0Z1NXJlazBvcG9L?oc=5",
+      "summary": "Trump says Canada tariff deal coming 'soon' at Michigan border rally&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-25T23:56:22+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 12.8,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Ukraine must 'unblock' Patriot missile delivery, Zelenskyy says after deadly strikes - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2NHdkVWTXBnWjBIRzl0X1p6aEpTbS1Fa0s0VnViNUxIdG5iWWVUQ2RGRVFMY3FPcC1oSHRKdGpjVnNaSGtRQjY5d3FJRGJ2ckg2YXlHN3hSMllDdnJYTUltNVM3THNNOTE2VzI0VWRnSHl0UnVrWEJ0QWs2Yld1bFFrSXlUWEoxaXo0TTVCeUJfbzlvTndlS2VHdW55azVEdXBJM0NoY1Z0T204WnFzbXJzTFAxMjTSAbwBQVVfeXFMT2Y3WUpKZ19jZUVYYWdHNU5FeENxSTZYM2VqczMzbl8xeXBXMmxFRjNqVGpVc0FvQXo4UGxXMGFNN3FLZjItQkFjdnd1ZXpJZjlQWmpERzl2U3RJTjYzLXV3Zkl5VFlKZW9FQVVwSDZiUFpuNGlSS0VibGdnMkxzOURDYUpwYkZiTi0tcW13d2RSRXhMMjdhSk5WWWVYRVc0RGRXQkZWX3kyR1dhd1FEdzRwSXNMVWNZTUhQUDU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2NHdkVWTXBnWjBIRzl0X1p6aEpTbS1Fa0s0VnViNUxIdG5iWWVUQ2RGRVFMY3FPcC1oSHRKdGpjVnNaSGtRQjY5d3FJRGJ2ckg2YXlHN3hSMllDdnJYTUltNVM3THNNOTE2VzI0VWRnSHl0UnVrWEJ0QWs2Yld1bFFrSXlUWEoxaXo0TTVCeUJfbzlvTndlS2VHdW55azVEdXBJM0NoY1Z0T204WnFzbXJzTFAxMjTSAbwBQVVfeXFMT2Y3WUpKZ19jZUVYYWdHNU5FeENxSTZYM2VqczMzbl8xeXBXMmxFRjNqVGpVc0FvQXo4UGxXMGFNN3FLZjItQkFjdnd1ZXpJZjlQWmpERzl2U3RJTjYzLXV3Zkl5VFlKZW9FQVVwSDZiUFpuNGlSS0VibGdnMkxzOURDYUpwYkZiTi0tcW13d2RSRXhMMj",
-      "content": "Ukraine must 'unblock' Patriot missile delivery, Zelenskyy says after deadly strikes\nAt least four people were killed in Ukraine on Saturday evening.\nLONDON -- Russian drone and missile attacks on multiple Ukrainian regions killed at least four people on Saturday night, Ukrainian President Volodymyr Zelenskyy said in a post to social media on Sunday.\nUkraine&#x27;s air force said Russia launched 153 drones along with an unspecified number of cruise missiles into the country in its latest round of attacks. The air force said that 119 drones were shot down or otherwise suppressed, with impacts reported in 15 locations.\nFour people were killed by a Russian attack in the southeastern Dnipropetrovsk region on Saturday evening, Zelenskyy said, with another 22 people injured.\nZelenskyy said it was \"crucial\" to bolster Ukrainian defenses alongside renewed U.S.-led peace negotiations. \"We need to unblock the already agreed-upon deliveries of interceptors for Patriot systems,\" the Ukrainian leader wrote, referring to the U.S.-made air defense system that has been key to Ukrainian efforts to blunt Russian ballistic missile attacks.\nA Ukrainian firefighter extinguishes a blaze at Epicentr hypermarket that was damaged following a Russian air attack, in Kharkiv, late on Oct. 24, 2026.\n&#x27;It&#x27;s not supportive&#x27;: Ukraine&#x27;s Zelenskyy laments lack of US assistance in war with Russia\nThe tightening supply of Patriot batteries and their interceptor missiles has become a fraught diplomatic issue. The problem has been exacerbated by the ongoing U.S.-Israeli conflict with Iran, which has seen American and allied forces across the Middle East expend large numbers of interceptors to defend against Iranian ballistic missile and drone attacks.\nZelenskyy has repeatedly criticized the U.S. for failing to ensure an adequate supply of missiles. The Ukrainian leader told ABC News during an interview in Kyiv last week that his country needs to be supplied with around 350 Patriot interceptors each month to defend against Moscow&#x27;s attacks.\nOver the last three months, Zelenskyy said, Kyiv had received only 24 interceptor missiles.\nUkraine&#x27;s State Emergency Service reported Russian strikes in the Dnipropetrovsk, Kharkiv, Zhytomyr and Vinnytsia regions on Saturday night into Sunday morning. At least six people were injured in the attack on Vinnytsia, the SES said, with four people -- among them three emergency workers -- also injured in the attack in Kharkiv.\nUkrainian President Volodymyr Zelenskyy told ABC News, Oct. 23, 2026, that the Starlink network is still not fully working, despite assurances from President Donald Trump.\nRussia fires 3 waves of ballistic missiles at Kyiv after peace talks, Zelenskyy says\nAmong the targets of the overnight Russian strikes were residential buildings, a hypermarket, thermal power plants, substations, coal mines and grain storage facilities, Zelenskyy said in a post to Telegram, adding that damage was reported in nine regions of Ukraine.\nDolly Parton&#x27;s niece named estate&#x27;s brand ambassador\n12 injured, including 6 children, in shooting near Florida university, police say\nFormer NBA player to plead guilty in federal sports betting case: Court filing\n\"This is how Russia reacts to diplomacy and efforts to isolate it,\" Zelenskyy said.\nRussia&#x27;s Defense Ministry, meanwhile, reported the interception of at least 532 Ukrainian drones overnight, with craft shot down over 22 Russian regions -- including Moscow -- plus occupied Crimea and the Black Sea.\nLast week saw President Donald Trump&#x27;s special envoy Steve Witkoff travel to meet with Zelenskyy in the Norwegian capital of Oslo, followed by a meeting with Russian President Vladimir Putin in St. Petersburg.\nThis handout photograph posted on the official Telegram account of Belgorod Mayor Valentin Demidov, on Oct. 25, 2026, shows damage following an overnight drone attack on Belgorod.\nWitkoff lauds &#x27;humanitarian&#x27; Putin as Russia releases detained American\nWitkoff described the talks as \"constructive,\" but deadly strikes continued in the days after his meetings with the Ukrainian and Russian leaders.\nFresh trilateral U.S.-Ukraine-Russia talks are expected to be held in the United Arab Emirates in November. In an interview with Kremlin propagandist Pavel Zarubin published on Sunday, Russian presidential aide Yuri Ushakov said that a possible deal between Moscow and Kyiv \"still needs work.\"\nDiscussing the planned trilateral meeting in November, Ushakov said, \"Not much could be decided during the first meeting too, it will perhaps be observational.\"\nSix Flags announces new safety measures for Goliath coaster following rider death\n12 injured, including 6 children, in shooting near Florida university, police say\nFormer NBA player to plead guilty in federal sports betting case: Court filing\nDolly Parton&#x27;s niece named estate&#x27;s brand ambassador",
+      "content": "Ukraine must 'unblock' Patriot missile delivery, Zelenskyy says after deadly strikes\nAt least four people were killed in Ukraine on Saturday evening.\nLONDON -- Russian drone and missile attacks on multiple Ukrainian regions killed at least four people on Saturday night, Ukrainian President Volodymyr Zelenskyy said in a post to social media on Sunday.\nUkraine&#x27;s air force said Russia launched 153 drones along with an unspecified number of cruise missiles into the country in its latest round of attacks. The air force said that 119 drones were shot down or otherwise suppressed, with impacts reported in 15 locations.\nFour people were killed by a Russian attack in the southeastern Dnipropetrovsk region on Saturday evening, Zelenskyy said, with another 22 people injured.\nZelenskyy said it was \"crucial\" to bolster Ukrainian defenses alongside renewed U.S.-led peace negotiations. \"We need to unblock the already agreed-upon deliveries of interceptors for Patriot systems,\" the Ukrainian leader wrote, referring to the U.S.-made air defense system that has been key to Ukrainian efforts to blunt Russian ballistic missile attacks.\nA Ukrainian firefighter extinguishes a blaze at Epicentr hypermarket that was damaged following a Russian air attack, in Kharkiv, late on Oct. 24, 2026.\n&#x27;It&#x27;s not supportive&#x27;: Ukraine&#x27;s Zelenskyy laments lack of US assistance in war with Russia\nThe tightening supply of Patriot batteries and their interceptor missiles has become a fraught diplomatic issue. The problem has been exacerbated by the ongoing U.S.-Israeli conflict with Iran, which has seen American and allied forces across the Middle East expend large numbers of interceptors to defend against Iranian ballistic missile and drone attacks.\nZelenskyy has repeatedly criticized the U.S. for failing to ensure an adequate supply of missiles. The Ukrainian leader told ABC News during an interview in Kyiv last week that his country needs to be supplied with around 350 Patriot interceptors each month to defend against Moscow&#x27;s attacks.\nOver the last three months, Zelenskyy said, Kyiv had received only 24 interceptor missiles.\nUkraine&#x27;s State Emergency Service reported Russian strikes in the Dnipropetrovsk, Kharkiv, Zhytomyr and Vinnytsia regions on Saturday night into Sunday morning. At least six people were injured in the attack on Vinnytsia, the SES said, with four people -- among them three emergency workers -- also injured in the attack in Kharkiv.\nUkrainian President Volodymyr Zelenskyy told ABC News, Oct. 23, 2026, that the Starlink network is still not fully working, despite assurances from President Donald Trump.\nRussia fires 3 waves of ballistic missiles at Kyiv after peace talks, Zelenskyy says\nAmong the targets of the overnight Russian strikes were residential buildings, a hypermarket, thermal power plants, substations, coal mines and grain storage facilities, Zelenskyy said in a post to Telegram, adding that damage was reported in nine regions of Ukraine.\n12 injured, including 6 children, in shooting near Florida university, police say\nDolly Parton&#x27;s niece named estate&#x27;s brand ambassador\nFormer NBA player to plead guilty in federal sports betting case: Court filing\n\"This is how Russia reacts to diplomacy and efforts to isolate it,\" Zelenskyy said.\nRussia&#x27;s Defense Ministry, meanwhile, reported the interception of at least 532 Ukrainian drones overnight, with craft shot down over 22 Russian regions -- including Moscow -- plus occupied Crimea and the Black Sea.\nLast week saw President Donald Trump&#x27;s special envoy Steve Witkoff travel to meet with Zelenskyy in the Norwegian capital of Oslo, followed by a meeting with Russian President Vladimir Putin in St. Petersburg.\nThis handout photograph posted on the official Telegram account of Belgorod Mayor Valentin Demidov, on Oct. 25, 2026, shows damage following an overnight drone attack on Belgorod.\nWitkoff lauds &#x27;humanitarian&#x27; Putin as Russia releases detained American\nWitkoff described the talks as \"constructive,\" but deadly strikes continued in the days after his meetings with the Ukrainian and Russian leaders.\nFresh trilateral U.S.-Ukraine-Russia talks are expected to be held in the United Arab Emirates in November. In an interview with Kremlin propagandist Pavel Zarubin published on Sunday, Russian presidential aide Yuri Ushakov said that a possible deal between Moscow and Kyiv \"still needs work.\"\nDiscussing the planned trilateral meeting in November, Ushakov said, \"Not much could be decided during the first meeting too, it will perhaps be observational.\"\n12 injured, including 6 children, in shooting near Florida university, police say\nMoore: Key races in South &#x27;in play,&#x27; Democrats &#x27;made mistakes&#x27; not investing earlier\nDolly Parton&#x27;s niece named estate&#x27;s brand ambassador\nFormer NBA player to plead guilty in federal sports betting case: Court filing",
       "published": "2026-10-25T12:24:23+00:00",
       "source": "GN Geopolitics",
       "sources": [
@@ -698,27 +722,6 @@
       "score": 12.7,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjVjTmdHOUVQdHBNYk9zRUlGWDVXXzRFTmFzUWJaZno0Y2ZkU2ZQcDJ4YUt4Q29lclZwWmw5eTdaWEczNDY4ZTVQNnI5OVFCQjl1VndQVkN6SFM4NzJRb0pfTUVDejVSMktPeENjd3NxVnRTRUpPMWU4OWFKYkhIZkI0UjJDSXVEcG9fY9IBkgFBVV95cUxPQzlTRWw1RFVBdlVvT1VpdkdQSkh3UjhQZURkZElXRTlMWFZQT29UVFJRTXhCbXlEbjY5ZW01dDZnRFBiaWNnbGVrTGtDS0QwRzF6ZGZOYzVtemkzUDVPSlFqbHBsSTZHRnVOazhkNWNaX2NIWmVmcEc2eUlGZ3Z5d01QLXJ0TWxGRjVoa1ZEdG5sdw?oc=5",
-      "summary": "Saudi Arabia’s coalition said it intercepted Houthi drones and missiles aimed at Riyadh, Khamis Mushait and the southern region.\nThe Houthis said they targeted airports and energy sites, including King Khalid International Airport and Saudi Aramco facilities in Yanbu.\nRising tensions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.\n",
-      "content": "Saudi Arabia’s coalition said it intercepted Houthi drones and missiles aimed at Riyadh, Khamis Mushait and the southern region.\nThe Houthis said they targeted airports and energy sites, including King Khalid International Airport and Saudi Aramco facilities in Yanbu.\nRising tensions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.\nThe U.S. embassy HQ in Riyadh is pictured on March 3, 2026.\nSaudi Arabia intercepted drones and missiles headed for several cities, including the capital Riyadh, fired by Iran -aligned Houthis on Sunday, the Saudi-led coalition in Yemen said.\nThe ongoing fighting between Saudi Arabia and the Yemen-based Houthis, combined with remarks by President Donald Trump last week suggesting that the U.S. and Israel are planning fresh strikes on Iran after the Nov. 3 midterm elections, drove oil prices to a six-month high Friday.\nThe official Saudi Press Agency quoted the spokesperson of the Saudi-led Coalition to Restore Legitimacy in Yemen, Turki Al-Maliki, as saying two drones and a ballistic missile were \"intercepted and destroyed\" as they headed toward Riyadh.\nThe agency quoted Al-Maliki as saying that 10 ballistic missiles launched by the Houthis toward the southern region of Saudi Arabia were also intercepted, as was a cruise missile headed for the city of Khamis Mushait.\nThe Houthis said in a Telegram post that they \"carried out seven qualitative military operations using a number of ballistic missiles and drones.\"\nThe targets included Riyadh&#x27;s King Khalid International Airport and oil giant Saudi Aramco&#x27;s facilities in Yanbu on Saudi Arabia&#x27;s west coast as well as other airports and energy installations around the country, the Houthis said.\nSmoke and flames rise from King Khalid Airport, after Yemen’s Iran-backed Houthis said they attacked the airport, in Riyadh, Saudi Arabia, October 8, 2026, in this screengrab obtained from a social media video.\nKing Khalid International Airport said in a notice to travelers that it was resuming operations Sunday, using its Terminal 1 for domestic flights and Terminal 2 for overseas routes.\nThe airport suspended operations on Oct. 10 following a strike that killed at least 13 people and injured around 300 others, making it the deadliest attack on Saudi Arabia in more than a decade.\nSaudi Aramco did not immediately respond to CNBC&#x27;s request for comment.\nResumption of Iran attacks &#x27;fairly soon&#x27;?\nWhile the Houthis and Saudi Arabia have been exchanging strikes in recent weeks, concerns have been mounting among investors that the U.S. could soon resume its attacks on Iran.\nThe U.S. ordered non-emergency government employees and their families to leave Saudi Arabia last week amid the Houthi attacks.\nTrump said Wednesday that the U.S. was not negotiating with Iran and something would happen \"fairly soon.\"\nThe president&#x27;s cryptic remarks came as U.S. officials told The New York Times that the U.S. and Israel have plans for fresh strikes on Iran after the midterm elections.\nSen: Middle East escalation is a matter of ‘when’, not ‘if&#x27;\n\"I think there&#x27;s more and more fears of escalation in the Middle East,\" Amrita Sen, Founder and Director of Energy Aspects, told CNBC&#x27;s Squawk Box Europe on Friday.\n\"We keep getting asked by clients: &#x27;Is it going to be before the midterms? Is it after the midterms?&#x27; So it&#x27;s not a question of &#x27;if.&#x27; People are asking if it&#x27;s a question of &#x27;when.&#x27; Our view remains that it&#x27;s more likely after the midterms than before.\"\nRising tensions, worries about supply disruptions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.\nBrent futures gained 3.1% to close at $116.72 a barrel, the highest international benchmark settlement since April 29. U.S. West Texas Intermediate added 3.8% to settle at $103.27 a barrel. Brent added 6.2% for the week, the third consecutive week of gains. WTI advanced 2.3% for the week.\nBrent crude oil price, U.S. dollars per barrel, year to date\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-25T12:49:33+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "CNBC Top"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.7,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -741,6 +744,30 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXpWdlJlTmVic0R3RHI1X0FXU2tYUktMSkhPd1NoNmM3c0pQZENuejlERzQwOGVkYjdRMS1RU1ctMHRsaW51b1BvYmFoT1dQWXM4TzVLc1dhVFdCSE9JOU4tVUNPaWtZMWkyN2g1NmFHbGxMMmVQZ2ZiVnZiSW5RREtZaUE5YkgxaE52RHRVX01HV0RQMW8zMy1wcl9Cdzg0VGI5ZVVxQnpHeHJqeV9mRHBSYXRhSnVF0gG-AUFVX3lxTE4yeTRYMzhLeExQRWVUd21IX2NJdW1UdXlMcExGNHE4UXdOZmM0SE1yMl9PZ2VRNG1zX2VsYld2R1dEUFdCQTRoM1dBTVFqZXJPbEF1U2FSVGZhTExkX21Ed21Idlg2dC01NUtxejdTWUpSODJVZjhpUkZZMndURkdQYjhxNnJmMjdKSXpUNzRMcTg2UjY5UFAtODJoYl9kOExvVEU1VW1lZ1MzYi1ra0ExWXpJMVYzbEMxQWlwTEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXpWdlJlTmVic0R3RHI1X0FXU2tYUktMSkhPd1NoNmM3c0pQZENuejlERzQwOGVkYjdRMS1RU1ctMHRsaW51b1BvYmFoT1dQWXM4TzVLc1dhVFdCSE9JOU4tVUNPaWtZMWkyN2g1NmFHbGxMMmVQZ2ZiVnZiSW5RREtZaUE5YkgxaE52RHRVX01HV0RQMW8zMy1wcl9Cdzg0VGI5ZVVxQnpHeHJqeV9mRHBSYXRhSnVF0gG-AUFVX3lxTE4yeTRYMzhLeExQRWVUd21IX2NJdW1UdXlMcExGNHE4UXdOZmM0SE1yMl9PZ2VRNG1zX2VsYld2R1dEUFdCQTRoM1dBTVFqZXJPbEF1U2FSVGZhTExkX21Ed21Idlg2dC01NUtxejdTWUpSODJVZjhpUkZZMndURkdQYjhxNnJmMjdKSXpUNzRMcTg2Uj",
+      "content": "Share US military says it helped Gulf states export 1.5 billion barrels of oil on social media\nA cargo ship sails in the Gulf towards the Strait of Hormuz, as seen from Dubai, United Arab Emirates, on October 21, 2026 [Altaf Qadri/AP]\nUS military forces have helped Gulf countries export more than 1.5 billion barrels of oil since June, despite Iran’s efforts to control the critical waterway, according to US Central Command (COMMAND).\nThe US military command said on Sunday that more than 3,000 commercial vessels had transited the Strait of Hormuz with its support over the past six months.\nlist of 4 items list 1 of 4 Lula holds off far right with victory in Brazil presidential election\nlist 2 of 4 Serbia celebrates historic election win for student-backed movement\nlist 3 of 4 Netanyahu rival Eisenkot holds final rally before Israeli election\nlist 4 of 4 Two storms slam northern Europe, cut power to 150,000 homes\nIt added that more than 95 percent of ships navigating the channel had sailed through safely in recent months despite Iranian threats, “clearly demonstrating that the United States and regional partners control the international waterway”.\nCENTCOM announced the figures as Commander Admiral Brad Cooper made a visit to the region, during which he observed the “current operational environment” in the strait while flying in a US Army helicopter.\n“We continue to stand shoulder to shoulder with our Gulf partners and the shipping industry,” Cooper said in a statement.\n“This visit underscores our strong commitment to continued freedom of navigation through the Strait of Hormuz.”\nCooper said the primary transit routes for vessels in the strait were free of Iranian mines due to the “incredible efforts” of personnel who conduct mine clearance operations.\n“We remain intensely focused on keeping commercial traffic flowing as we work with our teammates in the US interagency, Gulf Cooperation Council, and shipping industry,” he said.\nCrude oil flows have largely returned to levels seen before the US and Israel launched their war on Iran in late February, despite the ongoing threat of attacks on commercial vessels by Iranian forces.\nAt least 16.5 million barrels of oil per day left the region in September, equal to the pre-war average, excluding Iran, according to market intelligence firm Kpler.\nAnalysts have attributed the rebound to a combination of offshore ship-to-ship transfers, US military escorts, and increased use of oil pipelines.\nHowever, oil prices remain far higher than before the start of the war.\nBrent crude futures stood at about $114.50 a barrel on Sunday, after easing about 2 percent from last week’s nearly six-month high.\nBrent settled at $72.48 per barrel on February 27, the day before the US and Israel began strikes on Iran.",
+      "published": "2026-10-26T04:07:30+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
     },
     {
       "title": "'Super Central Bank Week' Kicks Off: Federal Reserve Expected to Hold Steady, December Rate-Hike Clues in Focus - BigGo Finance",
@@ -787,26 +814,6 @@
       "assets": []
     },
     {
-      "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbm9henZwdWFhWG5EVXJVNTdiSG5NcFpMNUNxTXk2a1BfMkRSal9fR0JDbEdubVdqVUFjUFhQV1VMN2NtZlI3YjJabGd2amdWLTJKM2l6Z0p6ZnFKcGdjUm1BMnM0TUQ1TDlhSXNrRTl2RmN3cF9vbm1UclRXQU9YQnk2ZTkzU1hzYlBQdUJ1cFJndjByRnc?oc=5",
-      "summary": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash&nbsp;&nbsp;The Guardian<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTRQT21ORVY5Q1",
-      "content": "Mary Peltola participates in a debate in Anchorage, Alaska, on 15 October. Photograph: Kerry Tasker/Reuters\nMary Peltola participates in a debate in Anchorage, Alaska, on 15 October. Photograph: Kerry Tasker/Reuters\nAlaska Senate candidate Mary Peltola delays campaign stops after car crash\nPeltola and her family sustained minor injuries after a driver struck the car transporting group to campaign stop\nMary Peltola , a Democrat who is running for Alaska ’s lone US Senate seat, and her family suffered minor injuries in a car crash while driving to a campaign stop on Saturday, her campaign said.\nThe family was on its way to the Alaska Federation of Natives annual banquet when another vehicle crashed into the one transporting Peltola and her family, her campaign said in a statement on Sunday. Peltola required medical attention after the collision.\n“Mary and her family sustained minor injuries but are in good spirits,” Cheryl Bruce, Peltola’s campaign manager, said in a statement . “Unfortunately, per the advice of medical professionals, Mary’s upcoming events in Fairbanks and Bethel will be rescheduled for later in the week as she takes time to recover.”\nBruce added: “Mary is disappointed that the accident is delaying the start of her Alaska Always tour, and she is eager to get back on the campaign trail to speak directly with Alaskans about her plan to take on the rigged system and lower costs for working families.”\nPolice responded to a “multi-vehicle collision” at about 6.55pm on Saturday, according to the Anchorage police department. Peltola’s family and the occupant of a second vehicle were taken to a local hospital “with non-life-threatening injuries”, according to the authorities, while the occupant of a third vehicle refused medical transport.\nMary Peltola, center, celebrates with her family and supporters as ranked-choice tabulations were announced in November 2022 in Anchorage, Alaska. Photograph: Loren Holmes/AP “The circumstances of the collision are under investigation,” reads a statement from the police department.\nPeltola, an Alaska Native and former congresswoman, is challenging Republican incumbent senator Dan Sullivan , hoping to become the first Democrat in nearly two decades to represent the state in the Senate. Both candidates have tried to rally support from Alaska Native voters, a key constituency in the high-stakes race that has become one of the most watched in the nation.\nOn Friday, Donald Trump ordered the justice department to block the certification of the Senate election in Alaska if Sullivan loses. The lawsuit cites potential confusion with another Republican candidate who is listed on the ranked-choice ballot as Daniel J Sullivan Jr , who is a retired schoolteacher.\nPeltola’s incident delayed what her campaign announced as the “Alaska Always tour,” an eight-stop push through the last week before election day. Her campaign said she will resume events on Tuesday, with a stop in Homer, Alaska.",
-      "published": "2026-10-25T20:28:00+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.5,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Two storms slam northern Europe, cut power to 150,000 homes",
       "link": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
       "summary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
@@ -821,26 +828,6 @@
       "category_zh": "欧洲",
       "stars": 3,
       "score": 12.5,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "France's Le Pen launches presidential bid as protests rattle the nation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5",
-      "summary": "France's Le Pen launches presidential bid as protests rattle the nation&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-25T19:31:11+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
@@ -865,72 +852,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Russia says it hit two cargo vessels and Ukrainian logistics hubs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tvWFptSmJsT1Z6OERuX3EyU25sZDlDb1JreXFGV0dlUlNMMXJiLWZaVHJxR2w5MnA0MVRqMnZ2NS1GWmxxWVRYN1BWc2NZSWtCdWlJQlFYQkE2Vy1mM2FIRlJud0YtTmR5UGg2YkNjYUl2OGw1ODF1eDRZWF9INjhQLXpldUVCSDZCSmtodTg4M1pyTmNCSWtZdnYzUDNDLXpGUU5tcl83Wkk?oc=5",
-      "summary": "Russia says it hit two cargo vessels and Ukrainian logistics hubs&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-25T15:35:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "UK's Burnham says he is open to discussing EU free movement - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjVxck9RU09WdXhBX1ZuMkZzX013Y0h5QXZ3dGU4amkwYllEV05odVJVcnRmQnpNZ2RtX3BlMGZYc3cwc1lJWU5zNkJELUpQSTNQTDlIanQ1OXN2RDlKRnZsS0FMVUM5ejhyaEhTSU1sVjl2NzN1NGxXNzRVNmE3dWdtZ2hIamMyaGQ4WG1fMldGMkl3Snhoc3dRZ2tESFdJaHJsc0xUQVV2LXJhaW1JQUFydmd5UQ?oc=5",
-      "summary": "UK's Burnham says he is open to discussing EU free movement&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-25T03:13:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Oil prices, Fed policy decision to steer rupee, bonds this week - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelJyN3JpclF1bWk1YzFhM1prRER2SmsyZ0tLbEYyVnZxb0JhbV9sVEplUzhvbnFydkUtdURhektCU2Z1a3VNVk8xaGRBZXZSanpsYWkzMkh1RDBpQktlR25CeEZabmZLWTdfN0QwYUZWQjQ2VmVGdENPSm04Z1BwUF83am40bVlTYjVjV0REZWdUS3E3cUNLaFZCaEFoQzhBemhoRkFxa3hSUQ?oc=5",
-      "summary": "Oil prices, Fed policy decision to steer rupee, bonds this week&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-26T01:31:00+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：原油 / 能源股 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "美债",
-        "美元",
-        "美股"
-      ]
     },
     {
       "title": "US Interest Rate Forecast: Oil Rally Fuels December Fed Hike Risks - FXEmpire",
@@ -959,52 +880,29 @@
       ]
     },
     {
-      "title": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenkzWHJESUR3b3dVVTA2QzZkUlB6VmRRaVJzT2xvemEwakRCU3dDLThobUtKQmx6MUdBQVRNREw5TUgzdHNSLUVaR3JmRTZTeVA1VjJuWVpOS1pMWG5zbjg0M0RESlRzalROOUlKSDdNYjZZTW12YWM3TWtsYTJGTTZRSFFPa3kzYS00TG1NQTYzTVlJSXVETkh6dzh4aXZOUmNaeHZ0MkZXc2xNal9DaU1fakV3VjV6TlFsaDlpRjF4NjBY?oc=5",
-      "summary": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations&nbsp;&nbsp;FXStreet",
+      "title": "China's Communist Party opens fifth plenum - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0?oc=5",
+      "summary": "China's Communist Party opens fifth plenum&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-25T23:24:52+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：原油 / 能源股 / 黄金 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "黄金",
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "Serbia's Vucic concedes defeat to student led movement in parliamentary election - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUU3TDlMRjZDVkdXVmplZVo5NHhmeGM5NUd5bkx3R2dJVTVBNjVaMmtkYkpJNHZDT1VNMzJTdjVWRG1VUFVMMW83ZmtnU2pOd2RsNlBlcEw5RldCZWNvT3hya3cyVGdacXg3cWd0cUlKYmdrM0JPZzFwSmJISUh0TWhZbVRzMFdfdS1ZZ1R2a2hKdERiQnZXX2pqY2RmV2NnYnZ1UE91eGFQT1pkLUk5eHRHbFVMWDRpWVl3QXA1dw?oc=5",
-      "summary": "Serbia's Vucic concedes defeat to student led movement in parliamentary election&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-25T20:52:12+00:00",
+      "published": "2026-10-26T02:04:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "Al Jazeera"
+        "Guardian World"
       ],
       "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 12.4,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "US appeals court appears skeptical of Trump DOJ's lawsuit over California voter rolls - Reuters",
@@ -1020,6 +918,27 @@
       "source_count": 2,
       "category": "us",
       "category_zh": "美国",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnpERmd3Z1pYM2xFeTBMOEVnY21scU00QlNJOTdFdE5wbFhmcjdQU1ljTk9vWlJmd1JKdDRvT1p1LVZLT2hpM3h4UmVKYTRhTkJnVmJKZFhkRmFuUF9CZzA1YXNON1VmQ0ZOODVVTkJDZndUUzUzRUxEZmdDa2YyZlA4N1IyVGVCaVlNN2lGRnVXZWxQeTVlYTZnMmRJOHhrRGxYVTFNSXNEZTZfOGhWRGQ4RVlGSWNyTXZoSi1Zb1N0VW1EODBSdFBn?oc=5",
+      "summary": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-26T03:20:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 12.4,
       "is_hypothetical": false,
@@ -1052,6 +971,27 @@
       ]
     },
     {
+      "title": "North Korea-South Korea tensions high as letters lodged with UN, howitzer spotted - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHlBZkpmTWstd3ZhbHZKbUJ4Z1MtZFNMZ0JfZzNDSlpES2FEeGlzZDd3OEE3MlZqcEFDUjdMR09ZeldLX3hrbFNydnhLZHlGdDU3Y0J5OHRWcDBXelJSb1c5WlIyOUNFelZ1Rmx6TXFJVXRmU1lza1dSdzgyVmdRZndqN0Fna2VVMGxJV29XV2x6cXNMVkZic09lVEpTcTRmLVBmVDRvVUxWeW05TUxERGxYeGpiS1FsRnNaNWRuQkFOd3RfcUNF?oc=5",
+      "summary": "North Korea-South Korea tensions high as letters lodged with UN, howitzer spotted&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-25T22:01:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "In ‘unprecedented confrontation,’ IDF chief said resisting Netanyahu’s order for military action tied to Iran - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1F6OTFMaDNiQUszRmdqMy1aYlBXQ0s0NHE1OHVkMXN1OHJtUFV6TTJZUUJBdGNPdGRYWkVJSXlRSm0wYmZLZWhJT1lhNU9ZQmRNcGdQd1J3UFM1eGJEdDB3N21WSEpESFZHYUdoSXR4aHFiOXVSSndCMU94V3lvWldiLXlhRFVocnpLazFYbkxROWd2Sl9QR2FfOF8wVlNpVkptcFdkdmxwaWhtUjNpUVoybGhYdlpnTHI5ZE1lbDctWHZYUmpPTNIBzgFBVV95cUxPMlR0Sm5SM0pxV1p3NWh4cFRtSEk1bVNITWtDc1dmWGV3T1VsVWEwY2ZpUlo5SDFvaXFrNnJ0S0wyQVdSME9IOUNiN1hiZlUycDU1OUpzV0hoQU5CY3BPM2E4WUc4UHNqQ3BtdDJsZjV1ZnFJeDQ4SUxNSlJXVXJCTk1DUWMxcVMtaHRiMHM4NDdBdF92Q1cxd1k0VUNWc0cyMmNZSEVtamxBdkwwQmJ6OXF6NVBCVmVCV19rbFhDdXBxZ3B4U1lBSlZpNDlqQQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1F6OTFMaDNiQUszRmdqMy1aYlBXQ0s0NHE1OHVkMXN1OHJtUFV6TTJZUUJBdGNPdGRYWkVJSXlRSm0wYmZLZWhJT1lhNU9ZQmRNcGdQd1J3UFM1eGJEdDB3N21WSEpESFZHYUdoSXR4aHFiOXVSSndCMU94V3lvWldiLXlhRFVocnpLazFYbkxROWd2Sl9QR2FfOF8wVlNpVkptcFdkdmxwaWhtUjNpUVoybGhYdlpnTHI5ZE1lbDctWHZYUmpPTNIBzgFBVV95cUxPMlR0Sm5SM0pxV1p3NWh4cFRtSEk1bVNITWtDc1dmWGV3T1VsVWEwY2ZpUlo5SDFvaXFrNnJ0S0wyQVdSME9IOUNiN1hiZlUycDU1OUpzV0hoQU5CY3BPM2E4WUc4UHNqQ3BtdDJsZjV1ZnFJeDQ4SUxNSlJXVXJCTk1DUW",
@@ -1072,10 +1012,30 @@
       "assets": []
     },
     {
+      "title": "More Pipeline for the Permian: Welspun’s $580MM Order Reflects the Basin’s Gas Demand Shift - Hart Energy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmo1TG1Qb3ExR3k0OWV3QWU0ZlZCaVlWbVpWZmZnRldBSEdOd3RfNEVocTVDS1laTUZYaVQ1TTlHYkZCTDliV0NhVHpaOVJBaGdWSE83eTVXT1FrV051TGNhRkEtcmVsVnpMZjBvSlJ2dVFnUGFvNzVlWnVsOXdfVFBsTlcyZml5QXRZMWZqRnZUQlRiWWJJR3pkRmZlYjA?oc=5",
+      "summary": "More Pipeline for the Permian: Welspun’s $580MM Order Reflects the Basin’s Gas Demand Shift&nbsp;&nbsp;Hart Energy",
+      "content": "",
+      "published": "2026-10-26T02:46:00+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 12.1,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTRPYzhyZVZvZ1dLTUxybFVrZ0lfRTc1WS0yV1BvY2RQZGJwT0tGUjhTV2tWQUczaFBBWFR3VFNFYXE0YmE4RWNLcUJrUVNpZWZkZUhaZjNqaXZHQ1dENC1rcG9TVjdmQ2lEVmhoS0FTR29VUlFzNERwcTl5eGc0b1dFSExTeWctbEZQaUFuNWEtX2J5Qm5UUzV6NTNoNS1SRjVr?oc=5",
       "summary": "The Stock Market May Be About To Break As The Earnings Trade Unwinds&nbsp;&nbsp;Seeking Alpha",
-      "content": "Implied dispersion is elevated but not extreme, limiting the usual pre-earnings market lift and signaling potential for rising correlation post-earnings.\nDispersion and correlation are expected to mean-revert after earnings, likely pushing the VIX higher and adding pressure on the S&P 500.\nElevated implied volatility suggests the S&P 500 may struggle to move higher, favoring a range-bound market with sector rotation.\nA rise in implied correlation and market breadth could signal an impending broad market decline rather than healthy expansion.\nLooking for more investing ideas like this one? Get them exclusively at Reading The Markets. Learn More Â»\nOne thing that seems different this quarter from recent quarters is that implied dispersion is elevated, but not nearly as elevated as in previous quarters. This could help explain why the market hasn't seen the usual pre-earnings\nMichael Kramer is the founder of Mott Capital Management - and is a long-only investor who focuses on macro themes and studies trends and options activities to identify and assess entry and exit points for investments in his long-term focused thematic growth strategy. He is a former buy-side trader, analyst, and portfolio manager with 30 years of experience tracking market technicals, fundamentals, and options.Michael Kramer leads the investing group Reading the Markets, where he helps a devoted following of members to better understand what is driving trading and where the market is likely heading, both the short and long-term. Features of the investing group include: daily written commentary and videos analyzing the driving factors behind price action; general macro trend education to help members make well-informed decisions based on market conditions, interest rates, currency movements and how they all interact; chat for questions and community dialogue; and regular Zoom videos sessions to discuss current ideas and answer questions. The level of access RTM subscribers and the expertise of the source are unprecedented given that the subscription price is a fraction of similar technical coaching and mentoring services. Learn more.\nAnalystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.\nThis report contains independent commentary to be used for informational and educational purposes only. Michael Kramer is a member and investment adviser representative with Mott Capital Management. Mr. Kramer is not affiliated with this company and does not serve on the board of any related company that issued this stock. All opinions and analyses presented by Michael Kramer in this analysis or market report are solely Michael Kramerâs views. Readers should not treat any opinion, viewpoint, or prediction expressed by Michael Kramer as a specific solicitation or recommendation to buy or sell a particular security or follow a particular strategy. Michael Kramerâs analyses are based upon information and independent research that he considers reliable, but neither Michael Kramer nor Mott Capital Management guarantees its completeness or accuracy, and it should not be relied upon as such. Michael Kramer is not under any obligation to update or correct any information presented in his analyses. Mr. Kramerâs statements, guidance, and opinions are subject to change without notice. Past performance is not indicative of future results. Neither Michael Kramer nor Mott Capital Management guarantees any specific outcome or profit. You should be aware of the real risk of loss in following any strategy or investment commentary presented in this analysis. Strategies or investments discussed may fluctuate in price or value. Investments or strategies mentioned in this analysis may not be suitable for you. This material does not consider your particular investment objectives, financial situation, or needs and is not intended as a recommendation appropriate for you. You must make an independent decision regarding investments or strategies in this analysis. Upon request, the advisor will provide a list of all recommendations made during the past twelve months. Before acting on information in this analysis, you should consider whether it is suitable for your circumstances and strongly consider seeking advice from your own financial or investment adviser to determine the suitability of any investment.\nSeeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+      "content": "",
       "published": "2026-10-25T13:55:15+00:00",
       "source": "GN Markets",
       "sources": [
@@ -1132,11 +1092,11 @@
       "assets": []
     },
     {
-      "title": "Oil Prices Rise Despite Middle East Export Recovery - Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVZlYTRobm5RS2FFXzJJZjdyazFBeW9QYkRCeHFJQjhLRlIzaHJTdUZwenZ6MmNfVUY0RVR5SC02NmtRZjlQM2VaUWJ1bXAxYzV0cGtGWURSd0FhakI1VDNrTGJ5bVRLNDdFOXE2OGpsRkNLUURtd0ViRE5oRzV5aTRQNThKLVBQaTFrQXc0eG14WGlzR0l4MnV30gGfAUFVX3lxTE5kOFU0LTkyQjRfeWxaQzRkX095a0tELWxRTXpZVFdiV1k0cEJBZkhEazJGLV9TYV8zR3V0aWNCNWYxbzV5eEtpZ01sU2Vjay13QkFkUG9CQ1o0aDRRSngwSWxPSTZ5aE9VQVJNZno5RmZPV3BzNWZvdmNnWWR1Q3dWZFJUVU0yZ3JqWFI0Tk5XU3YwMnhQMG1xcUpteDJhWQ?oc=5",
-      "summary": "Oil Prices Rise Despite Middle East Export Recovery | OilPrice.com\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nMiddle East Physical Crude Slides While Brent Hits Five-Month High\nOil India Strikes Natural Gas in Shallow Offshore Basin\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nU.S. Partner i",
-      "content": "Oil Prices Rise Despite Middle East Export Recovery | OilPrice.com\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nMiddle East Physical Crude Slides While Brent Hits Five-Month High\nOil India Strikes Natural Gas in Shallow Offshore Basin\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nRenewables Boom Pushes Australia’s Gas Power to Quarter-Century Low\nEuropean Natural Gas Prices Surge to Highest Level Since 2022\nEni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts\nUK Rules Out Winter Energy Shortages as Gas Prices Soar\nJapan Weighs Gasoline Subsidy Cuts as Energy Costs Soar\nBrent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure\nAsia Needs $1 Trillion a Year to Secure Energy Supplies\nNorway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter\nOfgem Approves Deal to Keep UK Gas Import Capacity From Europe\nEuropean Natural Gas Prices Rise on Middle East Escalation\nGrid Constraints Curtailed 119 GW of Renewables in India in September\nIndia's Middle East Oil Imports Jumped 32% in September\nIran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge\nIndia Ramps Up Coal Supplies to Record High as Power Crisis Looms\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\nOil Prices Surge Above $111 as Houthis Strike Saudi Targets\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nIndia’s Top State Refiner to Reduce Middle East Term Oil Purchases\nHigher Oil Availability Pressures Middle East Crude Benchmarks\nJapan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs\nRussia to Send First Diesel Tanker to U.S. on Thursday\nMorgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027\nUK Approves Jackdaw Gas Field as Energy Crisis Deepens\nGoldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar\nTrump Administration Pushes Refiners to Boost Diesel Output as Prices Soar\nOil Prices Climb Above $110 as Middle East Supply Fears Persist\nNorway's Gas Production Plunges 12.6% as Europe Heads into Winter\nEU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis\nRussia’s Oil Export Revenue Slides as Production Declines\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\nTrump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply\nSaudi Arabia Becomes the Oil Market’s Biggest Wild Card\nIrina Slav has been writing about global energy markets since 2007, covering the oil and gas industry, energy security, commodities, and the&#8230;\nOil Prices Rise Despite Middle East Export Recovery\nMiddle Eastern oil exports are recovering, with Hormuz flows reaching 11.7 million bpd in October, approaching pre-war levels despite continued disruptions.\nEscalating tanker attacks and record freight costs threaten supply stability, keeping oil prices elevated despite improving export volumes.\nGlobal oil markets remain vulnerable, as costly shipping workarounds, depleted inventories, and persistent geopolitical risks prevent a return to normality.\nReports about recovering oil flows in the Persian Gulf and the Red Sea have dominated headlines over the past couple of weeks. Yet oil prices have only moved higher, suggesting barrel numbers alone are not enough to convince the world everything’s back to normal. It isn’t.\nAccording to the latest Kpler numbers, October oil exports out of the Middle East in total are in fact higher than they were before the U.S. and Israel launched their first strikes on Iran at the end of February. Flows out of the Strait of Hormuz alone have averaged 11.7 million barrels daily this month, Kpler estimated, up from 9.8 million barrels daily in September, and close to the pre-war average of 14.5 million barrels daily in February, Reuters’ Ron Bousso reported .\nHowever, these numbers are the product of a lot of effort, expenditure, and risk—because the reports of rebounding oil exports out of the Persian Gulf are not the only news out of the region. The other big development there is Iran’s intensification of strikes on tankers. According to data from the UK Maritime Trade Operations and Iran’s Islamic Revolutionary Guard Corps statements, at least 25 ships were hit in Hormuz in the first 20 days of October. Yet, outlets tracking these incidents note that many do not report if they get attacked, for various reasons, which suggests the number could be higher—as high as 40-50 vessels. Most of these are tankers. Related: Middle East Physical Crude Slides While Brent Hits Five-Month High\nMeanwhile, Kpler itself reported a sharp drop in tanker traffic via Hormuz this month as a result of the strikes. “Crude crossing the strait fell 27% from a wartime high the week before, to at least 10.1 million barrels a day,” two Kpler analysts reported in early October, as the firm counted only seven commodity carriers traversing the strait on October 6th. This was the lowest figure since late July, the analysts said.\nFurther, Reuters earlier this week reported  at least 18 tanker attacks over just the last two weeks, based on data from Kpler. The firm reported earlier this week that the daily average flow of oil out of the Persian Gulf had shrunk to 8.5 million barrels, from “more than 20 million barrels daily” for two weeks ago. This is quite a sharp and deep drop in export rates.\nThis sort of conflicting data from the same sources does not really contribute to a sense of security about oil supply from the Middle East, especially when the reports about strikes on tankers continue at a steady trickle. Meanwhile, a lot of the oil coming out of the Persian Gulf is doing so via ship-to-ship transfers that have pushed freight rates to record highs and kept them there. This has become such a serious problem that President Trump was said to be considering lifting sanctions on some tankers used to transport Russian oil to alleviate a shortage of oil carriers due to the expansion in STS off the coast of Oman.\nThat will not help, however. Because the supply of so-called shadow fleet tankers is also limited—because they are busy carrying that sanctioned oil. “Sanctions relief does not equal immediately usable mainstream tanker capacity,” Rahul Kapoor, global head of shipping analytics and research for S&P Global Energy, said as quoted by Bloomberg earlier this week. “The number of vessels that could realistically migrate back into mainstream trading would likely be materially smaller than the overall sanctioned fleet.”\nWith all these factors at play, and with the chance of a peace deal between the United States and Iran as remote today as it was three months ago, it is hardly a wonder that prices are moving higher—at least on the futures market. In the physical market, prices are actually down, Bloomberg reported this week. The reasons: that notorious rebound in Hormuz outflows, despite the tanker attacks, and a slight dip in tanker rates, which is a very welcome development.\n“There’s still plenty of headline risk at play. Oil stocks are quite low and it’s difficult to see them rebuilding given current dynamics,” a senior commodity analyst at Marex told Bloomberg. Ryan Fitzmaurice added that there was still hope for lower heating demand this winter, if El Niño lives up to expectations. Lower heating demand, in turn, would bring some relief to prices. Betting on the weather, however, is not the soundest strategy, which is why chances are prices will remain elevated until at least the end of the year.\nWhat the latest developments in the Middle East have shown is that there is always a workaround, even for a severe problem such as the closure of Hormuz—but these workarounds come at a price and are not a replacement for business as usual. One way or another, the world is adapting to this new situation in energy security. It has no other choice, really.\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nOil India Strikes Natural Gas in Shallow Offshore Basin\nRecord Tanker Rates Cripple U.S. Crude Oil Flows to Asia\nIrina Slav has been writing about global energy markets since 2007, covering the oil and gas industry, energy security, commodities, and the&#8230;\nAsia Is Building the World’s Next $15 Trillion Energy Market\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\n$120 Oil Is Almost Here, and Trump Has Few Good Options\nChevron Moves to Take Over Russia's Most Prized Iraqi Oil Field\nTrump Targets $6.2 Billion Offshore Wind Project Nearing Completion\nThe Hidden $40-Per-Barrel Cost Driving Oil Prices Higher\nRecord Tanker Rates Cripple U.S. Crude Oil Flows to Asia\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
-      "published": "2026-10-25T23:00:00+00:00",
+      "title": "Saudi Arabia to store crude oil in Singapore to bolster Asia supply security - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzBNLUdzSXJyUVlmV19mTVRxempkeGpFOERuNWVHSnFqWFh2TkZqYk0yYjkwVVV1UkhPY0lzUGJHZk0tNjl6WDJtTkN5R0xQdFZNZ0NpR0Y5eVRWa1dLN0ZmX1dZWUlrTlh0YlRhZWhMbmZKRVJmTTl0anpmb1hrQ3Iwb1gzNTNzRUNybzhMdGR3VVFkd0dZa05Nc3RPOXp2QklZTGZydnYweXM?oc=5",
+      "summary": "Saudi Arabia to store crude oil in Singapore to bolster Asia supply security&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-26T01:47:00+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
@@ -1180,32 +1140,35 @@
       ]
     },
     {
-      "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
-      "summary": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign&nbsp;&nbsp;AP News",
+      "title": "Swiss Franc advances as US Dollar weakens on Fed rate pause expectations - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzhfUmpvMXY5ckl0ZUJ0RjFDdkIwWHV1b2E1S05ZTUhLSTZfQ0hBM003OU95RjNxd3RBQV9MQXpnLWRKajllT1gxX3lGTGM2UFJKemJMU2hpNWh1OFJLUTFEM1dOYUQyM0tSbEJuYk5CenBRQV9nWkU1OXZFQzZnUFNTaVNzcVphNTlybG81UmR4V2pzMW1xV19QUjcwWkJPWTQ1dmwzT3dDaVJWRHZKY2hwUFpMUQ?oc=5",
+      "summary": "Swiss Franc advances as US Dollar weakens on Fed rate pause expectations&nbsp;&nbsp;FXStreet",
       "content": "",
-      "published": "2026-10-25T02:45:00+00:00",
-      "source": "AP World",
+      "published": "2026-10-26T03:45:04+00:00",
+      "source": "GN Fed",
       "sources": [
-        "AP World",
-        "GN Top"
+        "GN Fed"
       ],
-      "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 2,
       "score": 11.9,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
       "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5",
       "summary": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-26T00:26:00+00:00",
+      "published": "2026-10-26T01:54:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -1214,27 +1177,6 @@
       "source_count": 2,
       "category": "us",
       "category_zh": "美国",
-      "stars": 2,
-      "score": 11.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Israel presses ahead with West Bank operation as election approaches - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmFVbFU1aUF5RktLU21EaTk5alRrTVpDS3dUcEswWXBfVFl1M0pPNDdIV0lMeXpSMWVSQjY3S0wxNW9ZMV9rV0VKaFM5T1VfMEpQY1l4UU9MVk9xZFg2WGJTaTlBSUdkS0pPVDllOEN0LXBNQkFTOGlhSmRPbV83bHd2dVYyUkF5TDYxRGpHTmtnaG5Tb2tzN3hvakgwNWc?oc=5",
-      "summary": "Israel presses ahead with West Bank operation as election approaches&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-25T19:27:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "BBC World"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
       "stars": 2,
       "score": 11.9,
       "is_hypothetical": false,
@@ -1268,7 +1210,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXpKMk40MlNMc2lZNlZtZFFsYW5uaU14TTJXNzBFNzV4d0s4RVlzcE81X3YybllGaklXZ1FLbjdkVTlZOGNmSklRZnN3MXVSbENRTVdyTWVwY1hpZ19WMEVUY21hOGlPajhoendseG1PQnBwcDlGRUk1blRKbXZfOWlYaHRDczBDcFhtaDZfVlI?oc=5",
       "summary": "More flooding in Four Corners region after storms bring heavy rain and at least one tornado&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-25T17:33:04+00:00",
+      "published": "2026-10-26T00:52:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -1281,6 +1223,47 @@
       "score": 11.9,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Israel presses ahead with West Bank operation as election approaches - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmFVbFU1aUF5RktLU21EaTk5alRrTVpDS3dUcEswWXBfVFl1M0pPNDdIV0lMeXpSMWVSQjY3S0wxNW9ZMV9rV0VKaFM5T1VfMEpQY1l4UU9MVk9xZFg2WGJTaTlBSUdkS0pPVDllOEN0LXBNQkFTOGlhSmRPbV83bHd2dVYyUkF5TDYxRGpHTmtnaG5Tb2tzN3hvakgwNWc?oc=5",
+      "summary": "Israel presses ahead with West Bank operation as election approaches&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-25T08:10:03+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "BBC World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 2,
+      "score": 11.9,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWdLMy04d09iQ2V4TE5YWDRXTWhlbTd0ZW9mRkcxTm9CZjVSR2tCOUkzMzhRUk1kMXhJc1ZzU3FodEdCUE1SamdldjRuZGhabmhEX0dqc0oyd0kxUUNrLVlmN3dSZmhRdzhNcHNsOVNPSE5YYW82aTUzUk1ldHNTU2NnaEJJRTF3WlNRZGZRak9aalVKZXV2YVFaek1yQktMVWRnNW01bGV0dWw3Y0ZZdjRKUGxhY2F2dURSN2p1ODRBMEVra0t6dDUyeWdqb0RVLVF1ag?oc=5",
+      "summary": "More than a third of S&amp;P 500 companies are about to report earnings as market confidence cracks&nbsp;&nbsp;<font color=\"#6f6f",
+      "content": "",
+      "published": "2026-10-25T14:00:00+00:00",
+      "source": "GN Top",
+      "sources": [
+        "GN Top"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 2,
+      "score": 11.8,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -1301,6 +1284,26 @@
       "score": 11.8,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Stocks trade cautiously in Asia, Brent off six-month top - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5",
+      "summary": "Stocks trade cautiously in Asia, Brent off six-month top&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-26T00:46:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 2,
+      "score": 11.7,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     }
