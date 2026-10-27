@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T20:30:15.203119+00:00",
+  "generated_at": "2026-10-27T22:29:25.000583+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-26T20:29:58.016886+00:00",
-  "window_end": "2026-10-27T20:34:58.016886+00:00",
+  "window_start": "2026-10-26T22:29:05.187189+00:00",
+  "window_end": "2026-10-27T22:34:05.187189+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -67,6 +67,28 @@
       "score": 17.0,
       "is_hypothetical": false,
       "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkV3Umx6VUg4THl2S240YVdZcy1jOUNXQThnN1VpQnRMQWxmblRWS3NmYjYyMUNmNTVHRGtIZC1ZUUlHaUItaWVMUzJ1REcxODVmdXA3RkxtdTM3TTdzT21taFdrSll2eFhhMXZrZjQ1blQzSkxTZmpZVmZuYWhKbll2QndUY0RkdlFtR3dhQ0REV1hhMmRwc284RTRXYklZcTlrR1VIWTY5RGM3TUpmaloxMlFqa2VBX3JHN3QtVXlNV3ZyWW9Z?oc=5",
+      "summary": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T15:57:46+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.8,
+      "is_hypothetical": false,
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -147,46 +169,24 @@
       ]
     },
     {
-      "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-      "summary": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin&nbsp;&nbsp;AP News",
+      "title": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZllkUzkzN1QxY2xNcWtFVzZURk42M3BMY3N2OG9TTGxvS25pWGI1TGtScHR0TXh6UVIyZXZFSHJBN05ZT25nRnJpUTZibzRWZ1VuaE1jQ2UwQkY4U1cyX0ZrbGhQN29LNi1rZmdmM3ZOR3FZNHg4YVlwY0s1djdFVGlMQTNnSUllRmg5RmtuVmdISTFoVVluVWlIc0ZROHplWFhZMnJySGxuaHp6QV9pajNhSkxId3p1bzJGV2JlbVhpNkV2QlVXQi1pUXNzRmp1NV9NeA?oc=5",
+      "summary": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied&nbsp;&nbsp;U.S. Departmen",
       "content": "",
-      "published": "2026-10-27T01:26:06+00:00",
-      "source": "AP World",
+      "published": "2026-10-27T15:07:58+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "AP World",
         "GN Geopolitics",
-        "CNBC Top",
-        "NPR World"
+        "Guardian World",
+        "Al Jazeera"
       ],
-      "source_count": 4,
+      "source_count": 3,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 15.8,
+      "score": 15.9,
       "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkV3Umx6VUg4THl2S240YVdZcy1jOUNXQThnN1VpQnRMQWxmblRWS3NmYjYyMUNmNTVHRGtIZC1ZUUlHaUItaWVMUzJ1REcxODVmdXA3RkxtdTM3TTdzT21taFdrSll2eFhhMXZrZjQ1blQzSkxTZmpZVmZuYWhKbll2QndUY0RkdlFtR3dhQ0REV1hhMmRwc284RTRXYklZcTlrR1VIWTY5RGM3TUpmaloxMlFqa2VBX3JHN3QtVXlNV3ZyWW9Z?oc=5",
-      "summary": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T15:57:46+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -208,6 +208,30 @@
       "score": 15.3,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Flavio Bolsonaro leaves Brazil for US after election defeat, source, media say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkMzNXNRUEgtVnNOZEtDa25adERvb0Z5Y3R5ZmVMTFpxOE9adkd0cTBRN0dUVll2LVpyNlNUQ3NCTXhNMXRTUUJNMnVFcFdWWGUxTmpHYU1KVzA3WGkyZmdXSnpIcktPVWNxMldQdkpWb3YwZDVlV3NmN213d3duU3YwbkEzWms1T3o2bEtiZWpHSFpPODhnZEMzX1FjZWpSR2dZekdaYkpFc2hwSWh1aDYtS1dCR2ctZHZJam1ITVU?oc=5",
+      "summary": "Flavio Bolsonaro leaves Brazil for US after election defeat, source, media say&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T17:42:40+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "GN Top",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 5,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 15.2,
+      "is_hypothetical": false,
+      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -264,7 +288,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
       "summary": "Live - US, Iran clash at UN over nuclear program and war&nbsp;&nbsp;Iran International",
       "content": "",
-      "published": "2026-10-27T17:53:22+00:00",
+      "published": "2026-10-27T20:54:53+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -280,23 +304,24 @@
       "assets": []
     },
     {
-      "title": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZllkUzkzN1QxY2xNcWtFVzZURk42M3BMY3N2OG9TTGxvS25pWGI1TGtScHR0TXh6UVIyZXZFSHJBN05ZT25nRnJpUTZibzRWZ1VuaE1jQ2UwQkY4U1cyX0ZrbGhQN29LNi1rZmdmM3ZOR3FZNHg4YVlwY0s1djdFVGlMQTNnSUllRmg5RmtuVmdISTFoVVluVWlIc0ZROHplWFhZMnJySGxuaHp6QV9pajNhSkxId3p1bzJGV2JlbVhpNkV2QlVXQi1pUXNzRmp1NV9NeA?oc=5",
-      "summary": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied&nbsp;&nbsp;U.S. Departmen",
+      "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+      "summary": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-27T15:07:58+00:00",
-      "source": "GN Geopolitics",
+      "published": "2026-10-27T16:28:00+00:00",
+      "source": "AP World",
       "sources": [
+        "AP World",
         "GN Geopolitics",
-        "Guardian World"
+        "NPR World"
       ],
-      "source_count": 2,
+      "source_count": 3,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 14.7,
+      "score": 14.6,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -304,8 +329,8 @@
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "content": "Image caption, The people of Oleshky have had no electricity for years and no access to food or water\nBy Paul Kirby ,Â  Europe digital editor ,Â  Olga Malchevska Â  and Â  Dan Johnson ,Â  in Kyiv\nA ceasefire that began with the aim of getting food and medicine to the Russian-occupied Ukrainian city of Oleshky has been extended across the wider southern region of Kherson, according to sources.\nSeveral thousand residents are trapped in the city with no access to food, water and electricity. On one side is the Dnipro river, while Russian forces are on the other and all the roads out are too dangerous.\nHowever, no breaches of the truce that began early on Tuesday have so far been reported.\nUS First Lady Melania Trump, who helped broker the ceasefire along with Pope Leo XIV, said on Tuesday that the area involved had been expanded to provide \"safe passage\" for humanitarian convoys.\nThat was later corroborated by the press secretary to Ukraine&#x27;s public ombudsman, and by Oleksandr Tolokonnikov, deputy head of Kherson, who said Russian shelling had stopped both in Kherson city, which is in Ukrainian hands, and the wider region.\nUnder the deal, the ceasefire will be followed by deliveries of humanitarian aid to Oleshky and then evacuations, planned for Friday, for anyone wishing to leave.\nAn estimated 1,700 to 2,000 people remain in Oleshky itself and a few thousand more in surrounding areas.\nMany residents have resorted to cooking garden weeds to survive, telling the BBC they are suffering extreme hunger and want to leave.\nBoth sides said the ceasefire was being observed. Kremlin spokesman Dmitry Peskov said everything was proceeding \"according to plan\", and paid tribute to US mediation and in particular representatives of Melania Trump.\nUkrainian Foreign Minister Andrii Sybiha said if the ceasefire produced results, it could \"pave the way for other steps in the peace process\".\nA key official in President Volodymyr Zelensky&#x27;s parliamentary party, David Arakhamia, said it would continue until 22:59 Ukrainian time on Sunday 1 November, and described the truce as the \"largest de-escalation since 2022\".\nBefore the war Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion in February 2022.\nNo shops are open, and the city has had no electricity, gas or water since the Kakhovka Dam was blown up in 2023, flooding the area and killing many people in Oleshky itself.\nConditions have become so desperate that not only is getting supplies into the city extremely difficult, but escaping is too risky because the routes out of Oleshky have been mined and subject to drone attack.\nOne woman told the BBC she had stepped on a landmine and was currently in hospital where she had undergone two operations: \"I don&#x27;t know how long I will have to spend there,\" she said, worried about not being able to join the evacuation.\nPope Leo appealed earlier this month to Russia&#x27;s President Vladimir Putin to allow food and medical aid into Oleshky as well as a safe evacuation, and urged his Ukrainian counterpart Volodymyr Zelensky to co-operate with Moscow over a ceasefire.\nThen the White House said last week that Melania Trump had secured a ceasefire.\nOn Tuesday, the US first lady said on X that the area covered by the ceasefire \"has expanded beyond Oleshky, within the Kherson region, to provide safe passage for the humanitarian convoys\".\nImage caption, These residents were able to get out of Oleshky in spring this year\nThe current truce is supposed to enable roads to be cleared of mines for supplies to get into the city possibly on Thursday, and for residents to have safe passage out in an evacuation planned for Friday.\nRussia&#x27;s defence ministry said units from the army&#x27;s Dnepr group had been conducting \"engineering reconnaissance\" and clearing main access roads into the village of \"explosive and booby-trap devices\".\nMany details on the evacuation plans are unclear, and residents are wary of trusting officials with their names and addresses. However, a local volunteer told the BBC that about 500 people had already expressed interest by Tuesday afternoon.\nVladimir Saldo, the Russian-installed head of occupied areas of Kherson, said temporary accommodation had been prepared in the region itself as well as Russian-annexed Crimea and across the Russian border in the Rostov, Krasnodar and Stavropol regions.\nSaldo told Russian media that most Oleshky residents wanted to leave the city and stay in Russia, although his account has not been corroborated on the ground.\nImage caption, Oleshky has been under Russian occupation since 2022 and its people are now trapped\nIt is hard to make contact with people there as communication is patchy and many are reluctant to speak of the situation in fear of reprisals from the Russians.\nThose residents or relatives who have spoken to the BBC have expressed fears that Russia may not allow them to return to Ukraine, or might examine their phones and online activity for signs of Ukrainian support, which could put them in danger.\nUkraine&#x27;s military general staff urged people not to trust unverified reports or spread rumours about \"the routes, time and place of the movement of people and humanitarian convoys\".\nWhite House says Melania Trump brokered truce for Ukraine city &#x27;on brink of disaster&#x27;\nEating garden weeds to survive in Russian-occupied city cut off from food and water\nTo stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city\nZelensky has warned that routes out of Oleshky that are demined by Russia will ensure that those civilians leaving Oleshky will \"head towards Russia and stay there\".\nHe said some residents would get to Ukrainian-controlled territory \"one way or another\", and that ideally anyone trapped would be able to reach their destination and evacuate to Ukraine.\nOne resident called Serhii, who fled Oleshky through minefields around three weeks ago, said he had eventually returned to Ukraine via Russia and Belarus. He called for a route across the River Dnipro that avoided Russian-occupied territory, saying \"you simply cannot trust the Russian Federation\".\nHowever, bridges across the River Dnipro have been destroyed and sources say the riverbank is also mined and dangerous, so crossing into Ukrainian-controlled territory appears impossible.\nAcross the river, in Kherson city, no explosions have been heard and no drone-related injuries reported since 03:00 (01:00 GMT) on Tuesday and cars and pedestrians have been moving freely, according to local reports.\n\"Judging from the fact that more people are walking around, it feels a bit calmer,\" Galina Kyrychenko, a resident in the city, told public broadcaster Suspilne.\nAdditional reporting by Anastasiia Levchenko in Kyiv.",
-      "published": "2026-10-27T20:19:53+00:00",
+      "content": "Image caption, The people of Oleshky have had no electricity for years and no access to food or water\nBy Paul Kirby ,Â  Europe digital editor ,Â  Olga Malchevska Â  and Â  Dan Johnson ,Â  in Kyiv\nA ceasefire that began with the aim of getting food and medicine to the Russian-occupied Ukrainian city of Oleshky has been extended across the wider southern region of Kherson, according to sources.\nSeveral thousand residents are trapped in the city with no access to food, water and electricity. On one side is the Dnipro river, while Russian forces are on the other and all the roads out are too dangerous.\nHowever, no breaches of the truce that began early on Tuesday have so far been reported.\nUS First Lady Melania Trump, who helped broker the ceasefire along with Pope Leo XIV, said on Tuesday that the area involved had been expanded to provide \"safe passage\" for humanitarian convoys.\nFigure caption, What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump\nThat was later corroborated by the press secretary to Ukraine&#x27;s public ombudsman, and by Oleksandr Tolokonnikov, deputy head of Kherson, who said Russian shelling had stopped both in Kherson city, which is in Ukrainian hands, and the wider region.\nUnder the deal, the ceasefire will be followed by deliveries of humanitarian aid to Oleshky and then evacuations, planned for Friday, for anyone wishing to leave.\nAn estimated 1,700 to 2,000 people remain in Oleshky itself and a few thousand more in surrounding areas.\nMany residents have resorted to cooking garden weeds to survive, telling the BBC they are suffering extreme hunger and want to leave.\nBoth sides said the ceasefire was being observed. Kremlin spokesman Dmitry Peskov said everything was proceeding \"according to plan\", and paid tribute to US mediation and in particular representatives of Melania Trump.\nUkrainian Foreign Minister Andrii Sybiha said if the ceasefire produced results, it could \"pave the way for other steps in the peace process\".\nA key official in President Volodymyr Zelensky&#x27;s parliamentary party, David Arakhamia, said it would continue until 22:59 Ukrainian time on Sunday 1 November, and described the truce as the \"largest de-escalation since 2022\".\nBefore the war Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion in February 2022.\nNo shops are open, and the city has had no electricity, gas or water since the Kakhovka Dam was blown up in 2023, flooding the area and killing many people in Oleshky itself.\nConditions have become so desperate that not only is getting supplies into the city extremely difficult, but escaping is too risky because the routes out of Oleshky have been mined and subject to drone attack.\nOne woman told the BBC she had stepped on a landmine and was currently in hospital where she had undergone two operations: \"I don&#x27;t know how long I will have to spend there,\" she said, worried about not being able to join the evacuation.\nPope Leo appealed earlier this month to Russia&#x27;s President Vladimir Putin to allow food and medical aid into Oleshky as well as a safe evacuation, and urged his Ukrainian counterpart Volodymyr Zelensky to co-operate with Moscow over a ceasefire.\nThen the White House said last week that Melania Trump had secured a ceasefire.\nOn Tuesday, the US first lady said on X that the area covered by the ceasefire \"has expanded beyond Oleshky, within the Kherson region, to provide safe passage for the humanitarian convoys\".\nImage caption, These residents were able to get out of Oleshky in spring this year\nThe current truce is supposed to enable roads to be cleared of mines for supplies to get into the city possibly on Thursday, and for residents to have safe passage out in an evacuation planned for Friday.\nRussia&#x27;s defence ministry said units from the army&#x27;s Dnepr group had been conducting \"engineering reconnaissance\" and clearing main access roads into the village of \"explosive and booby-trap devices\".\nMany details on the evacuation plans are unclear, and residents are wary of trusting officials with their names and addresses. However, a local volunteer told the BBC that about 500 people had already expressed interest by Tuesday afternoon.\nVladimir Saldo, the Russian-installed head of occupied areas of Kherson, said temporary accommodation had been prepared in the region itself as well as Russian-annexed Crimea and across the Russian border in the Rostov, Krasnodar and Stavropol regions.\nSaldo told Russian media that most Oleshky residents wanted to leave the city and stay in Russia, although his account has not been corroborated on the ground.\nImage caption, Oleshky has been under Russian occupation since 2022 and its people are now trapped\nIt is hard to make contact with people there as communication is patchy and many are reluctant to speak of the situation in fear of reprisals from the Russians.\nThose residents or relatives who have spoken to the BBC have expressed fears that Russia may not allow them to return to Ukraine, or might examine their phones and online activity for signs of Ukrainian support, which could put them in danger.\nUkraine&#x27;s military general staff urged people not to trust unverified reports or spread rumours about \"the routes, time and place of the movement of people and humanitarian convoys\".\nWhite House says Melania Trump brokered truce for Ukraine city &#x27;on brink of disaster&#x27;\nEating garden weeds to survive in Russian-occupied city cut off from food and water\nTo stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city\nZelensky has warned that routes out of Oleshky that are demined by Russia will ensure that those civilians leaving Oleshky will \"head towards Russia and stay there\".\nHe said some residents would get to Ukrainian-controlled territory \"one way or another\", and that ideally anyone trapped would be able to reach their destination and evacuate to Ukraine.\nOne resident called Serhii, who fled Oleshky through minefields around three weeks ago, said he had eventually returned to Ukraine via Russia and Belarus. He called for a route across the River Dnipro that avoided Russian-occupied territory, saying \"you simply cannot trust the Russian Federation\".\nHowever, bridges across the River Dnipro have been destroyed and sources say the riverbank is also mined and dangerous, so crossing into Ukrainian-controlled territory appears impossible.\nAcross the river, in Kherson city, no explosions have been heard and no drone-related injuries reported since 03:00 (01:00 GMT) on Tuesday and cars and pedestrians have been moving freely, according to local reports.\n\"Judging from the fact that more people are walking around, it feels a bit calmer,\" Galina Kyrychenko, a resident in the city, told public broadcaster Suspilne.\nAdditional reporting by Anastasiia Levchenko in Kyiv.",
+      "published": "2026-10-27T22:11:08+00:00",
       "source": "BBC World",
       "sources": [
         "BBC World",
@@ -322,54 +347,48 @@
       "assets": []
     },
     {
-      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYVc3YjltcUc0TDBn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYV",
-      "content": "Share Iran’s calculations as US escalation looms: Trust, midterms, Hormuz on social media\nA woman walks past a mural in Tehran [File: Atta Kenare/AFP]\nAs regional powers step up diplomatic efforts to prevent another escalation in the eight-month United States-Israel war on Iran, Tehran is showing little sign of backing down from its red lines.\nThe announcement by China on Tuesday that Beijing will be sending an envoy to relevant countries in the region soon to help avoid another round of escalation highlights the growing urgency of finding a peaceful solution to a conflict that has disrupted global energy markets and spilled over across the region.\nlist of 3 items list 1 of 3 Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide\nlist 2 of 3 US military says it helped Gulf states export 1.5 billion barrels of oil\nlist 3 of 3 Iran, Saudi Arabia, Turkiye and Pakistan agree to continue talks for peace\nOn Monday, senior officials from Saudi Arabia, Pakistan and Turkiye – the three nations which signed the Mecca defence pact in August – met with high-ranking Iranian officials, promising to continue discussions related to “peace and security” in the region.\nHowever, Tehran appears determined not to budge on its demands, particularly as it holds considerable leverage over the future of maritime trade in the Strait of Hormuz, through which one-fifth of global oil and liquefied natural gas (LNG) were shipped before the war.\n“Iran’s priority is not simply to secure another ceasefire, but to end the war permanently and establish deterrence so that the cycle of military attacks by the US and Israel does not keep repeating itself,” Negar Mortazavi, editor and host of The Iran Podcast, told Al Jazeera.\nTehran continues to insist on sanctions relief, an end to the US naval blockade on its ports in the Gulf and guarantees that the US will not renew attacks, in exchange for helping to resume normal traffic in the Strait of Hormuz. The US wants Iran to give up more before a final peace settlement is negotiated – including making concessions about its nuclear programme.\nExperts say Iran’s current calculations are being driven by several factors, including its deep distrust of Washington – which has launched strikes on Iran three times since June 2025 while conducting talks – the belief that continued economic pressure could force more attractive US concessions, and much-anticipated elections in Israel and the US this week and next.\nAt the heart of Iran’s position is a belief that previous diplomatic efforts have failed to provide sufficient protection against renewed US and Israeli attacks. The US and Israel launched the first strikes of the war on February 28, just as peace talks were ongoing in Oman. Last year, Israel launched its 12-day war on Iran in June, which the US joined.\nPakistan and Qatar helped broker a memorandum of understanding in June this year aimed at reopening the Strait of Hormuz, ending the US blockade of Iranian ports and laying down the conditions for the start of negotiations over Iran’s nuclear programme.\nBut the arrangement quickly unravelled as both sides resumed attacks, leading to sustained US attacks on Iran for several weeks in July, followed by retaliatory strikes from Iran on US military assets and energy infrastructure in neighbouring Gulf countries, as well as in Jordan.\nSina Toossi, a senior non-resident fellow at the Center for International Policy (CIP), said the failure of that arrangement had hardened Tehran’s position.\n“Iran believes previous negotiations and ceasefire arrangements failed to protect it from renewed military attacks, and it is therefore seeking more tangible and durable guarantees,” he told Al Jazeera.\nUS President Donald Trump, meanwhile, has remained ambiguous over what course of action he will take in the near future. “My question is, do I make a deal with them or do I finish them off?” Trump told reporters on Sunday. He had previously said attacks on Iran would not take place until after the US midterms on November 3.\nMohsen Rezaei, secretary of Iran’s Supreme National Security Council, said last week that the country’s armed forces were prepared to respond to any new attacks , including by invading Tehran’s neighbours and hitting bases used in US military operations as part of its new “offensive” strategy in its war with the US.\nHe also said Iran would only reopen the Strait of Hormuz and begin peace talks once Washington took concrete steps to rebuild trust, including meeting Iran’s latest set of conditions – suspending sanctions, unfreezing Iranian assets, lifting the US naval blockade of Iranian ports and giving concrete assurances that it will not begin strikes again.\nThe US midterms next week, when all 435 House of Representatives seats and 35 of the 100 Senate seats will be up for grabs, will determine which party has control of the US Congress for the final two years of Trump’s presidency. The war, already deeply unpopular with Americans, is becoming an increasingly contentious domestic issue.\nA Reuters/Ipsos survey earlier this month found just 34 percent of Americans approved of Trump’s handling of the conflict – his lowest rating during either of his presidential terms. Republican majorities in both houses of Congress are already wafer-thin – at 53-47 (including two independents who vote with Democrats) in the Senate and 218-214 in the House.\nThe war has also driven up energy prices – particularly diesel, which has nearly doubled in price, causing a major burden for farmers and small businesses – adding to concerns about inflation and affordability that are dominating the election campaign.\nSome reports citing Iranian officials say Tehran may be deliberately prolonging negotiations to deny Trump any sort of political victory before the elections.\nA Republican setback could further constrain Trump’s room for manoeuvre, particularly if Democrats gain congressional control and increase scrutiny of the administration’s conduct of the war.\n“Tehran wants to teach a lesson to Washington, including future American presidents, that attacking Iran comes with a high price,” analyst Mortazavi said.\n“Its deterrence strategy is multilayered, aimed at imposing military, economic and political costs that extend well beyond the battlefield.”\nBefore the US midterms is Israel’s election on Tuesday, which introduces another dimension to Iran’s calculations. A defeat for Prime Minister Benjamin Netanyahu could complicate renewing joint attacks with the US on Iran, as experts say he was the main force behind Trump greenlighting the war.\nWhile some believe an opposition victory led by former military chief Gadi Eisenkot could potentially ease regional tensions, Netanyahu’s removal would not necessarily translate into a softer Israeli position towards Iran.\nEisenkot is himself a former military chief, and has repeatedly expressed concerns about Iran’s nuclear programme and regional influence.\nNevertheless, Mortazavi said, while Iranian officials are closely watching the political consequences of the war for both Washington and Israel, they recognise the danger of renewed escalation after the elections, “making a durable diplomatic settlement even more urgent”.\nIran’s control over shipping through the Strait of Hormuz remains one of its strongest bargaining chips.\nThe waterway carried about one-fifth of the world’s energy supplies before the war began on February 28, giving Tehran considerable leverage over global oil markets.\nOctober has recorded the highest number of attacks on commercial shipping around Hormuz, according to data collected by the Washington Institute for Near East Policy.\nBrent crude surged above $117 a barrel last week – compared with about $72 pre-war – following Iranian attacks on tankers, while shipping through the strait remains nowhere near pre-war levels.\nChris Beauchamp, chief market analyst at IG Group, said he believes Iran is deliberately exploiting this economic pressure as part of a wider contest of endurance with Washington.\n“They know they are in an attritional race with the US to see who breaks first,” Beauchamp told Al Jazeera. “For now, however, they are happy to keep attacking shipping to push prices higher.”\nThe latest diplomatic initiative reflects a growing concern among regional powers about the consequences of another round of fighting.\nSaudi Arabia, Pakistan and Turkiye agreed with Iranian officials on Monday to continue discussions about regional peace and security, amid fears that the conflict could escalate again.\nThe talks in Tehran come amid heightened regional tensions following weeks of attacks on Saudi Arabia by Yemen’s Iran-aligned Houthi rebels, who are also engaged in a conflict with forces loyal to Yemen’s internationally recognised, Saudi-backed government.\nPakistan and Turkiye maintain close strategic ties with Saudi Arabia and have committed to supporting Riyadh militarily under the recently established Mecca Joint Defence Agreement between the three Muslim-majority nations.\nPolitical analyst Rami Khouri, a nonresident fellow at the Arab Center in Washington DC, said the meeting had several objectives, some more immediate than others.\n“The most immediate goal: to de-escalate and to try to return to the diplomatic process, to have a permanent ceasefire, and then define the issues and address them with much stronger mediation, supported by these three countries [Saudi Arabia, Pakistan and Turkiye] and maybe others,” Khouri told Al Jazeera.\nHe added that talks could mark the beginning of a shift away from a regional security order dominated by Washington, towards one in which Middle East countries and other regional nations can exercise greater influence.\nMeanwhile, CIP’s Toossi said regional powers are increasingly recognising that their own security cannot be separated from that of Iran, despite their differences with Tehran.\n“It will be difficult to stabilise Yemen while the wider US-Iran confrontation continues, just as it will be difficult to reach a durable settlement with Iran while regional military escalation remains a constant threat,” he said.\nUltimately, however, the biggest obstacle remains Iran’s lack of trust in Washington, Iran Podcast host Mortazavi said.\n“After two wars, Tehran is deeply sceptical of American commitments and wants concrete guarantees that any agreement will not simply become another temporary pause before the next attack,” she said.\n“Iran is willing to negotiate and has already demonstrated flexibility by presenting a proposal to end the war. But Tehran believes it retains significant leverage, particularly in the Strait of Hormuz, and will not surrender that leverage under military or economic pressure. The goal is a permanent end to the war, not another temporary ceasefire that leaves the underlying conflict unresolved.”",
-      "published": "2026-10-27T15:29:20+00:00",
-      "source": "GN Geopolitics",
+      "title": "Robinhood CEO's AI startup Harmonic expands into software, chip design verification - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnhBbVF1VllNeUN0OHo0MzQ0SHd4RUhGRkk5MllHOG5yMm84Zm1qMlNCSTdOMlhyd28zcUM2NkgtbEY5ZlFfQ0toelRsSUlvdFVURmZ4NFpiMGlXLUxTek5UNFZpWTBVTjMxY2txTVJDcFNNT0FPWk5HYTh6Znh6QlgtZFlCLTdkb1F0NjV0SXRvYk1URlNpdkJUbTlDandaZ1dSa0tPcDFPVnNBT29HMk9KTXhhQQ?oc=5",
+      "summary": "Robinhood CEO's AI startup Harmonic expands into software, chip design verification&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T19:56:33+00:00",
+      "source": "Reuters Technology",
       "sources": [
-        "GN Geopolitics",
-        "Al Jazeera"
+        "Reuters Technology",
+        "GN AI"
       ],
       "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
       "score": 14.6,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
       "assets": [
-        "原油",
-        "能源股",
-        "油运"
+        "科技股",
+        "半导体"
       ]
     },
     {
-      "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWj",
-      "content": "Navy Federal Credit Union chief economist Heather Long discusses the Federal Reserve's upcoming interest rate decisions.\nThe Federal Reserve is set to announce its latest interest rate decision on Wednesday with the midterm elections less than a week away.\nPolicymakers at the Fed say they avoid letting politics influence their monetary policy moves, and can be hesitant to hike or cut interest rates at meetings that occur ahead of the election.\nInflation has remained stubbornly high and the September consumer price index (CPI) data showed inflation rose faster than expected, with headline CPI rising 0.6% on a monthly basis and 3.7% from a year ago. The latter figure is well above the central bank&apos;s 2% inflation target.\nHeather Long, chief economist at Navy Federal Credit Union, told FOX Business in an interview that while the September inflation data was hotter than expected and raised the prospects of an October rate hike, the Fed is likely to wait to \"hike again in December.\"\nCONSUMER INFLATION ROSE FASTER THAN EXPECTED IN SEPTEMBER, CPI REPORT SHOWS\nFederal Reserve Chair Kevin Warsh and policymakers are expected to hold rates steady this week. (Daniel Heuer/Bloomberg via Getty Images)\n\"This hotter than expected inflation data did increase the chance of an October rate hike , but it&apos;s a very high bar to increase in October, they would do it within a week of the election. I know they like to say that they&apos;re not political, but it&apos;s a high bar for October,\" she explained.\n\"Right now, this data indicates that the Fed needs to act again, but it&apos;s not a five-alarm fire. They don&apos;t have to act immediately, they could wait until December.\"\n\"The reality is, gas prices have come down a little bit since the September highs, so we would expect the October data &#x2013; you know, it won&apos;t be great, but it could be a little bit cooler than what we&apos;re seeing today. And the Fed has a reasonable case to say, we&apos;re probably still gonna hike, but let&apos;s wait a few more weeks and see just how broad-based this problem really is,\" Long said.\nFEDERAL RESERVE HIKES INTEREST RATES FOR FIRST TIME SINCE 2023 AMID STUBBORN INFLATION\nThe market expects the Fed to hold rates steady this week, with the CME FedWatch tool showing a 90.6% probability of rates remaining at their current target range of 3.75% to 4% &#x2013; up from 84.5% a week ago and 35.8% last month.\nFor the Fed&apos;s meeting in mid-December, the tool shows a 75.1% probability of a 25-basis-point interest rate hike, which could mark the resumption of the rate-hiking cycle if inflation remains elevated.\nWHY THE FED ISN&apos;T READY TO DECLARE VICTORY ON INFLATION\nInflation rose faster than expected in September and remains well above the central bank's 2% target. (Robert Nickelsberg/Getty Images)\n\"The Federal Reserve will definitely hike interest rates again, probably in December,\" Long said. \"The big question is how many more times do they have to hike after that? And what was scary in this latest inflation data for September is to see so many areas of hot inflation: to see used car prices, airfares, recreation costs, auto repair costs, buying a used car, medical costs.\"\n\"The story really is starting to take shape that it&apos;s probably going to take a couple more hikes in 2027, and this higher-for-longer borrowing costs and mortgage rates well above 7% is going to stick around for at least a year, maybe longer,\" Long said.\nThe CME FedWatch tool shows the market is anticipating multiple rate hikes by March, with a 46.5% chance that rates will be 50 basis points higher than they are now at a range of 4.25% to 4.5%.",
-      "published": "2026-10-27T17:46:38+00:00",
-      "source": "GN Fed",
+      "title": "European infrastructure is vulnerable as Putin escalates Russia’s hybrid war - Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHkxVXlFSWxnT0F4Z2Z0bXVTdGxTV0hVcEFLbXdXTTBXZWhScURWOS1OU2dieklfT182TXkwTFhlc2hnMF9tclRxaGp5VWQ1TWFpV3NKbUFfRngtelVaM3BQUXlMbGpjYklEbDNCRmJqeTVPd2t0MjAyTHp1T0I2a0VnQ2RvalJmRVpud21sZTdQNUk3dmctdG9qblRBOFI5MDhneWZJelVtM0JWX0lvM1N1c284SnV2dXdkaW54b0IzRi1KUUE?oc=5",
+      "summary": "European infrastructure is vulnerable as Putin escalates Russia’s hybrid war&nbsp;&nbsp;Atlantic Council",
+      "content": "European infrastructure is vulnerable as Putin escalates Russia’s hybrid war\nAs Russia’s hybrid war against Europe has escalated in recent months, policymakers and commentators have begun to question exactly how far Vladimir Putin is prepared to go. This has led to speculation over the possibility of a limited Russian attack on NATO, with the goal of testing the resolve of the alliance and undermining the credibility of NATO’s collective security commitments.\nUnited States intelligence officials reported in August that a Russian incursion into NATO territory could potentially take place within a matter of months. A number of European countries have recently reached similar conclusions regarding the potential for a localized Russian offensive.\nNot everyone is convinced. Some skeptics doubt whether Putin’s overstretched military is in any position to risk a major new war against the theoretically overwhelming might of the NATO alliance. However, few question that the threat is real and growing. While opinion remains divided over the likelihood of a direct military confrontation, most Europeans expect Russia’s current campaign of gray zone aggression to intensify further in the coming months.\nAs the world watches the Russian invasion of Ukraine unfold, UkraineAlert delivers the best Atlantic Council expert insight and analysis on Ukraine twice a week directly to your inbox.\nVladimir Putin seems to think an escalation against Europe can help break the deadlock in the current war. As his full-scale invasion of Ukraine approaches a sixth year, the Russian army is struggling to advance on the battlefield and suffering catastrophic losses. With little current prospect of a decisive military breakthrough, Putin now hopes to achieve victory by bombing Ukraine’s civilian population into submission while using intimidation tactics against Europe to deter further support for Kyiv.\nMoscow has been waging a shadow war against Europe since the Russian invasion of Ukraine first began in 2014. This campaign has escalated in intensity since 2022 and is now entering a dangerous new phase, according to European officials . The attempted bombing of Leipzig airport by Russia in August was widely interpreted as a watershed moment that dramatically raised the stakes in the confrontation between Europe and the Kremlin.\nWith Putin seeking ways to destabilize European countries and hoping to encourage public opposition to pro-Ukraine policies, there are now concerns that he will look to target the continent’s civilian infrastructure. In recent weeks, a series of sabotage operations on strategically sensitive communications hubs across Europe have been linked to Russia, fueling concerns that the Kremlin may be preparing bolder attacks.\nIn October, a Lithuanian company storing Starlink communications equipment was targeted in an attempted arson attack . This incident in the Baltic region followed on from a series of similar sabotage operations in Bulgaria and Poland that also involved Starlink communications infrastructure. Polish officials called a recent blaze at a Starlink satellite station in central Poland a “deliberate act of sabotage” and said it reflected a “ new Russian doctrine of attack .”\nRussia reportedly recruits agents across the internet in order to carry out attacks of this nature, making it more challenging for European intelligence agencies to monitor threats. The Kremlin is also thought to employ drones in both surveillance and strike roles, as was witnessed during the failed airport attack in Leipzig. In Germany alone, the police identified 165 suspected sabotage cases and 747 suspicious drone incidents nationwide during the first eight months of 2026.\nMeanwhile, Britain claims to have uncovered more than five hundred incidents of Russia deploying fishing trawlers to spy on undersea cables connecting the UK with Europe and the United States. Moscow is allegedly mapping this underwater infrastructure for potential future targeting. Any attempts to disrupt cables could have a major impact on transatlantic communications networks as well as banking, healthcare, and a range of other key services.\nRussia has already faced accusations of targeting Europe’s civilian infrastructure. Poland blamed Russia for a series of cyberattacks on the country’s power grid in late 2025 that came close to causing a major blackout. During the same period, Kremlin-linked groups also allegedly launched similar attacks on a Swedish heating plant and a water utilities service provider in Denmark.\nThese operations have highlighted the vulnerability of Europe’s civilian infrastructure to Russia’s shadow war at a time when many security protocols across the continent remain based on peacetime assumptions that no longer reflect current realities. Europe's infrastructure is also exposed due to a high degree of integration that means disruption in one country could soon cross borders.\nA number of European governments appear to be aware of the danger. Poland has launched a new initiative to share information on potential hybrid threats to the country’s infrastructure, while countries including Germany and Austria are exploring similar steps. This is encouraging, but more action is required.\nPutin is currently looking to exploit Europe’s vulnerabilities as he seeks ways to isolate Ukraine and cut off Kyiv’s European aid lifeline. Civilian infrastructure may be one of the continent’s weakest links. Addressing this weakness should be a security priority as European leaders look to counter the growing threat from the Kremlin.\nMaksym Beznosiuk is an analyst whose work focuses on Russia, Ukraine, and international security. He is an associate fellow at GLOBSEC.\nRussian attacks on Ukrainian civilians may have a domestic dimension\nRussia's escalating bombing campaign against civilian targets across Ukraine aims to make much of the country unlivable while also serving a propaganda purpose for the Kremlin on the home front, write Syrus Solo Jin and Anton Ponomarenko.\nUkrainians are not fighting for Zelenskyy. They are fighting for national survival.\nTrump and Putin both seem to think that removing Ukrainian President Volodymyr Zelenskyy would set the stage for a Kremlin-friendly peace deal, but most Ukrainians see the war as a fight for national survival that does not depend on any one man, writes Peter Dickinson.\nRussia’s jet drones pose a security threat far beyond Ukraine\nRussian jet drones are currently terrorizing Ukraine’s civilian population and disrupting daily life for millions of people. It is only a matter of time before other countries are also confronted by this threat, writes Leonid Baratz.\nThe views expressed in UkraineAlert are solely those of the authors and do not necessarily reflect the views of the Atlantic Council, its staff, or its supporters.\nUkraineAlert is a comprehensive online publication that provides regular news and analysis on developments in Ukraine’s politics, economy, civil society, and culture.\nThe Eurasia Center's mission is to enhance transatlantic cooperation in promoting stability, democratic values, and prosperity in Eurasia, from Eastern Europe and Turkey in the West to the Caucasus, Russia, and Central Asia in the East.",
+      "published": "2026-10-27T20:29:16+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "GN Fed",
-        "GN Top"
+        "GN Geopolitics"
       ],
-      "source_count": 2,
-      "category": "finance",
-      "category_zh": "全球金融",
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
-      "score": 14.3,
+      "score": 14.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War - The New York Times",
@@ -415,7 +434,7 @@
       "title": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVZVZU41WDR2cm9hMkhTeEo0a0FGMjk0eHNKTS1kWm5HVDFFRFNwSXkzQ2M3bmJCVjNVc3QtUVpIUjkySE8ya0tiLS1hMW4wd1RkaFBhMHowQWVIdWkzcnhmczR3SnI5SFJETEw5b1RfYmxEang1WlBoMWhLeHRKZGNMU1hiUWo1ZmZDX0xWZ1I3OHUzOGZz?oc=5",
       "summary": "Stock Market Today: Nasdaq, S&amp;P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline&nbsp;&nbsp;Yahoo Finance",
-      "content": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline\nTechnology shares were up for a second straight day to begin the week.\nCredit: Michael Nagle / Bloomberg via Getty Images The Nasdaq Composite and S&P 500 surged Tuesday, another busy day of corporate earnings, as tech shares led gains for a second straight day to begin the week and oil prices fell.\nThe tech-focused Nasdaq and benchmark S&P 500 advanced 1.2% and 0.6%, respectively, in recent trading. The Dow Jones Industrial Average was 0.1% lower, with a nearly 10% drop in Boeing (BA) shares weighing on the blue-chip index.\nThe three major U.S. stock indexes closed higher Monday , with tech shares leading the charge after Anthropic filed its go-public paperwork .\nMagnificent Seven mega-cap tech stocks Alphabet (GOOGL) and Microsoft (MSFT) are slated to issue earnings reports after markets close Wednesday, and Amazon (AMZN) is set to do so Thursday.\nThe Roundhill \"MAGS\" ETF, which tracks the septet, was 1% higher after closing up roughly 1% Monday. Tesla (TSLA) shares rose nearly 4% further after jumping 5% to pace the group yesterday. Meta Platforms (META) slipped about 1% after declining almost 2% yesterday after the Facebook parent announced in a regulatory filing that it intends to raise up to $95 billion in a series of stock offerings to fund its AI ambitions. Nvidia (NVDA) shares rose 1.5% after the world's most valuable public company said it will invest $3 billion in Meta's equity offering.\nMemory and other AI-tied stocks rose further after beginning the week with gains. Roundhill's Memory ETF (DRAM) was up 4.5% following a nearly 3% advance yesterday, with SK Hynix (SKHY), Micron Technology (MU), Western Digital (WDC), Sandisk (SNDK), and Seagate Technology (STX) higher following a more than 4% rise in South Korean trading by fellow component Samsung Electronics. The broader iShares Semiconductor ETF (SOXX) was 3.5% higher following an almost 3% rise Monday.\nIn post-earnings moves, JetBlue Airways (JBLU) soared 20% following a nearly 10% drop yesterday, SoFi Technologies (SOFI) surged 16%, Royal Caribbean (RCL) jumped 8%, United Parcel Service (UPS) gained almost 3%, PayPal (PYPL) advanced 2%, and Novartis (NVS) ticked higher. Sherwin-Williams (SHW) fell 1.5%, Whirlpool (WHR) declined 1%, and Corning (GLW) and Coca-Cola (KO) ticked lower. Visa (V) was 1% lower ahead of its results after markets close today.\nOil prices slipped after declining to begin the week, with traders awaiting results from Israel's parliamentary elections. U.S. benchmark West Texas Intermediate crude futures pulled back 1.7% to $100 a barrel in recent trading. Brent crude futures, the international benchmark, declined 1.7% to below $114.\nThe 10-year Treasury yield was up less than one basis point to near 5.00%. Bitcoin was trading around $80,400, up slightly over the past 24 hours. The U.S. dollar index , which tracks the value of the greenback against a basket of foreign currencies, was 0.3% higher at 102.25. Gold futures rose 0.9% to $4,075 an ounce.\nIn addition to Alphabet's and Microsoft's earnings reports tomorrow, investors will be focused on whether the Federal Reserve will stand pat on interest rates . Economists expect the Fed to raise rates at future meetings to combat high inflation, but say there is no rush to raise them for a second consecutive meeting following September's rate hike. Financial markets are pricing in just an 11% likelihood the Fed will raise rates this week, per CME FedWatch.\nGo beyond the day's market moves with Investopedia's Value Add , where you'll find sharp analysis, investing ideas, and practical guidance on what today's biggest financial stories could mean for your money. Explore Value Add and subscribe on Substack .",
+      "content": "Markets News, Oct. 27, 2026: Tech Shares Extend Rally, Indexes End Higher Ahead of Fed Decision; Boeing Stock Limits Dow’s Gains; Oil Prices Decline\nCredit: Michael Nagle / Bloomberg via Getty Images The Nasdaq Composite and S&P 500 rose, with tech shares climbing, ahead of tomorrow's interest-rate decision from the Fed.\nThe tech-focused Nasdaq and benchmark S&P 500 closed Tuesday a respective 1.3% and 0.7% higher. The Dow Jones Industrial Average finished fractionally higher, with a nearly 11% drop in Boeing (BA) shares weighing on the blue-chip index. The three major U.S. stock indexes closed higher Monday , with tech leading the charge, after Anthropic filed its go-public paperwork .\nInvestors will focus Wednesday on whether the Federal Reserve will stand pat on interest rates . Economists expect the U.S. central bank to raise rates at future meetings to combat high inflation, but say there is no rush to raise them for a second consecutive meeting following September's rate hike. Financial markets are pricing in just a 7% likelihood the Fed will raise rates this week, per CME FedWatch.\nThe 10-year Treasury yield was down less than one basis point to near 4.99%.\nMagnificent Seven mega-cap tech stocks Alphabet (GOOGL) and Microsoft (MSFT) are slated to issue earnings reports after markets close tomorrow. Amazon (AMZN) is set to do so Thursday.\nThe Roundhill \"MAGS\" ETF, which tracks the septet, finished today 1% higher after rising Monday. Tesla (TSLA) shares rose 4% after jumping 5% to pace the group yesterday. Meta Platforms (META) slipped 1.5%, extending Monday losses after the Facebook parent said it intends to raise up to $95 billion in a series of stock offerings to fund its AI ambitions. Nvidia (NVDA) shares rose almost 1% after the world's most valuable public company said it will invest $3 billion in Meta's equity offering.\nMemory and other AI-tied stocks rose after beginning the week with gains. Roundhill's Memory ETF (DRAM) closed up roughly 4.5%, with SK Hynix (SKHY), Micron Technology (MU), Western Digital (WDC), Sandisk (SNDK), and Seagate Technology (STX) advancing. The broader iShares Semiconductor ETF (SOXX) ended almost 4% higher following an almost 3% rise Monday.\nIn post-earnings moves, JetBlue Airways (JBLU) soared 19% following a nearly 10% drop yesterday. SoFi Technologies (SOFI) surged 13%, United Parcel Service (UPS) gained 6%, Royal Caribbean (RCL) jumped 6.5%, and PayPal (PYPL) and Novartis (NVS) advanced 2%. Sherwin-Williams (SHW) fell 3%, Coca-Cola (KO) declined 1.5%, and Corning (GLW) slipped 1%. Visa (V) ended about 0.5% lower ahead of its results after markets close today.\nOil prices slipped after declining to begin the week, with traders awaiting results from Israel's parliamentary elections. U.S. benchmark West Texas Intermediate crude futures pulled back 1.9% to below $100 a barrel around 4 p.m. ET. Front-month Brent crude futures, the international benchmark, declined 1.7% to below $114.\nBitcoin was trading around $80,600, up modestly over the past 24 hours. The U.S. dollar index , which tracks the value of the greenback against a basket of foreign currencies, was 0.3% higher at 102.29. Gold futures rose 0.9% to $4,075 an ounce.\nGo beyond the day's market moves with Investopedia's Value Add , where you'll find sharp analysis, investing ideas, and practical guidance on what today's biggest financial stories could mean for your money. Explore Value Add and subscribe on Substack .",
       "published": "2026-10-27T10:39:54+00:00",
       "source": "GN Markets",
       "sources": [
@@ -432,54 +451,6 @@
       "assets": [
         "原油",
         "能源股"
-      ]
-    },
-    {
-      "title": "Stocks rise as oil slips with tech earnings, Fed ahead - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
-      "summary": "Stocks rise as oil slips with tech earnings, Fed ahead&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T01:46:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 13.9,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：原油 / 能源股 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
-      "summary": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T13:30:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.9,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：黄金 及相关产业链。",
-      "assets": [
-        "黄金"
       ]
     },
     {
@@ -528,7 +499,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjRONGxRUmF1UHlpdzlacU1FcEZ1b1dIUmNWR29MRDI3Q2RkMmRpVzlaaEkxNnVFMmZlY0JDSllJZW5vdWhsM2c3T1F3U0ZfeGliU05rOFJZdkx0N3pYdVhtcU52aXJrY0lIeEFXVm5XbG85ZTFCc2Z2NThZRm9NQWF0ajJqOGlEN09MN2NRZjdWNnZ3YzVGd1NYYk9rdUlkeFBNbE9hcVJmZVE?oc=5",
       "summary": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administrati",
       "content": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nWorkers in dark uniforms and blue baseball caps inspect the metal frames of silver, unpainted electric vehicles along a brightly lit assembly line on a factory floor. The line of cars extends backward to the far wall, with similar small groups of workers bustling around each one.\nWorkers check vehicle frames on the production line for electric vehicle maker Zeekr at its factory in Ningbo, China, on May 29, 2025. Kevin Frayer/Getty Images\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nThe more consequential story—that will likely make Chinese EVs even more competitive in the near future—is Beijing’s evolving approach to overseas industrial policy. At the core of this approach is an increasingly coordinated model of public- and private-sector activity.\nState-owned enterprises (SOE) lay the groundwork for favorable investment environments abroad by undertaking massive infrastructure projects and securing access to strategic resources. Boosted by Beijing’s diplomatic ties and international clout, private companies leverage these state-backed platforms as a springboard for trade by bringing in investment, production capacity, and industry-specific expertise.\nThe advantages of this approach for Beijing—and the challenge that it poses to foreign companies—are already on full display in Morocco, where years of existing strategic investment, infrastructure development, and geopolitical maneuvering are pushing China closer to vertically integrating EV supply chains, bypassing tariffs, and further reshaping Europe’s auto industry.\nIt is only in recent years that Morocco has emerged as a key node in China’s EV empire.\nFor decades, Beijing maintained much closer ties with Morocco’s neighbor and rival, Algeria, but that began to change in the early 2010s as the Belt and Road Initiative (BRI) took off. In 2016, Morocco joined the growing ranks of countries signing “strategic partnerships” with China, making mutual commitments to expand economic cooperation and recognize each other’s core interests.\nThe next year, Morocco officially entered the BRI, and China has since poured millions of dollars into Morocco’s energy and transportation sectors . Almost a decade later, that economic relationship has expanded dramatically: In March, China’s committed investment in the country exceeded $10 billion , concentrated mostly in the EV and energy sectors.\nChina’s EV manufacturing capacity in Morocco builds on years of large-scale, state-backed investment in transportation infrastructure and natural resources. Over the past decade, Chinese SOEs have collaborated on major infrastructure and development projects in Morocco, including bridges , highways , and smart cities . Some of these are directly relevant to the EV industry, such as the chemical processing unit in Khouribga, home to one of the world’s biggest reserves of phosphate, which is critical for EV battery production .\nThis SOE-led scramble for resources and construction-heavy projects paved the way for private Chinese companies in the EV sector to establish footholds in Morocco and ship to overseas markets. Tanger Tech City, China’s SOE-led flagship collaboration with Morocco, is located less than 30 miles from Tanger Med, the largest container port in Africa. Taking advantage of no-fee business registration and tax-free dividends, private Chinese companies—including the global battery giant BTR New Material Group as well as tire manufacturers Sentury Tire and Guizhou Tyre—have established or announced plans to establish production bases in the industrial zone.\nElsewhere in the country, major private investments include battery manufacturer Gotion’s $1.3 billion factory and a $2 billion joint-venture battery materials factory between China’s CNGR Advanced Material and the Moroccan private equity firm Al Mada.\nThis isn’t to deny the role of subsidies and preferential financing, which Beijing sees as key tools for supporting companies that are expanding internationally. A 2024 directive , for instance, called on Chinese financial institutions to improve credit approval and lending procedures and to enhance cross-border settlement to “better support companies expanding into international markets.” Closer collaboration among Chinese banks, semi-official trade organizations, and Moroccan banks has also helped to streamline financing and channel investment into the African market.\nBut these policies are useful to Chinese firms because they are operating in an industrial landscape that SOEs have already shaped, with relatively easy access to necessary resources and infrastructure.\nChina’s success with this approach has only been possible because it also advances Rabat’s desire to expand domestic manufacturing capability and position Morocco as Africa’s next industrial powerhouse. Chinese investment is expected to generate sorely needed jobs; Morocco’s unemployment rate has hardly dipped below 10 percent for the past decade, and youth unemployment in cities stands at a staggering 47 percent. Officials claim that the Gotion factory alone will create 17,000 local jobs, including 2,300 high-skilled positions.\nBeijing has coupled this economic engagement with a subtle diplomatic shift in favor of Rabat’s claims over Western Sahara . For decades, China has avoided explicitly backing either Morocco or Western Sahara, though its rhetoric often leaned toward the latter—and thus to the latter’s main sponsor, Algiers . With one exception in 2018, it consistently voted in favor of United Nations Security Council resolutions extending the peacekeeping mission in Western Sahara and affirming support for the Sahrawi people’s right to self-determination.\nHowever, in recent years, China has done an about-face. In 2024, its Ministry of Foreign Affairs implicitly acknowledged the importance of the Western Sahara question for Rabat, stating , “China supports Morocco in maintaining national security and stability and is ready to work with Morocco to continue firmly supporting each other on issues concerning their respective core interests.” Then, last fall, Beijing abstained on the most recent U.N. resolution on the matter, which for the first time endorsed Rabat’s proposal to formally establish Western Sahara as an autonomous region under Moroccan sovereignty.\nThe full payoff of China’s Moroccan gambit will materialize if and when localized EV manufacturing matures, which could take years. That is still a tall order, as evidenced by the recent shelving of a BYD assembly plant project that had been stalled since 2017 due to budget issues and limited local charging infrastructure, according to a company executive.\nThough Chinese automakers are not yet building assembly plants in Morocco, the country matters for everything “upstream” of assembly. It is becoming an integrated ecosystem for the production of batteries, tires, and other components, which reduces Chinese EV companies’ reliance on direct shipments from China and lowers costs for Chinese assembly plants in Europe and Africa.\nMorocco also offers Chinese firms convenient access to the European market through the Tanger Med port and—more importantly—a rules-based pathway through Brussels’s tightening trade defenses . Currently, the EU imposes duties of up to 35 percent on EVs manufactured in China. However, vehicles that qualify as Moroccan in origin can enter the European market duty-free. That includes vehicles assembled in Morocco, so long as foreign parts make up less than 45 percent of the finished vehicle’s ex-works price.\nIn short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This would pose an unprecedented threat to what remains one of the EU’s most important industries .\nChina is rolling out this coordinated approach to overseas industrial policy elsewhere to varying degrees.\nIn Thailand, for example, China is a key investor in the Eastern Economic Corridor, a flagship regional development initiative anchored by a high-speed railway that will connect several Thai cities and seaports to China. The corridor has, in turn, provided an attractive environment for private Chinese investment. China is now the corridor’s largest source of foreign direct investment, primarily in the EV sector and related industries. Like Tanger Tech City, the corridor offers private Chinese companies major tax incentives and more convenient access to the Association of Southeast Asian Nations’ market.\nThe United Arab Emirates offers another example. In 2017, Chinese SOE Jiangsu Provincial Overseas Cooperation and Investment Company Limited (JOCIC) partnered with Abu Dhabi Ports to develop an industrial and special economic zone inside the Khalifa Port’s free trade zone. JOCIC set up a wholly owned UAE subsidiary to manage the park, which lets it attract Chinese private capital while insulating the parent company from project-level and geopolitical risk. The park’s location provides Chinese companies with a convenient base for expansion into the Persian Gulf and wider Middle Eastern markets, along with exemptions from value-added tax and other financial incentives . As of 2025, more than 40 Chinese companies had collectively committed more than $700 million to the park, with a focus on EVs and renewable energy.\nBeijing has long seen its SOEs as tools for advancing its broader economic interests. As China in recent years has emphasized “small and beautiful” projects , the SOE-led megaprojects are often viewed as commercially disappointing holdovers from an earlier and more profligate era of BRI. Nevertheless, under this coordinated strategy, Beijing has been able to capitalize on the advantages secured by past infrastructure projects and deepen its presence in the overseas market.\nAs governments in industrialized economies respond to China’s surge of high-value manufactured exports, they must recognize how the sources of Chinese firms’ advantages are changing. Today, those advantages come not just from subsidies and cheap credit at home but also from integrated ecosystems abroad, built through coordination between public and private enterprise.\nThis means that Brussels’s retaliatory tariffs and the recently announced limits on hybrid EVs imported from China, on their own, are unlikely to stem the tide of EVs made by Chinese firms operating around the world. China’s rivals—even in industrialized economies—will struggle to compete unless they can coordinate across borders and build supply chains and infrastructure that leverage or, far less plausibly, completely sidestep what China has already put in place.\nAaron Glasserman is a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis.\nJessie Jiexi Lin is a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nCommenting is a benefit of a Foreign Policy subscription.\nJoin the conversation on this and other recent Foreign Policy articles when you subscribe now.\nPlease follow our comment guidelines , stay on topic, and be civil, courteous, and respectful of others’ beliefs.\nI agree to abide by FP’s comment guidelines . (Required)\nThe default username below has been generated using the first name and last initial on your FP subscriber account. Usernames may be updated at any time and must not contain inappropriate or offensive language.\nI agree to abide by FP’s comment guidelines . (Required)\nA person in a white jacket, hard hat, and glasses standing in a dark cave or mine tunnel, pointing up at a rocky ceiling illuminated by a flashlight.\nThe Radioactive Ore That Could Break China’s Grip on Rare Earths\nWestern powers are scrambling for monazite ore—but can they handle it?\nTwo long tables face each other in an ornately decorated room, with officials and aides tightly packed side-by-side as they sit. Chinese officials sit at the left table, and EU officials sit at the right. The Chinese and EU flags hang from poles at the back of the room.\nEurope Is Finally Getting Tough on China. Now Comes the Hard Part.\nFrance and Germany are increasingly willing to flex market share for geopolitical leverage. But they still need reforms to maintain it.\nA worker wearing a bright orange hard hat and dark uniform walks along a narrow catwalk atop a large, flat-topped industrial storage tank.\nAs wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.\n5 Foreign-Policy Priorities for Democrats After the Midterms\nHow Morocco Could Help China Sidestep Europe&#039;s EV Tariffs\nAfter Serbia&#039;s Elections, Its Student Protesters Deserve a Nobel Peace Prize\nSerbia Elections: Student-Led Protesters Defeat Populist Strongman Aleksandar Vucic\nBrazil Election: Lula Defeats Flávio Bolsonaro in Historic Victory\nEquip your organization with powerful global intelligence.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nA Taiwanese crowd protests while waving flags of the Republic of China.\nU.S. Undersecretary of Defense for Policy Elbridge Colby, left, and NATO Secretary-General Mark Rutte, right, stand during a press conference at NATO headquarters. Rutte is looking over at Colby, whose fingers are pressed together in a steeple gesture in front of him. Both men are wearing dark suits and ties, standing in front of a blue backdrop and U.S. and NATO flags. A camera rig and a red light are partially visible in the foreground, slightly obscuring the center of the frame.\nXi (left) and Trump (right) are shown up close, with Xi looking at Trump.\nPutin and Xi are both seen in profile as Putin walks to the right and away from Xi, just a few feet of space between them. Xi, meanwhile, is also faced away from Putin, standing and looking down at his feet or the red carpet beneath them. Both men wear dark suits.\nA man wearing a dark suit jacket, light blue button-down shirt, and patterned red tie sits on a dark gray couch against a textured dark blue wall. He is looking off to the side with a mild smile, next to a teal pillow.\nAn illustration in red and blue tones depicting five silhouetted figures running forward through a dark corridor flanked by large, textured Russian lettering on the walls and floor. Light radiates from the far end of the tunnel behind them\n6 Russian Words for a Country Sliding Into Authoritarianism\nA statue of a seated, bearded man with a bare torso and draped cloth around his waist, holding a scroll in one hand, positioned in front of a row of large classical columns.\nNegotiators from the United States, Canada, and five European countries converse after finishing the draft of the North Atlantic Treaty in Washington on March 18, 1949.\nTrans-Atlanticism Isn’t Dead—It’s Being Renegotiated\nAn aerial photo shows Doha in the booming petrostate of Qatar.\nFor What AI Could Do to Democracies, Look to the Petrostates\nA large outdoor billboard displayed on a building features portraits of two men flanking text in Hebrew on a dark blue background. In the foreground on the right, an inverted triangular red-and-white yield traffic sign stands partially blurred.\nNetanyahu’s opponents are ahead but will struggle to form a coalition.\nA worker seals A ballot box at the headquarters of the Israeli Central Elections Committee near the central town of Shoham on October 14.\nIn Israel, Election Day Is Just the Beginning of the Story\nA group of people scatter and run across a dry, grassy field amid haze and smoke. In the background, uniformed personnel in tactical gear stand in a line, while a white and red ambulance with Arabic writing and \"101 AMBULANCE\" on the side is parked nearby on a hillside under a hazy sky.\nA man is seen in profile as he walks past a massive mural depicting the face of Netanyahu, which is about as tall as the man. The man wears a dark brimmed hat and black suit and has his beard and hair in the style worn by Haredi men.\n5 Foreign-Policy Priorities for Democrats After the Midterms",
-      "published": "2026-10-27T15:01:44+00:00",
+      "published": "2026-10-27T21:01:44+00:00",
       "source": "GN China",
       "sources": [
         "GN China"
@@ -556,7 +527,7 @@
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "Guardian World"
+        "Al Jazeera"
       ],
       "source_count": 2,
       "category": "geopolitics",
@@ -616,26 +587,27 @@
       ]
     },
     {
-      "title": "Robinhood CEO's AI startup Harmonic expands into software, chip design verification - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnhBbVF1VllNeUN0OHo0MzQ0SHd4RUhGRkk5MllHOG5yMm84Zm1qMlNCSTdOMlhyd28zcUM2NkgtbEY5ZlFfQ0toelRsSUlvdFVURmZ4NFpiMGlXLUxTek5UNFZpWTBVTjMxY2txTVJDcFNNT0FPWk5HYTh6Znh6QlgtZFlCLTdkb1F0NjV0SXRvYk1URlNpdkJUbTlDandaZ1dSa0tPcDFPVnNBT29HMk9KTXhhQQ?oc=5",
-      "summary": "Robinhood CEO's AI startup Harmonic expands into software, chip design verification&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T16:35:43+00:00",
-      "source": "Reuters Technology",
+      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYVc3YjltcUc0TDBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYV",
+      "content": "Share Iran’s calculations as US escalation looms: Trust, midterms, Hormuz on social media\nA woman walks past a mural in Tehran [File: Atta Kenare/AFP]\nAs regional powers step up diplomatic efforts to prevent another escalation in the eight-month United States-Israel war on Iran, Tehran is showing little sign of backing down from its red lines.\nThe announcement by China on Tuesday that Beijing will be sending an envoy to relevant countries in the region soon to help avoid another round of escalation highlights the growing urgency of finding a peaceful solution to a conflict that has disrupted global energy markets and spilled over across the region.\nlist of 3 items list 1 of 3 Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide\nlist 2 of 3 US military says it helped Gulf states export 1.5 billion barrels of oil\nlist 3 of 3 Iran, Saudi Arabia, Turkiye and Pakistan agree to continue talks for peace\nOn Monday, senior officials from Saudi Arabia, Pakistan and Turkiye – the three nations which signed the Mecca defence pact in August – met with high-ranking Iranian officials, promising to continue discussions related to “peace and security” in the region.\nHowever, Tehran appears determined not to budge on its demands, particularly as it holds considerable leverage over the future of maritime trade in the Strait of Hormuz, through which one-fifth of global oil and liquefied natural gas (LNG) were shipped before the war.\n“Iran’s priority is not simply to secure another ceasefire, but to end the war permanently and establish deterrence so that the cycle of military attacks by the US and Israel does not keep repeating itself,” Negar Mortazavi, editor and host of The Iran Podcast, told Al Jazeera.\nTehran continues to insist on sanctions relief, an end to the US naval blockade on its ports in the Gulf and guarantees that the US will not renew attacks, in exchange for helping to resume normal traffic in the Strait of Hormuz. The US wants Iran to give up more before a final peace settlement is negotiated – including making concessions about its nuclear programme.\nExperts say Iran’s current calculations are being driven by several factors, including its deep distrust of Washington – which has launched strikes on Iran three times since June 2025 while conducting talks – the belief that continued economic pressure could force more attractive US concessions, and much-anticipated elections in Israel and the US this week and next.\nAt the heart of Iran’s position is a belief that previous diplomatic efforts have failed to provide sufficient protection against renewed US and Israeli attacks. The US and Israel launched the first strikes of the war on February 28, just as peace talks were ongoing in Oman. Last year, Israel launched its 12-day war on Iran in June, which the US joined.\nPakistan and Qatar helped broker a memorandum of understanding in June this year aimed at reopening the Strait of Hormuz, ending the US blockade of Iranian ports and laying down the conditions for the start of negotiations over Iran’s nuclear programme.\nBut the arrangement quickly unravelled as both sides resumed attacks, leading to sustained US attacks on Iran for several weeks in July, followed by retaliatory strikes from Iran on US military assets and energy infrastructure in neighbouring Gulf countries, as well as in Jordan.\nSina Toossi, a senior non-resident fellow at the Center for International Policy (CIP), said the failure of that arrangement had hardened Tehran’s position.\n“Iran believes previous negotiations and ceasefire arrangements failed to protect it from renewed military attacks, and it is therefore seeking more tangible and durable guarantees,” he told Al Jazeera.\nUS President Donald Trump, meanwhile, has remained ambiguous over what course of action he will take in the near future. “My question is, do I make a deal with them or do I finish them off?” Trump told reporters on Sunday. He had previously said attacks on Iran would not take place until after the US midterms on November 3.\nMohsen Rezaei, secretary of Iran’s Supreme National Security Council, said last week that the country’s armed forces were prepared to respond to any new attacks , including by invading Tehran’s neighbours and hitting bases used in US military operations as part of its new “offensive” strategy in its war with the US.\nHe also said Iran would only reopen the Strait of Hormuz and begin peace talks once Washington took concrete steps to rebuild trust, including meeting Iran’s latest set of conditions – suspending sanctions, unfreezing Iranian assets, lifting the US naval blockade of Iranian ports and giving concrete assurances that it will not begin strikes again.\nThe US midterms next week, when all 435 House of Representatives seats and 35 of the 100 Senate seats will be up for grabs, will determine which party has control of the US Congress for the final two years of Trump’s presidency. The war, already deeply unpopular with Americans, is becoming an increasingly contentious domestic issue.\nA Reuters/Ipsos survey earlier this month found just 34 percent of Americans approved of Trump’s handling of the conflict – his lowest rating during either of his presidential terms. Republican majorities in both houses of Congress are already wafer-thin – at 53-47 (including two independents who vote with Democrats) in the Senate and 218-214 in the House.\nThe war has also driven up energy prices – particularly diesel, which has nearly doubled in price, causing a major burden for farmers and small businesses – adding to concerns about inflation and affordability that are dominating the election campaign.\nSome reports citing Iranian officials say Tehran may be deliberately prolonging negotiations to deny Trump any sort of political victory before the elections.\nA Republican setback could further constrain Trump’s room for manoeuvre, particularly if Democrats gain congressional control and increase scrutiny of the administration’s conduct of the war.\n“Tehran wants to teach a lesson to Washington, including future American presidents, that attacking Iran comes with a high price,” analyst Mortazavi said.\n“Its deterrence strategy is multilayered, aimed at imposing military, economic and political costs that extend well beyond the battlefield.”\nBefore the US midterms is Israel’s election on Tuesday, which introduces another dimension to Iran’s calculations. A defeat for Prime Minister Benjamin Netanyahu could complicate renewing joint attacks with the US on Iran, as experts say he was the main force behind Trump greenlighting the war.\nWhile some believe an opposition victory led by former military chief Gadi Eisenkot could potentially ease regional tensions, Netanyahu’s removal would not necessarily translate into a softer Israeli position towards Iran.\nEisenkot is himself a former military chief, and has repeatedly expressed concerns about Iran’s nuclear programme and regional influence.\nNevertheless, Mortazavi said, while Iranian officials are closely watching the political consequences of the war for both Washington and Israel, they recognise the danger of renewed escalation after the elections, “making a durable diplomatic settlement even more urgent”.\nIran’s control over shipping through the Strait of Hormuz remains one of its strongest bargaining chips.\nThe waterway carried about one-fifth of the world’s energy supplies before the war began on February 28, giving Tehran considerable leverage over global oil markets.\nOctober has recorded the highest number of attacks on commercial shipping around Hormuz, according to data collected by the Washington Institute for Near East Policy.\nBrent crude surged above $117 a barrel last week – compared with about $72 pre-war – following Iranian attacks on tankers, while shipping through the strait remains nowhere near pre-war levels.\nChris Beauchamp, chief market analyst at IG Group, said he believes Iran is deliberately exploiting this economic pressure as part of a wider contest of endurance with Washington.\n“They know they are in an attritional race with the US to see who breaks first,” Beauchamp told Al Jazeera. “For now, however, they are happy to keep attacking shipping to push prices higher.”\nThe latest diplomatic initiative reflects a growing concern among regional powers about the consequences of another round of fighting.\nSaudi Arabia, Pakistan and Turkiye agreed with Iranian officials on Monday to continue discussions about regional peace and security, amid fears that the conflict could escalate again.\nThe talks in Tehran come amid heightened regional tensions following weeks of attacks on Saudi Arabia by Yemen’s Iran-aligned Houthi rebels, who are also engaged in a conflict with forces loyal to Yemen’s internationally recognised, Saudi-backed government.\nPakistan and Turkiye maintain close strategic ties with Saudi Arabia and have committed to supporting Riyadh militarily under the recently established Mecca Joint Defence Agreement between the three Muslim-majority nations.\nPolitical analyst Rami Khouri, a nonresident fellow at the Arab Center in Washington DC, said the meeting had several objectives, some more immediate than others.\n“The most immediate goal: to de-escalate and to try to return to the diplomatic process, to have a permanent ceasefire, and then define the issues and address them with much stronger mediation, supported by these three countries [Saudi Arabia, Pakistan and Turkiye] and maybe others,” Khouri told Al Jazeera.\nHe added that talks could mark the beginning of a shift away from a regional security order dominated by Washington, towards one in which Middle East countries and other regional nations can exercise greater influence.\nMeanwhile, CIP’s Toossi said regional powers are increasingly recognising that their own security cannot be separated from that of Iran, despite their differences with Tehran.\n“It will be difficult to stabilise Yemen while the wider US-Iran confrontation continues, just as it will be difficult to reach a durable settlement with Iran while regional military escalation remains a constant threat,” he said.\nUltimately, however, the biggest obstacle remains Iran’s lack of trust in Washington, Iran Podcast host Mortazavi said.\n“After two wars, Tehran is deeply sceptical of American commitments and wants concrete guarantees that any agreement will not simply become another temporary pause before the next attack,” she said.\n“Iran is willing to negotiate and has already demonstrated flexibility by presenting a proposal to end the war. But Tehran believes it retains significant leverage, particularly in the Strait of Hormuz, and will not surrender that leverage under military or economic pressure. The goal is a permanent end to the war, not another temporary ceasefire that leaves the underlying conflict unresolved.”",
+      "published": "2026-10-27T15:29:20+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "Reuters Technology"
+        "GN Geopolitics"
       ],
       "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.4,
       "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
       "assets": [
-        "科技股",
-        "半导体"
+        "原油",
+        "能源股",
+        "油运"
       ]
     },
     {
@@ -665,7 +637,7 @@
       "title": "There's a New Source of Inflation, and It's Put Fed Chair Kevin Warsh and the FOMC Between a Rock and a Hard Place - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUo3NTZPbG4zZTB2Zmd0N0Vjd2MwbWRPeFB1Nzh1MWdMVHNITVM5anZ6QUJ2bE1icUROYmZxeDdFN25saHlNQUU4cGg0RmF4RmhqNXgxR2NXeXJuWnVtZVdvUWxfT1FmUjQ5ZG5HVTRvTDZ2TG9oc09zYTRfaHZSZVlxbmY2b2c1NnpMaGJtRXVRLW05OURpc1h4UHpCWDA4YVFjRnl4RWhsUTN3UjI0MzZJNGVybWI3eWVaWGVtYU14Tlk?oc=5",
       "summary": "There's a New Source of Inflation, and It's Put Fed Chair Kevin Warsh and the FOMC Between a Rock and a Hard Place&nbsp;&nbsp;The Motley F",
-      "content": "Despite short-lived periods of volatility, it&#x27;s shaping up as another phenomenal year for Wall Street and investors. With the artificial intelligence (AI) infrastructure build-out as the primary catalyst, the Dow Jones Industrial Average ( ^DJI +0.03% ) , S&P 500 ( ^GSPC +0.60% ) , and Nasdaq Composite ( ^IXIC +1.18% ) have catapulted to several record highs this year.\nBut expecting stocks to continue marching higher in the face of persistently elevated inflation is a tall order.\nKevin Warsh may be staring down a no-win scenario concerning inflation. Image source: Official Federal Reserve Photo.\nIn September, Fed Chair Kevin Warsh and the Federal Open Market Committee (FOMC) raised interest rates by 25 basis points, kicking off only the fourth rate-hiking cycle of the 21st century. While Trumpflation (Inflation specifically driven by President Donald Trump&#x27;s policies) has frequently made headlines, a new source of inflation identified by FOMC policymakers has put the central bank between a rock and a hard place.\nThe Fed has identified a new source of inflation, and it can sink the stock market\nThe U.S. inflation rate has spent the last 67 months above the FOMC&#x27;s long-term 2% target, prompting action by Fed Chair Warsh and his colleagues.\nTwo of President Trump&#x27;s policies have been regularly singled out as core drivers of inflation : tariffs and the Iran war.\nA newly published report (\"How Fast Do Tariffs Pass Through into Consumer Prices\") by three New York Federal Reserve economists writing for Liberty Street Economics estimates that Trump&#x27;s tariffs increased goods price inflation by 2.9 percentage points by February 2026.\nNew from the New York Fed: \"By February 2026, tariffs had contributed 2.9 pp to goods price inflation, and without them goods prices would have fallen slightly.\"\nAbout one quarter of every point in higher tariff rates shows up in consumer prices within one year.\n• A 10% across-the-board tariff yields a 2.6% rise in consumer goods prices after one year.\n• About two thirds of the increase comes from pricier imports, which get passed through quickly.\n• Another third comes from U.S. made goods, as producers face higher input costs and less import competition. This takes longer, about 6-12 months, to filter through.\nMeanwhile, the ongoing closure of the Strait of Hormuz, caused by the Iran war, represents the largest modern-day energy supply disruption. Gas and diesel prices have skyrocketed in its wake.\nBut combating Trumpflation is a relatively straightforward venture for the central bank. Attempting to deliver price stability amid a newly identified source of inflation is a different story altogether.\nShortly after Kevin Warsh became Fed chair, the FOMC meeting minutes singled out the AI infrastructure build-out as one of the core sources of elevated consumer prices.\nOn the one hand, overwhelming enterprise demand for graphics processing units (GPUs) , high-bandwidth memory (HBM), rack servers, and storage solutions has been a key growth driver for the U.S. economy and stock market. Ongoing supply shortages for GPUs and HBM, coupled with otherworldly demand, have afforded AI hardware companies exceptional pricing power.\nThe AI boom is transforming one of the biggest deflationary forces into a key source of US inflation:\nImport prices for computer and electronic products surged +7.4% in the first 6 months of 2026, to 77.1 points, the highest since January 2016.\nThis also marks a +8.0% YoY jump, the largest annual increase on record.\nThis represents a historic reversal from a downtrend which persisted for over two decades.\nBetween 2006 and 2019, computer and electronic product import prices fell -30%, as improving technology and manufacturing efficiency consistently pushed costs lower.\nNow, the AI investment boom is straining manufacturing capacity for semiconductors, servers, and electronic components, as companies race to build out AI infrastructure regardless of cost.\nThe AI revolution has flipped technology from a long-term source of deflation into a major driver of inflation.\n— The Kobeissi Letter (@KobeissiLetter) July 21, 2026\nAt the same time, this never-before-seen pricing power is adversely impacting consumers. The variables pushing up chip, memory, and storage prices are increasing the cost of laptops, smartphones, and other tech devices. This dynamic is unlikely to change unless the AI hardware supply shortage wanes and/or an AI bubble forms and subsequently bursts.\nInflation driven by the AI infrastructure build-out puts Fed Chair Warsh and the FOMC in quite the bind. If they leave interest rates unchanged for the foreseeable future, inflation may continue its upward trajectory, eventually harming the economy.\nConversely, if they get aggressive and raise rates multiple times over the next year, higher borrowing costs might halt the AI build-out in its tracks. Derailing a historically pricey stock market&#x27;s No. 1 catalyst could knock the Dow, S&P 500, and Nasdaq Composite off their respective pedestals.\nThe unpleasant reality is there may not be a winning scenario for the Fed or Wall Street .\nStock Market Midday, Oct. 27: Tech Stocks Drive Momentum and SoFi Surges 15%\nPrediction: The Stock Market Could Crash in 2027, and Elon Musk Just Explained Why\nDoes “The Big Short”’s Michael Burry Know Something Wall Street Doesn’t? He’s Deepened His Bet Against Some of the Stock Market’s Biggest Winners.\nJust 10 Stocks Make Up Nearly 40% of the S&P 500. Here&#x27;s an ETF That Can Help You Diversify.\nWarren Buffett’s Warning Could Haunt Wall Street in 2027. History Says the Stock Market Could Make a Big Move.\nSean Williams is a data-driven Motley Fool contributing analyst who's been investing for 28 years and has penned north of 16,000 articles. You'll find him at the intersection of politics and investing tackling macroeconomic topics of interest (Social Security and Donald Trump's economic/tax policies), analyzing which stocks billionaire investors (e.g., Warren Buffett) are buying and selling, and digging into how the world's most-influential businesses and trends -- everything from the evolution of artificial intelligence (AI) to the next stock split -- are changing Wall Street.\nHe holds a B.A. in Economics from the University of California, San Diego.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "content": "Despite short-lived periods of volatility, it&#x27;s shaping up as another phenomenal year for Wall Street and investors. With the artificial intelligence (AI) infrastructure build-out as the primary catalyst, the Dow Jones Industrial Average ( ^DJI +0.03% ) , S&P 500 ( ^GSPC +0.60% ) , and Nasdaq Composite ( ^IXIC +1.18% ) have catapulted to several record highs this year.\nBut expecting stocks to continue marching higher in the face of persistently elevated inflation is a tall order.\nKevin Warsh may be staring down a no-win scenario concerning inflation. Image source: Official Federal Reserve Photo.\nIn September, Fed Chair Kevin Warsh and the Federal Open Market Committee (FOMC) raised interest rates by 25 basis points, kicking off only the fourth rate-hiking cycle of the 21st century. While Trumpflation (Inflation specifically driven by President Donald Trump&#x27;s policies) has frequently made headlines, a new source of inflation identified by FOMC policymakers has put the central bank between a rock and a hard place.\nThe Fed has identified a new source of inflation, and it can sink the stock market\nThe U.S. inflation rate has spent the last 67 months above the FOMC&#x27;s long-term 2% target, prompting action by Fed Chair Warsh and his colleagues.\nTwo of President Trump&#x27;s policies have been regularly singled out as core drivers of inflation : tariffs and the Iran war.\nA newly published report (\"How Fast Do Tariffs Pass Through into Consumer Prices\") by three New York Federal Reserve economists writing for Liberty Street Economics estimates that Trump&#x27;s tariffs increased goods price inflation by 2.9 percentage points by February 2026.\nNew from the New York Fed: \"By February 2026, tariffs had contributed 2.9 pp to goods price inflation, and without them goods prices would have fallen slightly.\"\nAbout one quarter of every point in higher tariff rates shows up in consumer prices within one year.\n• A 10% across-the-board tariff yields a 2.6% rise in consumer goods prices after one year.\n• About two thirds of the increase comes from pricier imports, which get passed through quickly.\n• Another third comes from U.S. made goods, as producers face higher input costs and less import competition. This takes longer, about 6-12 months, to filter through.\nMeanwhile, the ongoing closure of the Strait of Hormuz, caused by the Iran war, represents the largest modern-day energy supply disruption. Gas and diesel prices have skyrocketed in its wake.\nBut combating Trumpflation is a relatively straightforward venture for the central bank. Attempting to deliver price stability amid a newly identified source of inflation is a different story altogether.\nShortly after Kevin Warsh became Fed chair, the FOMC meeting minutes singled out the AI infrastructure build-out as one of the core sources of elevated consumer prices.\nOn the one hand, overwhelming enterprise demand for graphics processing units (GPUs) , high-bandwidth memory (HBM), rack servers, and storage solutions has been a key growth driver for the U.S. economy and stock market. Ongoing supply shortages for GPUs and HBM, coupled with otherworldly demand, have afforded AI hardware companies exceptional pricing power.\nThe AI boom is transforming one of the biggest deflationary forces into a key source of US inflation:\nImport prices for computer and electronic products surged +7.4% in the first 6 months of 2026, to 77.1 points, the highest since January 2016.\nThis also marks a +8.0% YoY jump, the largest annual increase on record.\nThis represents a historic reversal from a downtrend which persisted for over two decades.\nBetween 2006 and 2019, computer and electronic product import prices fell -30%, as improving technology and manufacturing efficiency consistently pushed costs lower.\nNow, the AI investment boom is straining manufacturing capacity for semiconductors, servers, and electronic components, as companies race to build out AI infrastructure regardless of cost.\nThe AI revolution has flipped technology from a long-term source of deflation into a major driver of inflation.\n— The Kobeissi Letter (@KobeissiLetter) July 21, 2026\nAt the same time, this never-before-seen pricing power is adversely impacting consumers. The variables pushing up chip, memory, and storage prices are increasing the cost of laptops, smartphones, and other tech devices. This dynamic is unlikely to change unless the AI hardware supply shortage wanes and/or an AI bubble forms and subsequently bursts.\nInflation driven by the AI infrastructure build-out puts Fed Chair Warsh and the FOMC in quite the bind. If they leave interest rates unchanged for the foreseeable future, inflation may continue its upward trajectory, eventually harming the economy.\nConversely, if they get aggressive and raise rates multiple times over the next year, higher borrowing costs might halt the AI build-out in its tracks. Derailing a historically pricey stock market&#x27;s No. 1 catalyst could knock the Dow, S&P 500, and Nasdaq Composite off their respective pedestals.\nThe unpleasant reality is there may not be a winning scenario for the Fed or Wall Street .\nHistory Says the Stock Market&#x27;s Best 6 Months Start Nov. 1. Here&#x27;s How Often They&#x27;ve Paid Off Since 1950.\nStock Market Midday, Oct. 27: Tech Stocks Drive Momentum and SoFi Surges 15%\nPrediction: The Stock Market Could Crash in 2027, and Elon Musk Just Explained Why\nDoes “The Big Short”’s Michael Burry Know Something Wall Street Doesn’t? He’s Deepened His Bet Against Some of the Stock Market’s Biggest Winners.\nJust 10 Stocks Make Up Nearly 40% of the S&P 500. Here&#x27;s an ETF That Can Help You Diversify.\nSean Williams is a data-driven Motley Fool contributing analyst who's been investing for 28 years and has penned north of 16,000 articles. You'll find him at the intersection of politics and investing tackling macroeconomic topics of interest (Social Security and Donald Trump's economic/tax policies), analyzing which stocks billionaire investors (e.g., Warren Buffett) are buying and selling, and digging into how the world's most-influential businesses and trends -- everything from the evolution of artificial intelligence (AI) to the next stock split -- are changing Wall Street.\nHe holds a B.A. in Economics from the University of California, San Diego.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
       "published": "2026-10-27T09:06:00+00:00",
       "source": "GN Fed",
       "sources": [
@@ -684,6 +656,26 @@
         "美元",
         "美股"
       ]
+    },
+    {
+      "title": "Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy - Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlQtd3ZaV2dQWERkb1NSZk1QSTNibTd3bUdnNlNjeXFvS2h6enF4cXFWZ0dLX05Gb2JKd05MQWFZSUZtME16ZTdVR0RMQ01aQ1kwbFkwcnlvamhNSVIzbUlKZXFLWWRZWmE1M2Q5TDlTbWNfdS05dld0Q0lKSEJ4ZVA3Q1MyMmFrbzVJ0gGOAUFVX3lxTE5pcFNia2g1Y3dmdzQ3RXJtSExrZDA3ZmFsQVozN25fdDhsb1hmalRjYjFCVmt6T3lraFRlbWE4emxYeFRJeFlYeWVnaTExOGlxU29lak9QTk4xd1BGWVNTbmdxczhmUmdmYUg1OFU2b3VFZDRodTNkX1lIelBKTG8tcW1zVUs0Z0c5MFdMRnc?oc=5",
+      "summary": "Why Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nA section of the Hvardiyske airfield showing militry jets in December 2021 (left), and structures linked to drone launches on October 11, 2026 (right).\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Ce",
+      "content": "Why Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nA section of the Hvardiyske airfield showing militry jets in December 2021 (left), and structures linked to drone launches on October 11, 2026 (right).\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nA military airfield in Crimea has been transformed into a hub for drone launches, new satellite images sourced by RFE/RL show.\nHvardiyske airfield, in the center of the Russian-occupied Ukrainian peninsula, was first identified as a launch site for attack drones in March 2025 and is now used almost daily for strikes, according to Ukraine’s military. The base is known as Gvardeiskoye in Russian.\nAn image of the site made on October 11 shows no visible military aircraft, but extensive new infrastructure, which observers say is related to drone launches from the Soviet-era airbase.\nThe transformation of the Hvardiyske base has raised questions over why Kyiv has not been able to disable the site with its own attack drones and missiles.\nA section of the Hvardiyske airfield seen on October 11, 2026 (top) and June 2024.\nUkraine has frequently hit Russian drone storage and launch facilities in Crimea, including on the remote southeastern Cape Chauda and near Balaklava in a strike that reportedly took the site out of action. Hvardiyske has been hit by Ukrainian drones but damage has been minimal.\nA Crimean local and former officer of the Ukrainian military spoke with RFE/RL’s Crimean Service on condition of anonymity about possible reasons why the sprawling drone port at Hvardiyske has not yet been disabled by Ukraine’s own attack drones.\n“In my opinion, the main reason is that drone operations there are spread across different parts of the airfield,\" he said. \"The launch site is in one location, the maintenance area in another, and the storage facilities are in a third.”\n“All of this is relatively simple infrastructure that can be easily restored, and some of it is just standing out in the open,\" he added.\nIn the October 11 satellite image sourced by RFE/RL (above), scores of unidentified objects can be seen spaced several meters apart on open grassland in the southwestern corner of the airbase.\nThe former Ukrainian Armed Forces officer told RFE/RL that an underground storage facility built by the Soviets to store aircraft munitions, which is located around 15 kilometers from the Hvardiyske base, is a likely location for the mass storage of attack drones launched from the airfield.\n\"The Shaheds may well be hiding there,\" he told RFE/RL, speculating that such a fortified storage space \"is probably impossible to penetrate, even with [Ukraine's] missiles.\"\nAnother reason Hvardiyske may present a more difficult objective for Ukrainian targeteers is its location in the center of Crimea, a peninsula now bristling with air defense weaponry.\nUnlike coastal launch sites, which can be approached from over the sea, Ukrainian drones aiming for Hvardiyske “have to fly about 100 kilometers over land to strike this facility, where the likelihood of being shot down is higher,” the source said.\nA file photo of Shahed drones stored in sheds in Russia&#x27;s Oryol region. The Iranian-designed, long-range attack drones have been widely used by Russia to strike targets in Ukraine, with Moscow also producing its own versions.\nThe Hvardiyske air base served as a Soviet, then Ukrainian, naval aviation base.\nFollowing the Russian annexation of Crimea, the facility was taken over by the Russian Aerospace Forces, which stationed Su-24M bombers and Su-25SM ground-attack jet aircraft at the base until its transformation into a drone port.\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nSerhiy Koval is a Sevastopol-based journalist and military expert who has worked with Crimea Realities since 2017. For security reasons, he publishes under a pseudonym.\nCrimea.Realities is a regional news outlet of RFE/RL's Ukrainian Service.\nAmos Chapple is a New Zealand-born writer and visual journalist with a particular interest in the former U.S.S.R.",
+      "published": "2026-10-27T20:36:41+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova - Yahoo Finance",
@@ -752,24 +744,44 @@
       "assets": []
     },
     {
-      "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDd1SUhWZmlrNUdQMU92ZFk5R19pNEJBRTI5eWJMYUpvY0x0V3dCb25TRWhIbHJYM3VQMFhkZlp2WDVzY3hmMG5Ub1IyZW5zQmVfclg1WEd0ZjVZWGcyNE1DaE40aE9mTHpKOEl3QTE1Z1NxcEVTUUx6eHkyX2hkcHAxMzBORi04OEJXWUhvMm1WeF81Tm9NZGRmT1hkR1pvZ0xSYzFOaHU5LUNzUWc0QjFCSQ?oc=5",
-      "summary": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul&nbsp;&nbsp;AP News",
+      "title": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZZeW5oRDRXSUxqNjJ1cjM0U2lmSTZlc3M1TkVQenFnX19fUGJxN0M4TW95N0taTHJEcjBSLTVVVkExbWJTVUlZeWlzVmd4NUVRUDRhcWNkb29HdUxiNEZfT1NRdk9CX2lSN1M0cVFhdG9YekVBZkluV1VxVnR6ajFiOUx3d3RlWnJtY3ZOWnhFQQ?oc=5",
+      "summary": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-26T21:41:00+00:00",
+      "published": "2026-10-27T00:08:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "BBC World",
-        "Al Jazeera"
+        "GN Top"
       ],
-      "source_count": 3,
+      "source_count": 2,
       "category": "us",
       "category_zh": "美国",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0EyQnBGR2diemlHNFhYQXNlelZIRmRZeW13MjhVZFRwX2prOUtIenZvSXdZOF9RbEtOUHZicExLUnFSd0pwX2VBRVd2YzRZZDBaSjVjc2ttVUlsTUxJbHk3c213OTdrM01XODJaSnRVenJUS2R6M2Zvbm1PX3YxNHZ0dUJPOTNud2VqSEVqdDVUOGR3?oc=5",
+      "summary": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-27T04:02:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "Reuters Technology"
+      ],
+      "source_count": 2,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -815,11 +827,11 @@
       "assets": []
     },
     {
-      "title": "Gold Falls Below $4,000 as Investors Await Federal Reserve Rate Decision - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXZjZXMxejR0TmluNkxxVzZ1RjNtVFRqUlpJcTZId2gwODZTT1RHc2lPZ01aSTV0RlFfT0VSLWV3Zy14OTV6S1JYdmpRR3NLTTZOdTNFeEZEa3pBenB1TmhhYWw3RGdqQnF5ZklzMUc0ME1wMlBZdm1TcHJDcXR1MWNHaXFOUVlPRjgxeWgwMWk0WkRrNUh3?oc=5",
-      "summary": "Gold Falls Below $4,000 as Investors Await Federal Reserve Rate Decision&nbsp;&nbsp;Yahoo Finance",
-      "content": "Gold Falls Below $4,000 as Investors Await Federal Reserve Rate Decision\nGold bars ©Adobe Stock Images Gold prices declined on Tuesday, briefly moving below $4,000 per ounce as investors assessed the outlook for U.S. interest rates ahead of the Federal Reserve's policy announcement on Wednesday and monitored diplomatic developments involving Iran.\nAt 05:58 ET (09:58 GMT), spot gold was trading 0.5% lower at $3,998.23 per ounce, while U.S. gold futures fell 0.6% to $4,013.17 per ounce.\nThe precious metal had gained 0.5% in the previous session before reversing direction, with market participants focusing on the possibility that the Federal Reserve will leave borrowing costs unchanged at its upcoming meeting.\nInvestors are awaiting Wednesday's Federal Reserve announcement following the central bank's decision in September to increase interest rates for the first time since 2023.\nMarket pricing indicates an approximately 10% probability of another rate increase at this week's meeting. However, elevated energy prices have maintained expectations that additional monetary tightening could take place before the end of the year.\nTraders initially increased their expectations for an October rate increase after U.S. inflation figures exceeded forecasts.\nSubsequent comments from Federal Reserve officials, which indicated that another increase in borrowing costs was not an immediate priority, moderated those expectations.\nThe upcoming decision will provide further information about the central bank's assessment of inflation and the potential direction of monetary policy.\nEnergy Prices Continue to Influence Inflation Expectations\nOil prices advanced during volatile trading on Tuesday, despite renewed diplomatic efforts aimed at preventing further escalation of the conflict involving the United States and Iran.\nPersistently elevated energy prices remain a factor in inflation expectations, contributing to uncertainty surrounding the Federal Reserve's future interest-rate decisions.\nAlthough diplomatic discussions have raised expectations of reduced regional tensions, the possibility of continued inflationary pressure from energy costs remains relevant to the monetary policy outlook.\nA reduction in geopolitical tensions could help limit energy costs, while inflation remaining above expectations could sustain the possibility of additional interest-rate increases.\nMarket participants are also monitoring diplomatic initiatives intended to reduce tensions surrounding the U.S.-Iran conflict.\nThe latest negotiations have contributed to expectations that further military escalation could be avoided, although the outcome of the diplomatic efforts remains uncertain.\nDevelopments affecting the conflict are relevant to energy markets, where oil prices have continued to fluctuate despite the renewed diplomatic activity.\nChanges in energy costs could influence inflation expectations and, consequently, market assessments of future Federal Reserve policy decisions.\nGold's decline below $4,000 per ounce comes as investors evaluate the relationship between inflation, energy prices and U.S. monetary policy.\nThe Federal Reserve's September rate increase and subsequent inflation data have contributed to changing expectations for the timing of further adjustments to borrowing costs.\nWith markets assigning a relatively low probability to an immediate rate increase, attention remains on Wednesday's policy decision and any indications regarding the central bank's approach to inflation.\nGold traders are also following developments in the U.S.-Iran conflict and their potential implications for energy prices as the outlook for monetary policy continues to evolve.",
-      "published": "2026-10-27T10:35:10+00:00",
+      "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWj",
+      "content": "Navy Federal Credit Union chief economist Heather Long discusses the Federal Reserve's upcoming interest rate decisions.\nThe Federal Reserve is set to announce its latest interest rate decision on Wednesday with the midterm elections less than a week away.\nPolicymakers at the Fed say they avoid letting politics influence their monetary policy moves, and can be hesitant to hike or cut interest rates at meetings that occur ahead of the election.\nInflation has remained stubbornly high and the September consumer price index (CPI) data showed inflation rose faster than expected, with headline CPI rising 0.6% on a monthly basis and 3.7% from a year ago. The latter figure is well above the central bank&apos;s 2% inflation target.\nHeather Long, chief economist at Navy Federal Credit Union, told FOX Business in an interview that while the September inflation data was hotter than expected and raised the prospects of an October rate hike, the Fed is likely to wait to \"hike again in December.\"\nCONSUMER INFLATION ROSE FASTER THAN EXPECTED IN SEPTEMBER, CPI REPORT SHOWS\nFederal Reserve Chair Kevin Warsh and policymakers are expected to hold rates steady this week. (Daniel Heuer/Bloomberg via Getty Images)\n\"This hotter than expected inflation data did increase the chance of an October rate hike , but it&apos;s a very high bar to increase in October, they would do it within a week of the election. I know they like to say that they&apos;re not political, but it&apos;s a high bar for October,\" she explained.\n\"Right now, this data indicates that the Fed needs to act again, but it&apos;s not a five-alarm fire. They don&apos;t have to act immediately, they could wait until December.\"\n\"The reality is, gas prices have come down a little bit since the September highs, so we would expect the October data &#x2013; you know, it won&apos;t be great, but it could be a little bit cooler than what we&apos;re seeing today. And the Fed has a reasonable case to say, we&apos;re probably still gonna hike, but let&apos;s wait a few more weeks and see just how broad-based this problem really is,\" Long said.\nFEDERAL RESERVE HIKES INTEREST RATES FOR FIRST TIME SINCE 2023 AMID STUBBORN INFLATION\nThe market expects the Fed to hold rates steady this week, with the CME FedWatch tool showing a 90.6% probability of rates remaining at their current target range of 3.75% to 4% &#x2013; up from 84.5% a week ago and 35.8% last month.\nFor the Fed&apos;s meeting in mid-December, the tool shows a 75.1% probability of a 25-basis-point interest rate hike, which could mark the resumption of the rate-hiking cycle if inflation remains elevated.\nWHY THE FED ISN&apos;T READY TO DECLARE VICTORY ON INFLATION\nInflation rose faster than expected in September and remains well above the central bank's 2% target. (Robert Nickelsberg/Getty Images)\n\"The Federal Reserve will definitely hike interest rates again, probably in December,\" Long said. \"The big question is how many more times do they have to hike after that? And what was scary in this latest inflation data for September is to see so many areas of hot inflation: to see used car prices, airfares, recreation costs, auto repair costs, buying a used car, medical costs.\"\n\"The story really is starting to take shape that it&apos;s probably going to take a couple more hikes in 2027, and this higher-for-longer borrowing costs and mortgage rates well above 7% is going to stick around for at least a year, maybe longer,\" Long said.\nThe CME FedWatch tool shows the market is anticipating multiple rate hikes by March, with a 46.5% chance that rates will be 50 basis points higher than they are now at a range of 4.25% to 4.5%.",
+      "published": "2026-10-27T17:46:38+00:00",
       "source": "GN Fed",
       "sources": [
         "GN Fed"
@@ -831,31 +843,30 @@
       "score": 13.1,
       "is_hypothetical": false,
       "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：黄金 / 美债 / 美元 / 美股 及相关产业链。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
       "assets": [
-        "黄金",
         "美债",
         "美元",
         "美股"
       ]
     },
     {
-      "title": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkE2MkVyd2dKcU5mTWp1VmY5c0pENUN0WjhPTHJDTXZQRENZU2JQa09JbWJaTUpicnN0RkFuTllzRHE0bUtOSjdrSDBiZ3FMYVVhdjVtVFRZLXJoRmRmNldVWXg0SjUxVFppSjQyYXhVajhydnFRRS0yRmNEcW9XWjJZWWpUYjBUR1NCSWFFa3AzNFhDWDVYeVU2VHdQd2ZMcHM1NDhLM3RrTnY5MVlPU0szSWN4ZUlVRmN1OERpcFM3UTBtNGxUNXBVNzltalU?oc=5",
-      "summary": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T02:17:00+00:00",
-      "source": "Reuters World",
+      "title": "Ukraine war latest: Zelensky reveals details of 'Operation Veles' - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXJhb2xiYzgyNnpsdnNqNFpOaHFDNUwxdkpmTWpHazdaVGNhOTJQYnVsWFJtNzAybHF2eXlJMUxGRjZoSjFNSEpjVlBuaVVLRFluWUQ0S09DbzJVS2VDdzFCNEdwX1lOeldvcFN3MUFkQTkxazVPc3J1NnY2Vi02VWRoNkZDMmtTN0U5LUd5eUNlYllKeWc?oc=5",
+      "summary": "Ukraine war latest: Zelensky reveals details of 'Operation Veles'&nbsp;&nbsp;The Kyiv Independent",
+      "content": "War Ukraine war latest: Zelensky reveals details of &#x27;Operation Veles&#x27;\nA screenshot from a video published on Oct. 22 showing Operation Veles, carried out by the National Guard's 2nd Khartiia Corps. (Khartiia/YouTube)\nZelensky reports over 100 Russian troops &#x27;eliminate&#x27; in Ukraine&#x27;s underground pipeline operation\nOleshky ceasefire &#x27;expanded within Kherson Oblast,&#x27; Melania Trump says\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nUkrainian postal service forms private air defense force, shoots down Russian drones\n302,000 Russian soldiers killed or wounded by Ukrainian drones since January, Defense Ministry says\nUkrainian forces \" eliminated \" more than 100 Russian soldiers and captured more than 30 others during an operation involving underground gas pipelines near Kupiansk in Kharkiv Oblast, President Volodymyr Zelensky said on Oct. 27.\n\"The Russians had already tried to use underground gas pipelines to move through our positions and launch assault operations. Ukrainian warriors have successfully transformed this tactic, modernized it, and made it much more sophisticated and technologically advanced,\" Zelensky said.\nThe operation, code-named \"Veles,\" involved an underground advance of more than 15 kilometers (9 miles), according to Zelensky .\nThe operation was carried out by the National Guard&#x27;s 2nd Khartiia Corps alongside other Ukrainian units.\nZelensky said he had received reports on the operation&#x27;s initial results and progress from Commander-in-Chief of Ukraine&#x27;s Armed Forces Mykhailo Drapatyi, 2nd Khartiia Corps Commander Ihor Obolienskyi, and Deputy Head of the Presidential Office Pavlo Palisa.\nThe 2nd Khartiia Corps previously reported on Oct. 22 that Ukrainian troops had infiltrated Russian rear positions near Kupiansk through underground gas pipelines as part of Operation Veles .\nThe operation followed earlier Russian attempts to use the same tactic in the area. On Sept. 12, Ukrainian battlefield monitoring group DeepState reported that Russian troops had used a gas pipeline to cross the Oskil River and penetrate Ukrainian defenses near Kupiansk.\nBlackout in Sumy Oblast’s Konotop enters fourth day with no end in sight\nOleshky ceasefire &#x27;expanded within Kherson Oblast,&#x27; Melania Trump says\nA localized ceasefire in the Russian-occupied city of Oleshky has been \"expanded… within Kherson (Oblast),\" U.S. First Lady Melania Trump said in a post on social media on Oct. 27.\nThe ceasefire, which came into effect in the early hours of the morning, initially covered Oleshky and surrounding areas in Kherson Oblast and is meant to allow the safe evacuation of civilians and the delivery of humanitarian aid over the coming days.\nTrump did not specify the extent of the expanded ceasefire but Tetiana Shelest, head of communications for Ukraine&#x27;s human rights ombudsman, Dmytro Lubinets, told reporters it now covered the entirety of Kherson Oblast.\nAccording to a statement from Lubinets, the ceasefire was being \"fully honored,\" with Ukraine and Russia adhering to the agreement as of 5:30 p.m. on Oct. 27.\n\"I hope that everything will continue in accordance with the agreed plan and that we will be able to help the civilians in Oleshky who are eagerly awaiting assistance,\" he added.\nOleshky has been under Russian occupation since the early days of the full-scale invasion. Located just across the Dnipro River from Kherson , it has been effectively blockaded by Russian forces, who prevent humanitarian aid from entering.\nResidents face severe shortages of food, water, and electricity. Mined roads and constant drone attacks make safe evacuation virtually impossible, and civilians trying to flee on the only roads in and out of the city are frequently targeted by drones.\nTrump added that the timing was accelerated by two days to protect civilians and facilitate the delivery of humanitarian aid.\nEarlier, Kyrylo Budanov, head of the Office of the President of Ukraine, confirmed a \"bilateral ceasefire\" began in the embattled Oleshky, in a statement on Oct. 27.\nThe ceasefire will last until Nov. 1, David Arakhamia , the parliamentary leader of the president&#x27;s Servant of the People party, said in a later post on social media. Lubinets added that the ceasefire will remain in effect until 10:59 p.m. Kyiv time on Nov. 1.\nThe agreements were reached in negotiations with Yana Lantratova, head of the Russian negotiating team.\nOleshky ceasefire ‘expanded within Kherson Oblast,’ Melania Trump says\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nRussian ballistic missiles targeted Kyiv in a deadly attack overnight on Oct. 26-27, striking a university campus, a major bridge, an administrative building, and medical facilities.\nKyiv, a city of three million people, has been relentlessly assaulted by Russian ballistic missiles in recent months as Moscow exploits Ukraine&#x27;s air defense shortage. While its battlefield offensive has slowed, Russia has chosen a strategy of mass aerial strikes against vulnerable civilians.\nAt least one person was killed, and 15 people have been injured in the latest Russian attack , Ukraine&#x27;s State Emergency Service (DSNS) said. Those injured in the attack include a paramedic, a medical technician, and a 20-year-old university student.\nThe mayor later reported a strike on the city&#x27;s Southern Bridge over the Dnipro River, one of Kyiv&#x27;s major traffic arteries. The bridge connects the city&#x27;s eastern and western sides and is crucial for the daily commutes of hundreds of thousands of residents.\nThe bridge and metro infrastructure were damaged overnight, Klitschko said. Train service on the bridge has been temporarily suspended.\nIhor, who lives on the east bank of the Dnipro River but works on the west bank, said his commute now takes around two hours, including about half an hour spent walking across the Southern Bridge.\n\"We’ll have to walk like this every morning now. Taking a detour would take too long,\" Ihor, who declined to give his surname, told the Kyiv Independent.\nIryna was also crossing the bridge while it remained closed to traffic, but she was using an electric scooter to get across. Following the overnight attack on Oct. 27, this was her first time commuting to work this way.\n\"This is an alternative means of transport, but I don’t know how long the journey will take,\" Iryna, who also declined to give a surname, said, expressing hope that the bridge would be repaired soon.\nPresident Volodymyr Zelensky said that a university campus in the city was struck by Russia alongside Kyiv&#x27;s well-known Kyoto park and residential buildings.\nEducation minister Andriy Butenko later said that the Russian attack damaged buildings and dormitories of the State University of Trade and Economics. He said there were no deaths among university students or employees.\n\"This is once again a terrorist country attacking educational institutions. A university, a scientific institution, a college, a school, or a kindergarten - the enemy directs its missiles at children, teachers, and scientists without any pity or humanity. There is no excuse for Moscow&#x27;s cynical actions,\" Butenko added.\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nUkrainian postal service forms private air defense force, shoots down Russian drones\nUkrainian postal and courier company Nova Poshta has started its own private air defense force and shot down Russian attack drones targeting their facilities, Vyacheslav Klymov, co-owner of the Nova group of companies, revealed at the Kyiv International Economic Forum on Oct. 26.\n\"We are one of the few companies that has implemented this project. I don&#x27;t want to disclose the numbers, but we have destroyed &#x27;Shahed&#x27; drones, \" Klimov said.\nNova Poshta is the largest private postal and courier company in Ukraine, operating over 15,817 branches across the country, and employing over 34,000 people. Its post offices and distribution centers have frequently come under Russian attack .\nDespite the ongoing war, business is going well for Nova Poshta. The company quadrupled its net profit compared with last year, according to financial reports published on April 27.\nKlimov also emphasised the importance of companies having their own private firefighting capabilities, rather than just waiting for the response of state authorities.\nNova Poshta employees frequently put out significant fires on their premises before the arrival of state emergency service firefighters, Klimov said.\n\"Now big businesses are looking for fire engines in Europe in order to create their own services. This is our property… who can forbid me from putting out a fire on my own territory?\" he said.\nSince late summer , Russia has been attacking Ukraine with jet-powered drones, adding to the now-familiar threat posed by conventional Shahed-type drones and missiles. Between larger assaults, successive waves of jet-powered drones now arrive day and night.\nRussia&#x27;s jet-powered drones target civilian infrastructure such as supermarkets , schools , shopping malls , telecommunications infrastructure , data centers , gas stations , and medical facilities .\nOn Ukraine’s language day, Russia strikes publisher’s warehouse in Kharkiv\n302,000 Russian soldiers killed or wounded by Ukrainian drones since January, Defense Ministry says\nUnits of the Ukrainian Defense Forces have killed or severley wounded 302,000 Russian servicemen by using drones since January 2026, the Ukrainian Defense Ministry said on Oct. 27.\n\"Each defeat is recorded on video in the Delta combat system and verified by the Brave1 defense innovation cluster,\" the Defense Ministry said.\nThe Ukrainian military uses an incentive system in which the verified destruction of enemy personnel and military materiel awards combat units points that they can exchange for more drones, electronic warfare equipment, and other gear on an internal marketplace .\nIn September, 46,230 Russian soldiers were killed or irrecoverably wounded, according to figures published by the Ukrainian General Staff.\nOf these, 32,739 were killed or wounded by drones, the figures show, amounting to about 70% of the total.\nThe highest number of casualties Ukrainian drones inflicted on the Russian military was recorded in March, with almost 34,000 soldiers killed or irrecoverably wounded.\nDrones of various types now cause the vast majority of casualties on both sides. \"The destruction of enemy manpower using UAVs helps preserve the lives of Ukrainian soldiers, making it difficult for the enemy to approach our positions,\" the ministry said.\nThe prevalence of drones from both sides has significantly changed assault tactics , making heavy equipment such as tanks a rare sight on the battlefield.\nWith the \"kill zone\" reaching 20 kilometers (12.4 miles), Russia has largely stopped using tanks or other heavy equipment for assault operations, Joint Forces Task Force spokesperson Viktor Trehubov said on Sept. 20. Drones have replaced many of the tanks&#x27; roles for both sides, since a tank driving close to the front would be easily spotted and hit by much cheaper drones.\nUkraine intercepting more Russian Geran-4 jet-powered drones, General Staff says\nUkraine Russia Oleshky Kupiansk Ceasefire Russian losses\nTania Myronyshena is a reporter at the Kyiv Independent. She has written for outlets such as United24 Media, Ukrainer, Wonderzine, as well as for PEN Ukraine, a Ukrainian non-governmental organization. Before joining the Kyiv Independent, she worked as a freelance journalist with a focus on cultural narratives and human stories. Tania holds a B.A. in publishing and editing from Borys Hrinchenko Kyiv University.\nKremlin-seized German company Metro AG transfers 1 billion rubles to Russian military without approval\nUkrainian forces reportedly strike Russian targets 2,500 kilometers from border\nZelensky details expectations for upcoming trilateral peace talks with Russia, US\nMoscow ready to resume trilateral talks with Ukraine, US after Nov. 4, Kremlin aide says\nUkraine strikes Russian titanium plant, facility producing missile, drone components, monitoring channels claim\nExport hurdles and visa waits for Ukrainian companies force Pentagon to slow its drone contest\nUkraine intercepting more Russian Geran-4 jet-powered drones, General Staff says\nUkraine&#x27;s &#x27;Veles&#x27; pipeline operation near Kupiansk &#x27;eliminates&#x27; over 100 Russian troops, Zelensky says\nKyiv approves alternative Dnipro crossings after Russian strikes on bridges\nThe trouble with loving Russia: Evan Gershkovich&#x27;s memoir seeks sentimentality in a lost country\nHow Ukrainian researchers dissect Russian drones to uncover their next deadly upgrade\nHow Ukraine outmaneuvered Russian troops in Operation Vivaldi",
+      "published": "2026-10-27T19:20:27+00:00",
+      "source": "GN Geopolitics",
       "sources": [
-        "Reuters World"
+        "GN Geopolitics"
       ],
       "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
-      "score": 13.0,
+      "score": 12.9,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -967,48 +978,6 @@
       "assets": []
     },
     {
-      "title": "Norway and Finland hold rare call with Putin to discuss ending war - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-      "summary": "Norway and Finland hold rare call with Putin to discuss ending war&nbsp;&nbsp;BBC",
-      "content": "Norway and Finland leaders hold rare call with Putin\nNorway and Finland say they are not acting on behalf of other European leaders\nThe leaders of Finland and Norway have held a joint call with Vladimir Putin - rare contact between the Russian president and European leaders.\nFinland&#x27;s President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre said the aim of the call had been to \"convey messages directly regarding future negotiations\" towards peace. An end to the conflict in Ukraine \"will not be achieved through silence,\" Stubb said.\nNeither side suggested the needle had been moved on ending the war, which began when Russia launched its full-scale invasion of Ukraine in 2022.\nAlthough the Finnish leader said the conversation with Putin had been \"frank and substantive,\" Støre added that there were \"big differences in views\" with Putin.\nSeveral European leaders have recently shown willingness to engage with Russia directly, but both Stubb and Støre pointed out their initiative was taken in their capacity as neighbours of Russia, rather than on behalf of Europe as a whole.\n\"We&#x27;ve not set out to speak on behalf of anyone other than ourselves,\" Støre said.\nStubb added the call had been prepared in consultation with Ukraine and the US following a meeting between Ukrainian President Volodymyr Zelensky, the Nordic leaders and US special envoy Steve Witkoff in Oslo last week.\nThe first trilateral US-Ukraine-Russia talks since the start of the year are tentatively planned for early November in Abu Dhabi.\nZelensky later confirmed Stubb and Støre debriefed him after the call and said he was grateful for their \"active support\", while his Foreign Minister Andrii Sybiha said the call had been \"the right approach\".\nFinland and Norway, which border Russia, initiated the 90-minute call - held from Helsinki - to \"discuss Russia&#x27;s war of aggression against Ukraine and the diplomatic efforts to end the war and promote peace and stability in Europe\", the leaders&#x27; offices said.\nStøre added: \"The war comes with enormous human and material costs... The suffering and destruction will impact generations.\"\nThe Kremlin said Putin told the leaders that \"a just and lasting peace\" would only be possible if Russia&#x27;s interests were considered.\nPutin also reaffirmed to the Nordic leaders what he views as the \"root causes\" of the conflict - his frequent shorthand for Ukraine&#x27;s desire to exist as a sovereign state.\n\"A fair long-term peace settlement is possible only if Russia&#x27;s legal interests are taken into account fully and unconditionally\", Putin said.\nAll three parties reportedly agreed to continue their direct phone communication.\nRosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push\nThere was no official EU reaction to the talks. The dialogue had not been coordinated with other European leaders, the Danish and Swedish prime ministers said. \"I think Europe should stick together rather than going solo,\" commented Sweden&#x27;s Ulf Kristersson.\nMeanwhile, Polish Prime Minister Donald Tusk said Stubb had informed him that Europe&#x27;s position on the upcoming talks in the United Arab Emirates was \"moderately optimistic\".\nRelations between the US and Ukraine and its European allies have soured since US President Donald Trump agreed to lift some sanctions from Russia, allowing Moscow to export oil to the America.\nAs the Trump administration&#x27;s position on Russia has softened, several European leaders have said Europe should be trying to re-establish direct contacts with the Kremlin.\nStubb and Støre are the first European leaders to contact Putin since French President Emmanuel Macron&#x27;s conversation with him in July 2025.\nSoon after, Putin visited Alaska for a summit with Trump, and from then on Europeans were further sidelined from Ukraine peace talks. Moscow regularly mocks European leaders and accuses the EU of prolonging the war by supplying Ukraine with weapons.\nBut last weekend, Kremlin spokesman Dmitry Peskov said having a European negotiator at the peace talks table would be \"good\".\nAnd although he said Moscow did not view Finland and Norway as speaking on behalf of Europe, on Tuesday Peskov conceded that Stubb and Støre&#x27;s talks with Putin had been \"very constructive and practical talks with the leaders of two key neighbouring states.\"",
-      "published": "2026-10-27T18:28:23+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Inside the Billionaires’ War Against California’s Proposed Wealth Tax - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmxwS2dhMzU2bnZVNDdMbXp1cTlndWlIclYxZDlMVWlyTGdSSjlnQlFGclI4cDYtQXFmc1pJdGk0Uy1GUmZsQm45YlhscWdzRDQtWGptOTJnUE1ZdDBPcmI5MGdRcjVzX3k1ZDVzbzlGZGFOSUhvRVdMbUhKR2gyZzlHcmtHRl80OHNEYzRmYWk2VUt5WlBz?oc=5",
-      "summary": "Inside the Billionaires’ War Against California’s Proposed Wealth Tax&nbsp;&nbsp;The New York Times",
-      "content": "",
-      "published": "2026-10-27T14:05:56+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
       "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
       "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector.The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June. Other index",
@@ -1055,69 +1024,6 @@
       "assets": []
     },
     {
-      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes - UN News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQVzAxYU5yenF2WEVTQ3E2MFJFMG5pSXR6emhFNXNYTGNYNlFNOS1mMkY5cDF5eE1xb0JlNDFuSkxDYm5fZlpSblI4SGVJVENjLXVkSkN4Yw?oc=5",
-      "summary": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes&nbsp;&nbsp;UN News",
-      "content": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes\nPeace and Security The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.\nThe “relentless” attacks are targeting critical energy infrastructure, leaving millions without heat and electricity, and limited access to water and other essentials.\n“The increase in long-range missile and drone strikes means there is no safe place in Ukraine,” said UNHCR director, Philippe Leclerc, adding that humanitarian operations have also come under attack.\nBetween September and mid-October, several security incidents affected agency personnel and partners, aid facilities or clearly marked vehicles involved in relief efforts.\nUNHCR said displacement within Ukraine is expected to continue as evacuations from frontline areas increase, while nearly 5.2 million Ukrainian civilians continue to live across Europe as refugees.\nUN nuclear watchdog still unable to verify Iran’s nuclear material\nThe UN’s nuclear watchdog still cannot confirm that none of Iran’s safeguarded nuclear material has been diverted, its chief told the Security Council on Tuesday – more than a year after Israeli and US military strikes cut off inspectors’ access.\n“This can and must be rectified,” said IAEA Director Genera Rafael Grossi, adding that we know from our past work with Iran that constructive engagement is possible.”\nInspectors have not been able to return to the sites hit by Israeli airstrikes in June 2025 and joint Israeli and US attacks in early 2026.\nThe agency has seen no sign of work to repair or rebuild them, Mr. Grossi said, but satellite monitoring is no substitute for access on the ground.\nThe one exception is the Bushehr nuclear power plant, where inspectors are currently at work.\nIran’s atomic energy agency has cooperated in delivering the safeguards equipment needed to verify spent fuel there before it is moved to dry storage, expected early next year, Mr. Grossi said.\nRafael Grossi, head of IAEA, briefs the Security Council meeting on nuclear non-proliferation and Iran.\nNormal inspections have not resumed, and Iran has not provided the information and access needed to verify previously declared nuclear material at its safeguarded facilities – both those hit in the attacks and those that were not – the IAEA chief said.\nOf particular concern is Iran’s declared stock of 440kg of highly enriched uranium. The agency is also seeking access to the Isfahan Fuel Enrichment Plant, which Iran declared just before the June 2025 strikes.\n“Only diplomacy, underpinned by IAEA verification, can prevent nuclear proliferation in the long term,” Mr. Grossi said.\nKenyan authorities are at the fore of an emergency response plan to host more than 36,600 Ethiopian refugees who have fled escalating insecurity in the south, the UN Children’s Fund ( UNICEF ) said on Tuesday.\nRecent fighting has triggered waves of displacement following a decades-long battle between forces from southern Ethiopia’s Somali and Oromia regions over boundary demarcations and resources.\nThousands of displaced Ethiopians are living with host communities.\nUN agencies have joined the Government-led response – assessing needs and providing emergency supplies and technical support – including the World Food Programme ( WFP ) and UN migration agency, IOM , together with UNHCR.\nOn Tuesday, UNICEF in Kenya said therapeutic nutrition supplies had been delivered to a local hospital and the agency is supporting malnutrition screening, infant and young child feeding, safe water and hygiene services.\nUNICEF has also provided four 10,000-litre water tanks and hygiene kits for about 1,000 households, alongside additional nutrition and sanitation technical support.\n♦ Receive daily updates directly in your inbox - Subscribe here to a topic.\n♦ Download the UN News app for your iOS or Android devices.",
-      "published": "2026-10-27T17:32:29+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.7,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
-      "summary": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-26T21:31:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.7,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW5sN01FekVUMFR0MzhHS3psel8xR2NjbXQ2elFOSGdjVEl1WFhseU5tX1RvWDQ2SC1XamtIVnA5YThoN25seEdPV1hRb2pMUE5vMURNQ1hLVzBuRDZBNXNVSWpCbXYySkJFRVVGb09OTmRPMVY3U2ZmOWZpcGxYLWNHLWhxbllsenNIaThPeEg?oc=5",
-      "summary": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-26T22:01:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
       "summary": "Nvidia, Meta deepen AI ties with $3 billion investment deal&nbsp;&nbsp;Reuters",
@@ -1138,29 +1044,6 @@
       "assets": [
         "科技股",
         "半导体"
-      ]
-    },
-    {
-      "title": "Alliance Resource Partners Hits Record Oil, Gas Royalty Revenue After Acquisition - Hart Energy",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmR3RmlFSF9wUGVJSWJ4MWlLNHVXYXdBUTlJT0dUd2NJc0VqbkpYMU41azB0eEZFS2dFcjBlYS1paHBxT3BHT0ZfaUwxcG53d2FuNnRha1o3UF9wLVhTQmlCQmNTOHBJNzI3LWo3WS1tNDE5NjRZSVFiX29hcjQwcG82Q3dKZWx1RGpOZHd4VXlmUndOaFFKNEtPSUs0d21LMFdaXw?oc=5",
-      "summary": "Alliance Resource Partners Hits Record Oil, Gas Royalty Revenue After Acquisition&nbsp;&nbsp;Hart Energy",
-      "content": "",
-      "published": "2026-10-27T19:22:00+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
       ]
     },
     {
@@ -1185,72 +1068,6 @@
         "科技股",
         "半导体"
       ]
-    },
-    {
-      "title": "AMD stock rallies on expanded Meta AI infrastructure deal and broader chip rally - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQjE5djl3VWlqeWNCR21GeGdsS3J0dGhEWjRGUUVsUFZ6a2FuNnFPZ0FWSEJOSF9odGVnbFp1eHNBaDRKd1diMklfdF9hSVZkc1EtWDJYV1AwZjNvamZHNEprOWRvVzZ4Mm5pWmU4OVVwT2Iza2JFZjhwUWhIOHRkaUFvZElCdEF6aV9HTk5keDQ5S3U4RFJzWXRHeUxaaGwyT3dIQXNXZ2RrQ3NHbTdVcklWdDQtRzd6RkwzVzY3dnNMa0prQkFQUDI3b0tuTjNFdjdz?oc=5",
-      "summary": "AMD stock rallies on expanded Meta AI infrastructure deal and broader chip rally&nbsp;&nbsp;Investing.com",
-      "content": "",
-      "published": "2026-10-27T16:17:05+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Nvidia Stock Leads Search For AI Infrastructure Shares Tied To Meta - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa09FWE9iVVhIcERQblM3b2VNX1ItM3NKSUVoRHZGNjBLLTR2anFXTEpUZm5JWWw1dmxEaVhlOXQ2RV9jSHFXM2stUXJyMzgyS2NESDlqaHRWUk5ZT0ZCUzhOc00wdzR4Nk9CNnZjbVhKcjJobnNHTTZ0N2pzSXhtNngzbEhGTVI0MnFvMlNfdXYycFhaVmRn?oc=5",
-      "summary": "Nvidia Stock Leads Search For AI Infrastructure Shares Tied To Meta&nbsp;&nbsp;Yahoo Finance",
-      "content": "Nvidia Stock Leads Search For AI Infrastructure Shares Tied To Meta\nAI is no longer just a tech story; it is now a capital story, with Nvidia committing US$3b to Meta's huge equity raise and other chip suppliers lining up to buy Meta shares. When hardware makers and mega-cap platforms write big cheques into the same theme, investors pay attention or risk watching the next phase of AI play out from the sidelines. This article unpacks how that news ties into 3 stocks exposed to Meta's AI push.\nThe stocks covered below are just a sample of the idea, and the broader screen surfaced 13 more semiconductor and data-center hardware companies with equally compelling Meta-adjacent AI stories that are not included in this article.\nIf you want to identify and analyze the highest-conviction chip and infrastructure partners tied into mega-cap platforms, head straight into the Strategic AI Chip and Infrastructure Partners to Mega-Cap Platforms screener .\nOverview: Cohu supplies semiconductor test, inspection, automation and analytics tools that help qualify AI chips, GPUs and accelerators used in mega-cap data centers.\nOperations: Cohu generates about US$522.6 million from semiconductor test and inspection, with meaningful sales spread across China, Taiwan, Malaysia, the Philippines and other regions.\nCohu matters for this AI chip and infrastructure screen because its test and inspection gear sits right where new AI processors meet real-world reliability demands.\n\"Cohu is capitalizing on the surge in high-performance computing and the complexity of modern semiconductors (AI infrastructure, GPUs, HBM, and display drivers) by rolling out advanced, configurable handler platforms and test solutions. This is positioning the company for market share gains and higher equipment sales, directly impacting top-line revenue.\"\nWhat happens to future margins and cash generation depends heavily on how one unseen pressure in this AI test cycle ultimately resolves.\nThat pressure point is exactly what the full narrative for Cohu unpacks. It reveals how Cohu's testing cycle, pricing power and AI exposure could be quietly decoupling from peers.\nNasdaqGS:COHU Earnings & Revenue Growth as at Oct 2026 AXT (AXTI)\nOverview: AXT makes compound semiconductor substrates like indium phosphide that support high-speed data center links, AI connectivity and advanced photonics.\nOperations: AXT generates about US$125.5 million from semiconductor equipment and services, with most sales tied to substrates used in high-performance electronics.\nAXT fits this Meta-focused AI infrastructure theme as a materials specialist supplying the optical links that move data between powerful chips.\n\"Accelerating global demand for high-speed data center connectivity and AI infrastructure is associated with increased adoption of indium phosphide substrates, where AXT is described as a top supplier with 40% share; as export permit headwinds change, this pent-up demand could affect revenue and utilization of manufacturing capacity.\"\nFor investors, what happens to pricing discipline in this tight substrate niche could be important for future margins and cash generation.\nThat pricing power question is exactly where the full narrative for AXT picks up, laying out how AXT's substrate position could amplify or cap this AI demand surge.\nNasdaqGS:AXTI Earnings & Revenue Growth as at Oct 2026 Synopsys (SNPS)\nOverview: Synopsys supplies software and design IP that chipmakers use to create, verify and refine complex AI accelerators and advanced semiconductors.\nOperations: Synopsys generates about US$7.7b from Design Automation and US$1.7b from Design IP, with roughly US$4.1b coming from the United States.\nSynopsys matters in this AI chip and infrastructure screen because its tools shape the advanced processors that Meta, Nvidia and other giants rely on long before any server is built or a data center is upgraded.\n\"The acquisition and integration of Ansys positions Synopsys as the global leader in engineering solutions from silicon to systems, and new data showing Q3 FY26 Ansys revenue of about US$711 million and an expected FY26 contribution of about US$2.98 billion supports the view that this expanded portfolio can continue to influence top line growth and operating earnings as cross sell opportunities scale.\"\nWhat happens when AI driven design tools shift customer contracts toward deeper, longer relationships is likely to matter a great deal for future margins.\nThat shift in customer depth is exactly what the full narrative for Synopsys unpacks, including how Synopsys could turn AI workloads into durable, high-value design relationships.\nNasdaqGS:SNPS Earnings & Revenue Growth as at Oct 2026 Seeking Alternatives Before The Crowd\nFresh themes can move quickly as money chases the next breakout story. Screen what others miss while it still matters and before momentum flies past. Act now.\nSpot under-the-radar compounders early and filter for quality using the 29 high quality undervalued stocks , before buyers crowd in and shrink the gap between fundamentals and sentiment.\nRide the next wave of electrification and infrastructure demand by scanning the curated 16 top copper producer stocks that could benefit if capital keeps flowing into hard assets.\nTarget durable income streams and potential price support with the hand-picked 5 dividend fortresses that focus on balance sheet strength while yields stay compelling.\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com",
-      "published": "2026-10-27T13:15:14+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Coastal flood warning and wind advisory issued as strong winds and king tides hit - WPBF",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWdNMnBnT19GTmZYeE5UMF9QTEdXa1QtRWF1WlpVTGd0eVBlLWZ5SFJPOVhTRjc4X0JJUVVWX3Z0STZfSlNTUWFGV2NGLUVNNFl2elB4ZWhVZnpxTzBRU29kYVZ3ZVg2aGVMWmRNanFiTUxOSnR6VVp4WGNxTElQTnBsOTU3MlRF?oc=5",
-      "summary": "Coastal flood warning and wind advisory issued as strong winds and king tides hit&nbsp;&nbsp;WPBF<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEpPTHZOaVp1dV93SGtEU2hUaVZReW9EUk",
-      "content": "Coastal flood warning and wind advisory issued as strong winds and king tides hit\nCoastal flood warning and wind advisory issued as strong winds and king tides hit\nCoastal areas are facing impact weather today, with a coastal flood warning, wind advisory, and high surf advisory in effect due to strong winds and gusts ranging from 30 to 40 mph, along with fast-moving storms.\nKing tides flood Jupiter Island as Amendment 3 raises funding concerns\nKing tide flooding is expected from 9 a.m. to noon, accompanied by scattered rain and storms throughout the day.\nTomorrow, gusty winds of 35 mph or more are forecast to continue, along with king tides and isolated rain and storms covering 30% of the area.\nKing tides, gusty winds, and fast heavy rain in South Florida\nThe next few days will bring scattered to isolated rain and storms, variably cloudy skies, and unsettled weather.\nWeather delays Margaritaville at Sea Paradise&#x27;s return to Port of Palm Beach\nJuno Beach Pier closed indefinitely due to damage caused by high surf and strong winds\nThe Juno Beach Pier is closed indefinitely after high surf and strong winds caused damage to its deck panels. Video footage shows high surf in the Atlantic Ocean pounding the pier, a result of king tides and strong winds over the past several days.\nThe surf caused multiple deck panels to pop out in several locations along the pier.\nWhile the exact number of damaged panels is unclear, the video suggests more than a dozen panels have been affected.\nThe pier will remain closed for the foreseeable future due to the extent of the damage.\nThe Town of Ocean Ridge is warning residents to exercise caution as tidal flooding impacts the area.\n\"Use caution when traveling. Avoid driving through flooded roadways whenever possible. Remember, this is saltwater flooding, which can cause corrosion and damage to your vehicle,\" the town said.\nOfficials also advised residents to be mindful of floodwater depth. \"Never underestimate the depth of floodwater. If you encounter flooding, consider an alternate route and allow extra time to reach your destination,\" the town said.\nThe town encouraged the community to remain vigilant. \"Please stay alert, travel safely, and help us keep our community safe!\" the town said.\nBoynton Beach provides sandbags as king tides flooding threatens homes\nThe city of Boynton Beach is offering free sandbags to residents as king tides threaten to cause flooding in the area, with a coastal flood warning set to take effect at midnight.\nSince Sunday afternoon, city officials have made sandbags available for self-service pickup at the south parking lot of Harvey E. Oyer Jr. Park at 2010 North Federal Highway.\nKing tides occur when the gravitational pull of the moon and sun combine to create high tides, often flooding streets. While common in Palm Beach County, the flooding can surprise newcomers to the area.\nResidents are urged to avoid driving or walking through standing water and to use alternate routes around flooded roadways.\nKing tide flooding on Flagler Drive in West Palm Beach\nKing tide flooding on Flagler Drive in West Palm Beach\nWPBF 25 First Warning Weather 2026 Hurricane Ready Guide\nDownload the WPBF 25 News app for the most up-to-date weather alerts.\nUtah authorities connect serial killer Ted Bundy to another 1970s homicide\n&#x27;I&#x27;m with the right guy&#x27;: Man spends months panning for gold to craft engagement ring\nVIDEO: Great white shark lunges at woman reaching to touch it\nNoah Wyle named People Magazine&#x27;s sexiest man alive",
-      "published": "2026-10-27T13:01:00+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     },
     {
       "title": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
@@ -1297,6 +1114,50 @@
       ]
     },
     {
+      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXctSXZneUdSOFNkQzc5bC1BWHgyUmJNS25RYldwUzJpeGwwUjVHTFhGSlZmS2Ytd3oxTEdHbFdrVlRPaG56eGZ1X0FVTmgwYUUwUDlmTlljVEx6V2prWHhyTWdZUXJJWG5oWWtXOUFuckhPZGRZR3p0eWxhRXZFVmhPeFdxVHNMOEJwWThoX2xtZXNwb1pYclVUd0hjVUU2QUNmQWtadndfZnNRNG9Td2FVM0xJeGZHRTFVZkoyQzVDVEFjWGc?oc=5",
+      "summary": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap&nbsp;&nbsp;Investor's Business Daily</fo",
+      "content": "Dow Jones futures were little changed after hours, along with S&P 500 futures and Nasdaq futures. Cheesecake Factory, Visa, F5 Networks, Seagate Technology and SK Hynix are on tap. The Federal Reserve meeting will end Wednesday afternoon, with Google and Microsoft looming Wednesday night. The stock market rose Tuesday with growth stocks leading. The S&P 500 and Russell 2000 regained&hellip;\nCopyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8\nTechs, Small Caps Lead The Charge As Stock Market Rallies Ahead Of Fed, Big Earnings\nThe stock market rally continued on Wall Street Tuesday as investors awaited Wednesday's Fed decision and a barrage of more...\nThe stock market rally continued on Wall Street Tuesday as...\nGrowth Leads Before Fed, Huge Earnings; Tesla, Nucor, Tenet Healthcare In Focus\nSpaceX Boosted By Starlink Mobile Buildout; Verizon Dismisses Competition\nStock Market Today: Dow Up Ahead Of Fed Decision; Nasdaq Jumps, Broadcom Pops On This (Live Coverage)\nMicrosoft Leads 11 Onto Best Stock Lists Like The Big Cap 20, Other Premium Watchlists\nDow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck\nNucor Shakes Off Q3 Miss As Steel Prices Hit 4-Year High\nElon Musk Braces For Possible Postelection Investigations\nTesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
+      "published": "2026-10-27T21:22:14+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "content": "Image caption, Marry Mubaiwa in an image from 2018 when she was still married to Constantino Chiwenga\nThe former wife of Zimbabwe&#x27;s vice-president has been freed from remand after seven years while on trial for his attempted murder.\nMarry Mubaiwa was charged in 2019, after her then husband Gen Constantino Chiwenga accused her of trying to impede his medical treatment in South Africa.\nOrdering her release, a magistrate said Mubaiwa had suffered mental, physical and financial prejudice during the trial, state-owned daily the Herald said.\nThe ruling was made after the state asked for the trial to be postponed by a month in order to engage witnesses.\nHer lawyer described the ruling as a victory that had come too late, because her client&#x27;s rights had been violated by the delay in the trial.\nSpeaking outside court in the capital Harare on Tuesday, the lawyer added that if the state moved for a new trial, they would deal with it when it happened.\nMubaiwa was accused of attempting to kill Chiwenga, while he was in hospital in Pretoria. The vice-president then went to China for four months of treatment.\nAccording to the New Zimbabwe news website, Mubaiwa celebrated her release outside court, and said justice had been achieved and that she was proud of her lawyer.\nIn 2017, Chiwenga played a key role in overthrowing then President Robert Mugabe.\nVice-president&#x27;s wife on attempted murder charge",
+      "published": "2026-10-27T21:09:12+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.5,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
       "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
       "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leadersMeanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid threats and “state-sponsored terrorism” from Russia.Streeting repeated his recent warnings that “we have to be ready for a scenario in which the Uni",
@@ -1317,11 +1178,135 @@
       "assets": []
     },
     {
+      "title": "Brazil's markets recover some ground after selloff; minister vows fiscal discipline - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXExT19UeVJNZFFadkVlQ3A1WXBnSnFqR1RfVEF4N3VqcmNUdUMtMF9SRS1DWUlFSEFDZnBJNzVMNUltbmVaQVg1NkJWWWJvTDdSVW1JZzhybGJiX0xGbklmSTZnUTFESmNoRXc1VGJELXRYNi1tc092eE4xYlA3QXF5VmRmdWNzdU9ROWs2dU1ZNjcycnR0LTNvNzZ4TzIwOTUyWC1BYnZVMTFDdC1wUFpRd0xPYVc2ODM3UHVR?oc=5",
+      "summary": "Brazil's markets recover some ground after selloff; minister vows fiscal discipline&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T15:16:54+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Indian court orders takedown of documentary on Adani, Modi - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXhzaUVOakxHWU5rUVV0TGR3bXZNZ0VnazRJTnM3dVNoVXB4ZzM2dUJLekprWkJTckZtS2lSS3FyUmJPYkZtR19GWWFYWlFodnFUQ0hwQTNJZ2dSd1B2OWY4WnN0SUIwZC11c053VExrajZWRktnU0dRYUIzaUdsdmVsM1hwNk83WGVTbjRjQS1SX1BVcDBGWFY4Y3JFdUZQ?oc=5",
       "summary": "Indian court orders takedown of documentary on Adani, Modi&nbsp;&nbsp;Reuters",
       "content": "",
       "published": "2026-10-27T09:57:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "asia",
+      "category_zh": "亚洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "China to send envoy to Middle East in near future amid conflict spillover - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmZiSXVsLUdKMnk3anBIc0VMUmpabGtQZlh0YW0tWm9FNkJFT0dWNi1GWkFPMU1JUk5lTkZXWnBMR2hoYUE0dE1HNVF5MU9kRkJYUlNhWVdKX0pRbTk5ejU5ZXlpRVlwVEJqbFFXMldPb0lKelR1NHNVSTJac2pPdHd0amR6QTNBa250elZFRTgyRlRJb042d09mZnNabDBnNnN1ZkRMZGhkV0ZyMGFXVXhn?oc=5",
+      "summary": "China to send envoy to Middle East in near future amid conflict spillover&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T08:42:20+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Britain issues costliest 5-year debt since 2008 before budget - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1OUWtCMm9pOWNzYWNEdXRNODl2WE9rTWE5ZlRwM003ci1yLWhTRkhNZzFtU0Z0Y1REdDd2bURaX1dVYlEwN0x3T2pvLXNRS2lFRTVYR0NtVlA4bklNVnhPckl6Z09tNkxBY0Q2dXhNcDE5RWZUd1lUZnE4Qm9BeE04cE5oMkY1ejNDU29BekppNDdzcVppa2NrejhQVTIxSUdUUkRRUHh6dw?oc=5",
+      "summary": "Britain issues costliest 5-year debt since 2008 before budget&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T11:07:45+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Several injured in car ramming in northern Germany, suspects at large - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGNpSXFlWUtPc3poUC1jaFpLTk1MOXlLTE9OSnNIT1BrS3BtX2Racy1rUGd0a21UcUJYcmoybGVQWWZZb2pVTmRhV2QxNndBNi1IeDg4OHhsMTFwTVFTbWozS0h2VmxsMG4wTTdmcFp2TUdVZEM5a0NFMklHeWN6TkN0QUVHVU54S2IwZWxxSU8zQVZGZFVqNVZLMWh5endBVFV3?oc=5",
+      "summary": "Several injured in car ramming in northern Germany, suspects at large&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T06:50:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Two men charged in UK over RAF Fairford incident allegedly linked to Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQTFPZl9fajZtLVJ5V3dXM00xVHAtT2p6VUF5X1loNWtHZ2hSZl9CY1ZtdW01SHgxalNGbXpRVTdkZ09LanNSdVBhZ2YtRzJabk1JdFdEU25pWVMyRU40UmhnZ1UwcXpmMG4yVGJzZ1Y5QWlZYVViWVpvMVJUdGlvU0tUYnRuZUhhRHFzNkpsLURLd0w0dXBocjktUXo0Y1IxOWNMOHdGT29kcFBra2NrT2UySTNNbHNXZGFF?oc=5",
+      "summary": "Two men charged in UK over RAF Fairford incident allegedly linked to Iran&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T16:34:46+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZ6a0RNdDZHNVJ5M2xGeG5TR0x3VHNpSXBmaW95aTdjVS1nZDJRenJaNlZCUWltMUpzRnMwdlF4YTdPY0haaFJlSTI4bjNVRWdIR2ZWR19rWDQweElGYl94T1MyX3g4R3doWmxVYjRJX2JObDRWMVRqdFdNMzdKWl9pS1RRTEZISGhMY29FaF9FSVg1QVBKazlPRU1QWGtZcjBVV19uZ3NPVGZwel9mMGV1dzU?oc=5",
+      "summary": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T06:15:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
