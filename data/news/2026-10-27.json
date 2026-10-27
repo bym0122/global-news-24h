@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T00:29:02.577771+00:00",
+  "generated_at": "2026-10-27T02:25:44.323727+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-26T00:28:35.760479+00:00",
-  "window_end": "2026-10-27T00:33:35.760479+00:00",
+  "window_start": "2026-10-26T02:25:14.232385+00:00",
+  "window_end": "2026-10-27T02:30:14.232385+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -26,34 +26,6 @@
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-      "summary": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-26T05:56:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Fed"
-      ],
-      "source_count": 2,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 4,
-      "score": 16.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 / 黄金 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "黄金",
-        "美债",
-        "美元",
-        "美股"
-      ]
     },
     {
       "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran - Reuters",
@@ -80,7 +52,7 @@
       "title": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOTZzeXN1UWxGdFJjNkRGV21XbXRqMVdtRndwc1RJU1BvdWNDNXZqX2hld3VRUWVQR1Q4bDlqSE5NMTFKbFRGdktWZFk0Y2lUaFdMM0tfbmM1TkUxU2tZaDVsU09VQU0xSldRRGlNbXhsOThJb1gzbG9sSk9EQzZkMzd0T2Y5bkMtR2FKdDJwVk42Skx5QjFVUVZGUWtpSGJ2dnhrcTd0ZFg2OTlsUzNfcTVqWVY2a0RpZmlQcS1rQdIBxAFBVV95cUxPSTN4c3FMZU53Q3NiVFZSLTl0clJfczJ4SWhRXzZmTlVMSzQ4S1Y5Y3pqUUs3dHVpYUcxSUtsNnpTNVlvWU9DTzFjdEYxSkg5ZmV5dEMzemVDYzFpdHFWSlByRVU2aFNIS0poemltLWZ4VWd0OVZBb1hYNWIzajQ2LUFTT1d6LUs2emhDeUgxdjlwWVE2Q2VNaWtSYnJ2REFoMVJsaU40VVFjVnpxenF2ZG9YZmVtLVNlTFE1SEpNTW5ndmE4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOTZzeXN1UWxGdFJjNkRGV21XbXRqMVdtRndwc1RJU1BvdWNDNXZqX2hld3VRUWVQR1Q4bDlqSE5NMTFKbFRGdktWZFk0Y2lUaFdMM0tfbmM1TkUxU2tZaDVsU09VQU0xSldRRGlNbXhsOThJb1gzbG9sSk9EQzZkMzd0T2Y5bkMtR2FKdDJwVk42Skx5QjFVUVZGUWtpSGJ2dnhrcTd0ZFg2OTlsUzNfcTVqWVY2a0RpZmlQcS1rQdIBxAFBVV95cUxPSTN4c3FMZU53Q3NiVFZSLTl0clJfczJ4SWhRXzZmTlVMSzQ4S1Y5Y3pqUUs3dHVpYUcxSUtsNnpTNVlvWU9DTzFjdEYxSkg5ZmV5dEMzemVDYzFpdHFWSlByRVU2aFNIS0poemltLWZ4VWd0OVZBb1hYNWIzajQ2LUFTT1d6LUs2emhDeU",
-      "content": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz | OilPrice.com\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nEQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover\nRussian Refiners Ramp Up Diesel Output to Supply Trump Deal\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nMiddle East Physical Crude Slides While Brent Hits Five-Month High\nOil India Strikes Natural Gas in Shallow Offshore Basin\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nRenewables Boom Pushes Australia’s Gas Power to Quarter-Century Low\nEuropean Natural Gas Prices Surge to Highest Level Since 2022\nEni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts\nUK Rules Out Winter Energy Shortages as Gas Prices Soar\nJapan Weighs Gasoline Subsidy Cuts as Energy Costs Soar\nBrent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure\nAsia Needs $1 Trillion a Year to Secure Energy Supplies\nNorway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter\nOfgem Approves Deal to Keep UK Gas Import Capacity From Europe\nEuropean Natural Gas Prices Rise on Middle East Escalation\nGrid Constraints Curtailed 119 GW of Renewables in India in September\nIndia's Middle East Oil Imports Jumped 32% in September\nIran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge\nIndia Ramps Up Coal Supplies to Record High as Power Crisis Looms\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\nOil Prices Surge Above $111 as Houthis Strike Saudi Targets\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nIndia’s Top State Refiner to Reduce Middle East Term Oil Purchases\nHigher Oil Availability Pressures Middle East Crude Benchmarks\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nUK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nU.S. forces have helped Persian Gulf producers move more than 1.5 billion barrels out of the Strait of Hormuz since the Iran war began, Adm. Brad Cooper, the commander of U.S. Central Command (CENTCOM), said during a visit to the Strait of Hormuz on Sunday.\nMore than 3,000 commercial vessels have successfully transited the Strait of Hormuz with support from CENTCOM forces over the last six months, the U.S. military said.\n\"We continue to stand shoulder to shoulder with our Gulf partners and the shipping industry,\" said Cooper.\n\"This visit underscores our strong commitment to continued freedom of navigation through the Strait of Hormuz.\"\nAmerican forces have successfully cleared the Strait of Hormuz's international shipping lanes of sea mines laid by Iran's Islamic Revolutionary Guard Corps (IRGC), according to the U.S. Central Command.\nThe U.S. military said that the 95% success rate of ships navigating the Strait of Hormuz without incident in recent months is \"clearly demonstrating that the United States and regional partners control the international waterway.\"\nOil flows out of the Strait of Hormuz, and the whole Middle East has recovered in the past two months, according to various tanker-tracking services. Some estimates put the flows at the Strait of Hormuz at already exceeding pre-war levels, excluding Iranian exports.\nHowever, threats to shipping in the area have not subsided . On the contrary, the escalating Saudi-Houthi tensions could disrupt the recovering flows, while Iran has claimed dozens of hits on tankers in the Persian Gulf and in the Strait of Hormuz.\nAt any rate, the market continues to price in a prolonged disruption and continued inefficient oil shipments, which have hiked shipping costs to record highs, further raising the cost of crude oil for buyers and ultimately, for the end consumers.\nOil prices fell in Asian trade on Monday, but Brent Crude remained above $115 per barrel, and WTI was still above the $100 mark, as hostilities between Yemen's Houthis and Saudi Arabia, as well as Iranian attacks on tankers in the Persian Gulf, continue.\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nOil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz | OilPrice.com\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nEQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover\nRussian Refiners Ramp Up Diesel Output to Supply Trump Deal\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nMiddle East Physical Crude Slides While Brent Hits Five-Month High\nOil India Strikes Natural Gas in Shallow Offshore Basin\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nRenewables Boom Pushes Australia’s Gas Power to Quarter-Century Low\nEuropean Natural Gas Prices Surge to Highest Level Since 2022\nEni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts\nUK Rules Out Winter Energy Shortages as Gas Prices Soar\nJapan Weighs Gasoline Subsidy Cuts as Energy Costs Soar\nBrent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure\nAsia Needs $1 Trillion a Year to Secure Energy Supplies\nNorway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter\nOfgem Approves Deal to Keep UK Gas Import Capacity From Europe\nEuropean Natural Gas Prices Rise on Middle East Escalation\nGrid Constraints Curtailed 119 GW of Renewables in India in September\nIndia's Middle East Oil Imports Jumped 32% in September\nIran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge\nIndia Ramps Up Coal Supplies to Record High as Power Crisis Looms\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\nOil Prices Surge Above $111 as Houthis Strike Saudi Targets\nSaudi Crude Exports Hit Five-Month High as Production Falls to Record Low\nIndia’s Top State Refiner to Reduce Middle East Term Oil Purchases\nHigher Oil Availability Pressures Middle East Crude Benchmarks\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nIran's Hardliners Push for Nuclear Weapons as U.S. War Drags On\nWhy Trump and Carney Haven’t Touched Energy in Their Tariff War\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nU.S. forces have helped Persian Gulf producers move more than 1.5 billion barrels out of the Strait of Hormuz since the Iran war began, Adm. Brad Cooper, the commander of U.S. Central Command (CENTCOM), said during a visit to the Strait of Hormuz on Sunday.\nMore than 3,000 commercial vessels have successfully transited the Strait of Hormuz with support from CENTCOM forces over the last six months, the U.S. military said.\n\"We continue to stand shoulder to shoulder with our Gulf partners and the shipping industry,\" said Cooper.\n\"This visit underscores our strong commitment to continued freedom of navigation through the Strait of Hormuz.\"\nAmerican forces have successfully cleared the Strait of Hormuz's international shipping lanes of sea mines laid by Iran's Islamic Revolutionary Guard Corps (IRGC), according to the U.S. Central Command.\nThe U.S. military said that the 95% success rate of ships navigating the Strait of Hormuz without incident in recent months is \"clearly demonstrating that the United States and regional partners control the international waterway.\"\nOil flows out of the Strait of Hormuz, and the whole Middle East has recovered in the past two months, according to various tanker-tracking services. Some estimates put the flows at the Strait of Hormuz at already exceeding pre-war levels, excluding Iranian exports.\nHowever, threats to shipping in the area have not subsided . On the contrary, the escalating Saudi-Houthi tensions could disrupt the recovering flows, while Iran has claimed dozens of hits on tankers in the Persian Gulf and in the Strait of Hormuz.\nAt any rate, the market continues to price in a prolonged disruption and continued inefficient oil shipments, which have hiked shipping costs to record highs, further raising the cost of crude oil for buyers and ultimately, for the end consumers.\nOil prices fell in Asian trade on Monday, but Brent Crude remained above $115 per barrel, and WTI was still above the $100 mark, as hostilities between Yemen's Houthis and Saudi Arabia, as well as Iranian attacks on tankers in the Persian Gulf, continue.\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nOil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-26T10:30:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -101,25 +73,31 @@
       ]
     },
     {
-      "title": "Ukrainian who fled Oleshky views US-brokered ceasefire with deep scepticism - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnZGd0pLWUhOSFdyNDlPRkNQVG9fV1N1RWh3amZjMGExZHE1dS0wVm11cVc3cUd6YVhRbXdMbm9ZWVNrZTVqMmt4aFFUbG03RTF5S1M0eTdUa3hSWEZhcFAxa2ZKRi1EcEZEQkw1azFHeWM4YTBucE1fZlVmSG1ZMUhXYXlYcXdLX3V1M2NwR1hkNzZ1SE1vOUJTMFF0bnRvX2ZwZkdQZWNiUU9qa2tURk5tZUhVQ01KNUN1NU1ZWXh3dw?oc=5",
-      "summary": "Ukrainian who fled Oleshky views US-brokered ceasefire with deep scepticism&nbsp;&nbsp;Reuters",
+      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+      "summary": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-26T13:52:23+00:00",
+      "published": "2026-10-26T05:56:00+00:00",
       "source": "Reuters World",
       "sources": [
-        "Reuters World",
-        "GN Geopolitics"
+        "Reuters World"
       ],
-      "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 3,
       "score": 15.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：原油 / 能源股 / 黄金 / 美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "黄金",
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
       "title": "As Trump brags about U.S. oil and gas company profits, his stocks gained millions during Iran war - CBS News",
@@ -170,35 +148,11 @@
       ]
     },
     {
-      "title": "A top economist says bond investors are doing the Fed's job, and more rate hikes aren't needed - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXZBeW5pNUI4M0xJQ1JiUXBTNlVEdnktQnR2YmZ2OGo0RVVYQWJrT3ZtQXdhWWgyWXVtQjZPd0l0YTg0QzVYX29TTjNmaS1wVDhNMDN1R2Z3Yjk0Yk1tUEZzbDZMbVM4SDI2UVV6S2ZhUzBLQ3Byb1J0dWN2dXYtZ3M4NnBxMnlZaGRoZlo4ODZHeTA?oc=5",
-      "summary": "A top economist says bond investors are doing the Fed's job, and more rate hikes aren't needed&nbsp;&nbsp;Business Insider",
-      "content": "",
-      "published": "2026-10-26T18:50:00+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 14.9,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5",
       "summary": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-26T22:26:58+00:00",
+      "published": "2026-10-26T23:25:44+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -215,33 +169,6 @@
       "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "content": "Image caption, Maurene Comey has worked on a number of high-profile legal cases\nThe US justice department illegally fired Maurene Comey, the daughter of former Federal Bureau of Investigation (FBI) director James Comey, a federal judge has ruled.\nComey, who lost her job as a federal prosecutor in New York in July 2025, sued the government, arguing she was unlawfully fired because of her father, a critic of US President Donald Trump, and because of her perceived political affiliations.\nJudge Jesse Furman ruled on Monday that the Trump administration must reinstate her and that she must be given back pay.\nA spokesperson for the justice department said in a statement that it disagreed with the decision and \"will appeal in due course\".\nIn his ruling, Judge Furman said Comey&#x27;s dismissal violated the US Constitution as well as her right to a fair legal process.\nHe said the US attorney general can fire federal prosecutors but only \"in a particular manner and only for certain reasons\".\nFurman noted that in Comey&#x27;s role, \"she was assigned some of the country&#x27;s highest profile cases and consistently received the highest accolades from supervisors and peers alike\".\nComey has worked on cases against the late sex offender Jeffrey Epstein, his accomplice Ghislaine Maxwell, and hip-hop mogul Sean \"Diddy\" Combs, who was convicted on prostitution-related charges involving his two ex-girlfriends last year.\nFurman ordered that Comey be given back pay from July until December 2025, when she accepted a new job.\nIn a statement, Comey&#x27;s lawyers said: \"This hard-earned victory belongs to Ms Comey, to all civil servants, and to all fighting for the rule of law.\"\nComey had previously said the only reason she was told about her firing was that it \"came from Washington\".\nA complaint filed by her lawyers in September 2025 stated that they believed Comey had been fired \"solely or substantially because her father is former FBI Director James B Comey, or because of her perceived political affiliation and beliefs, or both\".\nThe justice department said in court filings that the decision was made by former Attorney General Pam Bondi.\nThe Trump administration has twice brought charges against James Comey, including for allegedly lying to Congress, but that case was dismissed by a judge who said the prosecutor who brought the case was unlawfully appointed.\nEarlier this year, the justice department charged Comey with knowingly and wilfully making a threat to take the life of, and to inflict bodily harm, on the president. He has denied any wrongdoing.\nThe case stems from a 2025 Instagram post shared by Comey that contained a photo of seashells on a beach arranged to read \"86 47\".\n\"Eighty-six\" is a slang term for \"get rid of\", and prosecutors allege it encourages violence against Trump.\nComey surrenders over charge of threatening Trump&#x27;s life in Instagram post\nProsecutor in Diddy and Epstein cases fired by US justice department",
-      "published": "2026-10-26T19:27:21+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "GN Top",
-        "CNBC Top",
-        "Al Jazeera"
-      ],
-      "source_count": 4,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
     },
     {
       "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026 — claims up to 30% higher quality results and up to 5x token efficiency over a general-purpose AI model - Tom's Hardware",
@@ -270,33 +197,10 @@
       ]
     },
     {
-      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5",
-      "summary": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-26T01:54:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Top",
-        "Guardian World",
-        "Al Jazeera"
-      ],
-      "source_count": 4,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 3,
-      "score": 14.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Federal Reserve to announce its latest interest rate move this week. Here's what economists expect. - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjc3SWhXX3BBd29iUjJQRC1HZ1k2M1ZzU3RORWEySTQ4TGdaSjdaMjIwNTVUWFJpZW5OZmU4X2JPYlNSOWEzRW1BNHJVRTk3azhSRExhRTRlNG8tNzhsMHhIcUpIZGdScG5jWnNGR1A1VVdpWTVNcDhMYm5kZjFWSzJn?oc=5",
       "summary": "Federal Reserve to announce its latest interest rate move this week. Here's what economists expect.&nbsp;&nbsp;CBS News",
-      "content": "The Federal Reserve is scheduled to meet this week, when U.S. central bankers will decide whether to raise interest rates for the second time this year in a bid to subdue inflation.\nMost economists and Wall Street analysts expect the Fed to leave its benchmark rate unchanged at 3.75% to 4% when officials release the latest policy statement on Wednesday.\nConsumer prices have surged this year, with headline inflation across the U.S. rising at a 3.7% annual rate in September as energy costs jumped. Core inflation, which excludes volatile energy and gas categories, rose 2.6% from a year ago amid signs inflation could be seeping into the broader economy. The Fed targets annual inflation of 2%.\nGasoline prices, which have hovered above $4 a gallon for the last three months, accounted for more than half the September increase in consumer prices, according to the Labor Department.\n\"Although the latest hot inflation readings and rise in inflation expectations will concern Fed officials, they still appear broadly intent on tightening policy at a measured pace,\" Thomas Ryan, senior North America economist at investor advisory firm Capital Economics, said in a recent research note.\nIn September, the Fed raised the federal funds rate &mdash; what banks charge each other for overnight loans &mdash; by a quarter of a percentage point &mdash; its first hike in three years, thereby raising borrowing costs across the U.S. economy. The Fed is scheduled to announce its latest interest rate decision at 2 p.m. ET on Wednesday.\nThe meeting comes at a crucial time, as Americans head to the polls to cast their ballots in the midterm elections on Nov. 3. Many Americans have expressed frustration with the state of the economy as they contend with rising costs of gas, food, utilities and other expenses.\nMost economists and investors expect the Fed to raise rates one more time before year-end, likely at its last meeting of the year on Dec. 8-9.\nAccording to CME Group's Fed Watch tool, which uses 30-day Fed funds futures prices to predict rate decisions, traders see an 88% probability that the Fed will hold rates steady in October and a 71% probability the Fed will raise rates in December (no meeting scheduled for November).\nIn quarterly projections last month, the Fed signaled that its rate-setting committee expected to raise rates later this year. At the same time, some Fed policymakers have signaled that the central bank is in no rush to lift borrowing costs.\n\"With the policy action we took at our September meeting, there is no need for urgency, and we have time to gather more information,\" New York Fed President John Williams said in a speech at the University at Buffalo following the Fed's rate hike in September.\nFed Chairman Kevin Warsh will give a press conference after this week's rate decision. Until then, investors are unlikely to get any clues from Warsh, who has argued against sharing forward guidance on rate decisions.\nTrump says new fuel supply push will lower prices. Will it work?",
+      "content": "The Federal Reserve is scheduled to meet this week, when U.S. central bankers will decide whether to raise interest rates for the second time this year in a bid to subdue inflation.\nMost economists and Wall Street analysts expect the Fed to leave its benchmark rate unchanged at 3.75% to 4% when officials release the latest policy statement on Wednesday.\nConsumer prices have surged this year, with headline inflation across the U.S. rising at a 3.7% annual rate in September as energy costs jumped. Core inflation, which excludes volatile energy and gas categories, rose 2.6% from a year ago amid signs inflation could be seeping into the broader economy. The Fed targets annual inflation of 2%.\nGasoline prices, which have hovered above $4 a gallon for the last three months, accounted for more than half the September increase in consumer prices, according to the Labor Department.\n\"Although the latest hot inflation readings and rise in inflation expectations will concern Fed officials, they still appear broadly intent on tightening policy at a measured pace,\" Thomas Ryan, senior North America economist at investor advisory firm Capital Economics, said in a recent research note.\nIn September, the Fed raised the federal funds rate &mdash; what banks charge each other for overnight loans &mdash; by a quarter of a percentage point &mdash; its first hike in three years, thereby raising borrowing costs across the U.S. economy. The Fed is scheduled to announce its latest interest rate decision at 2 p.m. ET on Wednesday.\nThe meeting comes at a crucial time, as Americans head to the polls to cast their ballots in the midterm elections on Nov. 3. Many Americans have expressed frustration with the state of the economy as they contend with rising costs of gas, food, utilities and other expenses.\nMost economists and investors expect the Fed to raise rates one more time before year-end, likely at its last meeting of the year on Dec. 8-9.\nAccording to CME Group's Fed Watch tool, which uses 30-day Fed funds futures prices to predict rate decisions, traders see an 88% probability that the Fed will hold rates steady in October and a 71% probability the Fed will raise rates in December (no meeting scheduled for November).\nIn quarterly projections last month, the Fed signaled that its rate-setting committee expected to raise rates later this year. At the same time, some Fed policymakers have signaled that the central bank is in no rush to lift borrowing costs.\n\"With the policy action we took at our September meeting, there is no need for urgency, and we have time to gather more information,\" New York Fed President John Williams said in a speech at the University at Buffalo following the Fed's rate hike in September.\nFed Chairman Kevin Warsh will give a press conference after this week's rate decision. Until then, investors are unlikely to get any clues from Warsh, who has argued against sharing forward guidance on rate decisions.\nCBS News poll finds Democrats still boosted by voters' economic concerns, but many don't think either party has a plan",
       "published": "2026-10-26T20:10:30+00:00",
       "source": "GN Fed",
       "sources": [
@@ -316,6 +220,26 @@
         "美元",
         "美股"
       ]
+    },
+    {
+      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ?oc=5",
+      "summary": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky&nbsp;&nbsp;The Guardian",
+      "content": "Emergency workers clear debris and damaged road infrastructure near a destroyed car after a Russian overnight strike in Kyiv, Ukraine. Photograph: Dan Bashakov/AP\nEmergency workers clear debris and damaged road infrastructure near a destroyed car after a Russian overnight strike in Kyiv, Ukraine. Photograph: Dan Bashakov/AP\nUkraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky\nZelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis. What we know on day 1,707\nRussian strikes on Kyiv killed one person and wounded eight , with mayor Vitali Klitschko saying medical facilities and an intensive care unit had been damaged in the late Monday attack. President Volodymyr Zelenskyy said a ballistic missile attack had struck the grounds of a university campus in the Ukrainian capital. “The missiles hit very crowded areas, and there is not a single military facility nearby. This was a strike directly on the city, on its infrastructure,” he said on social media.\nThe strikes on Kyiv came hours before a truce in the ravaged Russian-occupied city of Oleshky was due to start , after months of reports that residents faced dire food, water and medicine shortages . The truce, aimed at allowing humanitarian aid into Oleshky, was to begin at 3am local time (0100 GMT). No end date for the truce has been provided. The city in Ukraine’s southern Kherson region has been caught in the crosshairs of fighting between the two sides since 2022, when it was seized by Russian forces. Neither Russia, Ukraine nor the US has said who would monitor the truce, or given details about the humanitarian operation set to accompany it. The Russian defence ministry said on Friday it would halt fire in the “Kherson sector” for the duration of the ceasefire. Ukraine has accused Russia of blocking residents from leaving, a charge Moscow has denied.\nBefore the latest strikes on Kyiv, Zelenskyy highlighted ​Ukraine was still waiting for US defence secretary Pete Hegseth to sign off on critical missile supplies . “We have been waiting for nearly a month for Mr Hegseth to sign off on missiles for Patriots and NASAMS. I instructed our team to raise this with the ⁠American side once again,” he said on X.\nRomania said on Monday that a network “coordinated” from Russia was involved in starting a fire near an arms factory . The fire broke out on 14 September near an arms factory in the central city of Brasov and two Belarusians and a Ukrainian – residents in EU countries – were involved, authorities said. Two of them were “tracked down and remanded in custody in Germany while they were preparing to commit similar offences”, the office for organised crime said. The third is at large in Poland, it added. Russia’s embassy in Bucharest could not immediately be reached for comment but Moscow has repeatedly denied such accusations.\nThe attack in Brasov is the latest in a string of similar incidents in Europe , with Nato and the EU grappling with what they say is a “hybrid” campaign of sabotage and interference by the Kremlin aimed at undercutting Western support for Kyiv. Over the past three weeks, at ​least eight cargo ​ships have been hit off the coast of Nato members Romania and Bulgaria. Some 34 sailors are reported dead or missing.\nUkraine’s military has begun using specialised aerial rescue drones to evacuate wounded soldiers from the battlefield , carrying two stranded troops to safety near the Russian border in the first such operations. The newly developed StarGate drone, a six-rotor aircraft fitted with an enclosed evacuation capsule, was used in two separate missions over the past week, the 475th Separate Assault Regiment, an elite unit, said on Monday. Developed by Ukrainian technology company SkyFall, the drone is intended to reduce rescue times from hours to minutes, reaching hard-to-access combat zones currently served by unmanned ground vehicles.",
+      "published": "2026-10-27T01:30:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Iran says it’s prepared to go back to war amid threat from the U.S. and Israel - NPR",
@@ -355,6 +279,26 @@
       "score": 14.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
+      "summary": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War&nbsp;&nbsp;The New York Times",
+      "content": "",
+      "published": "2026-10-26T14:30:53+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -399,26 +343,6 @@
       "assets": []
     },
     {
-      "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObU45ZW9lclhObFg1dUFjT2NOc01IYjR0RkNmejlWM3pKdWJrNE1qMlpIWE9sTUZ0LUppSXNfNC1PQUhWZjJRQkU5eWdFTWN2dXJ1UmRuTWVoaTZNSGRVcUxmeHRIRzN0cGxQdG5ZVHhqckJabk05NWp6eEFPSUhoMEpoY1NSOWhNQ2xYX0V4dHFGR1dZTDg5QUQzbkViTFloSVpNc1YzWU5zdk5ES0VjUXBKT0FBZVhIQ2wySmVia0haSllKOFNzbkVPdmF3aU12T1VkRzFIdFk2cTJ1c09tbzBCUW9lQ0U?oc=5",
-      "summary": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise&nbsp",
-      "content": "French and British Paratroopers jump from RAF A400 aircraft as part of military training exercise in Germany. Photograph: Andrew Grayson/BRITISH ARMY/AFP/Getty Images\nFrench and British Paratroopers jump from RAF A400 aircraft as part of military training exercise in Germany. Photograph: Andrew Grayson/BRITISH ARMY/AFP/Getty Images\nUkraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise\nCrimea strikes cause water and power cuts; war game designed to show how Nato countries could be defended amid fears of Russian aggression. What we know on day 1,705\nA Ukrainian attack led to water and power cuts in occupied Crimea on Saturday, as a barrage of drones in several regions inside Russia left several dead, according to Russian authorities. Sergei Aksyonov, the Moscow-installed head of the Crimean peninsula, wrote on Telegram that due to the drone attack on local power grids “restrictions on the supply of electricity and water have been put in place”. He did not specify how many households had been affected in Crimea, which is home to more than 2.5 million people. The peninsula, which was seized from Ukraine by Russia in 2014, is a regular target for Ukrainian attacks.\nA separate Ukrainian strike in part of the north-eastern Kharkiv region held by Russia killed at least three people and gravely wounded another on Saturday, the Moscow-backed authorities said.\nDrones also rained down inside Russia . The country’s defence ministry said 616 of them had been shot down overnight across more than 20 regions of the country. During the day, drones hit Russia’s south-western Bryansk border region, killing at least three people, regional acting governor Yegor Kovalchuc said on Telegram.\nIn Ukraine, authorities said that at least five people died in several Russian drone and missile strikes in the country’s east. Dnipropetrovsk regional governor Oleksandr Ganzha on Saturday evening said three people were killed and at least 12 wounded when a Russian drone strike hit the town of Synelnykove, setting the fourth floor of a high-rise building on fire. Authorities in Sumy meanwhile said a Russian drone hit a farm, killing a 31-year-old woman and injuring four others.\nThousands of British and French troops have taken part in a military training exercise that included one of Britain’s largest airborne operations in two decades, the UK government said on Sunday. The war game is designed to show how Nato countries could be defended against a modern-day attack and comes during fears about Russian aggression in Europe amid Moscow’s war against Ukraine.\nAbout 2,500 troops were involved in the seven-week exercise, in which 600 British and French paratroopers dropped from four RAF A400M Atlas transport aircraft over Germany. The exercise called Rhino Titan, held at the Sennelager military training centre in Germany, has been testing British troops’ ability against an enemy equipped with drones and electronic warfare. “The threats we face in the 21st century require an updated, modern approach to warfare – and our adaptable armed forces are preparing accordingly,” British defence minister Wes Streeting said in a statement.\nUkraine’s military has a “stable connection to Starlink” , the Ukrainian government said , 10 days after its ability to use the satellite communications system was suddenly restricted . But hours after the announcement, SpaceX CEO Elon Musk, whose company owns Starlink, accused the Ukrainian military of violating ⁠the company’s terms. Neither Musk nor the US government, which operates Starshield using Starlink technology, took responsibility for imposing the curbs.\nBulgarians will vote ​in presidential elections on Sunday as Russia’s war in Ukraine spreads to the waters off Bulgaria’s Black Sea coast. Polls place acting president Iliana ⁠Iotova and ex-caretaker prime minister Andrey Gyurov as leaders in a race of 27 candidates. While the presidency is largely ceremonial, Sunday’s vote has taken ⁠on added significance after a series of drone attacks on merchant ships off Bulgaria’s Black Sea ​coast that likely killed about two-dozen international ‌seafarers.",
-      "published": "2026-10-26T10:07:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.0,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "The Nasdaq Composite Just Plunged Almost 700 Points in One Day: Is a Stock Market Crash Imminent? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUFFeF9vd3oxQzBCTXNpSjAyTy1SdzZjcHRLU3cxVmw2Z1EyWWtuSTJ2cmR0RHBLLTBjRFM4MzNnR04zbVUxdFl5YWg3X29OdzAyZWFQN2RLYXZhLXhwdEdEbGo2Z1ExYmVDZGFycHhMZTFGc0xkRXh4NEtOTnNGNFdXUXpsMEU3clZpYkwyU1F2QTNCZ3REOUZlUU0xNUdGSE1B?oc=5",
       "summary": "The Nasdaq Composite Just Plunged Almost 700 Points in One Day: Is a Stock Market Crash Imminent?&nbsp;&nbsp;Yahoo Finance",
@@ -459,6 +383,26 @@
       "assets": []
     },
     {
+      "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
+      "summary": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-26T13:37:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
@@ -478,6 +422,55 @@
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Trump administration loses push to block California votes from alleged noncitizens - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
+      "summary": "Trump administration loses push to block California votes from alleged noncitizens&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-26T23:43:11+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGJjWTFGMk9ycWp1UHQwZWwtZWVkU25QRmg2NzVIVkpUdXhvR3dtTjNtY3FCSkJacUtkbE9vOGItMlRtaGduTm83Y1lkOUtOT09SanAxOWhQd2IzTGRpYmpIUVhhcmV4YmtvR3A4VFJ1dEJscVVHYVl1QzJRYkVzLTBXRXI0WkFyaHlKUVhEbDZIdFhLT1VaUzhiNEJsX1B2bU85MHVtdkhhWmUzbTZOMWFMRnJuNVBnUnRv?oc=5",
+      "summary": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-26T23:01:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN AI"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "UN inquiry says Israel kept committing genocide in Gaza after truce - Reuters",
@@ -501,34 +494,6 @@
       "assets": []
     },
     {
-      "title": "In China, the AI bubble has already burst - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-      "summary": "In China, the AI bubble has already burst&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-26T12:02:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN China",
-        "GN AI"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币",
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
       "title": "Swiss foreign minister to hold talks in North Korea this week - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ?oc=5",
       "summary": "Swiss foreign minister to hold talks in North Korea this week&nbsp;&nbsp;Reuters",
@@ -548,6 +513,80 @@
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Trump says Brazil election looked 'rigged,' defeated Bolsonaro's party recognizes Lula win - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
+      "summary": "Trump says Brazil election looked 'rigged,' defeated Bolsonaro's party recognizes Lula win&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-26T07:07:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "content": "Image caption, Maurene Comey has worked on a number of high-profile legal cases\nThe US justice department illegally fired Maurene Comey, the daughter of former Federal Bureau of Investigation (FBI) director James Comey, a federal judge has ruled.\nComey, who lost her job as a federal prosecutor in New York in July 2025, sued the government, arguing she was unlawfully fired because of her father, a critic of US President Donald Trump, and because of her perceived political affiliations.\nJudge Jesse Furman ruled on Monday that the Trump administration must reinstate her and that she must be given back pay.\nA spokesperson for the justice department said in a statement that it disagreed with the decision and \"will appeal in due course\".\nIn his ruling, Judge Furman said Comey&#x27;s dismissal violated the US Constitution as well as her right to a fair legal process.\nHe said the US attorney general can fire federal prosecutors but only \"in a particular manner and only for certain reasons\".\nFurman noted that in Comey&#x27;s role, \"she was assigned some of the country&#x27;s highest profile cases and consistently received the highest accolades from supervisors and peers alike\".\nComey has worked on cases against the late sex offender Jeffrey Epstein, his accomplice Ghislaine Maxwell, and hip-hop mogul Sean \"Diddy\" Combs, who was convicted on prostitution-related charges involving his two ex-girlfriends last year.\nFurman ordered that Comey be given back pay from July until December 2025, when she accepted a new job.\nIn a statement, Comey&#x27;s lawyers said: \"This hard-earned victory belongs to Ms Comey, to all civil servants, and to all fighting for the rule of law.\"\nComey had previously said the only reason she was told about her firing was that it \"came from Washington\".\nA complaint filed by her lawyers in September 2025 stated that they believed Comey had been fired \"solely or substantially because her father is former FBI Director James B Comey, or because of her perceived political affiliation and beliefs, or both\".\nThe justice department said in court filings that the decision was made by former Attorney General Pam Bondi.\nThe Trump administration has twice brought charges against James Comey, including for allegedly lying to Congress, but that case was dismissed by a judge who said the prosecutor who brought the case was unlawfully appointed.\nEarlier this year, the justice department charged Comey with knowingly and wilfully making a threat to take the life of, and to inflict bodily harm, on the president. He has denied any wrongdoing.\nThe case stems from a 2025 Instagram post shared by Comey that contained a photo of seashells on a beach arranged to read \"86 47\".\n\"Eighty-six\" is a slang term for \"get rid of\", and prosecutors allege it encourages violence against Trump.\nComey surrenders over charge of threatening Trump&#x27;s life in Instagram post\nProsecutor in Diddy and Epstein cases fired by US justice department",
+      "published": "2026-10-26T19:27:21+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "CNBC Top",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+      "content": "China industrial profits post strongest growth in three months, rising 14.4%\nChina&#x27;s industrial profits grew at their strongest pace since June.\nIndustrial earnings swung to double-digit growth earlier this year, following a modest gain in 2025 after three straight years of declines.\nThe global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers this year.\nQIANDONGNAN, CHINA - OCTOBER 24: Workers produce jewelry products to fulfill orders at a workshop ahead of the upcoming Double 11 shopping festival on October 24, 2026 in Congjiang County, Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province of China.\nChina&#x27;s industrial profits grew at their strongest pace last month since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.\nProfits at large industrial firms rose 14.4% in September from a year earlier, according to data released Tuesday by the National Bureau of Statistics . For the first nine months of this year, industrial profits climbed 15.5%, slightly below the 15.7% rise in the January-September period.\nThe strength comes as industrial earnings swung to double-digit growth earlier this year, following a modest gain in 2025 after three straight years of declines, helped by Beijing&#x27;s efforts to curb rampant price wars across sectors and surging demand for AI-related equipment.\nThe global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers this year, even as downstream manufacturers face rising input costs and weak domestic demand.\nEarnings growth in high-tech sectors, such as AI and robotics, has been outperforming profits in consumer-related industries, including clothing, autos and furniture.\nNBS Chief Statistician Yu Weining attributed the growth mostly to surging profits in electronics and advanced-technology manufacturing sectors. Electronic special materials&#x27; manufacturers saw profits more than triple, while they jumped 51.7% for semiconductor device equipment makers, as demand for AI computing power and storage over the nine months remained robust.\nThe buildout of AI computing power and data centers sent profits at optical fiber manufacturers more than sixfold higher, while those at cable makers more than doubled in the January to September period from a year earlier, according to Yu.\nRaw material producers for copper and aluminum also benefited from rising demand from AI-related and renewable industries, with profits expanding nearly 45% over the nine months.\nChina’s local governments are saving more but fear is keeping them from spending\nHigh-tech manufacturing investment and electronics capacity utilization remain resilient, supported by the global AI cycle and domestic policy priorities, said Shena Yue, senior economist at Oxford Economics. Overall investment and industrial utilization are still subdued, she said.\nHousehold demand is the weak link as the property downturn continues to weigh on housing purchases and related durables, Yue said. \"China&#x27;s export strength isn&#x27;t able to fully offset its domestic weakness,\" she said.\nChina&#x27;s economy expanded 4.5% in the third quarter from a year earlier, slightly faster than the previous quarter, taking growth in the first nine months to 4.6%, within the government&#x27;s full-year target range of 4.5% to 5%.\nConsumption remains soft, with retail sales growing 1.1% in September, beating forecasts but only marginally above August&#x27;s weak reading.\nWith concerns mounting over local government debt and the benefits of consumer trade-in subsidies fading, Beijing has so far held back from major new stimulus for domestic demand.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-27T02:23:29+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "US Stock Futures Rise as Investors Await Earnings, Central Bank Decisions and Middle East Developments: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
@@ -586,6 +625,26 @@
       "score": 13.4,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Localized Russia-Ukraine ceasefire takes effect in Oleshky in deal brokered by Melania Trump - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
+      "summary": "Localized Russia-Ukraine ceasefire takes effect in Oleshky in deal brokered by Melania Trump&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-27T01:12:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -638,7 +697,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5",
       "summary": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say&nbsp;&nbsp;The New York Times",
       "content": "",
-      "published": "2026-10-26T21:44:15+00:00",
+      "published": "2026-10-26T22:44:39+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics",
@@ -697,6 +756,31 @@
       "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back? - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR21oT09LTEo1YVdLaVFreDZJU0xBUU5GMVl5b1N1bld6YkRaQmZERXdLNXlGR3BqVmJZZTlLZ2ZFdGtfSWlYN3dZNWs3ci1vSlhMSVd5MG9menpVclZUXzZNa21iS3l2ak5FRTU2VDM3SnowVVVDSkxuMFIyc0RnbEQ2YkhDNFBTSTVWblZ4WndlVGg4TG1YeUttZ01qR1hReEVwbGJ30gGrAUFVX3lxTFByVGRfT2UwWmlwNVBXa0lyX05FUlhPRThOZ2MtaEI3WU5QN1lwVHhvSHdickxqclRwOEhDWDZuX3R1RjZTVmZ0THlqc013dFpZRVVfakIxVHN0UzB2U2NuY0U2MUdHQWM0WUxyU3J2bGJYUU5sbHFSNXdWT3dLOEFwUmhfOWd2d1hvZXpEU0JqNDZhcHJnMW02TEc5VVFobFBJRHJpY3Y3QVRCZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNR21oT09LTEo1YVdLaVFreDZJU0xBUU5GMVl5b1N1bld6YkRaQmZERXdLNXlGR3BqVmJZZTlLZ2ZFdGtfSWlYN3dZNWs3ci1vSlhMSVd5MG9menpVclZUXzZNa21iS3l2ak5FRTU2VDM3SnowVVVDSkxuMFIyc0RnbEQ2YkhDNFBTSTVWblZ4WndlVGg4TG1YeUttZ01qR1hReEVwbGJ30gGrAUFVX3lxTFByVGRfT2UwWmlwNVBXa0lyX05FUlhPRThOZ2MtaEI3WU5QN1lwVHhvSHdickxqclRwOEhDWDZuX3R1RjZTVmZ0THlqc013dFpZRVVfakIxVHN0UzB2U2NuY0U2MUdHQWM0WUxyU3J2bGJYUU5sbHFSNXdWT3dLOEFwUmhfOWd2d1hvZXpEU0JqNDZhcHJnMW02TEc5VVFobFBJRHJpY3",
+      "content": "Arctic shipping: China and Russia expand grip, can Europe fight back?\nChina and Russia are tightening their grip on Arctic shipping routes, entering a new geopolitical battleground with Europe.\nMoscow and Beijing last week agreed to expand freight traffic along Arctic shipping corridors.\nThe agreement came after the EU unveiled a new Arctic strategy aimed at countering growing Russian and Chinese influence in the region.\nThe icebreaker Tor (right) at the port of Sabetta in the Kara Sea shoreline on the Yamal Peninsula in the Arctic circle, some 2450 km of Moscow.\nChina and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.\nMoscow and Beijing last week have agreed to expand freight traffic along Arctic shipping corridors , increase services between their ports and deepen cooperation on building polar vessels.\nThe agreement came after the EU unveiled a new Arctic strategy aimed at countering growing Russian and Chinese influence in the region.\nAlthough the competing moves underscore how the once-remote region is turning into a strategic prize, analysts said that Europe&#x27;s ability to challenge the emerging China-Russia partnership remains limited, given Moscow&#x27;s control over the main shipping corridor and Beijing&#x27;s growing commercial clout.\nEurope cannot realistically challenge Chinese and Russian dominance of Arctic shipping in any meaningful timeframe.\nThat&#x27;s because Moscow controls the Northern Sea Route, including shipping permits, transit fees and a vast fleet of nuclear icebreakers, while Beijing provides the cargo, vessels and industrial capacity needed to develop the corridor, she added.\nEurope, by contrast, has limited icebreaker capacity and Arctic infrastructure, leaving it with little leverage to challenge the partnership despite its position as a major destination market.\nThe Northern Sea Route offers itself as an increasingly attractive alternative, as Middle East disruptions expose vulnerabilities in established shipping corridors.\nCargo traveling between Asia and Europe through the Northern Sea Route could have its journey shortened to between 18 to 22 days, down approximately 35% from the 28 to 35 day journey through Suez, according to data provided by Fertmax FZCO.\nFor Moscow, the route offers an opportunity to redirect energy exports toward Asia as Western sanctions constrain its access to European markets, said industry watchers whom CNBC spoke to.\nOn the other hand, it provides Beijing another trade artery that could reduce reliance on traditional maritime chokepoints.\nDavid Roche, a veteran strategist at Quantum Strategy & Geonomics, said the Arctic&#x27;s importance lies less in its potential to transform global shipping than in the deepening economic dependence between Russia and China.\n\"The significance of the arctic route is for Russian energy shipments to China, which will increase China&#x27;s control over Russia in terms of Russia&#x27;s dependence on China to sell its energy to compensate for losses of its gas markets in Europe,\" Roche highlighted.\nThe EU has acknowledged the growing challenge, highlighting the region&#x27;s strategic value in its strategy, as mentioned by EU foreign policy chief Kaja Kallas last week .\nWith Russia and China increasing their footprint and ambition, the Arctic has become a front line of global power competition.\nThe EU&#x27;s new strategy calls for expanding European icebreaker capacity, strengthening maritime surveillance and developing infrastructure linking Arctic trade networks to European markets.\nIt also proposes a maritime security hub and greater protection for undersea cables, reflecting growing concerns about Russian military activity and threats to critical infrastructure.\nYet those strengths may not be enough to overturn the structural advantages enjoyed by Moscow and Beijing, said experts.\nGarcia-Herrero said Europe&#x27;s leverage largely rests on its position as a major destination market and the presence of large shipping companies that have avoided the Arctic because of environmental and commercial risks.\nWithout a sustained industrial push that the EU has only begun to discuss, Europe can raise the commercial and regulatory costs of the route, but cannot prevent or replace the China-Russia partnership that now operates it.\nEurope also faces a strategic dilemma: engaging with the emerging corridor could deepen its reliance on Russian-controlled infrastructure, even as it seeks to reduce Moscow&#x27;s economic influence.\nFertmax FZCO&#x27;s former global head of research, Daeijin Lee said Western operators face sanctions, insurance and compliance complications that make the route considerably less attractive than it is for Chinese companies.\n\"The Arctic gives diversification, not independence,\" he said.\nFor all the geopolitical attention, the Arctic remains a marginal player in global shipping.\nRoche estimates Arctic trade accounts for roughly 0.3% of global shipping today and could reach about 1% by 2030.\nData from Russian state nuclear corporation Rosatom and CNBC calculations based on UN Trade and Development figures similarly supports the 0.3% figure, with 37.02 million tonnes of cargo transiting the Northern Sea Route in 2025 compared to the 12.72 billion tonnes of global seaborne trade in 2024.\nOnly 3.2 million tonnes of that cargo, or less than a tenth, involved vessels transiting the entire route, rather than shipments originating or terminating in the Russian Arctic, according to the Centre for High North Logistics .\nBut traffic may be picking up, the latest September 2026 CHNL data showed.\nThe route recorded 104 confirmed transit voyages carrying an estimated 3.7 million tonnes of cargo by the end of September, exceeding the 3.2 million tonnes recorded during the entire 2025 navigation season.\nMuch of the existing traffic consists of Russian oil, liquefied natural gas and other commodities rather than international container shipments.\nHowever, the route also faces significant commercial hurdles. Ice conditions restrict navigation for much of the year, while specialized vessels, insurance premiums and Russian transit fees can erode savings from shorter voyages.\nMatthew Wright, an analyst at Kpler, said the route remains poorly suited to replacing established shipping corridors because operators need reliable, year-round services.\nLee similarly expects the Arctic to develop primarily as a seasonal express route for selected high-value cargo rather than a replacement for Suez.\nHowever, climate change could shift the balance in the long-term.\nA study published in the WMU Journal of Maritime Affairs projected that melting Polar ice could increase the Northern Sea Route&#x27;s annual transit capacity to between 127 million and 463 million tonnes by 2050.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-27T00:16:00+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China",
+        "CNBC Top"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Bank of America still forecasts Fed rate hike this week, but with low confidence - The Business Journals",
@@ -772,6 +856,27 @@
       ]
     },
     {
+      "title": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZZeW5oRDRXSUxqNjJ1cjM0U2lmSTZlc3M1TkVQenFnX19fUGJxN0M4TW95N0taTHJEcjBSLTVVVkExbWJTVUlZeWlzVmd4NUVRUDRhcWNkb29HdUxiNEZfT1NRdk9CX2lSN1M0cVFhdG9YekVBZkluV1VxVnR6ajFiOUx3d3RlWnJtY3ZOWnhFQQ?oc=5",
+      "summary": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-27T00:08:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "China's big political meeting could see Xi 'tighten discipline' in party",
       "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
       "summary": "Image caption, Plenums are essentially closed door meetings of the Party&#x27;s central committee that happen at least once a year\nA major political gathering is under way in the Chinese capital, with a closed-door meeting of senior figures that could shape the look of the ruling Communist Party in the years to come.\nThe Fifth Plenum brings together around 300 members of the Central Committee and ",
@@ -797,30 +902,6 @@
       ]
     },
     {
-      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
-      "summary": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus&nbsp;&nbsp;WSJ",
-      "content": "",
-      "published": "2026-10-26T20:55:42+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Dow Jones, Nasdaq, S&P 500 weekly preview: Markets brace for pivotal earnings week - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2ZvdTh2eEZDbVpMeHE1cWctZ2tjdnctYy1kY053T0I5OGstZWY0dDJNOEdjbzRLa25QRTU4TVBzdVFvOUxveXY2bUM3X19LdXk2UklleEhZaGUxdU9YRENSRldLVWwtQ2l2QmE1UEZUenlRMzBqV2JYMTRGeWFwTHRIejJlcmRkX01xYlgzVlo?oc=5",
       "summary": "Dow Jones, Nasdaq, S&amp;P 500 weekly preview: Markets brace for pivotal earnings week&nbsp;&nbsp;Yahoo Finance",
@@ -841,52 +922,11 @@
       "assets": []
     },
     {
-      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5\" tar",
-      "content": "Anthropic IPO might kick off tech reset if the AI stock underperforms\nWith the AI trade sputtering of late and interest rates on the rise, Anthropic&#x27;s IPO is taking on outsized importance.\nAnthropic is intimately tied to tech&#x27;s megacap companies, through investments, commercial agreements and debt deals.\n\"If it underperforms expectations, it&#x27;ll be a little bit of a house of cards,\" said Jai Das, co-founder of Sapphire Ventures.\nDario Amodei, Anthropic&#x27;s co-founder and CEO, appears on a panel at the World Economic Forum in Davos, Switzerland, on Jan. 23, 2025.\nThe tech industry needs this to go well. So does Wall Street.\nAnthropic&#x27;s IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company&#x27;s potential market cap in the trillions, putting it in a category with the world&#x27;s most valuable companies.\nIt&#x27;s a critical moment for the whole tech sector, as the artificial intelligence boom has been largely driven by two companies: Anthropic and OpenAI. The latter has confidentially filed to go public, but has said a debut likely won&#x27;t take place until 2027.\nMeanwhile, the stock market is showing signs of jitters on the AI trade. Neoclouds and data center companies have been getting pummeled, prompting Australia&#x27;s Firmus to withdraw its IPO plans and for SK Hynix&#x27;s U.S.-based Solidigm unit to do the same.\nNow, all eyes turn to Anthropic , which is betting that investors will look past over $80 billion in losses in the first half of the year, and see the 14-fold increase in revenue as a reflection of seemingly insatiable demand for the company&#x27;s leading models and services.\n\"If it underperforms expectations, it&#x27;ll be a little bit of a house of cards,\" said Jai Das, co-founder of Sapphire Ventures whose career in tech investing dates to the 1990s.\nAnthropic&#x27;s business is deeply entwined with tech megacaps. Close to half its revenue comes from Claude being sold through cloud divisions at Microsoft , Amazon and Alphabet , which all hold investments in the company. In the IPO, some $77 billion in notes can be issued to Amazon , Broadcom and Google , while Microsoft and Nvidia agreed to invest $15 billion as the company builds up its computing capacity. Chips from Nvidia, Advanced Micro Devices , Amazon and Google are powering Anthropic&#x27;s development.\nCloud providers are ratcheting up capital expenditures to meet demand, and memory manufacturers are fighting shortages to prioritize AI chips. And there&#x27;s the debt factor. Alphabet, with its investment-grade credit rating, committed to backstopping Anthropic for a data center in Texas. Broadcom , which helps Google develop chips for AI labs, is creating financing pools to help Anthropic and OpenAI deploy high-performance models, CEO Hock Tan told analysts earlier this year.\nFor public market investors, more than one-third of the value of the S&P 500 comes from tech&#x27;s trillion-dollar companies, which are all, to varying degrees, going deep in AI. Beyond that, there are software giants like Adobe and Salesforce that have integrated with Anthropic&#x27;s Claude assistant.\nAnd in the private markets, check sizes have ballooned but IPOs are few and far between. Bessemer Venture Partners and Menlo Ventures both told CNBC that Anthropic is their biggest investment ever.\n\"If they don&#x27;t perform well, they will become the bellwether for AI,\" said Brad Bernstein, a managing partner at growth equity firm FTV Capital. \"Their valuation will reflect that performance variation, and then it&#x27;ll just be a trickle-down effect to all the stuff going on with the excess capital that&#x27;s getting poured into the venture AI world. Everything is going to have to sort of be reset.\"\nAnthropic will be the third company to go public with a valuation above $1 trillion, after Saudi Aramco and Elon Musk&#x27;s SpaceX , which debuted in June. OpenAI could be the fourth.\nRevenue at Anthropic has been multiplying at a staggering pace as businesses adopt the company&#x27;s coding and productivity tools. Second-quarter revenue soared to $11.56 billion from $787 million a year earlier.\nThe company held almost $132 billion in cash, equivalents and short-term investments at the end of June. And after five quarters of operating losses, Anthropic reported $974 million in operating income for the second quarter.\n\"It is, I think, better than feared,\" said Rohit Kulkarni, partner and chief AI officer at Burnham Park Capital Markets, referring to the financials. \"There could have been more negative tidbits.\"\nJINAN, CHINA - JULY 17: In this photo illustration, the logo of Kimi K3 is displayed on a smartphone screen on July 17, 2026 in Jinan, Shandong Province of China. (Photo by VCG/VCG via Getty Images)\nOne source of concern in some corners of the investing universe is the emergence of so-called open-weight models, which are cheaper for businesses to access and allow for customization and flexibility in terms of where users access the models.\nIn the prospectus, the only two competitors Anthropic named were OpenAI and Google, though the company said it faces competition from a \"broader set of model providers,\" including open-weight or open-source models.\nAnthropic says it&#x27;s all very early, with Fortune 500 companies committing less than 0.1% of their total expenses to its models and services in the latest quarter. Michael Monaghan, portfolio manager at Founder ETFs, says that&#x27;s part of the investment thesis.\n\"I think there&#x27;s going to be room for frontier models like Anthropic and OpenAI and SpaceX, and I think there will be room for open-weight models,\" Monaghan said. \"It&#x27;s way too soon to say that one is going to disintermediate the other.\"\nWith hyperscaler spending on AI infrastructure set to reach into the trillions of dollars, Sapphire&#x27;s Das said there&#x27;s understandable concern about a market glut. But he compares it to the telecommunications and dot-com bubble of the late 1990s, when companies flooded the market with fiber-optic equipment. Eventually, the infrastructure got used, although plenty of companies went belly up in the interim.\n\"Long term, I don&#x27;t think there is a lack of demand,\" Das said.\nA lackluster debut could push out OpenAI&#x27;s offering even further and cause investors to rethink its lofty valuation. At the same time, rising interest rates mean it&#x27;s getting costlier for companies to raise debt.\nDavid Trainer, CEO of financial research firm New Constructs, wrote in a report last month that the AI boom has been built on the view that cheap credit and access to the capital markets will be \"readily available.\"\n\"If AI liquidity dries up, and there are clear signs it is, we see large, 20%, downside risk in the S&P 500, with most of that concentrated in the valuation of AI-related stocks,\" Trainer wrote.\nIndustry experts take a different approach, focusing on the power and rapid proliferation of the technology. Claude Opus 5.5 Max performs better than any other model on the Artificial Analysis Intelligence Index, an industry benchmark .\nSnowflake CEO Sridhar Ramaswamy said the technology is only becoming more essential.\n\"Anthropic and OpenAI have by now demonstrated their ability to stay at the frontier of AI and keep pushing innovation,\" Ramaswamy said. \"They&#x27;re incredible companies that are doing a big service to humanity by expanding the frontier of what is possible, and we are very much rooting for them to be public and very successful companies.\"\nStill, Snowflake is experimenting with low-cost open-weight models from China&#x27;s Moonshot AI, DeepSeek and Zhipu.\n\"We spend a lot on internal AI because we want to get as much efficiency as we can,\" Ramaswamy said.\nWATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark&#x27;s Rick Heitzmann\nSeems like Anthropic will beat OpenAI to IPO, says FirstMark&#x27;s Rick Heitzmann\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-26T22:50:07+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top",
-        "CNBC Top"
-      ],
-      "source_count": 2,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 13.0,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
       "summary": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war&nbsp;&nbsp;The Washington Post",
       "content": "",
-      "published": "2026-10-27T00:25:37+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Flurry of Diplomacy in Iran as Regional Countries Try to Stave Off War - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
-      "summary": "Flurry of Diplomacy in Iran as Regional Countries Try to Stave Off War&nbsp;&nbsp;The New York Times",
-      "content": "",
-      "published": "2026-10-26T12:47:37+00:00",
+      "published": "2026-10-27T01:23:31+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -922,11 +962,11 @@
       "assets": []
     },
     {
-      "title": "Ukraine’s Satellite Disruption Exposes a Central Risk of Modern Warfare - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORW5oa0pYa0hxVXNUWHU3clI2SjBESjJvOXlES0QyX3RuaTl6cnBaOTZZLXNneUMtODg5UWdXa1VVZTRfSnZ0bzc3X29MVGN0RGFxREZiODAtS2tBbnNFTGtJOHVBY0EzVW43TlRfWEhXbms5aXRmY2NnblBjOC05TDE2cldua25lam9EZkk0UU4xS040aHJxQ1paUGVWbUNlNld1ZGUxVTdSdGNO?oc=5",
-      "summary": "Ukraine’s Satellite Disruption Exposes a Central Risk of Modern Warfare&nbsp;&nbsp;Time Magazine",
-      "content": "Follow this section to personalize your feed and get instant alerts.\nCustom Feed: See the stories that matter most to you.\nSmart Alerts: Get notified about major news as it happens.\nFollow this tag to personalize your feed and get instant alerts.\nCustom Feed: See the stories that matter most to you.\nSmart Alerts: Get notified about major news as it happens.\nUkraine’s Satellite Disruption Exposes a Central Risk of Modern Warfare\nFollow this author to personalize your feed and get instant alerts.\nCustom Feed: See the stories that matter most to you.\nSmart Alerts: Get notified about major news as it happens.\nSoldiers take a camouflage case off a Starlink satellite communication terminal to be set up at a combat position in the Donetsk region of Ukraine on Oct. 16, 2026.\nSoldiers take a camouflage case off a Starlink satellite communication terminal to be set up at a combat position in the Donetsk region of Ukraine on Oct. 16, 2026. Dmytro Smolienko—Ukrinform/Getty Images\nFollow this author to personalize your feed and get instant alerts.\nCustom Feed: See the stories that matter most to you.\nSmart Alerts: Get notified about major news as it happens.\nSpaceX CEO Elon Musk claimed over the weekend that the Ukrainian military had “violated” the terms of service for Starlink, the company’s commercial satellite internet network, which has become central to the country’s defense against Russia. Musk said SpaceX had restricted Starlink to prevent that alleged misuse. Ukrainian officials disputed his claim. His allegation came after over a week of uncertainty about why the services had been restricted.\nUkrainian officials reported on Oct. 14 that restrictions affecting SpaceX’s satellite communications were disrupting drone operations, blocking a key line of defense amid daily Russian air attacks. Ukraine relies heavily on Starlink for frontline communications, drone capabilities, and reconnaissance; the throttled connection ultimately led to the cancellation of several missions, officials said.\nThe restrictions also affected Starshield, a military-grade satellite communications service that uses Starlink technology but is supplied through U.S. government contracts.\nOver a week after the disruption began, Ukraine&#x27;s Defense Ministry said on Oct. 24 that both services had been fully restored. It reported that connections remained stable even when terminals were moving at speeds above 400 km/h.\nAt the time, the cause for the interruption had not yet been clarified, but Defense Minister Yevheniy Khmara emphasized the importance of a strong and stable connection, calling it “vital for our front line, for our military personnel, for the operation of drones, and for logistics and communications.”\nMusk maintains that the United States government controls changes to Starshield, leaving questions about who authorized its restrictions—and why.\nU.S. President Donald Trump declined to identify those involved in the decision, while a Reuters report from Oct. 15 cited multiple officials who said the order came from inside the White House. The sources did not identify who authorized or implemented the restrictions, but a senior U.S. official denied that it was Trump, the report said.\nExperts say that the disruptions expose a growing vulnerability in modern warfare: military reliance on a single private technology supplier.\nThe company that controls the technology can ultimately wield significant influence over military operations, leaving governments dependent on decisions made by executives and billionaire owners outside traditional diplomatic channels, experts warn.\nUkraine’s access to satellite communications depends on decisions made in Washington as well as at SpaceX. That leaves Kyiv navigating both a private supplier’s restrictions and a fraught relationship with the Trump Administration.\nIn recent weeks, Trump has repeatedly blamed Ukrainian strikes on Russian oil refineries for rising global fuel prices and called on Ukrainian President Volodymyr Zelensky to stop those attacks—despite the fact that experts have primarily attributed the price surge to the U.S. war with Iran.\nTrump said on Oct. 15 that Zelensky was “more difficult to deal with” than Russian President Vladimir Putin and on Oct. 19 suggested that it was “time for somebody else to negotiate on behalf of Ukraine.”\nAlex Crowther, an adjunct professor at Florida International University’s Jack D. Gordon Institute for Public Policy, says the Starshield dispute goes beyond Trump’s souring relationship with Zelensky to a more basic question: Who has the authority to restrict Ukraine’s access?\n“Usually when [a foreign entity] signs a contract with an American company, it says who has the capability to turn this stuff on and off, and the circumstances under which they can turn it on and off,” Crowther says, questioning who has that authority over the services Ukraine relies upon. “Is it Starlink, which is private, or is it Starshield, which is an American government contract? Is it Musk? Is it Hegseth? Is it Trump?”\nLance Hunter, a professor of political science at Augusta University, tells TIME that this dispute exposes the potential issues of having three different actors—the Trump Administration, SpaceX, and Ukraine—with potentially incompatible priorities.\nHow dependence on SpaceX limits Ukraine’s military autonomy\nHunter says that what is unfolding in Ukraine underscores warfare’s growing dependence on digital technology. Beyond traditional “tanks, bombs, planes,” he says that includes factors like artificial intelligence, drones, and navigation jamming.\nReliance on ongoing technology services creates a different relationship from a traditional arms purchase, Hunter says.\nHe points to traditional arms deals in which a private company sells a government a set amount of missiles or interceptors.\n“Let&#x27;s say you purchase a piece of weaponry or vehicle or any type of object that helps you in the conflict: You own it at that point. You have control over it,” Hunter tells TIME.\nThe relationship between Ukraine and SpaceX, however, is different; purchasing the technology does not guarantee operational sovereignty.\n“Ukraine has a lot of transmitters which interface with Starshield and Starlink, and they&#x27;re very much dependent on SpaceX as far as allowing them to use those when they need to,” Hunter continues. “There&#x27;s not just a one-time dependence buying the technology; it&#x27;s continual now.”\nThat gives the company more “influence and leverage” over conflicts than it has before, he adds.\nIt shifts the way that countries like Ukraine need to think about who they are willing to work with and how they weigh the potential costs.\nWhy Ukraine cannot easily replace Starlink and Starshield\nIn a perfect world, Hunter says, Ukraine would diversify its technology suppliers to decrease reliance on Starlink.\nThe country has already been expanding its domestic weapons production, including interceptor drones. But it remains dependent on foreign suppliers for critical air-defense weapons like the U.S.-made Patriot interceptor missiles.\nThat dependence has left it vulnerable to shortages and delays. On Oct. 26, Zelensky said Ukraine had been waiting nearly a month for Defense Secretary Pete Hegseth to approve supplies of missiles for its Patriot and NASAMS air-defense systems.\nBut replicating satellite communications networks presents a different challenge. Starlink technology is not something a government can easily reproduce domestically, Hunter says, and few providers worldwide offer comparable capabilities.\n“Starlink has a monopoly on that technology to a degree, as far as the speed, the availability, the flexibility,” he says. “It&#x27;s not like they can just flip a switch and diversify that technology. It takes a lot of time. It takes a lot of resources. It takes a lot of effort, and also in Europe we don&#x27;t see that same level of technology with some of the European countries and also with some of the private companies.”\nIn the end, he says that Ukraine is stuck between “a rock and a hard place” as the country tries to negotiate its relationships with the Trump Administration and, separately, with Musk.\n“You&#x27;re reliant on the politics of those bodies all matching up,” he says of Ukraine. “All of a sudden, you kind of lose that autonomy.”\n“If they really push back against the U.S. government or SpaceX, they have the potential of receiving less of the technology and being cut off to a greater extent,” he adds. “But if they don&#x27;t really push at all and advocate for their interest as well, then they could be in a weaker position as far as having leverage exerted over them.”\nIn a social media post on Oct. 24, Musk said that SpaceX had restricted Starlink access deliberately because Ukraine&#x27;s military violated Starlink&#x27;s terms of service by using the civilian satellite network for offensive drone strikes.\n“Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in one post . “Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be.”\nMusk explained that Starlink continues to be “critical to the defense of Ukraine,” but that it could not be used for offensive military operations.\nUkrainian officials promptly disputed Musk’s claims.\nDefense technology adviser Serhii Beskrestnov wrote in a Telegram post that operational and speed restrictions are in place that make it “physically impossible” for the military to use Starlink for medium- or deep-range offensive strikes.\n“It is very strange that Elon Musk is unaware of the operational limitations of Starlink in Ukraine,” he wrote. “Starlink does not function over the territory of Russia.”",
-      "published": "2026-10-26T20:28:45+00:00",
+      "title": "Russian Offensive Campaign Assessment, October 25, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnlOT1pZcVRMWWNnRlFJR01hM2JnY3RsSTYzWnJacGhEZFZzVkc3MzdaWHYzYzN0UEtVS2tuR25jZmZLeEwtRDhOX2dYYnpYeUh0TXBaekdidDFJS3RZbFdpcEVjMnRkYUxPWGhKb0tvXzRZLUE0LTdTT0pZZEpUM0ZQaXk1ZVRTUkxvY0hmMkVOQ3cxUkh3TkRQdmpXU25HZWVOVjBBZWpqaE0?oc=5",
+      "summary": "Russian Offensive Campaign Assessment, October 25, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "content": "",
+      "published": "2026-10-26T05:42:59+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -962,27 +1002,24 @@
       "assets": []
     },
     {
-      "title": "SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry consolidation - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHdHVDQ4cEFQWWU5N2VPa1E2akxVVjk2c2tiMHRDaXExNHhoN0dKZGhNdUtCb0p1SFZkaDh2QVdMZ3BnYk5hdG53NUNnWVdIV3NwLVRTd3Z4NjJNUExhS3NkUXU5WjZiWlRod19NVElOalMzUkxmVXlQLVdmZWg1VXdBa1JlNzNYZkRtTzBTOWUyVU1CQ0ZrOW52S2w3LVBLU2VRQmpKUEgyM3ZEeWZ0cEIwaGQySzRIUUVWQdIBwgFBVV95cUxQX045QWpsRXhXUW9VNW15T0EtdlUxd1hUMGNHc1c1eGdteGZZNWxJbndDZkZIUUROcWFTYzB1UnJNdkxJV051THlQd3dwX0I0WGM1VWR6UzRKSzZJbklpOFZIRG1EYWk1S0hZdi1CdGJFM2Z2MDhyRkZaTHBvSk5PTjNBaWlmT0hTOXV6cVk0QkdsNURqWVh1NHltTThJOTNRRmlZV0NQVEdpSU5TZ0FxeUxZdGIzYXJMbHpLUWJhY0Fudw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHdHVDQ4cEFQWWU5N2VPa1E2akxVVjk2c2tiMHRDaXExNHhoN0dKZGhNdUtCb0p1SFZkaDh2QVdMZ3BnYk5hdG53NUNnWVdIV3NwLVRTd3Z4NjJNUExhS3NkUXU5WjZiWlRod19NVElOalMzUkxmVXlQLVdmZWg1VXdBa1JlNzNYZkRtTzBTOWUyVU1CQ0ZrOW52S2w3LVBLU2VRQmpKUEgyM3ZEeWZ0cEIwaGQySzRIUUVWQdIBwgFBVV95cUxQX045QWpsRXhXUW9VNW15T0EtdlUxd1hUMGNHc1c1eGdteGZZNWxJbndDZkZIUUROcWFTYzB1UnJNdkxJV051THlQd3dwX0I0WGM1VWR6UzRKSzZJbklpOFZIRG1EYWk1S0hZdi1CdGJFM2Z2MDhyRkZaTHBvSk5PTjNBaWlmT0hTOXV6cVk0Qk",
-      "content": "SpaceX revenue surges 161% as Elon Musk addresses potential Tesla merger\n'The Big Money Show' panel discusses SpaceX reporting a 161% revenue increase as Elon Musk addresses a potential Tesla merger.\nElon Musk said SpaceX has closed $40 billion in debt financing to purchase graphics processing units for its artificial intelligence operations, highlighting the enormous sums being spent in the race to build AI computing capacity.\nMusk announced the financing on Sunday, saying SpaceX was able to secure the money because of its investment-grade status and revenue generated outside AI through its Starlink satellite internet and rocket launch businesses.\n\"SpaceX closed $40B of debt for GPUs, but we&apos;re investment grade and have Starlink & launch revenue,\" Musk said.\nGraphics processing units, or GPUs, are advanced chips that provide the computing power needed to train and operate AI systems.\nELON MUSK SAYS TESLA VEHICLE DEMAND EXCEEDING PRODUCTION AHEAD OF DALLAS CYBERCAB LAUNCH\nElon Musk said SpaceX closed $40 billion in debt financing to purchase advanced computer chips for its artificial intelligence operations. (Francis Chung/Politico/Bloomberg via Getty Images / Getty Images)\nReuters previously reported that SpaceX was in talks with banks and asset managers to raise $40 billion to purchase Nvidia AI chips.\n\"This is primarily callable debt for GPU purchases that will arrive in Q1 and Q2,\" Musk said in a follow-up post on X, confirming that the GPUs are expected to arrive in the first half of 2027. \"Not a major factor this quarter.\"\nIt was not immediately clear whether investors had agreed to the debt&apos;s pricing terms.\nThe funding underscores the cost of the AI race, as companies spend heavily on advanced chips and other computing infrastructure.\nUKRAINE REGAINS CRITICAL STARLINK SERVICE AFTER RESTRICTIONS DISRUPT DRONE OPERATIONS\nSpaceX CEO Elon Musk announced a $40 billion financing deal Sunday, citing the company's investment-grade status and revenue from Starlink and rocket launches. (Fabrice Coffrini / AFP via Getty Images / Getty Images)\nSpaceX Chief Financial Officer Bret Johnsen said the company expects to spend $35 billion to $40 billion on capital expenditures in the fourth quarter alone, according to Reuters.\nMusk also said borrowing conditions have deteriorated significantly for companies that rely heavily on AI infrastructure .\n\"As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn&apos;t have substantial revenue independent of AI data centers,\" he said.\nMusk warned that many of those companies could struggle to survive.\nTRUMP PRAISES ELON MUSK AS A &apos;GENIUS&apos; WHILE DEFENDING HIM AGAINST POTENTIAL DEMOCRATIC PROBES\nChief Technology Officer of X Elon Musk speaks at a conference on June 19, 2024, in Cannes, France. (Richard Bord/WireImage / Getty Images)\n\"That means the 200+ neoclouds are going to see guppy-level death and consolidation,\" Musk said, referring to companies that rent out computing power built primarily for AI customers. \"Some will make it through, but not many.\"\nSpaceX&apos;s established businesses, including Starlink and rocket launches, provide revenue streams outside its AI operations.\nSpaceX&apos;s third-quarter revenue climbed 161% from a year earlier to $14.58 billion, according to Reuters.\nMusk suggested last week that a potential merger of Tesla and SpaceX would be \"a good idea.\"\nHe also said both companies have formed special committees of independent directors to explore a potential deal, though Musk stressed that a merger is not certain.",
-      "published": "2026-10-26T09:47:00+00:00",
-      "source": "GN AI",
+      "title": "Warren Buffett's Favorite Stock Market Indicator Is Flashing Red. Here's What History Warns Is Coming Next. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkFVV2ZMbFRpZkZIeFM3eTM1UU1ONTZ1Tk9WS0J1TkpUVTZEeTZjc0tTZjZBeTltekZvbWlkWFlxMklabDhsTzVqdHRjUzc2NXV0aUZlQVExS3haTmphVHRha1ctSEpsa195MW4zcFNYenBPOUYtWTdMQ1BsWHFaTEgtc1dlNzdYbE5OMFJqYjVXc0FuV0NjXw?oc=5",
+      "summary": "Warren Buffett's Favorite Stock Market Indicator Is Flashing Red. Here's What History Warns Is Coming Next.&nbsp;&nbsp;The Motley Fool",
+      "content": "It&#x27;s no secret the S&P 500 ( ^GSPC +0.70% ) has enjoyed an unprecedented rally in recent years, fueled mostly by enthusiasm surrounding artificial intelligence (AI) and investments in technology infrastructure. Ironically enough, it&#x27;s times like these that usually have contrarian investors like Warren Buffett sitting on the sidelines instead of following the crowd.\nBuffett&#x27;s favorite valuation tool suggests his concerns may be justified. With stocks now trading well above levels Buffett views as extreme, history offers some important clues about what could happen next.\nIn an article published by Fortune in December 2001, Buffett explained how investors could assess whether the overall stock market was reasonably valued . He described the relationship between total U.S. stock market capitalization and the country&#x27;s gross national product (GNP) as \"probably the best single measure of where valuations stand at any given moment.\"\nImagine the combined market capitalization of every publicly traded American was $200 trillion while the U.S. economy produced $100 trillion in annual output. Dividing those figures generates a Buffett indicator of 200%. In other words, investors are valuing the stock market at twice the country&#x27;s annual economic output.\nThere is one important distinction to note when calculating the Buffett indicator. Buffett originally referred to gross national product (GNP), which measures economic output attributable to U.S. residents including income earned through overseas activity. However, a more common way of calculating the Buffett indicator substitutes GNP with gross domestic product (GDP). GDP measures economic activity occurring within U.S. borders, regardless of who produces it.\nAccording to GuruFocus, the current U.S. market-cap-to-GDP ratio hovers around 233%. Buffett says that when this indicator approaches 200% investors are \"playing with fire.\" While the current excess in the market doesn&#x27;t guarantee a crash is imminent, it does suggest investors are paying historically high prices for stocks.\nHistory offers a stark warning when valuations become expensive\nTwo periods are particularly relevant today&#x27;s bull market: the dot-com bubble and the market downturn between 2021 and 2022. During the late 1990s, investors were captivated by the internet. Although they were correct about the internet&#x27;s revolutionary potential, many technology businesses at the time commanded unusually high valuations that proved unsustainable given the lack of revenue and profit from these companies.\nPrior to the dot-com bubble bursting, the Buffett indicator peaked around 143%. Between March 2000 and October 2002, the S&P 500 declined approximately 49% while the Nasdaq Composite ( ^IXIC +0.82% ) plunged nearly 78%. What&#x27;s even more devastating is that the S&P 500 did not recover its pre-dot-com high until June 2007.\nSomething similar happened nearly two decades later. In December 2021, the Buffett indicator was sitting just about Buffett&#x27;s 200% warning sign. This was reflective of elevated stock valuations during the pandemic-era rally.\nHowever, by mid-2022 inflation had started to surge, causing the Federal Reserve to aggressively raise interest rates. Naturally, investors began reassessing growth stocks. Between January and October 2022, the S&P 500 declined as much as 25%.\nThese episodes illustrate how stretched valuations often precede meaningful corrections in the market . In addition, the timing and severity of those declines are impossible to predict using the Buffett indicator in isolation.\nThe Buffett indicator&#x27;s current reading deserves attention, but I wouldn&#x27;t interpret it as absolute proof that a crash is coming.\nToday&#x27;s market is considerably different from the dot-com era. AI leaders such as Nvidia , Microsoft , Alphabet , Amazon , and Meta Platforms generate substantial profits because their businesses are supported by durable revenue streams rather than speculative ideas.\nMeanwhile, many American companies now generate significant revenue internationally. Since the Buffett indicator compares worldwide market capitalizations with U.S. GDP, globalization can make the ratio appear higher relative to prior decades.\nNevertheless, overvalued stocks will always be vulnerable when expectations become unrealistic. If AI infrastructure spending slows, interest rates continue rising, or earnings miss expectations, investors will likely reassess the premiums they&#x27;re currently paying.\nThis is why the smartest approach is to focus on high-quality companies with competitive advantages, strong balance sheets, consistent cash flow, and diversified business models.\nUltimately, the Buffett indicator isn&#x27;t a crystal ball. But history suggests that buying stocks at historically expensive valuations will lead to disappointing returns and prolonged periods of volatility. Nevertheless, smart investors will remain invested because patience and discipline will help position your portfolio for long-term success no matter what comes next.\nVanguard&#x27;s Growth ETF Usually Beats the Market After a Lagging Year. I&#x27;d Own It, but Not for a 2027 Rebound.\nThe Fed Could Hike Interest Rates Again in 2026. Here&#x27;s What Investors Should Do Right Now.\nIs the Buffett Indicator Flashing a Warning Sign to Stock Market Investors?\nI&#x27;m Not Worried About a Stock Market Crash, and It&#x27;s Because I&#x27;m Making This 1 Investing Move\nMicrosoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.\nShould You Still Invest if a Bear Market Is Coming? History Offers a Clear Answer.\nAdam Spatacco is a contributing Motley Fool technology analyst covering artificial intelligence, robotics, autonomous driving, e-commerce, and cybersecurity stocks. Previously, Adam was an investment banking analyst specializing in mergers and acquisitions, as well as debt and equity capital raises, for software companies. He later worked in corporate development at venture-backed technology start-ups. He holds a bachelor’s degree in business administration with a concentration in finance from the University of Richmond.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "published": "2026-10-26T16:00:00+00:00",
+      "source": "GN Markets",
       "sources": [
-        "GN AI"
+        "GN Markets"
       ],
       "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
+      "category": "markets",
+      "category_zh": "市场",
       "stars": 3,
       "score": 12.9,
       "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "I'm Not Worried About a Stock Market Crash, and It's Because I'm Making This 1 Investing Move - Yahoo Finance",
@@ -1096,7 +1133,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43RlpsQzJpcHU3ODRkbDA0QkNNdWctWjNUYXRJcTF1STktdC1RUzVPdFQwRjhnMTduQmFqTll1ckd1eWY1c1RneHVlcGNHOUcwS2dpWHZTMlBYb3VXbEdDSUs0VHE?oc=5",
       "summary": "Several Natural Gas Stocks Near Buy Points Amid Europe Supply Crunch&nbsp;&nbsp;Investor's Business Daily",
       "content": "The energy sector leads all others this year, yet it still has the lowest valuation. Meanwhile, European natural gas prices rose to a nearly four-year high. That leaves a lot for investors to ponder, especially for several liquefied natural gas stocks now trading near buy points. Through last weekend, the S&P 500 Energy sector was up 55.1%, leading all 11&hellip;\nCopyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8\nStock Market Ends Week With Software Sell-Off; Nasdaq Dives 2%, Gives Up 50-Day Line\nThe stock market ended the week on a downer as the Nasdaq plunged 2.1% and gave up its 200-day moving...\nSunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure\nStock Market Stretches Losing Streak As Oil Prices, Treasury Yields Climb; Key Inflation Data Next\nRecord Profits For Refiners. These 5 Oil Stocks Are Worthy Bets.\nSeveral Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly\nStock Market Leaders Flourish Daily In IBD's Actionable New Highs Screen\nChevron Entered The AI Power Business. The Oil Patch Won't Be The Same.\nFirst U.S. LNG Ships To Asia From Mexico, Avoiding Hormuz Tensions\nEnergy Stocks Are Up 33% This Year — Analysts Think 5 Will Jump",
-      "published": "2026-10-26T19:57:38+00:00",
+      "published": "2026-10-26T20:57:00+00:00",
       "source": "GN Energy",
       "sources": [
         "GN Energy"
@@ -1133,26 +1170,6 @@
         "科技股",
         "半导体"
       ]
-    },
-    {
-      "title": "Trump offers $1M reward for people who report voter fraud in past or upcoming elections - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXgxbjkxb2g2bXhBaURzMUZkUm5nS3lUTWtJamt0NzBxVnZVSzFJVHpLNjdwU1RTaTlJSk1LRXZ2NDBiRGpSeWlacU9BR2pMNFJRMTgwVHA3VlZMQmpQcFd1dGliZEJhbWR1SEdVOGhDYXB0TUJsaUR4SXRtVFB1UHY2LVJfZFRTTlNKWGcyWTJlNG9PMEdUMmUzRVjSAaIBQVVfeXFMTllzdWZDSzNXc093S1RkOWRiWHd6S2dXYU01b2o5RkpiWGQ4RE13OVdJUHJzWDBjU2hEOHlKVjFydUFoZld3YklhQTU3NWcwSWlfRlp2cWRlaTFqbG8tTUV4eGdEYm9mZTFkY1JjODYtdmtWRVVUa3BfT0hLN21BQWF4TVFQb2ttTFIyUFdhRkZtNmdRNlpEY2NiSjVmS3djU3VB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXgxbjkxb2g2bXhBaURzMUZkUm5nS3lUTWtJamt0NzBxVnZVSzFJVHpLNjdwU1RTaTlJSk1LRXZ2NDBiRGpSeWlacU9BR2pMNFJRMTgwVHA3VlZMQmpQcFd1dGliZEJhbWR1SEdVOGhDYXB0TUJsaUR4SXRtVFB1UHY2LVJfZFRTTlNKWGcyWTJlNG9PMEdUMmUzRVjSAaIBQVVfeXFMTllzdWZDSzNXc093S1RkOWRiWHd6S2dXYU01b2o5RkpiWGQ4RE13OVdJUHJzWDBjU2hEOHlKVjFydUFoZld3YklhQTU3NWcwSWlfRlp2cWRlaTFqbG8tTUV4eGdEYm9mZTFkY1JjODYtdmtWRVVUa3BfT0hLN21BQWF4TVFQb2ttTFIyUFdhRkZtNmdRNlpEY2NiSjVmS3djU3VB?oc=5\" tar",
-      "content": "Trump offers $1M reward for voter fraud tips that result in conviction\nIt is not clear where the money for this reward would come from.\nPresident Donald Trump said on Monday that he is offering a $1 million reward for anyone who reports voter fraud -- in past elections or in the upcoming midterm elections -- that leads to a conviction.\n\"Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be paid $1,000,000 upon the arrest and conviction of those that created the Fraud,\" Trump wrote in a social media post.\nTrump told DOJ to sue to block Alaska Senate results if Republican narrowly loses\nTrump has repeatedly made unfounded claims that there was widespread voter fraud in past elections. It is not clear where the money for this reward that the president is offering would come from.\nThe White House would not provide any additional details about Trump&#x27;s announcement.\nPresident Donald Trump talks to reporters before boarding Air Force One, at Joint Base Andrews, Md., Oct. 26, 2026, enroute to a campaign rally in Mississippi.\nTrump has pushed election reform legislation, the SAVE America Act , which he says will cut down on voter fraud. The legislation requires voter ID at the ballot box and proof of citizenship to register.\nAmy Acton says Trump, Vance should &#x27;look at the facts&#x27; after Ramaswamy attack ad\nVance praises Ramaswamy for having &#x27;audacity&#x27; to run controversial Acton ad\nTrump told DOJ to sue to block Alaska Senate results if Republican narrowly loses\nThe House passed the measure earlier this year; it has failed in the Senate multiple times.\nLast week, Trump announced a separate fraud whistleblower program where tipsters who successfully report and prove fraud cases will be rewarded a 1% commission of the amount of money the government is able to recover. The president said he would make the determination of whether a tipster would receive a financial reward.\nABC News&#x27; Sarah Beth Hensley contributed to this report.\nAmy Acton says Trump, Vance should &#x27;look at the facts&#x27; after Ramaswamy attack ad\nTrump told DOJ to sue to block Alaska Senate results if Republican narrowly loses\nVance praises Ramaswamy for having &#x27;audacity&#x27; to run controversial Acton ad\nAppeals court hears arguments in Trump admin&#x27;s voting suit against California",
-      "published": "2026-10-26T20:26:57+00:00",
-      "source": "GN Top",
-      "sources": [
-        "GN Top"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     },
     {
       "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap - Bloomberg.com",
@@ -1194,30 +1211,6 @@
       "score": 12.6,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "Mortgage rates above 7% are the 'new normal'—here's why",
-      "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
-      "summary": "High inflation and competition for investor dollars are helping keep longer-term interest rates elevated, economists say.",
-      "content": "Mortgage rates above 7% are the &#x27;new normal&#x27;—here&#x27;s why\nSpend Waiting for homebuying to get more   affordable? Don&#x27;t hold your breath\nSave and Invest What higher for longer interest   rates mean for your investments\nSpend Homes are selling below asking in 38   of the 50 biggest U.S. cities\nEarn Airbnb&#x27;s new fee change frustrates   hosts—what to know before renting your home\nSpend The 10 most in-demand ZIP   codes for homebuyers in 2026\nEveryone seems to agree that mortgage rates above 7% are the new \"normal.\"\nThe phrase keeps popping up lately in public comments from housing economists, including Lawrence Yun , chief economist for the National Association of Realtors, and Robert Dietz , chief economist for the National Association of Home Builders.\nIt&#x27;s a sentiment increasingly reflected in forecasts, too, with major housing groups predicting mortgage rates will remain above 7% well into 2027. Fannie Mae forecasts mortgage rates could average 7.5% in 2027, while the Mortgage Bankers Association expects them to remain above 7% .\nThat means the 3% or 4% mortgage rates borrowers were used to in the years before 2022 are unlikely to return anytime soon.\n\"We could definitely see some movement up and down depending on data, but we&#x27;re just not in the same economic environment we were in during the 2010s or the pandemic,\" says Jenna Stauffer, a broker and market analyst with Sotheby&#x27;s International Realty.\nMortgage rates tend to move with the 10-year Treasury yield, which serves as a benchmark because mortgages are typically paid off or refinanced well before their 30-year term. And there are reasons to think those longer-term borrowing costs could remain elevated.\nOne is persistently high inflation. When inflation remains elevated, investors generally demand higher yields on long-term bonds to compensate for the declining purchasing power of the money they&#x27;ll eventually be repaid. Inflation, as measured by the Fed&#x27;s preferred PCE price index, hasn&#x27;t been below the central bank&#x27;s 2% target since February 2021 .\nBut inflation isn&#x27;t the only factor. The federal government is borrowing heavily , while the artificial intelligence boom is fueling enormous private investment in data centers, power generation and other infrastructure, says Selma Hepp, chief economist at real estate data firm Cotality. Together, that increased demand for capital can put upward pressure on longer-term borrowing costs, she says.\nCompared to the 2010s, \"we&#x27;ve moved from a world with more capital than investment opportunities to one with tremendous competition for capital,\" Hepp says. Low inflation, abundant savings and relatively weak demand for capital helped keep mortgage rates low during that period, she says.\nDemand for mortgage bonds has weakened, too , putting upward pressure on mortgage rates. Banks have become more reluctant to hold mortgage-backed securities since the 2022-23 rate spike produced steep losses on bond portfolios, says Tom Graff, chief investment officer at wealth management firm Facet. That&#x27;s because bond prices generally fall when interest rates rise. The failures of Silicon Valley Bank and First Republic also prompted greater regulatory scrutiny of banks&#x27; bond holdings, he says.\nDuring the pandemic, the Fed pushed rates in the opposite direction. The Federal Reserve bought large quantities of Treasury bonds and mortgage-backed securities to push longer-term borrowing costs lower, helping drive mortgage rates to historic lows. The Fed has since stepped away from actively buying mortgage-backed securities, says Steve Kaminski, head of residential lending at TD Bank.\nWith those low-rate conditions no longer in place, \"mortgage rates will likely remain elevated for at least the next year,\" Kaminski says.\nGetting mortgage rates back to around 6% would likely require lower inflation, slower economic growth or less pressure from government borrowing to help bring down the 10-year Treasury yield, Hepp says.\nKaminski similarly says getting below 7% would require lower inflation and lower Treasury yields. A weakening economy could also push rates lower as investors seek the relative safety of Treasury bonds, lowering their yields, he says.\nWhether that happens is uncertain, which is why Hepp says she doesn&#x27;t like calling 7% the \"new normal,\" since there&#x27;s nothing permanent about that particular number. But the low inflation, abundant capital and accommodative Fed policies that helped produce 3% and 4% mortgages are no longer in place, she says.\nFor would-be homebuyers, that means waiting for significantly lower mortgage rates could be a gamble.\n\"I don&#x27;t think we should expect to return to the financial conditions that routinely produced 3% and 4% mortgages,\" Hepp says.\nCNBC Select is editorially independent and may earn a commission from affiliate partners on links.\nMost Americans spend too much on housing. Here are 3 ways to save on your rent or mortgage\nHow to save on hotels and flights ahead of the most expensive holiday travel season in 10 years\n14 valuable credit card welcome bonuses ending soon: Earn $1,000+ in travel with the top offers\nI quit my $250K/year tech job–now I make $33K/year selling matcha",
-      "published": "2026-10-26T14:00:01+00:00",
-      "source": "CNBC Top",
-      "sources": [
-        "CNBC Top"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
       "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
       "assets": [
         "美债",
@@ -1309,11 +1302,11 @@
       "assets": []
     },
     {
-      "title": "Trump administration loses push to block California votes from alleged noncitizens - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
-      "summary": "Trump administration loses push to block California votes from alleged noncitizens&nbsp;&nbsp;Reuters",
+      "title": "Now home, Venezuela opposition leader Machado walks tightrope with supporters, Trump - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHFyVXVkZlNyY1hSbTVya3dHOWRGNTZ6Y3JlS1hKb0hGa011TnYwb3BHZUhZNzZvUVR0TWhIY2V2VHp6WXZxcHVjLVNDMUdVb1NUaXgwM1BfSjQtZHhVUWNWeWQ1N0I3UThWWjhPYTRVS3h1X010OVYySml6ZDQ1OXB2WE93QkkxRndGX1Z5elVSUVJVanBVQ3FacjMxUk02RXM4eXJOdnU3VVBKTEFFRWNoQjNmT19CbUlWcFFESFBENTh1N3c?oc=5",
+      "summary": "Now home, Venezuela opposition leader Machado walks tightrope with supporters, Trump&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-26T23:43:11+00:00",
+      "published": "2026-10-26T20:33:27+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
