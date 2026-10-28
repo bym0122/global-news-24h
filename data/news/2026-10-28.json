@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T10:38:14.959285+00:00",
+  "generated_at": "2026-10-28T12:39:01.394095+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-27T10:37:57.698402+00:00",
-  "window_end": "2026-10-28T10:42:57.698402+00:00",
+  "window_start": "2026-10-27T12:38:38.501567+00:00",
+  "window_end": "2026-10-28T12:43:38.501567+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -31,33 +31,37 @@
       ]
     },
     {
-      "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
-      "summary": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says&nbsp;&nbsp;AP News",
+      "title": "Federal Reserve likely to skip rate hike despite elevated inflation - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+      "summary": "Federal Reserve likely to skip rate hike despite elevated inflation&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-27T15:25:00+00:00",
+      "published": "2026-10-28T04:01:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "GN Geopolitics",
-        "Al Jazeera"
+        "GN Fed",
+        "GN Top"
       ],
       "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 4,
-      "score": 17.5,
+      "score": 19.0,
       "is_hypothetical": false,
       "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
-      "title": "Qatari mediators present Iran with new deal to end the war, official says - Reuters",
+      "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
-      "summary": "Qatari mediators present Iran with new deal to end the war, official says&nbsp;&nbsp;Reuters",
+      "summary": "Iran sees only unacceptable ideas in latest mediation to end war, official says&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-28T09:07:52+00:00",
+      "published": "2026-10-28T12:20:04+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -97,6 +101,49 @@
       "assets": []
     },
     {
+      "title": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkV3Umx6VUg4THl2S240YVdZcy1jOUNXQThnN1VpQnRMQWxmblRWS3NmYjYyMUNmNTVHRGtIZC1ZUUlHaUItaWVMUzJ1REcxODVmdXA3RkxtdTM3TTdzT21taFdrSll2eFhhMXZrZjQ1blQzSkxTZmpZVmZuYWhKbll2QndUY0RkdlFtR3dhQ0REV1hhMmRwc284RTRXYklZcTlrR1VIWTY5RGM3TUpmaloxMlFqa2VBX3JHN3QtVXlNV3ZyWW9Z?oc=5",
+      "summary": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-27T15:57:46+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.8,
+      "is_hypothetical": false,
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
+      "summary": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-27T15:25:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Czech central banker Seidler leaning towards November rate hike - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1BwcC13OF9GS1hPbmctT252NkpPU3J2bFBOTExDTmN3RnFqVWJYbjhpQ1dWTGNCaFJLUkhTNTh5NE1UaFFCZ2dBWDRiSlBjc2d3WmRwTlR5cENXX3NiTDJyZzQwTWQxbENsakd0ZmVEYjFGczItODVFVWdCcU9DQ3RQbWRHNldINjE0N1d6dXNHU1c4MjQ0ejhOanprNTJGbkt1dUtsNkplOWZwdVRtcFVib3g?oc=5",
       "summary": "Czech central banker Seidler leaning towards November rate hike&nbsp;&nbsp;Reuters",
@@ -121,25 +168,29 @@
       ]
     },
     {
-      "title": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkV3Umx6VUg4THl2S240YVdZcy1jOUNXQThnN1VpQnRMQWxmblRWS3NmYjYyMUNmNTVHRGtIZC1ZUUlHaUItaWVMUzJ1REcxODVmdXA3RkxtdTM3TTdzT21taFdrSll2eFhhMXZrZjQ1blQzSkxTZmpZVmZuYWhKbll2QndUY0RkdlFtR3dhQ0REV1hhMmRwc284RTRXYklZcTlrR1VIWTY5RGM3TUpmaloxMlFqa2VBX3JHN3QtVXlNV3ZyWW9Z?oc=5",
-      "summary": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T15:57:46+00:00",
-      "source": "Reuters World",
+      "title": "Hormuz oil spill forces closure of UAE beaches - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazhNdmVtWjJXOVNEN2UzWEV1TnhGd051RzRLVHBkdTV4T2RrMk9kdURUaUFfWDdOUTB3cEdjZzhSN09LdThZVVpsWmMtSFhNa2VtZTczOG8zendjQzhqSWFrUE5YMHNXaXkyckROZXBVYjJzdTZ4QzUyWENQOFVwSW5rak53WkFFcHhFYW14WEZmc3g1bEw1QzkxRUZKUVnSAaQBQVVfeXFMT1FZYlViaTM4aFJfVkN5bHdjTm95MGxfcGtaVTM2WmZiUXNxTWFRY0hlbnJMcklZZ0R1T0lRTG5wYXk1SEZxbERBWXFhOEt1RTQ1ZTU1S1Y3eFJSRHNzU3JIM3U0cmJRaGw0dkFHdUcyZ2ViejhTekpMQ2lSX0M2ZlYyVzY4RHRjQ0NQVWs3VmsxYmhQWDBfWERCc1VoVHlXWTJMcHE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNazhNdmVtWjJXOVNEN2UzWEV1TnhGd051RzRLVHBkdTV4T2RrMk9kdURUaUFfWDdOUTB3cEdjZzhSN09LdThZVVpsWmMtSFhNa2VtZTczOG8zendjQzhqSWFrUE5YMHNXaXkyckROZXBVYjJzdTZ4QzUyWENQOFVwSW5rak53WkFFcHhFYW14WEZmc3g1bEw1QzkxRUZKUVnSAaQBQVVfeXFMT1FZYlViaTM4aFJfVkN5bHdjTm95MGxfcGtaVTM2WmZiUXNxTWFRY0hlbnJMcklZZ0R1T0lRTG5wYXk1SEZxbERBWXFhOEt1RTQ1ZTU1S1Y3eFJSRHNzU3JIM3U0cmJRaGw0dkFHdUcyZ2ViejhTekpMQ2lSX0M2ZlYyVzY4RHRjQ0NQVWs3VmsxYmhQWDBfWERCc1VoVHlXWTJMcHE?oc=5\" targ",
+      "content": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure in Ras Al Khaimah until further notice and raising environmental concerns.\nShare Hormuz oil spill forces closure of UAE beaches on social media",
+      "published": "2026-10-28T11:15:00+00:00",
+      "source": "GN Energy",
       "sources": [
-        "Reuters World",
-        "NPR World"
+        "GN Energy",
+        "Al Jazeera"
       ],
       "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "energy",
+      "category_zh": "能源",
       "stars": 3,
-      "score": 15.6,
+      "score": 15.1,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
     },
     {
       "title": "Trump says he approves of Brazil's Flavio Bolsonaro coming to US - Reuters",
@@ -152,53 +203,7 @@
         "Reuters World",
         "Reuters Markets",
         "AP World",
-        "GN Top",
         "NPR World"
-      ],
-      "source_count": 5,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 3,
-      "score": 15.2,
-      "is_hypothetical": false,
-      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
-      "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-28T03:18:27+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Geopolitics",
-        "GN Top"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.9,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Trump says he will ban term artificial intelligence - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
-      "summary": "Trump says he will ban term artificial intelligence&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T16:26:16+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World",
-        "CNBC Top",
-        "Al Jazeera"
       ],
       "source_count": 4,
       "category": "us",
@@ -302,58 +307,6 @@
       ]
     },
     {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "content": "Image caption, A backlash has erupted on Chinese social media over MbappÃ©&#x27;s comments on a \"Chinese dictator\"\nKylian MbappÃ© has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong which led to him being dropped by several Chinese brands.\nMbappÃ© had reportedly told French talk show The Bridge the meme \"that makes me laugh the most, it&#x27;s the one where there&#x27;s a video of a guy, I think it&#x27;s a Chinese dictator...\" He then laughs as the clip cuts to a meme showing his face superimposed on an image resembling Mao.\nThe meme is part of a running joke about the Real Madrid forward being called a \"dictator\" because of his huge influence in football.\n\"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world,\" MbappÃ© said in a statement.\nSpain&#x27;s La Liga also apologised, saying it \"deeply regrets the offence that Kylian MbappÃ©&#x27;s recent comments have caused among Chinese fans\".\nThe joke did not go down well in China, where Mao is revered by the Communist Party, despite his chaotic and often violent rule that left millions dead.\nA few people came out in support of him on Chinese social media, but that is a rare response given China&#x27;s tightly controlled internet, where people are expected to toe the party and government line on sensitive topics.\nFew topics are as sensitive as Mao, which may explain why brands were so quick to terminate partnerships with a global sports star like MbappÃ©.\nThe original video is not available on the show&#x27;s YouTube channel, and it&#x27;s unclear when the interview hosted by Real Madrid&#x27;s AurÃ©lien TchouamÃ©ni first aired. In clips that have been circulating online, MbappÃ© does not identify Mao by name. He says he \"uses [the meme] with friends all the time\".\nThe furore appeared to kick off on Monday night after Chinese football forum Dongqiudi drew attention to the comments in a statement, saying they were \"inappropriate\" and \"hurt the feelings of Chinese people\".\nScreengrabs of the clip and meme have since spread quickly on Chinese social media, with people echoing this sentiment and even calling for a boycott of both the French striker and his club, Real Madrid.\nBut some have blurred the meme itself as well as the part of the comment they found offensive, when Mbappe refers to \"a Chinese dictator\".\nDongqiudi said in its statement that it was \"unable to translate\" his comments because they were \"offensive to China and the Chinese people\".\nMany people are therefore also wondering what exactly Mbappe said and have responded to the angry posts and comments with questions, wanting to know more.\nImage caption, Weibo users are recirculating the clip by blurring the meme and redacting references to Mao\nChinese fans have been criticising MbappÃ© â who is popular in China and has huge brand endorsements â of \"profiting from the Chinese market yet making remarks that offend the Chinese public\".\n\"International public figures, in particular, should show greater respect and sensitivity, as national sentiment must never be taken lightly,\" reads another comment on Weibo.\nAs the anger online grew louder, Chinese brands began to cut ties, although they did not explicitly refer to the video.\nThe country&#x27;s largest dairy producer, Mengniu, said it \"firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people\".\nDrinks giant Dongpeng issued a similar statement: \"Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments.\"\nAccording to state-owned newspaper The Global Times, state broadcaster CCTV&#x27;s news apps will not feature content related to the French striker. CCTV will also stop showing La Liga matches, Chinese media reported on Tuesday. Real Madrid is one of 20 clubs that play in the Spanish football league and is the most decorated team with 36 league titles.\nChina&#x27;s foreign ministry has also weighed in, with spokesperson Lin Jian saying: \"We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society.\"\nImage caption, MbappÃ© has a significant commercial presence in China\nChina is a major market for international sports stars and homegrown brands have signed multimillion-dollar endorsement contracts with MbappÃ©, Norwegian striker Erling Haaland, and NBA player Stephen Curry.\nBy 14:00 local time on Tuesday, five of the top 10 trending topics on Weibo centered on MbappÃ©, with the hashtag \"multiple brands terminate partnerships with MbappÃ©\" topping the list.\n\"Don&#x27;t ever come to China,\" read one of the top comments on Weibo.\nMao founded the People&#x27;s Republic of China in 1949 and ruled through tumultuous decades in the 1960s and 1970s.\nHis attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the Party.\nHis death in 1976 brought a new era for China, which began to open its doors to the global economy. Even as the country moved away from Mao&#x27;s rule, he continued to be hailed by the party as a national icon whose legacy was beyond reproach.\nSo jokes or memes about Mao are seen not just as an insult to the party but also its closely-guarded narrative about the country&#x27;s past.\nImage caption, MbappÃ© has said some of the memes \"reveal a lack of political and human awareness\"\nIt&#x27;s unclear when the MbappÃ© meme involving Mao began but his nickname, \"the dictator\", has made the striker the subject of many memes and jokes online.\nMbappÃ© is widely regarded as one of the best footballers in the world and has wielded significant influence at the clubs he has played for. His extraordinary speed, goalscoring ability and worldwide popularity have made him a global icon, attracting millions of fans, major sponsorship deals and media attention, with his influence extending into fashion, culture and business.\nIn 2024, he sued a French influencer and kebab shop owner for using his name in the description of one of the shop&#x27;s sandwiches, leading to more jokes about the nickname.\nFrance teammate Ousmane Dembele jumped on the trend during the 2026 World Cup, calling MbappÃ© Mobut â a reference to Mobutu Sese Seko, the dictator who ruled the Democratic Republic of Congo, formerly Zaire, for three decades.\nIn an interview with France Football in September, MbappÃ© acknowledged the light-heartedness behind many of these memes, but said they \"sometimes reveal a lack of political and human awareness among people\".\n\"There&#x27;s a side that&#x27;s a bit less funny, because we know the damage people like that have caused throughout history,\" he said.\n\"Being compared to people who murder others, or who have made millions upon millions of people miserable... I don&#x27;t think I&#x27;ve done that in my life.\"",
-      "published": "2026-10-27T13:25:54+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World",
-        "BBC Business",
-        "GN China",
-        "CNBC Top"
-      ],
-      "source_count": 4,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
-    },
-    {
-      "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWj",
-      "content": "Navy Federal Credit Union chief economist Heather Long discusses the Federal Reserve's upcoming interest rate decisions.\nThe Federal Reserve is set to announce its latest interest rate decision on Wednesday with the midterm elections less than a week away.\nPolicymakers at the Fed say they avoid letting politics influence their monetary policy moves, and can be hesitant to hike or cut interest rates at meetings that occur ahead of the election.\nInflation has remained stubbornly high and the September consumer price index (CPI) data showed inflation rose faster than expected, with headline CPI rising 0.6% on a monthly basis and 3.7% from a year ago. The latter figure is well above the central bank&apos;s 2% inflation target.\nHeather Long, chief economist at Navy Federal Credit Union, told FOX Business in an interview that while the September inflation data was hotter than expected and raised the prospects of an October rate hike, the Fed is likely to wait to \"hike again in December.\"\nCONSUMER INFLATION ROSE FASTER THAN EXPECTED IN SEPTEMBER, CPI REPORT SHOWS\nFederal Reserve Chair Kevin Warsh and policymakers are expected to hold rates steady this week. (Daniel Heuer/Bloomberg via Getty Images)\n\"This hotter than expected inflation data did increase the chance of an October rate hike , but it&apos;s a very high bar to increase in October, they would do it within a week of the election. I know they like to say that they&apos;re not political, but it&apos;s a high bar for October,\" she explained.\n\"Right now, this data indicates that the Fed needs to act again, but it&apos;s not a five-alarm fire. They don&apos;t have to act immediately, they could wait until December.\"\n\"The reality is, gas prices have come down a little bit since the September highs, so we would expect the October data &#x2013; you know, it won&apos;t be great, but it could be a little bit cooler than what we&apos;re seeing today. And the Fed has a reasonable case to say, we&apos;re probably still gonna hike, but let&apos;s wait a few more weeks and see just how broad-based this problem really is,\" Long said.\nFEDERAL RESERVE HIKES INTEREST RATES FOR FIRST TIME SINCE 2023 AMID STUBBORN INFLATION\nThe market expects the Fed to hold rates steady this week, with the CME FedWatch tool showing a 90.6% probability of rates remaining at their current target range of 3.75% to 4% &#x2013; up from 84.5% a week ago and 35.8% last month.\nFor the Fed&apos;s meeting in mid-December, the tool shows a 75.1% probability of a 25-basis-point interest rate hike, which could mark the resumption of the rate-hiking cycle if inflation remains elevated.\nWHY THE FED ISN&apos;T READY TO DECLARE VICTORY ON INFLATION\nInflation rose faster than expected in September and remains well above the central bank's 2% target. (Robert Nickelsberg/Getty Images)\n\"The Federal Reserve will definitely hike interest rates again, probably in December,\" Long said. \"The big question is how many more times do they have to hike after that? And what was scary in this latest inflation data for September is to see so many areas of hot inflation: to see used car prices, airfares, recreation costs, auto repair costs, buying a used car, medical costs.\"\n\"The story really is starting to take shape that it&apos;s probably going to take a couple more hikes in 2027, and this higher-for-longer borrowing costs and mortgage rates well above 7% is going to stick around for at least a year, maybe longer,\" Long said.\nThe CME FedWatch tool shows the market is anticipating multiple rate hikes by March, with a 46.5% chance that rates will be 50 basis points higher than they are now at a range of 4.25% to 4.5%.",
-      "published": "2026-10-27T17:46:38+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed",
-        "CNBC Top"
-      ],
-      "source_count": 2,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 14.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEo5Rm5rNDMwMXVnR3h3T2NrZE1vd0ljZ2NGZGRNcnpTeFZUa2lyb0FiNVNzNk91NGpMbElVM1hsMTJRTGNxYThlQTZGUlJzbnFOckw1RE9lazlfVVp1cWJwaVdJUHprcW5ZSFpWRUpyNTFJWWRXVlU2TElBNk5FWjhqeFlBYTBQMnpvRTNQcnpBWXVUWXpyV2lpQTRmOGZZOWloY3V3YkEzVmRKSDE2X1puQXZOR1JPbXAzc0ZMSDN6eU5jbDFvQ09aVXM1MEpFWWMyOGtjQlhaNGk3aXNZV0l5LS1vMGVYcXc?oc=5",
       "summary": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict<",
@@ -399,11 +352,34 @@
       ]
     },
     {
-      "title": "Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVZVZU41WDR2cm9hMkhTeEo0a0FGMjk0eHNKTS1kWm5HVDFFRFNwSXkzQ2M3bmJCVjNVc3QtUVpIUjkySE8ya0tiLS1hMW4wd1RkaFBhMHowQWVIdWkzcnhmczR3SnI5SFJETEw5b1RfYmxEang1WlBoMWhLeHRKZGNMU1hiUWo1ZmZDX0xWZ1I3OHUzOGZz?oc=5",
-      "summary": "Stock Market Today: Nasdaq, S&amp;P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline&nbsp;&nbsp;Yahoo Finance",
-      "content": "Markets News, Oct. 27, 2026: Tech Shares Extend Rally, Indexes End Higher Ahead of Fed Decision; Boeing Stock Limits Dow’s Gains; Oil Prices Decline\nCredit: Michael Nagle / Bloomberg via Getty Images The Nasdaq Composite and S&P 500 rose, with tech shares climbing, ahead of tomorrow's interest-rate decision from the Fed.\nThe tech-focused Nasdaq and benchmark S&P 500 closed Tuesday a respective 1.3% and 0.7% higher. The Dow Jones Industrial Average finished fractionally higher, with a nearly 11% drop in Boeing (BA) shares weighing on the blue-chip index. The three major U.S. stock indexes closed higher Monday , with tech leading the charge, after Anthropic filed its go-public paperwork .\nInvestors will focus Wednesday on whether the Federal Reserve will stand pat on interest rates . Economists expect the U.S. central bank to raise rates at future meetings to combat high inflation, but say there is no rush to raise them for a second consecutive meeting following September's rate hike. Financial markets are pricing in just a 7% likelihood the Fed will raise rates this week, per CME FedWatch.\nThe 10-year Treasury yield was down less than one basis point to near 4.99%.\nMagnificent Seven mega-cap tech stocks Alphabet (GOOGL) and Microsoft (MSFT) are slated to issue earnings reports after markets close tomorrow. Amazon (AMZN) is set to do so Thursday.\nThe Roundhill \"MAGS\" ETF, which tracks the septet, finished today 1% higher after rising Monday. Tesla (TSLA) shares rose 4% after jumping 5% to pace the group yesterday. Meta Platforms (META) slipped 1.5%, extending Monday losses after the Facebook parent said it intends to raise up to $95 billion in a series of stock offerings to fund its AI ambitions. Nvidia (NVDA) shares rose almost 1% after the world's most valuable public company said it will invest $3 billion in Meta's equity offering.\nMemory and other AI-tied stocks rose after beginning the week with gains. Roundhill's Memory ETF (DRAM) closed up roughly 4.5%, with SK Hynix (SKHY), Micron Technology (MU), Western Digital (WDC), Sandisk (SNDK), and Seagate Technology (STX) advancing. The broader iShares Semiconductor ETF (SOXX) ended almost 4% higher following an almost 3% rise Monday.\nIn post-earnings moves, JetBlue Airways (JBLU) soared 19% following a nearly 10% drop yesterday. SoFi Technologies (SOFI) surged 13%, United Parcel Service (UPS) gained 6%, Royal Caribbean (RCL) jumped 6.5%, and PayPal (PYPL) and Novartis (NVS) advanced 2%. Sherwin-Williams (SHW) fell 3%, Coca-Cola (KO) declined 1.5%, and Corning (GLW) slipped 1%. Visa (V) ended about 0.5% lower ahead of its results after markets close today.\nOil prices slipped after declining to begin the week, with traders awaiting results from Israel's parliamentary elections. U.S. benchmark West Texas Intermediate crude futures pulled back 1.9% to below $100 a barrel around 4 p.m. ET. Front-month Brent crude futures, the international benchmark, declined 1.7% to below $114.\nBitcoin was trading around $80,600, up modestly over the past 24 hours. The U.S. dollar index , which tracks the value of the greenback against a basket of foreign currencies, was 0.3% higher at 102.29. Gold futures rose 0.9% to $4,075 an ounce.\nGo beyond the day's market moves with Investopedia's Value Add , where you'll find sharp analysis, investing ideas, and practical guidance on what today's biggest financial stories could mean for your money. Explore Value Add and subscribe on Substack .",
-      "published": "2026-10-27T10:39:54+00:00",
+      "title": "Microsoft Maia 300: Could Its New AI Chip Challenge NVIDIA? - Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckZiRE1hOWY5TzRnTjBQUTktVjJCODBwX0xBMlhCM2hWRjB0eDVkSlQtSmZESnE3VVRYTUlic1V3ZXQ4UzdoYzRZd1c0TmdVdHg3ZkFmVW51cmZJU0NYRk1KcmR0cTI0WkNSUHItbnA2Q3RrUU41R3dwNGFPYWE0YmxLY1RKSkRTVVhCTEF5M1E4ZGJyS29VbTlZbFplMnc?oc=5",
+      "summary": "Microsoft Maia 300: Could Its New AI Chip Challenge NVIDIA?&nbsp;&nbsp;Cloud Wars",
+      "content": "In today’s Cloud Wars Minute, I analyze Microsoft’s ambitious Maia 300 rollout and how owning its own AI chips could give the company greater control over its AI infrastructure, improve efficiency, and reduce its reliance on NVIDIA.\n00:10 — Microsoft has announced Maia 300 , the company's latest custom AI chip. It's also revealed plans to expand its Azure Maia systems to multi-gigawatt deployments starting in 2027, and with this rollout, Maia will become the primary AI inference system for Microsoft products and services.\n01:02 — Microsoft expects Maia 300 to deliver 40% more tokens per megawatt than leading GPU-based systems. In other words, Microsoft expects to deliver more AI output for the same amount of power. That's crucial as demand for AI services continues to skyrocket. Now, Microsoft also says that in a full configuration, Maia 300 systems are expected to deliver up to seven times the rack-scale token throughput of Maia 200.\n01:41 — Bear in mind that Maia 200 is already a very capable system, and Maia 300 really builds on those foundations — I'm going to quote Microsoft here: \"To enable more coding with GitHub, more flexible AI model deployment through Microsoft Foundry, and faster interactions with Copilot, Teams, and Dragon Copilot.\" Now, back to that incredibly important point I made at the start.\n02:05 — Maia is set to become the primary AI inference system for Microsoft products and services. Now, back in August, I talked about what this could mean for NVIDIA. My conclusion was that Microsoft's own chips could help level the playing field and give the company more options.\n02:33 — Could Microsoft chips potentially challenge NVIDIA in the market? I think that remains to be seen. Microsoft's announcement certainly seems to suggest that it will have more control over its AI infrastructure , but it doesn't necessarily mean that NVIDIA is being pushed out of the picture altogether. What is clear, though, is that Microsoft is moving towards a much more full-circle AI business with its own chips, cloud infrastructure, models, and applications.",
+      "published": "2026-10-28T11:30:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 14.0,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2xfcTN0UklocUc0ZHluT0RKdnRnUTVyUGx5TXZTNXRCVTZhV1BwT2l3N1B5eHF0MGJReXduTEFDd1paNUpxcEVrZUt5MUdRc050SnRaUUktTUJnb0RPQWtfWlBfN2gxNVllOFBTcDVwMU5MZ2VnOXFlc200ckE0ZlZiR051RVh5ejM3eWVhNHhFajk2VUdFMg?oc=5",
+      "summary": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&amp;P, Nasdaq, Wall Street&nbsp;&nbsp;Yahoo Finance",
+      "content": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street\nNew York Stock Exchange trading floor ©Bear Bull Traders US stock futures traded in mixed territory on Wednesday as investors prepared for quarterly results from major technology companies and the Federal Reserve's latest interest rate decision. Alphabet and Microsoft are scheduled to report after the market closes, while stronger-than-expected earnings from South Korean semiconductor manufacturer SK Hynix provided further evidence of demand linked to artificial intelligence infrastructure.\nMarket attention remained focused on the scale of technology companies' capital expenditure, the financial returns generated by AI investments and the possibility of further US monetary tightening before the end of the year.\nUS equity futures recorded modest movements in early trading on Wednesday.\nAt 04:02 ET (08:02 GMT), S&P 500 futures were up 10 points, or 0.1%, while Nasdaq 100 futures advanced 173 points, equivalent to 0.6%. Dow Jones futures declined 117 points, or 0.2%.\nThe mixed performance followed gains across Wall Street's major indices in the previous session, when the Nasdaq Composite rose 1.18%, supported by technology shares.\nRecent financing announcements involving artificial intelligence companies helped improve sentiment towards the sector. Investors also assessed Anthropic's initial public offering filing earlier in the week, alongside continued financing activity supporting the expansion of AI infrastructure.\nAnalysts at Vital Knowledge said investors were responding positively to the availability of funding for data centre development.\n\"[I]nvestors continue to celebrate the AI funding announcements that hit the tape over the last 36 hours […] as these demonstrate that plenty of money still exists to underwrite the data center bonanza,\" the analysts wrote.\nThe broader US corporate earnings season is approximately one-third complete, with results generally supported by resilient demand, cost controls and price increases, according to the firm.\nAlphabet and Microsoft Earnings Put AI Investment Returns in Focus\nAlphabet (NASDAQ:GOOG) and Microsoft (NASDAQ:MSFT) are scheduled to release quarterly financial results after Wednesday's closing bell.\nTheir announcements are expected to provide further information about demand for cloud computing services, artificial intelligence products and the infrastructure required to support these technologies.\nInvestors will examine whether substantial expenditure on data centres, specialised processors and computing capacity is translating into measurable revenue growth.\nCapital expenditure has become an important consideration for technology sector valuations as major companies commit increasingly large amounts to AI infrastructure.\nAlphabet, Microsoft and Amazon (NASDAQ:AMZN), which is scheduled to report on Thursday, are collectively planning capital expenditure of as much as $600 billion this year.\nThe scale of these commitments has raised questions about the timing of investment returns and the sustainability of spending growth.\nInvestors will therefore assess both the companies' quarterly operating performance and any changes to their future capital expenditure forecasts.\nThe market reaction to Meta Platforms (NASDAQ:META) earlier this month illustrated the importance investors are placing on AI investment costs.\nDespite reporting strong underlying business performance, Meta faced selling pressure after increasing its capital expenditure plans.\nIts shares declined following the announcement and were down more than 4% for the year at the time of the report.\nThe company recorded nearly $34 billion in capital expenditure during a single quarter, highlighting the scale of investment required to develop AI infrastructure.\nJake Behan, Head of Capital Markets at Direxion, said investors are increasingly examining the financial returns associated with this spending.\n\"The more skeptical the market gets about AI returns, the harder it becomes to justify today's pace of spending. Meta is a good example: the core business was shown to be strong, but with capex hitting nearly $34 billion in a single quarter, the market increasingly needs to see the ROI from that investment,\" Behan said.\nThe forthcoming results from Alphabet and Microsoft will provide another opportunity for investors to assess the relationship between AI spending and business growth.\nSK Hynix Reports Sharp Increase in Third-Quarter Profit\nSK Hynix (NASDAQ:SKHY) reported a substantial increase in third-quarter earnings on Wednesday, exceeding analysts' expectations.\nThe South Korean memory chip manufacturer recorded operating profit of 83.33 trillion won for the three months ended September 30, an increase of 632% from the previous year.\nThe result exceeded the Bloomberg consensus estimate of 77.5 trillion won.\nRevenue increased 328% to a record 104.615 trillion won, while net income rose 216% to 39.78 trillion won.\nShares of SK Hynix advanced more than 10% during trading in Seoul following the announcement.\nThe company also outlined plans to return a total of 100 trillion won, equivalent to approximately $75.5 billion, to shareholders during the year.\nSK Hynix is a major supplier of memory semiconductors used in advanced computing systems, including infrastructure supporting artificial intelligence applications.\nIts quarterly performance provided an additional indication of the financial impact of investment in AI-related hardware.\nSemiconductor Demand Remains Linked to AI Infrastructure Expansion\nThe results from SK Hynix highlighted the importance of semiconductor demand in the wider artificial intelligence investment cycle.\nAI systems require substantial computing capacity, supported by specialised processors and advanced memory technologies.\nThe expansion of data centres and high-performance computing infrastructure has increased the importance of semiconductor manufacturers within the technology supply chain.\nSK Hynix's reported revenue and profit growth reflected its position in this market.\nHowever, investors continue to assess whether strong demand for AI hardware will be matched by sufficient revenue growth among the companies developing and operating AI services.\nThis distinction remains relevant as technology groups prepare to publish updated capital expenditure plans.\nThe Federal Reserve is widely expected to leave interest rates unchanged at its Wednesday policy meeting.\nThe anticipated decision follows an increase in borrowing costs in September, the first such move since 2023.\nAlthough markets expect no immediate adjustment, interest rate futures indicate an approximately 75% probability of another increase at the central bank's final meeting of the year in December.\nInvestors will focus on Federal Reserve Chair Kevin Warsh's press conference for indications of how policymakers are assessing inflation, economic growth and the need for further monetary tightening.\nWarsh has generally avoided providing explicit guidance about future interest rate decisions, meaning market participants may receive limited indications about the December outlook.\nNevertheless, comments from other Federal Reserve officials have suggested that additional rate increases could be required to address persistent inflationary pressures.\nHigher Interest Rates Could Affect AI Financing Costs\nThe Federal Reserve's monetary policy outlook is particularly relevant to companies financing large technology infrastructure projects.\nHigher borrowing costs can increase the expense of funding data centres, semiconductor facilities and other AI-related investments.\nThey can also influence the returns required by investors when evaluating capital-intensive projects.\nDirexion's Jake Behan noted that additional monetary tightening could \"raise the cost of funding the AI buildout while simultaneously raising the hurdle for the returns needed to justify it.\"\nThis relationship between interest rates and investment returns adds another consideration for technology companies undertaking substantial capital expenditure programmes.\nInvestors will therefore assess the Federal Reserve's comments alongside the latest financial results from Alphabet, Microsoft and other major technology groups.\nOil Prices Continue to Influence Inflation Expectations\nEnergy markets remain an important factor in the outlook for US monetary policy.\nCrude oil prices have risen substantially following disruptions to Middle Eastern supplies associated with the conflict involving Iran, which began in late February.\nHigher oil prices have increased the cost of products including gasoline and diesel.\nEconomists are monitoring whether these increases are being passed through to transportation expenses and the prices of other goods and services.\nA broader increase in inflation could influence the Federal Reserve's assessment of whether additional interest rate increases are necessary.\nBrent crude futures were trading 1.2% higher at $115.29 per barrel in the latest figures cited.\nMiddle East Developments Add to Energy Market Uncertainty\nDiplomatic efforts to reduce tensions involving Iran have attracted attention from energy and financial markets.\nHowever, the conflict has continued to affect the wider Middle East, with uncertainty surrounding the prospects for a sustained reduction in hostilities.\nThe Wall Street Journal reported that the United States had advised Gulf Arab countries to prepare for the possibility of a short, intensive military campaign following the US midterm elections in November.\nThe report added to uncertainty surrounding the regional security outlook and potential disruptions to energy supplies.\nContinued instability in the Middle East could influence crude oil prices and, consequently, inflation expectations in major economies.\nFor US financial markets, the interaction between energy prices, monetary policy and corporate financing costs remains an important consideration.\nUS stock futures traded without a clear direction on Wednesday as investors awaited major technology earnings and the Federal Reserve's interest rate announcement.\nS&P 500 futures gained 0.1%, Nasdaq 100 futures advanced 0.6% and Dow futures declined 0.2% in early trading.\nAlphabet and Microsoft are due to report after the closing bell, with attention focused on cloud revenue growth, AI infrastructure spending and the financial returns generated by those investments.\nSK Hynix provided a positive semiconductor sector update, reporting a 632% increase in operating profit and a 328% rise in revenue.\nThe Federal Reserve is expected to maintain interest rates, although markets continue to anticipate the possibility of another increase in December.\nInvestors will also monitor Middle Eastern developments and crude oil prices for their potential effects on inflation and future monetary policy.",
+      "published": "2026-10-28T10:49:43+00:00",
       "source": "GN Markets",
       "sources": [
         "GN Markets"
@@ -415,18 +391,40 @@
       "score": 14.0,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
       "assets": [
-        "原油",
-        "能源股"
+        "美债",
+        "美元",
+        "美股"
       ]
+    },
+    {
+      "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
+      "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T02:37:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "China Is Building Its Way Around Europe’s EV Tariffs - Foreign Policy",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjRONGxRUmF1UHlpdzlacU1FcEZ1b1dIUmNWR29MRDI3Q2RkMmRpVzlaaEkxNnVFMmZlY0JDSllJZW5vdWhsM2c3T1F3U0ZfeGliU05rOFJZdkx0N3pYdVhtcU52aXJrY0lIeEFXVm5XbG85ZTFCc2Z2NThZRm9NQWF0ajJqOGlEN09MN2NRZjdWNnZ3YzVGd1NYYk9rdUlkeFBNbE9hcVJmZVE?oc=5",
       "summary": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administrati",
-      "content": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nWorkers in dark uniforms and blue baseball caps inspect the metal frames of silver, unpainted electric vehicles along a brightly lit assembly line on a factory floor. The line of cars extends backward to the far wall, with similar small groups of workers bustling around each one.\nWorkers check vehicle frames on the production line for electric vehicle maker Zeekr at its factory in Ningbo, China, on May 29, 2025. Kevin Frayer/Getty Images\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nThe more consequential story—that will likely make Chinese EVs even more competitive in the near future—is Beijing’s evolving approach to overseas industrial policy. At the core of this approach is an increasingly coordinated model of public- and private-sector activity.\nState-owned enterprises (SOE) lay the groundwork for favorable investment environments abroad by undertaking massive infrastructure projects and securing access to strategic resources. Boosted by Beijing’s diplomatic ties and international clout, private companies leverage these state-backed platforms as a springboard for trade by bringing in investment, production capacity, and industry-specific expertise.\nThe advantages of this approach for Beijing—and the challenge that it poses to foreign companies—are already on full display in Morocco, where years of existing strategic investment, infrastructure development, and geopolitical maneuvering are pushing China closer to vertically integrating EV supply chains, bypassing tariffs, and further reshaping Europe’s auto industry.\nIt is only in recent years that Morocco has emerged as a key node in China’s EV empire.\nFor decades, Beijing maintained much closer ties with Morocco’s neighbor and rival, Algeria, but that began to change in the early 2010s as the Belt and Road Initiative (BRI) took off. In 2016, Morocco joined the growing ranks of countries signing “strategic partnerships” with China, making mutual commitments to expand economic cooperation and recognize each other’s core interests.\nThe next year, Morocco officially entered the BRI, and China has since poured millions of dollars into Morocco’s energy and transportation sectors . Almost a decade later, that economic relationship has expanded dramatically: In March, China’s committed investment in the country exceeded $10 billion , concentrated mostly in the EV and energy sectors.\nChina’s EV manufacturing capacity in Morocco builds on years of large-scale, state-backed investment in transportation infrastructure and natural resources. Over the past decade, Chinese SOEs have collaborated on major infrastructure and development projects in Morocco, including bridges , highways , and smart cities . Some of these are directly relevant to the EV industry, such as the chemical processing unit in Khouribga, home to one of the world’s biggest reserves of phosphate, which is critical for EV battery production .\nThis SOE-led scramble for resources and construction-heavy projects paved the way for private Chinese companies in the EV sector to establish footholds in Morocco and ship to overseas markets. Tanger Tech City, China’s SOE-led flagship collaboration with Morocco, is located less than 30 miles from Tanger Med, the largest container port in Africa. Taking advantage of no-fee business registration and tax-free dividends, private Chinese companies—including the global battery giant BTR New Material Group as well as tire manufacturers Sentury Tire and Guizhou Tyre—have established or announced plans to establish production bases in the industrial zone.\nElsewhere in the country, major private investments include battery manufacturer Gotion’s $1.3 billion factory and a $2 billion joint-venture battery materials factory between China’s CNGR Advanced Material and the Moroccan private equity firm Al Mada.\nThis isn’t to deny the role of subsidies and preferential financing, which Beijing sees as key tools for supporting companies that are expanding internationally. A 2024 directive , for instance, called on Chinese financial institutions to improve credit approval and lending procedures and to enhance cross-border settlement to “better support companies expanding into international markets.” Closer collaboration among Chinese banks, semi-official trade organizations, and Moroccan banks has also helped to streamline financing and channel investment into the African market.\nBut these policies are useful to Chinese firms because they are operating in an industrial landscape that SOEs have already shaped, with relatively easy access to necessary resources and infrastructure.\nChina’s success with this approach has only been possible because it also advances Rabat’s desire to expand domestic manufacturing capability and position Morocco as Africa’s next industrial powerhouse. Chinese investment is expected to generate sorely needed jobs; Morocco’s unemployment rate has hardly dipped below 10 percent for the past decade, and youth unemployment in cities stands at a staggering 47 percent. Officials claim that the Gotion factory alone will create 17,000 local jobs, including 2,300 high-skilled positions.\nBeijing has coupled this economic engagement with a subtle diplomatic shift in favor of Rabat’s claims over Western Sahara . For decades, China has avoided explicitly backing either Morocco or Western Sahara, though its rhetoric often leaned toward the latter—and thus to the latter’s main sponsor, Algiers . With one exception in 2018, it consistently voted in favor of United Nations Security Council resolutions extending the peacekeeping mission in Western Sahara and affirming support for the Sahrawi people’s right to self-determination.\nHowever, in recent years, China has done an about-face. In 2024, its Ministry of Foreign Affairs implicitly acknowledged the importance of the Western Sahara question for Rabat, stating , “China supports Morocco in maintaining national security and stability and is ready to work with Morocco to continue firmly supporting each other on issues concerning their respective core interests.” Then, last fall, Beijing abstained on the most recent U.N. resolution on the matter, which for the first time endorsed Rabat’s proposal to formally establish Western Sahara as an autonomous region under Moroccan sovereignty.\nThe full payoff of China’s Moroccan gambit will materialize if and when localized EV manufacturing matures, which could take years. That is still a tall order, as evidenced by the recent shelving of a BYD assembly plant project that had been stalled since 2017 due to budget issues and limited local charging infrastructure, according to a company executive.\nThough Chinese automakers are not yet building assembly plants in Morocco, the country matters for everything “upstream” of assembly. It is becoming an integrated ecosystem for the production of batteries, tires, and other components, which reduces Chinese EV companies’ reliance on direct shipments from China and lowers costs for Chinese assembly plants in Europe and Africa.\nMorocco also offers Chinese firms convenient access to the European market through the Tanger Med port and—more importantly—a rules-based pathway through Brussels’s tightening trade defenses . Currently, the EU imposes duties of up to 35 percent on EVs manufactured in China. However, vehicles that qualify as Moroccan in origin can enter the European market duty-free. That includes vehicles assembled in Morocco, so long as foreign parts make up less than 45 percent of the finished vehicle’s ex-works price.\nIn short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This would pose an unprecedented threat to what remains one of the EU’s most important industries .\nChina is rolling out this coordinated approach to overseas industrial policy elsewhere to varying degrees.\nIn Thailand, for example, China is a key investor in the Eastern Economic Corridor, a flagship regional development initiative anchored by a high-speed railway that will connect several Thai cities and seaports to China. The corridor has, in turn, provided an attractive environment for private Chinese investment. China is now the corridor’s largest source of foreign direct investment, primarily in the EV sector and related industries. Like Tanger Tech City, the corridor offers private Chinese companies major tax incentives and more convenient access to the Association of Southeast Asian Nations’ market.\nThe United Arab Emirates offers another example. In 2017, Chinese SOE Jiangsu Provincial Overseas Cooperation and Investment Company Limited (JOCIC) partnered with Abu Dhabi Ports to develop an industrial and special economic zone inside the Khalifa Port’s free trade zone. JOCIC set up a wholly owned UAE subsidiary to manage the park, which lets it attract Chinese private capital while insulating the parent company from project-level and geopolitical risk. The park’s location provides Chinese companies with a convenient base for expansion into the Persian Gulf and wider Middle Eastern markets, along with exemptions from value-added tax and other financial incentives . As of 2025, more than 40 Chinese companies had collectively committed more than $700 million to the park, with a focus on EVs and renewable energy.\nBeijing has long seen its SOEs as tools for advancing its broader economic interests. As China in recent years has emphasized “small and beautiful” projects , the SOE-led megaprojects are often viewed as commercially disappointing holdovers from an earlier and more profligate era of BRI. Nevertheless, under this coordinated strategy, Beijing has been able to capitalize on the advantages secured by past infrastructure projects and deepen its presence in the overseas market.\nAs governments in industrialized economies respond to China’s surge of high-value manufactured exports, they must recognize how the sources of Chinese firms’ advantages are changing. Today, those advantages come not just from subsidies and cheap credit at home but also from integrated ecosystems abroad, built through coordination between public and private enterprise.\nThis means that Brussels’s retaliatory tariffs and the recently announced limits on hybrid EVs imported from China, on their own, are unlikely to stem the tide of EVs made by Chinese firms operating around the world. China’s rivals—even in industrialized economies—will struggle to compete unless they can coordinate across borders and build supply chains and infrastructure that leverage or, far less plausibly, completely sidestep what China has already put in place.\nAaron Glasserman is a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis.\nJessie Jiexi Lin is a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nCommenting is a benefit of a Foreign Policy subscription.\nJoin the conversation on this and other recent Foreign Policy articles when you subscribe now.\nPlease follow our comment guidelines , stay on topic, and be civil, courteous, and respectful of others’ beliefs.\nI agree to abide by FP’s comment guidelines . (Required)\nThe default username below has been generated using the first name and last initial on your FP subscriber account. Usernames may be updated at any time and must not contain inappropriate or offensive language.\nI agree to abide by FP’s comment guidelines . (Required)\nA person in a white jacket, hard hat, and glasses standing in a dark cave or mine tunnel, pointing up at a rocky ceiling illuminated by a flashlight.\nThe Radioactive Ore That Could Break China’s Grip on Rare Earths\nWestern powers are scrambling for monazite ore—but can they handle it?\nTwo long tables face each other in an ornately decorated room, with officials and aides tightly packed side-by-side as they sit. Chinese officials sit at the left table, and EU officials sit at the right. The Chinese and EU flags hang from poles at the back of the room.\nEurope Is Finally Getting Tough on China. Now Comes the Hard Part.\nFrance and Germany are increasingly willing to flex market share for geopolitical leverage. But they still need reforms to maintain it.\nA worker wearing a bright orange hard hat and dark uniform walks along a narrow catwalk atop a large, flat-topped industrial storage tank.\nAs wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.\n5 Foreign-Policy Priorities for Democrats After the Midterms\nHow Morocco Could Help China Sidestep Europe&#039;s EV Tariffs\nAfter Serbia&#039;s Elections, Its Student Protesters Deserve a Nobel Peace Prize\nSerbia Elections: Student-Led Protesters Defeat Populist Strongman Aleksandar Vucic\nBrazil Election: Lula Defeats Flávio Bolsonaro in Historic Victory\nEquip your organization with powerful global intelligence.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nA Taiwanese crowd protests while waving flags of the Republic of China.\nU.S. Undersecretary of Defense for Policy Elbridge Colby, left, and NATO Secretary-General Mark Rutte, right, stand during a press conference at NATO headquarters. Rutte is looking over at Colby, whose fingers are pressed together in a steeple gesture in front of him. Both men are wearing dark suits and ties, standing in front of a blue backdrop and U.S. and NATO flags. A camera rig and a red light are partially visible in the foreground, slightly obscuring the center of the frame.\nXi (left) and Trump (right) are shown up close, with Xi looking at Trump.\nPutin and Xi are both seen in profile as Putin walks to the right and away from Xi, just a few feet of space between them. Xi, meanwhile, is also faced away from Putin, standing and looking down at his feet or the red carpet beneath them. Both men wear dark suits.\nA man wearing a dark suit jacket, light blue button-down shirt, and patterned red tie sits on a dark gray couch against a textured dark blue wall. He is looking off to the side with a mild smile, next to a teal pillow.\nAn illustration in red and blue tones depicting five silhouetted figures running forward through a dark corridor flanked by large, textured Russian lettering on the walls and floor. Light radiates from the far end of the tunnel behind them\n6 Russian Words for a Country Sliding Into Authoritarianism\nA statue of a seated, bearded man with a bare torso and draped cloth around his waist, holding a scroll in one hand, positioned in front of a row of large classical columns.\nNegotiators from the United States, Canada, and five European countries converse after finishing the draft of the North Atlantic Treaty in Washington on March 18, 1949.\nTrans-Atlanticism Isn’t Dead—It’s Being Renegotiated\nAn aerial photo shows Doha in the booming petrostate of Qatar.\nFor What AI Could Do to Democracies, Look to the Petrostates\nA large outdoor billboard displayed on a building features portraits of two men flanking text in Hebrew on a dark blue background. In the foreground on the right, an inverted triangular red-and-white yield traffic sign stands partially blurred.\nNetanyahu’s opponents are ahead but will struggle to form a coalition.\nA worker seals A ballot box at the headquarters of the Israeli Central Elections Committee near the central town of Shoham on October 14.\nIn Israel, Election Day Is Just the Beginning of the Story\nA group of people scatter and run across a dry, grassy field amid haze and smoke. In the background, uniformed personnel in tactical gear stand in a line, while a white and red ambulance with Arabic writing and \"101 AMBULANCE\" on the side is parked nearby on a hillside under a hazy sky.\nA man is seen in profile as he walks past a massive mural depicting the face of Netanyahu, which is about as tall as the man. The man wears a dark brimmed hat and black suit and has his beard and hair in the style worn by Haredi men.\n5 Foreign-Policy Priorities for Democrats After the Midterms",
-      "published": "2026-10-28T02:55:41+00:00",
+      "content": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nWorkers in dark uniforms and blue baseball caps inspect the metal frames of silver, unpainted electric vehicles along a brightly lit assembly line on a factory floor. The line of cars extends backward to the far wall, with similar small groups of workers bustling around each one.\nWorkers check vehicle frames on the production line for electric vehicle maker Zeekr at its factory in Ningbo, China, on May 29, 2025. Kevin Frayer/Getty Images\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nThe more consequential story—that will likely make Chinese EVs even more competitive in the near future—is Beijing’s evolving approach to overseas industrial policy. At the core of this approach is an increasingly coordinated model of public- and private-sector activity.\nState-owned enterprises (SOE) lay the groundwork for favorable investment environments abroad by undertaking massive infrastructure projects and securing access to strategic resources. Boosted by Beijing’s diplomatic ties and international clout, private companies leverage these state-backed platforms as a springboard for trade by bringing in investment, production capacity, and industry-specific expertise.\nThe advantages of this approach for Beijing—and the challenge that it poses to foreign companies—are already on full display in Morocco, where years of existing strategic investment, infrastructure development, and geopolitical maneuvering are pushing China closer to vertically integrating EV supply chains, bypassing tariffs, and further reshaping Europe’s auto industry.\nIt is only in recent years that Morocco has emerged as a key node in China’s EV empire.\nFor decades, Beijing maintained much closer ties with Morocco’s neighbor and rival, Algeria, but that began to change in the early 2010s as the Belt and Road Initiative (BRI) took off. In 2016, Morocco joined the growing ranks of countries signing “strategic partnerships” with China, making mutual commitments to expand economic cooperation and recognize each other’s core interests.\nThe next year, Morocco officially entered the BRI, and China has since poured millions of dollars into Morocco’s energy and transportation sectors . Almost a decade later, that economic relationship has expanded dramatically: In March, China’s committed investment in the country exceeded $10 billion , concentrated mostly in the EV and energy sectors.\nChina’s EV manufacturing capacity in Morocco builds on years of large-scale, state-backed investment in transportation infrastructure and natural resources. Over the past decade, Chinese SOEs have collaborated on major infrastructure and development projects in Morocco, including bridges , highways , and smart cities . Some of these are directly relevant to the EV industry, such as the chemical processing unit in Khouribga, home to one of the world’s biggest reserves of phosphate, which is critical for EV battery production .\nThis SOE-led scramble for resources and construction-heavy projects paved the way for private Chinese companies in the EV sector to establish footholds in Morocco and ship to overseas markets. Tanger Tech City, China’s SOE-led flagship collaboration with Morocco, is located less than 30 miles from Tanger Med, the largest container port in Africa. Taking advantage of no-fee business registration and tax-free dividends, private Chinese companies—including the global battery giant BTR New Material Group as well as tire manufacturers Sentury Tire and Guizhou Tyre—have established or announced plans to establish production bases in the industrial zone.\nElsewhere in the country, major private investments include battery manufacturer Gotion’s $1.3 billion factory and a $2 billion joint-venture battery materials factory between China’s CNGR Advanced Material and the Moroccan private equity firm Al Mada.\nThis isn’t to deny the role of subsidies and preferential financing, which Beijing sees as key tools for supporting companies that are expanding internationally. A 2024 directive , for instance, called on Chinese financial institutions to improve credit approval and lending procedures and to enhance cross-border settlement to “better support companies expanding into international markets.” Closer collaboration among Chinese banks, semi-official trade organizations, and Moroccan banks has also helped to streamline financing and channel investment into the African market.\nBut these policies are useful to Chinese firms because they are operating in an industrial landscape that SOEs have already shaped, with relatively easy access to necessary resources and infrastructure.\nChina’s success with this approach has only been possible because it also advances Rabat’s desire to expand domestic manufacturing capability and position Morocco as Africa’s next industrial powerhouse. Chinese investment is expected to generate sorely needed jobs; Morocco’s unemployment rate has hardly dipped below 10 percent for the past decade, and youth unemployment in cities stands at a staggering 47 percent. Officials claim that the Gotion factory alone will create 17,000 local jobs, including 2,300 high-skilled positions.\nBeijing has coupled this economic engagement with a subtle diplomatic shift in favor of Rabat’s claims over Western Sahara . For decades, China has avoided explicitly backing either Morocco or Western Sahara, though its rhetoric often leaned toward the latter—and thus to the latter’s main sponsor, Algiers . With one exception in 2018, it consistently voted in favor of United Nations Security Council resolutions extending the peacekeeping mission in Western Sahara and affirming support for the Sahrawi people’s right to self-determination.\nHowever, in recent years, China has done an about-face. In 2024, its Ministry of Foreign Affairs implicitly acknowledged the importance of the Western Sahara question for Rabat, stating , “China supports Morocco in maintaining national security and stability and is ready to work with Morocco to continue firmly supporting each other on issues concerning their respective core interests.” Then, last fall, Beijing abstained on the most recent U.N. resolution on the matter, which for the first time endorsed Rabat’s proposal to formally establish Western Sahara as an autonomous region under Moroccan sovereignty.\nThe full payoff of China’s Moroccan gambit will materialize if and when localized EV manufacturing matures, which could take years. That is still a tall order, as evidenced by the recent shelving of a BYD assembly plant project that had been stalled since 2017 due to budget issues and limited local charging infrastructure, according to a company executive.\nThough Chinese automakers are not yet building assembly plants in Morocco, the country matters for everything “upstream” of assembly. It is becoming an integrated ecosystem for the production of batteries, tires, and other components, which reduces Chinese EV companies’ reliance on direct shipments from China and lowers costs for Chinese assembly plants in Europe and Africa.\nMorocco also offers Chinese firms convenient access to the European market through the Tanger Med port and—more importantly—a rules-based pathway through Brussels’s tightening trade defenses . Currently, the EU imposes duties of up to 35 percent on EVs manufactured in China. However, vehicles that qualify as Moroccan in origin can enter the European market duty-free. That includes vehicles assembled in Morocco, so long as foreign parts make up less than 45 percent of the finished vehicle’s ex-works price.\nIn short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This would pose an unprecedented threat to what remains one of the EU’s most important industries .\nChina is rolling out this coordinated approach to overseas industrial policy elsewhere to varying degrees.\nIn Thailand, for example, China is a key investor in the Eastern Economic Corridor, a flagship regional development initiative anchored by a high-speed railway that will connect several Thai cities and seaports to China. The corridor has, in turn, provided an attractive environment for private Chinese investment. China is now the corridor’s largest source of foreign direct investment, primarily in the EV sector and related industries. Like Tanger Tech City, the corridor offers private Chinese companies major tax incentives and more convenient access to the Association of Southeast Asian Nations’ market.\nThe United Arab Emirates offers another example. In 2017, Chinese SOE Jiangsu Provincial Overseas Cooperation and Investment Company Limited (JOCIC) partnered with Abu Dhabi Ports to develop an industrial and special economic zone inside the Khalifa Port’s free trade zone. JOCIC set up a wholly owned UAE subsidiary to manage the park, which lets it attract Chinese private capital while insulating the parent company from project-level and geopolitical risk. The park’s location provides Chinese companies with a convenient base for expansion into the Persian Gulf and wider Middle Eastern markets, along with exemptions from value-added tax and other financial incentives . As of 2025, more than 40 Chinese companies had collectively committed more than $700 million to the park, with a focus on EVs and renewable energy.\nBeijing has long seen its SOEs as tools for advancing its broader economic interests. As China in recent years has emphasized “small and beautiful” projects , the SOE-led megaprojects are often viewed as commercially disappointing holdovers from an earlier and more profligate era of BRI. Nevertheless, under this coordinated strategy, Beijing has been able to capitalize on the advantages secured by past infrastructure projects and deepen its presence in the overseas market.\nAs governments in industrialized economies respond to China’s surge of high-value manufactured exports, they must recognize how the sources of Chinese firms’ advantages are changing. Today, those advantages come not just from subsidies and cheap credit at home but also from integrated ecosystems abroad, built through coordination between public and private enterprise.\nThis means that Brussels’s retaliatory tariffs and the recently announced limits on hybrid EVs imported from China, on their own, are unlikely to stem the tide of EVs made by Chinese firms operating around the world. China’s rivals—even in industrialized economies—will struggle to compete unless they can coordinate across borders and build supply chains and infrastructure that leverage or, far less plausibly, completely sidestep what China has already put in place.\nAaron Glasserman is a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis.\nJessie Jiexi Lin is a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nCommenting is a benefit of a Foreign Policy subscription.\nJoin the conversation on this and other recent Foreign Policy articles when you subscribe now.\nPlease follow our comment guidelines , stay on topic, and be civil, courteous, and respectful of others’ beliefs.\nI agree to abide by FP’s comment guidelines . (Required)\nThe default username below has been generated using the first name and last initial on your FP subscriber account. Usernames may be updated at any time and must not contain inappropriate or offensive language.\nI agree to abide by FP’s comment guidelines . (Required)\nA person in a white jacket, hard hat, and glasses standing in a dark cave or mine tunnel, pointing up at a rocky ceiling illuminated by a flashlight.\nThe Radioactive Ore That Could Break China’s Grip on Rare Earths\nWestern powers are scrambling for monazite ore—but can they handle it?\nTwo long tables face each other in an ornately decorated room, with officials and aides tightly packed side-by-side as they sit. Chinese officials sit at the left table, and EU officials sit at the right. The Chinese and EU flags hang from poles at the back of the room.\nEurope Is Finally Getting Tough on China. Now Comes the Hard Part.\nFrance and Germany are increasingly willing to flex market share for geopolitical leverage. But they still need reforms to maintain it.\nA worker wearing a bright orange hard hat and dark uniform walks along a narrow catwalk atop a large, flat-topped industrial storage tank.\nAs wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.\nDramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted\nChina: What to Know About the CCP&#039;s Fifth Plenum\nEquip your organization with powerful global intelligence.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nA Taiwanese crowd protests while waving flags of the Republic of China.\nU.S. Undersecretary of Defense for Policy Elbridge Colby, left, and NATO Secretary-General Mark Rutte, right, stand during a press conference at NATO headquarters. Rutte is looking over at Colby, whose fingers are pressed together in a steeple gesture in front of him. Both men are wearing dark suits and ties, standing in front of a blue backdrop and U.S. and NATO flags. A camera rig and a red light are partially visible in the foreground, slightly obscuring the center of the frame.\nXi (left) and Trump (right) are shown up close, with Xi looking at Trump.\nPutin and Xi are both seen in profile as Putin walks to the right and away from Xi, just a few feet of space between them. Xi, meanwhile, is also faced away from Putin, standing and looking down at his feet or the red carpet beneath them. Both men wear dark suits.\nA man wearing a dark suit jacket, light blue button-down shirt, and patterned red tie sits on a dark gray couch against a textured dark blue wall. He is looking off to the side with a mild smile, next to a teal pillow.\nAn illustration in red and blue tones depicting five silhouetted figures running forward through a dark corridor flanked by large, textured Russian lettering on the walls and floor. Light radiates from the far end of the tunnel behind them\n6 Russian Words for a Country Sliding Into Authoritarianism\nA statue of a seated, bearded man with a bare torso and draped cloth around his waist, holding a scroll in one hand, positioned in front of a row of large classical columns.\nNegotiators from the United States, Canada, and five European countries converse after finishing the draft of the North Atlantic Treaty in Washington on March 18, 1949.\nTrans-Atlanticism Isn’t Dead—It’s Being Renegotiated\nAn aerial photo shows Doha in the booming petrostate of Qatar.\nFor What AI Could Do to Democracies, Look to the Petrostates\nA large outdoor billboard displayed on a building features portraits of two men flanking text in Hebrew on a dark blue background. In the foreground on the right, an inverted triangular red-and-white yield traffic sign stands partially blurred.\nNetanyahu’s opponents are ahead but will struggle to form a coalition.\nA worker seals A ballot box at the headquarters of the Israeli Central Elections Committee near the central town of Shoham on October 14.\nIn Israel, Election Day Is Just the Beginning of the Story\nA group of people scatter and run across a dry, grassy field amid haze and smoke. In the background, uniformed personnel in tactical gear stand in a line, while a white and red ambulance with Arabic writing and \"101 AMBULANCE\" on the side is parked nearby on a hillside under a hazy sky.\nA man is seen in profile as he walks past a massive mural depicting the face of Netanyahu, which is about as tall as the man. The man wears a dark brimmed hat and black suit and has his beard and hair in the style worn by Haredi men.\nDramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted",
+      "published": "2026-10-28T10:40:23+00:00",
       "source": "GN China",
       "sources": [
         "GN China"
@@ -446,6 +444,26 @@
       ]
     },
     {
+      "title": "Norway's premier says call with Putin was effort to present European views - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV?oc=5",
+      "summary": "Norway's premier says call with Putin was effort to present European views&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T10:46:09+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "'Nobody heard us' – why Gen Z are leading protests across Europe - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYjU3YkZqYTlQelo5OVJKRi1EN2pYVThKWGZRUDZQNlozeFk5OXBzbGo2THREaDdxZ05EOE9OYnViV2ZEYWJwRUNZb09LQk40NzhWMjc1c2pjeElGTUE0eFIzRnhrTmhGS0gzeTJPTndrUWlJN252THlTRkpHQ1JrOHlGeFpxS3VWUmoyaDVGOGpONXIwYVhzVUtMaVRrWDQ5eTNnbjhLMEt3WFZNUVE?oc=5",
       "summary": "'Nobody heard us' – why Gen Z are leading protests across Europe&nbsp;&nbsp;Reuters",
@@ -462,6 +480,28 @@
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Policeman kills knife attacker outside Israeli embassy in Serbia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5",
+      "summary": "Policeman kills knife attacker outside Israeli embassy in Serbia&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T08:53:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "BBC World"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -490,45 +530,29 @@
       ]
     },
     {
-      "title": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmQ0c2FUVWhaMXlBcU94NERDUlp0YzhfdFpLUUpsaDhLeU5RRTVEU25GbXp0c2xtdDFlRmY3QU45TkRWdjFiR1djWXZGT05QbHY3ZkVDTVh1b2N1c2hRT3djc2gzOGh2d1B1M3ZqTjFhNTloOXN1ODBXM1VvTk50ck14VG9qLTJaeHoxRGU5VW1XSlBEdG5PMS1KbVVFcWx1QVp1UGg3X2YwYk1idFRmWVF0Z2xqMnNYZ2dqaHhjNA?oc=5",
-      "summary": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage&nbsp;&nbsp;Reuters",
+      "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+      "summary": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget&nbsp;&nbsp;WSJ",
       "content": "",
-      "published": "2026-10-28T02:10:00+00:00",
-      "source": "Reuters World",
+      "published": "2026-10-28T09:57:00+00:00",
+      "source": "GN Fed",
       "sources": [
-        "Reuters World",
-        "Reuters Technology"
+        "GN Fed",
+        "GN Top"
       ],
       "source_count": 2,
-      "category": "energy",
-      "category_zh": "能源",
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZllkUzkzN1QxY2xNcWtFVzZURk42M3BMY3N2OG9TTGxvS25pWGI1TGtScHR0TXh6UVIyZXZFSHJBN05ZT25nRnJpUTZibzRWZ1VuaE1jQ2UwQkY4U1cyX0ZrbGhQN29LNi1rZmdmM3ZOR3FZNHg4YVlwY0s1djdFVGlMQTNnSUllRmg5RmtuVmdISTFoVVluVWlIc0ZROHplWFhZMnJySGxuaHp6QV9pajNhSkxId3p1bzJGV2JlbVhpNkV2QlVXQi1pUXNzRmp1NV9NeA?oc=5",
-      "summary": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied&nbsp;&nbsp;U.S. Departmen",
-      "content": "",
-      "published": "2026-10-27T15:07:58+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.5,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
       "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz - Al Jazeera",
@@ -547,30 +571,6 @@
       "score": 13.4,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
-    },
-    {
-      "title": "Hormuz oil spill forces closure of UAE beaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-      "summary": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.",
-      "content": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure in Ras Al Khaimah until further notice and raising environmental concerns.\nShare Hormuz oil spill forces closure of UAE beaches on social media",
-      "published": "2026-10-28T10:02:32+00:00",
-      "source": "Al Jazeera",
-      "sources": [
-        "Al Jazeera"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 13.4,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
       "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
       "assets": [
         "原油",
@@ -620,11 +620,11 @@
       "assets": []
     },
     {
-      "title": "OpenAI plans to buy Google's AI chips, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
-      "summary": "OpenAI plans to buy Google's AI chips, The Information reports&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T01:23:00+00:00",
+      "title": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1VKR003dExDaWJnNmhUajVSX1hmMEY4Sml5XzdxaTlVOW1LQUlZakxIMzJhajNNN1YzTENkX3gtWTd1M2tudXNYZ04xbzBZQXdLa2o4eGpUN2N6X3ZVLTFjQk1XVGxDWUl6LUViWW1McTlIbTQ1Y1ZiOXgxYzBFb092d1drYU9qdUtodEt0Y2UyQ0xfSG44YQ?oc=5",
+      "summary": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out&nbsp;&nbsp;Yahoo Finance",
+      "content": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out\nOpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out\nUpdated Wed, October 28, 2026 at 2:14 AM MST 2 min read\n(Bloomberg) -- OpenAI ( OPAI.PVT ) intends to buy artificial intelligence computing chips from Alphabet Inc.'s Google ( GOOG ), according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.\nApple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking\nFinland and Norway Hold 'Frank' Call With Putin on Ukraine\nLula Wins Record Fourth Term in Surprise Brazil Comeback\nUS to Take In Bolsonaro After He Loses Election and Flees Brazil\nAnthropic Files for IPO in Global Race to Raise Cash for AI\nFinal terms of any deal aren't yet known, according to the person, who asked not to be identified because the discussions are private. OpenAI and Google declined to comment.\nThe move reflects OpenAI's multipronged bid to quickly add more AI processing power. The company has already announced plans to start using its own chips to support its artificial intelligence models later this year. It joins a stampede of companies working to develop homegrown AI chips and challenge Nvidia Corp.'s dominance in the field.\nOpenAI's in-house Jalapeno chips, developed with Broadcom Inc., were created with help from Google veterans. Richard Ho, who runs the OpenAI internal chip team, was previously involved in the development of Google's semiconductors — known as tensor processing units, or TPUs.\nGoogle began working on its TPUs more than a decade ago. Initially, the processors were used to speed up the company's web search engine and improve efficiency.\nBut the chips soon proved valuable for handling AI work and have emerged in recent years as an alternative to Nvidia's much-prized graphics processing units.\nOracle Corp. also announced on Tuesday that TPUs would be available through its cloud-computing infrastructure.\n\"The next generation of AI will require a diverse range of compute,\" Google executive Amin Vahdat said in a statement announcing that deal.\nThe Information previously reported that OpenAI was planning to buy Google chips.\nUS MBA Applications Plunge 27% as International Demand Drops\nBurger King Posted the Boss's Number for Feedback. He Got 100,000 Calls\nLula's Shock Win Stokes Fears Over Brazil's Financial Fate\nHackers Sympathetic to Russia Are Hitting Utilities and Factories",
+      "published": "2026-10-28T09:14:09+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -689,78 +689,77 @@
       ]
     },
     {
-      "title": "Oracle expands Nvidia AI chip deal, adds Google and other suppliers - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbmV5QVNwY0xyWDlkX1hIRW84anFtVFNsM2NOWHNqQnFNZHR5N0hUTmVZZ09OSFNscUtKTjYyVGRDRl9kOWRzLVZNSklSVDAwZ2lfWEZ3Xzk2ZFBLR05UZV9VVmVFNllaMW54WXR1WWZqbTcxWDV1S2Z0SlRqZ19DY0hkX213Tk5WQS1wcXk5Xy05RDBCTHoxQ2xqSzJkNnBMWUZKTFVMTFYySlpDZFZ5X0lwVVVDT3NSeUdkYnd5dnNfTVFYTThpbjZYYzNUOUJ6MGZ3VjRFWGdEaGdqbE8takw3b9IB6AFBVV95cUxPb0liblhJV01XMVRxSGpqMWRlb2hyN2NQRHhkT2Rtam4ybmQ0ZlgxVUFhWUpWdlFlQXdQVmQzcmNabjFWVUIyUnlZZEd1eGhWdlhWdjFfamJOQ0VwS3N6ZzdMU2lXVHdpSWNxWS1JVHlDYXNkNG5mMVI4aEtxal9yWXVrVGNwckViM2ZDTm1SR2VZcEFCWTZpMGpjdDd5UnZKM05CUHFsN3ctV20tNUprZzRGQXc2azNqMEVEdjhfbkIwd1dCU2k2Y0xQUkYtcEhzMDN1UFNhNU9xRWJwampMbjhwN2xFSUx0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbmV5QVNwY0xyWDlkX1hIRW84anFtVFNsM2NOWHNqQnFNZHR5N0hUTmVZZ09OSFNscUtKTjYyVGRDRl9kOWRzLVZNSklSVDAwZ2lfWEZ3Xzk2ZFBLR05UZV9VVmVFNllaMW54WXR1WWZqbTcxWDV1S2Z0SlRqZ19DY0hkX213Tk5WQS1wcXk5Xy05RDBCTHoxQ2xqSzJkNnBMWUZKTFVMTFYySlpDZFZ5X0lwVVVDT3NSeUdkYnd5dnNfTVFYTThpbjZYYzNUOUJ6MGZ3VjRFWGdEaGdqbE8takw3b9IB6AFBVV95cUxPb0liblhJV01XMVRxSGpqMWRlb2hyN2NQRHhkT2Rtam4ybmQ0ZlgxVUFhWUpWdlFlQXdQVmQzcmNabjFWVUIyUnlZZEd1eGhWdlhWdjFfamJOQ0VwS3N6ZzdMU2lXVHdpSW",
-      "content": "Oracle expands Nvidia AI chip deal, adds Google and other suppliers - The Times of India\nOracle expands Nvidia AI chip deal, adds Google and other suppliers\nOracle expands Nvidia AI chip deal, adds Google and other suppliers\nTOI Tech Desk / TIMESOFINDIA.COM / Oct 28, 2026, 11:27 IST\nOracle expands Nvidia AI chip deal, adds Google and other suppliers\nOracle has expanded its cloud AI chip deal with Jensen Huang-led Nvidia while adding AI chips from other suppliers, including Google and Cerebras Systems, as it seeks to offer customers more options for running artificial intelligence workloads. Oracle and Nvidia said the cloud company would expand its use of Nvidiaâs latest-generation Vera Rubin AI servers to \"multi-gigawatt scale\". âThe expanded collaboration gives customers infrastructure for both the GPU-intensive work of training and serving frontier models and the CPU-intensive tasks agents perform between model calls, including executing tools, testing code and retrieving data. Customers can scale CPU and GPU resources independently to match their workloads, helping reduce idle capacity and put more of their infrastructure to productive use,â the company said in an announcement. Oracle is also changing parts of its AI infrastructure. It plans to use its own Acceleron networking chips in some Nvidia-based systems instead of certain Nvidia networking chips. The company will also begin offering Googleâs tensor processing unit (TPU) chips for the first time. \"Different AI workloads have different compute needs,\" Mahesh Thiagarajan, president of Oracle Cloud Infrastructure, said in a statement.\n\"That choice gives (customers) the flexibility to choose the right infrastructure for the performance, throughput and economics of each AI workload.â Beyond Google, Oracle plans to offer chips from SambaNova Systems and Cerebras Systems. Both companies make chips designed for AI inference, the process in which an AI system responds to user requests. While Nvidia leads the market for chips used to train AI systems, the inference market has a wider range of competitors. \"That&#x27;s a massive expansion of our customer base of tier-one customers,\" Cerebras CEO Andrew Feldman said of the Oracle deal in an interview with Reuters. \"We&#x27;re being deployed in other people&#x27;s data centers at large scale.\"\nYou use AI every day. Now get your AI Quotient. Take the AIQ test.\nThe TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Deskâs news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.\n4-ingredient oil-free breakfast: Easy and healthy morning recipes to start your day\nAnanya Panday brings the drama in a backless Chanel dress with feathers and statement earrings\n5 things to notice before getting emotionally attached to someone you just met\nThe surprising plants that can regenerate from tiny fragments, spread through gardens and waterways, and turn a small leftover piece into an entirely new plant\nQuote of the day by Antoine de Saint-ExupÃ©ry: âLove does not consist in gazing at each other, but in looking outward together in the same directionâ; the difference between being attracted to someone and being compatible with them\nBloating after meals is usually caused by gas, constipation or indigestion, but when the swelling keeps returning, worsens without reason or comes with unexplained weight loss, could it be an early warning sign of cancer?\n10 baby names that mean endless, infinite and fathomless\n&#x27;Would-be mama&#x27; Samantha Ruth Prabhu blends cottagecore charm with Indian heritage in a handwoven cotton silk saree with matching linen jacket\nWho was B.P. Singh? His journey from creating Aahat, CID to playing DCP Chitrole; Funeral to be held on October 28\nBigg Boss Malayalam 8: From Neha to Tashi, Stylish looks from the weekend episode\nHe co-founded Facebook with Mark Zuckerberg, later became CEO of work management company but Dustin Moskovitz says âtop jobâ is not for him\nOracle expands Nvidia AI chip deal, adds Google and other suppliers\nMark Zuckerberg and Priscilla Chan announced in late 2025 that they are shifting their donations, just weeks later Meta CEO gifted state of California $50 million to fund abatement, demolition and ...\nBlackBerry was once the phone everyone wanted, now company CEO says it is betting on AI robots\nHSBC CEO has a warning on data centers; says not all of them are &#x27;good&#x27;; tells companies and investors: You have to look at â¦\nMicrosoft employees in India can now opt for a buyout: Who qualifies and what it pays\nAmazon updates AI usage rules for engineers, sends memo: We are seeing the beginning of AIâs effect on software engineering\nUpset Palmer Luckey is not leaving California over &#x27;Billionaire tax&#x27;, making it very clear that he will stay, as wants to ...\nDigi Yatra International Trials: E-passport flyers get digital ID checks; rollout eyed in 2027\nAs Elon Muskâs SpaceX and Jeff Bezosâ Blue Origin get ready to build a Moon base, NASA administrator Jared Isaacman gives an important update on Artemis IV, says: This agency knows very well â¦\nIsrael Election Result 2026 Live Updates: &#x27;Whole tide turned&#x27; - Trump says his endorsement for Netanyahu helped change Israel election results\nJio IPO Listing Live Updates: Jio Platforms Limited lists at 21% premium, market capitalisation hits Rs 12.5 lakh crore\nAfter 1,600 years, researchers recreate the colour-changing glass of a Roman masterpiece\nIndiana couple paid contractor with cheques and a truck; backyard trusses led to $82,020 liability\nScientists collected DNA from seawater at 316 sites across Japan;126 fish species farther north\nGrandmother denied protection order against grandchildrenâs mother as judge says she is not âfamilyâ; US appeals court overturns decision\n$65 million scam targeting elderly Americans used India-based call centres, fake rental addresses; YouTube sleuths helped expose ring\nIsland Recovery After Eradication: Native forests regrow on Nuâutele; turtles and rare birds return\nMacKenzie Scott&#x27;s $10 million donation helps fund housing project for 30 families in US\nCyclone Arnab Live Updates: Arnab&#x27;s landfall continues along Andhra coast, process to last 3 more hours\nPatrick and Brittany KC Stephen Curry Celebration Lewis Hamilton Tyreek Hill Bangladesh Vs West Indies Match Score Andre and Agassi LA Land Mike Tyson Stephen Curry Message Travis kelce charity Travis kelce estate Harry Kane Patrick and tom brady charity compare Cyclone Arnab WPL Auction 2027 Andhra Pradesh Cyclone Mike Waltz Andre Agassi and Steffi Graf Siang Dam Project Israel Election Exit Polls Flavio Bolsonaro Jio IPO Andre Agassi Neeraj Yadav Benjamin Netanyahu Travis Kelce Mom Aakash Chopra Iran War Abhishek Sharma Abhishek Sharma Record Mitchell Starc\nAbout us Create Your Own Ad Terms of Use and Grievance Redressal Policy Privacy policy Advertise with us RSS Newsletter Feedback ePaper Contact Us Editorial Policy\nCricbuzz Lifestyle Newspaper Subscription Food News TV Times Prime Travel Destinations Whats Hot ETimes Times Pets\nBreaking News Times Mobile Gadgets Now City News Work with Us Colombia TOI Auto Luxury TOI Homes TOI Home & Decor Ecopreneur Wellness AIQ\nKarwa Chauth Wishes Sai Pallavi Diljit Dosanjh Melanie Laurent Keerthy Suresh Nayanthara Rashmika Mandanna Chethan Dsouza Udta Teer Box Office Collection Taylor Swift Sunny Deol Ramayana Karwa Chauth 2026 Daler Mehndi Jailer 2 Collection Javed Akhtar Tiger Shroff House Amanda Seyfried Govinda Ramayana Advance Booking Ariana Grande Walter Koenig Death News Ashaatti Ammumma Mark Wahlberg Quentin Tarantino Asin Baby Names Tom Cruise Drishyam 3 Box Office Collection Horoscope Today Divorce Case Evidence DNA Test Ruling IIHMCA Compensation Royal Enfield Classic 350 Blue Origin Lunar Landers Moderate Drinking Burmese Python Violet Clinton University Of Cambridge DAC Defence Approvals Spain Conservation Project Captions For Instagram Posts\nMLC Election Results Gurgaon Hit and Run Case Anthropic N Chandrasekar Arunachal Protest Jhansi Suicide Odisha School Holiday NTA Exam Calendar Delhi High Court Delhi SIR Bosiram Singh Mumbai Locals Cancelled Rajasthan Molestation Jodhpur Election Result Behala Assault Bengal Rape Pune Rapido Ban Karnataka SIR Jhansi Suicide Jamshedpur Accident Andhra Red Alert Mumbai Deforestation Amir Shokeen Tata Sons Kuno Cheetah Cub Umar Khalid Bengaluru Road Rage Keralam Accident Guwahati Murder Amritsar Murder Blackberry AI Robots Mark Zuckerberg Georges Elhedery Amy Coleman Amazon AI Usage Rules Palmer Luckey Infosys H-1B Visa PhonePe Tatkal NPS Elon Musk Dyson Study Vaibhav Das Mundhra\nHeadlines Sports News Business News India News World News International Sports Health Breaking News Travel Astrology Deorhi TOI Young Leaders TOI Home Decor Awards Power Creator Awards 2026 The Times of India Ecopreneur Gold Rate Today Weather Today Silver Price Today Delhi Weather Today Petrol Price Today Diesel Price Today CNG Price Today LPG Price Today Petrol Price Mumbai FIFA 2026 Is Bank Open Today FIFA 2026 Schedule Is Bank Open Tomorrow Public Holidays in June Bank Holidays in June\nSinggaramm | Song - Thiruvizha âWe Never Leftâ: US Rejects Iranâs Hormuz Retreat Claim As IRGC Threatens To Sink American Warships Haiku | Tamil Song - Thithikiriye Haiku | Telugu Song - Gammunundadhe The Dad | Song - Magale Ninna Jothe (Lyrical) &#x27;Dig&#x27; Trailer: Amy Poehler and John Mawson starrer &#x27;Dig&#x27; Official Trailer Orijinal | Song - Njaan Rajaaa &#x27;Is It You, Tehran?&#x27;: Loud Bang Interrupts Trump Speech; He Makes Wild &#x27;Iran Bomb&#x27; Joke | Watch Dune: Part Three - Official Trailer &#x27;Puking.. Sick As A Dog&#x27;: Trumpâs Strange Rally Performance Goes Viral After âMeat Loveâ Jibe Meghan Markle&#x27;s Shock Media Decision Revealed By Insider Before Dad Thomas&#x27; BOMBSHELL Probe Surfaced Russia-Iran Intel Link Exposed? Spy Satellites Tracked Near Saudi Targets Before Houthi Strikes &#x27;BLOODY AMERICAN BOOTLICKER&#x27;: Lula Clashes With Trump After US-Backed Bolsonaro Flees Brazil | WATCH Hormuz Embargo Breach Turns Deadly: Oil Tanker Catches Fire After Hitting Iranâs Naval Mines Can India trust Donald Trump? Is the Modi-Trump bonhomie dead, or is it just sleeping? Netanyahu OUSTED, Eisenkot New PM? Tel Aviv Erupts As Israeli Exit Polls Stun Ben-Gvir, Elate Arabs Iran Security Forces Raid Suspected Armed Cell In Restive Southeast, Seize Rifles And Ammunition Russia-NATO Tensions Flare; Putin Men Stops German Cargo Ship Near Finland Amid Wargames | Details\nIdahoâs 3-foot dam, built in the 1930s, powered one ranger station; removed in 2021, it reopened five miles of spawning habitat for threatened bull trout An Indiana couple paid a contractor with cheques and a Ford F-350 truck for home repairs, but he made roof trusses in his backyard; on October 26 a court made him personally liable for an $82,020 judgment Tiger Shroff to resume shooting for Janhvi Kapoor and Lakshya starrer &#x27;Lag Jaa Gale&#x27; in November after firing incident, makers plan a 10-day patchwork schedule and keep location under wraps to prioritise actorâs safety Scientists collected DNA from seawater at 316 sites across Japan and found 126 fish species farther north than previously recorded, revealing how warming seas may be reshaping where coastal wildlife can survive âDisrespectfulâ: Stuart Broad tears into Lancashire over James Anderson&#x27;s shock exit A 1,600-year-old Roman cup turns green or ruby red depending on how light hits it; after years of experiments, Sheffield researchers have recreated the glass effect using tiny gold and silver particles London homeowner ordered to repay Â£225,000 to Thames Water after High Court finds she claimed her flood-hit home was unsaleable despite selling it for Â£780,000 In 2012, MIT professor Anant Agarwal put an undergraduate circuits course online for free; nearly 155,000 people registered to learn from the class BEL Probationary Engineer Recruitment 2026: Notification out for 350 posts, applications open October 28; apply here In New Jersey, painter John Fricano built Jack and Jillâs Hill and the Three Bearsâ house for his kids in 1955; Storybook Land grew to 20 acres, with 19 rides Gulzar reflects on &#x27;Maachis&#x27; as Tabu, Chandrachur Singh and Jimmy Shergil starrer turns 30; &#x27;It showed the truth of those days&#x27; Male birth control pill: Scientists develop on-demand contraceptive to be taken 30 minutes before sex, with up to 8 hours of protection âCalculated, intentional actâ: SIT says Gurgaon biker was deliberately rammed by car Rs 25,000 crore in taxes, 12 lakh jobs: Vaishnaw backs mobile PLI scheme Can a murder conviction be set aside if an accused is questioned in a language he doesnât understand? Jharkhand HC explains Three-time Asian Para Games gold medallist Neeraj Yadav dies by suicide &#x27;We are not claiming that &#x27;Titans&#x27; is a cult classic&#x27;: Director Prince Joy urges audiences to watch the Jayasurya starrer in theatres Fans point out Freddie Prinze Jr. and Sarah Michelle Gellarâs son, Rocky, looks just like his father in a new pic: âWe all wanted a second Freddy Prince&#x27;\nCopyright Â© 2026 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service Follow Us On",
-      "published": "2026-10-28T05:57:00+00:00",
-      "source": "GN AI",
+      "title": "Volkswagen's journey: Beetle maker's wartime roots to reinvention - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckhKVmlwdndjZXVDcHhJSk1wZ1RBampaZ1czZjhlQU80b0gzbzRJb0xMWkhJSXVwSlNfNXQ1UFI5VVVfamQzQllwc1RaRHg5YXAxTEJldEVfelczUWNhakFPck00dTdWZFpWTk5rR010NmtLSlRRUld4UktFUWZlVmUxWE8xR1h4WU9BS3dnN1NVU1BadUZDcGtPbEJRYml6ZFJmREIxc0lrU0U?oc=5",
+      "summary": "Volkswagen's journey: Beetle maker's wartime roots to reinvention&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T07:25:37+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN AI"
+        "Reuters World"
       ],
       "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 13.3,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "OpenAI Eyes Google’s TPUs As AI Chip Costs Climb - Finimize",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGEtNjVZUDBWR2V6clRwX0ptY3JoYW9ORWZKWlJ5RmhDa1BTNXNqVnp6cFZsS2owdFU1QXlhd3RsanpzU00xSURHVXM0RVM1WnlONHdhUHJqZl9BVjJIaXowejNMS1hNYmp4Uzg0eExRLUJtZGpTOXZFZzY5QlFveEdzUnI?oc=5",
-      "summary": "OpenAI Eyes Google’s TPUs As AI Chip Costs Climb&nbsp;&nbsp;Finimize",
-      "content": "",
-      "published": "2026-10-28T01:31:42+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 13.3,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Ukraine's military debuts aerial rescue drones hoping to cut evacuation times from hours to minutes - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUs0eDh0RzAtVDBrbkdSQ215ZmNTcGpBWUI5R0tVUTVWMlRVYXFwSzNKb1V6OVlxemdfcTlONTd3R3NmUXZ3TFJtV1VOMXR4STRaUHhZYVE4Vmx6Z0tuN202VG84aWxXTF8yeFpkeklyb1RZYUpXUHlLNHdOcVJTU1lxTHNzZU5PM0k5M21ldDc4bS1peU9Xa0xzamhyeks2?oc=5",
-      "summary": "Ukraine's military debuts aerial rescue drones hoping to cut evacuation times from hours to minutes&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-27T15:30:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 13.1,
+      "score": 13.2,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
     {
-      "title": "Exit polls are in, but it could be weeks or months before the winner of Israel's election is known - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXy11cjF5OV80d2xMX3p3VEtWVUE4U2tZYThmNHplTThGT3drU2tYTVNTdEdQdUtiTjFxVVdrMXFXUW8xLWRTVXBLZHl4eEdtNzJrWmJCYlFSRVctREpsZXR0aTFoVmhZNFZ1ZWRCOWk2VUx0Smt3U2M4MUJSWUM1d3VuNU9xQUVDWUtCTkd2Q2F0N3NBc1c3V0JIdU9GUnRTYk04MXFB?oc=5",
-      "summary": "Exit polls are in, but it could be weeks or months before the winner of Israel's election is known&nbsp;&nbsp;AP News",
+      "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
+      "summary": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-27T20:55:00+00:00",
+      "published": "2026-10-27T22:11:26+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTNpQXVCYkdWTzZ2Q0VQYVVKb1BSV0hRZWttLXhtNUhDY0JoNGJrZlJnUmJZSUt2NmQwU3JqUEJ0bnJxRk9Qdi1iSkx3dENILXZrWFlzTER3OEpxbWdaMklxbmp4QUlZSmJFTUVrSktYV2twbkQzVFFWV25WbGUtZnZiYnZxSjNpaVhzYkprbDdhTFVHcXdvNHl0WUw2cHMzSUVINkkwUTl1Zw?oc=5",
+      "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T10:16:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN AI"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+      "summary": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T03:55:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -772,28 +771,30 @@
       "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.1,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
     {
-      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-      "content": "By Gabriela Pomeroy Â  and Â  Thomas Naadi ,Â  BBC Africa ,Â  Reporting from Accra\nTwin brothers from Ghana and an American woman have pleaded guilty to being part of an international criminal network that defrauded people on dating sites and social media.\nThe group targeted elderly people in the US and Europe, using fake identities to lure their victims into believing they were in a romantic relationship, before persuading them to transfer large sums of money into bank accounts in Ghana.\nThe 22-year-old twins, Jamal and Kamal Abubakari, and 53-year-old Amanda Joy Opoku-Boachie from Hawaii face up to 20 years in jail and will be sentenced next year.\nBetween July 2024 - April 2026, the victims collectively lost $9m (Â£6.7m).\nWhile many of them were from Ohio - where the charges were brought - other victims were located in 24 other US states, as well as Germany and Austria.\nAs part of the plea, the Abubakaris and Opoku-Boachie agreed to forfeit pieces of jewellery which investigators seized during their arrest, including luxury watches, rings, chains and earrings.\nImage source, US Attorney&#x27;s Office, Northern District of Ohio\nImage caption, Jewellery was confiscated from the gang after they were arrested\nJamal Abubakari, also known as Jamal Abubakar and Arrangement\nKamal Abubakari, also known as Kamal Abubakar and Lancaster\nJoy Opoku-Boachie, also known as Amanda Joy Glum and Amanda Joy Kessei Bierman\nIn recent months, US authorities have stepped up their crackdown on criminal networks operating in the US and West Africa which seek to defraud elderly Americans.\nEarlier this month, FBI Director Kash Patel said it had made hundreds of arrests after dismantling a scam centre in Ghana.\nIn June, a Ghanaian social media influencer known as Abu Trica, whose real name is Frederick Kumi, was extradited to the US to face trial for allegedly running a romance scam that defrauded elderly Americans of more than $8m (Â£5.9m).\nHe targeted victims through social media and online dating platforms, and is accused of requesting money or valuables under false pretences such as urgent medical needs.\nThe case against Kumi is being prosecuted under the US Elder Abuse Prevention and Prosecution law. He denies all the charges against him.\nGhanaian influencer extradited to US over $8m scam targeting elderly Americans\nDead in 6 hours: How Nigerian sextortion scammers targeted my son\nMass arrests in global crackdown on West African cyber-crime networks\nGo to BBCAfrica.com , external for more news from the African continent.",
-      "published": "2026-10-27T18:43:41+00:00",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch: What happens now after close vote in Israeli election?\nWatch: What happens now after close vote in Israeli election? Close\nPolls have closed in the Israeli election and votes are being counted.\nExit polls suggest there is no clear winner, with neither veteran Prime Minister Benjamin Netanyahu nor former military chief Gadi Eisenkot on track to secure a majority.\nThe BBC&#x27;s Hugo Bachega ",
+      "content": "Watch: What happens now after close vote in Israeli election?\nWatch: What happens now after close vote in Israeli election? Close\nPolls have closed in the Israeli election and votes are being counted.\nExit polls suggest there is no clear winner, with neither veteran Prime Minister Benjamin Netanyahu nor former military chief Gadi Eisenkot on track to secure a majority.\nThe BBC&#x27;s Hugo Bachega looks at what might happen next.",
+      "published": "2026-10-28T04:22:59+00:00",
       "source": "BBC World",
       "sources": [
-        "BBC World"
+        "BBC World",
+        "Guardian World",
+        "NPR World"
       ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -801,7 +802,7 @@
       "title": "Equinor Profits Triple as Oil and Gas Prices Surge - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1RDOFhSLWVwX0JRV0t6RXNFaGNHUG1uaEpiVC1FNVFhWGRWQ29hYWEyV1RValNJX2VPQ2RrYk5vUHdrelc0cTlGQjNrWXdPeFpjZDJaSERUNlo2dHVtcjNKUXVBWEQwdWZFVzd2elFybTdyaTlhblJRNERnTDB3UVVUd1hmdTNvdlh2djZpUXNEVDRYMjUtTUF6Y0Z2bGMwNGQ5c1hYT3JzZ9IBrwFBVV95cUxQNmxBd0N3VEZnZWFZYm9IVGxrZ0RFbjMxcGRBNVNzZUVTMVB1SWpWVS1xV0w5eDNyalotcjF1QnR2Z2xva2FScV9oSjUyUFVTTkl2UFVVQmIzQm5GcndvS2wtel9nbVo5N3ZUNVFZQ2pxaDhVUy1uTTN3b1F3cEstaHBTaERDTWJlWmlUV1V2NEVxZDVmeDVOdGU3c3RrTDJKQ3c4OHBMTVozNWJROGdN?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1RDOFhSLWVwX0JRV0t6RXNFaGNHUG1uaEpiVC1FNVFhWGRWQ29hYWEyV1RValNJX2VPQ2RrYk5vUHdrelc0cTlGQjNrWXdPeFpjZDJaSERUNlo2dHVtcjNKUXVBWEQwdWZFVzd2elFybTdyaTlhblJRNERnTDB3UVVUd1hmdTNvdlh2djZpUXNEVDRYMjUtTUF6Y0Z2bGMwNGQ5c1hYT3JzZ9IBrwFBVV95cUxQNmxBd0N3VEZnZWFZYm9IVGxrZ0RFbjMxcGRBNVNzZUVTMVB1SWpWVS1xV0w5eDNyalotcjF1QnR2Z2xva2FScV9oSjUyUFVTTkl2UFVVQmIzQm5GcndvS2wtel9nbVo5N3ZUNVFZQ2pxaDhVUy1uTTN3b1F3cEstaHBTaERDTWJlWmlUV1V2NEVxZDVmeDVOdGU3c3RrTDJKQ3",
-      "content": "Equinor Profits Triple as Oil and Gas Prices Surge | OilPrice.com\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nOil Traders Brace for Iran Escalation After U.S. Elections\nSanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nDiesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion\nIndia Rejects Claims of U.S. Pressure Over Russian Oil Purchases\nTrump Moves to Ease Methane Regulations for U.S. Oil Producers\nIEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains\nIndia’s Oil Buyers Squeezed by $123 Crude and Weak Rupee\nOil Prices Drop Despite Threat of New U.S. Strikes on Iran\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nEQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover\nRussian Refiners Ramp Up Diesel Output to Supply Trump Deal\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nMiddle East Physical Crude Slides While Brent Hits Five-Month High\nOil India Strikes Natural Gas in Shallow Offshore Basin\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nRenewables Boom Pushes Australia’s Gas Power to Quarter-Century Low\nEuropean Natural Gas Prices Surge to Highest Level Since 2022\nEni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts\nUK Rules Out Winter Energy Shortages as Gas Prices Soar\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nRussia's Arctic Oil Shortcut Runs Into a Wall of Ice\nCOP31 Host Urges NATO Nations to Spend More on Climate Than Defense\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nEquinor tripled its adjusted net income for the third quarter from a year earlier, on the back of strong refining margins, high oil and natural gas prices, and increased hydrocarbon production.\nThe Norwegian energy major on Wednesday reported an adjusted net income of $2.86 billion for the third quarter, tripled from the $932 million income for the same period last year.\nEquinor's oil and gas production rose by 2% year-over-year to 2.166 million barrels of oil equivalent per day (boepd).\nFurthermore, the company realized a European gas price of $20.0 per million British thermal units (MMBtu) in the third quarter, up from $15.79 per MMBtu in the second quarter. The realized gas price also surged by 75% compared to the third quarter of 2025, as European gas prices spiked this summer amid a lack of LNG supply from Qatar due to the Iran war and the disruption at the Strait of Hormuz.\nEquinor's averaged realized liquids price soared by 42% from a year earlier to $92.3 per barrel in the third quarter, as the Middle East conflict keeps oil prices elevated and above $100 per barrel since early September.\nThe results of the Marketing, Midstream and Processing (MMP) division were also strong, primarily driven by high refining margins and strong refining performance, as well as LNG trading, the company said.\nThe results in the MMP division confirmed the company's expectation from earlier this month that this segment would earn more than the guidance of $400 million for the third quarter, thanks to very strong refining margins and high proceeds from oil and LNG trading.\nEquinor's post-tax adjusted operating income in the MMP division came in at $574 million, above the guidance and well above the $195-million income for the third quarter of 2025.\n\"High production in the third quarter enabled us to capture additional value from higher prices. Based on safe and efficient operations we are increasing our 2026 guiding for oil and gas production growth from 3 to around 4 per cent,\" Equinor's president and CEO Anders Opedal said.\n\"At the Mongstad refinery, our operational performance was strong and we achieved record results.\"\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nOil Traders Brace for Iran Escalation After U.S. Elections\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "Equinor Profits Triple as Oil and Gas Prices Surge | OilPrice.com\nIndia's Gasoline Demand Could Peak by 2035 as EVs Gain Ground\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nOil Traders Brace for Iran Escalation After U.S. Elections\nSanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nDiesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion\nIndia Rejects Claims of U.S. Pressure Over Russian Oil Purchases\nTrump Moves to Ease Methane Regulations for U.S. Oil Producers\nIEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains\nIndia’s Oil Buyers Squeezed by $123 Crude and Weak Rupee\nOil Prices Drop Despite Threat of New U.S. Strikes on Iran\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nEQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover\nRussian Refiners Ramp Up Diesel Output to Supply Trump Deal\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nMiddle East Physical Crude Slides While Brent Hits Five-Month High\nOil India Strikes Natural Gas in Shallow Offshore Basin\nU.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York\nU.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production\nRenewables Boom Pushes Australia’s Gas Power to Quarter-Century Low\nEuropean Natural Gas Prices Surge to Highest Level Since 2022\nEni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts\nIndia's Gasoline Demand Could Peak by 2035 as EVs Gain Ground\nRussia's Arctic Oil Shortcut Runs Into a Wall of Ice\nBritain Finally Creates an Oil Wealth Fund—50 Years Too Late\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nEquinor tripled its adjusted net income for the third quarter from a year earlier, on the back of strong refining margins, high oil and natural gas prices, and increased hydrocarbon production.\nThe Norwegian energy major on Wednesday reported an adjusted net income of $2.86 billion for the third quarter, tripled from the $932 million income for the same period last year.\nEquinor's oil and gas production rose by 2% year-over-year to 2.166 million barrels of oil equivalent per day (boepd).\nFurthermore, the company realized a European gas price of $20.0 per million British thermal units (MMBtu) in the third quarter, up from $15.79 per MMBtu in the second quarter. The realized gas price also surged by 75% compared to the third quarter of 2025, as European gas prices spiked this summer amid a lack of LNG supply from Qatar due to the Iran war and the disruption at the Strait of Hormuz.\nEquinor's averaged realized liquids price soared by 42% from a year earlier to $92.3 per barrel in the third quarter, as the Middle East conflict keeps oil prices elevated and above $100 per barrel since early September.\nThe results of the Marketing, Midstream and Processing (MMP) division were also strong, primarily driven by high refining margins and strong refining performance, as well as LNG trading, the company said.\nThe results in the MMP division confirmed the company's expectation from earlier this month that this segment would earn more than the guidance of $400 million for the third quarter, thanks to very strong refining margins and high proceeds from oil and LNG trading.\nEquinor's post-tax adjusted operating income in the MMP division came in at $574 million, above the guidance and well above the $195-million income for the third quarter of 2025.\n\"High production in the third quarter enabled us to capture additional value from higher prices. Based on safe and efficient operations we are increasing our 2026 guiding for oil and gas production growth from 3 to around 4 per cent,\" Equinor's president and CEO Anders Opedal said.\n\"At the Mongstad refinery, our operational performance was strong and we achieved record results.\"\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nOil Traders Brace for Iran Escalation After U.S. Elections\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nSanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nIran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens\n6 Million Barrels in Two Minutes Draws CFTC Scrutiny\nU.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens\nU.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-28T09:20:33+00:00",
       "source": "GN Energy",
       "sources": [
@@ -844,31 +845,34 @@
       ]
     },
     {
+      "title": "Global shares are mixed after US stock rally, and oil prices gain more than 1% - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHVPRUhMc29Fa0ZDNVJ5X3NYVFUteDhlVXNtVzN0cHc?oc=5",
+      "summary": "Global shares are mixed after US stock rally, and oil prices gain more than 1%&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T09:29:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Iran Update, October 27, 2026 - Institute for the Study of War",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlVkYm80cGlVaV83YnRWUU1pQk9JYUxSRXZjRE5pUV8yaUVXWEpQbkpfWlN6cG5lUnZJQTRKY0FOWU1xNkM3WUVxSnVRNFVNUklRaHItVmE5dVRfZFZ1bjFLdFQtOXVsY3phSnMwWHIxS0E4SGtaV0R2SEQ4OVBSYnFjdlE?oc=5",
       "summary": "Iran Update, October 27, 2026&nbsp;&nbsp;Institute for the Study of War",
       "content": "",
       "published": "2026-10-28T00:47:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Iran war and cost-of-living take center stage in Virginia congressional race - NPR",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnZRWTVacFVJSXV6czkwSUdYZ2pmWG9rWnJ6MXZpQXZDVjA4S1hfMWJRdTkwZXh1TGw0Zk1ReERzSDRxTjFveDU5bGV4UndoazkzZ2NxMmVxX2hiVUsxMVNYT1JlRjQycHpxZ2c5a1VrWEJVMWY3dmNWSFpFazFDZmRZUEtpZUtmSmtnZC0tc3czRE01STJmeTZpZlpLanVIM3BCOGNMdmVEaEtVRUZoVHVFOV8xNVdHZmFzY3Rn?oc=5",
-      "summary": "Iran war and cost-of-living take center stage in Virginia congressional race&nbsp;&nbsp;NPR",
-      "content": "Iran war and cost-of-living take center stage in Virginia congressional race High prices and long deployments are shaping this year's race in Virginia's Second Congressional District. The area with deep Navy ties has been a kind of political bellwether.\nIran war and cost-of-living take center stage in Virginia congressional race\nIran war and cost-of-living take center stage in Virginia congressional race\n< iframe src=\"https://www.npr.org/player/embed/nx-s1-6011209/nx-s1-9981479\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">\nHigh prices and long deployments are shaping this year's race in Virginia's Second Congressional District. The area with deep Navy ties has been a kind of political bellwether.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
-      "published": "2026-10-28T08:47:06+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -904,6 +908,46 @@
       "assets": []
     },
     {
+      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhLY0QxNnotazVyRzJXNnJGZTJORWI5UzZpakY5Ql9ybWJONUt1MVl4UEdpb1JOZk5KNm1TdTV1TkRUTERwdzBHdjJzU3IxdWM4ME5vMTZFMWI5bVkwN0dXSjItVUpGMFpSSXBwOGdkVVEtM2lpclhTRGVMTjFYS0VKTl9yT0FTWlZzc2dEdVRpNmVDM1V5NlpudXRyT0RoNzlGaXhhNA?oc=5",
+      "summary": "Gulf states working on multipart peace deal to avert renewal of US-Iran war&nbsp;&nbsp;The Guardian",
+      "content": "Iran wants guarantees of sanctions relief in return for reopening the strait of Hormuz. Photograph: Amirhosein Khorgooi/AP\nIran wants guarantees of sanctions relief in return for reopening the strait of Hormuz. Photograph: Amirhosein Khorgooi/AP\nGulf states working on multipart peace deal to avert renewal of US-Iran war\nTalks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in Yemen\nA multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to withdraw substantial forces inside Yemen are at the heart of Gulf states’ plans to avert what they regard as a disastrous renewal of war between Iran and the US.\nThe US is aware of the talks’ progress but is holding out for a concession that European powers suggest could involve Iran allowing UN weapons inspectors back into the country.\nThe British foreign secretary, Ed Miliband, urged the Iranians to agree to readmit the UN weapons inspectors when he met the Iranian foreign minister, Abbas Araghchi, in New York but so far Iran has refused, saying it will only hold talks in principle on its nuclear programme.\nOil price rises above $117 a barrel amid fears US will renew strikes on Iran\nEuropean diplomats believe allowing weapons inspectors to reenter Iran and visit its bombed nuclear sites is a minimum requirement for a breakthrough with the US president, Donald Trump.\nBut Iran remains focused solely on the guarantees of sanctions relief it would receive in return for reopening the strait of Hormuz . Dr Ali Bagheri, the deputy secretary of Iran’s national security council, said Iran was willing to reduce its proposal that the strait reopen seven days after economic sanctions are lifted to four days.\nIn a further sign of flexibility, Iran is starting to acknowledge it has a mediating role in the parallel conflict in Yemen . Iran’s secretary of the supreme national security council, Mohsen Rezaei, met the Houthi’s ambassador to Iran, Ibrahim al-Dulaimi, on Tuesday.\nThe meeting took place 24 hours after a high-level delegation from Saudi Arabia, Turkey and Pakistan travelled to Tehran to discuss Saudi terms for ending the Yemen conflict as well as a longer-term security architecture for the region.\nIran backs the Houthis, and has the power to influence them, including devising proposals that stop short of a Houthi military victory that many say is unobtainable. In return the Houthis are demanding that Saudi Arabia lift what it regards as a naval and air blockade on Houthi-held territory.\nIran successfully prevented discussion of its nuclear programme at the meeting with Turkey, Saudi Arabia and Pakistan, and instead ensured the focus was a broader discussion about a long-term regional security vision that would include the Gulf states and Iran and see the US presence in the Middle East reduced or ended.\nA new non-aggression pact in which Iran is no longer ostracised by the rest of the Gulf, as it has been since the 1979 Islamic Revolution, would meet Iran’s highest strategic goal.\nAn agreed commitment to this goal by six Gulf states might also make it easier for Iran to swallow potentially difficult tactical concessions that it would be required to make concerning its nuclear programme.\nUS and Israel are warned against launching fresh strikes on Iran\nOne of the key advocates of the inclusive security plan, Oman’s foreign minister, Badr Albusaidi , said he believed the US administration understood this was the direction the region is heading.\nHe said: “I think if Iran is fully re-engaged in this idea of having all of us, eight countries at peace with the rest of the world, the economic potential is going to be enormous for all of us in the region and those outside the region who choose to take part in this development. We have really discussed this in at length during the talks between Iran and the United States, and I think there is general acceptance that this will be the direction of travel once we have a deal in place at the end of the day.”\nAt a televised event in Iran this week Araghchi underlined the importance of a new postwar security pact to Iran, saying: “Recently, there has been talk of a new war but I am already thinking about the postwar period. Whether there is war or not, our policies remain the same.”\nExplore more on these topics Middle East peace talks",
+      "published": "2026-10-28T05:02:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iranians cut essentials and put dreams on hold as war-hit economy bites - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjd4SVdyN0hZcml3UmdlZW1qOW11WFNjUVJxTjhiNHF1N2tCanBqd1ctbzNtOFhOQURONzhNZFRyckdnVVloZ05VNFVaTm9EbFpUUm16MmFrNlFNSC16N1lMb1h4cUdCS29DalBFcEptZkpVLWVUbFhpQ2lwdkV1SS1RYU9ReDU1czFNNHB0dlFTM1BOWnhudzd1VUViVWg3WWViWnlaWnVlZm9uTDN0LXlEVF9VNDVUcnc?oc=5",
+      "summary": "Iranians cut essentials and put dreams on hold as war-hit economy bites&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T12:19:43+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Food and household brands warn of more price hikes as Iran war costs bite - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXRiWWdvUGZ0dTBiY2t4aWlWZlNWSlVlYUV4VXR6c25vRFJ0QUJ2NEJ6WTJTSW93cWFhb2xDYURhY2gydkQyRHhvMEFJYkh0S1JjVTVOLWlTbEVOQW83UUZZam5TTnBtV1ZoS2NaV3REUXF6andpWUZfcXpwdzRMQjJmZkxkdUs0eDVFSF94TjN5Tl9INFZ1WVFiUm8wSzBvbHlEQVJJT25TMlBWRVZneE01NGl6ekNHVGhYb2ZqNTRHdw?oc=5",
       "summary": "Food and household brands warn of more price hikes as Iran war costs bite&nbsp;&nbsp;Reuters",
@@ -912,6 +956,46 @@
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TTUZTQXdTX1VoLXBEdnpiRzZ5MWRuRFh6aS1FZGRhdWdtNDlyZVJZbmdNYjhfRkl5QUtkbmF6RktUTXFQWkJYRnlMUTExUEpFYkUtS1B3cmE3ZEFrXzJNYzJKakdOTkN1Q1RNX0hfaXRGT256aW5Uazl6MA?oc=5",
+      "summary": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers&nbsp;&nbsp;The New York Times",
+      "content": "",
+      "published": "2026-10-28T01:09:55+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iranians face energy squeeze from war as natural gas runs short - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNFZleUltZjdQbFhjS003RjRRUUltSzFxTTN0YTNMZ2UxLXBGS2JQa0hfVG1iNG5aUVBlbExrWFF5SGpKdkZRNWR0Qmk1VUVfWjlKcXAtLWxhdVVMa2ZQM0tPc0U4b2IxNU9zRjd1Q1o?oc=5",
+      "summary": "Iranians face energy squeeze from war as natural gas runs short&nbsp;&nbsp;Financial Times",
+      "content": "",
+      "published": "2026-10-28T11:00:06+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
       ],
       "source_count": 1,
       "category": "geopolitics",
@@ -988,29 +1072,6 @@
       "assets": []
     },
     {
-      "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-      "link": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-      "summary": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
-      "content": "Jim Cramer warns AI trade still faces financing risks\nCNBC’s Jim Cramer warned that the latest rally in AI stocks doesn&#x27;t mean the data center trade is out of the woods.\nThe world is changing rapidly, for the better, says Jim Cramer\nCNBC&#x27;s Jim Cramer warned Tuesday that investors may be getting ahead of themselves by declaring the artificial intelligence trade back on track.\nAI-related stocks rallied for a second straight session, fueled by renewed enthusiasm for chipmakers after a group of banks and Blackstone announced $63 billion in financing for Anthropic to purchase Broadcom&#x27;s computing hardware. The gains followed Monday&#x27;s rally, sparked in part by Anthropic&#x27;s S-1 filing . But Cramer cautioned the renewed optimism doesn&#x27;t resolve the pressures facing the data center trade, which was hit hard late last week .\n\"I&#x27;m pleased that people feel so comfortable that tech is all good to go because there is money flowing back in,\" the \" Mad Money \" host said. \"I don&#x27;t think that&#x27;s a reason to call all clear. I think it&#x27;s a reason to look at other sectors in the economy.\"\nCramer&#x27;s skepticism centers on three lingering risks.\nFirst, Cramer remains concerned about smaller AI infrastructure companies, known as neoclouds, that are taking on significant debt to fund the data center build-out. Rising interest rates have intensified worries about their ability to sustain those borrowing costs. Cramer singled out CoreWeave , whose bonds have yielded as much as 15% , along with Nebius and Iren . Despite an almost 8% rebound in CoreWeave shares Tuesday, he warned that fresh negativity around CoreWeave could emerge.\n\"I have learned that after every positive story about anything in the data center, there will be a plethora of negative stories about something wrong, including Coreweave,\" Cramer said.\nSecond, Cramer questioned whether the Broadcom-Anthropic financing deal was as reassuring as investors believed. While the $63 billion package demonstrated that lenders were still willing to finance massive AI investments, Cramer raised concerns that Anthropic is borrowing money to buy Broadcom&#x27;s technology, rather than paying for it with profits from its own business. \"People don&#x27;t seem to grasp that [Anthropic] got the money in the Broadcom-arranged financing deal to purchase equipment from Broadcom,\" he said.\nFinally, Cramer said that Tuesday&#x27;s calmer bond market could prove short-lived. Oil prices declined and the 10-year Treasury yield fell below 5%, easing some pressure on AI companies that need to borrow heavily to fund their data center investments. But those conditions could reverse, particularly with the Federal Reserve set to announce its latest interest rate decision Wednesday afternoon, followed by Chairman Kevin Warsh&#x27;s post-meeting press conference. The midterm elections next week and potential flare-ups in the Middle East may represent additional sources of volatility.\n\"With the exception of Nvidia , these data center companies don&#x27;t have a lot of money. So they have to borrow the money,\" Cramer said. \"The rates are getting so high that the return is getting uncertain. That hasn&#x27;t changed at all.\"\nCramer emphasized that he remains \"an unabashed believer in the AI build-out.\" But until the industry&#x27;s financing challenges ease, he isn&#x27;t ready to declare the coast clear.\nJim Cramer talks the current state of the data center trade\nClick here to read Jim Cramer&#x27;s Guide to Investing   at no cost to help you build long-term wealth and invest smarter\nSign up now  for the CNBC Investing Club to follow Jim Cramer&#x27;s every move in the market.\nWant to take a deep dive into Cramer&#x27;s world? Hit him up!\nMad Money Twitter - Jim Cramer Twitter - Facebook - Instagram\nQuestions, comments, suggestions for the \"Mad Money\" website? madcap@cnbc.com\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-27T22:24:19+00:00",
-      "source": "CNBC Top",
-      "sources": [
-        "CNBC Top"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
       "title": "EXCLUSIVE: China's CXMT to start advanced AI memory production despite poor yields, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDFWeWo1UVJwSDh4OXB5RnJyVVhXaG1zNHZIMlMyZmpaV0FEU3llN21sZG05OGpyUEZtR3FuTTJ6Y2pBZzEwWVU0dFRPSkExVFRfUGg0SFpzb2tLWDlObGFIQ3Axa2lodWgySngtb2ZEMUFxcXlwZUJnbmdNcTZCalJtSDV5TUpTM282XzFldlZTM012WFRhc0hQamIwOGMxUlpYOEsxUDh1UVkyWjE0aWh2OVdFOTN1cEVKVER0RmE4eEhudGc?oc=5",
       "summary": "EXCLUSIVE: China's CXMT to start advanced AI memory production despite poor yields, sources say&nbsp;&nbsp;Reuters",
@@ -1042,7 +1103,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
       "summary": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms&nbsp;&nbsp;WSJ",
       "content": "",
-      "published": "2026-10-28T03:48:00+00:00",
+      "published": "2026-10-28T11:12:00+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics",
@@ -1079,34 +1140,30 @@
       "assets": []
     },
     {
-      "title": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3UtZm1JOGV0S1VXZ09nTW15RjdsVmdnZ2gtempfQkt1REhoVmpKRXczenNsOWxBTXozQ2k1dU1CMk1oLTRuZmpDMHVkcnFhNTFjN3JUa0lxSjdyNjU4Q2lTcS1zZVR3NWNlY2hYVktZTzU0WGNYMkM1QXQ2WE9JdGFzeGgtVnlFLTJlbGtrbGVRemJ0TTBrRlNlUjRCQmk2TVVUWTI1ZXVQQQ?oc=5",
-      "summary": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas&nbsp;&nbsp;WSJ",
-      "content": "",
-      "published": "2026-10-28T01:43:00+00:00",
-      "source": "GN Energy",
+      "title": "What we know so far about deadly Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "content": "Figure caption, Watch: Aerial footage shows train crash scene\nTwo trains have collided in Spain just south of the capital Madrid on Wednesday morning.\nRail operator Adif says the incident occurred between a Renfe train and another of the Iryo company, which covers the Madrid to Seville route.\nSo far at least 30 people are confirmed to have died in the incident with casualty numbers expected to rise.\nThe two trains collided just after 09:00 (08:00 GMT) between municipalities Mora and Orgaz, and about 140km (100 miles) south of Madrid.\nThe accident happened when a high-speed train travelling from Madrid to the south of the country collided with another train that was apparently stationary. The crash caused at least two carriages to fall down an embankment.\nBroadcaster RTVE, quoting the transport ministry, said a Renfe train rear-ended an Iryo train.\nRenfe is Spain&#x27;s national state-owned railway company while Iryo is a private high-speed railway operator.\nAll train traffic on this line has been stopped at stations along the route, Adif said.\nRenfe said services between Madrid, Ciudad Real and Andalusia remain suspended.\nA passenger on board one of the trains told local media there was a heavy impact about 40 minutes into the journey.\nImage caption, Aerial footage shows the extent of the damage and the emergency response\nThe cause has not been confirmed, though reports in Spain suggest a high-speed train hit another train which had stopped on the tracks.\nMore than 500 people were believed to be on board both trains.\nEsther Padilla, spokesperson for the government of Castilla-La Mancha region, told TVE that one of the trains - managed by the Iryo company - was carrying 146 passengers plus one baby, while the Renfe-managed train had 397 passengers on board.\nLocal leader Emiliano GarcÃ­a-Page, president of Castilla-La Mancha, said \"at least 30\" people are now confirmed to have died.\nSpeaking separately to Spanish media, he warned the death toll could increase further.\nImage caption, A huge emergency response is underway\nSpanish Prime Minister Pedro SÃ¡nchez said he was \"shocked by the serious train accident in Toledo\".\n\"I remain in constant contact with the Minister of Transport, and with the president of Castilla-La Mancha,\" SÃ¡nchez said on X, adding that emergency services were working on the ground \"to assist those affected and ensure their safety, in coordination with all the involved administrations\".\n\"My affection, solidarity, and support to all the victims and their families.\"\nSÃ¡nchez and other Spanish politicians have cancelled all public engagements on Wednesday, including campaigning for next month&#x27;s parliamentary elections.\nSpain&#x27;s royal family posted on X that it was \"shocked and concerned\" by the accident and expressed condolences for the relatives of the deceased and those affected by the crash.\nA spokesperson for the EU said the bloc was ready to help Spain if needed.\nA huge emergency response is under way with fire crews and helicopters at the scene.\nSpanish news agency have reported that hospitals in the area have suspended planned surgeries as they deal with an influx of patients from the crash.\nA blood transfusion centre in Madrid has also appealed for \"urgent\" donations. In a post on X, Centro de TransfusiÃ³n said it made the request \"in the face of a possible sudden increase in care needs\".\nIt reported that facilities in Toledo, Ciudad Real and AlcÃ¡zar de San Juan have cancelled procedures as casualties from the crash begin to arrive.\nThis is the second high-speed rail tragedy in Spain this year.\nIn January a high-speed train derailed in southern Spain , its rear carriages going into the path of a state-run Renfe train, claiming the lives of 46 people.\nAre you in the affected region? If it safe to do, get in touch.\nIf it is safe to do so, you can also get in touch by following this link\nDozens feared dead after two trains collide south of Madrid",
+      "published": "2026-10-28T12:14:44+00:00",
+      "source": "BBC World",
       "sources": [
-        "GN Energy",
-        "GN Top"
+        "BBC World"
       ],
-      "source_count": 2,
-      "category": "energy",
-      "category_zh": "能源",
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
       "score": 12.6,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "First Venezuelan Oil Cargo Arrives in US Under Discounted Deal - Egypt Oil & Gas",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT29aOU9pWUFrVUY5RHhQYnNYZHlWcXdJUUFRaTctclZTYlVPQ084ZWZpRVhKdGF5MmtON0VmV2RLczVwOXl4dGxwZmFtb0oxQzBVSGRCeC13TXBIR1Nkbkd1OWhfa1pVVWVDVzlVbF9rajNjVmpPa3RWZXRNS1dMb1VRRnM1cmkzU1JsV3lzdTV4V28xS1RxVQ?oc=5",
       "summary": "First Venezuelan Oil Cargo Arrives in US Under Discounted Deal&nbsp;&nbsp;Egypt Oil & Gas",
-      "content": "First Venezuelan Oil Cargo Arrives in US Under Discounted Deal | Egypt Oil & Gas\nFirst Venezuelan Oil Cargo Arrives in US Under Discounted Deal\nThe first shipment of Venezuelan crude oil under a US agreement with private oil company North American Blue Energy Partners (NABEP) arrived in Texas, with the 1 million-barrel cargo set to be sold to refineries operated by ExxonMobil and Citgo Petroleum, Reuters reported.\nThe US government described the shipment as provided at no cost to American taxpayers. However, this does not necessarily mean the crude itself was free: The Washington Post reported that the agreement involved a discounted purchase price of $30 per barrel.\nThe delivery marks the first shipment under an agreement between Washington and NABEP, a private energy company operating in Venezuela. The deal is intended to expand US access to Venezuelan crude and support the development of the country's oil sector.\nUnder the agreement, the US secured access to a portion of NABEP's crude production, while the company gained expanded rights to develop Venezuelan oil fields. The arrangement follows Washington's increased involvement in Venezuela's petroleum industry and efforts to direct additional crude supplies to US refineries.\nThe cargo's arrival also provides additional feedstock for US refining operations, including those operated by ExxonMobil and Citgo. The commercial terms and the scale of future shipments will determine the agreement's longer-term implications for crude supply and refinery operations.\nNABEP has said it expects further shipments under the arrangement, although the pace of deliveries will depend on the agreement's implementation and the company's ability to expand production.\nIn September, Venezuela’s National Assembly had backed an oil deal with the administration of US President Donald Trump, ahead of a planned visit to Caracas by US Energy Secretary Chris Wright. The agreement was said to give the US access to around one-fifth of Venezuela’s oil reserves through an arrangement under which NABEP would receive a 100-year lease for 17 oil fields in Venezuela holding some 65 billion barrels of oil reserves.\nSarah has been writing in the oil and gas field for 8 years. She has a Bachelor Degree in English Literature. She has three years of experience in the banking sector.\nIndia Says US Has Not Pressured It to Cut Russian Oil Imports\nKuwait Offers 35,000 Tons of Naphtha for November Delivery to Asia\nEgypt to Launch Eastern Mediterranean OBN Seismic Survey\nIEA: Global Energy Markets Unlikely to Return to Pre-War Levels in 2027\nDonec nec justo eget felis facilisis fermentum. Aliquam\nIndia Says US Has Not Pressured It to Cut Russian Oil Imports\nUS oil producer Ovintiv to Acquire Canada's Logan Energy for $890Mn\nSaudi Arabia to Expand Asian Crude Oil Storage With Singapore Deal\nOil Prices Falls as US Waiver on Russian Sanctions Raises Supply Prospects\nQatarEnergy Extends LNG Delivery Suspensions to Italy and South Asia Through Year-End\nFirst Venezuelan Oil Cargo Arrives in US Under Discounted Deal\nGet all latest content delivered to your email a few times a month.\nGet all latest content delivered to your email a few times a month.",
+      "content": "First Venezuelan Oil Cargo Arrives in US Under Discounted Deal | Egypt Oil & Gas\nFirst Venezuelan Oil Cargo Arrives in US Under Discounted Deal\nThe first shipment of Venezuelan crude oil under a US agreement with private oil company North American Blue Energy Partners (NABEP) arrived in Texas, with the 1 million-barrel cargo set to be sold to refineries operated by ExxonMobil and Citgo Petroleum, Reuters reported.\nThe US government described the shipment as provided at no cost to American taxpayers. However, this does not necessarily mean the crude itself was free: The Washington Post reported that the agreement involved a discounted purchase price of $30 per barrel.\nThe delivery marks the first shipment under an agreement between Washington and NABEP, a private energy company operating in Venezuela. The deal is intended to expand US access to Venezuelan crude and support the development of the country's oil sector.\nUnder the agreement, the US secured access to a portion of NABEP's crude production, while the company gained expanded rights to develop Venezuelan oil fields. The arrangement follows Washington's increased involvement in Venezuela's petroleum industry and efforts to direct additional crude supplies to US refineries.\nThe cargo's arrival also provides additional feedstock for US refining operations, including those operated by ExxonMobil and Citgo. The commercial terms and the scale of future shipments will determine the agreement's longer-term implications for crude supply and refinery operations.\nNABEP has said it expects further shipments under the arrangement, although the pace of deliveries will depend on the agreement's implementation and the company's ability to expand production.\nIn September, Venezuela’s National Assembly had backed an oil deal with the administration of US President Donald Trump, ahead of a planned visit to Caracas by US Energy Secretary Chris Wright. The agreement was said to give the US access to around one-fifth of Venezuela’s oil reserves through an arrangement under which NABEP would receive a 100-year lease for 17 oil fields in Venezuela holding some 65 billion barrels of oil reserves.\nSarah has been writing in the oil and gas field for 8 years. She has a Bachelor Degree in English Literature. She has three years of experience in the banking sector.\nIndia Says US Has Not Pressured It to Cut Russian Oil Imports\nKuwait Offers 35,000 Tons of Naphtha for November Delivery to Asia\nEgypt to Launch Eastern Mediterranean OBN Seismic Survey\nIEA: Global Energy Markets Unlikely to Return to Pre-War Levels in 2027\nDonec nec justo eget felis facilisis fermentum. Aliquam\nIndia Says US Has Not Pressured It to Cut Russian Oil Imports\nUS oil producer Ovintiv to Acquire Canada's Logan Energy for $890Mn\nSaudi Arabia to Expand Asian Crude Oil Storage With Singapore Deal\nOil Prices Falls as US Waiver on Russian Sanctions Raises Supply Prospects\nIRENA Forecasts Slower Growth in Global Clean Energy Capacity in 2026\nQatarEnergy Extends LNG Delivery Suspensions to Italy and South Asia Through Year-End\nFirst Venezuelan Oil Cargo Arrives in US Under Discounted Deal\nGet all latest content delivered to your email a few times a month.\nGet all latest content delivered to your email a few times a month.",
       "published": "2026-10-28T06:57:57+00:00",
       "source": "GN Energy",
       "sources": [
@@ -1124,6 +1181,29 @@
       "assets": [
         "原油",
         "能源股"
+      ]
+    },
+    {
+      "title": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3BUbE1JVUhsMjRDT1V5LUY3RlMyTmJEM0JpVHdoLTdzdjJFOHFiSTdhNHVHRlRUMVJGN1JOUlFpZDd4SDRCNHUzQjYxN2tIRUgyVzQ3RnVlcmpCVE9wajJqcE5SNWpERU9ScHdwb3A2NHlGU29tc2lZR2lVWmxFTU1DdlNHczQ?oc=5",
+      "summary": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival&nbsp;&nbsp;Barron's",
+      "content": "",
+      "published": "2026-10-28T11:07:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
       ]
     },
     {
@@ -1174,30 +1254,6 @@
       ]
     },
     {
-      "title": "US Stock Market Today: S&P 500 Futures Ease As Traders Weigh Fed Path - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1RNZHdNdmVsMk5EODNxZ3J3TTdtMURZU3phR0ZhSlpCcC1fNmpJLWZkek5JQXVEWUtyYl84dkY2SjhJRUt0NVRmaGhxSW5wMTZPWVpXbC05MmVfa0JsdGk4cnZOaGV4X3Nzd1NrYUdnRmk0VVItNExybUJxaVNILVBIR2ZqQ3FDMUlQR1NNSERhZw?oc=5",
-      "summary": "US Stock Market Today: S&amp;P 500 Futures Ease As Traders Weigh Fed Path&nbsp;&nbsp;Yahoo Finance",
-      "content": "US Stock Market Today: S&P 500 Futures Ease As Traders Weigh Fed Path\nThe Morning Bull - US Market Morning Update Tuesday, Oct, 27 2026\nUS stocks look set for a slightly softer open, with the focus squarely on interest rate expectations rather than overnight equity moves abroad. Sentiment feels cautious as investors weigh solid US activity data against an approaching Fed decision.\nThe Chicago Fed National Activity Index printed at +0.07 for September, which points to modestly above trend growth. That reading supports the view of a still resilient US economy just one day before the Fed announces its latest interest rate decision.\nA firmer growth backdrop can keep borrowing costs elevated, since policymakers have less pressure to cut aggressively when activity indicators run positive. Higher rate expectations tend to bite most in rate sensitive areas such as smaller caps and capital intensive businesses that rely heavily on refinancing.\nThe unresolved question is simple: Does a +0.07 activity print give the Fed enough confidence to signal a tighter path, or will officials lean on recent volatility in volatility gauges and global data to justify a more cautious tone on future hikes?\nCoreWeave is in focus after expanding its AI cloud footprint with new computing capacity in Denmark and extending its Global AI Network into the Middle East and Asia Pacific. The firm is also in the spotlight as Anthropic's IPO filing draws attention to AI infrastructure providers and prior concern around CoreWeave's debt. Watch how customers respond to the larger network.\nVisa faces a proposed collective £5 billion lawsuit in the UK over alleged anti competitive card payment fees. Law firms have asked the UK Competition Appeal Tribunal to allow an opt out action covering roughly 1,000,000 UK businesses. The key issue for investors is whether the tribunal approves the claim, which would set the stage for a long legal process.\nMastercard is caught in the same UK legal push, with the complaint targeting multilateral interchange fees over a six year period. The filing mirrors the case against Visa and seeks compensation for a wide pool of merchants. Attention now turns to how the tribunal frames any potential class, since that could influence eventual financial exposure and settlement talks.\nComfort Systems USA (FIX) jumped 7.18% after strong Q3 results, a record backlog, and analyst commentary that highlighted solid demand visibility.\nCoherent (COHR) climbed 5.83% after StoneX initiated coverage with a Buy rating and highlighted indium phosphide capacity expansion.\nBloom Energy (BE) rose 5.49% following Q3 results that exceeded expectations, a higher 2026 revenue outlook, and a Barclays price target increase.\nNu Holdings (NU) fell 16.95% after Lula's surprise reelection in Brazil hit Brazilian financial stocks and the currency.\nMercadoLibre (MELI) declined 7.81% as Lula's win in Brazil pressured Brazil-exposed U.S.-listed Latin American ecommerce shares.\nDoorDash (DASH) dropped 6.10% after reports it is in advanced talks to acquire Instacart for about US$17 billion.\nFor US investors, the next stretch is defined by the Fed decision, a dense run of inflation and GDP releases, and a fresh wave of mega cap earnings led by Apple and Amazon.com.\nFed Interest Rate Decision Wed 28 Oct. The target rate previously sat at 4% and consensus also points to 4.0%. Any surprise move or sharper guidance on the path ahead could affect borrowing costs across mortgages, credit cards, and corporate debt.\nCore PCE Price Index MoM Thu 29 Oct. Core PCE for September carries a consensus of 0.3%. A result above that mark could increase pressure on Fed officials to keep policy tight and could weigh on higher duration growth stocks.\nGDP Growth Rate QoQ Adv Thu 29 Oct. Third quarter US GDP has a consensus of 3.2% after a previous 2.2%. A softer outcome could ease pressure on rates, while a stronger reading could reinforce the case for restrictive policy staying in place.\nPCE Price Index YoY Thu 29 Oct. Annual PCE inflation previously printed at 3.4% with forecasts at 3.6%. A figure below that range could support the disinflation narrative and interest rate sensitive sectors such as housing and utilities.\nApple Mon 2 Nov. The Q4 2026 earnings release puts the spotlight on services and iPhone revenue. Any shift in guidance around those segments may help investors reassess expectations for cash generation and buyback capacity.\nAmazon.com Thu 29 Oct. Q3 2026 results focus attention on retail margins and cloud profitability. The balance between online sales performance and AWS income may influence views on US ecommerce demand and big tech spending plans.\nEnergy and Oil and Gas have both gained over the past week, adding to strong 30 day and 1 year returns. Deals like EQT's plan to buy Range Resources and Ovintiv's Logan Energy purchase show large producers trying to scale around expected US gas demand and LNG exports.\nIf you own broad energy ETFs or US gas producers, the single data point to track is this Wednesday's EIA crude and product inventory report, because tighter US stockpiles can keep cash flows for the sector supported.\nReal Estate : REIT deals contrast with rate pressure\nReal Estate has firmed over the last 7 days and month while the 1 year number is close to flat. Private buyers are still active, with LXP Industrial Trust shareholders approving a sale and grocery anchored landlords like Brixmor and Phillips Edison expanding, even as higher borrowing costs hang over the group.\nIf you hold REITs, focus on Tuesday's US new home sales release, since slower sales would underline how current mortgage rates are affecting housing demand and developers' appetite to start new projects.\nTech & Semiconductors : AI buildout meets financing questions\nTech is slightly higher over the past week but softer over 30 days, while Semiconductors show a clear pullback on the month after strong year to date gains. Big AI infrastructure plans from Microsoft, Meta and others are generating orders for chipmakers and equipment suppliers, yet headlines about tighter funding for smaller AI data center operators are starting to matter for sentiment.\nFor portfolios with heavy chip or cloud exposure, Thursday's US Core PCE inflation reading is the key macro reference, since a firmer print can keep yields elevated and pressure sectors where investors rely most on long dated growth assumptions.\nHealthcare & Pharmaceuticals & Biotech : Trial wins keep demand steady\nHealthcare and Pharmaceuticals & Biotech have both risen over the past week and month on top of solid 1 year returns. Positive data on cancer and rare disease treatments from Merck, Pfizer, Mirum and others keep attention on new drug pipelines rather than day to day swings in discretionary spending.\nIf you use these sectors as a ballast in your portfolio, Thursday's US GDP and PCE inflation bundle is the main macro event, because a mix of steady growth and contained price pressures can support interest in earnings streams that feel less tied to the economic cycle.\nConsumer Discretionary : Pressure under the surface of retail\nConsumer Discretionary is down over the past week and year to date despite a slightly positive 30 day move. Earnings from Whirlpool and legal issues at retailers like Dollar General show how stretched budgets and price scrutiny can hit bigger ticket and lower income focused spending at the same time.\nIf you hold US retail or ecommerce stocks, Friday's US Employment Cost Index is worth watching, since slower wage growth would ease cost pressure for employers but could also temper how much consumers have to spend heading into the holiday season.\nIf steady interest in Healthcare and Pharmaceuticals & Biotech is your safety anchor, start by checking this list of 30 resilient stocks with low risk scores .\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com",
-      "published": "2026-10-27T12:09:12+00:00",
-      "source": "GN Markets",
-      "sources": [
-        "GN Markets"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
       "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
@@ -1218,28 +1274,24 @@
       "assets": []
     },
     {
-      "title": "France minerals envoy says rare earths diversification from China possible within 3-5 years - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXhQdjlWb3R4UkhZNXliXzFIZGQ2NTduaXJDUlItdWljbUM4S3VuVXdXZElpckF6OFBUZlJRYWhwQzN4eG5lNmJpSHJXYWJsampleEZFcGk4MmxLUXdIdVpVNlNnYlNIYzZCU0Uzc2dXSnQzZjM5c29jSUlXWTVlTXh5anpYZ01XZGlEWmZTSWJ2YnJ5NGR3YUZHbDRHU3RlOS11VW5fbU9kck4zSTNuNC1TdlFuTnF4Mm90bjRfUHpySzViT05n?oc=5",
-      "summary": "France minerals envoy says rare earths diversification from China possible within 3-5 years&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T04:07:00+00:00",
-      "source": "Reuters World",
+      "title": "Spain train crash leaves at least 30 dead, local media reports - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+      "summary": "Spain train crash leaves at least 30 dead, local media reports&nbsp;&nbsp;CNN<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRY",
+      "content": "• Deadly rail crash: At least 30 people have been killed and around 100 injured after two trains — carrying about 500 passengers — collided in Spain’s Toledo province, according to a local government official. CNN’s team on the ground observed a frantic scene amid a huge emergency response.\n• ‘People were hurled into the air ’: Several witnesses described to CNN at the scene the chaotic moments when passengers were thrown airborne. Rescue operations are still under way along the high-speed line linking the Madrid region with Andalusia has been suspended.\n• Third train crash this year: This is the third rail disaster in Spain in 2026. In January, two high-speed trains collided near Adamuz , in southern Spain’s Córdoba province, killing more than 40 people. A commuter train near Barcelona derailed days later.",
+      "published": "2026-10-28T11:32:00+00:00",
+      "source": "GN Top",
       "sources": [
-        "Reuters World"
+        "GN Top"
       ],
       "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
+      "score": 12.5,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Germany set for record trade deficit with Asia-Pacific in 2026, report says - Reuters",
@@ -1260,50 +1312,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Britain issues costliest 5-year debt since 2008 before budget - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1OUWtCMm9pOWNzYWNEdXRNODl2WE9rTWE5ZlRwM003ci1yLWhTRkhNZzFtU0Z0Y1REdDd2bURaX1dVYlEwN0x3T2pvLXNRS2lFRTVYR0NtVlA4bklNVnhPckl6Z09tNkxBY0Q2dXhNcDE5RWZUd1lUZnE4Qm9BeE04cE5oMkY1ejNDU29BekppNDdzcVppa2NrejhQVTIxSUdUUkRRUHh6dw?oc=5",
-      "summary": "Britain issues costliest 5-year debt since 2008 before budget&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T11:07:45+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-      "summary": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget&nbsp;&nbsp;WSJ",
-      "content": "",
-      "published": "2026-10-28T09:57:00+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
     },
     {
       "title": "Gold eases on higher oil prices ahead of Fed decision - Reuters",
@@ -1331,27 +1339,6 @@
         "美元",
         "美股"
       ]
-    },
-    {
-      "title": "Policeman kills knife attacker outside Israeli embassy in Serbia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5",
-      "summary": "Policeman kills knife attacker outside Israeli embassy in Serbia&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T08:53:43+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "AP World"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     }
   ]
 }
