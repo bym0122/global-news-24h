@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T16:42:38.383419+00:00",
+  "generated_at": "2026-10-28T18:36:17.669613+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-27T16:42:13.335498+00:00",
-  "window_end": "2026-10-28T16:47:13.335498+00:00",
+  "window_start": "2026-10-27T18:35:58.888921+00:00",
+  "window_end": "2026-10-28T18:40:58.888921+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -28,32 +28,6 @@
         "原油",
         "能源股",
         "油运"
-      ]
-    },
-    {
-      "title": "Federal Reserve likely to skip rate hike despite elevated inflation - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-      "summary": "Federal Reserve likely to skip rate hike despite elevated inflation&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-28T16:34:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Fed",
-        "GN Top"
-      ],
-      "source_count": 3,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 4,
-      "score": 19.0,
-      "is_hypothetical": false,
-      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
       ]
     },
     {
@@ -123,7 +97,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5",
       "summary": "US sanctions North Korean network accused of defrauding businesses&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-28T15:24:43+00:00",
+      "published": "2026-10-28T16:58:38+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -139,11 +113,35 @@
       "assets": []
     },
     {
+      "title": "Brazil's Flavio Bolsonaro arrives in US after election defeat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFNc0szNTA2RXdkb1BURmJ2bnB2R1BIVkdpN0hEcXlBclpLel9TdVVmbzdFTjNJU291aHlnZlFUdkx5OHdVN3ZndXNmaEVtUmZGQU8tQ3J1RmhFQVZQLWNaTlNDdXUwd0R6US1mMDd3a0w4TVRJdWpic2RxaHFtSXItcFpHNzFiUUs3MXFVQWlZb21sN2x1eHQ1ZlY0bmFpS3NyYkxXb1FlSWZN?oc=5",
+      "summary": "Brazil's Flavio Bolsonaro arrives in US after election defeat&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T13:41:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "BBC World",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 5,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 15.2,
+      "is_hypothetical": false,
+      "why_important": "多源确认（5 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5",
       "summary": "US imposes sanctions on Rwanda's defense ministry over Congo conflict&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-28T15:26:46+00:00",
+      "published": "2026-10-28T16:58:34+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -160,11 +158,11 @@
       "assets": []
     },
     {
-      "title": "UK Treasury offers support with energy bills in the face of Iran war price shock - AP News",
+      "title": "UK offers modest support with energy bills in the face of Iran war price shock - AP News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVA2cnhSTWpRMXB1Rm1BekEwRUtDMXFJMTJETGtGSUt2b1RvRlJnZ2dpbWdZV0VWSDBfV0FYY2dKUXNXQTJXeUNCYjRqZEU1cGs4aF9lenJYTGxyLUNyV2JrbENCY1E4Si02Um1odU1zOU9wd1I3TV9VdDlpdW5KRlY1TXdEWVZaSUhjRE1WWVBvdkRHUmltRnpiQ1V1R1pEY3FVZ0dKNA?oc=5",
-      "summary": "UK Treasury offers support with energy bills in the face of Iran war price shock&nbsp;&nbsp;AP News",
+      "summary": "UK offers modest support with energy bills in the face of Iran war price shock&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-28T14:58:00+00:00",
+      "published": "2026-10-28T16:25:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -207,70 +205,29 @@
       ]
     },
     {
-      "title": "Brazil's Flavio Bolsonaro arrives in US after election defeat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFNc0szNTA2RXdkb1BURmJ2bnB2R1BIVkdpN0hEcXlBclpLel9TdVVmbzdFTjNJU291aHlnZlFUdkx5OHdVN3ZndXNmaEVtUmZGQU8tQ3J1RmhFQVZQLWNaTlNDdXUwd0R6US1mMDd3a0w4TVRJdWpic2RxaHFtSXItcFpHNzFiUUs3MXFVQWlZb21sN2x1eHQ1ZlY0bmFpS3NyYkxXb1FlSWZN?oc=5",
-      "summary": "Brazil's Flavio Bolsonaro arrives in US after election defeat&nbsp;&nbsp;Reuters",
+      "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+      "summary": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-28T13:41:43+00:00",
-      "source": "Reuters World",
+      "published": "2026-10-28T06:03:19+00:00",
+      "source": "AP World",
       "sources": [
-        "Reuters World",
         "AP World",
-        "NPR World",
-        "Al Jazeera"
-      ],
-      "source_count": 4,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 14.8,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Norway's premier says call with Putin was effort to present European views - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV?oc=5",
-      "summary": "Norway's premier says call with Putin was effort to present European views&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T10:46:09+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
+        "GN Fed"
       ],
       "source_count": 2,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 3,
       "score": 14.8,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-      "summary": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-27T19:42:07+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "BBC World",
-        "GN Geopolitics"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
     },
     {
       "title": "Equinor Sees Tight Winter LNG Market as Hormuz Flows Remain Limited - Natural Gas Intelligence",
@@ -297,6 +254,27 @@
       ]
     },
     {
+      "title": "Kremlin says European countries not included in next Ukraine talks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVprbDd0YjBUUGE3bUFkaWkzVVJfSXZJSFBVTjBpemVDWG1jRFg1emRBMXdubmo3SFZPazE1aUVBaFZPRUdnalJlanp0S2VEQnV3WjVIVnpEOUdhN1hIbTBxVS15XzVNbmZmeFI4Mk1kS1ZONWNjR0xrOE5nVnpjOVNhbHhnY3dFemNiRGsyVUNaREtRT3RiSENPdlo4aEdqb0ZJeGVyX3o3bTN50gGyAUFVX3lxTE1hbkozcEJsRXB5RzNEdW5LOVMzaHBJbERDY25xT09UZzNGR1hBLTk4RWU3Sm40LVAydDlEeWFCSGdEZlJRQk5DYUw1TTFuVmNTS1NQNTFsR2JzbWJpa2puaTN3VXoyMDlYVnFhVVZIOTY3Z010Z0dVX0VBcEdwM2M4THc5WVZvdVpCb0ZfSmVYZ0VpWDcxaWxHNWFmNFdWcWcxOUJuX3B1Vjg2c204RTRWQkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVprbDd0YjBUUGE3bUFkaWkzVVJfSXZJSFBVTjBpemVDWG1jRFg1emRBMXdubmo3SFZPazE1aUVBaFZPRUdnalJlanp0S2VEQnV3WjVIVnpEOUdhN1hIbTBxVS15XzVNbmZmeFI4Mk1kS1ZONWNjR0xrOE5nVnpjOVNhbHhnY3dFemNiRGsyVUNaREtRT3RiSENPdlo4aEdqb0ZJeGVyX3o3bTN50gGyAUFVX3lxTE1hbkozcEJsRXB5RzNEdW5LOVMzaHBJbERDY25xT09UZzNGR1hBLTk4RWU3Sm40LVAydDlEeWFCSGdEZlJRQk5DYUw1TTFuVmNTS1NQNTFsR2JzbWJpa2puaTN3VXoyMDlYVnFhVVZIOTY3Z010Z0dVX0VBcEdwM2M4THc5WVZvdVpCb0ZfSmVYZ0VpWDcxaWxHNWFmNFdWcW",
+      "content": "Share Kremlin says European countries not included in next Ukraine talks on social media\nUkrainian President Volodymyr Zelenskyy and Dutch Prime Minister Rob Jetten shake hands at a news conference in The Hague, Netherlands, on October 28, 2026 [Stephanie Lecocq/Reuters]\nBy Al Jazeera Staff , Reuters and The Associated Press\nEuropean countries will not be included in the next round of talks with Ukraine and the United States planned to take place in Abu Dhabi, according to a top foreign policy aide at the Kremlin.\nInterfax news agency quoted Yuri Ushakov, who said the possible participation of European countries was not discussed during a  90-minute phone call on Tuesday among Russian President Vladimir Putin, Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Store.\nlist of 4 items list 1 of 4 Romania says Russia-run sabotage network set fire near weapons factory\nlist 2 of 4 Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect\nlist 3 of 4 Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?\nlist 4 of 4 Norway and Finland hold rare phone call with Putin: What that means\nBut Stubb offered a different account, telling a meeting of the Nordic Council in Helsinki that European countries would be involved in November’s Abu Dhabi talks.\nSpeaking at a news conference in the Netherlands on Wednesday, Ukrainian President Volodymyr Zelenskyy said trilateral talks with Russia and the US would take place from November 6 to November 10 in the United Arab Emirates.\nZelenskyy said Kyiv wanted Europe to also be involved in the talks, adding that unity and stronger pressure on Russia were needed.\nHis comments came after he met with Dutch Prime Minister Rob Jetten, who pledged an extra 500 million euros ($556m) for military support to Ukraine this winter to buy drones and other material to strengthen Ukraine’s defences. Zelenskyy is also due to meet Dutch King Willem-Alexander on Wednesday.\nEarlier in the day before Zelenskyy’s visit, the Dutch government announced a new support package for Ukraine worth 1.2 billion euros ($1.33bn) over the next three years and a contribution of 40 million euros ($44.5m) by the end of this year to the Ukraine Energy Support Fund.\n“Support for recovery and reconstruction can’t wait for a ceasefire. Ukraine needs our help right now – military support but also social and economic assistance,” Sjoerd Sjoerdsma, the Dutch minister for foreign trade and development cooperation, said during a visit to Kyiv on Wednesday.\n“However successful you are on the battlefield, it’s also essential that energy systems, hospitals and food production keep ticking over,” he added.\nIn a separate development, Zelenskyy thanked British Prime Minister Andy Burnham for a newly announced additional support package worth 10 billion pounds ($13.3bn) after a Wednesday morning phone call.\n“A truly strong and very timely step – coming right as Russia needs to see and feel that Ukraine will not be left alone to deal with the problems Russia is so eager to escalate,” Zelenskyy wrote on social media.\nAccording to Downing Street , the new British aid package for Ukraine includes 500 million pounds ($665m) in additional military support from the Ministry of Defence “to plug urgent gaps in Ukraine’s air defences this winter”.",
+      "published": "2026-10-28T16:31:20+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.5,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3haOWdlVTZzOVIzZk9zZE11UHhGeDBtOVJXeEo3c3NWeHRWd3F2SU5BOE4zcWRpeVFuVVUwYkl4eFJDbDVPNVVKaUhSREFwSENKWkF1NFloTlg2c1NrQkJhdzFJcW42dXV2UmgxUE44YWJvbkp5b3YwdEE3b1ROZy1sZ0d5YkFPeTFjTWwwZDZOVFQ5cEwyeTBIZURidDFEMzBwZVZPQlkzYmNlUEprQmVNbW8xcTlISWVvLV9GX0VZUQ?oc=5",
       "summary": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro&nbsp;&nbsp;Reuters",
@@ -321,7 +299,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
       "summary": "Houthis strike Yemen's Aden airport after evacuation warning&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-28T13:28:31+00:00",
+      "published": "2026-10-28T16:51:33+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -338,11 +316,101 @@
       "assets": []
     },
     {
+      "title": "At least 68 people dead in Spain's second major train crash this year - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+      "summary": "At least 68 people dead in Spain's second major train crash this year&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T18:23:15+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+      "summary": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T03:55:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "BBC World",
+        "Guardian World",
+        "NPR World"
+      ],
+      "source_count": 4,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Federal Reserve set to issue interest rate decision as midterm elections loom - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTkx4dXU0eXha?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTk",
+      "content": "Federal Reserve holds interest rates steady as midterm elections loom\nThe Fed raised interest rates a quarter of a percentage point last month.\nThe Federal Reserve held interest rates steady on Wednesday as the economy faces a monthslong surge of inflation ahead of the midterm elections.\nThe Fed&#x27;s benchmark interest rate currently stands between 3.75% and 4%. That level marks a significant drop from a recent peak attained in 2023, but rates stand well above a 0% level established at the outset of the COVID-19 pandemic.\nAn acceleration of price increases this year has posed a challenge for Fed officials tasked with containing inflation. The central bank raised interest rates a quarter of a percentage point last month in an effort to battle back price woes. The move marked the first rate increase in three years.\nThat rate hike should help cool off inflation by slowing the economy and eating away at demand, though such a policy move typically yields results after a lag time lasting several months.\nControl of Congress is up for grabs on Election Day. What&#x27;s the math for Democrats and Republicans?\nPolicymakers may lose patience as they weigh whether the current level of interest rates is high enough to ease price hikes. The odds of a quarter-point rate hike at the Fed&#x27;s next meeting in December are pegged at nearly 80%, according to CME Group&#x27;s FedWatch Tool , a measure of market sentiment.\nIn the meantime, price increases are accelerating. Inflation rose to a four-month high in September as fuel prices climbed in response to unrest in the Middle East, according to the U.S. Bureau of Labor Statistics (BLS).\nPrices increased 3.7% in September compared to a year earlier, putting the inflation rate more than a percentage point above the Fed&#x27;s target level of 2%, data showed.\nThe rise of inflation may put pressure on the Fed to ratchet up interest rates in an escalation of its fight against price hikes. That policy would mean pressing the brakes harder on the economy -- risking sluggish growth and job cuts.\nUS Federal Reserve Chairman Kevin Warsh attends the IMF/World Bank 2026 Annual Meetings in Bangkok, Thailand, October 16, 2026.\nA weak jobs report this month complicated the economic picture, suggesting a resilient labor market may be wobbling more than previously thought.\nEmployers added 29,000 jobs in September, a sharp slowdown from the 162,000 jobs added in August, the BLS said. The job gains came in well below economists&#x27; expectations.\nEconomic conditions pose a quandary for the Fed, Bank of America Global Research said in a memo to clients last week.\nPolice arrest three in school shooting plot in Atlanta area\nJudge admonishes Trump administration over plans for Washington, DC, golf course\nCeasefire in Russian-occupied Ukrainian city holds for first 30 hours, officials say\n\"If the Fed hikes, investors might worry about overtightening. If the Fed holds, markets could question the Fed&#x27;s inflation-fighting credibility,\" the memo said.\nThe rate decision may also thrust the central bank into a political maelstrom in the final sprint to Election Day.\nPresident Donald Trump has repeatedly criticized the Fed for raising interest rates over across both terms in office, including a reprimand leveled at the Fed soon after its rate increase last month.\n\"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!\" Trump said in a social media post hours after the announcement.\nAbortion is on the ballot in Missouri again. Here&#x27;s what to know about Amendment 3\nThe Fed is an independent institution established by Congress. The central bank is typically insulated from political interference, but several past presidents have sought to influence the Fed’s interest rate policy, including Trump.\nThe rate decision may also draw attention to the challenge posed by inflation, a top issue among voters.\nIn a memo to clients before the rate announcement, Deutsche Bank Research said the upcoming midterms could factor into a potential decision to hold interest rates steady, though in their view the election would not be a \"primary consideration.\"\n\"We could imagine that all else equal the Fed might prefer to stay out of the headlines for raising rates just ahead of a midterm election where affordability is the principal concern,\" the memo said.\nPolice arrest three in school shooting plot in Atlanta area\nCeasefire in Russian-occupied Ukrainian city holds for first 30 hours, officials say\nPolice say assailant killed after attacking guard outside Israeli Embassy in Belgrade\nJudge admonishes Trump administration over plans for Washington, DC, golf course",
+      "published": "2026-10-28T09:46:02+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
       "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion - CNBC",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU01EejJkTVN3UlJGSjRWZGoteW5Pb3VXal9pRk44QVZFSFRwVVZXcE5VYl9HMXpsdkEtcmZYelRqVExPZGFYalRiQXVfanppQm1iaE9wMG9PamwzeFdzcWpUVUNoWW5xSi1kVGp0VTFpX0pMN0lfSUdwdjc2N1MyN9IBhgFBVV95cUxQMDV0THZjaDhZZU9FZ1dNbHh0amdsT0o5Vnc1X2x5Y01JTVMwVjNvTXR2Njg1alRvYWx6VWw0aXdXVjhDbFRkbFZMM05VdnVpdWluZkFaX1NJbGloVEtrNEtaQ1pBM3hNU1lIVEdwSTFBS01Fal9vdkVCLTRwYjNhekVodENtQQ?oc=5",
       "summary": "Trump says Iran war will end &#x27;when I want it to&#x27; as costs balloon\nTrump said it \"would be very quick, but we have to have an end properly,\" with a \"total statement\" that Iran would never have a nuclear weapon.\nHis statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.\nThe war is costing American families about $2,000 more sin",
       "content": "Trump says Iran war will end &#x27;when I want it to&#x27; as costs balloon\nTrump said it \"would be very quick, but we have to have an end properly,\" with a \"total statement\" that Iran would never have a nuclear weapon.\nHis statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.\nThe war is costing American families about $2,000 more since it started, according to Mark Zandi, chief economist at Moody&#x27;s Analytics.\nUS President Donald Trump speaks to the media before boarding Air Force One at Joint Base Andrews, Maryland on Oct. 27, 2026.\nU.S. President Donald Trump has reiterated his claim that the Iran war will end \"whenever I want it to,\" but insists that Tehran cannot have a nuclear weapon.\nSpeaking at a rally in Lubbock, Texas, Trump said \"Somebody asked me before, &#x27;When will the war in Iran end?&#x27; I said, &#x27;Whenever I want it to end.&#x27;\"\nTrump said it \"would be very quick, but we have to have an end properly ,\" with a \"total statement\" that Iran would never have a nuclear weapon.\nHis statement comes as the president grapples with poll numbers that are near a record low due to rising energy costs and affordability issues as the U.S. heads into the midterm elections on Nov. 3.\nCurrently, Trump&#x27;s approval ratings stand at 32%, according to a Reuters/Ipsos poll on Monday.\nMark Zandi, chief economist at Moody&#x27;s Analytics, said on Oct. 12 that the war was costing American families an average of $2,000 so far, where $1,100 comes from higher energy costs, $540 from heightened interest rate costs and $360 due to increased military spending.\nThe Iran conflict shows no sign of winding down, with Trump saying that he will soon decide whether to \"make a deal\" with Iran or \"finish it off.\"\nEarlier in the month, the U.S. had evacuated diplomats from Saudi Arabia, as The New York Times reported that U.S. and Israeli militaries have drawn up specific plans for a \"short but intensive\" operation for strikes on Iran after the midterm elections.\nAn estimate by U.S. Central Command on Oct. 16, according to a report by The Hill, also revealed that the cost of the Iran war has ballooned to $47 billion, about $3 billion more than the previous numbers.\nThe bulk of the costs was reportedly for munitions replacements at $29 billion. Washington&#x27;s conflict with Iran has caused \"shortfalls\" in U.S. munitions, despite Trump claiming on Sept. 3 that the U.S. had \"virtually unlimited\" amounts of ammunition.\nThe massive price tag on the war does not include the costs of damaged military bases in the Middle East, which is estimated at $184 million as of June 29, according to a lead inspector general report to Congress.\nThis figure counts damage to U.S. diplomatic facilities in four countries — Iraq, Kuwait, Saudi Arabia and the United Arab Emirates — from Iranian strikes.\nCorrection: The bulk of the costs was reportedly for munitions replacements at $29 billion. An earlier version misstated the figure.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
       "published": "2026-10-28T03:02:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "CNBC Top"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK brings forward defense spending target, pledging billions to Ukraine - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHTEZkVzBiTnVQTDU5bzVWUE1hN0NrMGJmUV9JelNkRGdZSWMxbGN6cVMtRGU0M19NcGhuS0MxRnFyYnVSR2hwbjVUY2JEa2V0T2E0a0tRN2xYQ1IwbWZlTUk4QWg3bUNMSERZV1RiWXhMdmlxdnpz0gF8QVVfeXFMTzRZVUZWWE9wSjJrN1AtU3h6Z3p3dWRBQzlLQWNvc2dwOHREaVpiWWNYZF94WkRWSS1XaGFpMTNGUVBmQnFObkxDc3RZMllWaTI0UkptTG1jcTM3WEpZX0FYa09TM2xyWmQ3M05aV3RRWGFjUERoQ1hZQ3BsNQ?oc=5",
+      "summary": "UK brings forward defense spending target, pledging billions to Ukraine&nbsp;&nbsp;<font colo",
+      "content": "UK vows defense spending will hit 3% of GDP by 2030\nThe U.K. set 2030 as the target for defense spending to reach 3% of GDP, while reaffirming it would meet the NATO commitment of 3.5% by 2035.\nFinance minister John Healey announced an additional £10 billion in economic and military support for Ukraine, as well as urgent winter military funding.\nHealey also outlined up to £5 billion for defense and dual-use investment and a £2.5 billion Rolls-Royce turbine technology partnership.\nBritain&#x27;s Chancellor of the Exchequer John Healey holds the red Budget box outside 11 Downing Street ahead of the announcement of the Autumn Budget in the House of Commons in London, United Kingdom on October 28, 2026.\nWiktor Szymanowicz | Future Publishing | Getty Images\nThe U.K. has set out a target date for defense spending to rise to 3% of GDP, as the finance minister announced billions in aid for Ukraine in a \"clear message to Moscow\".\nJohn Healey on Wednesday set a target date of 2030 for the 3% figure, while reaffirming its NATO commitment to reach 3.5% by 2035 .\nHealey, who resigned as defense minister under the previous government over insufficient spending, presented his first annual budget as finance minister and highlighted a \"new era of threat\".\n\"Today we send a clear message to Moscow: Britain will stand with Ukraine for as long as it takes,\" he said as he announced an additional £10 billion ($13.3 billion) in economic and military support, based on loans, export finance guarantees, as well as £500 million in urgent military funding for this winter.\nThe government will set out the details of how it will meet its defense spending targets at the spending review next year, Healey told lawmakers.\n\"As we look ahead to the spending review, we start from a position of strength, with spending at that higher base, there will be choices we have to make about priorities,\" he said.\n\"Today, I&#x27;m getting work underway to get there in a fiscally sustainable way,\" Healey said against the backdrop of strained public finances and increasing borrowing costs.\n‘Project Firepower’: Inside Rheinmetall’s gunpowder expansion as Europe races to replenish its ammunition\nEurope’s defense boom faces a new test: Can it actually deliver weapons?\nUkraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest\nTank maker KNDS postpones IPO amid market struggles for defense\nDefense stocks plummet on reports Germany is scrapping warships; Rheinmetall stock down 18%\nHealey also said the National Wealth Fund and British Business Bank will deploy up to £5 billion over the next four years into defence, dual-use technologies and other sectors supporting national security to strengthen the UK defense industrial base, support domestic supply chains and attract private investment.\nChris Beauchamp, chief UK market analyst at investing and trading platform IG, said Healey&#x27;s announcement lacked detail but \"it looks like defence will get the money Healey said was needed when he was defence secretary.\"\n\"The precise path will come through next year, but it seems like the spending bonanza for Rolls-Royce and others is still on the way. It just might take a little while to arrive,\" he added.\nHealey also announced that Rolls-Royce will develop its next-generation turbine engine technology in partnership with the U.K. government, in an investment worth £2.5 billion.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-28T14:29:24+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics",
@@ -368,27 +436,6 @@
       "sources": [
         "GN Geopolitics",
         "GN Energy"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "UK brings forward defense spending target, pledging billions to Ukraine - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHTEZkVzBiTnVQTDU5bzVWUE1hN0NrMGJmUV9JelNkRGdZSWMxbGN6cVMtRGU0M19NcGhuS0MxRnFyYnVSR2hwbjVUY2JEa2V0T2E0a0tRN2xYQ1IwbWZlTUk4QWg3bUNMSERZV1RiWXhMdmlxdnpz0gF8QVVfeXFMTzRZVUZWWE9wSjJrN1AtU3h6Z3p3dWRBQzlLQWNvc2dwOHREaVpiWWNYZF94WkRWSS1XaGFpMTNGUVBmQnFObkxDc3RZMllWaTI0UkptTG1jcTM3WEpZX0FYa09TM2xyWmQ3M05aV3RRWGFjUERoQ1hZQ3BsNQ?oc=5",
-      "summary": "UK brings forward defense spending target, pledging billions to Ukraine&nbsp;&nbsp;<font colo",
-      "content": "UK vows defense spending will hit 3% of GDP by 2030\nThe U.K. set 2030 as the target for defense spending to reach 3% of GDP, while reaffirming it would meet the NATO commitment of 3.5% by 2035.\nFinance minister John Healey announced an additional £10 billion in economic and military support for Ukraine, as well as urgent winter military funding.\nHealey also outlined up to £5 billion for defense and dual-use investment and a £2.5 billion Rolls-Royce turbine technology partnership.\nBritain&#x27;s Chancellor of the Exchequer John Healey holds the red Budget box outside 11 Downing Street ahead of the announcement of the Autumn Budget in the House of Commons in London, United Kingdom on October 28, 2026.\nWiktor Szymanowicz | Future Publishing | Getty Images\nThe U.K. has set out a target date for defense spending to rise to 3% of GDP, as the finance minister announced billions in aid for Ukraine in a \"clear message to Moscow\".\nJohn Healey on Wednesday set a target date of 2030 for the 3% figure, while reaffirming its NATO commitment to reach 3.5% by 2035 .\nHealey, who resigned as defense minister under the previous government over insufficient spending, presented his first annual budget as finance minister and highlighted a \"new era of threat\".\n\"Today we send a clear message to Moscow: Britain will stand with Ukraine for as long as it takes,\" he said as he announced an additional £10 billion ($13.3 billion) in economic and military support, based on loans, export finance guarantees, as well as £500 million in urgent military funding for this winter.\nThe government will set out the details of how it will meet its defense spending targets at the spending review next year, Healey told lawmakers.\n\"As we look ahead to the spending review, we start from a position of strength, with spending at that higher base, there will be choices we have to make about priorities,\" he said.\n\"Today, I&#x27;m getting work underway to get there in a fiscally sustainable way,\" Healey said against the backdrop of strained public finances and increasing borrowing costs.\n‘Project Firepower’: Inside Rheinmetall’s gunpowder expansion as Europe races to replenish its ammunition\nEurope’s defense boom faces a new test: Can it actually deliver weapons?\nUkraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest\nTank maker KNDS postpones IPO amid market struggles for defense\nDefense stocks plummet on reports Germany is scrapping warships; Rheinmetall stock down 18%\nHealey also said the National Wealth Fund and British Business Bank will deploy up to £5 billion over the next four years into defence, dual-use technologies and other sectors supporting national security to strengthen the UK defense industrial base, support domestic supply chains and attract private investment.\nChris Beauchamp, chief UK market analyst at investing and trading platform IG, said Healey&#x27;s announcement lacked detail but \"it looks like defence will get the money Healey said was needed when he was defence secretary.\"\n\"The precise path will come through next year, but it seems like the spending bonanza for Rolls-Royce and others is still on the way. It just might take a little while to arrive,\" he added.\nHealey also announced that Rolls-Royce will develop its next-generation turbine engine technology in partnership with the U.K. government, in an investment worth £2.5 billion.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-      "published": "2026-10-28T14:29:24+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "CNBC Top"
       ],
       "source_count": 2,
       "category": "geopolitics",
@@ -491,36 +538,11 @@
       ]
     },
     {
-      "title": "Gold edges lower ahead of Fed rate decision, Warsh comments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
-      "summary": "Gold edges lower ahead of Fed rate decision, Warsh comments&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T06:16:00+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.9,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：黄金 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "黄金",
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
       "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
       "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-28T03:18:27+00:00",
+      "published": "2026-10-28T02:37:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
@@ -540,7 +562,7 @@
       "title": "U.S. imposes new North Korea sanctions amid stalled diplomatic talks - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUp3MTYtWkhjR0NvVndNRlFvQmNMdG9Sczc0TF9uUnh1NEJ4aWRiaHBLUDZ3SkNWbDAtR1pGSVprN0hsbUFCdXJyQ0g1WWlmNVI0QnZVMlBmZWNkVnpwbG52UWJBQkZBX0p2MXBoNWpQTG80bWRzYklCcWhGWFdPdHdMSXFnMElOY21CSnUxRjRMTUpRQzYzaHRzdEFhVTZ0YlQ0U3JDZTdnT09rQnlzSG9QbFE4MmFvRUE?oc=5",
       "summary": "U.S. imposes new North Korea sanctions amid stalled diplomatic talks&nbsp;&nbsp;NBC News",
-      "content": "North Korean flags in Pyongyang. Kim Won Jin / AFP via Getty\nThe United States issued new North Korea-related sanctions on Wednesday, targeting 10 individuals and one entity, according ⁠to a notice posted to the Treasury Department’s website.\nThe Treasury Department said the schemes involve North Korean IT workers fraudulently gaining employment with companies in the United States and elsewhere, and Pyongyang taking most of the workers’ wages to fund its weapons of mass ⁠destruction and ballistic missile programs.\n“These networks permeate ​through ⁠the global financial system, necessitating a unified response to match the threat,” the department said in a statement, adding that ⁠Australia and the European Union also imposed North Korea-related sanctions this month.\nNorth ​Korea’s ⁠mission to the United Nations ‌in New York did not immediately respond to a request for comment.\nThe sanctions come ‌as President Donald Trump has been eager to jump-start talks with North Korea, but ‌Pyongyang has shown little interest in ‌diplomacy aimed at containing its nuclear program. However, earlier this month Trump downplayed the idea of another high-profile ⁠meeting with Kim in China next month.\nTrump became the only U.S. president to have met a North Korean leader when he held an unprecedented series of summits with Kim in 2018 and 2019, but the diplomatic efforts ‌broke down over US demands that North ​Korea give up its nuclear weapons.\nFOR SUBSCRIBERS Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again\nFOR SUBSCRIBERS Democratic? Republican? Most new young voters register as neither\nFOR SUBSCRIBERS David Crowley rushes to shore up support with Black voters in Wisconsin governor’s race\nFOR SUBSCRIBERS DOJ’s ‘shocking’ flurry of pre-election activity breaks precedent, former officials say\nFOR SUBSCRIBERS Democratic candidates emphasize their support for gun rights in tight midterm races\nFOR SUBSCRIBERS Electronic machines aren’t flipping votes, despite online claims, election officials say\nFOR SUBSCRIBERS Macklemore’s Free Palestine Tour gets massive welcome in Dublin, where pro-Palestinian support runs deep\nFOR SUBSCRIBERS Yes, we’re already talking about 2028\nFOR SUBSCRIBERS Amy Acton says she’s learning new things about her childhood in wake of attack ad\nFOR SUBSCRIBERS As Tennessee manhunt continues, sister of murderer’s victim warns ‘he will kill somebody’\nFOR SUBSCRIBERS 2026 midterms become most expensive election cycle ever\nFOR SUBSCRIBERS CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year\nFOR SUBSCRIBERS Trump calls Brazil’s election ‘rigged’ as allies stoke fraud fears ahead of midterms\nFOR SUBSCRIBERS What Americans think of Trump’s $500 ‘refund’ checks — and how they’re spending them\nFOR SUBSCRIBERS Could Trump be the Republican president to lose Texas?\nTrump ‌has since referred ⁠to North Korea repeatedly as a “nuclear ⁠power,” although his administration has continued to call for the ‌country’s denuclearization ​and has not formally recognized ‌it as a ​nuclear-weapons state.\nFOR SUBSCRIBERS Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again\nFOR SUBSCRIBERS Democratic? Republican? Most new young voters register as neither\nFOR SUBSCRIBERS David Crowley rushes to shore up support with Black voters in Wisconsin governor’s race\nFOR SUBSCRIBERS DOJ’s ‘shocking’ flurry of pre-election activity breaks precedent, former officials say\nFOR SUBSCRIBERS Democratic candidates emphasize their support for gun rights in tight midterm races\nFOR SUBSCRIBERS Electronic machines aren’t flipping votes, despite online claims, election officials say\nFOR SUBSCRIBERS Macklemore’s Free Palestine Tour gets massive welcome in Dublin, where pro-Palestinian support runs deep\nFOR SUBSCRIBERS Yes, we’re already talking about 2028\nFOR SUBSCRIBERS Amy Acton says she’s learning new things about her childhood in wake of attack ad\nFOR SUBSCRIBERS As Tennessee manhunt continues, sister of murderer’s victim warns ‘he will kill somebody’\nFOR SUBSCRIBERS 2026 midterms become most expensive election cycle ever\nFOR SUBSCRIBERS CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year\nFOR SUBSCRIBERS Trump calls Brazil’s election ‘rigged’ as allies stoke fraud fears ahead of midterms\nFOR SUBSCRIBERS What Americans think of Trump’s $500 ‘refund’ checks — and how they’re spending them\nFOR SUBSCRIBERS Could Trump be the Republican president to lose Texas?\nWednesday’s ‌sanctions targets include facilitators and North ⁠Korean IT workers based in North Korea and Russia, the Treasury ⁠Department said. The targeted entity is named the First Financial and Technical Development Center, ‌and six of ​the sanctioned individuals are linked to ‌that firm.\nThe Treasury Department sanctioned a ​separate North Korean IT worker network in March.",
+      "content": "North Korean flags in Pyongyang. Kim Won Jin / AFP via Getty\nThe United States issued new North Korea-related sanctions on Wednesday, targeting 10 individuals and one entity, according ⁠to a notice posted to the Treasury Department’s website.\nThe Treasury Department said the schemes involve North Korean IT workers fraudulently gaining employment with companies in the United States and elsewhere, and Pyongyang taking most of the workers’ wages to fund its weapons of mass ⁠destruction and ballistic missile programs.\n“These networks permeate ​through ⁠the global financial system, necessitating a unified response to match the threat,” the department said in a statement, adding that ⁠Australia and the European Union also imposed North Korea-related sanctions this month.\nNorth ​Korea’s ⁠mission to the United Nations ‌in New York did not immediately respond to a request for comment.\nThe sanctions come ‌as President Donald Trump has been eager to jump-start talks with North Korea, but ‌Pyongyang has shown little interest in ‌diplomacy aimed at containing its nuclear program. However, earlier this month Trump downplayed the idea of another high-profile ⁠meeting with Kim in China next month.\nTrump became the only U.S. president to have met a North Korean leader when he held an unprecedented series of summits with Kim in 2018 and 2019, but the diplomatic efforts ‌broke down over US demands that North ​Korea give up its nuclear weapons.\nFOR SUBSCRIBERS ‘There goes Texas’: The swing county that could determine the state’s next senator\nFOR SUBSCRIBERS They were deported to Costa Rica, but that won’t stop them from trying to come back to the U.S.\nFOR SUBSCRIBERS Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again\nFOR SUBSCRIBERS Democratic? Republican? Most new young voters register as neither\nFOR SUBSCRIBERS David Crowley rushes to shore up support with Black voters in Wisconsin governor’s race\nFOR SUBSCRIBERS DOJ’s ‘shocking’ flurry of pre-election activity breaks precedent, former officials say\nFOR SUBSCRIBERS Democratic candidates emphasize their support for gun rights in tight midterm races\nFOR SUBSCRIBERS Electronic machines aren’t flipping votes, despite online claims, election officials say\nFOR SUBSCRIBERS Macklemore’s Free Palestine Tour gets massive welcome in Dublin, where pro-Palestinian support runs deep\nFOR SUBSCRIBERS Yes, we’re already talking about 2028\nFOR SUBSCRIBERS Amy Acton says she’s learning new things about her childhood in wake of attack ad\nFOR SUBSCRIBERS As Tennessee manhunt continues, sister of murderer’s victim warns ‘he will kill somebody’\nFOR SUBSCRIBERS 2026 midterms become most expensive election cycle ever\nFOR SUBSCRIBERS CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year\nFOR SUBSCRIBERS Trump calls Brazil’s election ‘rigged’ as allies stoke fraud fears ahead of midterms\nTrump ‌has since referred ⁠to North Korea repeatedly as a “nuclear ⁠power,” although his administration has continued to call for the ‌country’s denuclearization ​and has not formally recognized ‌it as a ​nuclear-weapons state.\nFOR SUBSCRIBERS ‘There goes Texas’: The swing county that could determine the state’s next senator\nFOR SUBSCRIBERS They were deported to Costa Rica, but that won’t stop them from trying to come back to the U.S.\nFOR SUBSCRIBERS Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again\nFOR SUBSCRIBERS Democratic? Republican? Most new young voters register as neither\nFOR SUBSCRIBERS David Crowley rushes to shore up support with Black voters in Wisconsin governor’s race\nFOR SUBSCRIBERS DOJ’s ‘shocking’ flurry of pre-election activity breaks precedent, former officials say\nFOR SUBSCRIBERS Democratic candidates emphasize their support for gun rights in tight midterm races\nFOR SUBSCRIBERS Electronic machines aren’t flipping votes, despite online claims, election officials say\nFOR SUBSCRIBERS Macklemore’s Free Palestine Tour gets massive welcome in Dublin, where pro-Palestinian support runs deep\nFOR SUBSCRIBERS Yes, we’re already talking about 2028\nFOR SUBSCRIBERS Amy Acton says she’s learning new things about her childhood in wake of attack ad\nFOR SUBSCRIBERS As Tennessee manhunt continues, sister of murderer’s victim warns ‘he will kill somebody’\nFOR SUBSCRIBERS 2026 midterms become most expensive election cycle ever\nFOR SUBSCRIBERS CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year\nFOR SUBSCRIBERS Trump calls Brazil’s election ‘rigged’ as allies stoke fraud fears ahead of midterms\nWednesday’s ‌sanctions targets include facilitators and North ⁠Korean IT workers based in North Korea and Russia, the Treasury ⁠Department said. The targeted entity is named the First Financial and Technical Development Center, ‌and six of ​the sanctioned individuals are linked to ‌that firm.\nThe Treasury Department sanctioned a ​separate North Korean IT worker network in March.",
       "published": "2026-10-28T16:23:29+00:00",
       "source": "GN Geopolitics",
       "sources": [
@@ -583,9 +605,9 @@
     {
       "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
       "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-      "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%Deadly Spanish rail collision – latest updatesSpain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long ranked as a point of pride in the country. But Wednesday’s deadly crash –",
-      "content": "Rescue workers at the site of Wednesday’s rail disaster in Spain’s Toledo province. A high-speed service hit another train halted by a signalling fault. Photograph: Burak Akbulut/Anadolu/Getty Images\nRescue workers at the site of Wednesday’s rail disaster in Spain’s Toledo province. A high-speed service hit another train halted by a signalling fault. Photograph: Burak Akbulut/Anadolu/Getty Images\nSecond fatal train collision this year casts doubt over Spain’s high-speed rail network\nQuestions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%\nSpain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long ranked as a point of pride in the country. But Wednesday’s deadly crash – the second in nine months – has recast the spotlight on questions about safety.\nOfficials said at least 64 people were killed on Wednesday morning after two trains collided, leading to the derailment of several carriages. The two trains were carrying 544 passengers.\nWhile the cause of the accident has yet to be confirmed, a source told Reuters that a train operated by the private company Iryo had come to a halt near the city of Toledo because of a signalling fault and on orders from infrastructure manager Adif. Soon after, a second train, operated by state-owned Renfe struck the stationary train. It had been travelling on the same line at a high speed.\nRenfe said in a statement that its train had been instructed to continue on its way and had crashed into ​the stationary Iryo train “for reasons we don’t know”.\nThe accident follows a crash in January that killed 46 people and left dozens more injured near the town of Adamuz in Andalucía.\nA Guardia Civil officer collects evidence at the site of January’s fatal rail crash near Adamuz in Andalucía. Photograph: Manu Fernández/AP Media on Wednesday were swift to point to the parallels between the two crashes: both involved the same train operators and took place on the line connecting Madrid to the southern region of Andalusia, which is the oldest on Spain’s high-speed network.\nThe first crash sparked a wider conversation over safety on the line, a debate that rail unions say has continued.\nWednesday’s disaster came a day before a planned 24-hour work stoppage at Renfe by Spain’s largest train drivers union. “Our goal is to change the system and make it safer,” the union said earlier this month.\nTheir reasons for taking action ranged from the need for climate emergency protocols to ensuring channels of communication for workers to convey concerns. The union also called for guarantees that trains would be “reliable and safe”, adding: “We demand real and definitive technical solutions to the safety and reliability issues that have long plagued our rolling stock.”\nmap It has also called a rolling, six-day strike for drivers at the high-speed rail operator Ouigo.\nThe January crash sparked a bout of political finger-pointing over whether Pedro Sánchez’s Socialist party government had spent enough on railway maintenance in a country where travel by train accounts for about 57% of all transport.\nTrain travel grew by 40% from 2019 to 2024, coinciding with a period in which the country opened up its rail network to private companies. In the first half of this year, 25 million passengers used a high-speed train in Spain.\nThe government says it has increased spending on railway network maintenance by 54% since taking power in 2018.\nThe aftermath of the 2013 crash near Santiago de Compostela that claimed 80 lives. It remains Spain’s worst rail disaster. Photograph: Reuters Spain spends more than any other country on its high-speed network, averaging about €1.5bn (£1.26bn) a year from 2018 to 2022, according to a Reuters analysis of EU data. More than 90% of Spain’s train network is equipped with the highest level of safety control systems in the EU.\nMuch of the funding, however, has seemingly been directed at new infrastructure, with about 16% earmarked for maintenance, renewal and upgrades.\nData from the European Commission suggests Spain’s maintenance investment in its 4,000km (2,500 miles) of high-speed lines has lagged behind countries such as Germany or Switzerland although some of this could be attributed to differences in the age of the rail lines and the cost of public works and materials.\nUntil this year, Spain had among the lowest accident rates in the EU, with just one or fewer fatalities per thousand kilometres of track, according to data from Eurostat, the statistics arm of the EU.\nSpain’s worst rail accident took place in 2013, when 80 people died after a train veered off a curved section of track outside the north-western city of Santiago de Compostela.\nDeath toll rises to 64 with dozens injured after high-speed train collision in Spain – latest updates\nSpain train crash: at least 64 dead after collision in Toledo province\nFootage from the scene of fatal rail crash in Spain – video\nAerial footage shows aftermath of deadly Spain train collision – video",
-      "published": "2026-10-28T14:29:34+00:00",
+      "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%Deadly Spanish rail collision – latest updatesSpain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the country. But Wednesday’s deadly crash – the s",
+      "content": "Rescue workers at the site of Wednesday’s rail disaster in Spain’s Toledo province. A high-speed service hit another train halted by a signalling fault. Photograph: Burak Akbulut/Anadolu/Getty Images\nRescue workers at the site of Wednesday’s rail disaster in Spain’s Toledo province. A high-speed service hit another train halted by a signalling fault. Photograph: Burak Akbulut/Anadolu/Getty Images\nSecond fatal train collision this year casts doubt over Spain’s high-speed rail network\nQuestions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%\nSpain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the country. But Wednesday’s deadly crash – the second in nine months – has recast the spotlight on questions about safety.\nOfficials said at least 68 people were killed on Wednesday morning after a high-speed train slammed into another that had stopped on the tracks, leading to the derailment of several carriages. The two trains were believed to be carrying 544 passengers.\nSpeaking to reporters, Spain’s transport minister, Óscar Puente, traced the collision back to a security system that had stopped working at about 8.30am local time. The computer malfunction brought an estimated six trains to a halt along a 63km stretch of track.\nSoon after, the central command in Madrid instructed one of the trains involved in the crash to resume service at normal speeds, sending it colliding into a train that was still sitting stationary on the tracks, said Puente. “It was the control centre – via its operators – that made the decision to resume operations, under circumstances that, from our point of view, are inexplicable,” he added .\nState-owned rail operator Renfe said in a statement that its train had been instructed to continue on its way and had crashed into ​the stationary Iryo train “for reasons we don’t know”.\nThe accident follows a crash in January that killed 46 people and left dozens more injured near the town of Adamuz in Andalucía.\nA Guardia Civil officer collects evidence at the site of January’s fatal rail crash near Adamuz in Andalucía. Photograph: Manu Fernández/AP Media on Wednesday were swift to point to the parallels between the two crashes: both involved the same train operators and took place on the line connecting Madrid to the southern region of Andalusia, which is the oldest on Spain’s high-speed network.\nThe first crash sparked conversation over safety on the line, a debate that rail unions say has continued.\nWednesday’s disaster came a day before a planned 24-hour work stoppage at Renfe by Spain’s largest train drivers union. “Our goal is to change the system and make it safer,” the union said earlier this month.\nTheir reasons for taking action ranged from the need for climate emergency protocols to ensuring channels of communication for workers to convey concerns. The union also called for guarantees that trains would be “reliable and safe”, adding: “We demand real and definitive technical solutions to the safety and reliability issues that have long plagued our rolling stock.”\nmap It has also called a rolling, six-day strike for drivers at the high-speed rail operator Ouigo.\nThe January crash sparked a bout of political finger-pointing over whether Pedro Sánchez’s Socialist party government had spent enough on railway maintenance in a country where travel by train accounts for about 57% of all transport.\nWhile the causes of the January crash remain under investigation, a preliminary report suggested that it could have been the result of defects in the track or in a weld between two sections of track. The report noted, however, that several other possibilities were also being investigated.\nTrain travel grew by 40% from 2019 to 2024, coinciding with a period in which the country opened up its rail network to private companies. In the first half of this year, 25 million passengers used a high-speed train in Spain.\nThe government says it has increased spending on railway network maintenance by 54% since taking power in 2018.\nThe aftermath of the 2013 crash near Santiago de Compostela that claimed 80 lives. Photograph: Reuters Spain spends more than any other country on its high-speed network, averaging about €1.5bn (£1.26bn) a year from 2018 to 2022, according to a Reuters analysis of EU data. More than 90% of Spain’s train network is equipped with the highest level of safety control systems in the EU.\nMuch of the funding, however, has seemingly been directed at new infrastructure, with about 16% earmarked for maintenance, renewal and upgrades.\nData from the European Commission suggests Spain’s maintenance investment in its 4,000km (2,500 miles) of high-speed lines has lagged behind countries such as Germany or Switzerland although some of this could be attributed to differences in the age of the rail lines and the cost of public works and materials.\nUntil this year, Spain had among the lowest accident rates in the EU, with just one or fewer fatalities per thousand kilometres of track, according to data from Eurostat, the statistics arm of the EU.\nOn Wednesday, Spain’s prime minister said measures would be taken to rebuild trust in the country’s high-speed rail system. “Because it is simply unacceptable for a country like Spain to suffer two high-speed rail accidents in the same year, as we have,” said Sánchez.\nThe crash was Spain’s worst rail accident since 2013, when 80 people died after a train veered off a curved section of track outside the north-western city of Santiago de Compostela.\nDeath toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates\nSpain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash\nFootage from the scene of fatal rail crash in Spain – video\nAerial footage shows aftermath of deadly Spain train collision – video",
+      "published": "2026-10-28T16:56:46+00:00",
       "source": "Guardian World",
       "sources": [
         "Guardian World"
@@ -603,6 +625,46 @@
         "港股",
         "人民币"
       ]
+    },
+    {
+      "title": "Canada, European Union officials drop 'associate member' from summit declaration - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkp4Nmp2NmJtYm90dmZfX0FUQTczcUZQNzVsa2pva1BMRjhocG50X2ktZVBjMTJUbTNJNEc5cTlYZUhLaWV3NXdJWUR6RFowR0pPR3FTdzZwSHcwT1k0bVhLa2dMSm11T3JVbEw4TXFNQkFOMEwtaHNPMnl1RDJCS19WaFpBMUxZVTlqUWhCc293YjFfY1dDU2ZfLXBqNmlRVk0wYkladjR4Ty16LXo5R2tsb21BSkltUzF1eQ?oc=5",
+      "summary": "Canada, European Union officials drop 'associate member' from summit declaration&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T16:38:04+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Norway's premier says call with Putin was effort to present European views - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV?oc=5",
+      "summary": "Norway's premier says call with Putin was effort to present European views&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T10:46:09+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Policeman kills knife attacker outside Israeli embassy in Serbia - Reuters",
@@ -645,100 +707,6 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU14ajJqOUhlTEt4cEJzR0o0Ry1kVGc4bmRmTW9zSWVYb1pjZ042X2ZlLVBVZ1l3dV95WDFjUTFodnF6eTF6OVAtX0hCdG1jZzA3ZkNmb09jNDhFd1JUcnc5QkJrN3poemVSVDQ1OGxBdkJEZkFmSmgzWnZGT2Z5ZGdHaWF1ZlFEbXl6M0VRQklfU3hydktmMnRFSUNuZGFwdjJrS05qUF9rUlVxXzNfeU9ZN2hKeHgwV1c2aHV3?oc=5",
-      "summary": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T05:21:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN AI"
-      ],
-      "source_count": 2,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
-    },
-    {
-      "title": "Dutch pledge €500 million in military support to Ukraine - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkdOSG5pN1VNWjdabjJ2N1A2YUIyYTlkaGM1YnlZRHFBaDJxVVJlQUNnZzU5ZFFObzBXblNkWmVhQ2x2MkJ1VzduazZ1NnV2Zlc0Z1BCRmpqUF9fcHhnMDA5aHVFQjJSekNqX2JtNjIyT042dzVIS0xxWFRnaTc0cDdVdEF0TTNrTjItc0V1SnlKQUpaZXVPNEFlWVY3X1FraWVDNw?oc=5",
-      "summary": "Dutch pledge €500 million in military support to Ukraine&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T15:15:44+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - New Haven Register",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3JwaEVUWnRPWGZBdUhRaHRVZDdqbEw3UFo1Y3FidUE1bE4tYS04OThEVEp1YUFqWDk3LXZUQUZmZ2VJbERMUEplbzhVVS1fLWJySE4wS1NuNjlwd2ZCVlptOE9ETFVCS1RaNl9sRGdTZjlDSFozV1BiUnZXQ1lPaXNRXzg2VWptbEhzQi12T1pVdHBQLVZoSWJjdWszbWhwTmllclk2a3M?oc=5",
-      "summary": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates&nbsp;&nbsp;New Haven Register",
-      "content": "A required part of this site couldn’t load. This may be due to a browser\nextension, network issues, or browser settings. Please check your\nconnection, disable any ad blockers, or try using a different browser.",
-      "published": "2026-10-28T16:07:30+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股"
-      ]
-    },
-    {
-      "title": "Gold stalls its recovery as markets brace for Fed interest rate decision - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSldnRWZXaXlGU0JoeTFCdEdLRFR3cURrdlg3SjhwQ3UxcjMtY2lYQjJFOVhlUUxDVF9mSjdESWZBbVZFS1ZVaXI1VTF1VW1faUFOZDBpN1ZOR19lc3VYSHZ3REEtQ25zQnh5VmRSekZoSHplNW1SYk5kZzh5eXNxVTVyTE5LUUhuampjaDV6U20yeWc1ZmZlajl0eTJnSllmQVphTA?oc=5",
-      "summary": "Gold stalls its recovery as markets brace for Fed interest rate decision&nbsp;&nbsp;FXStreet",
-      "content": "",
-      "published": "2026-10-28T14:05:43+00:00",
-      "source": "GN Fed",
-      "sources": [
-        "GN Fed"
-      ],
-      "source_count": 1,
-      "category": "finance",
-      "category_zh": "全球金融",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
-      "possible_impact": "可能影响：黄金 / 美债 / 美元 / 美股 及相关产业链。",
-      "assets": [
-        "黄金",
-        "美债",
-        "美元",
-        "美股"
-      ]
     },
     {
       "title": "Is OpenAI’s Google Chip Deal Bad News for Nvidia? - Investing.com",
@@ -807,14 +775,14 @@
       ]
     },
     {
-      "title": "The Iran war is creating oil spills visible from space - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdEQxeWt5OW9VaVlBMUdZSlYwQkw2bFkxaTVnYnNRZ0NuU1FlYjVJSkNUWG0wZnhNRXRReFZvcTZHanZiQ1RyenI0TnRYbGJuNjY3dkhHM0YxVzZXbXlRdDhvT3BfRE1fVFRQOTVzMXdxc0lOQ2FrTGY2QmdHcE5lSEp1bVZ1b0FB?oc=5",
-      "summary": "The Iran war is creating oil spills visible from space | CNN\nThe Iran war is creating oil spills visible from space\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23110043-uae-oil-spill-vv-00-00-00-16-still001.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23110043-uae-oil-spill-vv-00-00-00-16-still001.jpg?c&#x3D;9x",
-      "content": "The Iran war is creating oil spills visible from space | CNN\nThe Iran war is creating oil spills visible from space\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23110043-uae-oil-spill-vv-00-00-00-16-still001.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23110043-uae-oil-spill-vv-00-00-00-16-still001.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/28/world/video/uae-oil-spill-iran-war-vrtc-ldn-digvid\"\ndata-video-slug=\"uae-oil-spill-iran-war-vrtc-ldn-digvid\"\ndata-first-publish-slug=\"uae-oil-spill-iran-war-vrtc-ldn-digvid\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nThe Iran war is creating oil spills visible from space\nThe Iran war is having environmental impacts on neighboring countries. Oil spills are washing ashore on beaches in the United Arab Emirates, CNN’s Antoinette Radford explains why.\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23110043-uae-oil-spill-vv-00-00-00-16-still001.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23110043-uae-oil-spill-vv-00-00-00-16-still001.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/28/world/video/uae-oil-spill-iran-war-vrtc-ldn-digvid\"\ndata-video-slug=\"uae-oil-spill-iran-war-vrtc-ldn-digvid\"\ndata-first-publish-slug=\"uae-oil-spill-iran-war-vrtc-ldn-digvid\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nThe Iran war is creating oil spills visible from space\nThe Iran war is having environmental impacts on neighboring countries. Oil spills are washing ashore on beaches in the United Arab Emirates, CNN’s Antoinette Radford explains why.\nThe Iran war is creating oil spills visible from space\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23109613-bolsonaro-flees-vv-thumb.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23109613-bolsonaro-flees-vv-thumb.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/28/world/video/trump-approved-allowing-flavio-bolsonaro-to-enter-us-after-brazil-election-loss-vrtc\"\ndata-video-slug=\"trump-approved-allowing-flavio-bolsonaro-to-enter-us-after-brazil-election-loss-vrtc\"\ndata-first-publish-slug=\"trump-approved-allowing-flavio-bolsonaro-to-enter-us-after-brazil-election-loss-vrtc\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nTrump approved allowing Flávio Bolsonaro to enter US after Brazil election loss\nPresident Donald Trump approved allowing Brazilian senator Flávio Bolsonaro entry into the United States following his election loss, a Trump adviser told CNN.\nTrump approved allowing Flávio Bolsonaro to enter US after Brazil election loss\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-10-28-at-12-12-33-pm.png?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-10-28-at-12-12-33-pm.png?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/28/world/video/netanyahu-defiant-despite-no-clear-majority-to-form-government-digvid-vrtc-hnk\"\ndata-video-slug=\"netanyahu-defiant-despite-no-clear-majority-to-form-government-digvid-vrtc-hnk\"\ndata-first-publish-slug=\"netanyahu-defiant-despite-no-clear-majority-to-form-government-digvid-vrtc-hnk\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nNetanyahu defiant despite no clear majority to form government\nIsrael’s elections produced no clear winner Tuesday night, exit polls showed, with neither Prime Minister Benjamin Netanyahu nor his main rival Gadi Eisenkot within reach of the 61 seats needed for a governing majority in the 120-seat parliament, the Knesset. CNN's Jeremy Diamond reports.\nNetanyahu defiant despite no clear majority to form government\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/sauna-rave-thumb-1.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/sauna-rave-thumb-1.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/27/world/video/barcelonas-hottest-new-nightlife-spot-is-a-sauna-ldn-digvid-vrtc\"\ndata-video-slug=\"barcelonas-hottest-new-nightlife-spot-is-a-sauna-ldn-digvid-vrtc\"\ndata-first-publish-slug=\"barcelonas-hottest-new-nightlife-spot-is-a-sauna-ldn-digvid-vrtc\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nA Barcelona spa turns into an unlikely rave venue, offering 100 partygoers an alternative to the traditional rave scene, focused on wellness and sobriety.\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/bilbao-1.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/bilbao-1.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/27/world/video/17-arrested-as-protests-against-right-wing-activist-turn-violent-in-bilbao-ldn-digvid-vrtc\"\ndata-video-slug=\"17-arrested-as-protests-against-right-wing-activist-turn-violent-in-bilbao-ldn-digvid-vrtc\"\ndata-first-publish-slug=\"17-arrested-as-protests-against-right-wing-activist-turn-violent-in-bilbao-ldn-digvid-vrtc\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\n17 arrested as protests against right-wing activist turn violent in Bilbao\n17 people have been arrested in the Spanish city of Bilbao as protests over a planned event by right-wing activist Vito Quiles turned violent, according to local authorities.\n17 arrested as protests against right-wing activist turn violent in Bilbao\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/cuba-us-thumb.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/cuba-us-thumb.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/27/world/video/us-and-cuban-officials-get-into-heated-exchange-at-un\"\ndata-video-slug=\"us-cuban-un-altercation-trump-mike-waltz-embargo-digvid-vrtc\"\ndata-first-publish-slug=\"us-cuban-un-altercation-trump-mike-waltz-embargo-digvid-vrtc\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\n&#x27;This is America!&#x27;: Altercation between US and Cuban officials erupts at UN\nA heated exchange broke out between US Ambassador to the UN Mike Waltz and Cuban Foreign Minister Bruno Rodríguez Parrilla during Tuesday’s UN General Assembly debate on the US embargo against Cuba.\n&#x27;This is America!&#x27;: Altercation between US and Cuban officials erupts at UN\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/netanyahu-ai-image-thumb.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/netanyahu-ai-image-thumb.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/26/world/video/netanyahu-sparks-backlash-with-nuclear-bomb-image-ahead-of-israeli-election\"\ndata-video-slug=\"netanyahu-ai-image-of-nuclear-bomb-hitting-tel-aviv-election-digvid-vrtc\"\ndata-first-publish-slug=\"netanyahu-ai-image-of-nuclear-bomb-hitting-tel-aviv-election-digvid-vrtc\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nNetanyahu posts AI image of nuclear bomb hitting Tel Aviv days before election\nUsing an AI-generated image showing a nuclear attack on Tel Aviv, Israeli Prime Minister Benjamin Netanyahu warned that a nuclear attack remains a real threat to the country, two days before Israelis head to the polls for a national election.\nNetanyahu posts AI image of nuclear bomb hitting Tel Aviv days before election\ndata-fave-thumbnails=\"{\"big\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23103943-ripley-nk-luxury-ev-thumb.jpg?c&#x3D;9x16\" }, \"small\": { \"uri\": \"https://media.cnn.com/api/v1/images/stellar/prod/23103943-ripley-nk-luxury-ev-thumb.jpg?c&#x3D;9x16\" } }\"\ndata-canonical-url=\"https://www.cnn.com/2026/10/26/world/video/north-korea-has-power-cuts-so-whos-driving-luxury-chinese-evs-digvid-vrtc\"\ndata-video-slug=\"north-korea-has-power-cuts-so-whos-driving-luxury-chinese-evs-digvid-vrtc\"\ndata-first-publish-slug=\"north-korea-has-power-cuts-so-whos-driving-luxury-chinese-evs-digvid-vrtc\"\ndata-breakpoints='{\"video-resource--media-extra-large\": 660}'\nNorth Korea has power cuts. So who’s driving luxury Chinese EVs?\nChinese electric cars worth up to $150,000 are appearing on the streets of Pyongyang, despite North Korea’s chronic power shortages and U.N. sanctions restricting vehicle imports. CNN’s Will Ripley reports.\nNorth Korea has power cuts. So who’s driving luxury Chinese EVs?",
-      "published": "2026-10-28T14:14:00+00:00",
-      "source": "GN Geopolitics",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "content": "Image caption, While earnings are rising, forecasters predict that is not compensating for higher prices and taxes\nJohn Healey talked of charting a new course for Britain, but this Budget was more about course-correcting than charging down a new path.\nIt was abundantly clear that the financial fallout from that conflict in the Middle East has hampered the finances of households and businesses â and the government&#x27;s ability to help.\nWhile the government targeted those impacted by higher energy and fuel bills, the \"breathing space\" it aimed to provide was limited; it is a pill that doesn&#x27;t fully alleviate the pain.\nThe most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.\nEven after the extra help is taken into account, households&#x27; incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament, a sign of how much the war has blown prosperity off course.\nBut it can&#x27;t be all be blamed on the war. Taxes haven&#x27;t helped. Although there were few major measures aimed at households, the policy of previous chancellors of freezing the thresholds at which different rates of tax on income apply - fiscal drag - has been maintained in the background, scooping more money out of pay packets.\nOverall, this Budget has the tax burden - the proportion of the nation&#x27;s income going to the tax office - rising to a new historic high of 38.6%\nHowever, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by Â£14bn in the past year alone.\nThe Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.\nAs it stands, debt interest repayments are due to be Â£160bn in 2032, more than double the amount spent on schools in England.\nAnd the plans Healey has unveiled already eat into wiggle room he has within the public finances. He says he was right to do so - that&#x27;s what such safety margins are there for - in times of strife. But the great uncertainty that remains made going further very risky. Energy prices remaining high, for example, could easily chew up all the spare cash.\nSo the result was what some have termed a beige, safe Budget. As Healey strove to prove his fiscally sound credentials, there wasn&#x27;t even the customary rabbit pulled out of the hat, the end-of-speech sweetener.\nThe markets seem reassured â even if some of his tax raising plans involve clamping down on loopholes and those not paying the right tax, which is always highly uncertain.\nHealey announces Â£100 energy bill help for millions and raises taxes on banks and some savers\nYour pay, energy bills and savings: How the Budget affects you\nSo the chancellor appears to have bought himself some breathing space. But that means some big questions have been postponed until another day, not least on public services.\nHigher-than-expected inflation may mean that if areas such as health and defence are prioritised, budgets for some other \"unprotected\" areas â justice and higher education for example â are set to lag behind inflation after 2028.\nThere was a hint too from John Healey that he&#x27;d tap into some of those budgets to help out defence spending. To maintain those budgets in 2030 would means finding tens of billions of pounds.\nAnd issues around the other big area of spending â welfare â remain unresolved. Between 2025 and 2032, spending there is set to increase by Â£100bn.\nThe official forecasters also noted the rapid rise in sickness and disability caseloads since the start of the pandemic. They warn if that trend continued, spending on such benefits would rise by a further Â£13bn.\nAny suggestion of welfare reform has been postponed until the forthcoming review into the plight of workless young people.\nThen there&#x27;s the issue of boosting growth. There was a bit more detail on the plans for devolution â but there is much to be fleshed out.\nAnd on another key part of the growth strategy, housebuilding, there was disappointing news. Even though first-time buyers are set to get more help, their first home may be more elusive.\nBetween regulation and higher costs â in part, related to the war - the OBR estimates that 190,000 fewer homes will be built by 2032 compared to what it thought in March, a significant setback.\nSo the chancellor may have unveiled 98 (relatively small) measures but the to-do list gets longer.\nWith his official forecasters warning that, in a very uncertain world, his finances face exceptional risks, playing a wait-and-see game feels like a prudent move.\nThe risks go both ways: the OBR points out that a swift resolution to the war and an improvement in the economy could spell a significant boost to the public finances.\nSo the chancellor has more reason than most to keep his fingers crossed that happens rapidly.\nFor as it stands, the official forecasters say incomes after inflation, living standards, are set to be only 1% higher at the end of the decade than at the start.\nA series of economic shocks outside out control could thwart plans to turbo-boost prosperity . And as today shows, breathing space only extends so far.",
+      "published": "2026-10-28T17:32:51+00:00",
+      "source": "BBC Business",
       "sources": [
-        "GN Geopolitics"
+        "BBC Business"
       ],
       "source_count": 1,
       "category": "geopolitics",
@@ -823,11 +791,8 @@
       "score": 13.4,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Russia Moves to Legalize Stolen Cars From Europe, Canada, and Ukraine - UNITED24 Media",
@@ -854,7 +819,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ?oc=5",
       "summary": "Google's AI chip business is getting harder for Nvidia to ignore&nbsp;&nbsp;Business Insider",
       "content": "",
-      "published": "2026-10-28T16:35:26+00:00",
+      "published": "2026-10-28T16:35:14+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -876,7 +841,7 @@
       "title": "OpenAI Reportedly Plans to Purchase Google AI Chips as Demand for Computing Infrastructure Grows - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUtfamNMUHJmbnU3VHRGVU9hQVRWZjNYS2lPMFlhd3pWMjVidFM3QnJ1dmRjcHZ0U1BMd3lZeGNscGg5eUc4NDctLWVqX3BDY0otNGpsWEI5MWJmc0NRSU1PODhtdEpIVmpfWmpVNnZqTDZ6aEF3YmluelBWLVVLRk9UYlp4azY2S09BYkhJdlJMZ0dBU1ZpSGdGMmE4Nmo5RklOY0hR?oc=5",
       "summary": "OpenAI Reportedly Plans to Purchase Google AI Chips as Demand for Computing Infrastructure Grows&nbsp;&nbsp;Yahoo Finance",
-      "content": "OpenAI Reportedly Plans to Purchase Google AI Chips as Demand for Computing Infrastructure Grows\nOpenAI (NASDAQ:OAI) is planning to purchase artificial intelligence chips developed by Alphabet's Google (NASDAQ:GOOG), according to a report published Tuesday by The Information, citing a person familiar with the matter. The potential agreement would expand the commercial relationship between the two companies as demand for AI computing infrastructure continues to increase.\nThe reported plans come as major technology companies commit substantial capital to data centres, processors and other infrastructure required to develop and operate advanced artificial intelligence models.\nFinancial terms and other details of the proposed purchases were not disclosed. Google did not immediately respond to a Reuters request for comment outside regular business hours, while OpenAI declined to comment.\nThe potential chip purchases would represent another development in the relationship between OpenAI and Google, which compete in artificial intelligence products and internet search.\nDespite that competition, the companies have increasingly established commercial arrangements involving computing infrastructure and AI services.\nLast week, OpenAI announced that it would make its frontier artificial intelligence models available through Google Cloud.\nThe agreement provides another distribution channel for OpenAI's advanced models while expanding the range of AI services available through Google's cloud platform.\nThe reported plan to purchase Google-designed chips would extend the relationship into semiconductor procurement.\nHowever, neither company has confirmed the proposed transaction, and the report did not specify purchase volumes, pricing or delivery schedules.\nGoogle's Tensor Processing Units, or TPUs, have gained attention as an alternative to the graphics processing units supplied by Nvidia.\nTPUs are specialized processors designed to handle computational workloads associated with artificial intelligence, including model training and inference.\nOpenAI is already one of the largest purchasers of Nvidia GPUs, which it uses to develop and deploy its AI systems.\nThe company has also previously accessed Google's semiconductor technology.\nReuters reported in June 2025 that OpenAI had begun renting Google's AI chips, establishing an earlier commercial relationship involving the processors.\nThe latest report suggests OpenAI is considering direct purchases rather than relying exclusively on rented computing capacity.\nGoogle began selling TPUs directly to selected customers this year as demand for alternatives to Nvidia's processors increased.\nThe reported transaction comes amid substantial investment in the infrastructure required to support artificial intelligence development.\nAmazon, Microsoft and Alphabet expect to spend as much as $600 billion collectively this year on AI-related infrastructure.\nThe spending includes investments in data centres, computing equipment and systems needed to operate increasingly complex AI models.\nAs capital expenditure rises, investors are paying closer attention to the financial returns generated by these investments.\nCompanies developing AI systems are also evaluating different semiconductor technologies as they seek to manage computing costs and secure sufficient processing capacity.\nGoogle's TPUs have attracted interest partly because they offer another option alongside Nvidia's widely used GPUs.\nFor OpenAI, access to additional chip suppliers could broaden the range of hardware available for its computing requirements.\nAlphabet Earnings Expected to Provide AI Infrastructure Update\nAlphabet is scheduled to report its quarterly financial results later on Wednesday.\nInvestors will examine the performance of Google Cloud and the company's spending on artificial intelligence infrastructure.\nThe results are expected to provide further information about whether demand for AI services and computing capacity is translating into revenue growth.\nGoogle's TPU business has benefited from commercial agreements with customers, including OpenAI rival Anthropic.\nThese arrangements have contributed to demand for Google's proprietary semiconductor technology.\nAlphabet Chief Financial Officer Anat Ashkenazi previously indicated that the company expects to recognize a small percentage of revenue associated with TPU sales agreements by the end of 2026.\nThe majority of revenue from those agreements is expected to be recognized during 2027.\nThe timing reflects the longer-term nature of some semiconductor supply arrangements and the period over which contracted sales are expected to contribute to Alphabet's financial results.\nAlongside its reported interest in Google's chips, OpenAI is developing its own semiconductor technology.\nIn June, the company unveiled its first custom artificial intelligence chip, designed in collaboration with Broadcom.\nOpenAI said it planned to deploy the processor by the end of 2026 as part of a multigeneration chip development programme.\nThe initiative represents another approach to securing the computing capacity required for the company's AI models.\nDeveloping proprietary processors could allow OpenAI to tailor hardware to its specific computing requirements while continuing to use chips supplied by external manufacturers.\nThe programme also demonstrates the range of semiconductor procurement and development strategies being pursued by major AI companies.\nCompetition and Commercial Partnerships Continue Across AI Industry\nThe reported chip purchases illustrate how companies competing in artificial intelligence can also maintain commercial relationships.\nGoogle and OpenAI compete in areas including generative AI models, consumer applications and search-related services.\nAt the same time, Google Cloud provides computing infrastructure that can support the deployment of OpenAI models.\nA direct chip supply arrangement would create another commercial connection between the companies.\nThe development also reflects the growing importance of semiconductor availability in determining how quickly AI developers can expand their computing operations.\nNvidia remains a major supplier of AI processors, but Google's TPU sales and custom chip programmes involving companies such as Broadcom demonstrate efforts to diversify hardware options.\nOpenAI's reported plan to purchase Google's AI chips would expand an existing commercial relationship that already includes access to Google Cloud services and previously reported TPU rentals.\nThe proposed transaction has not been confirmed, and no financial terms or purchase volumes have been disclosed.\nFor Google, direct TPU sales represent an additional opportunity to generate revenue from its semiconductor technology alongside its cloud computing business.\nAlphabet expects most revenue from existing TPU sales agreements to be recognized in 2027, with a smaller contribution anticipated before the end of 2026.\nMeanwhile, OpenAI is continuing its custom chip development programme with Broadcom, with initial deployment planned before year-end.\nThe developments highlight the increasing importance of semiconductor supply, computing costs and infrastructure investment as artificial intelligence companies expand their operations.",
+      "content": "Breaking The Federal Reserve voted to hold rates this month in a split decision. Follow live updates here.\nOpenAI Reportedly Plans to Purchase Google AI Chips as Demand for Computing Infrastructure Grows\nOpenAI (NASDAQ:OAI) is planning to purchase artificial intelligence chips developed by Alphabet's Google (NASDAQ:GOOG), according to a report published Tuesday by The Information, citing a person familiar with the matter. The potential agreement would expand the commercial relationship between the two companies as demand for AI computing infrastructure continues to increase.\nThe reported plans come as major technology companies commit substantial capital to data centres, processors and other infrastructure required to develop and operate advanced artificial intelligence models.\nFinancial terms and other details of the proposed purchases were not disclosed. Google did not immediately respond to a Reuters request for comment outside regular business hours, while OpenAI declined to comment.\nThe potential chip purchases would represent another development in the relationship between OpenAI and Google, which compete in artificial intelligence products and internet search.\nDespite that competition, the companies have increasingly established commercial arrangements involving computing infrastructure and AI services.\nLast week, OpenAI announced that it would make its frontier artificial intelligence models available through Google Cloud.\nThe agreement provides another distribution channel for OpenAI's advanced models while expanding the range of AI services available through Google's cloud platform.\nThe reported plan to purchase Google-designed chips would extend the relationship into semiconductor procurement.\nHowever, neither company has confirmed the proposed transaction, and the report did not specify purchase volumes, pricing or delivery schedules.\nGoogle's Tensor Processing Units, or TPUs, have gained attention as an alternative to the graphics processing units supplied by Nvidia.\nTPUs are specialized processors designed to handle computational workloads associated with artificial intelligence, including model training and inference.\nOpenAI is already one of the largest purchasers of Nvidia GPUs, which it uses to develop and deploy its AI systems.\nThe company has also previously accessed Google's semiconductor technology.\nReuters reported in June 2025 that OpenAI had begun renting Google's AI chips, establishing an earlier commercial relationship involving the processors.\nThe latest report suggests OpenAI is considering direct purchases rather than relying exclusively on rented computing capacity.\nGoogle began selling TPUs directly to selected customers this year as demand for alternatives to Nvidia's processors increased.\nThe reported transaction comes amid substantial investment in the infrastructure required to support artificial intelligence development.\nAmazon, Microsoft and Alphabet expect to spend as much as $600 billion collectively this year on AI-related infrastructure.\nThe spending includes investments in data centres, computing equipment and systems needed to operate increasingly complex AI models.\nAs capital expenditure rises, investors are paying closer attention to the financial returns generated by these investments.\nCompanies developing AI systems are also evaluating different semiconductor technologies as they seek to manage computing costs and secure sufficient processing capacity.\nGoogle's TPUs have attracted interest partly because they offer another option alongside Nvidia's widely used GPUs.\nFor OpenAI, access to additional chip suppliers could broaden the range of hardware available for its computing requirements.\nAlphabet Earnings Expected to Provide AI Infrastructure Update\nAlphabet is scheduled to report its quarterly financial results later on Wednesday.\nInvestors will examine the performance of Google Cloud and the company's spending on artificial intelligence infrastructure.\nThe results are expected to provide further information about whether demand for AI services and computing capacity is translating into revenue growth.\nGoogle's TPU business has benefited from commercial agreements with customers, including OpenAI rival Anthropic.\nThese arrangements have contributed to demand for Google's proprietary semiconductor technology.\nAlphabet Chief Financial Officer Anat Ashkenazi previously indicated that the company expects to recognize a small percentage of revenue associated with TPU sales agreements by the end of 2026.\nThe majority of revenue from those agreements is expected to be recognized during 2027.\nThe timing reflects the longer-term nature of some semiconductor supply arrangements and the period over which contracted sales are expected to contribute to Alphabet's financial results.\nAlongside its reported interest in Google's chips, OpenAI is developing its own semiconductor technology.\nIn June, the company unveiled its first custom artificial intelligence chip, designed in collaboration with Broadcom.\nOpenAI said it planned to deploy the processor by the end of 2026 as part of a multigeneration chip development programme.\nThe initiative represents another approach to securing the computing capacity required for the company's AI models.\nDeveloping proprietary processors could allow OpenAI to tailor hardware to its specific computing requirements while continuing to use chips supplied by external manufacturers.\nThe programme also demonstrates the range of semiconductor procurement and development strategies being pursued by major AI companies.\nCompetition and Commercial Partnerships Continue Across AI Industry\nThe reported chip purchases illustrate how companies competing in artificial intelligence can also maintain commercial relationships.\nGoogle and OpenAI compete in areas including generative AI models, consumer applications and search-related services.\nAt the same time, Google Cloud provides computing infrastructure that can support the deployment of OpenAI models.\nA direct chip supply arrangement would create another commercial connection between the companies.\nThe development also reflects the growing importance of semiconductor availability in determining how quickly AI developers can expand their computing operations.\nNvidia remains a major supplier of AI processors, but Google's TPU sales and custom chip programmes involving companies such as Broadcom demonstrate efforts to diversify hardware options.\nOpenAI's reported plan to purchase Google's AI chips would expand an existing commercial relationship that already includes access to Google Cloud services and previously reported TPU rentals.\nThe proposed transaction has not been confirmed, and no financial terms or purchase volumes have been disclosed.\nFor Google, direct TPU sales represent an additional opportunity to generate revenue from its semiconductor technology alongside its cloud computing business.\nAlphabet expects most revenue from existing TPU sales agreements to be recognized in 2027, with a smaller contribution anticipated before the end of 2026.\nMeanwhile, OpenAI is continuing its custom chip development programme with Broadcom, with initial deployment planned before year-end.\nThe developments highlight the increasing importance of semiconductor supply, computing costs and infrastructure investment as artificial intelligence companies expand their operations.",
       "published": "2026-10-28T11:51:26+00:00",
       "source": "GN AI",
       "sources": [
@@ -899,7 +864,7 @@
       "title": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1VKR003dExDaWJnNmhUajVSX1hmMEY4Sml5XzdxaTlVOW1LQUlZakxIMzJhajNNN1YzTENkX3gtWTd1M2tudXNYZ04xbzBZQXdLa2o4eGpUN2N6X3ZVLTFjQk1XVGxDWUl6LUViWW1McTlIbTQ1Y1ZiOXgxYzBFb092d1drYU9qdUtodEt0Y2UyQ0xfSG44YQ?oc=5",
       "summary": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out&nbsp;&nbsp;Yahoo Finance",
-      "content": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out\nOpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out\nUpdated Wed, October 28, 2026 at 2:14 AM MST 2 min read\n(Bloomberg) -- OpenAI ( OPAI.PVT ) intends to buy artificial intelligence computing chips from Alphabet Inc.'s Google ( GOOG ), according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.\nApple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking\nFinland and Norway Hold 'Frank' Call With Putin on Ukraine\nLula Wins Record Fourth Term in Surprise Brazil Comeback\nUS to Take In Bolsonaro After He Loses Election and Flees Brazil\nAnthropic Files for IPO in Global Race to Raise Cash for AI\nFinal terms of any deal aren't yet known, according to the person, who asked not to be identified because the discussions are private. OpenAI and Google declined to comment.\nThe move reflects OpenAI's multipronged bid to quickly add more AI processing power. The company has already announced plans to start using its own chips to support its artificial intelligence models later this year. It joins a stampede of companies working to develop homegrown AI chips and challenge Nvidia Corp.'s dominance in the field.\nOpenAI's in-house Jalapeno chips, developed with Broadcom Inc., were created with help from Google veterans. Richard Ho, who runs the OpenAI internal chip team, was previously involved in the development of Google's semiconductors — known as tensor processing units, or TPUs.\nGoogle began working on its TPUs more than a decade ago. Initially, the processors were used to speed up the company's web search engine and improve efficiency.\nBut the chips soon proved valuable for handling AI work and have emerged in recent years as an alternative to Nvidia's much-prized graphics processing units.\nOracle Corp. also announced on Tuesday that TPUs would be available through its cloud-computing infrastructure.\n\"The next generation of AI will require a diverse range of compute,\" Google executive Amin Vahdat said in a statement announcing that deal.\nThe Information previously reported that OpenAI was planning to buy Google chips.\nUS MBA Applications Plunge 27% as International Demand Drops\nBurger King Posted the Boss's Number for Feedback. He Got 100,000 Calls\nLula's Shock Win Stokes Fears Over Brazil's Financial Fate\nHackers Sympathetic to Russia Are Hitting Utilities and Factories",
+      "content": "Breaking The Federal Reserve voted to hold rates this month in a split decision. Follow live updates here.\nOpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out\nOpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out\nUpdated Wed, October 28, 2026 at 2:14 AM MST 2 min read\n(Bloomberg) -- OpenAI ( OPAI.PVT ) intends to buy artificial intelligence computing chips from Alphabet Inc.'s Google ( GOOG ), according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.\nApple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking\nFinland and Norway Hold 'Frank' Call With Putin on Ukraine\nLula Wins Record Fourth Term in Surprise Brazil Comeback\nUS to Take In Bolsonaro After He Loses Election and Flees Brazil\nAnthropic Files for IPO in Global Race to Raise Cash for AI\nFinal terms of any deal aren't yet known, according to the person, who asked not to be identified because the discussions are private. OpenAI and Google declined to comment.\nThe move reflects OpenAI's multipronged bid to quickly add more AI processing power. The company has already announced plans to start using its own chips to support its artificial intelligence models later this year. It joins a stampede of companies working to develop homegrown AI chips and challenge Nvidia Corp.'s dominance in the field.\nOpenAI's in-house Jalapeno chips, developed with Broadcom Inc., were created with help from Google veterans. Richard Ho, who runs the OpenAI internal chip team, was previously involved in the development of Google's semiconductors — known as tensor processing units, or TPUs.\nGoogle began working on its TPUs more than a decade ago. Initially, the processors were used to speed up the company's web search engine and improve efficiency.\nBut the chips soon proved valuable for handling AI work and have emerged in recent years as an alternative to Nvidia's much-prized graphics processing units.\nOracle Corp. also announced on Tuesday that TPUs would be available through its cloud-computing infrastructure.\n\"The next generation of AI will require a diverse range of compute,\" Google executive Amin Vahdat said in a statement announcing that deal.\nThe Information previously reported that OpenAI was planning to buy Google chips.\nUS MBA Applications Plunge 27% as International Demand Drops\nBurger King Posted the Boss's Number for Feedback. He Got 100,000 Calls\nLula's Shock Win Stokes Fears Over Brazil's Financial Fate\nHackers Sympathetic to Russia Are Hitting Utilities and Factories",
       "published": "2026-10-28T09:14:09+00:00",
       "source": "GN AI",
       "sources": [
@@ -922,7 +887,7 @@
       "title": "S&P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5",
       "summary": "S&amp;P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-      "content": "",
+      "content": "AI Capex in Mid-Cycle Boom, Says Morgan Stanley’s Shalett Source: Bloomberg\nContact us: Provide news feedback or report an error\nStocks fluctuated after the Federal Reserve held interest rates steady, but refrained from offering a clear signal that it will hike in December.\nThe S&P 500 was little changed. The yield on 10-year Treasuries rose three basis points to 5.03%. The dollar wavered. Oil climbed.",
       "published": "2026-10-27T22:09:07+00:00",
       "source": "GN Markets",
       "sources": [
@@ -943,42 +908,48 @@
       ]
     },
     {
-      "title": "Volkswagen's journey: Beetle maker's wartime roots to reinvention - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckhKVmlwdndjZXVDcHhJSk1wZ1RBampaZ1czZjhlQU80b0gzbzRJb0xMWkhJSXVwSlNfNXQ1UFI5VVVfamQzQllwc1RaRHg5YXAxTEJldEVfelczUWNhakFPck00dTdWZFpWTk5rR010NmtLSlRRUld4UktFUWZlVmUxWE8xR1h4WU9BS3dnN1NVU1BadUZDcGtPbEJRYml6ZFJmREIxc0lrU0U?oc=5",
-      "summary": "Volkswagen's journey: Beetle maker's wartime roots to reinvention&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T07:25:37+00:00",
-      "source": "Reuters World",
+      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUR4ZTBBTHlNVnF1OTExeDhvT0NkSG9uamZQc3NXaVc4R0VkVHdGZ295cGFHVmhNSjRPVWY0Rm9BaDRxNG5vS3dId2VtMnpfS2VqTWtzODZuSEJSUXB4T194ajlRbTZqc3FVNVN6UUxXY0wxSnpQNUFjT0l5NGl5TDhEbWdjSGgzNDRwNTdfelUyV0pwTHhjN3hubXRKNnNqNlBxRTlvRjduUjDSAbABQVVfeXFMT2kxR0E5NTByTkZwcHdqaHlCaFpnMFRvWE16dzV1SGl1NGVBLXVSbFd2VGQ1cGVvS1g2b2NRRUEtTHJFbTJSY0hxOXhHS25qUHQzT0tqWWhHeFdvM3djWHBqd1c0SXN6anRUZXdCYW93TVZmTzE3WHdRbG5uUlNJMnVzdEFBdm9oYTlYbjloWE9mVnVXYUtzR1pjUHM1TjFWTVcxRUxQTHMxVzZnVU81WkY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUR4ZTBBTHlNVnF1OTExeDhvT0NkSG9uamZQc3NXaVc4R0VkVHdGZ295cGFHVmhNSjRPVWY0Rm9BaDRxNG5vS3dId2VtMnpfS2VqTWtzODZuSEJSUXB4T194ajlRbTZqc3FVNVN6UUxXY0wxSnpQNUFjT0l5NGl5TDhEbWdjSGgzNDRwNTdfelUyV0pwTHhjN3hubXRKNnNqNlBxRTlvRjduUjDSAbABQVVfeXFMT2kxR0E5NTByTkZwcHdqaHlCaFpnMFRvWE16dzV1SGl1NGVBLXVSbFd2VGQ1cGVvS1g2b2NRRUEtTHJFbTJSY0hxOXhHS25qUHQzT0tqWWhHeFdvM3djWHBqd1c0SXN6anRUZXdCYW93TVZmTzE3WHdRbG5uUlNJMnVzdEFBdm9oYTlYbjloWE9mVnVXYUtzR1pjUHM1TjFWTV",
+      "content": "Google alters cloud playbook turning to partners to sell more AI chips\nGoogle started working on in-house silicon in 2013, but didn&#x27;t begin selling its tensor processing units to outside customers until the second quarter of this year.\nNow the company is tapping Oracle&#x27;s cloud as another avenue for selling TPUs as it tries to bolster competition with Nvidia in the AI chip market.\nThomas Kurian, Google&#x27;s cloud boss, spent more than 20 years at Oracle before joining Google in 2018.\nThomas Kurian, chief executive officer of cloud services at Google LLC, speaks during the Google Cloud Next event in San Francisco on April 9, 2019.\nGoogle has spent years pitching customers on the advantage of buying its chips, models and cloud services in one place, offering a full stack that rivals Amazon and Microsoft have tried to replicate.\nNow, the company is pushing its equipment outside of its own walls to reach more customers and build a bigger business around artificial intelligence chips, a market that Nvidia has dominated.\nA day ahead of its third-quarter earnings report, Alphabet said Tuesday that Oracle will offer Google&#x27;s tensor processing units, or TPUs, the custom chips the internet giant has been developing since 2013 . It&#x27;s the first time customers will be able to access TPUs outside of Google&#x27;s infrastructure, and shows that cloud boss Thomas Kurian, who previously spent more than 20 years at Oracle, is looking elsewhere for growth.\n\"They&#x27;re a very strong competitor, and it&#x27;s very possible that they could eventually take market share from Nvidia,\" said Chris Ballard, managing director of Check Capital Management, referring to Google&#x27;s position in chips.\nKurian, who joined Google in late 2018, is operating from a position of strength. Analysts expect Google Cloud revenue to jump about 90% from a year earlier, after growing 82% in the second quarter , with TPUs contributing to its momentum.\nGoogle&#x27;s AI spend under scrutiny: Here&#x27;s what to know\n\"Google was great at doing its own thing, but it was never able to serve customers,\" said Uday Cheruvu, a portfolio manager at Harding Loevner, which owns Alphabet shares. \"That mindset has changed.\"\nGoogle opened up TPUs to outside data centers in the second quarter, before this week&#x27;s announcement with Oracle.\nEstimates for the TPU business vary widely, but they all point to significant growth. TD Cowen models $9.4 billion in TPU sales for the second half of this year and $62.5 billion for 2027. Wells Fargo expects about $9 billion in third-quarter sales and $99 billion next year.\nCFO Anat Ashkenazi said on the last earnings call in July that only a small portion of TPU revenue from existing agreements will be recognized this year, with the \"vast majority\" coming in 2027. She also said Google planned to use more outside capacity in the third quarter while the company builds out its own infrastructure.\nWith $25 billion in second-quarter cloud revenue, Google trailed Amazon Web Services at $42 billion and Microsoft Azure at $29 billion.\n\"It&#x27;s almost like the bigger the pie is getting, the faster they&#x27;re accelerating into it,\" said Ballard, whose firm owned about $236 million in Alphabet stock as of June 30.\nWall Street expects Google Cloud growth to top 90% as Search slows\nWhile Kurian aims to get more TPUs into the market by turning to outside partners, he has to balance the benefits of building the customer base with his company&#x27;s own technology needs.\nAt a Goldman Sachs conference in September, Kurian said Google&#x27;s AI servers pay for themselves in under two years, and servers running its own silicon reach payback in roughly half that time.\n\"It&#x27;s because we can optimize that whole stack,\" Kurian said.\nIndustry research firm SemiAnalysis estimates that Google&#x27;s latest Ironwood TPU costs about 44% less to own and operate than an Nvidia GB200 server.\nThere&#x27;s also the margin hit that comes with external TPU sales. TD Cowen estimates a 20% operating margin on TPU sales, compared with an overall cloud margin of about 35% last quarter. Cheruvu said he doesn&#x27;t think Google&#x27;s cloud operating margin could widen much beyond the mid-30s.\nGoogle&#x27;s biggest TPU customer is one of its top AI competitors.\nAnthropic, whose Claude models compete with Gemini, agreed last October to use up to 1 million TPUs in a deal worth tens of billions of dollars. Mizuho says that agreement brings nearly a gigawatt of capacity online this year and describes the relationship as Google \"arming its closest model competitor.\"\nOpenAI is also planning to buy TPUs from Google, CNBC confirmed after The Information first reported on the ChatGPT maker&#x27;s intentions on Tuesday.\nAnthropic is getting outside help to finance its Google silicon. This week, Broadcom , which works with Google on TPUs, detailed a $63 billion vehicle backed by Blackstone and three big banks that will buy TPUs and networking gear from Broadcom and lease them to Anthropic for five years. According to analysts from William Blair, the financing plan covers about half of Anthropic&#x27;s 2027 needs, which suggests more financing is coming.\nIn its initial public offering filing on Monday, Anthropic said it uses silicon from Google, Amazon, Nvidia and Advanced Micro Devices , allowing the company to \"select chips based on the best price-performance and efficiency characteristics for each workload.\"\nRegarding Google and Broadcom, Anthropic said the partnerships \"provide us with access to compute capacity powered by Google TPUs across multiple generations of the TPU platform.\"\nWATCH: Gemini product chief details weeks of company-wide testing ahead of Gemini 4 Argon launch\nGoogle&#x27;s Gemini product chief details weeks of company-wide testing ahead of Gemini 4 Argon launch\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-28T11:00:01+00:00",
+      "source": "GN AI",
       "sources": [
-        "Reuters World"
+        "GN AI",
+        "CNBC Top"
       ],
-      "source_count": 1,
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+      "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T16:44:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
-      "score": 13.2,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "At least 68 dead in Spain's second major train crash this year - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
-      "summary": "At least 68 dead in Spain's second major train crash this year&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T15:11:26+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -1027,24 +998,23 @@
       ]
     },
     {
-      "title": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
-      "summary": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-28T03:55:00+00:00",
-      "source": "AP World",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "content": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump\nWhat we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump Close\nFighting in the Russian-occupied Ukrainian city of Oleshky has stopped after a truce, which the White House said was secured by US First Lady.\nThe truce is meant to allow aid deliveries and a civilian evacuation on Friday.\nBut residents have told the BBC they were weary of the ceasefire as the evacuation routes could potentially take them through Crimea and Russia.\nBBC&#x27;s Ukraine correspondent, Dan Johnson, has more details.",
+      "published": "2026-10-27T20:42:38+00:00",
+      "source": "BBC World",
       "sources": [
-        "AP World",
-        "Guardian World",
-        "NPR World"
+        "BBC World",
+        "GN Geopolitics"
       ],
-      "source_count": 3,
+      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -1074,6 +1044,29 @@
       ]
     },
     {
+      "title": "EIA: US crude oil inventories down 1.9 million bbl - Oil & Gas Journal",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkEyU3dlSUlIa19vNHJHbmt0QkhMWTI4bWdnbmZuMG13NmhyMUpLWmlDUHpaOVhPV19vQlBXSXNiVHBQaEpiZW05MEk0dm1kRXRHY0dvSnRYWFc4WFFub1lZUXZ6WmZZTHJBbEZROU1IMlh6QnF5REZpcVVUYUkzTGhnOEpkbW5KMjAtZzFYQWVEZmNFQ1duT1UzMGV0bnFrM3NWd1hTNEdHX09jblIxNE1fVXFwWWFf?oc=5",
+      "summary": "EIA: US crude oil inventories down 1.9 million bbl | Oil & Gas Journal Economics & Markets\"},\"section_hierarchy\":[{\"id\":32481,\"name\":\"General Interest\",\"alias\":\"general-interest\"},{\"id\":32484,\"name\":\"Economics & Markets\",\"alias\":\"general-interest/economics-markets\"}],\"taxonomy\":[{\"type\":\"Tag\",\"name\":\"US crude oil inventories\",\"fullName\":\"Tag: US crude oil inventories (2029273)\",\"id\":2029273},{\"typ",
+      "content": "EIA: US crude oil inventories down 1.9 million bbl | Oil & Gas Journal Economics & Markets\"},\"section_hierarchy\":[{\"id\":32481,\"name\":\"General Interest\",\"alias\":\"general-interest\"},{\"id\":32484,\"name\":\"Economics & Markets\",\"alias\":\"general-interest/economics-markets\"}],\"taxonomy\":[{\"type\":\"Tag\",\"name\":\"US crude oil inventories\",\"fullName\":\"Tag: US crude oil inventories (2029273)\",\"id\":2029273},{\"type\":\"Tag\",\"name\":\"inventories\",\"fullName\":\"Tag: inventories (2027138)\",\"id\":2027138},{\"type\":\"Tag\",\"name\":\"EIA\",\"fullName\":\"Tag: EIA (2027137)\",\"id\":2027137},{\"type\":\"Tag\",\"name\":\"news\",\"fullName\":\"Tag: news (2026892)\",\"id\":2026892}],\"authors\":[]}\">\nAt 410.6 million bbl, US crude oil inventories are 4% below the 5-year average for this time of year, the EIA report indicated.\nUS crude oil inventories for the week ended Oct. 23, excluding the Strategic Petroleum Reserve, decreased by 1.9 million bbl from the previous week, according to data from the US Energy Information Administration (EIA).\nAt 410.6 million bbl, US crude oil inventories are 4% below the 5-year average for this time of year, the EIA report indicated.\nGasoline inventories increased 3.9 million bbl, 2% below the 5-year average. Propane-propylene inventories decreased 100,000 bbl, 12% above the 5-year average. Total commercial petroleum inventories decreased by 3.0 million bbl for the week. Distillate inventories decreased 1.5 million bbl, 10% below the 5-year average.\nUS crude oil refinery inputs averaged 16.5 million b/d for the week ended Oct. 23, which was 123,000 b/d less than the previous week's average. Refineries operated at 92.8% of capacity.\nGasoline output averaged 9.2 million b/d, and distillate production decreased to 5.2 million b/d.\nCrude oil imports increased 616,000 b/d to 6.4 million b/d. The 4-week average of 6.3 million b/d is 9.3% above the year-ago level. Gasoline imports averaged 399,000 b/d; distillate imports averaged 157,000 b/d.\nOver the past four weeks, total product supplied averaged 20.8 million b/d, up 0.2% year over year. The 4-week average for gasoline product supplied decreased 0.7% year over year to 8.6 million b/d, while the 4-week average for distillate product supplied decreased 0.6% to 4.0 million b/d. The 4-week average for jet fuel product supplied decreased 3.5% year over year.\nSign up for our eNewsletters Get the latest news and updates\nAqaba Development Corporation Invitation to International and Local Contractors\nExxonMobil posts $7.5 billion for third-quarter earnings, output hits records\nPower Evaluator: Bankable Curves for Power Plant Valuations\nPower Evaluator: Bankable Curves for Power Plant Valuations\nNew Gas Indices, Methodology Projects, and Indices Liquidity\nNew Gas Indices, Methodology Projects, and Indices Liquidity\nNew Gas Indices, Methodology Projects, and Indices Liquidity\nPower Evaluator: Bankable Curves for Power Plant Valuations\nHow Has the Chemical Industry Evolved Over the Past 40 Years?",
+      "published": "2026-10-28T16:39:36+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
       "title": "Trump says he’s ending restrictions on climate-warming methane from oil drilling - AP News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFNKN0ZYWlpwbTl6aV91dkRrYVpUZktMVzIta0hXb21GR1k0SURSb3lOZVFkTmhPR2Z4VUJXZm9WaC1rLWwtLXN0OVhYR3NobFhmTzhTSEVmRzkxWDdRSlVNVkNQTVpNSUduQXBDdC1pV1VzcGUxaXNtalJoYXFJVjUyQnFKUGV0QmJYQmVPbG15bVBOZXZF?oc=5",
       "summary": "Trump says he’s ending restrictions on climate-warming methane from oil drilling&nbsp;&nbsp;AP News",
@@ -1096,26 +1089,6 @@
         "原油",
         "能源股"
       ]
-    },
-    {
-      "title": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
-      "link": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
-      "summary": "A movement that began in outrage has delivered remarkable election upset, showing that change is possible and prompting questions over what comes next• Don’t get This Is Europe delivered to your inbox? Sign up hereIn April of last year, dozens of students set off from Serbia, intent on making it to Strasbourg, France on bicycles. The",
-      "content": "As people celebrate in Serbia, the rest of Europe is ready for change. Photograph: Marko Drobnjaković/AP\nAs people celebrate in Serbia, the rest of Europe is ready for change. Photograph: Marko Drobnjaković/AP\nIn Serbia, a new type of democracy is taking hold, and Europe is watching closely\nA movement that began in outrage has delivered remarkable election upset, showing that change is possible and prompting questions over what comes next\nDon’t get This Is Europe delivered to your inbox? Sign up here\nI n April of last year, dozens of students set off from Serbia , intent on making it to Strasbourg, France on bicycles. The aim of the arduous, 13-day transcontinental journey was simple: to make their voices heard in Europe and beyond.\nIn their home city of Novi Sad, students had been holding near-daily protests after a deadly roof collapse at the city’s main railway station. As their push for accountability and justice spread across the country, it was met with baton-wielding police, teargas and a political class that branded these young people as traitors.\nTheir trek to Strasbourg was aimed at casting a spotlight on the deepening erosion of democratic values in their home country. “Serbia needs Europe’s support,” the students explained in an open letter to the French president, Emmanuel Macron, as they arrived in Strasbourg and met with MEPs and officials. “We are not riding toward Europe to flee Serbia. We are riding to bring it back.”\nOn Sunday, their movement made headlines across the world as the students were catapulted from the streets of Serbia into the halls of power. In a ballot that saw the highest turnout since the breakup of Yugoslavia in 1992, over 50% of voters backed the students to oust the increasingly authoritarian leader, Aleksandar Vučić, and end his party’s 14 years in power.\nIt was, as a Guardian editorial noted, “one of the most remarkable election outcomes in recent European history”.\nThe students’ extraordinary feat came as Europe has been rocked by weeks of protests. From Porto to Paris and Madrid to Milan, analysts have pointed to the common thread that weaves through the diverse protests: a view that the social contract has broken down, leaving younger generations bracing for a future in which they will be worse off than their parents.\nThe election result in Serbia lays bare the power of these protests to reshape politics, postdoctoral researcher Aleksandar Matković noted this week . Could it be, as WikiLeaks founder Julian Assange once told an interviewer in Belgrade, that Serbia is “a country where the future happens first”?\nMatković drew on his involvement inside the student movement to offer a singular window into all that had gone into their win, citing discussions that had stretched as long as six hours as the students laid the groundwork for their entry into politics. “The world should be watching closely: it may be witnessing the start of a very different kind of politics,” he wrote.\nTheir win sparked joy across Serbia, sending tens of thousands of jubilant revelers on to streets across the country. “It’s very strange that on the very streets where the police beat us, on the streets where we retreated countless times in the face of the gendarmerie, we are now standing here as the victors,” Sara, 24, told the Guardian.\nHours later supporters of the movement appeared again, this time to clean up after a night of raucous celebrations.\nWhen the celebrations are over, the question of government begins. Photograph: Aleksandar Jovicic/NurPhoto/Shutterstock The movement now faces a tremendous task – particularly given that it has no hierarchy or leader. For more than a decade, Vučić’s party had transformed the state, tightening its grip on media, stuffing institutions with loyalists to the party and wielding ministries and Serbian institutions as political tools.\nThe movement won 140 of the 250 seats in parliament, giving a comfortable majority to a slate of candidates who range from academics to athletes, and who were chosen via student assemblies in the lead-up to the election. As one candidate told my colleagues on Monday, the top priority was “the social and psychological detoxification” of the country.\nUnderpinning the movement is an 11-point plan, which includes ridding the country of corruption, reforming the judiciary and media and improving access to healthcare. “We are neither promising, nor expecting overnight miracles as a result of this victory,” one member of the movement wrote in the Guardian this week. “Rather we hope for something fundamentally radical for Serbia: normal, functioning institutions.”\nAnd while their plans for power take shape, the impact of their bold experiment will certainly be felt far beyond Serbia. The country applied to join the European Union in 2009, but the process has largely stalled in recent years. Now, much like in neighbouring Hungary, the elections have ushered in the possibility of a fresh start along with hope of a democratic resurgence in central Europe.\nAs EU officials sent their congratulations this week to the students, whose policy platform promises to put the question of future EU membership to a referendum, a note of optimism laced their messages. “We stand ready to support reforms on the rule of law, media freedom, the fight against corruption and strong democratic institutions and to work together to advance Serbia’s future in the European Union,” the European Commission chief, Ursula von der Leyen, said on social media.\nMarta Kos, the EU’s enlargement commissioner, was more direct. “A new chapter can begin for Serbia. The door to the EU is open, and we are ready to move forward together,” she wrote on social media.\nIt was a stunning reversal of fortunes for the students who last year felt they had to cycle more than 1,300km (780 miles) to make their voices heard. Now – after nearly two years of protests that were met with detentions on trumped-up evidence, illegal surveillance, threats and job losses – it seems they might have a chance to fulfil their wish of bringing Europe to Serbia.\nTo receive the complete version of This Is Europe in your inbox every Wednesday, please subscribe here .",
-      "published": "2026-10-28T15:45:06+00:00",
-      "source": "Guardian World",
-      "sources": [
-        "Guardian World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.0,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     },
     {
       "title": "Iran Update, October 27, 2026 - Institute for the Study of War",
@@ -1158,11 +1131,11 @@
       "assets": []
     },
     {
-      "title": "Iran rejects 'unacceptable' proposal by Qatar to end war with US - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW5vRGtSc3NWdDAtV2JuYXZZa1hHVTlqb1VyaFUxOW1pM3VlMDRXbEJnWFhqbTNhZzFkZUZTdnJUODJSZ3RvcnBlM2lRUDNCbjU2TmN4bmF0RVRUclBzNHh1V0I4dGtia21tcW1CbWJqRjhpelpLa1V1QUtpTVpBcE9QcDVXd2RqUFRZNTV6Yw?oc=5",
-      "summary": "Iran rejects 'unacceptable' proposal by Qatar to end war with US&nbsp;&nbsp;Middle East Eye",
-      "content": "Iran has rejected a proposal from Qatar to end the US -led war on the country, calling it \"unacceptable\".\nQatar presented the draft deal, which would look to end the eight-month conflict, to Iranian negotiators on Sunday.\nHowever, a senior Iranian official told Reuters on Wednesday that his country could not work with what had been presented, adding that Tehran would show no flexibility regarding the nuclear issue.\nUS Vice President JD Vance said earlier this month that Iran must reduce nuclear enrichment to end the war. The Islamic Republic has repeatedly stated that its nuclear programme is entirely for non-military domestic use.\nThe negotiations come amid mounting fears that the US and Israel could imminently resume their attacks on Iran.\nIsrael-Palestine, alongside Turkey Unpacked and other MEE newsletters\nIsraeli Prime Minister Benjamin Netanyahu, in particular, has been touting the prospect of new attacks as he seeks re-election in Israel's parliamentary elections .\nWith 77 percent of votes counted, Netanyahu's bloc is the largest in the Israeli parliament.\nOn Wednesday, as negotiations were set to begin on forming a new government, Netanyahu announced he would work with US President Donald Trump to eliminate the \"existential threat\" posed by Iran.\nHis main rival, Gadi Eisenkot, has also supported strikes on Iran in tandem with economic pressure.\nThe Israel-US war on Iran has, since it began in February, caused massive disruption to the global economy, sending energy prices soaring.\nIran's Foreign Minister Abbas Araghchi warned on Wednesday that any Israeli-instigated attack in the Gulf region would have a \"devastating impact\" on global markets.\n\"Devastating impact on int'l markets of any Israel-instigated military misadventure in Persian Gulf region remains major concern for both gas suppliers and consumers,\" Araghchi said in a post on X.\n'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms\nThe fallout of any renewed conflict in the Gulf would also be compounded by the ongoing fighting between Saudi Arabia and the Iran-aligned Houthis in Yemen .\nThe Houthis, officially named Ansar Allah, on Wednesday called for the evacuation of the airport in Aden, the city in southern Yemen that serves as the seat of the Saudi-backed government.\n\"Our armed forces call on those present at Aden Airport to evacuate the premises immediately, due to the presence of a Saudi military cargo plane carrying weapons intended to kill the Yemeni people,\" Houthi spokesperson Yahya Saree wrote on X.\nFighting between the Houthis and Saudi-backed forces in Yemen has seen nearly 100 fighters killed since Monday, military sources from both sides told AFP.\nAt least 63 Houthi fighters and 34 combatants associated with the internationally recognised government died, mostly near the Bab al-Mandab Strait.\nMiddle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this form . More about MEE can be found here .",
-      "published": "2026-10-28T12:14:00+00:00",
+      "title": "Russian Offensive Campaign Assessment, October 27, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWdTTktDLXBCUU50ak5KUVBpWnV0T1hMX1VjeU1qLWdEczE3RnYwQmlIaHFLX1ZMX1VleDVTR2pBRXF5clFWQjBQYkZuS1lYbGNWZmFiRlFPV2R6S3hHVjlZaDJpT2hJRFZMb1lOM2VSeXVIRllnVG5HM1BSTUpvWDFuSEZ3VjZKZjJTcEcxOGVRazhXSWtmVGJpbmloLW5LekVxM2JwNHhRTWM?oc=5",
+      "summary": "Russian Offensive Campaign Assessment, October 27, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "content": "",
+      "published": "2026-10-27T23:18:22+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -1178,11 +1151,11 @@
       "assets": []
     },
     {
-      "title": "Russian Offensive Campaign Assessment, October 27, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWdTTktDLXBCUU50ak5KUVBpWnV0T1hMX1VjeU1qLWdEczE3RnYwQmlIaHFLX1ZMX1VleDVTR2pBRXF5clFWQjBQYkZuS1lYbGNWZmFiRlFPV2R6S3hHVjlZaDJpT2hJRFZMb1lOM2VSeXVIRllnVG5HM1BSTUpvWDFuSEZ3VjZKZjJTcEcxOGVRazhXSWtmVGJpbmloLW5LekVxM2JwNHhRTWM?oc=5",
-      "summary": "Russian Offensive Campaign Assessment, October 27, 2026&nbsp;&nbsp;Institute for the Study of War",
-      "content": "",
-      "published": "2026-10-27T23:18:22+00:00",
+      "title": "Iran rejects 'unacceptable' proposal by Qatar to end war with US - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW5vRGtSc3NWdDAtV2JuYXZZa1hHVTlqb1VyaFUxOW1pM3VlMDRXbEJnWFhqbTNhZzFkZUZTdnJUODJSZ3RvcnBlM2lRUDNCbjU2TmN4bmF0RVRUclBzNHh1V0I4dGtia21tcW1CbWJqRjhpelpLa1V1QUtpTVpBcE9QcDVXd2RqUFRZNTV6Yw?oc=5",
+      "summary": "Iran rejects 'unacceptable' proposal by Qatar to end war with US&nbsp;&nbsp;Middle East Eye",
+      "content": "Iran has rejected a proposal from Qatar to end the US -led war on the country, calling it \"unacceptable\".\nQatar presented the draft deal, which would look to end the eight-month conflict, to Iranian negotiators on Sunday.\nHowever, a senior Iranian official told Reuters on Wednesday that his country could not work with what had been presented, adding that Tehran would show no flexibility regarding the nuclear issue.\nUS Vice President JD Vance said earlier this month that Iran must reduce nuclear enrichment to end the war. The Islamic Republic has repeatedly stated that its nuclear programme is entirely for non-military domestic use.\nThe negotiations come amid mounting fears that the US and Israel could imminently resume their attacks on Iran.\nIsrael-Palestine, alongside Turkey Unpacked and other MEE newsletters\nIsraeli Prime Minister Benjamin Netanyahu, in particular, has been touting the prospect of new attacks as he seeks re-election in Israel's parliamentary elections .\nWith 77 percent of votes counted, Netanyahu's bloc is the largest in the Israeli parliament.\nOn Wednesday, as negotiations were set to begin on forming a new government, Netanyahu announced he would work with US President Donald Trump to eliminate the \"existential threat\" posed by Iran.\nHis main rival, Gadi Eisenkot, has also supported strikes on Iran in tandem with economic pressure.\nThe Israel-US war on Iran has, since it began in February, caused massive disruption to the global economy, sending energy prices soaring.\nIran's Foreign Minister Abbas Araghchi warned on Wednesday that any Israeli-instigated attack in the Gulf region would have a \"devastating impact\" on global markets.\n\"Devastating impact on int'l markets of any Israel-instigated military misadventure in Persian Gulf region remains major concern for both gas suppliers and consumers,\" Araghchi said in a post on X.\n'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms\nThe fallout of any renewed conflict in the Gulf would also be compounded by the ongoing fighting between Saudi Arabia and the Iran-aligned Houthis in Yemen .\nThe Houthis, officially named Ansar Allah, on Wednesday called for the evacuation of the airport in Aden, the city in southern Yemen that serves as the seat of the Saudi-backed government.\n\"Our armed forces call on those present at Aden Airport to evacuate the premises immediately, due to the presence of a Saudi military cargo plane carrying weapons intended to kill the Yemeni people,\" Houthi spokesperson Yahya Saree wrote on X.\nFighting between the Houthis and Saudi-backed forces in Yemen has seen nearly 100 fighters killed since Monday, military sources from both sides told AFP.\nAt least 63 Houthi fighters and 34 combatants associated with the internationally recognised government died, mostly near the Bab al-Mandab Strait.\nMiddle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this form . More about MEE can be found here .",
+      "published": "2026-10-28T12:14:00+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -1218,6 +1191,46 @@
       "assets": []
     },
     {
+      "title": "Ukraine: Time to End the War - Quincy Institute for Responsible Statecraft",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zYUkxRkRZSFdmYjh5cWZVNVJTZ1NHLTJ3aDg5aXl4Mkl6QVFwRGNyemRycDlxeXUtck5qazVHRm5iaWRzLWRhT2NNb056RWtlWkR1Q0hLY0k5Q0RndGJrNnZpWlFSXzZDRXZudzJGVQ?oc=5",
+      "summary": "Ukraine: Time to End the War&nbsp;&nbsp;Quincy Institute for Responsible Statecraft",
+      "content": "It is long past time to bring the brutal war between Russia and Ukraine to an end. Now, just as both countries seem open to serious negotiations, Donald Trump perversely seems intent on giving peace a bad name.\nEven as his amateur emissaries—real estate investors Steve Witkoff and Jared Kushner, Trump’s son-in-law—launched separate discussions with Ukraine’s President Volodymyr Zelensky and Russia’s Vladimir Putin, Trump decided to tilt the board for Putin. He lashed out at Zelensky, saying Ukraine needed a new president. For domestic midterms consumption, he announced an “energy ceasefire” that neither combatant had heard of, temporarily approved the purchase of Russian diesel oil, and shelved the intensified sanctions contained in legislation he had signed. He delusionally claimed that “Russia, frankly, had been fine on Ukraine. They haven’t been doing much,” even as Russia’s attacks on Ukraine intensified. Witkoff risibly hailed Putin as a “humanitarian,” while salivating over economic deals that the United States could cut with Russia when the war ends. Trump embraced Putin’s suggestion of a tripartite summit—Putin, Xi, and Trump—to settle the war, although Trump said it should focus on nuclear weapons, not Ukraine.\nDelivery of defensive Patriot missiles paid for by the Europeans has been mysteriously held up. And although Trump denied that he was responsible, Ukraine suffered sudden restrictions on its use of Starshield, the Starlink satellite program vital to providing early warning of Russian missile attacks, restrictions that Elon Musk claimed only the White House could order.\nNot surprisingly, these actions spurred outrage in Europe and condemnation in the US, even echoed by some Republican senators. They also inevitably triggered the Trump derangement syndrome that muddles liberal analysis. The New York Times editorial page indicted Trump for “helping Mr. Putin wage war,” and called on the West to “continue to punish Mr. Putin, the oligarchs who support him, and Russia’s war-making economy,” ignoring the terrible price Ukrainians are paying. At stake, the Times intoned, is “whether the West can rally to protect democracy and innocent lives,” although the Times carefully noted that in this “defense of democracy,” only Ukraine should put troops and civilians at risk, and Europe should bear most of the cost.",
+      "published": "2026-10-28T16:33:12+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Howard Energy Buys Iron Horse Midstream in Anadarko-to-Gulf Natural Gas Push - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelA5OHJCUURyTFlEb0FjcXZyckc2TjNUeWgteXg3emhmcVVzTGNtWFlVMExrcjA5UXFCQWhhZThhdHFmTDhhaGVQRzVOcmd3UXhYelM3Mk5GQm10WVh5eFJLZFI2dE9sVERPeWpmQTUtcDFQTUpMU2JpUEkyQ3ZsVkxySkRNSDlLdnYyTEFvM3dhUnQ1bHE4U3dnODg1Y0hvWlRuQ2MtSGdxOG1BNUQ3WlVBdEM?oc=5",
+      "summary": "Howard Energy Buys Iron Horse Midstream in Anadarko-to-Gulf Natural Gas Push&nbsp;&nbsp;Natural Gas Intelligence",
+      "content": "",
+      "published": "2026-10-28T17:46:34+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
       "summary": "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings&nbsp;&nbsp;Reuters",
@@ -1245,31 +1258,24 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: China's CXMT to start advanced AI memory production despite poor yields, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDFWeWo1UVJwSDh4OXB5RnJyVVhXaG1zNHZIMlMyZmpaV0FEU3llN21sZG05OGpyUEZtR3FuTTJ6Y2pBZzEwWVU0dFRPSkExVFRfUGg0SFpzb2tLWDlObGFIQ3Axa2lodWgySngtb2ZEMUFxcXlwZUJnbmdNcTZCalJtSDV5TUpTM282XzFldlZTM012WFRhc0hQamIwOGMxUlpYOEsxUDh1UVkyWjE0aWh2OVdFOTN1cEVKVER0RmE4eEhudGc?oc=5",
-      "summary": "EXCLUSIVE: China's CXMT to start advanced AI memory production despite poor yields, sources say&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T04:50:00+00:00",
-      "source": "Reuters World",
+      "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+      "content": "Alphabet, Microsoft report after the bell. What options trader see\nOptions traders took contrasting views on Alphabet as the hyperscaler gets set to report earnings after the close.\nCurrent options prices are implying a nearly 6% move, well about its eight quarter median move of 2.6%. Traders were decidedly bullish heading into the first. Just before noon, a trader bought 2271 contracts of the 350/365 call spread for about $4.4. The trade target a move higher to $365, a 13% jump from its current price. The trade is a bet the in the near term, the worst is behind Alphabet, which has seen its shares fall nearly 20% from its all time highs reached back in May.\nSome traders are taking a different tact into the print. Specifically, a separate trader put on a bearish 3x1 put diagonal, collected $1.9M by selling 9,000 of the Nov. 20 expiration 290-strike puts at $4.15 per contract while buying 3,000 of the Jan. 15, 2027 exp. 300-strike puts at $2.15 per contract for a total debit of $2.5M\nThis is a trade that looks to take advantage of high near-term volatility in Alphabet&#x27;s shorter dated puts. The goal is for those short-dated puts to expire worthless, with the trader then long the 300-strike puts, looking for a 9% move lower through mid January.\nThe market&#x27;s mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report. The technical set-up and options expectations could not be more different.\nMicrosoft is less than one percent below its closing record reached earlier this month, while Alphabet is flirting with technical bear-market territory, off 20% from its closing high in May. Market-makers are pricing a 5.8% move for Alphabet stock after its report, compared to under a 5% swing for Microsoft, Cboe LiveVol data show.\nFor Microsoft, it&#x27;s a smaller implied move than its 2-year average swing of 6%. For Alphabet, which has averaged a 2.7% reaction over that time period, it&#x27;s more than double – which arguably makes sense considering the shares dropped 7% after last quarter&#x27;s report and rallied 10% the report prior.\nThe ratio of puts to calls on both stocks has been gradually building up on the put side as the Nasdaq 100 Index pulled back, but the metric&#x27;s baseline for both shows more calls than puts the past year, with a ratio consistently under 1, according to Barchart data. In Microsoft, the ratio is currently 0.59, up from a low of 0.43 in June.\nIn Alphabet, the ratio is 0.72, the highest since August, but Tuesday&#x27;s options flows cast a more positive light. Of the 435,000 options traded, 312,00 were calls, with almost 102,000 call trades likely initiated by buyers, versus just 54,000 by sellers and the remaining near the mid-price, Cboe data show.\nSome of the heaviest call-buying in Alphabet was at the 360-strike for January expiry, where it looked like a single trader bought around $18.5 million of calls across eight transactions of 2,850 contracts each, SpotGamma data show.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.\nTraders are betting big against this restaurant giant into earnings\nOptions Action: Alphabet and Microsoft Ahead of Earnings",
+      "published": "2026-10-28T17:56:10+00:00",
+      "source": "CNBC Top",
       "sources": [
-        "Reuters World",
-        "GN AI"
+        "CNBC Top"
       ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
       "stars": 3,
-      "score": 12.9,
+      "score": 12.8,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币",
-        "科技股",
-        "半导体"
-      ]
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "T-wolves' Anthony Edwards needs procedure on right knee, will miss several weeks, AP source says - AP News",
@@ -1296,30 +1302,10 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
       "summary": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-28T15:58:00+00:00",
+      "published": "2026-10-28T17:32:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "What we know so far about deadly Spain train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-      "content": "Figure caption, Watch: Aerial footage shows train crash scene\nTwo trains have collided in Spain just south of the capital Madrid on Wednesday morning.\nRail operator Adif says the incident occurred between a Renfe train and another of the Iryo company, which covers the Madrid to Seville route.\nSo far at least 68 people are confirmed to have died in the incident.\nThe two trains collided just after 09:00 (08:00 GMT) between municipalities Mora and Orgaz, and about 140km (100 miles) south of Madrid.\nThe accident happened when a high-speed train travelling from Madrid to the south of the country collided with another train that was apparently stationary. The crash caused at least two carriages to fall down an embankment.\nBroadcaster RTVE, quoting the transport ministry, said a Renfe train rear-ended an Iryo train.\nRenfe is Spain&#x27;s national state-owned railway company while Iryo is a private high-speed railway operator.\nAll train traffic on this line has been stopped at stations along the route, Adif said.\nRenfe said services between Madrid, Ciudad Real and Andalusia remain suspended.\nA passenger on board one of the trains told local media there was a heavy impact about 40 minutes into the journey.\nImage source, 1vanta3 / X via Anadolu / Getty Images\nIryo said its train was \"struck from behind\" by a Renfe train \"due to causes that are still unknown.\nTransport minister Oscar Puente has said a computer failure led to the initial halt of six moving trains, including the two trains that subsequently collided.\n\"In the event of a system failure, the control centre takes over,\" he said, adding it was the control centre which decided to allow the trains to move again, without any speed restrictions.\nThat decision, Puente said, was made \"under inexplicable circumstances\". It resulted in the Renfe train crashing into the Iryo train, which was stationary on the tracks further ahead.\nImage caption, Aerial footage shows the extent of the damage and the emergency response\nMore than 500 people were believed to be on board both trains.\nEsther Padilla, spokesperson for the government of Castilla-La Mancha region, told TVE that one of the trains - managed by the Iryo company - was carrying 146 passengers plus one baby, while the Renfe-managed train had 397 passengers on board.\nA former government minister was also among those reported missing.\nThe Spanish Confederation of Business Organizations (CEOE) posted on X that, FÃ¡tima BÃ¡Ã±ez - who heads the organization&#x27;s foundation - was on board one of the trains involved in the crash.\nThe Castilla La Mancha regional government said 64 people are now confirmed to have died.\nSpeaking separately to Spanish media, he warned the death toll could increase further.\nEighty people are being treated for injuries, according to authorities, with 50 of the casualties said to be in a serious condition , and 15 more in a critical condition.\nImage caption, A huge emergency response is underway\nSpanish Prime Minister Pedro SÃ¡nchez has said \"the whole of Spain is grieving\" and that \"lives have been shattered, families have been torn apart\".\n\"The pain is immense,\" he said on a visit to the crash site.\nThe government was \"trying to determine what was the origin of this tragedy, of this terrible accident,\" he added.\n\"We will get to the bottom of this, and if there has been any negligence, it will come to light.\n\"If there have been failures in the security system, they will be addressed with the utmost firmness.\"\nSÃ¡nchez and other Spanish politicians have cancelled all public engagements on Wednesday, including campaigning for next month&#x27;s parliamentary elections.\nSpain&#x27;s royal family posted on X that it was \"shocked and concerned\" and expressed condolences for the relatives of the deceased and those affected by the crash.\nA spokesperson for the EU said the bloc was ready to help Spain if needed.\nA huge emergency response is under way with fire crews and helicopters at the scene.\nHospitals in the area have suspended planned surgeries as they deal with an influx of patients from the crash, Spanish media have reported.\nA blood transfusion centre in Madrid has also appealed for \"urgent\" donations. In a post on X, Centro de TransfusiÃ³n said it made the request \"in the face of a possible sudden increase in care needs\".\nIt reported that facilities in Toledo, Ciudad Real and AlcÃ¡zar de San Juan have cancelled procedures as casualties from the crash begin to arrive.\nThis is the second high-speed rail tragedy in Spain this year.\nIn January a high-speed train derailed in southern Spain , its rear carriages going into the path of a state-run Renfe train, claiming the lives of 46 people.\nAre you in the affected region? If it safe to do, get in touch.\nIf it is safe to do so, you can also get in touch by following this link\nDozens feared dead after two trains collide south of Madrid",
-      "published": "2026-10-28T15:36:11+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
       ],
       "source_count": 1,
       "category": "ai_tech",
