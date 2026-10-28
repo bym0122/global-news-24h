@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T02:38:01.396178+00:00",
+  "generated_at": "2026-10-28T04:36:19.021400+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-27T02:37:45.987576+00:00",
-  "window_end": "2026-10-28T02:42:45.987576+00:00",
+  "window_start": "2026-10-27T04:35:57.191971+00:00",
+  "window_end": "2026-10-28T04:40:57.191971+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -30,16 +30,16 @@
       "assets": []
     },
     {
-      "title": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkV3Umx6VUg4THl2S240YVdZcy1jOUNXQThnN1VpQnRMQWxmblRWS3NmYjYyMUNmNTVHRGtIZC1ZUUlHaUItaWVMUzJ1REcxODVmdXA3RkxtdTM3TTdzT21taFdrSll2eFhhMXZrZjQ1blQzSkxTZmpZVmZuYWhKbll2QndUY0RkdlFtR3dhQ0REV1hhMmRwc284RTRXYklZcTlrR1VIWTY5RGM3TUpmaloxMlFqa2VBX3JHN3QtVXlNV3ZyWW9Z?oc=5",
-      "summary": "Netanyahu warns of Arab voter surge in Israel's election; Arab leaders call tactic racist&nbsp;&nbsp;Reuters",
+      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
+      "summary": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-27T15:57:46+00:00",
+      "published": "2026-10-28T01:01:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "NPR World",
-        "Al Jazeera"
+        "GN Geopolitics",
+        "CNBC Top"
       ],
       "source_count": 3,
       "category": "geopolitics",
@@ -48,6 +48,27 @@
       "score": 16.8,
       "is_hypothetical": false,
       "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
+      "summary": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-27T15:25:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -121,27 +142,6 @@
       "assets": []
     },
     {
-      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
-      "summary": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-28T01:01:00+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "GN Geopolitics"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 15.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ?oc=5",
       "summary": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky&nbsp;&nbsp;The Guardian",
@@ -167,7 +167,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkMzNXNRUEgtVnNOZEtDa25adERvb0Z5Y3R5ZmVMTFpxOE9adkd0cTBRN0dUVll2LVpyNlNUQ3NCTXhNMXRTUUJNMnVFcFdWWGUxTmpHYU1KVzA3WGkyZmdXSnpIcktPVWNxMldQdkpWb3YwZDVlV3NmN213d3duU3YwbkEzWms1T3o2bEtiZWpHSFpPODhnZEMzX1FjZWpSR2dZekdaYkpFc2hwSWh1aDYtS1dCR2ctZHZJam1ITVU?oc=5",
       "summary": "Flavio Bolsonaro leaves Brazil for US after election defeat, source, media say&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-27T17:42:40+00:00",
+      "published": "2026-10-27T17:27:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
@@ -214,6 +214,30 @@
       ]
     },
     {
+      "title": "Easing Russia Sanctions Plays Into the Hands of Iran, China, and North Korea - The Fulcrum",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FbXREb3pHVHk1YXRJQTMxVF84WFR2am5HUVNFaXp3bUNkTll0eE02aHdpaUJaa2x0X1FlR3lrbURIWF9xUGl4a2F4M3pZNXBfc1I2SlRjSFFoWXFMdDFZWDhGa0Q0NjNYTGpXN2J6SWdyanlnQzVibC1R?oc=5",
+      "summary": "Easing Russia Sanctions Plays Into the Hands of Iran, China, and North Korea&nbsp;&nbsp;The Fulcrum",
+      "content": "",
+      "published": "2026-10-28T04:25:36+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
       "title": "If a Stock Market Crash Is Coming, This Is the Vanguard ETF Warren Buffett Would Load Up On - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWNoRzU5Tk8xT2pDUjZ2cUhBZ3BYUnMydkZzS1V2MHVwY2FxYU92V1Jock5ZMU9Ud1B0ajc5SU54Y3d6MGhTUl84UmdiMURqbUpldXowQjRXSjExQVg1a18zQVN1QUFFLWR6OXlySWk3eThZakgzOXJuQWxPWW5vcGp2bG1aWE0tMUI5UDNnQndMUGRrUTcwZ3QzWHczV1ls?oc=5",
       "summary": "If a Stock Market Crash Is Coming, This Is the Vanguard ETF Warren Buffett Would Load Up On&nbsp;&nbsp;Yahoo Finance",
@@ -230,6 +254,29 @@
       "score": 14.8,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmptb013S1hpZ2RvLUZSRWh6dHV5cWFLZC0tdVBFdE8yVk04N2xjd0Q2VzZvdC1mVEUtZmdDMW9LQlRET1doTFFJd2xqWlJZTWVhWVdtamNCWk9WMjAyanRzTjNDcXEzNG80bWM4a3p1bkp2Vm43em0tcUI1ZkE0Tm1RaHc5cEdVcS1ER0loZU1xczlmQ1gxaXZ5Q1Y3Tnp4eDNKZ09zSDNWbUxnNmt3Q1Rvc1FPcmV1dVpmSmlSRHVTc2M?oc=5",
+      "summary": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T02:48:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Top",
+        "CNBC Top",
+        "Al Jazeera"
+      ],
+      "source_count": 4,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -279,29 +326,6 @@
       ]
     },
     {
-      "title": "Voters rebuke Netanyahu but exit polls suggest no clear winner in Israel’s election - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
-      "summary": "Voters rebuke Netanyahu but exit polls suggest no clear winner in Israel’s election&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-28T01:34:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Top",
-        "CNBC Top",
-        "Al Jazeera"
-      ],
-      "source_count": 4,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.3,
-      "is_hypothetical": false,
-      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
       "summary": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War&nbsp;&nbsp;The New York Times",
@@ -322,57 +346,9 @@
       "assets": []
     },
     {
-      "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TTUZTQXdTX1VoLXBEdnpiRzZ5MWRuRFh6aS1FZGRhdWdtNDlyZVJZbmdNYjhfRkl5QUtkbmF6RktUTXFQWkJYRnlMUTExUEpFYkUtS1B3cmE3ZEFrXzJNYzJKakdOTkN1Q1RNX0hfaXRGT256aW5Uazl6MA?oc=5",
-      "summary": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers&nbsp;&nbsp;The New York Times",
-      "content": "",
-      "published": "2026-10-28T01:09:55+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics",
-        "GN Top"
-      ],
-      "source_count": 2,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5",
-      "summary": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T03:42:00+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 台积电 / 半导体 / 亚太市场 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币",
-        "台积电",
-        "半导体",
-        "亚太市场"
-      ]
-    },
-    {
       "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
       "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-      "summary": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost of living crisisFollow our Australian politics live blog for latest updatesGet our daily political email, <a href=\"https:",
+      "summary": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisisFollow our Australian politics live blog for latest updatesGet our daily political email, <a href=\"https:",
       "content": "Australia’s inflation rate has risen, fuelling fears the Reserve Bank will hike interests rates for the fifth time this year. Photograph: James Gourley/Getty Images\nAustralia’s inflation rate has risen, fuelling fears the Reserve Bank will hike interests rates for the fifth time this year. Photograph: James Gourley/Getty Images\nAustralia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year\nCPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis\nFollow our Australian politics live blog for latest updates\nGet our daily political email , free app or daily news podcast\nAustralia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week.\nThe Reserve Bank of Australia’s preferred measure of consumer prices, called underlying inflation, came in at an annual 3.6% to September.\nOdds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’\nRBA officials have strongly indicated the board may need to lift borrowing costs further to drag price growth back toward its 2.5% target, citing concerns of a “materially worse” inflation outlook .\nThe CPI release comes shortly ahead of the central bank’s next monetary policy decision on 3 November, when most economists are tipping another cash rate increase.\nChart of inflation, showing a gradual increase from June 2025 to 4.3% in September 2026 The RBA’s deputy governor, Andrew Hauser, described the inflation numbers as “too high” at Senate estimates on Wednesday, shortly after the data was released.\nHe said there was a “nightmare” risk that longer-term inflation expectations would pick up, making it harder to get inflation out of the system.\n“We don’t think it is necessarily crystallising yet, but it is a particular risk,” Hauser said.\nThe cash rate, which informs lending rates including mortgages, already stands at 4.6%, its highest level in 15 years , after four rate hikes in 2026.\nSign up for the Breaking News Australia email A fierce political debate has erupted in Australia over what is driving the cost-of-living squeeze, with critics pointing to a mix of high fuel prices caused by the Iran conflict, government spending and poor productivity.\nThe treasurer, Jim Chalmers, said on Wednesday that while “we accept our part in the fight against inflation”, high oil prices and a recovering private sector were the main causes of the rise.\n“The most important thing that can happen for Australians under pressure is to see an end to this war in the Middle East,” Chalmers said.\n“This war in the Middle East has been disastrous for Australians, for cost of living and for inflation, right around the world.”\nCPI figures released by the Australian Bureau of Statistics on Wednesday show that costs for everyday goods and services are rising at the same time as unemployment lifts , making life uncomfortable for households.\nTransport costs have risen 8.7% over the past 12 months, due in large part to escalating fuel prices stemming from the US and Israel conflict with Iran.\nWhile higher fuel prices are trickling through the economy, there are price pressures everywhere.\nFood prices have also jumped another 3.2% in a year, and housing costs were up 5.2%.\nStephen Smith, partner at Deloitte Access Economics , said the RBA had “little appetite to allow inflation expectations to drift higher after such a prolonged period above target”.\n“The difficulty is that the economy is already slowing. Household spending is subdued, the labour market has softened and the housing market has weakened,” Smith, who is expecting a rate rise next week, said.\nThe escalating expenses have fed into the growing political unease in Australia and elsewhere, as voters express their discontent with cost-of-living pressures.\nHousing, which is the single biggest category in the CPI, was the largest contributor to annual inflation, according to the ABS, followed by transport costs.\nBuilders have been passing on higher costs for materials and labour for new dwellings, while electricity prices are also elevated.\nJosh Gilbert, market analyst at eToro, said inflation was turning into a “higher-for-longer” story in Australia.\n“Anyone holding out for rate relief may need to pack plenty of patience, because another hike looks imminent after today,” Gilbert said.\nThe chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs\n‘The worst thing we could do is pick one over the other’: an Australian economist on why US-China competition is ‘a gift’\nEVs are holding value better than expected – and it has a lot to do with Australia’s cost of living\nThe RBA keeps hiking interest rates – but are the rate rises actually working?\nJim Chalmers faces a world of hard choices where the solution to one problem makes the other worse\nEconomy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals\nCard surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say\nThree things the Albanese government could do right now to make people feel better off\n‘Clear and present danger’: fuel prices could rise by 30c a litre across Australia under IMF scenario\nAustralian consumer confidence plunges to worst level since 1990s after RBA rate rise",
       "published": "2026-10-28T02:17:32+00:00",
       "source": "Guardian World",
@@ -433,6 +409,27 @@
       "score": 13.9,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFmMnNzZmVXS3VnMFQ5WHdOT1VmU090cUpfU3c0SE9TaWhzbE5HYUVZQ2VKaXZ6T0RmMXk4SE1YZG5rNDBac1A1WEswT0JLR01lTTJ6WU5jb00tRnN4cU5NRHBtNHZ1RzVpd2gyUkVXNzdVZnlGcnFoWUhTS1F1NkVXYjBmdHFwdUxVbllyNzdKWkhMbTFmdnVST0hZeEYwalhIb1NaWW5ZRC1P?oc=5",
+      "summary": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-27T20:07:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -527,30 +524,6 @@
       ]
     },
     {
-      "title": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1lQMDdtdmVjVTlZS1lRUTY4OEJGamlOTUV1TWVHelZ6VHFUYWhjZE1qYVZhSk5oamx5UkhzLXRTZks0dHZFX1A4X3BFMWpQWGhpa3ZENkhYWmFKNUxFbnJoX2E0anFtZWdIVzVCYzNjc1NIWmE3QXFNa2NyMlVxdlZMVUE4SDNBdVBjZzdtUTFlVF9uY0pzVl9ZSkM5T2V4eVE?oc=5",
-      "summary": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-27T03:24:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 13.4,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股",
-        "油运"
-      ]
-    },
-    {
       "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYVc3YjltcUc0TDBn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYV",
@@ -573,26 +546,6 @@
         "能源股",
         "油运"
       ]
-    },
-    {
-      "title": "Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy - Radio Free Europe/Radio Liberty",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlQtd3ZaV2dQWERkb1NSZk1QSTNibTd3bUdnNlNjeXFvS2h6enF4cXFWZ0dLX05Gb2JKd05MQWFZSUZtME16ZTdVR0RMQ01aQ1kwbFkwcnlvamhNSVIzbUlKZXFLWWRZWmE1M2Q5TDlTbWNfdS05dld0Q0lKSEJ4ZVA3Q1MyMmFrbzVJ0gGOAUFVX3lxTE5pcFNia2g1Y3dmdzQ3RXJtSExrZDA3ZmFsQVozN25fdDhsb1hmalRjYjFCVmt6T3lraFRlbWE4emxYeFRJeFlYeWVnaTExOGlxU29lak9QTk4xd1BGWVNTbmdxczhmUmdmYUg1OFU2b3VFZDRodTNkX1lIelBKTG8tcW1zVUs0Z0c5MFdMRnc?oc=5",
-      "summary": "Why Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nA section of the Hvardiyske airfield showing militry jets in December 2021 (left), and structures linked to drone launches on October 11, 2026 (right).\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Ce",
-      "content": "Why Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nA section of the Hvardiyske airfield showing militry jets in December 2021 (left), and structures linked to drone launches on October 11, 2026 (right).\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nA military airfield in Crimea has been transformed into a hub for drone launches, new satellite images sourced by RFE/RL show.\nHvardiyske airfield, in the center of the Russian-occupied Ukrainian peninsula, was first identified as a launch site for attack drones in March 2025 and is now used almost daily for strikes, according to Ukraine’s military. The base is known as Gvardeiskoye in Russian.\nAn image of the site made on October 11 shows no visible military aircraft, but extensive new infrastructure, which observers say is related to drone launches from the Soviet-era airbase.\nThe transformation of the Hvardiyske base has raised questions over why Kyiv has not been able to disable the site with its own attack drones and missiles.\nA section of the Hvardiyske airfield seen on October 11, 2026 (top) and June 2024.\nUkraine has frequently hit Russian drone storage and launch facilities in Crimea, including on the remote southeastern Cape Chauda and near Balaklava in a strike that reportedly took the site out of action. Hvardiyske has been hit by Ukrainian drones but damage has been minimal.\nA Crimean local and former officer of the Ukrainian military spoke with RFE/RL’s Crimean Service on condition of anonymity about possible reasons why the sprawling drone port at Hvardiyske has not yet been disabled by Ukraine’s own attack drones.\n“In my opinion, the main reason is that drone operations there are spread across different parts of the airfield,\" he said. \"The launch site is in one location, the maintenance area in another, and the storage facilities are in a third.”\n“All of this is relatively simple infrastructure that can be easily restored, and some of it is just standing out in the open,\" he added.\nIn the October 11 satellite image sourced by RFE/RL (above), scores of unidentified objects can be seen spaced several meters apart on open grassland in the southwestern corner of the airbase.\nThe former Ukrainian Armed Forces officer told RFE/RL that an underground storage facility built by the Soviets to store aircraft munitions, which is located around 15 kilometers from the Hvardiyske base, is a likely location for the mass storage of attack drones launched from the airfield.\n\"The Shaheds may well be hiding there,\" he told RFE/RL, speculating that such a fortified storage space \"is probably impossible to penetrate, even with [Ukraine's] missiles.\"\nAnother reason Hvardiyske may present a more difficult objective for Ukrainian targeteers is its location in the center of Crimea, a peninsula now bristling with air defense weaponry.\nUnlike coastal launch sites, which can be approached from over the sea, Ukrainian drones aiming for Hvardiyske “have to fly about 100 kilometers over land to strike this facility, where the likelihood of being shot down is higher,” the source said.\nA file photo of Shahed drones stored in sheds in Russia&#x27;s Oryol region. The Iranian-designed, long-range attack drones have been widely used by Russia to strike targets in Ukraine, with Moscow also producing its own versions.\nThe Hvardiyske air base served as a Soviet, then Ukrainian, naval aviation base.\nFollowing the Russian annexation of Crimea, the facility was taken over by the Russian Aerospace Forces, which stationed Su-24M bombers and Su-25SM ground-attack jet aircraft at the base until its transformation into a drone port.\nWhy Russia&#x27;s Central Crimean Drone Base Is Hard For Ukraine To Destroy\nSerhiy Koval is a Sevastopol-based journalist and military expert who has worked with Crimea Realities since 2017. For security reasons, he publishes under a pseudonym.\nCrimea.Realities is a regional news outlet of RFE/RL's Ukrainian Service.\nAmos Chapple is a New Zealand-born writer and visual journalist with a particular interest in the former U.S.S.R.",
-      "published": "2026-10-27T20:36:41+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.3,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
     },
     {
       "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova - Yahoo Finance",
@@ -618,11 +571,11 @@
       ]
     },
     {
-      "title": "Oracle Expands Nvidia AI Chip Deal, Adds Google and Cerebras Options - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGx2UnFvTjg4VmZDV1V2NjU2WG5ZbDNpa1E1cDFnbzdBRlItSWRSZlBHYndiWDFMZExmUFhPUm92SmVGWkV4c3A0QnAxQy1haUVyR3pKZWprQ1BfTGRuRDhCX3ZZTGJnb1dxMDJvNGRYUC1WVUQ2UVpnUlJCSzBkdnlfTUlpemdCRk41M016aXJvX183REVCZ0pLdlBTem42SFRXU1g4RnVZMVJIeHlFVGxKcldEUnNRUnFkenBNV0E3bkFjQUE?oc=5",
-      "summary": "Oracle Expands Nvidia AI Chip Deal, Adds Google and Cerebras Options&nbsp;&nbsp;TradingView",
-      "content": "Oracle Expands Nvidia AI Chip Deal, Adds Google and Cerebras Options\nCloud infrastructure and corporate software firm Oracle Corp. (ORCL, Financials) is diversifying its AI chip supply strategy, lowering dependency on one source.\nOracle and Nvidia stated the cloud provider will grow installations of Nvidia&#x27;s latest Vera Rubin systems to multi-gigawatt levels.\nThe firms did not reveal the amount of Oracle&#x27;s arrangement, however Nvidia CEO Jensen Huang has previously suggested Vera Rubin systems could earn up to $40 billion in revenue per gigawatt.\nAt the same time, Oracle is expanding its chip portfolio.\nFor the first time, the firm will provide Google tensor processing units, and it will also include inference processors from Cerebras and SambaNova, which is funded by Intel.\nEven some of the Nvidia-based systems will employ Oracle&#x27;s own networking technology, Acceleron, instead of networking processors from Nvidia.\nAnd that important because AI workloads are increasingly demanding varied mixes of training, inference and network gear.\nFor Oracle, more options might make its cloud platform more attractive to clients, as well as increase its bargaining power with suppliers.\nUp next is Oracle&#x27;s investor day and management&#x27;s aim to fund a fiscal 2027 capital-spending spree of about $90 billion to $95 billion.\nGuruFocus Strategy, business, and products US stocks",
-      "published": "2026-10-27T19:23:57+00:00",
+      "title": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZ0aHVnOHYwYUU3dk1kcTBRR0o3Q19HOWx4SW1xMjFWdDRFbjM0a29YRC0xRGZSbDVKYVVpRkI0QUhQYThTdUkxOUI5Q0hrc0hFQmJrR1ZMMkRjbzd1ak1rcVFSd0hzWTZ3bTlrdEM5UHYtU1ZsUFFOYkgtckM4WkgySnZOMjF5Y2FPRi05VHVWbTV1?oc=5",
+      "summary": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information&nbsp;&nbsp;Yahoo Finance",
+      "content": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information\nInvesting.com-- OpenAI plans to buy artificial intelligence chips from Alphabet's (NASDAQ:GOOGL) Google as the ChatGPT maker seeks to expand computing capacity and diversify its sources of processing power, The Information reported on Tuesday, citing a person familiar with the matter.\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\nFinal terms of a potential deal have not been determined, the report said.\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\nThe move would add Google's tensor processing units (TPUs) to OpenAI's computing resources as demand for chips to train and run AI models surges, according to the report. TPUs have emerged as an alternative to Nvidia's graphics processing units, which dominate the market for AI computing.\nOpenAI is also developing its own chips, known as Jalapeno, with Broadcom, aiming to support its AI models later this year. The effort reflects a broader industry push to develop custom silicon and reduce reliance on external suppliers.\nThe potential purchase comes as Google expands its chip business beyond its own cloud platform.\nOpenAI plans to buy Google AI chips to expand computing capacity - The Information\nAsia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead\nStifel's surprise gaming pick leads a sector bracing for a choppy earnings season",
+      "published": "2026-10-28T02:52:00+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -641,46 +594,27 @@
       ]
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2lDZllmMXloaklnT0JJT05vNTJOeTdyYVc0bm8tUFBjUWZXVUlaVHNSYjYtRVNySGh2eHdCY2FHeEZPN3VmN1RUdzlITzliM3BuNlNSWlROWk1iZk1UeFl1eG9wR1o1clRwdFQ1bzA1ZGhrV29sYmh3TXhmMzhSZGV5UC10RFFaVWE3M0d1dnU2Y1k?oc=5",
-      "summary": "Dow, S&amp;P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus&nbsp;&nbsp;Yahoo Finance",
-      "content": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus\nAlphabet, Microsoft, and Amazon are set to report their earnings this week.\nMarkets will also watch the Federal Reserve's policy meeting set to begin on Tuesday.\nOn the geopolitical front, media reports indicate that senior officials from Saudi Arabia, Turkey, and Pakistan held talks with Iran on Monday to \"de-escalate between the parties to the current crisis.\"\nU.S. stock futures traded higher in the overnight session late Monday as Wall Street kicked off the week on a winning note, bolstered by Anthropic's Nasdaq listing to go public.\nAs of 10:22 p.m. EDT, Dow futures gained 0.18%, and S&P 500 futures were up 0.14%. Nasdaq-100 futures climbed 0.16%.\nSee what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox\nOn Monday, U.S. benchmark indexes closed higher. The Nasdaq Composite led the climb, adding more than 200 points to close 0.82% higher. The Dow Jones Industrial Average gained 0.28%, while the S&P 500 climbed 0.70%.\nArtificial intelligence and technology stocks boosted markets at the week's open after Anthropic filed its IPO, boosting sentiment across the sector. Markets are also gearing up for a week of key earnings from multiple tech companies.\nThe iShares Semiconductor ETF (SOXX) closed up nearly 3% on Monday, while the Direxion Daily Semiconductor Bull 3X Shares (SOXL) and VanEck Semiconductor ETF (SMH) jumped more than 8% and 2.7%, respectively.\n\"Today's all about the Anthropic release, so we're back on a little bit of an optimistic tilt, I ​would say. But there's a lot in that release. It will be interesting to see how well things are received when they actually come to list,\" JP Powers, chief investment officer at RWA Wealth Partners in Boston, reportedly told Reuters.\nMeanwhile, Alphabet Inc. (GOOGL), Microsoft Corporation (MSFT), and Amazon.com Inc. (AMZN) are set to report their earnings this week, alongside other marquee names including Visa Inc. (V), Boeing Co. (BA), Coca-Cola Co. (KO), SoFi Technologies (SOFI), Robinhood Markets (HOOD), among others.\n\"The risk is maybe a little bit of a whipsaw if things aren't all moving in the same direction. A little optimism today, but who knows what will ​happen from some of these other releases this week,\" Powers said.\nMarkets will also watch the Federal Reserve's policy meeting set to begin on Tuesday. Investors largely expect the central bank to hold rates steady as the midterm elections approach, although markets are pricing in a December hike amid rising inflation.\nRichard Clarida, PIMCO global economic advisor and former Federal Reserve vice chair, told CNBC in an interview that the Fed will hold rates steady in October, as messaging suggests \"they can afford to be patient.\"\n\"All eyes will be on the chairman's press conference, but we do expect at least one more hike at the December meeting,\" he added.\nMeanwhile, on the geopolitical front, media reports indicate that senior officials from Saudi Arabia, Turkey and Pakistan held talks with Iran on Monday to \"de-escalate between the parties to the current crisis.\"\nIran's security chief Mohsen Rezaei said the discussions in the capital were \"very good,\" according to state television, adding that \"I feel that a new atmosphere is emerging in the region... I sensed a very positive atmosphere in the discussions among the gentlemen.\"\nEarlier over the weekend, U.S. President Donald Trump had said that he was still working out whether to reach an agreement with Iran or take action to \"finish them off.\" While Trump has kept the possibility of a new round of major U.S. strikes against Iran on the table, Trump told reporters on Sunday that \"there will not be a strike (on Iran) today.\"\nOil prices pulled back from six-month highs this week. Brent crude futures were trading at $114.71 a barrel, down nearly 1%, while WTI crude futures traded 0.85% lower at $100.89 per barrel.\nSoFi Technologies Inc. (SOFI): Shares of the fintech company were up about 0.17% in the overnight session late Monday ahead of its Q3 results expected on Tuesday before the bell. Analysts expect SoFi to post earnings per share of $0.17 on revenue of $1.26 billion.\nBlackBerry Ltd. (BB): The company drew attention as shares climbed overnight after CEO John Giamatteo highlighted optimistic prospects in automotive software, robotics, and physical AI.\nPayPal Holdings Inc. (PYPL): The payments company fell nearly 0.8% overnight ahead of its first-quarter (Q1) earnings results. Analysts forecast PayPal to report EPS of $1.31 on revenue of $8.71 billion.\nCelestica, Inc. (CLS): Shares of the supply chain solutions company surged nearly 17% in the overnight session late Monday after the company posted strong Q3 results that beat Wall Street expectations.\nAmong ETFs tracking benchmark indexes, the SPDR S&P 500 ETF (SPY), the SPDR Dow Jones Industrial Average ETF Trust (DIA) and the Invesco QQQ Trust (QQQ) traded higher at the time of writing.\nMeanwhile, the 10-year U.S. Treasury yield traded at 4.978%, while the 30-year yield was 5.292%.\nThe iShares 20+ Year Treasury Bond ETF (TLT) was up 0.10% amid 'neutral' sentiment.\nAsian markets opened mixed on Tuesday. South Korea's KOSPI and Japan's Nikkei 225 were trading higher at the time of writing. However, China's SSE Composite was down. Australian stocks also opened higher.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nAashika Suresh has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .\nOracle Expands Cloud Infrastructure Arsenal With Google, OpenAI, And Cerebras Partnerships\nCEG Stock Gains On Reported $5B Nuclear Financing Offer – A Look At Some Key Highlights\nBitcoin Outperforms Grayscale's AI Compute ETF As AI Cloud Stocks Slide",
-      "published": "2026-10-27T02:45:00+00:00",
-      "source": "GN Markets",
+      "title": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras - Tech Wire Asia",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZm1YdFN3VkdWX2JXQjM4TlFhTzVIMVNDQ1lldmEyc2o0QmN3MG1lRVNiQjBpUmVSeHBmVzVxUHp2aUx4Y3pWaHhRU3FSck5qWk5kZURuQnB5M1FfeWthLWkybk9rTFF2VTFydjlzU1pobTdSbzlNZll6TVk?oc=5",
+      "summary": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras&nbsp;&nbsp;Tech Wire Asia",
+      "content": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras Skip to content AI & Intelligence , Cloud & Infrastructure , Cloud Platforms , Data Centres , Enterprise Sector , Features , Generative AI & LLMs\nOracle expands AI chip offerings with Google, Nvidia, and Cerebras\nOracle adds Google and Cerebras AI chips alongside Nvidia.\nOracle's cloud revenue hits $7.4 billion as spending reaches $28.5 billion.\nOracle is expanding its AI chip offerings through new agreements with Google and Cerebras Systems while also expanding its partnership with Nvidia. The move will give Oracle Cloud Infrastructure (OCI) customers access to different types of AI hardware for training models and running AI applications.\nThe company announced the expansion during Oracle AI World. Its plans include deploying Nvidia's Vera Rubin systems at multi-gigawatt scale, introducing Google's TPUs, and offering specialised AI inference technology from Cerebras. Oracle is also collaborating with Intel-backed SambaNova Systems on plans to deploy SambaRack SN50 inference chips in OCI data centres, giving AI model developers another computing option.\nOracle's agreement with Google will make OCI the first hyperscale cloud platform outside Google Cloud to offer Google's TPUs. These processors are designed specifically for AI workloads, providing another option alongside the GPUs commonly used for training and inference.\nGoogle's eighth-generation TPU portfolio includes two architectures developed for different tasks. The TPU 8t is designed for training large AI models, while the TPU 8i focuses on inference, including applications involving multiple AI agents . Training involves developing AI models using large datasets, while inference refers to running trained models to generate responses.\nSee also: OpenAI brings AI models to Google Cloud for enterprise customers\nOracle said Google's TPUs will support model training, fine-tuning, and inference on OCI. The company will provide the data centre infrastructure, power, cooling, and networking required to operate the processors, which are expected to become available in 2027.\n“Different AI workloads have different compute needs,” Mahesh Thiagarajan, president of Oracle Cloud Infrastructure, said. He explained that providing access to multiple processor architectures would give customers more flexibility to select infrastructure based on performance, throughput, and cost requirements.\nAlongside Google's TPUs, Oracle plans to introduce Cerebras' specialised inference technology on OCI. The partnership targets AI developers, laboratories, and enterprises building applications that require fast response times.\nInference speed is particularly relevant to AI agents that perform multiple tasks. These systems may retrieve information, execute software tools, and generate several responses before completing a request. Each interaction with an AI model can introduce delays, increasing the time needed to finish a task.\nCerebras' Wafer-Scale Engine combines computing and memory on a single wafer-scale processor to reduce data movement between chips. According to Cerebras, the architecture supports faster token generation for AI applications involving multiple processing steps. The service is scheduled to become available on OCI in 2027.\nBeyond providing additional processors, the Google partnership could also allow businesses to run AI workloads closer to data already stored in Oracle's cloud environment. Organisations using Oracle databases could run model fine-tuning and inference on Google's TPUs without transferring their data to another cloud provider. According to the companies, this arrangement could simplify AI deployments that depend on existing Oracle data services.\nOracle is also expanding its existing Nvidia-based infrastructure as it introduces processors from other suppliers. The companies announced plans to deploy Nvidia's Vera Rubin AI systems across OCI Superclusters at multi-gigawatt scale to support demand for AI training and inference.\nThe companies did not disclose the financial value of the expansion. Oracle also announced that Nvidia Vera Rubin NVL72 systems and Vera CPUs are generally available on OCI. It plans to introduce Nvidia's HGX Rubin NVL8 configuration, which uses eight Rubin GPUs and provides a smaller deployment option than the 72-GPU NVL72 systems.\nThe introduction of Vera CPUs expands Oracle's Nvidia partnership beyond GPUs. While GPUs handle AI model processing, CPUs support tasks such as executing code, retrieving information, and running software tools. Oracle said customers can scale CPU and GPU resources independently, allowing them to allocate computing capacity according to their workloads.\nNetworking is another part of Oracle's infrastructure expansion. The company is developing its Acceleron technology to manage data traffic and connectivity across OCI, including large AI clusters that require high-speed communication between processors and storage systems.\nOracle said its latest Acceleron developments focus on connectivity, network reliability, and workload isolation. OCI Superclusters combine Acceleron with Nvidia's Spectrum-X Ethernet networking, Spectrum-6 switches, and BlueField-4 data processing units. Oracle also plans to use Acceleron to connect Google's TPU clusters with OCI databases and storage services.\nOracle's growing AI infrastructure business is also requiring substantial investment in data centre capacity and computing equipment.\nIn its first quarter of fiscal 2027, ended August 31, 2026, Oracle reported cloud infrastructure revenue of $7.4 billion, up 121% year over year. Total revenue increased 30% to $19.3 billion, while remaining performance obligations, which represent contracted revenue yet to be recognised, reached $664 billion.\nSee also: Nvidia Vera CPUs to power Modal's AI agents, challenging Intel and AMD\nThe company also reported delivering 850 megawatts of additional data centre capacity during the quarter, reflecting the scale of its ongoing infrastructure expansion.\nThe investment is reflected in Oracle's capital expenditure , which increased to approximately $28.5 billion during the quarter from $8.5 billion a year earlier. Despite the increase, the company maintained its fiscal 2027 capital expenditure forecast of $90 billion to $95 billion during its September earnings call.\nOracle has also arranged for some large AI customers to prepay for GPUs or supply the processors themselves. In June, the company said the prepaid and customer-supplied hardware portions of its large AI contracts totalled $75 billion, reducing the amount of capital it needed to raise for data centre expansion.\nWhile Nvidia's Vera Rubin NVL72 systems and Vera CPUs are already generally available on OCI, Google's TPUs and Cerebras inference services are scheduled to become available in 2027.\nWant to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events , click here for more information.\nTech Wire Asia is powered by TechForge Media . Explore other upcoming enterprise technology events and webinars here .\nAs a tech journalist, Zul focuses on topics including cloud computing, cybersecurity, and disruptive technology in the enterprise industry. He has expertise in moderating webinars and presenting content on video, in addition to having a background in networking technology.\nGlobalFoundries Singapore campus gets AI facilities control centre ahead of global rollout\nAlibaba Qwen AI model attempted to contact Beijing server, Cohere says\ne-Conomy SEA 2026: Southeast Asia AI adoption reaches 243 million users, but usage lags far behind the US\nOpenAI AI agents bypass security monitoring during coding tasks\nGlobal chip race: China semiconductor sector surpasses South Korea\nAsia Pacific Focus , Australasia , Compliance, Regulations & Governance\nTech giants challenge Australia's social media ban—do they have a point?\nAI & Intelligence , Business Intelligence , Digital Transformation , Enterprise Sector , Generative AI & LLMs , Industry Verticals , Singapore\nSingapore Airlines deploys more than 160 AI applications\ne-Conomy SEA 2026: Southeast Asia AI adoption reaches 243 million users, but usage lags far behind the US\nOpenAI AI agents bypass security monitoring during coding tasks\nOpenAI brings AI models to Google Cloud for enterprise customers\nTo provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behaviour or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nThe technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\nThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.\nAccept Deny View preferences Save preferences View preferences\nAll our premium content and latest tech news delivered straight to your inbox\nThis field is for validation purposes and should be left unchanged.\nCompany Size (Required) Company Size 1-10 11-200 201-1000 1001-5000 5000+\nCompany Sector (Required) Company Sector Biotechnology & Pharmaceuticals Computer Hardware & Electronics Consulting & Professional Services Defense & Security E-Commerce Education Energy, Chemicals & Utilities Engineering & Research Environmental Financial & Insurance Services Government Healthcare IT Services Manufacturing Media & Entertainment Not for Profit Real Estate & Construction Retail Software & Cloud Services Technology Telecommunications Transportation, Shipping & Logistics Travel & Hospitality Wholesale Other\nCountry (Required) Country United Kingdom United States Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos Islands Colombia Comoros Congo Congo, Democratic Republic of the Cook Islands Costa Rica Croatia Cuba Curaçao Cyprus Czechia Côte d&#039;Ivoire Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People&#039;s Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People&#039;s Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Romania Russian Federation Rwanda Réunion Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Sweden Switzerland Syria Arab Republic Taiwan Tajikistan Tanzania, the United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkmenistan Turks and Caicos Islands Tuvalu Türkiye US Minor Outlying Islands Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay Uzbekistan Vanuatu Venezuela Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Åland Islands\nPermissions (Required) By submitting your email, you agree to our Terms and Privacy Notice",
+      "published": "2026-10-28T04:01:29+00:00",
+      "source": "GN AI",
       "sources": [
-        "GN Markets"
+        "GN AI"
       ],
       "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
       "stars": 3,
       "score": 13.3,
       "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
-      "summary": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-28T00:46:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World",
-        "GN Top",
-        "CNBC Top"
-      ],
-      "source_count": 3,
-      "category": "us",
-      "category_zh": "美国",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
     },
     {
       "title": "Russian satellites help Iran’s allies strike Saudi Arabia, data and officials say - AP News",
@@ -704,25 +638,52 @@
       "assets": []
     },
     {
-      "title": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0EyQnBGR2diemlHNFhYQXNlelZIRmRZeW13MjhVZFRwX2prOUtIenZvSXdZOF9RbEtOUHZicExLUnFSd0pwX2VBRVd2YzRZZDBaSjVjc2ttVUlsTUxJbHk3c213OTdrM01XODJaSnRVenJUS2R6M2Zvbm1PX3YxNHZ0dUJPOTNud2VqSEVqdDVUOGR3?oc=5",
-      "summary": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington&nbsp;&nbsp;AP News",
+      "title": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+      "summary": "Exit polls suggest no clear winner in Israel’s election, but Netanyahu is far from defeated&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-27T04:02:00+00:00",
+      "published": "2026-10-28T03:55:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World",
-        "Reuters Technology"
+        "NPR World",
+        "Al Jazeera"
       ],
-      "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 13.1,
       "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "content": "Image caption, A backlash has erupted on Chinese social media over MbappÃ©&#x27;s comments on a \"Chinese dictator\"\nKylian MbappÃ© has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong which led to him being dropped by several Chinese brands.\nMbappÃ© had reportedly told French talk show The Bridge the meme \"that makes me laugh the most, it&#x27;s the one where there&#x27;s a video of a guy, I think it&#x27;s a Chinese dictator...\" He then laughs as the clip cuts to a meme showing his face superimposed on an image resembling Mao.\nThe meme is part of a running joke about the Real Madrid forward being called a \"dictator\" because of his huge influence in football.\n\"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world,\" MbappÃ© said in a statement.\nSpain&#x27;s La Liga also apologised, saying it \"deeply regrets the offence that Kylian MbappÃ©&#x27;s recent comments have caused among Chinese fans\".\nThe joke did not go down well in China, where Mao is revered by the Communist Party, despite his chaotic and often violent rule that left millions dead.\nA few people came out in support of him on Chinese social media, but that is a rare response given China&#x27;s tightly controlled internet, where people are expected to toe the party and government line on sensitive topics.\nFew topics are as sensitive as Mao, which may explain why brands were so quick to terminate partnerships with a global sports star like MbappÃ©.\nThe original video is not available on the show&#x27;s YouTube channel, and it&#x27;s unclear when the interview hosted by Real Madrid&#x27;s AurÃ©lien TchouamÃ©ni first aired. In clips that have been circulating online, MbappÃ© does not identify Mao by name. He says he \"uses [the meme] with friends all the time\".\nThe furore appeared to kick off on Monday night after Chinese football forum Dongqiudi drew attention to the comments in a statement, saying they were \"inappropriate\" and \"hurt the feelings of Chinese people\".\nScreengrabs of the clip and meme have since spread quickly on Chinese social media, with people echoing this sentiment and even calling for a boycott of both the French striker and his club, Real Madrid.\nBut some have blurred the meme itself as well as the part of the comment they found offensive, when Mbappe refers to \"a Chinese dictator\".\nDongqiudi said in its statement that it was \"unable to translate\" his comments because they were \"offensive to China and the Chinese people\".\nMany people are therefore also wondering what exactly Mbappe said and have responded to the angry posts and comments with questions, wanting to know more.\nImage caption, Weibo users are recirculating the clip by blurring the meme and redacting references to Mao\nChinese fans have been criticising MbappÃ© â who is popular in China and has huge brand endorsements â of \"profiting from the Chinese market yet making remarks that offend the Chinese public\".\n\"International public figures, in particular, should show greater respect and sensitivity, as national sentiment must never be taken lightly,\" reads another comment on Weibo.\nAs the anger online grew louder, Chinese brands began to cut ties, although they did not explicitly refer to the video.\nThe country&#x27;s largest dairy producer, Mengniu, said it \"firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people\".\nDrinks giant Dongpeng issued a similar statement: \"Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments.\"\nAccording to state-owned newspaper The Global Times, state broadcaster CCTV&#x27;s news apps will not feature content related to the French striker. CCTV will also stop showing La Liga matches, Chinese media reported on Tuesday. Real Madrid is one of 20 clubs that play in the Spanish football league and is the most decorated team with 36 league titles.\nChina&#x27;s foreign ministry has also weighed in, with spokesperson Lin Jian saying: \"We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society.\"\nImage caption, MbappÃ© has a significant commercial presence in China\nChina is a major market for international sports stars and homegrown brands have signed multimillion-dollar endorsement contracts with MbappÃ©, Norwegian striker Erling Haaland, and NBA player Stephen Curry.\nBy 14:00 local time on Tuesday, five of the top 10 trending topics on Weibo centered on MbappÃ©, with the hashtag \"multiple brands terminate partnerships with MbappÃ©\" topping the list.\n\"Don&#x27;t ever come to China,\" read one of the top comments on Weibo.\nMao founded the People&#x27;s Republic of China in 1949 and ruled through tumultuous decades in the 1960s and 1970s.\nHis attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the Party.\nHis death in 1976 brought a new era for China, which began to open its doors to the global economy. Even as the country moved away from Mao&#x27;s rule, he continued to be hailed by the party as a national icon whose legacy was beyond reproach.\nSo jokes or memes about Mao are seen not just as an insult to the party but also its closely-guarded narrative about the country&#x27;s past.\nImage caption, MbappÃ© has said some of the memes \"reveal a lack of political and human awareness\"\nIt&#x27;s unclear when the MbappÃ© meme involving Mao began but his nickname, \"the dictator\", has made the striker the subject of many memes and jokes online.\nMbappÃ© is widely regarded as one of the best footballers in the world and has wielded significant influence at the clubs he has played for. His extraordinary speed, goalscoring ability and worldwide popularity have made him a global icon, attracting millions of fans, major sponsorship deals and media attention, with his influence extending into fashion, culture and business.\nIn 2024, he sued a French influencer and kebab shop owner for using his name in the description of one of the shop&#x27;s sandwiches, leading to more jokes about the nickname.\nFrance teammate Ousmane Dembele jumped on the trend during the 2026 World Cup, calling MbappÃ© Mobut â a reference to Mobutu Sese Seko, the dictator who ruled the Democratic Republic of Congo, formerly Zaire, for three decades.\nIn an interview with France Football in September, MbappÃ© acknowledged the light-heartedness behind many of these memes, but said they \"sometimes reveal a lack of political and human awareness among people\".\n\"There&#x27;s a side that&#x27;s a bit less funny, because we know the damage people like that have caused throughout history,\" he said.\n\"Being compared to people who murder others, or who have made millions upon millions of people miserable... I don&#x27;t think I&#x27;ve done that in my life.\"",
+      "published": "2026-10-27T13:25:54+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "BBC Business",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
@@ -747,9 +708,9 @@
     {
       "title": "Watch: What happens now after close vote in Israeli election?",
       "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Watch: What happens now after close vote in Israeli election?\nWatch: What happens now after close vote in Israeli election? Close\nPolls have closed in the Israeli election and votes are being counted.\nExit polls suggest Gadi Eisenkot&#x27;s bloc have won the largest number of seats, but has not wont a majority.\nThe polls also suggest Netanyahu&#x27;s Likud party is set to be the biggest single par",
-      "content": "Watch: What happens now after close vote in Israeli election?\nWatch: What happens now after close vote in Israeli election? Close\nPolls have closed in the Israeli election and votes are being counted.\nExit polls suggest Gadi Eisenkot&#x27;s bloc have won the largest number of seats, but has not wont a majority.\nThe polls also suggest Netanyahu&#x27;s Likud party is set to be the biggest single party in the parliament.\nThe BBC&#x27;s Hugo Bachega looks at what might happen next.",
-      "published": "2026-10-28T00:04:29+00:00",
+      "summary": "Watch: What happens now after close vote in Israeli election?\nWatch: What happens now after close vote in Israeli election? Close\nPolls have closed in the Israeli election and votes are being counted.\nExit polls suggest there is no clear winner, with neither veteran Prime Minister Benjamin Netanyahu nor former military chief Gadi Eisenkot on track to secure a majority.\nThe BBC&#x27;s Hugo Bachega ",
+      "content": "Watch: What happens now after close vote in Israeli election?\nWatch: What happens now after close vote in Israeli election? Close\nPolls have closed in the Israeli election and votes are being counted.\nExit polls suggest there is no clear winner, with neither veteran Prime Minister Benjamin Netanyahu nor former military chief Gadi Eisenkot on track to secure a majority.\nThe BBC&#x27;s Hugo Bachega looks at what might happen next.",
+      "published": "2026-10-28T04:22:59+00:00",
       "source": "BBC World",
       "sources": [
         "BBC World",
@@ -832,6 +793,49 @@
       "assets": []
     },
     {
+      "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+      "summary": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T01:49:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "Iran war cost increases to $47 billion - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WWlxN3hLNVdzZVR0RDEzQnJuZ05ETXIyZnIydnhQZGNrQ0VPbllPMlFKWG9pS0RvNklFWDhjbldzNW5XemRHYkJrS3pxdHdnd3plbDRvYU9oSlByVEVqQU9BMmZ4U2Z5MWFTSEhFZVJSNkNq0gF6QVVfeXFMT2gzVGdTQXQtSTJHZXFmZjFuaHIyQlZVc0ZnUFo0QTNBeXJ5LVdzR0xoeEZiMGpaaVBFcGxxYnJKRHRJZVpJTFd2V1d5ZDJzMFVNTWpBRk4wUGJPeUY3aDBoTi1IZm9KUXFSYVVTWDFrbzM4S3BlcXhpc2c?oc=5",
+      "summary": "Iran war cost increases to $47 billion&nbsp;&nbsp;The Hill",
+      "content": "",
+      "published": "2026-10-28T00:32:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "Food and household brands warn of more price hikes as Iran war costs bite - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXRiWWdvUGZ0dTBiY2t4aWlWZlNWSlVlYUV4VXR6c25vRFJ0QUJ2NEJ6WTJTSW93cWFhb2xDYURhY2gydkQyRHhvMEFJYkh0S1JjVTVOLWlTbEVOQW83UUZZam5TTnBtV1ZoS2NaV3REUXF6andpWUZfcXpwdzRMQjJmZkxkdUs0eDVFSF94TjN5Tl9INFZ1WVFiUm8wSzBvbHlEQVJJT25TMlBWRVZneE01NGl6ekNHVGhYb2ZqNTRHdw?oc=5",
       "summary": "Food and household brands warn of more price hikes as Iran war costs bite&nbsp;&nbsp;Reuters",
@@ -855,7 +859,7 @@
       "title": "Ukraine war latest: Zelensky reveals details of 'Operation Veles' - The Kyiv Independent",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXJhb2xiYzgyNnpsdnNqNFpOaHFDNUwxdkpmTWpHazdaVGNhOTJQYnVsWFJtNzAybHF2eXlJMUxGRjZoSjFNSEpjVlBuaVVLRFluWUQ0S09DbzJVS2VDdzFCNEdwX1lOeldvcFN3MUFkQTkxazVPc3J1NnY2Vi02VWRoNkZDMmtTN0U5LUd5eUNlYllKeWc?oc=5",
       "summary": "Ukraine war latest: Zelensky reveals details of 'Operation Veles'&nbsp;&nbsp;The Kyiv Independent",
-      "content": "War Ukraine war latest: Zelensky reveals details of &#x27;Operation Veles&#x27;\nA screenshot from a video published on Oct. 22 showing Operation Veles, carried out by the National Guard's 2nd Khartiia Corps. (Khartiia/YouTube)\nZelensky reports over 100 Russian troops &#x27;eliminate&#x27; in Ukraine&#x27;s underground pipeline operation\nOleshky ceasefire &#x27;expanded within Kherson Oblast,&#x27; Melania Trump says\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nUkrainian postal service forms private air defense force, shoots down Russian drones\n302,000 Russian soldiers killed or wounded by Ukrainian drones since January, Defense Ministry says\nUkrainian forces \" eliminated \" more than 100 Russian soldiers and captured more than 30 others during an operation involving underground gas pipelines near Kupiansk in Kharkiv Oblast, President Volodymyr Zelensky said on Oct. 27.\n\"The Russians had already tried to use underground gas pipelines to move through our positions and launch assault operations. Ukrainian warriors have successfully transformed this tactic, modernized it, and made it much more sophisticated and technologically advanced,\" Zelensky said.\nThe operation, code-named \"Veles,\" involved an underground advance of more than 15 kilometers (9 miles), according to Zelensky .\nThe operation was carried out by the National Guard&#x27;s 2nd Khartiia Corps alongside other Ukrainian units.\nZelensky said he had received reports on the operation&#x27;s initial results and progress from Commander-in-Chief of Ukraine&#x27;s Armed Forces Mykhailo Drapatyi, 2nd Khartiia Corps Commander Ihor Obolienskyi, and Deputy Head of the Presidential Office Pavlo Palisa.\nThe 2nd Khartiia Corps previously reported on Oct. 22 that Ukrainian troops had infiltrated Russian rear positions near Kupiansk through underground gas pipelines as part of Operation Veles .\nThe operation followed earlier Russian attempts to use the same tactic in the area. On Sept. 12, Ukrainian battlefield monitoring group DeepState reported that Russian troops had used a gas pipeline to cross the Oskil River and penetrate Ukrainian defenses near Kupiansk.\nBlackout in Sumy Oblast’s Konotop enters fourth day with no end in sight\nOleshky ceasefire &#x27;expanded within Kherson Oblast,&#x27; Melania Trump says\nA localized ceasefire in the Russian-occupied city of Oleshky has been \"expanded… within Kherson (Oblast),\" U.S. First Lady Melania Trump said in a post on social media on Oct. 27.\nThe ceasefire, which came into effect in the early hours of the morning, initially covered Oleshky and surrounding areas in Kherson Oblast and is meant to allow the safe evacuation of civilians and the delivery of humanitarian aid over the coming days.\nTrump did not specify the extent of the expanded ceasefire but Tetiana Shelest, head of communications for Ukraine&#x27;s human rights ombudsman, Dmytro Lubinets, told reporters it now covered the entirety of Kherson Oblast.\nAccording to a statement from Lubinets, the ceasefire was being \"fully honored,\" with Ukraine and Russia adhering to the agreement as of 5:30 p.m. on Oct. 27.\n\"I hope that everything will continue in accordance with the agreed plan and that we will be able to help the civilians in Oleshky who are eagerly awaiting assistance,\" he added.\nOleshky has been under Russian occupation since the early days of the full-scale invasion. Located just across the Dnipro River from Kherson , it has been effectively blockaded by Russian forces, who prevent humanitarian aid from entering.\nResidents face severe shortages of food, water, and electricity. Mined roads and constant drone attacks make safe evacuation virtually impossible, and civilians trying to flee on the only roads in and out of the city are frequently targeted by drones.\nTrump added that the timing was accelerated by two days to protect civilians and facilitate the delivery of humanitarian aid.\nEarlier, Kyrylo Budanov, head of the Office of the President of Ukraine, confirmed a \"bilateral ceasefire\" began in the embattled Oleshky, in a statement on Oct. 27.\nThe ceasefire will last until Nov. 1, David Arakhamia , the parliamentary leader of the president&#x27;s Servant of the People party, said in a later post on social media. Lubinets added that the ceasefire will remain in effect until 10:59 p.m. Kyiv time on Nov. 1.\nThe agreements were reached in negotiations with Yana Lantratova, head of the Russian negotiating team.\nOleshky ceasefire ‘expanded within Kherson Oblast,’ Melania Trump says\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nRussian ballistic missiles targeted Kyiv in a deadly attack overnight on Oct. 26-27, striking a university campus, a major bridge, an administrative building, and medical facilities.\nKyiv, a city of three million people, has been relentlessly assaulted by Russian ballistic missiles in recent months as Moscow exploits Ukraine&#x27;s air defense shortage. While its battlefield offensive has slowed, Russia has chosen a strategy of mass aerial strikes against vulnerable civilians.\nAt least one person was killed, and 15 people have been injured in the latest Russian attack , Ukraine&#x27;s State Emergency Service (DSNS) said. Those injured in the attack include a paramedic, a medical technician, and a 20-year-old university student.\nThe mayor later reported a strike on the city&#x27;s Southern Bridge over the Dnipro River, one of Kyiv&#x27;s major traffic arteries. The bridge connects the city&#x27;s eastern and western sides and is crucial for the daily commutes of hundreds of thousands of residents.\nThe bridge and metro infrastructure were damaged overnight, Klitschko said. Train service on the bridge has been temporarily suspended.\nIhor, who lives on the east bank of the Dnipro River but works on the west bank, said his commute now takes around two hours, including about half an hour spent walking across the Southern Bridge.\n\"We’ll have to walk like this every morning now. Taking a detour would take too long,\" Ihor, who declined to give his surname, told the Kyiv Independent.\nIryna was also crossing the bridge while it remained closed to traffic, but she was using an electric scooter to get across. Following the overnight attack on Oct. 27, this was her first time commuting to work this way.\n\"This is an alternative means of transport, but I don’t know how long the journey will take,\" Iryna, who also declined to give a surname, said, expressing hope that the bridge would be repaired soon.\nPresident Volodymyr Zelensky said that a university campus in the city was struck by Russia alongside Kyiv&#x27;s well-known Kyoto park and residential buildings.\nEducation minister Andriy Butenko later said that the Russian attack damaged buildings and dormitories of the State University of Trade and Economics. He said there were no deaths among university students or employees.\n\"This is once again a terrorist country attacking educational institutions. A university, a scientific institution, a college, a school, or a kindergarten - the enemy directs its missiles at children, teachers, and scientists without any pity or humanity. There is no excuse for Moscow&#x27;s cynical actions,\" Butenko added.\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nUkrainian postal service forms private air defense force, shoots down Russian drones\nUkrainian postal and courier company Nova Poshta has started its own private air defense force and shot down Russian attack drones targeting their facilities, Vyacheslav Klymov, co-owner of the Nova group of companies, revealed at the Kyiv International Economic Forum on Oct. 26.\n\"We are one of the few companies that has implemented this project. I don&#x27;t want to disclose the numbers, but we have destroyed &#x27;Shahed&#x27; drones, \" Klimov said.\nNova Poshta is the largest private postal and courier company in Ukraine, operating over 15,817 branches across the country, and employing over 34,000 people. Its post offices and distribution centers have frequently come under Russian attack .\nDespite the ongoing war, business is going well for Nova Poshta. The company quadrupled its net profit compared with last year, according to financial reports published on April 27.\nKlimov also emphasised the importance of companies having their own private firefighting capabilities, rather than just waiting for the response of state authorities.\nNova Poshta employees frequently put out significant fires on their premises before the arrival of state emergency service firefighters, Klimov said.\n\"Now big businesses are looking for fire engines in Europe in order to create their own services. This is our property… who can forbid me from putting out a fire on my own territory?\" he said.\nSince late summer , Russia has been attacking Ukraine with jet-powered drones, adding to the now-familiar threat posed by conventional Shahed-type drones and missiles. Between larger assaults, successive waves of jet-powered drones now arrive day and night.\nRussia&#x27;s jet-powered drones target civilian infrastructure such as supermarkets , schools , shopping malls , telecommunications infrastructure , data centers , gas stations , and medical facilities .\nOn Ukraine’s language day, Russia strikes publisher’s warehouse in Kharkiv\n302,000 Russian soldiers killed or wounded by Ukrainian drones since January, Defense Ministry says\nUnits of the Ukrainian Defense Forces have killed or severley wounded 302,000 Russian servicemen by using drones since January 2026, the Ukrainian Defense Ministry said on Oct. 27.\n\"Each defeat is recorded on video in the Delta combat system and verified by the Brave1 defense innovation cluster,\" the Defense Ministry said.\nThe Ukrainian military uses an incentive system in which the verified destruction of enemy personnel and military materiel awards combat units points that they can exchange for more drones, electronic warfare equipment, and other gear on an internal marketplace .\nIn September, 46,230 Russian soldiers were killed or irrecoverably wounded, according to figures published by the Ukrainian General Staff.\nOf these, 32,739 were killed or wounded by drones, the figures show, amounting to about 70% of the total.\nThe highest number of casualties Ukrainian drones inflicted on the Russian military was recorded in March, with almost 34,000 soldiers killed or irrecoverably wounded.\nDrones of various types now cause the vast majority of casualties on both sides. \"The destruction of enemy manpower using UAVs helps preserve the lives of Ukrainian soldiers, making it difficult for the enemy to approach our positions,\" the ministry said.\nThe prevalence of drones from both sides has significantly changed assault tactics , making heavy equipment such as tanks a rare sight on the battlefield.\nWith the \"kill zone\" reaching 20 kilometers (12.4 miles), Russia has largely stopped using tanks or other heavy equipment for assault operations, Joint Forces Task Force spokesperson Viktor Trehubov said on Sept. 20. Drones have replaced many of the tanks&#x27; roles for both sides, since a tank driving close to the front would be easily spotted and hit by much cheaper drones.\nUkraine intercepting more Russian Geran-4 jet-powered drones, General Staff says\nUkraine Russia Oleshky Kupiansk Ceasefire Russian losses\nTania Myronyshena is a reporter at the Kyiv Independent. She has written for outlets such as United24 Media, Ukrainer, Wonderzine, as well as for PEN Ukraine, a Ukrainian non-governmental organization. Before joining the Kyiv Independent, she worked as a freelance journalist with a focus on cultural narratives and human stories. Tania holds a B.A. in publishing and editing from Borys Hrinchenko Kyiv University.\nZelensky details expectations for upcoming trilateral peace talks with Russia, US\nAnalysis: No, Elon Musk, Russian soldiers in Ukraine are not &#x27;kids&#x27; who have &#x27;no choice but to fight and die&#x27;\nNorway, Finland call Putin ahead of potential Abu Dhabi peace talks\nBolsonaro refuses to concede as would-be Ukraine peace mediator Lula wins Brazil election\nWith Kyiv’s air defense crews as they race to keep up with Russia’s jet-powered drones\nFires burn in Russian city of Lipetsk after reported Ukrainian attack\nExport hurdles and visa waits for Ukrainian companies force Pentagon to slow its drone contest\nUkraine intercepting more Russian Geran-4 jet-powered drones, General Staff says\nUkraine&#x27;s &#x27;Veles&#x27; pipeline operation near Kupiansk &#x27;eliminates&#x27; over 100 Russian troops, Zelensky says\nThe trouble with loving Russia: Evan Gershkovich&#x27;s memoir seeks sentimentality in a lost country\nHow Ukrainian researchers dissect Russian drones to uncover their next deadly upgrade\nHow Ukraine outmaneuvered Russian troops in Operation Vivaldi",
+      "content": "War Ukraine war latest: Zelensky reveals details of &#x27;Operation Veles&#x27;\nA screenshot from a video published on Oct. 22 showing Operation Veles, carried out by the National Guard's 2nd Khartiia Corps. (Khartiia/YouTube)\nZelensky reports over 100 Russian troops &#x27;eliminate&#x27; in Ukraine&#x27;s underground pipeline operation\nOleshky ceasefire &#x27;expanded within Kherson Oblast,&#x27; Melania Trump says\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nUkrainian postal service forms private air defense force, shoots down Russian drones\n302,000 Russian soldiers killed or wounded by Ukrainian drones since January, Defense Ministry says\nUkrainian forces \" eliminated \" more than 100 Russian soldiers and captured more than 30 others during an operation involving underground gas pipelines near Kupiansk in Kharkiv Oblast, President Volodymyr Zelensky said on Oct. 27.\n\"The Russians had already tried to use underground gas pipelines to move through our positions and launch assault operations. Ukrainian warriors have successfully transformed this tactic, modernized it, and made it much more sophisticated and technologically advanced,\" Zelensky said.\nThe operation, code-named \"Veles,\" involved an underground advance of more than 15 kilometers (9 miles), according to Zelensky .\nThe operation was carried out by the National Guard&#x27;s 2nd Khartiia Corps alongside other Ukrainian units.\nZelensky said he had received reports on the operation&#x27;s initial results and progress from Commander-in-Chief of Ukraine&#x27;s Armed Forces Mykhailo Drapatyi, 2nd Khartiia Corps Commander Ihor Obolienskyi, and Deputy Head of the Presidential Office Pavlo Palisa.\nThe 2nd Khartiia Corps previously reported on Oct. 22 that Ukrainian troops had infiltrated Russian rear positions near Kupiansk through underground gas pipelines as part of Operation Veles .\nThe operation followed earlier Russian attempts to use the same tactic in the area. On Sept. 12, Ukrainian battlefield monitoring group DeepState reported that Russian troops had used a gas pipeline to cross the Oskil River and penetrate Ukrainian defenses near Kupiansk.\nBlackout in Sumy Oblast’s Konotop enters fourth day with no end in sight\nOleshky ceasefire &#x27;expanded within Kherson Oblast,&#x27; Melania Trump says\nA localized ceasefire in the Russian-occupied city of Oleshky has been \"expanded… within Kherson (Oblast),\" U.S. First Lady Melania Trump said in a post on social media on Oct. 27.\nThe ceasefire, which came into effect in the early hours of the morning, initially covered Oleshky and surrounding areas in Kherson Oblast and is meant to allow the safe evacuation of civilians and the delivery of humanitarian aid over the coming days.\nTrump did not specify the extent of the expanded ceasefire but Tetiana Shelest, head of communications for Ukraine&#x27;s human rights ombudsman, Dmytro Lubinets, told reporters it now covered the entirety of Kherson Oblast.\nAccording to a statement from Lubinets, the ceasefire was being \"fully honored,\" with Ukraine and Russia adhering to the agreement as of 5:30 p.m. on Oct. 27.\n\"I hope that everything will continue in accordance with the agreed plan and that we will be able to help the civilians in Oleshky who are eagerly awaiting assistance,\" he added.\nOleshky has been under Russian occupation since the early days of the full-scale invasion. Located just across the Dnipro River from Kherson , it has been effectively blockaded by Russian forces, who prevent humanitarian aid from entering.\nResidents face severe shortages of food, water, and electricity. Mined roads and constant drone attacks make safe evacuation virtually impossible, and civilians trying to flee on the only roads in and out of the city are frequently targeted by drones.\nTrump added that the timing was accelerated by two days to protect civilians and facilitate the delivery of humanitarian aid.\nEarlier, Kyrylo Budanov, head of the Office of the President of Ukraine, confirmed a \"bilateral ceasefire\" began in the embattled Oleshky, in a statement on Oct. 27.\nThe ceasefire will last until Nov. 1, David Arakhamia , the parliamentary leader of the president&#x27;s Servant of the People party, said in a later post on social media. Lubinets added that the ceasefire will remain in effect until 10:59 p.m. Kyiv time on Nov. 1.\nThe agreements were reached in negotiations with Yana Lantratova, head of the Russian negotiating team.\nOleshky ceasefire ‘expanded within Kherson Oblast,’ Melania Trump says\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nRussian ballistic missiles targeted Kyiv in a deadly attack overnight on Oct. 26-27, striking a university campus, a major bridge, an administrative building, and medical facilities.\nKyiv, a city of three million people, has been relentlessly assaulted by Russian ballistic missiles in recent months as Moscow exploits Ukraine&#x27;s air defense shortage. While its battlefield offensive has slowed, Russia has chosen a strategy of mass aerial strikes against vulnerable civilians.\nAt least one person was killed, and 15 people have been injured in the latest Russian attack , Ukraine&#x27;s State Emergency Service (DSNS) said. Those injured in the attack include a paramedic, a medical technician, and a 20-year-old university student.\nThe mayor later reported a strike on the city&#x27;s Southern Bridge over the Dnipro River, one of Kyiv&#x27;s major traffic arteries. The bridge connects the city&#x27;s eastern and western sides and is crucial for the daily commutes of hundreds of thousands of residents.\nThe bridge and metro infrastructure were damaged overnight, Klitschko said. Train service on the bridge has been temporarily suspended.\nIhor, who lives on the east bank of the Dnipro River but works on the west bank, said his commute now takes around two hours, including about half an hour spent walking across the Southern Bridge.\n\"We’ll have to walk like this every morning now. Taking a detour would take too long,\" Ihor, who declined to give his surname, told the Kyiv Independent.\nIryna was also crossing the bridge while it remained closed to traffic, but she was using an electric scooter to get across. Following the overnight attack on Oct. 27, this was her first time commuting to work this way.\n\"This is an alternative means of transport, but I don’t know how long the journey will take,\" Iryna, who also declined to give a surname, said, expressing hope that the bridge would be repaired soon.\nPresident Volodymyr Zelensky said that a university campus in the city was struck by Russia alongside Kyiv&#x27;s well-known Kyoto park and residential buildings.\nEducation minister Andriy Butenko later said that the Russian attack damaged buildings and dormitories of the State University of Trade and Economics. He said there were no deaths among university students or employees.\n\"This is once again a terrorist country attacking educational institutions. A university, a scientific institution, a college, a school, or a kindergarten - the enemy directs its missiles at children, teachers, and scientists without any pity or humanity. There is no excuse for Moscow&#x27;s cynical actions,\" Butenko added.\nDeadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers\nUkrainian postal service forms private air defense force, shoots down Russian drones\nUkrainian postal and courier company Nova Poshta has started its own private air defense force and shot down Russian attack drones targeting their facilities, Vyacheslav Klymov, co-owner of the Nova group of companies, revealed at the Kyiv International Economic Forum on Oct. 26.\n\"We are one of the few companies that has implemented this project. I don&#x27;t want to disclose the numbers, but we have destroyed &#x27;Shahed&#x27; drones, \" Klimov said.\nNova Poshta is the largest private postal and courier company in Ukraine, operating over 15,817 branches across the country, and employing over 34,000 people. Its post offices and distribution centers have frequently come under Russian attack .\nDespite the ongoing war, business is going well for Nova Poshta. The company quadrupled its net profit compared with last year, according to financial reports published on April 27.\nKlimov also emphasised the importance of companies having their own private firefighting capabilities, rather than just waiting for the response of state authorities.\nNova Poshta employees frequently put out significant fires on their premises before the arrival of state emergency service firefighters, Klimov said.\n\"Now big businesses are looking for fire engines in Europe in order to create their own services. This is our property… who can forbid me from putting out a fire on my own territory?\" he said.\nSince late summer , Russia has been attacking Ukraine with jet-powered drones, adding to the now-familiar threat posed by conventional Shahed-type drones and missiles. Between larger assaults, successive waves of jet-powered drones now arrive day and night.\nRussia&#x27;s jet-powered drones target civilian infrastructure such as supermarkets , schools , shopping malls , telecommunications infrastructure , data centers , gas stations , and medical facilities .\nOn Ukraine’s language day, Russia strikes publisher’s warehouse in Kharkiv\n302,000 Russian soldiers killed or wounded by Ukrainian drones since January, Defense Ministry says\nUnits of the Ukrainian Defense Forces have killed or severley wounded 302,000 Russian servicemen by using drones since January 2026, the Ukrainian Defense Ministry said on Oct. 27.\n\"Each defeat is recorded on video in the Delta combat system and verified by the Brave1 defense innovation cluster,\" the Defense Ministry said.\nThe Ukrainian military uses an incentive system in which the verified destruction of enemy personnel and military materiel awards combat units points that they can exchange for more drones, electronic warfare equipment, and other gear on an internal marketplace .\nIn September, 46,230 Russian soldiers were killed or irrecoverably wounded, according to figures published by the Ukrainian General Staff.\nOf these, 32,739 were killed or wounded by drones, the figures show, amounting to about 70% of the total.\nThe highest number of casualties Ukrainian drones inflicted on the Russian military was recorded in March, with almost 34,000 soldiers killed or irrecoverably wounded.\nDrones of various types now cause the vast majority of casualties on both sides. \"The destruction of enemy manpower using UAVs helps preserve the lives of Ukrainian soldiers, making it difficult for the enemy to approach our positions,\" the ministry said.\nThe prevalence of drones from both sides has significantly changed assault tactics , making heavy equipment such as tanks a rare sight on the battlefield.\nWith the \"kill zone\" reaching 20 kilometers (12.4 miles), Russia has largely stopped using tanks or other heavy equipment for assault operations, Joint Forces Task Force spokesperson Viktor Trehubov said on Sept. 20. Drones have replaced many of the tanks&#x27; roles for both sides, since a tank driving close to the front would be easily spotted and hit by much cheaper drones.\nUkraine intercepting more Russian Geran-4 jet-powered drones, General Staff says\nUkraine Russia Oleshky Kupiansk Ceasefire Russian losses\nTania Myronyshena is a reporter at the Kyiv Independent. She has written for outlets such as United24 Media, Ukrainer, Wonderzine, as well as for PEN Ukraine, a Ukrainian non-governmental organization. Before joining the Kyiv Independent, she worked as a freelance journalist with a focus on cultural narratives and human stories. Tania holds a B.A. in publishing and editing from Borys Hrinchenko Kyiv University.\nZelensky details expectations for upcoming trilateral peace talks with Russia, US\nAnalysis: No, Elon Musk, Russian soldiers in Ukraine are not &#x27;kids&#x27; who have &#x27;no choice but to fight and die&#x27;\nNorway, Finland call Putin ahead of potential Abu Dhabi peace talks\nBolsonaro refuses to concede as would-be Ukraine peace mediator Lula wins Brazil election\nWith Kyiv’s air defense crews as they race to keep up with Russia’s jet-powered drones\nRussia launched over 100 ballistic missiles against Kyiv in past two weeks\nFires burn in Russian city of Lipetsk after reported Ukrainian attack\nExport hurdles and visa waits for Ukrainian companies force Pentagon to slow its drone contest\nUkraine intercepting more Russian Geran-4 jet-powered drones, General Staff says\nThe trouble with loving Russia: Evan Gershkovich&#x27;s memoir seeks sentimentality in a lost country\nHow Ukrainian researchers dissect Russian drones to uncover their next deadly upgrade\nHow Ukraine outmaneuvered Russian troops in Operation Vivaldi",
       "published": "2026-10-27T19:20:27+00:00",
       "source": "GN Geopolitics",
       "sources": [
@@ -959,11 +963,11 @@
       ]
     },
     {
-      "title": "Warren Buffett sends timeless advice to S&P 500 stock investors - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTdMM0xHOVdiWTEyVW91NDZBTERoSjg1QnptTUxZLUlkbEtHT3dYU0thRGFONmdrc29keVV5Qjh0eU4ybXd0WGRXRjV6QU9XZUd4RDlqODhVem1qMmhsdXFxYk5oTFJ3d2VMbnJoS05PbGlDRTZtdTRIandLMkRXaE1qX0UxQXAwQVlzbXBneTFOdzQ1QzJqenMzTG96aDZqOVZn?oc=5",
-      "summary": "Warren Buffett sends timeless advice to S&amp;P 500 stock investors&nbsp;&nbsp;Yahoo Finance",
-      "content": "Warren Buffett sends timeless advice to S&P 500 stock investors\nWarren Buffett built one of the largest fortunes in history by picking stocks. Yet the advice he has given ordinary investors for decades sounds almost boring next to his own record. It is advice that has outlived countless market fads. His instruction has stayed remarkably simple: buy a low-cost S&P 500 index fund and hold it.\nThat boring advice keeps giving. The S&P 500 set a fresh record high in early October, and Buffett's go-to recommendation continues to pay off for patient investors. The bigger story is how many people have taken his words to heart.\nBuffett has made the same point in almost every format he uses. \"My regular recommendation has been a low-cost S&P 500 index fund,\" he wrote in his 2016 letter to Berkshire Hathaway shareholders, published on Berkshire's website . He has also said he gave similar guidance to the trustee who will manage the money he leaves to his wife.\nAlso read: Warren Buffett has a stark message for stock market investors\nThe details of that plan are telling. In his 2013 letter, Buffett said the trustee should put 90% of the cash in a very low-cost S&P 500 index fund and 10% in short-term government bonds, and he suggested Vanguard's fund. A man who could hire any manager in the world chose an index fund for his own family.\nHe repeated the message at Berkshire's 2020 annual meeting. \"In my view, for most people, the best thing to do is owning the S&P 500 index fund,\" Buffett said. He added that nobody knows what the market will do tomorrow, next week or next year.\nTiming, in his view, should not decide when people invest. In a 2017 CNBC interview, Buffett said the trick is to buy all the big companies through the S&P 500 and to do it consistently, according to The Motley Fool . He also urged investors to keep buying through thick and thin, especially through the thin times. Downturns, in other words, were buying opportunities rather than reasons to sell.\nRelated: Greg Abel's net worth: Buffett's successor's wealth as Berkshire's CEO\nBuffett did more than talk about it. In 2007, he bet Protégé Partners $1 million that an S&P 500 index fund would beat a basket of hedge funds over 10 years, and he won. His Vanguard fund returned 7.1% a year, compared with an average of 2.2% for the hedge funds, as CNBC reported .\nFees help explain the gap. \"Costs really matter in investments,\" Buffett has said. And index funds still keep those costs low while spreading money across many companies instead of one. A small fee difference can also add up to a large sum over decades of compounding.\nThe data keep backing him up. In the first half of 2026, 67% of actively managed large-cap funds trailed the S&P 500. Over the 15 years through June 30, 90.49% of them underperformed, and over 20 years the figure rose to 92.61%. Funds that were merged or closed count as underperformers in that tally.\nThe full-year picture was even worse. In 2025, 79% of active large-cap funds lagged the S&P 500, which tied the result to the low-cost index case Vanguard founder Jack Bogle made decades ago. In other words, the professionals Buffett warned about are still mostly losing to the benchmark.\nWarren Buffett built one of the largest fortunes in history by picking stocks, especially those in one particular category.Bloomberg / Getty Images How his advice is shaping portfolios in today's market\nInvestors appear to be listening. The Vanguard S&P 500 ETF, part of the same Vanguard fund Buffett pointed his trustee toward, crossed $1 trillion in assets on June 3, becoming the first ETF ever to do so and overtaking State Street's SPDR S&P 500 ETF Trust as the world's largest ETF, as reported by Reuters . Its parent mutual fund was the first index fund offered to retail investors.\nThose who followed the advice have been rewarded. The Vanguard S&P 500 ETF has roughly quadrupled an investment over the past decade. That required no stock research at all, just patience. Reinvested dividends were part of that result, a reminder that staying invested matters.\nWarren Buffett's $142 billion fortune hits a new milestone\nWarren Buffett's farewell letter has 4 words for every investor\nWarren Buffett shares a simple rule for surviving a market crash\nThe 3 biggest mistakes Warren Buffett made as Berkshire CEO\nPart of the appeal is how little work it takes. Buying an S&P 500 index fund does not require investors to judge whether a business or its management team is outstanding, according to The Motley Fool . The outlet also noted that the S&P 500 and its predecessors have consistently delivered positive total returns over 20-year periods.\nThe irony is that Buffett's own company beat the market for decades. Berkshire posted a 19.7% annualized share-price gain from 1965 through 2025, compared with 10.5% for the S&P 500, yet Buffett still recommended index funds for family wealth, according to TheStreet . Few investors have the time, skill or temperament to repeat that record.\nHis plan was never meant as a one-size-fits-all formula. The 90/10 split he described was for his estate, and investors should build an emergency fund before putting money into an S&P 500 fund. An S&P 500 fund also holds no foreign companies, so some investors add an international fund alongside it.\nWhat remains is the core idea. \"If you bet on America and sustain that position for decades, you'd do far better than buying Treasury securities,\" Buffett said in 2020 . Markets will still have rough years along the way. For investors willing to stay patient and keep costs low, that bet is still paying off.\nRelated: Warren Buffett doubles down on stock market message for 2026\nThis story was originally published by TheStreet on Oct 27, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.",
-      "published": "2026-10-27T16:47:00+00:00",
+      "title": "Warren Buffett sends timeless advice to S&P 500 stock investors - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPak9pRXowN1ZocTZKQlRjNVdrcldQWXFmRmE4YVJ1RVBrekdvLW02RDJwV2dnelREQnV2dXV5NkxDU1o2MVhaT2Rxd0JfenpKa3IxOUR6TnYxdFNTaExhWFhkQy1UVDVQLXZDN0FURGpwaXRqZ2dVU1NkakNqdDlEQjhybC1Ub3Jnal9acHRQSEU5NnhZOThISl80Ujg3QUZOVjR0T2xHdTk?oc=5",
+      "summary": "Warren Buffett sends timeless advice to S&amp;P 500 stock investors&nbsp;&nbsp;TheStreet",
+      "content": "",
+      "published": "2026-10-27T20:11:21+00:00",
       "source": "GN Markets",
       "sources": [
         "GN Markets"
@@ -1000,6 +1004,27 @@
         "科技股",
         "半导体"
       ]
+    },
+    {
+      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+      "summary": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms&nbsp;&nbsp;WSJ",
+      "content": "",
+      "published": "2026-10-28T03:48:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.8,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
@@ -1088,9 +1113,9 @@
       "assets": []
     },
     {
-      "title": "Nuclear Inspectors See No Evidence Iran Repaired US-Bombed Sites - Bloomberg.com",
+      "title": "Nuclear Inspectors See No Evidence Iran Fixed Bombed Sites - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTN5QzFhYWJ3eDVSc3JpcDlXLUZWMTJMSzZEc1haU2wtZlQ3LTlRekxnNEF5SThHbHZzUHZoWWFNTXNMa0VVc2NNaDlVTW5UWXl5SEhPTkwzQjFxVkpvemphQUw4Y3k5enRJQ0Y0VnVjWjh2ZmlIYXBHZ3V2bzlqdFNVUEs1eXliUVpXNktRNnM3UngyVnNzb2I5MXdZMFdzbXRjOWVDckJocExXUzJiUnJDYXF3UQ?oc=5",
-      "summary": "Nuclear Inspectors See No Evidence Iran Repaired US-Bombed Sites&nbsp;&nbsp;Bloomberg.com",
+      "summary": "Nuclear Inspectors See No Evidence Iran Fixed Bombed Sites&nbsp;&nbsp;Bloomberg",
       "content": "",
       "published": "2026-10-27T21:47:00+00:00",
       "source": "GN Geopolitics",
@@ -1132,29 +1157,6 @@
       ]
     },
     {
-      "title": "Alliance Resource Partners Hits Record Oil, Gas Royalty Revenue After Acquisition - Hart Energy",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmR3RmlFSF9wUGVJSWJ4MWlLNHVXYXdBUTlJT0dUd2NJc0VqbkpYMU41azB0eEZFS2dFcjBlYS1paHBxT3BHT0ZfaUwxcG53d2FuNnRha1o3UF9wLVhTQmlCQmNTOHBJNzI3LWo3WS1tNDE5NjRZSVFiX29hcjQwcG82Q3dKZWx1RGpOZHd4VXlmUndOaFFKNEtPSUs0d21LMFdaXw?oc=5",
-      "summary": "Alliance Resource Partners Hits Record Oil, Gas Royalty Revenue After Acquisition&nbsp;&nbsp;Hart Energy",
-      "content": "",
-      "published": "2026-10-27T19:22:00+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy"
-      ],
-      "source_count": 1,
-      "category": "energy",
-      "category_zh": "能源",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
       "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEJUMUtuaUhHLWZkc243Z29ueFYtUFAwV0NHTHN1dERfM25yUXllWmxKTm9ndU5IQzY1bUd0Q01LbDRuWjg5MS1PZ2s0dGlEVTRfaWN5M2R4a3lVQWwtTDdiZzdaVmhNcmpJdkJxUXhDNXZmNzJULUJDRjNWM05qQmQ5NXZ3VHF3?oc=5",
       "summary": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch&nbsp;&nbsp;Yahoo Finance",
@@ -1180,11 +1182,11 @@
       ]
     },
     {
-      "title": "AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDJnejlzcDhXMjRFTUNsWEZDSVRLT2JaNlhKcWJtVHRfeE11M1U3b2E2eXhTenJxY242bHlXc3o2d1BrZXBfU0VlYU5HNzZBbWx4b2ZOb3NnQkw4MkF5QThoUWw2aktaalB5aV9DeVF2anNqVE5KSG01SkNTN1daVG1JVjV6aGZpZTktaF9yZ3ZaS3BDbHJlbg?oc=5",
-      "summary": "AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today.&nbsp;&nbsp;The Motley Fool",
-      "content": "Advanced Micro Devices   ( AMD +5.46% ) and Nvidia ( NVDA +0.90% ) are two of the biggest names in the artificial intelligence (AI) chip market. Their graphics processing units (GPUs) are the most popular options, and each is growing rapidly. However, from an investment standpoint, they are fundamentally different, especially when price tags are considered.\nNvidia is far cheaper than AMD, and this is something that investors can&#x27;t ignore. I think that makes Nvidia the superior buy, but is there more to this picture? Let&#x27;s take a look.\nNvidia and AMD both make GPUs, which are general purpose computing units that can excel in just about any situation. This makes them the workhorse of the AI computing landscape, even as other custom AI alternatives grow more popular. Those custom chips are only meant to run one type of workload and will never fully replace GPUs.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $5.21T\nIn the early days of the AI arms race, Nvidia&#x27;s products were far superior, which allowed it to capture an early lead. While AMD has improved its game, Nvidia&#x27;s early lead has been tough to overcome. However, the law of large numbers suggests that the larger a company gets, the harder it is to grow. Therefore, if AMD is smaller, then it should be able to grow faster than Nvidia. If everything else is equal, a faster-growing stock will lead to better long-term returns, which would push AMD ahead of Nvidia as an investment option. The problem is, it isn&#x27;t happening.\nMarket cap Market cap calculated using publicly traded shares outstanding only. Does not include unlisted, private, or dual-class non-traded shares. Implied market cap may vary. $867.30B\nNvidia is far larger than AMD. Nvidia&#x27;s data center division (the sector most exposed to AI) saw revenue of $89 billion during the second quarter of its fiscal year (FY) 2027 (ended July 26). AMD&#x27;s Q2 (which ended on June 30) saw revenue of $6.7 billion. The company&#x27;s financial calendars are about one month apart, so this isn&#x27;t a perfect comparison, but it&#x27;s the best that investors can do. With AMD&#x27;s data center division being more than 10 times smaller than Nvidia, it should have no problem growing faster, but Nvidia&#x27;s growth in Q2 was 117% versus AMD&#x27;s 107%.\nWhile both companies are each delivering strong results, Nvidia is clearly growing faster despite its much larger size. But there&#x27;s more to this analysis.\nAMD and Nvidia also have non-data-center segments. However, Nvidia&#x27;s other businesses are far smaller, and data center revenue accounts for the majority of Nvidia&#x27;s $96.2 billion total. AMD&#x27;s Q2 revenue was $11.5 billion, so other divisions make up a far higher percentage of its revenue. The problem is that these product lines aren&#x27;t growing nearly as fast, so AMD&#x27;s overall growth rate significantly lags Nvidia&#x27;s.\nAMD Revenue (Quarterly YoY Growth) data by YCharts.\nWith this kind of growth disparity, you&#x27;d expect Nvidia to have a premium valuation relative to AMD, as it is growing far faster. But that&#x27;s not the case.\nAMD&#x27;s stock is far more expensive than Nvidia&#x27;s\nBecause these two are expected to grow rapidly over the next few quarters, I think valuing them based on forward earnings makes a lot of sense. From this perspective, AMD is basically three times more expensive than Nvidia.\nThat&#x27;s a huge gap that doesn&#x27;t seem logical, but that&#x27;s how the market is pricing these two stocks. I think this is a huge mistake, and eventually it will correct itself so that these two stocks trade at roughly the same valuation. Whether that&#x27;s caused by an AMD sell-off or an Nvidia rise is uncertain, but I&#x27;m confident that Nvidia will be the far better stock to own over the next few years. Its broad exposure to the AI arms race will boost the stock over the next few years, leading it to outperform AMD over the long term.\nNvidia Stock Is 10% Below Its Record. Does Anthropic&#x27;s IPO Filing Make It a Buy?\nInvesting $1,000 in Each of These 3 Stocks 20 Years Ago Would Have Created a Portfolio Worth $674,000 Today\nNvidia’s New $3 Billion AI Bet Is on One of Its Own Customers\nJensen Huang&#x27;s Late-Night Calls With President Trump Come as Nvidia&#x27;s China AI Chip Shipments Fall 44% in the First Half of 2026. Here&#x27;s Why His Access Matters.\nNvidia Stock Is Down 12% From Its High. Here&#x27;s What History Says Happens Next.\nNvidia Plays Kingmaker Again. Why the Meta Deal Is a Winning Move.\nKeithen Drury is a contributing Motley Fool technology analyst covering AI, semiconductors, cybersecurity, and SaaS stocks. In addition to The Motley Fool, Keithen is a mechanical engineer and has held roles at Honeywell and smaller industrial companies like Brand Hydraulics and Lincoln Industries. He holds a bachelor’s degree in mechanical engineering from Dordt University.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-27T16:15:00+00:00",
+      "title": "AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa05Cb1NpWEpwbmpNOVRNV3E4ZTZqNFFLTUhpNERwRWd5N2dlQkFIV05feGs0am5uSDFTWDAzNzRpRlYzdjVwdDdtaXQ5WGhyQTA1bURwT3AyMlpEV0F5LWY2MHpSUnM1SzZFaVN4bzdqdzRTYkY3bTh6M2FhWUk4TlVLUzQ5WVJuOGVtQVpCWUdDZw?oc=5",
+      "summary": "AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today.&nbsp;&nbsp;Yahoo Finance",
+      "content": "AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today.\nAdvanced Micro Devices (NASDAQ: AMD) and Nvidia (NASDAQ: NVDA) are two of the biggest names in the artificial intelligence (AI) chip market. Their graphics processing units (GPUs) are the most popular options, and each is growing rapidly. However, from an investment standpoint, they are fundamentally different, especially when price tags are considered.\nNvidia is far cheaper than AMD, and this is something that investors can't ignore. I think that makes Nvidia the superior buy, but is there more to this picture? Let's take a look.\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\nImage source: The Motley Fool. Nvidia is defying the law of large numbers\nNvidia and AMD both make GPUs, which are general purpose computing units that can excel in just about any situation. This makes them the workhorse of the AI computing landscape, even as other custom AI alternatives grow more popular. Those custom chips are only meant to run one type of workload and will never fully replace GPUs.\nIn the early days of the AI arms race, Nvidia's products were far superior, which allowed it to capture an early lead. While AMD has improved its game, Nvidia's early lead has been tough to overcome. However, the law of large numbers suggests that the larger a company gets, the harder it is to grow. Therefore, if AMD is smaller, then it should be able to grow faster than Nvidia. If everything else is equal, a faster-growing stock will lead to better long-term returns, which would push AMD ahead of Nvidia as an investment option. The problem is, it isn't happening.\nNvidia is far larger than AMD. Nvidia's data center division (the sector most exposed to AI) saw revenue of $89 billion during the second quarter of its fiscal year (FY) 2027 (ended July 26). AMD's Q2 (which ended on June 30) saw revenue of $6.7 billion. The company's financial calendars are about one month apart, so this isn't a perfect comparison, but it's the best that investors can do. With AMD's data center division being more than 10 times smaller than Nvidia, it should have no problem growing faster, but Nvidia's growth in Q2 was 117% versus AMD's 107%.\nWhile both companies are each delivering strong results, Nvidia is clearly growing faster despite its much larger size. But there's more to this analysis.\nAMD and Nvidia also have non-data-center segments. However, Nvidia's other businesses are far smaller, and data center revenue accounts for the majority of Nvidia's $96.2 billion total. AMD's Q2 revenue was $11.5 billion, so other divisions make up a far higher percentage of its revenue. The problem is that these product lines aren't growing nearly as fast, so AMD's overall growth rate significantly lags Nvidia's.\nAMD Revenue (Quarterly YoY Growth) data by YCharts. With this kind of growth disparity, you'd expect Nvidia to have a premium valuation relative to AMD, as it is growing far faster. But that's not the case.\nBecause these two are expected to grow rapidly over the next few quarters, I think valuing them based on forward earnings makes a lot of sense. From this perspective, AMD is basically three times more expensive than Nvidia.\nAMD PE Ratio (Forward) data by YCharts. That's a huge gap that doesn't seem logical, but that's how the market is pricing these two stocks. I think this is a huge mistake, and eventually it will correct itself so that these two stocks trade at roughly the same valuation. Whether that's caused by an AMD sell-off or an Nvidia rise is uncertain, but I'm confident that Nvidia will be the far better stock to own over the next few years. Its broad exposure to the AI arms race will boost the stock over the next few years, leading it to outperform AMD over the long term.\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $344,608 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,327,222 !*\nNow, it's worth noting Stock Advisor's total average return is 904% — a market-crushing outperformance compared to 211% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nKeithen Drury has positions in Nvidia. The Motley Fool has positions in and recommends Advanced Micro Devices and Nvidia. The Motley Fool has a disclosure policy .\nAMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today. was originally published by The Motley Fool",
+      "published": "2026-10-27T15:35:00+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -1200,6 +1202,30 @@
       "assets": [
         "科技股",
         "半导体"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Ease As Traders Weigh Fed Path - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1RNZHdNdmVsMk5EODNxZ3J3TTdtMURZU3phR0ZhSlpCcC1fNmpJLWZkek5JQXVEWUtyYl84dkY2SjhJRUt0NVRmaGhxSW5wMTZPWVpXbC05MmVfa0JsdGk4cnZOaGV4X3Nzd1NrYUdnRmk0VVItNExybUJxaVNILVBIR2ZqQ3FDMUlQR1NNSERhZw?oc=5",
+      "summary": "US Stock Market Today: S&amp;P 500 Futures Ease As Traders Weigh Fed Path&nbsp;&nbsp;Yahoo Finance",
+      "content": "US Stock Market Today: S&P 500 Futures Ease As Traders Weigh Fed Path\nThe Morning Bull - US Market Morning Update Tuesday, Oct, 27 2026\nUS stocks look set for a slightly softer open, with the focus squarely on interest rate expectations rather than overnight equity moves abroad. Sentiment feels cautious as investors weigh solid US activity data against an approaching Fed decision.\nThe Chicago Fed National Activity Index printed at +0.07 for September, which points to modestly above trend growth. That reading supports the view of a still resilient US economy just one day before the Fed announces its latest interest rate decision.\nA firmer growth backdrop can keep borrowing costs elevated, since policymakers have less pressure to cut aggressively when activity indicators run positive. Higher rate expectations tend to bite most in rate sensitive areas such as smaller caps and capital intensive businesses that rely heavily on refinancing.\nThe unresolved question is simple: Does a +0.07 activity print give the Fed enough confidence to signal a tighter path, or will officials lean on recent volatility in volatility gauges and global data to justify a more cautious tone on future hikes?\nCoreWeave is in focus after expanding its AI cloud footprint with new computing capacity in Denmark and extending its Global AI Network into the Middle East and Asia Pacific. The firm is also in the spotlight as Anthropic's IPO filing draws attention to AI infrastructure providers and prior concern around CoreWeave's debt. Watch how customers respond to the larger network.\nVisa faces a proposed collective £5 billion lawsuit in the UK over alleged anti competitive card payment fees. Law firms have asked the UK Competition Appeal Tribunal to allow an opt out action covering roughly 1,000,000 UK businesses. The key issue for investors is whether the tribunal approves the claim, which would set the stage for a long legal process.\nMastercard is caught in the same UK legal push, with the complaint targeting multilateral interchange fees over a six year period. The filing mirrors the case against Visa and seeks compensation for a wide pool of merchants. Attention now turns to how the tribunal frames any potential class, since that could influence eventual financial exposure and settlement talks.\nComfort Systems USA (FIX) jumped 7.18% after strong Q3 results, a record backlog, and analyst commentary that highlighted solid demand visibility.\nCoherent (COHR) climbed 5.83% after StoneX initiated coverage with a Buy rating and highlighted indium phosphide capacity expansion.\nBloom Energy (BE) rose 5.49% following Q3 results that exceeded expectations, a higher 2026 revenue outlook, and a Barclays price target increase.\nNu Holdings (NU) fell 16.95% after Lula's surprise reelection in Brazil hit Brazilian financial stocks and the currency.\nMercadoLibre (MELI) declined 7.81% as Lula's win in Brazil pressured Brazil-exposed U.S.-listed Latin American ecommerce shares.\nDoorDash (DASH) dropped 6.10% after reports it is in advanced talks to acquire Instacart for about US$17 billion.\nFor US investors, the next stretch is defined by the Fed decision, a dense run of inflation and GDP releases, and a fresh wave of mega cap earnings led by Apple and Amazon.com.\nFed Interest Rate Decision Wed 28 Oct. The target rate previously sat at 4% and consensus also points to 4.0%. Any surprise move or sharper guidance on the path ahead could affect borrowing costs across mortgages, credit cards, and corporate debt.\nCore PCE Price Index MoM Thu 29 Oct. Core PCE for September carries a consensus of 0.3%. A result above that mark could increase pressure on Fed officials to keep policy tight and could weigh on higher duration growth stocks.\nGDP Growth Rate QoQ Adv Thu 29 Oct. Third quarter US GDP has a consensus of 3.2% after a previous 2.2%. A softer outcome could ease pressure on rates, while a stronger reading could reinforce the case for restrictive policy staying in place.\nPCE Price Index YoY Thu 29 Oct. Annual PCE inflation previously printed at 3.4% with forecasts at 3.6%. A figure below that range could support the disinflation narrative and interest rate sensitive sectors such as housing and utilities.\nApple Mon 2 Nov. The Q4 2026 earnings release puts the spotlight on services and iPhone revenue. Any shift in guidance around those segments may help investors reassess expectations for cash generation and buyback capacity.\nAmazon.com Thu 29 Oct. Q3 2026 results focus attention on retail margins and cloud profitability. The balance between online sales performance and AWS income may influence views on US ecommerce demand and big tech spending plans.\nEnergy and Oil and Gas have both gained over the past week, adding to strong 30 day and 1 year returns. Deals like EQT's plan to buy Range Resources and Ovintiv's Logan Energy purchase show large producers trying to scale around expected US gas demand and LNG exports.\nIf you own broad energy ETFs or US gas producers, the single data point to track is this Wednesday's EIA crude and product inventory report, because tighter US stockpiles can keep cash flows for the sector supported.\nReal Estate : REIT deals contrast with rate pressure\nReal Estate has firmed over the last 7 days and month while the 1 year number is close to flat. Private buyers are still active, with LXP Industrial Trust shareholders approving a sale and grocery anchored landlords like Brixmor and Phillips Edison expanding, even as higher borrowing costs hang over the group.\nIf you hold REITs, focus on Tuesday's US new home sales release, since slower sales would underline how current mortgage rates are affecting housing demand and developers' appetite to start new projects.\nTech & Semiconductors : AI buildout meets financing questions\nTech is slightly higher over the past week but softer over 30 days, while Semiconductors show a clear pullback on the month after strong year to date gains. Big AI infrastructure plans from Microsoft, Meta and others are generating orders for chipmakers and equipment suppliers, yet headlines about tighter funding for smaller AI data center operators are starting to matter for sentiment.\nFor portfolios with heavy chip or cloud exposure, Thursday's US Core PCE inflation reading is the key macro reference, since a firmer print can keep yields elevated and pressure sectors where investors rely most on long dated growth assumptions.\nHealthcare & Pharmaceuticals & Biotech : Trial wins keep demand steady\nHealthcare and Pharmaceuticals & Biotech have both risen over the past week and month on top of solid 1 year returns. Positive data on cancer and rare disease treatments from Merck, Pfizer, Mirum and others keep attention on new drug pipelines rather than day to day swings in discretionary spending.\nIf you use these sectors as a ballast in your portfolio, Thursday's US GDP and PCE inflation bundle is the main macro event, because a mix of steady growth and contained price pressures can support interest in earnings streams that feel less tied to the economic cycle.\nConsumer Discretionary : Pressure under the surface of retail\nConsumer Discretionary is down over the past week and year to date despite a slightly positive 30 day move. Earnings from Whirlpool and legal issues at retailers like Dollar General show how stretched budgets and price scrutiny can hit bigger ticket and lower income focused spending at the same time.\nIf you hold US retail or ecommerce stocks, Friday's US Employment Cost Index is worth watching, since slower wage growth would ease cost pressure for employers but could also temper how much consumers have to spend heading into the holiday season.\nIf steady interest in Healthcare and Pharmaceuticals & Biotech is your safety anchor, start by checking this list of 30 resilient stocks with low risk scores .\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com",
+      "published": "2026-10-27T12:09:12+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
       ]
     },
     {
@@ -1259,26 +1285,6 @@
       "score": 12.5,
       "is_hypothetical": true,
       "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Brazil's markets recover some ground after selloff; minister vows fiscal discipline - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXExT19UeVJNZFFadkVlQ3A1WXBnSnFqR1RfVEF4N3VqcmNUdUMtMF9SRS1DWUlFSEFDZnBJNzVMNUltbmVaQVg1NkJWWWJvTDdSVW1JZzhybGJiX0xGbklmSTZnUTFESmNoRXc1VGJELXRYNi1tc092eE4xYlA3QXF5VmRmdWNzdU9ROWs2dU1ZNjcycnR0LTNvNzZ4TzIwOTUyWC1BYnZVMTFDdC1wUFpRd0xPYVc2ODM3UHVR?oc=5",
-      "summary": "Brazil's markets recover some ground after selloff; minister vows fiscal discipline&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-27T15:16:54+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 12.4,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
