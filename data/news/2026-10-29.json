@@ -1,0 +1,1322 @@
+{
+  "generated_at": "2026-10-29T00:37:24.443888+00:00",
+  "window_hours": 24,
+  "count": 60,
+  "window_start": "2026-10-28T00:36:55.754796+00:00",
+  "window_end": "2026-10-29T00:41:55.754796+00:00",
+  "publication_time_rule": "published only; updated is never used; missing published is discarded",
+  "items": [
+    {
+      "title": "Turkey warns against further attacks by Russia, Ukraine on Black Sea vessels - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmI1bDFoNk1OMkN2bGpWazh3MmpIVHdTcnktNFFlT2FnQ1o2WXRhYkRqeVF3WGxTTHhNdFAwaFJ0d0dsaTdOaG0xazNmalBQLURoNW83VkptS2ZHUHR5MGQ3ODBHLUxKM3IwWXZBMERiOG1hVk1fRUlQdld5S0hneGZXS2hzckJsWEl4MXo1c1R1NnZ1WXhBZ2JyMFNfQTZvcnJIN295OWlJXzRSeWdVM3JLY0FWakNkTHBFSlJFYmhiVjlt?oc=5",
+      "summary": "Turkey warns against further attacks by Russia, Ukraine on Black Sea vessels&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T13:28:52+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iranians cut essentials and put dreams on hold as war-hit economy bites - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjd4SVdyN0hZcml3UmdlZW1qOW11WFNjUVJxTjhiNHF1N2tCanBqd1ctbzNtOFhOQURONzhNZFRyckdnVVloZ05VNFVaTm9EbFpUUm16MmFrNlFNSC16N1lMb1h4cUdCS29DalBFcEptZkpVLWVUbFhpQ2lwdkV1SS1RYU9ReDU1czFNNHB0dlFTM1BOWnhudzd1VUViVWg3WWViWnlaWnVlZm9uTDN0LXlEVF9VNDVUcnc?oc=5",
+      "summary": "Iranians cut essentials and put dreams on hold as war-hit economy bites&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T12:49:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "content": "",
+      "published": "2026-10-29T00:00:00+00:00",
+      "source": "Al Jazeera",
+      "sources": [
+        "Al Jazeera"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.6,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Caretaker role could limit Netanyahu but not rule out war with Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1JMOG03aUh5UHZjRGhLalZmOVhWc0F4YjFJY3hnN0pQcUlFdHlJN0xKZF9PWmNOT1JtN1czaGV6d3JqWUNzdEs2cWtQWnc1eU4xclJBT0haR3R2dmx3TEhSRWo2X3VIY1U1UjBpY29mZ0hnUkdqRjlZUGJFMGtsREpUajdFM1dHM09hSzVEM1JreDBubzVuMUQ3aDJDbHJ5QndDaHNFazNkcFFwSlpQTVMzN1hPR3di?oc=5",
+      "summary": "Caretaker role could limit Netanyahu but not rule out war with Iran&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T17:22:50+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics",
+        "GN Top"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.5,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Federal Reserve holds interest rates steady as midterm elections loom - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTkx4dXU0eXha?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTk",
+      "content": "Federal Reserve holds interest rates steady as midterm elections loom\nThe Fed raised interest rates a quarter of a percentage point last month.\nThe Federal Reserve held interest rates steady on Wednesday as the economy faces a monthslong surge of inflation ahead of the midterm elections.\nThe Fed&#x27;s benchmark interest rate currently stands between 3.75% and 4%. That level marks a significant drop from a recent peak attained in 2023, but rates stand well above a 0% level established at the outset of the COVID-19 pandemic.\nAn acceleration of price increases this year has posed a challenge for Fed officials tasked with containing inflation. The central bank raised interest rates a quarter of a percentage point last month in an effort to battle back price woes. The move marked the first rate increase in three years.\nThat rate hike should help cool off inflation by slowing the economy and eating away at demand, though such a policy move typically yields results after a lag time lasting several months.\nPrices increased 3.7% in September compared to a year earlier, putting the inflation rate more than a percentage point above the Fed&#x27;s target level of 2%, data showed.\nSpeaking at a press conference in Washington, D.C., on Wednesday, Fed Chair Kevin Warsh said policymakers had opted to leave rates unchanged as they await further economic data.\n\"The committee believes the accumulation of more information will help it determine the policy stance appropriate to ensure a timely return of inflation to the 2% goal,\" Warsh said.\nWarsh voiced optimism about U.S. economic performance, even as he acknowledged the challenge posed by elevated inflation.\n\"Economic activity is expanding at a strong pace. While uncertainty remains, owing in part to geopolitical developments, domestic spending has been resilient,\" Warsh said.\nControl of Congress is up for grabs on Election Day. What&#x27;s the math for Democrats and Republicans?\nPolicymakers may lose patience as they weigh whether the current level of interest rates is high enough to ease price hikes. The odds of a quarter-point rate hike at the Fed&#x27;s next meeting in December are pegged at nearly 80%, according to CME Group&#x27;s FedWatch Tool , a measure of market sentiment.\nIn the meantime, price increases are accelerating. Inflation rose to a four-month high in September as fuel prices climbed in response to unrest in the Middle East, according to the U.S. Bureau of Labor Statistics (BLS).\nThe rise of inflation may put pressure on the Fed to ratchet up interest rates in an escalation of its fight against price hikes. That policy would mean pressing the brakes harder on the economy -- risking sluggish growth and job cuts.\nUS Federal Reserve Chairman Kevin Warsh attends the IMF/World Bank 2026 Annual Meetings in Bangkok, Thailand, October 16, 2026.\nWarsh also announced plans for the Fed to issue just seven rate decisions in 2027 compared to eight this year.\n&#x27;Inexplicable&#x27; order probed as cause of train crash that killed at least 68: Official\nMatthew Perry’s sister describes how ‘Friends’ stars treated her\nFederal judge rules top US prosecutor in Los Angeles isn&#x27;t legally serving\nIn 2028, the Fed plans to reduce the number of rate decisions to six, Warsh said.\n\"Getting policy right involves assessing near-term developments at timely, regular and information-rich intervals. But it’s equally important we reserve time and space as an intellectually diverse group for strategic deliberations,\" he added.\nA weak jobs report this month complicated the economic picture, suggesting a resilient labor market may be wobbling more than previously thought.\nEmployers added 29,000 jobs in September, a sharp slowdown from the 162,000 jobs added in August, the BLS said. The job gains came in well below economists&#x27; expectations.\nEconomic conditions pose a quandary for the Fed, Bank of America Global Research said in a memo to clients last week.\n\"If the Fed hikes, investors might worry about overtightening. If the Fed holds, markets could question the Fed&#x27;s inflation-fighting credibility,\" the memo said.\nThe rate decision may also thrust the central bank into a political maelstrom in the final sprint to Election Day.\nPresident Donald Trump has repeatedly criticized the Fed for raising interest rates over across both terms in office, including a reprimand leveled at the Fed soon after its rate increase last month.\n\"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!\" Trump said in a social media post hours after the announcement.\nAbortion is on the ballot in Missouri again. Here&#x27;s what to know about Amendment 3\nThe Fed is an independent institution established by Congress. The central bank is typically insulated from political interference, but several past presidents have sought to influence the Fed’s interest rate policy, including Trump.\nThe rate decision may also draw attention to the challenge posed by inflation, a top issue among voters.\nIn a memo to clients before the rate announcement, Deutsche Bank Research said the upcoming midterms could factor into a potential decision to hold interest rates steady, though in their view the election would not be a \"primary consideration.\"\n\"We could imagine that all else equal the Fed might prefer to stay out of the headlines for raising rates just ahead of a midterm election where affordability is the principal concern,\" the memo said.\nSchool shooting plot foiled after FBI finds threats on social media, police say\nMatthew Perry’s sister describes how ‘Friends’ stars treated her\nFederal judge rules top US prosecutor in Los Angeles isn&#x27;t legally serving\n&#x27;Inexplicable&#x27; order probed as cause of train crash that killed at least 68: Official",
+      "published": "2026-10-28T21:09:41+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed",
+        "GN Top",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.5,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "US sanctions North Korean network accused of defrauding businesses - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5",
+      "summary": "US sanctions North Korean network accused of defrauding businesses&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T16:58:38+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.2,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "US sways more countries to oppose UN resolution condemning its Cuba embargo - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVRGVWZFcktIT3J0X1JWZTI5eTMyM3RXYzkzNGdLclhLcUthY08zNk04SFhuRU4yR0g1OTNyRVI2aVlFYVkxdmZaRTBFZ3BNcTFrT2ZxWWduQTV2ajhvWWpReV9mSWFnSnA5akttbFdNQ0VvUV9mNjVKZXBJc2hwUFJBaEhIRnFsMndEd1RfSXJoTGNyaHBLUDFxWEtuZHBoVHpfVjI4VTd4X3duV2NMZ1ZRQ0NReGhubXBaXzhLTQ?oc=5",
+      "summary": "US sways more countries to oppose UN resolution condemning its Cuba embargo&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T21:12:42+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "CNBC Top",
+        "Al Jazeera"
+      ],
+      "source_count": 4,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Brazil's Flavio Bolsonaro arrives in US after election defeat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFNc0szNTA2RXdkb1BURmJ2bnB2R1BIVkdpN0hEcXlBclpLel9TdVVmbzdFTjNJU291aHlnZlFUdkx5OHdVN3ZndXNmaEVtUmZGQU8tQ3J1RmhFQVZQLWNaTlNDdXUwd0R6US1mMDd3a0w4TVRJdWpic2RxaHFtSXItcFpHNzFiUUs3MXFVQWlZb21sN2x1eHQ1ZlY0bmFpS3NyYkxXb1FlSWZN?oc=5",
+      "summary": "Brazil's Flavio Bolsonaro arrives in US after election defeat&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T13:41:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 4,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+      "summary": "Federal Reserve keeps rates unchanged despite elevated inflation&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T21:54:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Fed"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Equinor Sees Tight Winter LNG Market as Hormuz Flows Remain Limited - Natural Gas Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3dXUF9RVW55RnJmNmZnTEszd0UybkNFV0UxSWpma0dUUXNHcEtMejlVTml1UkpGbDVJUlRXdEQwNUNqVW92LUFRWHBGUWNKa2JPVGFuU0k5MjcyMk0wNUNZd09oUjBfNVVObW94V0xHTWZlelFXMnpIT0R4LW5UMnM1WjRiNC13SVRzcUl4WjB3bmoxbFZHYWxWNjg2UXM1emJmblZkZTA?oc=5",
+      "summary": "Equinor Sees Tight Winter LNG Market as Hormuz Flows Remain Limited&nbsp;&nbsp;Natural Gas Intelligence",
+      "content": "",
+      "published": "2026-10-28T15:40:49+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 14.6,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Germany brigade in Lithuania to monitor Kaliningrad, Belarus with electronic warfare - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjdiUWRsR1FsbjJUVjZLbTlocVo3cjNRZnZtcDRZY0NUbU5WR0hjYzhwRENEV3N4ZlhGVDZzM0hyS09yc2ZTc0V6MlFydjl5UVZCdGRVZWNjcDAxYmZWZmlkZUUzcUpjX1VMaF82RmdhZ3plV1FvcTdlUmlTbGxWLVFUdnR2VG14MnRSOTdYSUtLM1JTa3ZHZ1FERkRlVXg5ci10SVJJQWpQTFRRY0RzbXVHVnF3bUI2dVZV?oc=5",
+      "summary": "Germany brigade in Lithuania to monitor Kaliningrad, Belarus with electronic warfare&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T16:10:04+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3haOWdlVTZzOVIzZk9zZE11UHhGeDBtOVJXeEo3c3NWeHRWd3F2SU5BOE4zcWRpeVFuVVUwYkl4eFJDbDVPNVVKaUhSREFwSENKWkF1NFloTlg2c1NrQkJhdzFJcW42dXV2UmgxUE44YWJvbkp5b3YwdEE3b1ROZy1sZ0d5YkFPeTFjTWwwZDZOVFQ5cEwyeTBIZURidDFEMzBwZVZPQlkzYmNlUEprQmVNbW8xcTlISWVvLV9GX0VZUQ?oc=5",
+      "summary": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T11:09:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Fed leaves interest rates unchanged despite inflation in the US - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkZ4MjgyNUxNMy1YdDNIZU9zVkg5YW4wZGFnWXlJaXpFN21CWmt1NUtwZ1NFem5WbmlabmZidHluTmhOdnhTSDN4VUhGZGpYb0ljcHpfOG90cXFWTWdWVkZ1VkVQY2VPWWU5OHA3TEpTa0V4ZXN3SUJTQU9zQ0x4c2xUcmt1U2ZNN1l2X3BqZ2pUZ2xyemVlU201ckZ2Q2RpQ1NsVUpXalRlSV9C0gGyAUFVX3lxTE5STllLXzlnRG9TMzhlUXZZUl91SEhzbnZ3ZTRzel9FcElGemJVWXFXc3g0S0x3VUthZmUtdW8zNnVfbkQxS1QwTnp1bjdxb2dYdHREUDE0WjJtVDVUUTB2N1V3ekNBcTNJZm1uWEpURlRQOTFsMGhWaVAzUFlEVzdSaW9BYmpXbjRpNmh3ckRCcTNOVVZWZDZzRUNQa3p4RWQzZ1dXYXV2ZlJpWXVFWlBoU2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkZ4MjgyNUxNMy1YdDNIZU9zVkg5YW4wZGFnWXlJaXpFN21CWmt1NUtwZ1NFem5WbmlabmZidHluTmhOdnhTSDN4VUhGZGpYb0ljcHpfOG90cXFWTWdWVkZ1VkVQY2VPWWU5OHA3TEpTa0V4ZXN3SUJTQU9zQ0x4c2xUcmt1U2ZNN1l2X3BqZ2pUZ2xyemVlU201ckZ2Q2RpQ1NsVUpXalRlSV9C0gGyAUFVX3lxTE5STllLXzlnRG9TMzhlUXZZUl91SEhzbnZ3ZTRzel9FcElGemJVWXFXc3g0S0x3VUthZmUtdW8zNnVfbkQxS1QwTnp1bjdxb2dYdHREUDE0WjJtVDVUUTB2N1V3ekNBcTNJZm1uWEpURlRQOTFsMGhWaVAzUFlEVzdSaW9BYmpXbjRpNmh3ckRCcTNOVVZWZDZzRUNQa3p4RW",
+      "content": "Share Fed leaves interest rates unchanged despite inflation in the US on social media\nThe decision by the US Federal Reserve, the central bank in the United States, comes less than a week before the country's midterm elections [File: Ken Cedeno/Reuters]\nThe United States Federal Reserve is set to hold interest rates steady in its final monetary policy decision before the US midterm elections.\nThe central bank will maintain rates at 3.75-4 percent, following a 10-2 vote, in line with expectations.\nlist of 4 items list 1 of 4 US inflation rises before midterm elections, fuelling rate hike fears\nlist 2 of 4 How Iran messaging highlights cost of war ahead of US midterm elections\nlist 3 of 4 US consumer sentiment hits a near-record low before midterm elections\nlist 4 of 4 Hackers target US campaign finance system days before midterm elections\nCME FedWatch, which tracks the likelihood of monetary policy decisions, indicated that there was more than a 90 percent chance rates would remain unchanged.\n“Economic activity is expanding at a strong pace,” the Fed said in its press release announcing the decision on Wednesday. “While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient. Productivity growth is strong, and capital investment is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed little.”\nIt also added, “The accumulation of more information will help the Committee determine the policy stance appropriate to ensure a timely return of inflation to the Committee’s 2 percent goal.”\nThe most recent Consumer Price Index (CPI) report showed the annual inflation rate increasing to 3.7 percent in September , up from 3.4 percent in August, with energy prices largely accounting for the monthly surge.\nThere were signs earlier this month that the central bank would maintain benchmark interest rates, with the Fed’s chair for supervision, Michelle Bowman, advocating a “wait and see” approach.\n“I don’t feel any urgency for taking further action at this point,” she said at this month’s International Monetary Fund-World Bank meetings in Bangkok, Thailand. “We really need to take some time and understand how things will evolve.”\nThe decision comes before Thursday’s release of the Personal Consumption Expenditures (PCE) Price Index report, which is used by the central bank to assess inflation and inform its decisions.\nToday’s Fed announcement follows an interest-rate hike rise last month, amid surging inflation – the first increase by the central bank since July 2023. The move drew criticism from US President Donald Trump, who has repeatedly pressed the Fed to cut rates since taking office. At the time, he wrote on Truth Social that “interest rates in the United States should be 1% or less.”\nThe Fed’s next monetary policy meeting is scheduled for December 8-9, when it will give its final rate decision of the year.\nCurrent forecasts point to a quarter-point interest rate increase.",
+      "published": "2026-10-28T19:19:10+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+      "summary": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T20:23:48+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Fed",
+        "GN Markets"
+      ],
+      "source_count": 3,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Microsoft Maia 300: Could Its New AI Chip Challenge NVIDIA? - Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckZiRE1hOWY5TzRnTjBQUTktVjJCODBwX0xBMlhCM2hWRjB0eDVkSlQtSmZESnE3VVRYTUlic1V3ZXQ4UzdoYzRZd1c0TmdVdHg3ZkFmVW51cmZJU0NYRk1KcmR0cTI0WkNSUHItbnA2Q3RrUU41R3dwNGFPYWE0YmxLY1RKSkRTVVhCTEF5M1E4ZGJyS29VbTlZbFplMnc?oc=5",
+      "summary": "Microsoft Maia 300: Could Its New AI Chip Challenge NVIDIA?&nbsp;&nbsp;Cloud Wars",
+      "content": "In today’s Cloud Wars Minute, I analyze Microsoft’s ambitious Maia 300 rollout and how owning its own AI chips could give the company greater control over its AI infrastructure, improve efficiency, and reduce its reliance on NVIDIA.\n00:10 — Microsoft has announced Maia 300 , the company's latest custom AI chip. It's also revealed plans to expand its Azure Maia systems to multi-gigawatt deployments starting in 2027, and with this rollout, Maia will become the primary AI inference system for Microsoft products and services.\n01:02 — Microsoft expects Maia 300 to deliver 40% more tokens per megawatt than leading GPU-based systems. In other words, Microsoft expects to deliver more AI output for the same amount of power. That's crucial as demand for AI services continues to skyrocket. Now, Microsoft also says that in a full configuration, Maia 300 systems are expected to deliver up to seven times the rack-scale token throughput of Maia 200.\n01:41 — Bear in mind that Maia 200 is already a very capable system, and Maia 300 really builds on those foundations — I'm going to quote Microsoft here: \"To enable more coding with GitHub, more flexible AI model deployment through Microsoft Foundry, and faster interactions with Copilot, Teams, and Dragon Copilot.\" Now, back to that incredibly important point I made at the start.\n02:05 — Maia is set to become the primary AI inference system for Microsoft products and services. Now, back in August, I talked about what this could mean for NVIDIA. My conclusion was that Microsoft's own chips could help level the playing field and give the company more options.\n02:33 — Could Microsoft chips potentially challenge NVIDIA in the market? I think that remains to be seen. Microsoft's announcement certainly seems to suggest that it will have more control over its AI infrastructure , but it doesn't necessarily mean that NVIDIA is being pushed out of the picture altogether. What is clear, though, is that Microsoft is moving towards a much more full-circle AI business with its own chips, cloud infrastructure, models, and applications.",
+      "published": "2026-10-28T11:30:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 14.0,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU41VEhZT0hhZFRRQXVmRWhKWml6Q3FSLVRxeXpRYU9xLW5xQ21MT080OTJvNEtmcmQ5ZW05Tl9XRG4zeVZ1VVhNLWphbXB3ODJpcTBaY0hXc2J4RHBtQm1wVFJHUTlBeC02YkJydmF2QUFTS0s4eFU5UVB1bkZhdmZpUlQ4NnJSZHFlTnpoVzVYVmZmbnJ3NkMtbHZfT2N6M1p1VXk1QUNsWjdWVmpUeU9VZ0dCWGs?oc=5",
+      "summary": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond&nbsp;&nbsp;24/7 Wall St.",
+      "content": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond\nOpenAI reportedly buying Google&#039;s custom AI chips would quietly shift leverage in one of the most lucrative vendor relationships in tech, and the fallout for NVIDIA&#039;s pricing power and Alphabet&#039;s chip ambitions is only beginning to take shape.\nThe symbolic act of connecting to an AI processing unit highlights the critical role of specialized chips in advancing artificial intelligence, mirroring the recent strategic shifts in the tech industry. &copy; 24/7 Wall St.\nOpenAI has spent more on NVIDIA ( NASDAQ:NVDA | NVDA Price Prediction ) graphics processors than almost any other company, and it now plans to buy Google's own AI chips, according to The Information. The report came out the night of October 27, 2026. It cites one person familiar with the matter and mentions Google's tensor processing units (TPUs), custom chips built for AI work.\nNeither company has confirmed the plan. Google did not immediately respond to a request for comment, and OpenAI declined to comment.\nAlphabet  ( NASDAQ:GOOG , NASDAQ:GOOGL ) closed at $320.58, up 1.19%, a gain of $3.78, and then added 0.93% after hours to reach $323.57. NVIDIA rose 0.9% to $217.94 and stayed nearly flat after hours at $218.14.\nNo terms, volumes, timing, or chip generation have been disclosed. Until one of the companies confirms it, this remains a reported plan, since nobody has shown a signed order.\nOpenAI has used TPUs before. It began renting Google's AI chips in June 2025, and the report adds that it now owns them. A year earlier, OpenAI said it had \"no specific plans to use TPUs at present.\"\nOpenAI has been moving in this direction for a while. It recently said it would offer its frontier models through Google Cloud. In June, it announced its first custom chip, and a current job listing asks for \"significant experience optimizing real workloads on TPUs for training or inference.\"\nA buyer this large wants a second supplier because it gains leverage on price, protection against supply shortages, and software that is not tied to a single vendor.\nAlphabet started selling TPUs directly to some customers this year, although its chief financial officer has said most of that revenue will be recognized in 2027. Google already rents TPUs to Anthropic, Apple ( NASDAQ:AAPL ) and Citadel Securities. An OpenAI purchase would show that TPUs can work as a chip business selling to outside buyers, on top of a cloud unit whose revenue grew 82% to $24.77 billion last quarter.\nFor NVIDIA, the first measure is scale: its data center unit brought in $89.02 billion in a single quarter. Its financial ties to OpenAI are also extensive. On August 17, 2026, NVIDIA agreed to provide up to $105 billion in credit support for an OpenAI data center in Ohio that starts at 4.25 gigawatts. NVIDIA CEO Jensen Huang reportedly said OpenAI committed to spend about $600 billion on NVIDIA servers through 2030.\nOpenAI still calls itself one of NVIDIA's biggest customers. On the same day as the report, its computing chief said, in a joint announcement with NVIDIA and Oracle ( NYSE:ORCL ), \"We are bringing Vera into production on OCI to support these workloads at scale.\"\nHuang has said he is \"very confident that they're going to be customers and partners of ours for a very long time.\" As the seller, he would naturally say that, but no evidence shows OpenAI cutting its orders.\nThe risk to NVIDIA is a slow loss of pricing power, because each credible alternative improves the buyer's position in negotiations. NVIDIA trades at a price-to-earnings ratio of 44, and that multiple assumes NVIDIA keeps its 71.1% gross margin. TPU software still lags behind NVIDIA's, so the purchase could be smaller or slower than the headline implies.\nAlphabet has fallen 5.79% over the past week and is up only 2.62% this year, while NVIDIA is up 17.13%.\nAt a P/E of 14 and a market value of $3.874 trillion, Alphabet costs far less than NVIDIA at $5.263 trillion. That gap suggests the market gives little premium to Alphabet's position as a credible second AI chip supplier.\nThe next test comes when Alphabet reports after the close on October 28, 2026. If management names outside TPU buyers or raises its 2027 TPU revenue outlook, the case gets stronger. If the call skips TPUs and the stock closes below $320.58, the market will have viewed this report as noise.\nContact [email&#160;protected] for any questions or corrections.\nOmor Ibne Ehsan is a writer at 24/7 Wall St. He is a self-taught investor with a focus on growth, cyclical, and dividend equities that have strong fundamentals, value, and long-term potential. He also has an interest in high-risk, high-reward investments such as penny stocks.",
+      "published": "2026-10-28T12:22:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 14.0,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "UK seeks to give households ‘breathing space’ this winter over Iran war energy price spike - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVA2cnhSTWpRMXB1Rm1BekEwRUtDMXFJMTJETGtGSUt2b1RvRlJnZ2dpbWdZV0VWSDBfV0FYY2dKUXNXQTJXeUNCYjRqZEU1cGs4aF9lenJYTGxyLUNyV2JrbENCY1E4Si02Um1odU1zOU9wd1I3TV9VdDlpdW5KRlY1TXdEWVZaSUhjRE1WWVBvdkRHUmltRnpiQ1V1R1pEY3FVZ0dKNA?oc=5",
+      "summary": "UK seeks to give households ‘breathing space’ this winter over Iran war energy price spike&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T17:48:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "WATCH: Warsh holds briefing after Fed leaves key interest rate unchanged - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzDSAboBQVVfeXFMTV9BakhETXRqMkhSSzY5V1hjVHZ2Y1VkVzFMX19ua1BLUTRGQWdLWTI3aEcwMkhROG5tSjlDMHRLbDAtczhuV2djeUl2VHVydUo2NGFxcVk3YmpkdDRNMndOYlRlVzA0X3Y0WWxLU3hTanFreDdqdXA4ZmJPWk1QWU1BbHdocmo4VmVwLXEtTU5GUFhsYkhUN1VmZXB4TnE2SmItLVMtang4Tmd2NDdwanpPVUVpczB5aFZn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzDSAboBQVVfeXFMTV9BakhETXRqMkhSSzY5V1hjVHZ2Y1VkVzFMX19ua1BLUTRGQWdLWTI3aEcwMkhROG5tSjlDMHRLbDAtczhuV2djeUl2VHVydUo2NGFxcVk3YmpkdDRNMndOYlRlVzA0X3Y0WWxLU3hTanFreDdqdXA4ZmJPWk1QWU1BbHdocmo4VmVwLXEtTU5GUFhsYkhUN1",
+      "content": "",
+      "published": "2026-10-28T14:14:27+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "content": "Figure caption, Watch: &#x27;Chaotic scenes&#x27; at site of Spain&#x27;s deadly train crash\nA high-speed train crash has killed at least 68 people and injured dozens more in central Spain.\nIt occurred when a train travelling from Madrid to Seville barrelled into another train - which was stationary on the tracks - on Wednesday morning. The force saw several carriages fall down an embankment.\nThe transport minister said a computer failure followed by human error caused the crash, which is one of the worst in Europe&#x27;s modern history, and Spain&#x27;s deadliest train disaster in 13 years.\nSurvivors described harrowing scenes of passengers being thrown into the air, trapped in the wreckage and smashing windows to get out.\nThe crash happened just after 09:00 (08:00 GMT) around 140km (87 miles) south of Madrid, between the municipalities of Mora and Orgaz.\nThe stationary train, run by private rail operator Iryo, had 147 passengers on board, and had stopped on the tracks because of a computer failure, Spain&#x27;s Transport Minister Ãscar Puente said.\nHe explained that when there is a system failure, a 24-hour control centre in Madrid takes over, but it had made an \"inexplicable\" decision to instruct the trains to move again, without any speed restrictions.\nIryo said its train was \"struck from behind\" by another train, run by Spain&#x27;s state-owned railway company, Renfe, which was carrying 397 passengers.\nThe force of the crash was \"brutal\", said 62-year-old passenger Salvador Arriza who was sitting in the Renfe-operated train.\nPassengers started breaking the windows to get out, he told Reuters, adding that \"some people couldn&#x27;t move because they were trapped amongst the seats.\"\nOne of the carriages caught fire, and passengers described devastating scenes of trapped people crying and bleeding, with some buried under debris.\nPictures show that a long piece of railway track had speared through one of the carriages.\nImage caption, The force of the crash saw several carriage fall down an embankment\nTangui Binier, 22, was on the Iryo train and told the BBC that \"suitcases started flying and people were screaming\" when the train finally came to a halt.\nThere was a lot of smoke and confusion, he said, and described seeing the train \"completely flipped over\" when he stepped outside.\n\"It was hard to witness\", Binier said, adding that his father carried a girl who had a broken hip out of the wreckage.\nHe also described seeing dead bodies and missing limbs: \"I don&#x27;t know if I&#x27;ll ever recover.\"\nImage caption, Some passengers said the piece of train track that speared through a carriage may have slowed the train down\nSpanish journalist Antonio JimÃ©nez Barca, who works for El Pais newspaper, was walking to the Renfe train&#x27;s cafeteria when the crash happened.\n\"I felt like I was being pushed from behind, like I was being thrown to the ground,\" he described.\n\"I hit my head horribly... I was covered in blood. There were people on top of me. One person had an injured arm, and another had a head injury.\"\nAnother passenger, 46-year-old SebastiÃ¡n Herrero, told El Mundo newspaper that he saw \"many people with broken noses, broken arms.\"\n\"It was a terrible, terrible impact,\" he said, adding that he was \"in the air for about four or five seconds,\" which felt like a lifetime.\nMany of the passengers said they were in shock, and one sobbed during an interview with a local television station as he described a woman dying in his arms.\n\"She was very cold and she was all alone,\" he said, to which the show&#x27;s presenter also started to cry.\nDozens of ambulances rushed to the scene, and a helicopter evacuated those with the most serious injuries.\nSpain&#x27;s Civil Guard said it would need DNA samples from relatives to identify some victims.\n\"The whole of Spain is grieving\", Prime Minister Pedro SÃ¡nchez said during a visit to the crash site. \"Lives have been shattered, families have been torn apart, the pain is immense.\"\nSpain was already reeling from a high-speed rail disaster near CÃ³rdoba in January that killed 46 people. It happened on the same rail line, but much further south.\nWednesday&#x27;s crash is the worst the country has seen since 2013, when when 80 people died on the outskirts of Santiago de Compostela in north-west Spain.\n\"Spain has the right to know what is happening with its infrastructure,\" said Alberto NÃºÃ±ez FeijÃ³o, leader of the the main opposition People&#x27;s Party.\nSpanish trade union CSIF has demanded the transport minister resign, accusing him of \"scapegoating\" a traffic manager, by blaming human error in the control room, instead of \"taking responsibility\".\nSÃ¡nchez and other Spanish politicians cancelled all public engagements on Wednesday, including campaigning for next month&#x27;s parliamentary elections.\nThe prime minister said it was \"unacceptable\" for Spain to have two serious train crashes in one year, and vowed to \"get to the bottom of this\" and determine if there was any negligence.\n\"If there have been failures in the security system, they will be addressed with the utmost firmness.\"\nBloodied, dazed and angry - how passengers&#x27; rail journey turned to disaster in Spain",
+      "published": "2026-10-28T21:38:54+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "CNBC Top"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
+      "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T03:18:27+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "U.S. imposes new North Korea sanctions amid stalled diplomatic talks - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUp3MTYtWkhjR0NvVndNRlFvQmNMdG9Sczc0TF9uUnh1NEJ4aWRiaHBLUDZ3SkNWbDAtR1pGSVprN0hsbUFCdXJyQ0g1WWlmNVI0QnZVMlBmZWNkVnpwbG52UWJBQkZBX0p2MXBoNWpQTG80bWRzYklCcWhGWFdPdHdMSXFnMElOY21CSnUxRjRMTUpRQzYzaHRzdEFhVTZ0YlQ0U3JDZTdnT09rQnlzSG9QbFE4MmFvRUE?oc=5",
+      "summary": "U.S. imposes new North Korea sanctions amid stalled diplomatic talks&nbsp;&nbsp;NBC News",
+      "content": "North Korean flags in Pyongyang. Kim Won Jin / AFP via Getty\nThe United States issued new North Korea-related sanctions on Wednesday, targeting 10 individuals and one entity, according ⁠to a notice posted to the Treasury Department’s website.\nThe Treasury Department said the schemes involve North Korean IT workers fraudulently gaining employment with companies in the United States and elsewhere, and Pyongyang taking most of the workers’ wages to fund its weapons of mass ⁠destruction and ballistic missile programs.\n“These networks permeate ​through ⁠the global financial system, necessitating a unified response to match the threat,” the department said in a statement, adding that ⁠Australia and the European Union also imposed North Korea-related sanctions this month.\nNorth ​Korea’s ⁠mission to the United Nations ‌in New York did not immediately respond to a request for comment.\nThe sanctions come ‌as President Donald Trump has been eager to jump-start talks with North Korea, but ‌Pyongyang has shown little interest in ‌diplomacy aimed at containing its nuclear program. However, earlier this month Trump downplayed the idea of another high-profile ⁠meeting with Kim in China next month.\nTrump became the only U.S. president to have met a North Korean leader when he held an unprecedented series of summits with Kim in 2018 and 2019, but the diplomatic efforts ‌broke down over U.S. demands that North ​Korea give up its nuclear weapons.\nFOR SUBSCRIBERS How California prison reforms helped free a serial rapist called ‘America’s creepiest heir’\nFOR SUBSCRIBERS Trump’s final campaign swing is taking on a darker tone\nFOR SUBSCRIBERS Mel Robbins has midterms advice for you\nFOR SUBSCRIBERS Florida cop charged with possessing dead man’s house had history of misconduct\nFOR SUBSCRIBERS DHS hack exposes 40,000 employee names and undercover ICE agents, activists say\nFOR SUBSCRIBERS Rising diesel prices hit school districts hard ahead of the midterm elections\nFOR SUBSCRIBERS ‘There goes Texas’: The swing county that could determine the state’s next senator\nFOR SUBSCRIBERS They were deported to Costa Rica, but that won’t stop them from trying to come back to the U.S.\nFOR SUBSCRIBERS Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again\nFOR SUBSCRIBERS Democratic? Republican? Most new young voters register as neither\nFOR SUBSCRIBERS David Crowley rushes to shore up support with Black voters in Wisconsin governor’s race\nFOR SUBSCRIBERS DOJ’s ‘shocking’ flurry of pre-election activity breaks precedent, former officials say\nFOR SUBSCRIBERS Electronic machines aren’t flipping votes, despite online claims, election officials say\nFOR SUBSCRIBERS Democratic candidates emphasize their support for gun rights in tight midterm races\nFOR SUBSCRIBERS Macklemore’s Free Palestine Tour gets massive welcome in Dublin, where pro-Palestinian support runs deep\nTrump ‌has since referred ⁠to North Korea repeatedly as a “nuclear ⁠power,” although his administration has continued to call for the ‌country’s denuclearization ​and has not formally recognized ‌it as a ​nuclear-weapons state.\nFOR SUBSCRIBERS How California prison reforms helped free a serial rapist called ‘America’s creepiest heir’\nFOR SUBSCRIBERS Trump’s final campaign swing is taking on a darker tone\nFOR SUBSCRIBERS Mel Robbins has midterms advice for you\nFOR SUBSCRIBERS Florida cop charged with possessing dead man’s house had history of misconduct\nFOR SUBSCRIBERS DHS hack exposes 40,000 employee names and undercover ICE agents, activists say\nFOR SUBSCRIBERS Rising diesel prices hit school districts hard ahead of the midterm elections\nFOR SUBSCRIBERS ‘There goes Texas’: The swing county that could determine the state’s next senator\nFOR SUBSCRIBERS They were deported to Costa Rica, but that won’t stop them from trying to come back to the U.S.\nFOR SUBSCRIBERS Israel’s election has no clear winner — but Benjamin Netanyahu looks far from defeated again\nFOR SUBSCRIBERS Democratic? Republican? Most new young voters register as neither\nFOR SUBSCRIBERS David Crowley rushes to shore up support with Black voters in Wisconsin governor’s race\nFOR SUBSCRIBERS DOJ’s ‘shocking’ flurry of pre-election activity breaks precedent, former officials say\nFOR SUBSCRIBERS Electronic machines aren’t flipping votes, despite online claims, election officials say\nFOR SUBSCRIBERS Democratic candidates emphasize their support for gun rights in tight midterm races\nFOR SUBSCRIBERS Macklemore’s Free Palestine Tour gets massive welcome in Dublin, where pro-Palestinian support runs deep\nWednesday’s ‌sanctions targets include facilitators and North ⁠Korean IT workers based in North Korea and Russia, the Treasury ⁠Department said. The targeted entity is named the First Financial and Technical Development Center, ‌and six of ​the sanctioned individuals are linked to ‌that firm.\nThe Treasury Department sanctioned a ​separate North Korean IT worker network in March.\nElections Artificial intelligence Pop Culture Science Health See your feed ›",
+      "published": "2026-10-28T16:23:29+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "China Is Building Its Way Around Europe’s EV Tariffs - Foreign Policy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjRONGxRUmF1UHlpdzlacU1FcEZ1b1dIUmNWR29MRDI3Q2RkMmRpVzlaaEkxNnVFMmZlY0JDSllJZW5vdWhsM2c3T1F3U0ZfeGliU05rOFJZdkx0N3pYdVhtcU52aXJrY0lIeEFXVm5XbG85ZTFCc2Z2NThZRm9NQWF0ajJqOGlEN09MN2NRZjdWNnZ3YzVGd1NYYk9rdUlkeFBNbE9hcVJmZVE?oc=5",
+      "summary": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administrati",
+      "content": "China Is Building Its Way Around Europe’s EV Tariffs\nBeijing’s evolving industrial playbook is taking shape in Morocco.\nBy Aaron Glasserman , a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis, and Jessie Jiexi Lin , a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nWorkers in dark uniforms and blue baseball caps inspect the metal frames of silver, unpainted electric vehicles along a brightly lit assembly line on a factory floor. The line of cars extends backward to the far wall, with similar small groups of workers bustling around each one.\nWorkers check vehicle frames on the production line for electric vehicle maker Zeekr at its factory in Ningbo, China, on May 29, 2025. Kevin Frayer/Getty Images\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nIn recent years, Europe’s auto industry has reeled from the influx of low-cost, high-quality Chinese electric vehicles (EVs). Even as Brussels imposes tariffs on Chinese-made EVs, their market share only continues to grow. As of December, more than 9 percent of all new automobiles sold in Europe were made in China, with some estimates expecting Chinese EVs to account for roughly 20 percent of the Western European market by 2028.\nBrussels’s retaliatory tariffs reflect a common Western view that high-value Chinese products are competitive in global markets largely because of state subsidies . To be sure, China’s EV industry has benefited immensely from Beijing’s subsidies, easy credit, and tax relief. That explanation, however, is far too narrow and risks severely underestimating the scale of the challenge ahead.\nThe more consequential story—that will likely make Chinese EVs even more competitive in the near future—is Beijing’s evolving approach to overseas industrial policy. At the core of this approach is an increasingly coordinated model of public- and private-sector activity.\nState-owned enterprises (SOE) lay the groundwork for favorable investment environments abroad by undertaking massive infrastructure projects and securing access to strategic resources. Boosted by Beijing’s diplomatic ties and international clout, private companies leverage these state-backed platforms as a springboard for trade by bringing in investment, production capacity, and industry-specific expertise.\nThe advantages of this approach for Beijing—and the challenge that it poses to foreign companies—are already on full display in Morocco, where years of existing strategic investment, infrastructure development, and geopolitical maneuvering are pushing China closer to vertically integrating EV supply chains, bypassing tariffs, and further reshaping Europe’s auto industry.\nIt is only in recent years that Morocco has emerged as a key node in China’s EV empire.\nFor decades, Beijing maintained much closer ties with Morocco’s neighbor and rival, Algeria, but that began to change in the early 2010s as the Belt and Road Initiative (BRI) took off. In 2016, Morocco joined the growing ranks of countries signing “strategic partnerships” with China, making mutual commitments to expand economic cooperation and recognize each other’s core interests.\nThe next year, Morocco officially entered the BRI, and China has since poured millions of dollars into Morocco’s energy and transportation sectors . Almost a decade later, that economic relationship has expanded dramatically: In March, China’s committed investment in the country exceeded $10 billion , concentrated mostly in the EV and energy sectors.\nChina’s EV manufacturing capacity in Morocco builds on years of large-scale, state-backed investment in transportation infrastructure and natural resources. Over the past decade, Chinese SOEs have collaborated on major infrastructure and development projects in Morocco, including bridges , highways , and smart cities . Some of these are directly relevant to the EV industry, such as the chemical processing unit in Khouribga, home to one of the world’s biggest reserves of phosphate, which is critical for EV battery production .\nThis SOE-led scramble for resources and construction-heavy projects paved the way for private Chinese companies in the EV sector to establish footholds in Morocco and ship to overseas markets. Tanger Tech City, China’s SOE-led flagship collaboration with Morocco, is located less than 30 miles from Tanger Med, the largest container port in Africa. Taking advantage of no-fee business registration and tax-free dividends, private Chinese companies—including the global battery giant BTR New Material Group as well as tire manufacturers Sentury Tire and Guizhou Tyre—have established or announced plans to establish production bases in the industrial zone.\nElsewhere in the country, major private investments include battery manufacturer Gotion’s $1.3 billion factory and a $2 billion joint-venture battery materials factory between China’s CNGR Advanced Material and the Moroccan private equity firm Al Mada.\nThis isn’t to deny the role of subsidies and preferential financing, which Beijing sees as key tools for supporting companies that are expanding internationally. A 2024 directive , for instance, called on Chinese financial institutions to improve credit approval and lending procedures and to enhance cross-border settlement to “better support companies expanding into international markets.” Closer collaboration among Chinese banks, semi-official trade organizations, and Moroccan banks has also helped to streamline financing and channel investment into the African market.\nBut these policies are useful to Chinese firms because they are operating in an industrial landscape that SOEs have already shaped, with relatively easy access to necessary resources and infrastructure.\nChina’s success with this approach has only been possible because it also advances Rabat’s desire to expand domestic manufacturing capability and position Morocco as Africa’s next industrial powerhouse. Chinese investment is expected to generate sorely needed jobs; Morocco’s unemployment rate has hardly dipped below 10 percent for the past decade, and youth unemployment in cities stands at a staggering 47 percent. Officials claim that the Gotion factory alone will create 17,000 local jobs, including 2,300 high-skilled positions.\nBeijing has coupled this economic engagement with a subtle diplomatic shift in favor of Rabat’s claims over Western Sahara . For decades, China has avoided explicitly backing either Morocco or Western Sahara, though its rhetoric often leaned toward the latter—and thus to the latter’s main sponsor, Algiers . With one exception in 2018, it consistently voted in favor of United Nations Security Council resolutions extending the peacekeeping mission in Western Sahara and affirming support for the Sahrawi people’s right to self-determination.\nHowever, in recent years, China has done an about-face. In 2024, its Ministry of Foreign Affairs implicitly acknowledged the importance of the Western Sahara question for Rabat, stating , “China supports Morocco in maintaining national security and stability and is ready to work with Morocco to continue firmly supporting each other on issues concerning their respective core interests.” Then, last fall, Beijing abstained on the most recent U.N. resolution on the matter, which for the first time endorsed Rabat’s proposal to formally establish Western Sahara as an autonomous region under Moroccan sovereignty.\nThe full payoff of China’s Moroccan gambit will materialize if and when localized EV manufacturing matures, which could take years. That is still a tall order, as evidenced by the recent shelving of a BYD assembly plant project that had been stalled since 2017 due to budget issues and limited local charging infrastructure, according to a company executive.\nThough Chinese automakers are not yet building assembly plants in Morocco, the country matters for everything “upstream” of assembly. It is becoming an integrated ecosystem for the production of batteries, tires, and other components, which reduces Chinese EV companies’ reliance on direct shipments from China and lowers costs for Chinese assembly plants in Europe and Africa.\nMorocco also offers Chinese firms convenient access to the European market through the Tanger Med port and—more importantly—a rules-based pathway through Brussels’s tightening trade defenses . Currently, the EU imposes duties of up to 35 percent on EVs manufactured in China. However, vehicles that qualify as Moroccan in origin can enter the European market duty-free. That includes vehicles assembled in Morocco, so long as foreign parts make up less than 45 percent of the finished vehicle’s ex-works price.\nIn short, if Chinese EV companies succeed in establishing vehicle assembly factories and fully integrating supply chains in Morocco, they will be able to sell vehicles to Europe under a “Made in Morocco” label, avoiding both the 10 percent EU standard automobile tariff and the additional punitive tariff on Chinese-made EVs—reducing the total tariff effect from as much as 45 percent to zero. This would pose an unprecedented threat to what remains one of the EU’s most important industries .\nChina is rolling out this coordinated approach to overseas industrial policy elsewhere to varying degrees.\nIn Thailand, for example, China is a key investor in the Eastern Economic Corridor, a flagship regional development initiative anchored by a high-speed railway that will connect several Thai cities and seaports to China. The corridor has, in turn, provided an attractive environment for private Chinese investment. China is now the corridor’s largest source of foreign direct investment, primarily in the EV sector and related industries. Like Tanger Tech City, the corridor offers private Chinese companies major tax incentives and more convenient access to the Association of Southeast Asian Nations’ market.\nThe United Arab Emirates offers another example. In 2017, Chinese SOE Jiangsu Provincial Overseas Cooperation and Investment Company Limited (JOCIC) partnered with Abu Dhabi Ports to develop an industrial and special economic zone inside the Khalifa Port’s free trade zone. JOCIC set up a wholly owned UAE subsidiary to manage the park, which lets it attract Chinese private capital while insulating the parent company from project-level and geopolitical risk. The park’s location provides Chinese companies with a convenient base for expansion into the Persian Gulf and wider Middle Eastern markets, along with exemptions from value-added tax and other financial incentives . As of 2025, more than 40 Chinese companies had collectively committed more than $700 million to the park, with a focus on EVs and renewable energy.\nBeijing has long seen its SOEs as tools for advancing its broader economic interests. As China in recent years has emphasized “small and beautiful” projects , the SOE-led megaprojects are often viewed as commercially disappointing holdovers from an earlier and more profligate era of BRI. Nevertheless, under this coordinated strategy, Beijing has been able to capitalize on the advantages secured by past infrastructure projects and deepen its presence in the overseas market.\nAs governments in industrialized economies respond to China’s surge of high-value manufactured exports, they must recognize how the sources of Chinese firms’ advantages are changing. Today, those advantages come not just from subsidies and cheap credit at home but also from integrated ecosystems abroad, built through coordination between public and private enterprise.\nThis means that Brussels’s retaliatory tariffs and the recently announced limits on hybrid EVs imported from China, on their own, are unlikely to stem the tide of EVs made by Chinese firms operating around the world. China’s rivals—even in industrialized economies—will struggle to compete unless they can coordinate across borders and build supply chains and infrastructure that leverage or, far less plausibly, completely sidestep what China has already put in place.\nAaron Glasserman is a distinguished fellow at the Weatherhead East Asian Institute at Columbia University and a fellow on foreign policy at the Asia Society Policy Institute’s Center for China Analysis.\nJessie Jiexi Lin is a student pursuing a master’s in public administration at Columbia University’s School of International and Public Affairs.\nCommenting is a benefit of a Foreign Policy subscription.\nJoin the conversation on this and other recent Foreign Policy articles when you subscribe now.\nPlease follow our comment guidelines , stay on topic, and be civil, courteous, and respectful of others’ beliefs.\nI agree to abide by FP’s comment guidelines . (Required)\nThe default username below has been generated using the first name and last initial on your FP subscriber account. Usernames may be updated at any time and must not contain inappropriate or offensive language.\nI agree to abide by FP’s comment guidelines . (Required)\nA person in a white jacket, hard hat, and glasses standing in a dark cave or mine tunnel, pointing up at a rocky ceiling illuminated by a flashlight.\nThe Radioactive Ore That Could Break China’s Grip on Rare Earths\nWestern powers are scrambling for monazite ore—but can they handle it?\nTwo long tables face each other in an ornately decorated room, with officials and aides tightly packed side-by-side as they sit. Chinese officials sit at the left table, and EU officials sit at the right. The Chinese and EU flags hang from poles at the back of the room.\nEurope Is Finally Getting Tough on China. Now Comes the Hard Part.\nFrance and Germany are increasingly willing to flex market share for geopolitical leverage. But they still need reforms to maintain it.\nA worker wearing a bright orange hard hat and dark uniform walks along a narrow catwalk atop a large, flat-topped industrial storage tank.\nAs wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.\n5 Foreign-Policy Priorities for Democrats After the Midterms\nTrump&#039;s Middle East Dealmaking Is Working Against Itself\nEquip your organization with powerful global intelligence.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nA Taiwanese crowd protests while waving flags of the Republic of China.\nU.S. Undersecretary of Defense for Policy Elbridge Colby, left, and NATO Secretary-General Mark Rutte, right, stand during a press conference at NATO headquarters. Rutte is looking over at Colby, whose fingers are pressed together in a steeple gesture in front of him. Both men are wearing dark suits and ties, standing in front of a blue backdrop and U.S. and NATO flags. A camera rig and a red light are partially visible in the foreground, slightly obscuring the center of the frame.\nXi (left) and Trump (right) are shown up close, with Xi looking at Trump.\nPutin and Xi are both seen in profile as Putin walks to the right and away from Xi, just a few feet of space between them. Xi, meanwhile, is also faced away from Putin, standing and looking down at his feet or the red carpet beneath them. Both men wear dark suits.\nA man wearing a dark suit jacket, light blue button-down shirt, and patterned red tie sits on a dark gray couch against a textured dark blue wall. He is looking off to the side with a mild smile, next to a teal pillow.\nAn illustration in red and blue tones depicting five silhouetted figures running forward through a dark corridor flanked by large, textured Russian lettering on the walls and floor. Light radiates from the far end of the tunnel behind them\n6 Russian Words for a Country Sliding Into Authoritarianism\nA statue of a seated, bearded man with a bare torso and draped cloth around his waist, holding a scroll in one hand, positioned in front of a row of large classical columns.\nNegotiators from the United States, Canada, and five European countries converse after finishing the draft of the North Atlantic Treaty in Washington on March 18, 1949.\nTrans-Atlanticism Isn’t Dead—It’s Being Renegotiated\nAn aerial photo shows Doha in the booming petrostate of Qatar.\nFor What AI Could Do to Democracies, Look to the Petrostates\nA large outdoor billboard displayed on a building features portraits of two men flanking text in Hebrew on a dark blue background. In the foreground on the right, an inverted triangular red-and-white yield traffic sign stands partially blurred.\nNetanyahu’s opponents are ahead but will struggle to form a coalition.\nA worker seals A ballot box at the headquarters of the Israeli Central Elections Committee near the central town of Shoham on October 14.\nIn Israel, Election Day Is Just the Beginning of the Story\nA group of people scatter and run across a dry, grassy field amid haze and smoke. In the background, uniformed personnel in tactical gear stand in a line, while a white and red ambulance with Arabic writing and \"101 AMBULANCE\" on the side is parked nearby on a hillside under a hazy sky.\nA man is seen in profile as he walks past a massive mural depicting the face of Netanyahu, which is about as tall as the man. The man wears a dark brimmed hat and black suit and has his beard and hair in the style worn by Haredi men.\nDramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted\nTrump’s Middle East Dealmaking Is Working Against Itself",
+      "published": "2026-10-28T10:40:23+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+      "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+      "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the country. But Wednesday’s deadly crash – the second in nine months – has recast the spotlight on questions about safety.Officials said",
+      "content": "Rescue workers at the site of Wednesday’s rail disaster in Spain’s Toledo province. A high-speed service hit another train halted by a signalling fault. Photograph: Burak Akbulut/Anadolu/Getty Images\nRescue workers at the site of Wednesday’s rail disaster in Spain’s Toledo province. A high-speed service hit another train halted by a signalling fault. Photograph: Burak Akbulut/Anadolu/Getty Images\nSecond fatal train collision this year casts doubt over Spain’s high-speed rail network\nQuestions were raised before Toledo crash over rail safety in a country where train travel has surged by 40%\nSpain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the country. But Wednesday’s deadly crash – the second in nine months – has recast the spotlight on questions about safety.\nOfficials said at least 68 people were killed on Wednesday morning after a high-speed train slammed into another that had stopped on the tracks, leading to the derailment of several carriages. The two trains were believed to be carrying 544 passengers.\nSpeaking to reporters, Spain’s transport minister, Óscar Puente, traced the collision back to a security system that had stopped working at about 8.30am local time. The computer malfunction brought an estimated six trains to a halt along a 63km stretch of track.\nSoon after, the central command in Madrid instructed one of the trains involved in the crash to resume service at normal speeds, sending it colliding into a train that was still sitting stationary on the tracks, said Puente. “It was the control centre – via its operators – that made the decision to resume operations, under circumstances that, from our point of view, are inexplicable,” he added .\nState-owned rail operator Renfe said in a statement that its train had been instructed to continue on its way and had crashed into ​the stationary Iryo train “for reasons we don’t know”.\nThe accident follows a crash in January that killed 46 people and left dozens more injured near the town of Adamuz in Andalucía.\nA Guardia Civil officer collects evidence at the site of January’s fatal rail crash near Adamuz in Andalucía. Photograph: Manu Fernández/AP Media on Wednesday were swift to point to the parallels between the two crashes: both involved the same train operators and took place on the line connecting Madrid to the southern region of Andalusia, which is the oldest on Spain’s high-speed network.\nThe first crash sparked conversation over safety on the line, a debate that rail unions say has continued.\nWednesday’s disaster came a day before a planned 24-hour work stoppage at Renfe by Spain’s largest train drivers union. “Our goal is to change the system and make it safer,” the union said earlier this month.\nTheir reasons for taking action ranged from the need for climate emergency protocols to ensuring channels of communication for workers to convey concerns. The union also called for guarantees that trains would be “reliable and safe”, adding: “We demand real and definitive technical solutions to the safety and reliability issues that have long plagued our rolling stock.”\nmap It has also called a rolling, six-day strike for drivers at the high-speed rail operator Ouigo.\nThe January crash sparked a bout of political finger-pointing over whether Pedro Sánchez’s Socialist party government had spent enough on railway maintenance in a country where travel by train accounts for about 57% of all transport.\nWhile the causes of the January crash remain under investigation, a preliminary report suggested that it could have been the result of defects in the track or in a weld between two sections of track. The report noted, however, that several other possibilities were also being investigated.\nTrain travel grew by 40% from 2019 to 2024, coinciding with a period in which the country opened up its rail network to private companies. In the first half of this year, 25 million passengers used a high-speed train in Spain.\nThe government says it has increased spending on railway network maintenance by 54% since taking power in 2018.\nThe aftermath of the 2013 crash near Santiago de Compostela that claimed 80 lives. Photograph: Reuters Spain spends more than any other country on its high-speed network, averaging about €1.5bn (£1.26bn) a year from 2018 to 2022, according to a Reuters analysis of EU data. More than 90% of Spain’s train network is equipped with the highest level of safety control systems in the EU.\nMuch of the funding, however, has seemingly been directed at new infrastructure, with about 16% earmarked for maintenance, renewal and upgrades.\nData from the European Commission suggests Spain’s maintenance investment in its 4,000km (2,500 miles) of high-speed lines has lagged behind countries such as Germany or Switzerland although some of this could be attributed to differences in the age of the rail lines and the cost of public works and materials.\nUntil this year, Spain had among the lowest accident rates in the EU, with just one or fewer fatalities per thousand kilometres of track, according to data from Eurostat, the statistics arm of the EU.\nOn Wednesday, Spain’s prime minister said measures would be taken to rebuild trust in the country’s high-speed rail system. “Because it is simply unacceptable for a country like Spain to suffer two high-speed rail accidents in the same year, as we have,” said Sánchez.\nThe crash was Spain’s worst rail accident since 2013, when 80 people died after a train veered off a curved section of track outside the north-western city of Santiago de Compostela.\nDeath toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened\nSpain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash\nOn the ground footage shows scene of fatal rail crash in Spain – video\nAerial footage shows aftermath of deadly Spain train collision – video",
+      "published": "2026-10-28T16:56:46+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Israel's election gives survivor Netanyahu a path to keep power - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUowdTlPaUFzb0tCdUQ3UzdYalJsS2ZEYWNvMUVtUzdKams0b051VWNIcXNPdG5wYlFzaWZIZVJfcVFTb192M3ozWk1kcW8wY1NNd1FSMzAzQ2FGTm9Mb0tfU21BenhMSXg5bFYxcXZqRlkzdHdESlZYVFlnLW82eUNZeER2SFU5ZXNzdExzLWxBYmtRTDRiMVFQQk1BYjB5dUdGQUEwb0pWYlA3VWluaA?oc=5",
+      "summary": "Israel's election gives survivor Netanyahu a path to keep power&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T17:55:59+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "AP World",
+        "BBC World"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Canada, European Union officials drop 'associate member' from joint summit declaration - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkp4Nmp2NmJtYm90dmZfX0FUQTczcUZQNzVsa2pva1BMRjhocG50X2ktZVBjMTJUbTNJNEc5cTlYZUhLaWV3NXdJWUR6RFowR0pPR3FTdzZwSHcwT1k0bVhLa2dMSm11T3JVbEw4TXFNQkFOMEwtaHNPMnl1RDJCS19WaFpBMUxZVTlqUWhCc293YjFfY1dDU2ZfLXBqNmlRVk0wYkladjR4Ty16LXo5R2tsb21BSkltUzF1eQ?oc=5",
+      "summary": "Canada, European Union officials drop 'associate member' from joint summit declaration&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T19:27:18+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Norway's premier says call with Putin was effort to present European views - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV?oc=5",
+      "summary": "Norway's premier says call with Putin was effort to present European views&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T10:46:09+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+      "summary": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-29T00:00:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Top"
+      ],
+      "source_count": 2,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "Fed's Warsh announces changes in how future FOMC meetings will go - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
+      "summary": "Fed's Warsh announces changes in how future FOMC meetings will go&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T23:32:40+00:00",
+      "source": "Reuters Markets",
+      "sources": [
+        "Reuters Markets"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "content": "Image caption, While earnings are rising, forecasters predict that is not compensating for higher prices and taxes\nJohn Healey talked of charting a new course for Britain, but this Budget was more about course-correcting than charging down a new path.\nIt was abundantly clear that the financial fallout from that conflict in the Middle East has hampered the finances of households and businesses â and the government&#x27;s ability to help.\nWhile the government targeted those impacted by higher energy and fuel bills, the \"breathing space\" it aimed to provide was limited; it is a pill that doesn&#x27;t fully alleviate the pain.\nThe most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.\nEven after the extra help is taken into account, households&#x27; incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.\nBut it can&#x27;t be all be blamed on the war. Taxes haven&#x27;t helped. Although there were few major measures aimed at households, the policy of previous chancellors of freezing the thresholds at which different rates of tax on income apply - fiscal drag - has been maintained in the background, scooping more money out of pay packets.\nOverall, this Budget has the tax burden - the proportion of the nation&#x27;s income going to the tax office - rising to a new historic high of 38.6%\nHowever, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by Â£14bn in the past year alone.\nThe Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.\nAs it stands, debt interest repayments are due to be Â£160bn in 2032, more than double the amount spent on schools in England.\nAnd the plans Healey has unveiled already eat into wiggle room he has within the public finances. He says he was right to do so - that&#x27;s what such safety margins are there for - in times of strife. But the great uncertainty that remains made going further very risky. Energy prices remaining high, for example, could easily chew up all the spare cash.\nSo the result was what some have termed a beige, safe Budget. As Healey strove to prove his fiscally sound credentials, there wasn&#x27;t even the customary rabbit pulled out of the hat, the end-of-speech sweetener.\nThe markets seem reassured â even if some of his tax raising plans involve clamping down on loopholes and those not paying the right tax, which is always highly uncertain.\nYour pay, energy bills and savings: How the Budget affects you\nSo the chancellor appears to have bought himself some breathing space. But that means some big questions have been postponed until another day, not least on public services.\nHigher-than-expected inflation may mean that if areas such as health and defence are prioritised, budgets for some other \"unprotected\" areas â justice and higher education for example â are set to lag behind inflation after 2028.\nThere was a hint too from John Healey that he&#x27;d tap into some of those budgets to help out defence spending. To maintain those budgets in 2030 would means finding tens of billions of pounds.\nAnd issues around the other big area of spending â welfare â remain unresolved. Between 2025 and 2032, spending there is set to increase by Â£100bn.\nThe official forecasters also noted the rapid rise in sickness and disability caseloads since the start of the pandemic. They warn if that trend continued, spending on such benefits would rise by a further Â£13bn.\nAny suggestion of welfare reform has been postponed until the forthcoming review into the plight of workless young people.\nThen there&#x27;s the issue of boosting growth. There was a bit more detail on the plans for devolution â but there is much to be fleshed out.\nAnd on another key part of the growth strategy, housebuilding, there was disappointing news. Even though first-time buyers are set to get more help, their first home may be more elusive.\nBetween regulation and higher costs â in part, related to the war - the OBR estimates that 190,000 fewer homes will be built by 2032 compared to what it thought in March, a significant setback.\nSo the chancellor may have unveiled 98 (relatively small) measures but the to-do list gets longer.\nWith his official forecasters warning that, in a very uncertain world, his finances face exceptional risks, playing a wait-and-see game feels like a prudent move.\nThe risks go both ways: the OBR points out that a swift resolution to the war and an improvement in the economy could spell a significant boost to the public finances.\nSo the chancellor has more reason than most to keep his fingers crossed that happens rapidly.\nFor as it stands, the official forecasters say incomes after inflation, living standards, are set to be only 1% higher at the end of the decade than at the start.\nA series of economic shocks outside out control could thwart plans to turbo-boost prosperity . And as today shows, breathing space only extends so far.",
+      "published": "2026-10-28T19:51:01+00:00",
+      "source": "BBC Business",
+      "sources": [
+        "BBC Business"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran Says New Proposal to Reopen Strait of Hormuz Under Review - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSC1pSzZHd09XVHZkY1MzNkpiREo4VkdnRWREV2tQSTZJNDJueGFiUXNWSGs5RVZmSUVJejB4SjFNYnl5SzgwamtpcUxyNExybEFhN1YtRi1EYnhQbHhtcXM0WW8yUkV2RTRHRHNBampiQkZSeUJhc0VKU2JacmlqMEZvQUpzQ1VRTWJjaldKZmJPeWJPZmRQUkpqd0FrRnpoNHZqV1laS2J3TFdMOVdmQS0wLXQwaC02ZVRETVg0cVA5TnVMMFZ2WVpYdnJhQlNVQm1feHM0MmNET3dDaGxwbzZuRXo0dDgxUHRvSGEzUXZjYXNLSllrVm1VUQ?oc=5",
+      "summary": "Iran Says New Proposal to Reopen Strait of Hormuz Under Review&nbsp;&nbsp;<font color",
+      "content": "Iran's foreign minister said Tuesday that Tehran is in talks with mediators over a seven-day peace plan, as reports emerge that the United States was preparing for a possible strike after the midterm elections.\nIsrael Election Live Updates Election Results Election Scenarios Netanyahu Eisenkot Iran Palestinians Classiq HaQuiz Haaretz Podcast",
+      "published": "2026-10-28T19:01:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Kremlin says European countries not included in next Ukraine talks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVprbDd0YjBUUGE3bUFkaWkzVVJfSXZJSFBVTjBpemVDWG1jRFg1emRBMXdubmo3SFZPazE1aUVBaFZPRUdnalJlanp0S2VEQnV3WjVIVnpEOUdhN1hIbTBxVS15XzVNbmZmeFI4Mk1kS1ZONWNjR0xrOE5nVnpjOVNhbHhnY3dFemNiRGsyVUNaREtRT3RiSENPdlo4aEdqb0ZJeGVyX3o3bTN50gGyAUFVX3lxTE1hbkozcEJsRXB5RzNEdW5LOVMzaHBJbERDY25xT09UZzNGR1hBLTk4RWU3Sm40LVAydDlEeWFCSGdEZlJRQk5DYUw1TTFuVmNTS1NQNTFsR2JzbWJpa2puaTN3VXoyMDlYVnFhVVZIOTY3Z010Z0dVX0VBcEdwM2M4THc5WVZvdVpCb0ZfSmVYZ0VpWDcxaWxHNWFmNFdWcWcxOUJuX3B1Vjg2c204RTRWQkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVprbDd0YjBUUGE3bUFkaWkzVVJfSXZJSFBVTjBpemVDWG1jRFg1emRBMXdubmo3SFZPazE1aUVBaFZPRUdnalJlanp0S2VEQnV3WjVIVnpEOUdhN1hIbTBxVS15XzVNbmZmeFI4Mk1kS1ZONWNjR0xrOE5nVnpjOVNhbHhnY3dFemNiRGsyVUNaREtRT3RiSENPdlo4aEdqb0ZJeGVyX3o3bTN50gGyAUFVX3lxTE1hbkozcEJsRXB5RzNEdW5LOVMzaHBJbERDY25xT09UZzNGR1hBLTk4RWU3Sm40LVAydDlEeWFCSGdEZlJRQk5DYUw1TTFuVmNTS1NQNTFsR2JzbWJpa2puaTN3VXoyMDlYVnFhVVZIOTY3Z010Z0dVX0VBcEdwM2M4THc5WVZvdVpCb0ZfSmVYZ0VpWDcxaWxHNWFmNFdWcW",
+      "content": "Share Kremlin says European countries not included in next Ukraine talks on social media\nUkrainian President Volodymyr Zelenskyy and Dutch Prime Minister Rob Jetten shake hands at a news conference in The Hague, Netherlands, on October 28, 2026 [Stephanie Lecocq/Reuters]\nBy Al Jazeera Staff , Reuters and The Associated Press\nEuropean countries will not be included in the next round of talks with Ukraine and the United States planned to take place in Abu Dhabi, according to a top foreign policy aide at the Kremlin.\nInterfax news agency quoted Yuri Ushakov, who said the possible participation of European countries was not discussed during a  90-minute phone call on Tuesday among Russian President Vladimir Putin, Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Store.\nlist of 4 items list 1 of 4 Romania says Russia-run sabotage network set fire near weapons factory\nlist 2 of 4 Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect\nlist 3 of 4 Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?\nlist 4 of 4 Norway and Finland hold rare phone call with Putin: What that means\nBut Stubb offered a different account, telling a meeting of the Nordic Council in Helsinki that European countries would be involved in November’s Abu Dhabi talks.\nSpeaking at a news conference in the Netherlands on Wednesday, Ukrainian President Volodymyr Zelenskyy said trilateral talks with Russia and the US would take place from November 6 to November 10 in the United Arab Emirates.\nZelenskyy said Kyiv wanted Europe to also be involved in the talks, adding that unity and stronger pressure on Russia were needed.\nHis comments came after he met with Dutch Prime Minister Rob Jetten, who pledged an extra 500 million euros ($556m) for military support to Ukraine this winter to buy drones and other material to strengthen Ukraine’s defences. Zelenskyy is also due to meet Dutch King Willem-Alexander on Wednesday.\nEarlier in the day before Zelenskyy’s visit, the Dutch government announced a new support package for Ukraine worth 1.2 billion euros ($1.33bn) over the next three years and a contribution of 40 million euros ($44.5m) by the end of this year to the Ukraine Energy Support Fund.\n“Support for recovery and reconstruction can’t wait for a ceasefire. Ukraine needs our help right now – military support but also social and economic assistance,” Sjoerd Sjoerdsma, the Dutch minister for foreign trade and development cooperation, said during a visit to Kyiv on Wednesday.\n“However successful you are on the battlefield, it’s also essential that energy systems, hospitals and food production keep ticking over,” he added.\nIn a separate development, Zelenskyy thanked British Prime Minister Andy Burnham for a newly announced additional support package worth 10 billion pounds ($13.3bn) after a Wednesday morning phone call.\n“A truly strong and very timely step – coming right as Russia needs to see and feel that Ukraine will not be left alone to deal with the problems Russia is so eager to escalate,” Zelenskyy wrote on social media.\nAccording to Downing Street , the new British aid package for Ukraine includes 500 million pounds ($665m) in additional military support from the Ministry of Defence “to plug urgent gaps in Ukraine’s air defences this winter”.",
+      "published": "2026-10-28T16:31:20+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Google's AI chip business is getting harder for Nvidia to ignore - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ?oc=5",
+      "summary": "Google's AI chip business is getting harder for Nvidia to ignore&nbsp;&nbsp;Business Insider",
+      "content": "",
+      "published": "2026-10-28T17:28:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Houthis strike Yemen's Aden airport after evacuation warning - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
+      "summary": "Houthis strike Yemen's Aden airport after evacuation warning&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T16:51:33+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.2,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "At least 68 people dead in Spain's second major train crash this year - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+      "summary": "At least 68 people dead in Spain's second major train crash this year&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-28T19:35:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "South Korea fines Google and Apple over unfair app market practices - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMndnaEFOR0U3d1ZnRlpLR2VOWlhPanhKSmZPNXNqUzRmRC11dGF6WmV0VVpWUHNncGRtRGUyZHhRWVkzcVBvbTgyRENrUzFpM1dUT201MmdqQVl5NjNIYnR6TldmZjBPNmtMVHFLMXlBaXpXUFVGenpieGd5RUpGeXFUZnRhTWtJNmtHMHF6d3hNLUV6WWpR?oc=5",
+      "summary": "South Korea fines Google and Apple over unfair app market practices&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T14:34:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTNpQXVCYkdWTzZ2Q0VQYVVKb1BSV0hRZWttLXhtNUhDY0JoNGJrZlJnUmJZSUt2NmQwU3JqUEJ0bnJxRk9Qdi1iSkx3dENILXZrWFlzTER3OEpxbWdaMklxbmp4QUlZSmJFTUVrSktYV2twbkQzVFFWV25WbGUtZnZiYnZxSjNpaVhzYkprbDdhTFVHcXdvNHl0WUw2cHMzSUVINkkwUTl1Zw?oc=5",
+      "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T10:16:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN AI"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmlKRnl5MFFiYXJEelpyX0pZaDNyVWlyZXZqUjN1STZNMDNiVmFLdmhWNlVHQ3hwdlkzdFdncnBMNVdPU0hZSWVwdkhkOVVZYTF3QUVjT1M3VHNZdm9aNkR5ZW4yVWJZWjY4VlAyZUVGdEV2a0JjemNSanhJZGd1U3ptTXllNUFGc0JpN212bDFRSElNNUI2ZzZLZmxHTkhZNnZyeXlCdmxXbVJIcTluSw?oc=5",
+      "summary": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T14:05:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "The Latest: As votes are counted, no clear winner emerges in Israel’s election - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNng4MnVNRnlIRFlsX19qMzVkeU5oSG1wWnlzcGQwUDVxQ1JBLXlyZWgwTUtiMGx0S25QaXp0R3poTFJmZ2hMR1k2cmk3U3RHU19BSWt5dTYtTUxlZm9ONzhMU3lLbWF3RWNDMFFwNXNnVTdFaDhtbURrYkRnbkJuRU9vR0c1QkkwbWdYOEdYNll5Si1yVGhoVDgxZEE0azluRi15ZWdZQ1BENDZGOG5mQWtjYXQ?oc=5",
+      "summary": "The Latest: As votes are counted, no clear winner emerges in Israel’s election&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T17:06:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "content": "Millions of households will get Â£100 to help with soaring energy bills to be paid for by a tax on bank profits, John Healey has announced in his first Budget.\nThe chancellor said he wanted to give hard-pressed families \"breathing space now\" and \"hope for the future\" as the UK economy is battered by \"global economic storms\".\nHe also unveiled tax breaks to boost high street businesses - but confirmed that many big decisions, including on defence spending and welfare, will not be made until next year.\nConservative leader Kemi Badenoch said Healey&#x27;s plans were \"not bold enough\" and the government was \"overspent, overborrowed, overtaxed and drowning in an out-of-control welfare system\".\nIn an hour-long speech to a packed House of Commons, with Prime Minister Andy Burnham and other frontbench colleagues cheering him on, the chancellor unveiled a string of measures aimed at cutting the cost of living.\nOne-off Â£100 energy payment for people living in council tax bands A to D in England, with Wales saying it will match the payment and the Scottish government planning to \"replicate\" it\nGas standing charges in England, Scotland and Wales, to be scrapped during 2027 \"or as soon as possible after\". These fixed daily fees will be shifted onto the price of each unit of energy, meaning heavy gas users will face higher bills\nExtending the 5p \"temporary\" cut in fuel duty on petrol and diesel to July\nIncreasing minimum wage rates by 3.9% in April, although there will be no progress on narrowing the gap between rates for older and younger workers\nHealey increased the tax on the profits of big banks from 3% to 6%, which will last from January next year to April 2028, and increased taxes on high-stakes gambling machines.\nHealey announces Â£100 energy bill help for millions and raises taxes on banks and some savers\nYour pay, energy bills and savings: How the Budget affects you\nChris Mason: Budget felt cautious despite its range of small measures\nAs part of a package to help business, Healey increased the point at which High Street shops in England start paying business rates from Â£12,000 to Â£18,000, with vape shops and adult gaming centres excluded from the relief.\nBut he had little scope for big giveaways as the public finances remain stretched, with the UK set to spend Â£14bn more on debt interest payments this year.\nIncome tax thresholds will remain frozen and the tax on income from savings and property rental will rise to 24% for basic rate taxpayers from April 2027, after it had been scheduled to go up to 22%.\nBut a cut to the cash ISA allowance from Â£20,000 a year to Â£12,000, announced last year by Healey&#x27;s predecessor Rachel Reeves, will be axed.\nThe Office for Budget Responsibility (OBR) downgraded its growth forecast for next year to 1%, with slightly higher increases predicted for subsequent years.\nIn its latest assessment, the OBR said British households were set to be little better off than before the Covid pandemic even a decade after Covid-19 hit, a situation the watchdog&#x27;s boss David Miles described as \"pretty grim\".\nIn his Budget speech, Healey repeatedly stressed that the UK economy was being battered by \"global uncertainties\" and soaring oil prices caused by conflict in the Middle East.\n\"Those are the storms we face. We can&#x27;t wish them away. We must choose the course we steer through them,\" he told MPs.\nFigure caption, Watch: What are the key points from the Budget and how will it be funded?\nHealey also used his speech to announce plans to allow regional mayors to keep 20% of business rates and a share of income tax to spend on local priorities.\nThe aim was to allow mayors to retain 100% of business rates raised in their areas by the end of the decade, he added, in \"the most radical act of devolution in a generation\".\nAnd he sought to address opposition claims the Labour government is unwilling to cut benefits, insisting that both he and Burnham were committed to bringing down the welfare bill in a \"Labour way\".\nBut he said no decisions would be taken until reviews by Alan Milburn , into young people not in work or training, and Stephen Timms, on Personal Independence Payments , had been published, with legislation to follow next year.\nThe Â£4.7bn black hole in the defence investment plan will be funded, the chancellor revealed, in part through taking money from capital budgets across Whitehall.\nHealey said he will set out how the government plans to meet its commitment to spend 3% of the national income on defence by 2030, and 3.5% by 2035, at next year&#x27;s spending review.\nBut Badenoch said he \"should have set out a plan for 3% today,\" highlighting his claim when he resigned as Sir Keir Starmer&#x27;s defence secretary in June that UK forces were at risk due to a lack of cash.\n\"So now he is the man who is increasing risk to personnel on operations, he is the man who is making our country less safe, he has failed his own test,\" the Conservative leader said.\n\"This is on him and no-one will ever forget. If he had any decency he would resign again today.\"\nThe Tory leader said that with the UK heading for a record tax burden and \"spending more on debt interest than on the army and schools combined\", Healey&#x27;s Budget was \"not good enough, not strong enough, not bold enough\".\nHelen Miller, director of the Institute for Fiscal Studies, said the Budget \"has a raft of fiddly measures but very little that will move the dial on growth\".\nLib Dem leader Sir Ed Davey said that until the government has \"the courage\" to fix the UK&#x27;s trading relationship with the EU any Budget will just be \"tinkering around the edges\" and will not provide the growth the country needs.\nReform UK leader Nigel Farage said the Budget was full of \"little giveaways\" but \"doesn&#x27;t overall do very much\" and did not offer \"anything of any value on defence whatsoever\".\nHealey also faced criticism from the left, with the general secretary of the Unite union, Sharon Graham describing the cost of living measures in the Budget as \"baby steps\".\n\"Scrapping standing charges on gas and a Â£100 energy payment for households in council tax bands, A to D, whilst welcome, will not touch the sides, when many forecasts show bills set to jump over Â£400 in January,\" she added.\nGreen Party leader Zack Polanski said it was a Budget \"that betrays the future for young people and the planet they inherit\".\nHe added: \"The chancellor didn&#x27;t mention climate once but praised bankers repeatedly.\"\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.",
+      "published": "2026-10-28T18:45:09+00:00",
+      "source": "BBC Business",
+      "sources": [
+        "BBC Business",
+        "GN Energy"
+      ],
+      "source_count": 2,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "U.S. Natural Gas Production Hits New Records as Demand Surges - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tUZ3ZoWWxqQnRzSVhxMmt1QWI5WjVyVXJ6Qi13Wm1yYnZpUDJvVnZkVVhobUJwV2szdEtvTVk0RjJPVjRhdGNqLXlSdWptRG5SS1J2WTBzQy1pQjlERTlYZXN5cGZHVC1uSThRTDRRemlrMzBXMUJEX0hJeFFiakhNd3Y5dUkyRDgwMHplcEhVU0ZZQXIzUUswQWsxQVIwa0ZlVEk5UdIBrAFBVV95cUxNeE5BZXhJMTZqdUNFUl9vNFk3UVg2Y2dLaXg1VXlFYktVN05idDJNZ1RZMTJSZ1BULS1wWkQ5cDBFNlpOMUJfYmFUN19OZWpkY2V6bFQ1YjAyX0JDNGVEeUhsS2lmUHNuSlNlUF9PdS1pWkphbi1LS1FWVTlNbDVrSzRmV2tPeG9HcXV4TkljYktnMVdkUERjWWItWWNQdU5vRFdYYkd3VjRmdUtI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tUZ3ZoWWxqQnRzSVhxMmt1QWI5WjVyVXJ6Qi13Wm1yYnZpUDJvVnZkVVhobUJwV2szdEtvTVk0RjJPVjRhdGNqLXlSdWptRG5SS1J2WTBzQy1pQjlERTlYZXN5cGZHVC1uSThRTDRRemlrMzBXMUJEX0hJeFFiakhNd3Y5dUkyRDgwMHplcEhVU0ZZQXIzUUswQWsxQVIwa0ZlVEk5UdIBrAFBVV95cUxNeE5BZXhJMTZqdUNFUl9vNFk3UVg2Y2dLaXg1VXlFYktVN05idDJNZ1RZMTJSZ1BULS1wWkQ5cDBFNlpOMUJfYmFUN19OZWpkY2V6bFQ1YjAyX0JDNGVEeUhsS2lmUHNuSlNlUF9PdS1pWkphbi1LS1FWVTlNbDVrSzRmV2tPeG9HcXV4TkljYktnMVdkUERjWWItWWNQdU5vRFdYYk",
+      "content": "U.S. Natural Gas Production Hits New Records as Demand Surges | OilPrice.com\nHow Trump’s Russian Diesel Could End Up in Cuba Instead\nGE Vernova Expands in High-Voltage Grid Gear With Trench Deal\nUBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels\nEquinor Raises Oil and Gas Output Forecast as Operating Profit Doubles\nChina’s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease\nQatarEnergy Extends LNG Force Majeure to End of 2026\nBahri Profit Hits $1.36 Billion as the World Scrambles for Tankers\nIndia's Gasoline Demand Could Peak by 2035 as EVs Gain Ground\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nOil Traders Brace for Iran Escalation After U.S. Elections\nSanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nDiesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion\nIndia Rejects Claims of U.S. Pressure Over Russian Oil Purchases\nTrump Moves to Ease Methane Regulations for U.S. Oil Producers\nIEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains\nIndia’s Oil Buyers Squeezed by $123 Crude and Weak Rupee\nOil Prices Drop Despite Threat of New U.S. Strikes on Iran\nEgypt Votes to Defend Saudi Arabia, Risking Houthi Fire\nEQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover\nRussian Refiners Ramp Up Diesel Output to Supply Trump Deal\nIndia’s BPCL to Cut Russian Oil Imports Due to Higher Prices\nIEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027\nSaudi Oil Output Jumps 12.2% to 8 Million Bpd in September\nHouthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline\nU.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz\nEurope's Natural Gas Prices Soar to Four-Year High as Winter Looms\nIndia's Stock Market Feels the Heat From High Oil Prices\nOil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount\nU.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions\nHow Trump’s Russian Diesel Could End Up in Cuba Instead\nChina’s $3 Billion Qatar LNG Deal Raises an Awkward Question\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nU.S. Natural Gas Production Hits New Records as Demand Surges\nU.S. natural gas production is set to hit consecutive records, reaching 112.2 Bcf/d in 2026 and a projected 116.1 Bcf/d in 2027.\nSoaring LNG exports and AI data center demand are driving production growth, particularly in the Permian and Haynesville basins.\nProducers are consolidating to capitalize on rising demand, highlighted by EQT's acquisition of Range Resources, while stronger output could push Henry Hub prices lower in 2027.\nU.S. natural gas production is on track to close a second consecutive year with record-high natural gas output as producers respond to demand signs both at home and overseas.\nSoaring demand for powering data centers in the United States and rising liquefied natural gas exports amid expanding liquefaction capacity, as well as surging global demand for spot LNG cargoes in the absence of Qatar’s gas due to the Iran war, are pushing American natural gas production higher this year.\nOutput is on track to beat in 2026 the record set in 2025 as more associated gas is being produced in the Permian basin along with oil, and operators boost gas output in the Haynesville basin, which is close to LNG export terminals and major domestic industrial gas users, the U.S. Energy Information Administration (EIA) says .\nRising production will more than offset higher LNG exports, resulting in an average Henry Hub spot price for natural gas of $3.16 per million British thermal units (MMBtu) in 2027, down by 9% compared to 2026, the EIA’s latest Short-Term Energy Outlook (STEO) showed earlier this month.\nFor this year, U.S. dry natural gas production is set to jump to 112.2 billion cubic feet per day (bcfd) from 107.64 bcfd last year. In 2027, U.S. natural gas production is forecast to further grow to 116.13 bcfd to another record high, the EIA’s latest monthly estimates showed . Related: UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels\nU.S. LNG exports averaged 17.4 billion cubic feet per day (Bcf/d) in the first six months of the year, 23% higher compared to the same period in 2025, as export capacity jumped and boosted shipments to the fastest pace since exports began a decade ago.\nIn the domestic market, data centers have turned to additional gas-fired power generation to support the booming AI market.\nAmid rising gas demand, both in the U.S. and overseas, American gas producers are raising production and entering in strategic transactions to scale and expand.\nJust this week, EQT Corporation and Range Resources announced a definitive merger agreement, under which EQT will buy Range in an all-stock transaction that will create America’s leading natural gas company with a pro-forma enterprise value over $50 billion.\n“North American gas markets have shifted from producer-push to demand-pull, and this deal puts EQT firmly at the heart of that transition,” said Lydia Walker, Senior Research Analyst on Wood Mackenzie’s Lower 48 upstream team.\n“Range cements EQT's position as the supplier of choice for Appalachian power generation and data centre growth, adding the scale, inventory and liquids diversification needed to serve that demand for decades to come,” Walker added.\nA day later, EQT raised its 2026 production guidance by about 90 Bcfe, due to better-than-expected benefits from compression investments improving both existing and new wells and shallowing decline rates, while it reduced its full-year capital spending guidance by $25 million.\nThanks to “strong performance to date”, EQT also raised its full-year 2026 total sales volume guidance to 2,375 – 2,450 Bcfe.\nMeanwhile, Range Resources raised its third-quarter natural gas production by 11% from a year earlier, and year-to-date output by 5% compared to January-September 2025.\n“We have considerable momentum across our business and will be exiting 2026 in the strongest position in Range’s history,” CEO Dennis Degner said.\n“With EQT, we will have improved market access, best-in-class inventory, enhanced cash flow generation, and fortified resiliency to drive profitable growth and shareholder value creation through commodity cycles.”\nExpand Energy, currently the largest U.S. natural gas producer before the EQT-Range deal is completed early next year, said this week in the Q3 earnings release that it is positioning itself for a “historic wave of structural domestic demand growth” underway.\n“A new era of demand-pull replaces historical supply-push dynamics across the U.S.,” Expand Energy said.\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nU.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal\nIran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nPeace Talks Won’t Save Oil Buyers From $100-Plus Oil\nOil Refineries Become Prime Targets as Global Fuel Shortage Worsens\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\n$120 Oil Is Almost Here, and Trump Has Few Good Options\nOil Prices Rise Despite Middle East Export Recovery\nTrump Targets $6.2 Billion Offshore Wind Project Nearing Completion\nRecord Tanker Rates Cripple U.S. Crude Oil Flows to Asia\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "published": "2026-10-28T22:00:00+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
+      "summary": "Treasury yields tick higher after Fed interest rate decision\nTraders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., August 4, 2026.\nBond yields moved higher on Wednesday as investors digested the Federal Reserve&#x27;s decision to hold interest rates steady at its October meeting.\nThe 10-year Treasury note yield — the main benchmark for mortgages, auto loans and cr",
+      "content": "Treasury yields tick higher after Fed interest rate decision\nTraders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., August 4, 2026.\nBond yields moved higher on Wednesday as investors digested the Federal Reserve&#x27;s decision to hold interest rates steady at its October meeting.\nThe 10-year Treasury note yield — the main benchmark for mortgages, auto loans and credit card debt — was more than 3 basis points higher at 5.026%.\nThe yield on the 2-year Treasury note, which more closely follows short-term Federal Reserve rate decisions, slipped more than 3 basis points to 4.704%.\nThe yield on longer-dated 30-year U.S. Treasury — which tend to move on geopolitical events — was also up by more than 4 basis points to 5.354%.\nOne basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.\nFed Chairman Kevin Warsh said the bank remained focused on \"price stability\" despite the pause and that the employment picture has been \"quite positive.\"\nDespite the hold for October, expectations for a 25 basis points hike at the central bank&#x27;s next meeting on Dec. 9 currently stand at 85.7%, according to CME&#x27;s FedWatch tool.\nMore economic data is due Thursday. Personal consumption expenditures index — the Fed&#x27;s preferred inflation gauge — as well as the quarterly GDP growth rate and personal income and spending data will offer investors additional insights into the domestic economy and inflation picture.\nThat data will be critical to determining where the Fed may go from here, according to TruStage chief economist Steve Rick.\n\"Holding rates steady doesn&#x27;t necessarily mean the Fed is finished raising them, especially if inflation doesn&#x27;t start to cool,\" he said. \"Policymakers will want to see whether these price pressures are temporary or becoming more widespread throughout the economy.\"\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-28T09:22:26+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed",
+        "CNBC Top"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Trump says he’s ending restrictions on climate-warming methane from oil drilling - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFNKN0ZYWlpwbTl6aV91dkRrYVpUZktMVzIta0hXb21GR1k0SURSb3lOZVFkTmhPR2Z4VUJXZm9WaC1rLWwtLXN0OVhYR3NobFhmTzhTSEVmRzkxWDdRSlVNVkNQTVpNSUduQXBDdC1pV1VzcGUxaXNtalJoYXFJVjUyQnFKUGV0QmJYQmVPbG15bVBOZXZF?oc=5",
+      "summary": "Trump says he’s ending restrictions on climate-warming methane from oil drilling&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T01:15:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Energy"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ?oc=5",
+      "summary": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war&nbsp;&nbsp;The Washington Post",
+      "content": "",
+      "published": "2026-10-29T00:10:08+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK brings forward defense spending target, pledging billions to Ukraine - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHTEZkVzBiTnVQTDU5bzVWUE1hN0NrMGJmUV9JelNkRGdZSWMxbGN6cVMtRGU0M19NcGhuS0MxRnFyYnVSR2hwbjVUY2JEa2V0T2E0a0tRN2xYQ1IwbWZlTUk4QWg3bUNMSERZV1RiWXhMdmlxdnpz0gF8QVVfeXFMTzRZVUZWWE9wSjJrN1AtU3h6Z3p3dWRBQzlLQWNvc2dwOHREaVpiWWNYZF94WkRWSS1XaGFpMTNGUVBmQnFObkxDc3RZMllWaTI0UkptTG1jcTM3WEpZX0FYa09TM2xyWmQ3M05aV3RRWGFjUERoQ1hZQ3BsNQ?oc=5",
+      "summary": "UK brings forward defense spending target, pledging billions to Ukraine&nbsp;&nbsp;<font colo",
+      "content": "UK vows defense spending will hit 3% of GDP by 2030\nThe U.K. set 2030 as the target for defense spending to reach 3% of GDP, while reaffirming it would meet the NATO commitment of 3.5% by 2035.\nFinance minister John Healey announced an additional £10 billion in economic and military support for Ukraine, as well as urgent winter military funding.\nHealey also outlined up to £5 billion for defense and dual-use investment and a £2.5 billion Rolls-Royce turbine technology partnership.\nBritain&#x27;s Chancellor of the Exchequer John Healey holds the red Budget box outside 11 Downing Street ahead of the announcement of the Autumn Budget in the House of Commons in London, United Kingdom on October 28, 2026.\nWiktor Szymanowicz | Future Publishing | Getty Images\nThe U.K. has set out a target date for defense spending to rise to 3% of GDP, as the finance minister announced billions in aid for Ukraine in a \"clear message to Moscow\".\nJohn Healey on Wednesday set a target date of 2030 for the 3% figure, while reaffirming its NATO commitment to reach 3.5% by 2035 .\nHealey, who resigned as defense minister under the previous government over insufficient spending, presented his first annual budget as finance minister and highlighted a \"new era of threat\".\n\"Today we send a clear message to Moscow: Britain will stand with Ukraine for as long as it takes,\" he said as he announced an additional £10 billion ($13.3 billion) in economic and military support, based on loans, export finance guarantees, as well as £500 million in urgent military funding for this winter.\nThe government will set out the details of how it will meet its defense spending targets at the spending review next year, Healey told lawmakers.\n\"As we look ahead to the spending review, we start from a position of strength, with spending at that higher base, there will be choices we have to make about priorities,\" he said.\n\"Today, I&#x27;m getting work underway to get there in a fiscally sustainable way,\" Healey said against the backdrop of strained public finances and increasing borrowing costs.\n‘Project Firepower’: Inside Rheinmetall’s gunpowder expansion as Europe races to replenish its ammunition\nEurope’s defense boom faces a new test: Can it actually deliver weapons?\nUkraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest\nTank maker KNDS postpones IPO amid market struggles for defense\nDefense stocks plummet on reports Germany is scrapping warships; Rheinmetall stock down 18%\nHealey also said the National Wealth Fund and British Business Bank will deploy up to £5 billion over the next four years into defence, dual-use technologies and other sectors supporting national security to strengthen the UK defense industrial base, support domestic supply chains and attract private investment.\nChris Beauchamp, chief UK market analyst at investing and trading platform IG, said Healey&#x27;s announcement lacked detail but \"it looks like defence will get the money Healey said was needed when he was defence secretary.\"\n\"The precise path will come through next year, but it seems like the spending bonanza for Rolls-Royce and others is still on the way. It just might take a little while to arrive,\" he added.\nHealey also announced that Rolls-Royce will develop its next-generation turbine engine technology in partnership with the U.K. government, in an investment worth £2.5 billion.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-28T14:29:24+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran Update, October 27, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlVkYm80cGlVaV83YnRWUU1pQk9JYUxSRXZjRE5pUV8yaUVXWEpQbkpfWlN6cG5lUnZJQTRKY0FOWU1xNkM3WUVxSnVRNFVNUklRaHItVmE5dVRfZFZ1bjFLdFQtOXVsY3phSnMwWHIxS0E4SGtaV0R2SEQ4OVBSYnFjdlE?oc=5",
+      "summary": "Iran Update, October 27, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "content": "",
+      "published": "2026-10-28T00:47:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Is Iran moving toward war or peace after Mecca alliance meeting in Tehran? - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjRmTHVncW5TX1dTcGFlRmhja1J2Ty02OGlsbGI2b3NyUTFuYWZpSmVfSnFxUTRpMDdRYUdsMlZZY05IaTAyd2d3WkNvYnloT0hLMWhrZEFUUGttSlZFRmJyZnh3MkJaWWJOcElxSFVzdWxxN2NyLUdDR0ZvaUJwcXNZZnJxR252eDQ1VXB6Y2w2YzNvQXpn0gGXAUFVX3lxTE5IQUI1bDlMeWNPWXE0Q0hKOG5pc0ZLb2VWMENld25wd0ZNYXc3S1RMQWhXa0xHZVlVbGdLcGs0Y0dZWTBGSnNzTkViUW53V0RqSmdpMTVQTzVpdk5vdmJ3cmI5UVpMNjdFYmtwa1lwa2tfb1ZSUTVNX09kaEZVQ3VpY25rZHkzOEJ1STMtRnY5MWh5TzlQQXc?oc=5",
+      "summary": "Senior officials from Turkey, Pakistan and Saudi Arabia all traveled to Tehran to meet President Masoud Pezeshkian and other Iranian leaders Image: Iranian Presidency/AFP Advertisement\nAmid rising fear that the US and Israel are preparing to launch new attacks on Iran after the US midterm election &#160;on November 3, three major Middle Eastern powers delivered a coordinated diplomatic message dir",
+      "content": "Senior officials from Turkey, Pakistan and Saudi Arabia all traveled to Tehran to meet President Masoud Pezeshkian and other Iranian leaders Image: Iranian Presidency/AFP Advertisement\nAmid rising fear that the US and Israel are preparing to launch new attacks on Iran after the US midterm election &#160;on November 3, three major Middle Eastern powers delivered a coordinated diplomatic message directly to Tehran.\nPakistan's army chief Asim Munir , Saudi Defense Minister Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin all traveled to Iran to meet Iranian President Masoud Pezeshkian and senior officials in Tehran this Monday. The three envoys serve as representatives for the Mecca defense pact — a military alliance of Islamabad, Riyad and Ankara, which was officially set up this summer.\nSaudi Arabia said ⁠the ⁠trip aims to open negotiating channels and \"prevent the return of military escalation.\" Details on the agenda, however, remain scarce.\nIran conflict: Could a new phase of the war be imminent?\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\nA senior Pakistani &#160;official&#160;cited by the Reuters news agency said the talks focused on building a regional non-aggression network, in addition to US-Iran talks, Houthi rebels ' attacks on Saudi Arabia, the Strait of Hormuz and the US naval blockade.\nAnother official said Pakistan's Munir presented Iran with a solution to the conflict that would offer something both to Washington and Iran, with the three Mecca states and Qatar acting as mediators. The source told Reuters US President Donald Trump previously gave Munir the go-ahead to try diplomacy.\nIran hailed the \"very positive atmosphere\" during the Tehran talks, even though no breakthroughs were officially announced.\n\"Very good discussions took place between us,\" Mohsen Rezaei, head of Iran's Supreme National Security Council, told state television. \"I feel that a new atmosphere is emerging in the region.\"\nRezaei argued that regional security should be built by countries in West Asia themselves and without outside intervention.\nA day later, Rezaei reportedly met Supreme Leader Mojtaba Khamenei. Iranian state media said Khamenei called for protecting Iran's interests and maintaining Tehran's conditions for ending both the war and the current state of \"neither war nor peace.\"\nMeanwhile, Iran's President Masoud Pezeshkian travelled to Moscow for the Gas Exporting Countries Forum, where he met Russian President Vladimir Putin and Qatar's Emir Sheikh Tamim bin Hamad Al Thani, with Pezeshkian and the emir also discussing the war and the Strait of Hormuz.\nThese and other diplomatic contacts were framed by Tehran as evidence that the US is unable to diplomatically isolate the Iranian regime.\nAre Turkey and Pakistan closing ranks with Saudi Arabia?\nThe united front presented by the three nations in Tehran, however, can also be seen as a show of force for the new Mecca defense alliance. It comes as the Saudis grow increasingly wary of&#160; the attacks on Saudi infrastructure launched by the Iran-allied Houthi militants .\nEgypt ready to back Saudi Arabia's war against Houthis\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\nUnder the terms of the Mecca agreement, an outside attack on one of the member states is to be regarded as an attack on all of them. The visit also came on the same day as Egypt's parliament&#160;agreeing to give military help to Ryad and take \"all necessary measures\" to help Saudi Arabia defend itself, in addition to the looming threat of the US and Israel.\n\"The presence of the three senior representatives at the same time sent the message that these countries are acting as a bloc,\" Babak Dorbeiki, a London-based political analyst and former official at Iran's Strategic Research Center, told DW.\nSaudi Arabia has long been regarded as Iran's archrival in region. It has used its enormous wealth to counter Iran's influence, and now it can, at least in theory, also count on Pakistan's nuclear capability, and Turkey's conventional military strength.\nAt the same time, Dorbeiki argued that the Mecca pact is primarily designed for deterrence rather than offensive war. And having a defense pact does not mean its members want to fight Iran.\nDorbeiki believes the message from the bloc could therefore work in two directions: It can provide mediation, but continued escalation could also alter that position.\nSaudi Arabia faces the most immediate dilemma. Further Houthi attacks have damaged its infrastructure and economy , but a wider war with Iran could threaten the investment and development projects at the heart of Riyadh's economic strategy.\n\"For Saudi Arabia, both the current situation and a war with Iran carry serious costs,\" Dorbeiki said. \"Its preferred route is, therefore, a diplomatic solution.\"\nWhat now for Saudi Arabia after Riyadh airport attack?\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\nMoreover, Pakistan has spent months mediating between Washington and Tehran , and has important relations with both. A direct conflict would also distract Islamabad from its long-standing security concerns involving India.\nTurkey is a NATO member, but Dorbeiki said direct military support for Iran against the United States is highly improbable. The fact that Ankara sent intelligence chief Ibrahim Kalin rather than its foreign or defense minister also suggests a cautious approach.\nIran pursues diplomacy while preparing for fighting\nAli Asghar Shafieian, media advisor for Iran's President Masoud Pezeshkian, also rejected&#160;the perspective that the Mecca pact representatives were trying to present Tehran with an ultimatum.\nHe told DW that the three countries may also have wanted to demonstrate their own growing coordination, while showing that Iran remains part of regional diplomacy.\n\"You cannot conclude from this meeting alone that it was an ultimatum before an attack,\" Shafieian said.\nHe also noted that Iran, just like the US and Israel, could prepare for the possibility of further conflict while maintaining negotiations.\nMediator or enforcer? Pakistan's role in the Middle East\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\"Just as they use the opportunity to strengthen their military and defensive capabilities, Iran does the same,\" he said, adding that an agreement remains possible if Iran's political standing and what Tehran describes as its national dignity are respected.\nDorbeiki argued&#160;that Iran is following a familiar strategy of extending negotiations while avoiding real-world commitments.\nThe Houthi rebels are central to Tehran's calculation.\nTehran has not publicly offered the kind of guarantees over Houthi attacks that Riyadh would want. Dorbeiki believes Iran could seek to trade influence over such the attacks for concessions such as an end to US military pressure and broader steps toward ending the war.\nThe only apparent outcome of the Tehran meeting is to keep talking. For Iran, that might be enough of a signal that it is still a diplomatic partner rather than an enemy.",
+      "published": "2026-10-28T16:37:38+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU01EejJkTVN3UlJGSjRWZGoteW5Pb3VXal9pRk44QVZFSFRwVVZXcE5VYl9HMXpsdkEtcmZYelRqVExPZGFYalRiQXVfanppQm1iaE9wMG9PamwzeFdzcWpUVUNoWW5xSi1kVGp0VTFpX0pMN0lfSUdwdjc2N1MyN9IBhgFBVV95cUxQMDV0THZjaDhZZU9FZ1dNbHh0amdsT0o5Vnc1X2x5Y01JTVMwVjNvTXR2Njg1alRvYWx6VWw0aXdXVjhDbFRkbFZMM05VdnVpdWluZkFaX1NJbGloVEtrNEtaQ1pBM3hNU1lIVEdwSTFBS01Fal9vdkVCLTRwYjNhekVodENtQQ?oc=5",
+      "summary": "Trump says Iran war will end &#x27;when I want it to&#x27; as costs balloon\nTrump said it \"would be very quick, but we have to have an end properly,\" with a \"total statement\" that Iran would never have a nuclear weapon.\nHis statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.\nThe war is costing American families about $2,000 more sin",
+      "content": "Trump says Iran war will end &#x27;when I want it to&#x27; as costs balloon\nTrump said it \"would be very quick, but we have to have an end properly,\" with a \"total statement\" that Iran would never have a nuclear weapon.\nHis statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.\nThe war is costing American families about $2,000 more since it started, according to Mark Zandi, chief economist at Moody&#x27;s Analytics.\nUS President Donald Trump speaks to the media before boarding Air Force One at Joint Base Andrews, Maryland on Oct. 27, 2026.\nU.S. President Donald Trump has reiterated his claim that the Iran war will end \"whenever I want it to,\" but insists that Tehran cannot have a nuclear weapon.\nSpeaking at a rally in Lubbock, Texas, Trump said \"Somebody asked me before, &#x27;When will the war in Iran end?&#x27; I said, &#x27;Whenever I want it to end.&#x27;\"\nTrump said it \"would be very quick, but we have to have an end properly ,\" with a \"total statement\" that Iran would never have a nuclear weapon.\nHis statement comes as the president grapples with poll numbers that are near a record low due to rising energy costs and affordability issues as the U.S. heads into the midterm elections on Nov. 3.\nCurrently, Trump&#x27;s approval ratings stand at 32%, according to a Reuters/Ipsos poll on Monday.\nMark Zandi, chief economist at Moody&#x27;s Analytics, said on Oct. 12 that the war was costing American families an average of $2,000 so far, where $1,100 comes from higher energy costs, $540 from heightened interest rate costs and $360 due to increased military spending.\nThe Iran conflict shows no sign of winding down, with Trump saying that he will soon decide whether to \"make a deal\" with Iran or \"finish it off.\"\nEarlier in the month, the U.S. had evacuated diplomats from Saudi Arabia, as The New York Times reported that U.S. and Israeli militaries have drawn up specific plans for a \"short but intensive\" operation for strikes on Iran after the midterm elections.\nAn estimate by U.S. Central Command on Oct. 16, according to a report by The Hill, also revealed that the cost of the Iran war has ballooned to $47 billion, about $3 billion more than the previous numbers.\nThe bulk of the costs was reportedly for munitions replacements at $29 billion. Washington&#x27;s conflict with Iran has caused \"shortfalls\" in U.S. munitions, despite Trump claiming on Sept. 3 that the U.S. had \"virtually unlimited\" amounts of ammunition.\nThe massive price tag on the war does not include the costs of damaged military bases in the Middle East, which is estimated at $184 million as of June 29, according to a lead inspector general report to Congress.\nThis figure counts damage to U.S. diplomatic facilities in four countries — Iraq, Kuwait, Saudi Arabia and the United Arab Emirates — from Iranian strikes.\nCorrection: The bulk of the costs was reportedly for munitions replacements at $29 billion. An earlier version misstated the figure.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-10-28T03:02:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran rejects 'unacceptable' proposal by Qatar to end war with US - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW5vRGtSc3NWdDAtV2JuYXZZa1hHVTlqb1VyaFUxOW1pM3VlMDRXbEJnWFhqbTNhZzFkZUZTdnJUODJSZ3RvcnBlM2lRUDNCbjU2TmN4bmF0RVRUclBzNHh1V0I4dGtia21tcW1CbWJqRjhpelpLa1V1QUtpTVpBcE9QcDVXd2RqUFRZNTV6Yw?oc=5",
+      "summary": "Iran rejects 'unacceptable' proposal by Qatar to end war with US&nbsp;&nbsp;Middle East Eye",
+      "content": "Iran has rejected a proposal from Qatar to end the US -led war on the country, calling it \"unacceptable\".\nQatar presented the draft deal, which would look to end the eight-month conflict, to Iranian negotiators on Sunday.\nHowever, a senior Iranian official told Reuters on Wednesday that his country could not work with what had been presented, adding that Tehran would show no flexibility regarding the nuclear issue.\nUS Vice President JD Vance said earlier this month that Iran must reduce nuclear enrichment to end the war. The Islamic Republic has repeatedly stated that its nuclear programme is entirely for non-military domestic use.\nThe negotiations come amid mounting fears that the US and Israel could imminently resume their attacks on Iran.\nIsrael-Palestine, alongside Turkey Unpacked and other MEE newsletters\nIsraeli Prime Minister Benjamin Netanyahu, in particular, has been touting the prospect of new attacks as he seeks re-election in Israel's parliamentary elections .\nWith 77 percent of votes counted, Netanyahu's bloc is the largest in the Israeli parliament.\nOn Wednesday, as negotiations were set to begin on forming a new government, Netanyahu announced he would work with US President Donald Trump to eliminate the \"existential threat\" posed by Iran.\nHis main rival, Gadi Eisenkot, has also supported strikes on Iran in tandem with economic pressure.\nThe Israel-US war on Iran has, since it began in February, caused massive disruption to the global economy, sending energy prices soaring.\nIran's Foreign Minister Abbas Araghchi warned on Wednesday that any Israeli-instigated attack in the Gulf region would have a \"devastating impact\" on global markets.\n\"Devastating impact on int'l markets of any Israel-instigated military misadventure in Persian Gulf region remains major concern for both gas suppliers and consumers,\" Araghchi said in a post on X.\n'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms\nThe fallout of any renewed conflict in the Gulf would also be compounded by the ongoing fighting between Saudi Arabia and the Iran-aligned Houthis in Yemen .\nThe Houthis, officially named Ansar Allah, on Wednesday called for the evacuation of the airport in Aden, the city in southern Yemen that serves as the seat of the Saudi-backed government.\n\"Our armed forces call on those present at Aden Airport to evacuate the premises immediately, due to the presence of a Saudi military cargo plane carrying weapons intended to kill the Yemeni people,\" Houthi spokesperson Yahya Saree wrote on X.\nFighting between the Houthis and Saudi-backed forces in Yemen has seen nearly 100 fighters killed since Monday, military sources from both sides told AFP.\nAt least 63 Houthi fighters and 34 combatants associated with the internationally recognised government died, mostly near the Bab al-Mandab Strait.\nMiddle East Eye delivers independent and unrivalled coverage and analysis of the Middle East, North Africa and beyond. To learn more about republishing this content and the associated fees, please fill out this form . More about MEE can be found here .",
+      "published": "2026-10-28T12:14:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "OpenAI launching election war room to track interference efforts - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVZfeUFPaHlSb3RSN0Q5VGtFcmhNODBoOEhLMmVZcFU2S2QxbzJVcHVPV21LX3FLYzRsQ3RtNjdyak1GekpldmhLUTBnYmlJNTJHMVZIM2h4VEoyZWN5aDlhcDZFSmhZVkZZT3pQSktEeGFRQ0Y1YzhFNWQ2OTdCc0dXWWFrLXJyelRpOGNSb3M?oc=5",
+      "summary": "OpenAI launching election war room to track interference efforts&nbsp;&nbsp;Politico",
+      "content": "",
+      "published": "2026-10-28T14:00:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Iran war’s critics highlight eight-month milestone - Roll Call",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdFSDRxUHlYVGpMR3U5X0s4ZkNyYjVtTks2cGF1YlQtZ3lBZEVvNmJWc0FTUjRlWG5XUEN0QVctTHdvXzFraVRzc3RESnpvN2RzNzNCRExSSG1TMTRIbjdNMXBtVkxTek5LNDdkSHR0YmlIZWZYX0V5MVBtWWlyT3JHOXRpejFxUHc?oc=5",
+      "summary": "Ranking member Jack Reed, D-R.I., prepares for a Senate Armed Services Committee hearing in the Dirksen Senate Office Building on May 13. ( Tom Williams/CQ Roll Call )\nEight months into the Iran war — and less than a week ahead of the midterm elections — congressional Democrats spotlighted the unresolved conflict’s costs.\n“Trump’s war will take years to recover from,” said Sen. Jack Reed, D-R.I., ",
+      "content": "Ranking member Jack Reed, D-R.I., prepares for a Senate Armed Services Committee hearing in the Dirksen Senate Office Building on May 13. ( Tom Williams/CQ Roll Call )\nEight months into the Iran war — and less than a week ahead of the midterm elections — congressional Democrats spotlighted the unresolved conflict’s costs.\n“Trump’s war will take years to recover from,” said Sen. Jack Reed, D-R.I., the ranking member of the Armed Services Committee, in a statement on Wednesday marking the eight-month mark of the conflict. “The Trump administration has failed to present any credible strategy and has hidden basic information from Congress and the public to cover up for it. This war must end, and real diplomats must be empowered to secure an enduring peace.”\nThe war has simmered down since February into what is now a less intensive series of U.S. and Iranian military actions to control shipping in the Strait of Hormuz, plus a stepped-up campaign of attacks by the Houthis, a group of Iranian proxies in Yemen, aimed mostly at Saudi Arabia.\nBut President Donald Trump recently signaled he may launch a new wave of U.S. military strikes against Iran after the midterms.\nSince February, 21 U.S. servicemembers have died in the conflict, with some 850 injured.\nMeanwhile, consumer prices are stubbornly high as a result of restricted trade in the Persian Gulf, and that inflation has become a salient election issue.\nThe war’s cost to the Pentagon, meanwhile, has hit at least $47.1 billion, up from $43.6 billion in early September — not counting the cost of repairing damaged U.S. military bases in the Middle East, according to an Oct. 16 Pentagon report to Congress viewed by CQ Roll Call.\nThe Congressional Budget Office estimated in mid-September that even at the reduced rate of fighting in the war's recent months, each additional month of the conflict could add $2 billion to $3 billion to the government's price tag.\nTrump and Defense Secretary Pete Hegseth have said repeatedly over the last eight months that the war’s objectives have been met, that Iran’s military has been destroyed and the conflict either is or will soon be over.\nReed, for his part, noted on Wednesday that Trump promised “to destroy Iran’s nuclear program, eliminate its missile arsenal and proxy networks, and topple the regime itself within weeks. Eight months later, not a single objective has been achieved and the United States is in a dangerously weaker position.”\nCongressional Republicans were mostly silent Wednesday on the eight-month milestone.\nRep. Thomas Massie, R-Ky., who plans to file impeachment articles against Hegseth once Congress returns to Washington the week of Nov. 9, posted on X a video of Trump saying at a campaign event in Texas on Tuesday, \"When will the war in Iran end? Whenever I want it to end.\"\nTo that, Massie replied: \"So much for the legal fiction that it isn’t a war. U.S. law and the Constitution prohibit the Executive branch from fighting a war that isn’t declared or authorized by Congress.\"\nMassie is leaving Congress after this session, having lost his GOP primary to a rival backed by Trump.\nOther Democrats seized on the administration’s past promises of quick victory and the war’s continuing costs.\nSenate Minority Leader Charles E. Schumer, D-N.Y., issued a statement that concluded: “Eight months in, Americans continue to face mounting costs, nearly two-thirds say going to war was the wrong decision, and there is still no end in sight — even if President Trump would like to claim so.”\nSen. Kirsten Gillibrand, D-N.Y., a member of the Armed Services and Intelligence panels, said: “This illegal war was launched without a clear plan, executed without a coherent strategy, and now, eight months later, American families are still paying the price at the gas pump, at the grocery store, and with their tax dollars. From the start, this administration has lied to the American people about the timeline, the strategy, and the cost of this war.”\nThe 10 most vulnerable House members less than a week before Election Day\nThe most vulnerable senators of 2026 less than a week before Election Day",
+      "published": "2026-10-29T00:28:10+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iranians face energy squeeze from war as natural gas runs short - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNFZleUltZjdQbFhjS003RjRRUUltSzFxTTN0YTNMZ2UxLXBGS2JQa0hfVG1iNG5aUVBlbExrWFF5SGpKdkZRNWR0Qmk1VUVfWjlKcXAtLWxhdVVMa2ZQM0tPc0U4b2IxNU9zRjd1Q1o?oc=5",
+      "summary": "Iranians face energy squeeze from war as natural gas runs short&nbsp;&nbsp;Financial Times",
+      "content": "",
+      "published": "2026-10-28T11:00:06+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Options traders break down a massive Alphabet trade into earnings",
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+      "content": "Alphabet, Microsoft report after the bell. What options trader see\nOptions traders break down a massive Alphabet trade into earnings\nOptions traders took contrasting views on Alphabet as the hyperscaler gets set to report earnings after the close.\nCurrent options prices are implying a nearly 6% move, well about its eight quarter median move of 2.6%. Traders were decidedly bullish heading into the first. Just before noon, a trader bought 2271 contracts of the 350/365 call spread for about $4.4. The trade target a move higher to $365, a 13% jump from its current price. The trade is a bet the in the near term, the worst is behind Alphabet, which has seen its shares fall nearly 20% from its all time highs reached back in May.\nSome traders are taking a different tact into the print. Specifically, a separate trader put on a bearish 3x1 put diagonal, collected $1.9M by selling 9,000 of the Nov. 20 expiration 290-strike puts at $4.15 per contract while buying 3,000 of the Jan. 15, 2027 exp. 300-strike puts at $2.15 per contract for a total debit of $2.5M\nThis is a trade that looks to take advantage of high near-term volatility in Alphabet&#x27;s shorter dated puts. The goal is for those short-dated puts to expire worthless, with the trader then long the 300-strike puts, looking for a 9% move lower through mid January.\nThe market&#x27;s mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report. The technical set-up and options expectations could not be more different.\nMicrosoft is less than one percent below its closing record reached earlier this month, while Alphabet is flirting with technical bear-market territory, off 20% from its closing high in May. Market-makers are pricing a 5.8% move for Alphabet stock after its report, compared to under a 5% swing for Microsoft, Cboe LiveVol data show.\nFor Microsoft, it&#x27;s a smaller implied move than its 2-year average swing of 6%. For Alphabet, which has averaged a 2.7% reaction over that time period, it&#x27;s more than double – which arguably makes sense considering the shares dropped 7% after last quarter&#x27;s report and rallied 10% the report prior.\nThe ratio of puts to calls on both stocks has been gradually building up on the put side as the Nasdaq 100 Index pulled back, but the metric&#x27;s baseline for both shows more calls than puts the past year, with a ratio consistently under 1, according to Barchart data. In Microsoft, the ratio is currently 0.59, up from a low of 0.43 in June.\nIn Alphabet, the ratio is 0.72, the highest since August, but Tuesday&#x27;s options flows cast a more positive light. Of the 435,000 options traded, 312,00 were calls, with almost 102,000 call trades likely initiated by buyers, versus just 54,000 by sellers and the remaining near the mid-price, Cboe data show.\nSome of the heaviest call-buying in Alphabet was at the 360-strike for January expiry, where it looked like a single trader bought around $18.5 million of calls across eight transactions of 2,850 contracts each, SpotGamma data show.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.\nOptions traders break down a massive Alphabet trade into earnings",
+      "published": "2026-10-28T20:13:59+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.8,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+      "summary": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-28T18:49:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "content": "Figure caption, Survivor describes being onboard when trains collided\nIt was approaching 08:30 (07:30 GMT) on a normal Wednesday. Two high-speed trains were travelling south from the Spanish capital, Madrid, to Seville.\nOne, run by state-owned operator Renfe had 397 passengers on board. Ahead of it on the same line was a train of Iryo private operator with 147 passengers. A reported issue with the automatic signalling system - a computer failure - had forced all trains to halt on the affected stretch.\nThen the impossible happened, Spain&#x27;s transport minister said, as the Renfe train was ordered to proceed in \"error\".\nIt crashed into the back of the other train between municipalities Mora and Orgaz, about 140km (87 miles) south of Madrid.\nFigure caption, Watch: \"People flew off their seats,\" says passenger\nSome of the passengers were asleep, some had already started their working day on laptops - and others scrolled through their apps on their phones.\nThe journey was interrupted with an announcement that there was congestion on the tracks. This lasted a few minutes - for some, a bit longer for others.\nTangui Binier, 22, was in the Iryo train, the front carriage, number eight. His father was in number seven.\nTheir train was one of six to have been ordered to stop at 08:30. A few minutes later, \"the train started speeding\", Binier told the BBC, \"then it came to a sudden halt\".\nBaffled, he looked out of the window and saw \"wires on the left side come down, and then there being just a lot of smoke behind us.\"\nSpanish journalist Roberto GÃ³mez was dozing on the high-speed Renfe train which had stopped more than 25km (16 miles) away from Binier&#x27;s.\nIt was a brief stop. A few minutes later, the train began to move again, he explained, and then the crash happened.\nHe did not know that at 08:36 his train had been ordered to proceed with the journey and some 17 minutes later the \"truly unbelievable\" happened, Spain&#x27;s Transport Minister Ãscar Puente said.\n\"The impact was terrible,\" GÃ³mez told Onda Cero radio. \"You can imagine, the carriage is completely destroyed. All the suitcases are all over the wrecked carriage.\"\nGÃ³mez suffered only minor injuries but described another passenger falling on top of him and sustaining a deep gash on his head.\n\"We were able to help people who had suffered severe blows to their chest and ribs,\" he said.\nRafael Barcelo was in one of the worst-affected carriages. A bruise on his forehead makes him one of the lucky survivors. He was having a coffee at the time of the crash and \"felt a huge impact\".\n\"We were all thrown into the air,\" he told Reuters news agency at the site of the crash.\n\"I was travelling in coach seven, which is the one with more victims and the one most destroyed. I at least counted eight victims in that coach,\" he said, visibly shocked.\nImage caption, Rafael Barcelo: \"I counted eight victims in that coach\"\nEven in the carriages farthest away from the impact on the Renfe train \"everything was completely destroyed - the seats were detached, and most of the people who were travelling facing the same direction as the train were thrown into the air\", according to Salvador Arriza.\n\"It was something brutal,\" he said, describing how some people \"were trapped between the seats\".\n\"What caught my attention is that in one of the coaches there was a piece of train track that went through the roof of the coach, and I think that might have helped to stop or reduce the inertia of the train.\"\nImage caption, Salvador Arriza says a long piece of track that speared through the carriage roof may have slowed the train down\nBloodied, dazed and angry - how passengers&#x27; rail journey turned to disaster in Spain\nHigh-speed train crash kills at least 68 people in Spain\nSebastiÃ¡n Herrero was travelling in the train which was hit from the rear and the \"terrible, terrible impact\" threw him on to the seats in front.\n\"After we fell, there were many people with broken noses, broken arms... We started seeing smoke everywhere.\"\nImage caption, The crash near Urda is Spain&#x27;s worst rail disaster since 2013\nOnce the initial impact was over, passengers in Binier&#x27;s carriage debated whether it was safe to leave because of the electrical wires strewn outside the train.\nSome were worried about the risk of another train colliding and decided to exit.\n\"We did not know what had happened until we took a step outside, and there there was evidence of what had happened.\n\"We saw the other train behind ours and we saw our train completely flipped over and the back side full of debris,\" he told the BBC.\n\"When I got out of the train I was in complete shock, complete awe. There were people in danger, it was very hard to see, there was dead bodies, there was missing limbs. \"\n\"I don&#x27;t know if that is something I will ever recover from.\"\nBut the adrenaline kicked in, he said, and those like him who had not suffered any injuries went to help.\nAmong them was his dad, who he explained was \"able to carry a girl to safety, with a broken hip\".\nIt was not long before local people arrived, followed by the police and ambulance services of the Guardia Civil.\n\"I&#x27;m really one of the most fortunate people and the luckiest person. I feel like just I&#x27;m so fortunate and I see other people who are not so fortunate, and I see them very close up. Sometimes you just ask yourself &#x27;Why me?&#x27;,\" he said.\nSpain was already reeling from the Adamuz high-speed rail disaster outside CÃ³rdoba in January, in which 46 people died.\nIt happened on the same high-speed rail line, but much further south. So Wednesday&#x27;s accident has raised many questions for the authorities.\n\"It isn&#x27;t possible that our train was stopped for five or 10 minutes and that the other train wasn&#x27;t told to stop,\" one of them said.\n\"How can this happen with the technology we have?,\" they added. \"It&#x27;s not normal. We weren&#x27;t told anything. The person who should have been told something was the driver of the other train. We wouldn&#x27;t have cared as long as the other train had been warned. I don&#x27;t understand this.\"",
+      "published": "2026-10-28T21:24:41+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "content": "Watch: At the scene of Spain&#x27;s deadly train crash\nWatch: At the scene of Spain&#x27;s deadly train crash Close\nDozens of people have died and others have been injured after two high-speed trains collided south of the Spanish capital Madrid.\nPrime Minister Pedro SÃ¡nchez said it was \"unacceptable\" that Spain had suffered its second fatal rail crash in a year.\nThe BBC&#x27;s Guy Hedgecoe reports from the scene of the crash.",
+      "published": "2026-10-28T16:45:16+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "What we know so far about deadly Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "content": "Figure caption, Watch: Aerial footage shows train crash scene\nTwo trains have collided in Spain just south of the capital Madrid on Wednesday morning.\nRail operator Adif says the incident occurred between a Renfe train and another of the Iryo company, which covers the Madrid to Seville route.\nSo far at least 68 people are confirmed to have died in the incident.\nThe two trains collided just after 09:00 (08:00 GMT) between municipalities Mora and Orgaz, and about 140km (100 miles) south of Madrid.\nThe accident happened when a high-speed train travelling from Madrid to the south of the country collided with another train that was apparently stationary. The crash caused at least two carriages to fall down an embankment.\nBroadcaster RTVE, quoting the transport ministry, said a Renfe train rear-ended an Iryo train.\nRenfe is Spain&#x27;s national state-owned railway company while Iryo is a private high-speed railway operator.\nAll train traffic on this line has been stopped at stations along the route, Adif said.\nRenfe said services between Madrid, Ciudad Real and Andalusia remain suspended.\nA passenger on board one of the trains told local media there was a heavy impact about 40 minutes into the journey.\nImage source, 1vanta3 / X via Anadolu / Getty Images\nIryo said its train was \"struck from behind\" by a Renfe train \"due to causes that are still unknown.\nTransport minister Oscar Puente has said a computer failure led to the initial halt of six moving trains, including the two trains that subsequently collided.\n\"In the event of a system failure, the control centre takes over,\" he said, adding it was the control centre which decided to allow the trains to move again, without any speed restrictions.\nThat decision, Puente said, was made \"under inexplicable circumstances\". It resulted in the Renfe train crashing into the Iryo train, which was stationary on the tracks further ahead.\nBloodied, dazed and angry - how passengers&#x27; rail journey turned to disaster in Spain\nHigh-speed train crash kills at least 68 people in Spain\nImage caption, Aerial footage shows the extent of the damage and the emergency response\nMore than 500 people were believed to be on board both trains.\nEsther Padilla, spokesperson for the government of Castilla-La Mancha region, told TVE that one of the trains - managed by the Iryo company - was carrying 146 passengers plus one baby, while the Renfe-managed train had 397 passengers on board.\nA former government minister was also among those reported missing.\nThe Spanish Confederation of Business Organizations (CEOE) posted on X that, FÃ¡tima BÃ¡Ã±ez - who heads the organization&#x27;s foundation - was on board one of the trains involved in the crash.\nThe Castilla La Mancha regional government said 64 people are now confirmed to have died.\nSpeaking separately to Spanish media, he warned the death toll could increase further.\nEighty people are being treated for injuries, according to authorities, with 50 of the casualties said to be in a serious condition , and 15 more in a critical condition.\nImage caption, A huge emergency response is underway\nSpanish Prime Minister Pedro SÃ¡nchez has said \"the whole of Spain is grieving\" and that \"lives have been shattered, families have been torn apart\".\n\"The pain is immense,\" he said on a visit to the crash site.\nThe government was \"trying to determine what was the origin of this tragedy, of this terrible accident,\" he added.\n\"We will get to the bottom of this, and if there has been any negligence, it will come to light.\n\"If there have been failures in the security system, they will be addressed with the utmost firmness.\"\nSÃ¡nchez and other Spanish politicians have cancelled all public engagements on Wednesday, including campaigning for next month&#x27;s parliamentary elections.\nSpain&#x27;s royal family posted on X that it was \"shocked and concerned\" and expressed condolences for the relatives of the deceased and those affected by the crash.\nA spokesperson for the EU said the bloc was ready to help Spain if needed.\nA huge emergency response was under way with fire crews and helicopters at the scene.\nHospitals in the area have suspended planned surgeries as they deal with an influx of patients from the crash, Spanish media have reported.\nA blood transfusion centre in Madrid has also appealed for \"urgent\" donations. In a post on X, Centro de TransfusiÃ³n said it made the request \"in the face of a possible sudden increase in care needs\".\nIt reported that facilities in Toledo, Ciudad Real and AlcÃ¡zar de San Juan have cancelled procedures as casualties from the crash begin to arrive.\nThis is the second high-speed rail tragedy in Spain this year.\nIn January a high-speed train derailed in southern Spain , its rear carriages going into the path of a state-run Renfe train, claiming the lives of 46 people.\nAre you in the affected region? If it safe to do, get in touch.\nIf it is safe to do so, you can also get in touch by following this link",
+      "published": "2026-10-28T15:36:11+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3BUbE1JVUhsMjRDT1V5LUY3RlMyTmJEM0JpVHdoLTdzdjJFOHFiSTdhNHVHRlRUMVJGN1JOUlFpZDd4SDRCNHUzQjYxN2tIRUgyVzQ3RnVlcmpCVE9wajJqcE5SNWpERU9ScHdwb3A2NHlGU29tc2lZR2lVWmxFTU1DdlNHczQ?oc=5",
+      "summary": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival&nbsp;&nbsp;Barron's",
+      "content": "",
+      "published": "2026-10-28T17:46:00+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "SK Hynix Record Profit Lifts Micron, Nvidia and AI Chip Stocks - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUElhWW40N0xpYzZNZm9UN1JVR3kwdTA1WkFJM3ZCQ21zUmh3c0ZhTmJtUmRvWHZwbFlkWW12azhmanFCcUVTbkxNOWwxWTUzcTd2VlZaMjY0REFsWFJ0TXRBamxBTGpYZnVhaHJ2Q0RvTGhXUlpYUlF2bFdLWGdScHRoVkh3RnB5UXNpaWNZOTNfVHNJckZaRHlLSFNYZmx5WDZEVGZtZDBhYzdMMHk1NEI2YmU2U1BJUnVCNnpn?oc=5",
+      "summary": "SK Hynix Record Profit Lifts Micron, Nvidia and AI Chip Stocks&nbsp;&nbsp;TradingView",
+      "content": "SK Hynix Record Profit Lifts Micron, Nvidia and AI Chip Stocks\nMicron Technology Inc. (MU, Financials), the memory-chip maker, rose alongside other semiconductor stocks after SK Hynix reported record quarterly profit and announced a major shareholder-return plan.\nFollowing significantly better-than-expected results, SK Hynix stock in South Korea jumped 10.8 percent.\nIncreased investor optimism in the memory cycle was accompanied by the announcement of over $25 billion in dividends and share repurchases by the corporation.\nNames associated with AI, memory, equipment, and data center infrastructure were among those lifted as the response rippled across the semiconductor sector.\nSince SK Hynix is a formidable rival in the high-bandwidth memory and advanced DRAM markets, the read-through holds great significance for Micron.\nAs the need for high-performance memory grows in AI systems, the company&#x27;s strong profitability indicates that market circumstances are favorable in terms of both price and demand.\nSpending on AI infrastructure is expected to continue supporting chipmakers and suppliers, which is reflected in the larger move.\nThe next factor to consider is if Micron&#x27;s own financials and predictions continue to indicate that robust demand for artificial intelligence and memory is continuing into the following quarter.",
+      "published": "2026-10-28T20:02:01+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Micron, AMD and Nvidia Stocks Rise as Memory Chip Boom Lifts AI Trade - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVhYWUZWX0YzbEx1dWFldW9vNWRIS29wQkpMTFU4endHbDFwRHRaVmkxYWwxZXVXLVl0MlFDNURlTlJXY2RnNi1HUlQzSjJzdmluY28wZ3R1NUlqQ1VrcE9qZ1NnOVVPaWViem1ndVZIX2RrWl8weGNZRVdTbVNqSWdsRDZZLUtZY2dfNXBPdkVmYUM3dmlKNE55cHZYaFExdnBoVzBuWURRNzg0SlhqT0NwSk9hc1d2RlRJLWFJZWZpNjNzam13?oc=5",
+      "summary": "Micron, AMD and Nvidia Stocks Rise as Memory Chip Boom Lifts AI Trade&nbsp;&nbsp;TradingView",
+      "content": "Micron, AMD and Nvidia Stocks Rise as Memory Chip Boom Lifts AI Trade\nNvidia NVDA , Micron MU and Advanced Micro Devices AMD shares moved higher in Wednesday morning, tracking gains across the semiconductor sector after strong results from South Korean memory-chip maker SK Hynix lifted investor sentiment.\nNvidia shares rose 0.8% on the opening bell, while AMD climbed 1.5%. Micron stock rose more than 4%. SK Hynix reported record quarterly profit that exceeded expectations and outlined more than $25 billion in dividends and share repurchases, supporting optimism across the AI chip industry.\nThese U.S. chipmakers operate in a market where demand for AI computing infrastructure is driving investment in advanced processors and memory. Nvidia supplies AI accelerators used in data centers, while AMD competes in the market for data-center processors and AI chips.\nThe broader semiconductor rally also included gains among memory suppliers and chip-equipment makers. Investors may look to upcoming company results and updates on AI-related spending for further clues about demand across the industry.",
+      "published": "2026-10-28T18:38:14+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
+      "link": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+      "summary": "Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets.The 66-year-old, who won the Palme d’Or at Cannes last year fo",
+      "content": "The Center for Human Rights in Iran warned that authorities were cracking down on cultural figures. Photograph: Carlos Álvarez/Getty Images\nThe Center for Human Rights in Iran warned that authorities were cracking down on cultural figures. Photograph: Carlos Álvarez/Getty Images\nIranian film-maker Jafar Panahi given new prison sentence\nCharges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’\nAn Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets.\nThe 66-year-old, who won the Palme d’Or at Cannes last year for It Was Just an Accident , was sentenced in absentia, his lawyer, Mostafa Nili, told the Iranian news outlet Emtedad. The court also imposed a two-year travel ban and barred him from using social media for two years, Nili said.\nThe charges against Panahi remain unclear. He returned to Iran in March from an overseas trip to promote It Was Just an Accident, despite having been sentenced in absentia last year to a year in prison ‌for “propaganda activities against the system”.\nA friend of the film-maker, an activist based in Europe, told the Associated Press that he had spoken with Panahi on Monday evening after the sentencing and the film-maker had not been detained.\nNili said Panahi currently faced three open legal cases, and had not been notified of the hearing date for the latest one. He only learned of the proceedings after his client’s bank accounts were frozen last week.\nMoein Khazaeli, a human rights lawyer at Dadban, a legal counselling centre for Iranian activists, said the sentencing, and the confiscation of Panahi’s assets, could violate Iran’s constitution, unless the authorities establish a clear legal basis linking the property to an alleged offence.\nSpeaking to the Guardian while in the US earlier this year, Panahi warned that the current “cycle of violence” in Iran could continue.\n“What I have been depicting in this film is when the cycle of violence continues, then it becomes very difficult to stop it,” Panahi said. “Unfortunately, because of the savagery that is being carried out by the state, the fear is that this cycle of violence will continue.”\n‘I think of those I left behind in prison’: Iran’s Jafar Panahi on life as a banned film-maker\nThe latest sentence has raised concerns among fellow artists over the risks facing those who continue to work independently in Iran.\nThe Iranian actor Setareh Maleki, who was forced into exile after starring in Mohammad Rasoulof’s Oscar-nominated film The Seed of the Sacred Fig , told the Guardian: “One of the greatest fears of a dictatorship is losing control over the stories people tell. When those stories cross borders and reach the world, they become impossible to silence. Jafar Panahi has told his stories too, and his sentence proves once again just how deeply the Islamic Republic fears even the act of storytelling.”\nInside Iran, a film-maker currently shooting a film in secret expressed support for Panahi. “We all support him, who brings us great pride. He hasn’t remained silent and instead voices demands of the Iranian people,” said the film-maker, who did not want to give her name.\nShe said she believed Panahi’s latest sentence was linked to his calls for unity during the January protests and his support for diverse voices inside Iran, including supporters of Reza Pahlavi, the exiled son of Iran’s former shah.\nThe Iranian-British actor Nazanin Boniadi also condemned the ruling, saying: “Jafar Panahi has spent decades turning censorship into cinematic resistance, bearing witness to the suffering and resilience of the Iranian people. His latest draconian prison sentence is yet another attempt to silence a courageous artist whose work exposes the realities of repression in Iran.”\nIn a recent report, the US-based Center for Human Rights in Iran warned that Iranian authorities are intensifying their crackdown on artists, writers, poets, musicians and other cultural figures, “pulling peaceful voices into the same coercive security and judicial apparatus used to suppress dissent across Iran”.\nKhamenei regime will not be able to keep control of Iran, says dissenting film-maker\nIranian cultural figures condemn internet blackout as ‘blatant tool of repression’\nIran sentences award-winning director Jafar Panahi to year in prison for ‘propaganda activities’\nJafar Panahi returns to Iran in triumph after Cannes Palme d’Or win\nJafar Panahi’s Cannes victory is a wonderful moment for an amazingly courageous film-maker\nIt Was Just an Accident review – Jafar Panahi takes us on a nightmare trip into a land of bribes and brutality\nBanned film-maker Jafar Panahi says friends lost hope he would direct again\n‘I think of those I left behind in prison’: Iran’s Jafar Panahi on life as a banned film-maker\nFilm-maker Jafar Panahi begins hunger strike in Iranian prison",
+      "published": "2026-10-28T16:56:10+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    }
+  ]
+}
