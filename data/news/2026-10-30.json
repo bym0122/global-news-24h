@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T02:40:27.330061+00:00",
+  "generated_at": "2026-10-30T04:39:34.313193+00:00",
   "window_hours": 24,
   "count": 60,
-  "window_start": "2026-10-29T02:40:01.467343+00:00",
-  "window_end": "2026-10-30T02:45:01.467343+00:00",
+  "window_start": "2026-10-29T04:39:06.201588+00:00",
+  "window_end": "2026-10-30T04:44:06.201588+00:00",
   "publication_time_rule": "published only; updated is never used; missing published is discarded",
   "items": [
     {
@@ -35,15 +35,16 @@
       "published": "2026-10-29T09:52:00+00:00",
       "source": "AP World",
       "sources": [
-        "AP World"
+        "AP World",
+        "GN Geopolitics"
       ],
-      "source_count": 1,
+      "source_count": 2,
       "category": "geopolitics",
       "category_zh": "地缘政治",
       "stars": 4,
-      "score": 16.9,
+      "score": 18.1,
       "is_hypothetical": false,
-      "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -62,6 +63,30 @@
       "category_zh": "能源",
       "stars": 4,
       "score": 16.5,
+      "is_hypothetical": false,
+      "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
+      "summary": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-30T02:27:00+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.4,
       "is_hypothetical": false,
       "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
       "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
@@ -136,48 +161,71 @@
       "assets": []
     },
     {
-      "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0hrZWR2U1dyeG1NekMtUlJORFZ6M1dHUWNDbDFFWTU0bldwU3RwM0hEVGVDVExpeV9rLUtNOFMxdTVWX0pOa2d2Z2ZwZTBRM0pNSU5Md0RSWW82Zmkzb0JzemVjSUlQRTdDMExKZHpvbnRSaTItSVZ5VnBBcVVHSzg1eklqSnAtZF9DRm5UMFhibDJGMHQ4eGZXWGY0RllZMDdHZHhVb2h1WjJORzBEaGhBYk81ZGp1V3BxMWhETDNFQnptQllBS0cyMXY4ZkQz?oc=5",
-      "summary": "South Korea says considering deployment options to Strait of Hormuz, including aircraft&nbsp;&nbsp;Reuters",
+      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "summary": "Gold slips as higher oil, US inflation data bolster Fed hike bets&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-29T06:45:00+00:00",
+      "published": "2026-10-30T03:24:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
       ],
       "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
+      "category": "finance",
+      "category_zh": "全球金融",
       "stars": 3,
-      "score": 14.9,
+      "score": 15.1,
       "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：原油 / 能源股 / 黄金 / 美债 / 美元 / 美股 及相关产业链。",
       "assets": [
         "原油",
         "能源股",
-        "油运"
+        "黄金",
+        "美债",
+        "美元",
+        "美股"
       ]
     },
     {
-      "title": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
-      "summary": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks&nbsp;&nbsp;Reuters",
+      "title": "Trump administration bolsters bid to block Alaska Senate certification - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc?oc=5",
+      "summary": "Trump administration bolsters bid to block Alaska Senate certification&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-29T23:46:15+00:00",
+      "published": "2026-10-29T10:03:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "BBC World",
-        "GN Geopolitics"
+        "AP World",
+        "Al Jazeera"
       ],
       "source_count": 3,
-      "category": "europe",
-      "category_zh": "欧洲",
+      "category": "us",
+      "category_zh": "美国",
       "stars": 3,
       "score": 14.8,
       "is_hypothetical": false,
       "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "If a Stock Market Crash Is Coming, History Says Following These 6 Words From Warren Buffett Is the Smartest Move You Can Make - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYy1kdGdDV2dzVDE2d0pFVnlUZlA0ODVVQzBWN1E2OHdpTGVGa21fV1BWdC00YXFEQXpuMTJKM3JDaU5kSU04NmFUYkpfLXBCT3JnTnZ5Ykd4WWFaekFhUXFpbVJuaTEwRndWNXBPVTctWHlTRHo2Vmt1NGNpdEVoNVhidkJ1c1UxR2FGa24tQU1nQzVhMXhRbg?oc=5",
+      "summary": "If a Stock Market Crash Is Coming, History Says Following These 6 Words From Warren Buffett Is the Smartest Move You Can Make&nbsp;&nbsp;The Motley Fool",
+      "content": "Investors have had plenty to celebrate over the past four years. The S&P 500 ( ^GSPC -0.30% ) has gained nearly 115% since the fall of 2022, while the Dow Jones Industrial Average ( ^DJI -0.25% ) has gained nearly 80%, and the Nasdaq Composite ( ^IXIC -1.38% ) has jumped more than 150%.\nAnd while it&#x27;s fallen somewhat in the past two weeks, it was just earlier this month that the tech-heavy Nasdaq-100 notched another all-time high.\nBut as welcome as those gains are, they can also make investors uneasy. It&#x27;s natural. Many investors are wondering if a crash is incoming. So, now is as good a time as ever to consider sage advice from Warren Buffett, one of the most successful investors of all time.\nFirst, while it might feel otherwise, the stock market recording all-time highs isn&#x27;t, by itself, a reason to expect trouble. It&#x27;s all too common for success to make people uneasy.\nBut consider this: The investment firm Dimensional Fund Advisors looked at S&P 500 data from 1926 through 2022 and found that a year after setting a record, the index was higher 81% of the time and gained an average of nearly 14%.\nOf course, crashes still happen. They are a fact of life in the stock market. So, what can we learn from the Oracle of Omaha when the next one happens?\nOne of Buffett&#x27;s most famous quotes dealt with watching for herd behavior in the market and running in the opposite direction. Since we&#x27;re talking about benefiting from crashing prices, we&#x27;ll stick to the second half of the quote: \"Be greedy when others are fearful.\"\nThese six words can help you avoid the worst thing you can do during a crash: panic sell. Instead, his advice can help you see a crash as an opportunity: a chance to buy shares of great businesses at steep discounts. For those who can keep their heads, a stock market crash can be lucrative.\nA perfect example of this advice in action: the great financial crisis. While most investors were running scared, Buffett poured billions into several companies when confidence was in short supply. This wasn&#x27;t charity: He helped the companies raise cash when they needed it most while ensuring Berkshire Hathaway shareholders made money -- a lot of it.\nHere&#x27;s a rundown of his work in 2008 and the years that followed:\nGoldman Sachs: Berkshire invested $5 billion in September 2008, receiving preferred shares paying a 10% dividend and warrants -- the right to buy shares at a set price. The deal generated $3.7 billion in profit.\nBank of America: Berkshire invested $5 billion in 2011 as the bank continued to struggle after the crisis. Again, Buffett secured preferred shares and warrants. When he exercised those warrants in 2017, Berkshire had an on-paper gain of $12 billion.\nGeneral Electric: Buffett invested $3 billion in the struggling industrial giant in 2008, securing preferred shares and warrants. The investment produced $1.5 billion in profit over nine years.\nOf course, you have to be careful. A cheap stock isn&#x27;t automatically a bargain. There are plenty of stocks that fall in a crash and never recover because the underlying business was bad .\nThis is why it&#x27;s important to keep in mind two more quotes from Buffett: \"Charlie and I are not stock-pickers; we are business-pickers \" and \"When we own portions of outstanding businesses with outstanding management, our favorite holding period is forever.\"\nWhen you buy a stock, you are buying a small ownership stake in a business. If that business is a quality business, if it has a durable competitive advantage and is run by competent leadership, it&#x27;s a fair bet that after the dust settles, that business will grow its profits over time. A lower share price gives you the chance to own a piece of those future earnings for less money.\nWarren Buffett Says Doing Nothing Beats Doing Something. History Says He&#x27;s Right.\nWhere Will VYM Be in 2036? Here’s What the 2.4% Yield Is Hiding.\nUh-Oh! A New Inflation Forecast Suggests Trumpflation Is Evolving and Worsening.\nHistory Says This Recession Indicator Is Almost Never Wrong. Here&#x27;s What It&#x27;s Saying Right Now.\nWhat Happens to Your Portfolio if the Stock Market Crashes? There&#x27;s Good and Bad News for Investors.\nJohnny Rice is a contributor for The Motley Fool who has spent more than five years writing about the stock market, with a special interest in tech -- especially AI infrastructure, space stocks, and crypto. Before this, he helped found an agency, so he's seen a P&L from the inside, not just in a 10-K. He holds a B.A. in theater from the University of San Diego with minors in math and physics, and an M.F.A. in acting -- an eclectic background that has made him adept at both reading the numbers and explaining them in plain English.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
+      "published": "2026-10-30T04:28:02+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -202,27 +250,31 @@
       "assets": []
     },
     {
-      "title": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVI4eWdBdGFxZlM5TnFMNWcxY2VpS0hjMDlZbXZzaFBrbFZkaGdTMmpkQVNqS3VHbVR5X1dUWHJfOFEwd3kxOExUNVZBcElsd0xMZVhueWJNOWZCQ1hfdVpNWkIxWlpZT1E1QVdVdklaaXlIUENzV3JrTmRWbW11S2pJbkg1OUxDbFltd09SZFl3N2ExRl9TbW1kRkhQMTJlSnNqTlM0SUFxc2U0RXhqcHp3amJBYUU?oc=5",
-      "summary": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events&nbsp;&nbsp;Reuters",
+      "title": "China's Communist Party conclave on toughening discipline sees record expulsions, absences - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUEtOURjOXhiX3AyUzZjeVhLOTByR2dqLXZyNkJLa3BCa1JLOWRFblV2NlJaWUZkemRuMGE4bDA1V2RDUGJjR3VCa1d3Z0VYYmhrYjJwdl9ZYWM5bW5yd2pjWDVCWDJvQmk2N0NlWFNvNkZTcTlvSEhpOEJGZ0J1ZDd1OUVpX3JHblJRT2VES3BFS0UtUnppTjV0eDhReE5selVOTVdLWTNCVEtpMkN0YXU0dUU1RmdMeGdXN1ZfUGY2RUVyVEdJS2VBc1g?oc=5",
+      "summary": "China's Communist Party conclave on toughening discipline sees record expulsions, absences&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-29T23:33:43+00:00",
+      "published": "2026-10-29T15:06:39+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "AP World",
-        "GN Top",
-        "Al Jazeera"
+        "BBC World",
+        "Guardian World",
+        "NPR World"
       ],
       "source_count": 4,
-      "category": "us",
-      "category_zh": "美国",
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
       "stars": 3,
       "score": 14.8,
       "is_hypothetical": false,
       "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation” - Truthout",
@@ -273,6 +325,32 @@
       ]
     },
     {
+      "title": "Iran says 3 oil tankers struck mines, and other Mideast news - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
+      "summary": "Iran says 3 oil tankers struck mines, and other Mideast news&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-29T21:10:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics",
+        "GN Energy"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
       "title": "NBC News reports from Moscow as Russians react to their country's long war with Ukraine - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObVFnYjZwcENadDExVDZ6SktRWDJpY3pXMDNiNXNxRENpbFlUMlpmYkMzVzV0VHNYTDViZUJkbURTaU5zdnZubUNXcFNmQTAxS0RKQUs0d0twUFIya1M5VDlyaU04V3QwTXJBVjR3Umt5RGlWUm9vS3VEQTh5NzZQeTc4d3loVjBfVTJVdUU1cDNsQllMZ1BkTExzVzQ1V2xkbjlDeWNzbF9DY3I2SzlYMlJpc1RuWVE?oc=5",
       "summary": "NBC News reports from Moscow as Russians react to their country's long war with Ukraine&nbsp;&nbsp;NBC News",
@@ -313,26 +391,6 @@
       "assets": []
     },
     {
-      "title": "How to stop the US-Israel war on Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw?oc=5",
-      "summary": "Share How to stop the US-Israel war on Iran on social media\nUS President Donald Trump is shown announcing that the US had begun 'major combat operations' in Iran, in an unknown location, in this screengrab from a video released on February 28, 2026 [Donald Trump via Truth Social/Handout via Reuters]\nThe war that Israel and the United States launched against Iran on February 28 is in a lull, not at",
-      "content": "Share How to stop the US-Israel war on Iran on social media\nUS President Donald Trump is shown announcing that the US had begun 'major combat operations' in Iran, in an unknown location, in this screengrab from a video released on February 28, 2026 [Donald Trump via Truth Social/Handout via Reuters]\nThe war that Israel and the United States launched against Iran on February 28 is in a lull, not at an end. Major combat has paused, diplomacy has stalled and both sides are preparing for the next round. To understand why the fighting will soon resume, we need to understand the motivations of the two governments that started it. Neither of them wants peace. Israel’s leadership seeks domination over the Middle East, and the United States seeks to preserve its domination over the world. Simply to state these aims is to underscore that both governments are operating in a world of delusion.\nIsrael’s political leadership is consumed by the belief that Israel’s survival depends on its military supremacy over the Arab world and on the permanent subjugation or elimination of the Palestinian people. This belief is a form of collective madness, yet it is the doctrine that governs Israeli policy. Israel’s leaders cannot accept that peace is within reach. In the  Arab Peace Initiative of 2002 , the Arab states offered Israel full normalisation in return for a Palestinian state on the 1967 borders, and that offer still stands. Peace cannot be built on genocide in Gaza or on hatred of the Palestinian people and the drive to remove them from their land. Yet that is the path Prime Minister Benjamin Netanyahu has chosen, and he now campaigns on it openly, with his “national religious” allies, including Itamar Ben-Gvir and Bezalel Smotrich, who twist religion in the service of hatred and killing.\nThe United States is consumed by its declining power. Iran has been a target for more than 70 years. In 1953, the CIA and British intelligence overthrew Iran’s elected prime minister, Mohammad Mossadegh, after he nationalised Iran’s oil. The United States then installed the shah and backed his police state until the Iranian people overthrew it in 1979. The US has never forgiven Iran for escaping from US domination. The US backed Saddam Hussein’s deadly war against Iran in the 1980s, and followed with four decades of economic warfare, covert operations, cyberattacks and assassinations. Trump tore up the 2015 nuclear agreement in 2018, bombed Iran’s nuclear sites in June 2025, and then, in February of this year, joined Israel in open war, killing Iran’s supreme leader in the opening strikes.\nWashington’s fixation on Iran is in the service of American hegemony. In The Grand Chessboard (1997), Zbigniew Brzezinski named Iran one of five “geopolitical pivots,” states that matter less for their own power than for where they sit. Iran commands the Gulf and the Strait of Hormuz. Brzezinski wrote that an “antihegemonic” coalition of China, Russia and Iran could emerge “only if the United States is shortsighted enough to antagonize China and Iran simultaneously.” Well, yes, Washington has been that shortsighted and reckless.\nThe signs that the war will restart are not hidden. This week, War Secretary Pete Hegseth visited Israel to discuss renewed joint strikes, and Israeli sources report that the plans target Iran’s petrochemical facilities and nuclear sites. The White House has promised that the United States will not attack Iran before the November 3 midterm elections, which is another way of announcing a timetable for war. The US naval blockade of Iran’s ports has passed its 100th day. Trump rejected Iran’s proposal for a seven-day ceasefire  in September, even though Tehran says the offer remains on the table.\nIsrael’s October 27 election adds fuel to the fire. On October 18,  Trump endorsed Netanyahu , saying the United States would “finish the job” against Iran only with Netanyahu in charge. On October 21, at a rally in Dimona (home to the reactor where Israel secretly built its own nuclear arsenal), Netanyahu declared that the only way to end the Iranian threat is to overthrow the regime and said he had issued that directive to the army, Mossad and the security services.\nIran has understandably drawn its own conclusions. Its commanders have announced a new offensive doctrine that includes preemptive strikes and attacks on bases in neighbouring countries used for operations against Iran, and they warn that renewed attacks would bring a global energy crisis. Attacks on shipping in the Strait of Hormuz reached a new peak this month.\nThis is the reality that the Arab world, especially the Gulf countries, now faces. The US bases across the Gulf did not bring security in this war. They turned their host nations into targets. The US-Israeli strategy of divide and conquer, which cast Iran as the region’s permanent enemy and invited the Arab states to shelter under American power while accepting Israeli hegemony, has brought war to the region, economic loss to the Gulf, and mass killings in Palestine and Lebanon.\nThe only way to stop this madness is for the Arab world to tell the United States that enough is enough. The Arab states should declare that they will never accept Israeli hegemony, that there must be a sovereign State of Palestine and that the region’s security will come from regional cooperation rather than from Washington. The solution could be two states, as in the Arab Peace Initiative, or one binational democratic state, or a confederation. What matters is that Israeli Jews and Palestinian Arabs, each about eight million people, live in peace, safety and self-determination. What is not possible is the perpetuation of Israel’s brutal apartheid state.\nThe beginnings are visible.  Qatar has called for a regional dialogue among the Gulf Cooperation Council states, Turkiye and Pakistan, and Qatar, Pakistan and Oman have kept the channels of mediation with Tehran open throughout the war. These efforts should grow into a standing regional security framework that includes Iran, the Gulf states, Egypt, Turkiye, Iraq and Pakistan, built on mutual non-aggression, freedom of navigation, and a zone free of nuclear weapons that must eventually include Israel.\nThe Arab states have far more leverage than they recognise. If Saudi Arabia, the United Arab Emirates, Qatar and their neighbours announced that their territory and airspace will not be used for another war on Iran, and that normalisation with Israel is off the table until a Palestinian state exists, the calculations in Washington and Tel Aviv would have to change quickly. And the American people, who hate the war on Iran and side with Palestine, would cheer.\nThe era of US-led divide and conquer, with Iran cast as the permanent enemy of the Arab world, is over, even if Washington and Tel Aviv refuse to admit it. The Arab states should say so openly now before the next round of war begins, and in doing so, open the way to a region that provides for its own security and peace.\nThe views expressed in this article are the authors’ own and do not necessarily reflect Al Jazeera’s editorial stance.",
-      "published": "2026-10-29T07:59:36+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 14.1,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
       "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
       "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
@@ -349,6 +407,51 @@
       "score": 13.9,
       "is_hypothetical": false,
       "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Warsh shakes up Fed's approach to setting interest rates - WBFF",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORkIzRkk1S2luQ1cwMFMwaG80YlBOLUFmcmJ1WTNHY3I2TnhoVmFMa05mNlB1T1ZPNGp3RFhWYkNLS25kNlpDMzBheHlFVnlUSTRqdDd2RVVaeTZrWklIdXNIV0ZYX082d2lkQ1lSaXlyQkRoTlNXX1NfeXdTNzJIMlBpdTNXU1ZlSW43OVlXbk92ejRSTTd0elVpRUR3M3FSU0FuanhDV3loYTlhQm84TlNoanZfNlpYQXpEZWVmUEN5NEZtSDVOVEl0VGxpZ2tLVGVpSnJ6Y0dPQ0xCTDI0TER5UldTNkJ6eWE2Z1BUbw?oc=5",
+      "summary": "Warsh shakes up Fed&#x27;s approach to setting interest rates\nWASHINGTON, DC - OCTOBER 28: Federal Reserve Chair Kevin Warsh delivers remarks during a news conference following the Federal Open Market Committee meetings at Federal Reserve Headquarters on October 28, 2026 in Washington, DC. The Federal Reserve will leave interest rates unchanged even as inflation remains elevated. (Photo by Alex Wo",
+      "content": "Warsh shakes up Fed&#x27;s approach to setting interest rates\nWASHINGTON, DC - OCTOBER 28: Federal Reserve Chair Kevin Warsh delivers remarks during a news conference following the Federal Open Market Committee meetings at Federal Reserve Headquarters on October 28, 2026 in Washington, DC. The Federal Reserve will leave interest rates unchanged even as inflation remains elevated. (Photo by Alex Wong/Getty Images)\nWASHINGTON (TNND) — The Federal Reserve is planning to cut down the number of its meetings devoted to moving its benchmark interest rate over the next two years in one of the most significant shifts yet under its new chairman.\nFed Chair Kevin Warsh announced the change after Wednesday’s meeting, where the central bank opted to keep rates steady despite mounting pressures on inflation. Beginning next fall, the Fed will dedicate one of its eight policy meetings to weigh broad-based questions about the economy instead of voting on interest rates. In 2028, there will be two meetings without a rate decision.\nWarsh argued the longer gap between meetings would give officials more time to gather data to see how the economy is responding to previous decisions and allow them to make more informed judgements on how to move forward.\n“Getting policy right involves assessing near-term developments at timely, regular and information-rich intervals,” Warsh said. “But it’s equally important we reserve time and space as an intellectually diverse group for strategic deliberations, for thinking anew about big questions, looking out over longer time horizons.”\nCutting down the number of rate-setting meetings is a significant shift for the Fed, which has run on its eight-meeting schedule since 1981. While Fed officials will still meet at the same frequency, they will have fewer planned opportunities to shift monetary policy.\n“It serves a useful purpose to meet eight times a year. It&#x27;s arbitrary whether it&#x27;s six or eight, but it gives you an opportunity to actually have to make decisions, and that is do more than talk about something where you really have to figure out where things are and whether you want to stay the same,” said Thomas Hoenig, former president and CEO of the Kansas City Fed and distinguished senior fellow at the Mercatus Center. “By eliminating the meeting, you may decrease the likelihood that you have a discussion about where the economy is and whether you should actually take an action. I think that&#x27;s a loss, frankly.”\nDepending on which meetings are changed on the calendar, the Fed could go nearly three months without a regularly scheduled opportunity to adjust interest rates, compared to the current roughly six-week interval.\nIt’s not yet clear what, if anything, will come out of the meetings that do not include a rate decision. Warsh also did not indicate which meeting will be the first to go.\n“I do not anticipate making any policy decision, putting out a policy statement. But what might we come out with? It&#x27;s not obvious yet,” Warsh said.\nThe Fed’s rate-setting meetings are always closely watched by investors and economists but have been under particular scrutiny in recent years after inflation spiked to a high of 9.1% in 2022. While the pace of price increases has slowed significantly since then, inflation still remains well above the Fed’s 2% target.\nIt is not the first time the Fed has considered scaling back the number of rate-setting meetings , but it has never made the switch over concerns it could become less responsive to sudden changes in the economy. The Fed is required to meet at least four times a year, which Warsh said during his confirmation hearings was not enough.\nSome economists have argued fewer rate decisions would give Fed officials more time to see meaningful changes to the economy and allow them to make more informed decisions. The Fed can also hold emergency meetings during times of sudden turmoil, which it has done in the past, most recently in 2020 during the onset of the coronavirus pandemic.\nBut reducing the number of scheduled rate decisions will also change the balance of influence within the central bank and make choices to call additional meetings more consequential. While the chair does not make interest rate decisions alone, the decisions on whether to meet or adjust rates could take on more importance.\n“It now places more discretion in the hands of the chairman as to whether they hold an extra meeting for a vote, and otherwise there will be no meeting, so there&#x27;ll be two less opportunities for presidents and for governors to vote on conditions,” Hoenig said. “In that sense, it does put more authority in the hands of the chairman and the FOMC broadly.”\nIt is the latest push by Warsh to get financial markets, which closely monitor Fed meetings and speeches from its officials, to become less reliant on communication from the central bank and focus more on incoming economic data. Warsh has significantly scaled back the level of communication coming from the central bank, dialing down the length of post-meeting policy statements, avoiding giving forward guidance and sitting out of making quarterly projections for rates and other economic conditions.\nWarsh’s perspective on forward guidance is a departure from his recent predecessors, who generally embraced greater transparency in an attempt to reduce market volatility and help investors better understand the Fed’s objectives.\nHe has also tried to remake the Fed in other ways, creating task forces to examine whether the Fed should make more changes. The task forces are looking into how the central bank communicates, manages its massive balance sheet, how it gathers and interprets economic data, the impact artificial intelligence is having on the economy and how it analyzes inflation.\nSUN: Steve Pappas, Ocean City’s Original Greene Turtle owner, dies\nSteve Pappas, who transformed Ocean City’s Original Greene Turtle from a beach-town pub into a regional sports bar brand, died Wednesday, marking the loss of a\nAfter email remark, Mayor Scott says he uses city account &#x27;when appropriate&#x27;\nMayor Brandon Scott said he uses his city email account \"when appropriate\" and denies using a personal email account for city business.\nMan, woman arrested after traffic stop reveals gun, drugs in Carroll County\nA man and woman were arrested after a traffic stop revealed a gun and drugs in Carroll County on Wednesday morning.Daniel Fletcher, 43, of Reisterstown, and Bri\nTwo Baltimore men indicted for deadly shooting of child, attack on seniors\nBaltimore officials announced indictments in two \"high profile\" cases on Thursday morning.State&#x27;s Attorney Ivan Bates, Mayor Brandon Scott, Baltimore Police Col\n28-year-old bride-to-be dies after bowling machine accident\nA 28-year-old woman who was engaged to be married died after suffering fatal injuries in an accident involving a bowling pin-setting machine in Turkey.\nNEW Promises made, promises kept? Moore’s Red Line seen as dream ahead of election\nNEW Critics warn $280m bond plan could leave taxpayers in the dark on spending\nHomicide investigation underway after man found dead at Hyattsville park\nNew details revealed in Khloe Ishway&#x27;s death as Tyree Reynolds faces 29-count indictment",
+      "published": "2026-10-29T20:08:27+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkdacW5ISTg1djZDV3kzbVhqOUVkNXhyQVh2bFJRT25NZ3VpSHBwZlBLZ3l4Q1lWU0lpdUhCY21BOVRMbzJtbmxxeHZ3b3VkQUZPRUNCVXY5OXdpS056emN4VU5VQjgtbFYwVjdSalkxeF84NWxHTGNoeTFlUGJvQlM2bkRaTlFTTnVQa0REX2Q4eGdISkwwdjIyc2tTYjg?oc=5",
+      "summary": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-29T12:54:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN Geopolitics"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
     },
@@ -376,30 +479,46 @@
       ]
     },
     {
-      "title": "US Stock Futures Mixed as Alphabet Falls, Microsoft Gains and Fed Comments Draw Attention to AI Spending: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdURLVzBmX2N0aFJwbU5LUHo5cmo1VDFqaXlzdk5yQTRKaUFHeERjMHZuSlh2QXA2S2ZpM1Rob1FLMWJnTTZMNlRvVmhWR3VteFNVVlRfa2FKRFJLTC1yV0k0Qll2QUN5czhNME13ZHIwMmx1Q0R6MkxNLTFzZUZoZk9oRExzTGt3SDlqRjNST3A2OXNwQUMxVHBRLWo?oc=5",
-      "summary": "US Stock Futures Mixed as Alphabet Falls, Microsoft Gains and Fed Comments Draw Attention to AI Spending: Dow Jones, S&amp;P, Nasdaq, Wall Street&nbsp;&nbsp;Yahoo Finance",
-      "content": "US Stock Futures Mixed as Alphabet Falls, Microsoft Gains and Fed Comments Draw Attention to AI Spending: Dow Jones, S&P, Nasdaq, Wall Street\nWall Street subway station ©Rawpixel US stock index futures were mixed on Thursday as investors assessed quarterly earnings from major technology companies and comments from Federal Reserve Chair Kevin Warsh concerning the potential impact of higher interest rates on artificial intelligence investment.\nNasdaq futures declined 1.3%, while S&P 500 futures fell 0.5%. Dow Jones futures advanced 0.3%, reflecting differing movements across the major US equity benchmarks.\nAlphabet shares dropped more than 10% in premarket trading following its quarterly results, while Microsoft advanced after reporting revenue and earnings above expectations. Samsung Electronics also declined following its semiconductor division's earnings announcement.\nNasdaq Futures Fall 1.3% as Technology Shares Decline\nAt 04:03 ET (08:03 GMT), Nasdaq futures were down 400 points, equivalent to 1.3%.\nS&P 500 futures declined 36 points, or 0.5%, while Dow Jones futures gained 150 points, representing an increase of 0.3%.\nThe movements followed gains across the main Wall Street indices in the previous session, when technology shares benefited from renewed investor interest in artificial intelligence-related companies.\nRecent financing agreements, corporate earnings announcements and Oracle's commitment to limit fundraising through fiscal 2030 had contributed to the preceding session's market performance.\nHowever, sentiment toward technology stocks changed following the latest quarterly earnings announcements.\nAnalysts at Deutsche Bank described a more cautious approach to technology shares as \"the main theme in markets\" during Thursday morning's trading.\nAlphabet Shares Decline More Than 10% Following Quarterly Results\nAlphabet (NASDAQ:GOOG) shares fell more than 10% in US premarket trading after the Google parent reported third-quarter results below market expectations.\nDeutsche Bank analysts described the company's earnings as \"underwhelming results.\"\nThe earnings shortfall was primarily associated with revenue from Google's services business.\nAdvertising revenue growth also slowed to its lowest rate in five quarters.\nDuring the company's earnings call, management reported increased adoption of Google's \"AI Mode\" search feature, although revenue generated from these searches was growing more slowly than revenue from traditional search activity.\nThe difference in monetisation rates attracted attention as Alphabet continued investing in artificial intelligence infrastructure.\nAlphabet reported capital expenditure of $51.4 billion, an increase of $6.5 billion compared with the preceding quarter.\nThe higher spending contributed to a further deterioration in free cash flow, which moved deeper into negative territory.\nThe company has continued allocating substantial financial resources to expanding its artificial intelligence capabilities and supporting infrastructure.\nInvestors were assessing the relationship between the company's investment expenditure and the revenue generated by its AI-related services.\nThe quarterly figures provided additional information about the financial implications of Alphabet's technology investment programme.\nMicrosoft Reports 19% Revenue Growth to $92.28 Billion\nMicrosoft (NASDAQ:MSFT) shares advanced in premarket trading after the company reported quarterly revenue and adjusted earnings above analyst expectations.\nRevenue increased 19% to $92.28 billion in the company's first fiscal quarter.\nAdjusted earnings reached $4.89 per share, exceeding Wall Street forecasts.\nThe results included a 48% increase in revenue from Microsoft's Azure cloud computing business.\nThe expansion of Azure contributed to the company's overall revenue performance as demand for cloud computing and artificial intelligence services continued.\nDespite Microsoft's results, Deutsche Bank analysts said they were \"insufficient to brighten the overall gloomy tech mood this morning.\"\nMicrosoft also recently announced plans to offer voluntary buyouts to a portion of its workforce.\nAccording to a report by The Wall Street Journal, approximately 60,000 employees could be eligible for the programme.\nMicrosoft reported a workforce of 223,000 employees at the end of June.\nThe announcement came during a period of continued investment in cloud computing and artificial intelligence infrastructure.\nThe company did not provide additional financial details about the buyout programme in the supplied report.\nSamsung Semiconductor Profit Falls Short of Expectations\nSamsung Electronics (USOTC:SSNHZ) shares declined more than 4% during trading in South Korea after the company's semiconductor division reported operating profit below analyst expectations.\nThe decline followed gains in Samsung's share price earlier in the year.\nSamsung also provided no additional information about a potential shareholder return programme.\nThe company nevertheless reported its fourth consecutive quarter of record group-wide income.\nOverall operating profit reached 100 trillion won, equivalent to approximately $74.52 billion.\nThe results highlighted differences between the performance of Samsung's semiconductor operations and its consolidated financial figures.\nSamsung Reports Memory Chip Supply Fully Booked for Next Year\nSamsung executives told investors that the company's memory chip supply for the following year was already fully booked.\nThe company attributed demand to the increasing use of memory chips in artificial intelligence computing systems.\nSamsung supplies memory products to technology companies including Nvidia and other businesses involved in AI infrastructure.\nManagement also indicated that limited availability of memory chips could persist over the next several years.\nAccording to the company, continued supply constraints could contribute to higher memory chip prices.\nThese comments accompanied the semiconductor division's earnings announcement and the broader discussion of demand for AI-related hardware.\nFederal Reserve Chair Discusses Interest Rate Impact on AI Investment\nFederal Reserve Chair Kevin Warsh addressed the relationship between monetary policy and investment in artificial intelligence following Wednesday's interest rate decision.\nThe Federal Reserve left its benchmark interest rates unchanged, in line with market expectations.\nWarsh discussed the argument that investment returns from artificial intelligence could limit the sensitivity of the sector to higher borrowing costs.\nHe referred to the view that tighter monetary policy was \"not going to have any effect on AI because the returns that investors are expecting are so different,\" but said he had been \"skeptical of that view.\"\n\"Interest rates get in the cracks. Interest rates affect, directly or indirectly, almost everything,\"\nHis comments came as companies involved in artificial intelligence increasingly used debt and equity markets to finance infrastructure investment.\nInvestors were also evaluating the Federal Reserve's potential monetary policy decisions for the remainder of 2026.\nMarket expectations pointed toward another interest rate increase in December.\nThe Federal Reserve had previously raised borrowing costs in September, marking its first rate increase since 2023.\nThe prospect of additional monetary tightening remained relevant to companies financing capital expenditure through borrowing and equity issuance.\nWarsh's comments placed attention on the possible effects of interest rates across technology investment and corporate financing.\nAmazon and Intel Earnings Due After US Market Close\nInvestors were awaiting additional quarterly earnings announcements from Amazon and Intel, both scheduled for release after Thursday's US market close.\nThe reports follow the publication of financial results from Alphabet, Microsoft and Samsung Electronics.\nMarket participants were monitoring technology companies' revenue growth, profitability, capital expenditure and demand for artificial intelligence infrastructure.\nThe European Central Bank was also scheduled to announce its latest interest rate decision later on Thursday.",
-      "published": "2026-10-29T11:26:40+00:00",
-      "source": "GN Markets",
+      "title": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVI4eWdBdGFxZlM5TnFMNWcxY2VpS0hjMDlZbXZzaFBrbFZkaGdTMmpkQVNqS3VHbVR5X1dUWHJfOFEwd3kxOExUNVZBcElsd0xMZVhueWJNOWZCQ1hfdVpNWkIxWlpZT1E1QVdVdklaaXlIUENzV3JrTmRWbW11S2pJbkg1OUxDbFltd09SZFl3N2ExRl9TbW1kRkhQMTJlSnNqTlM0SUFxc2U0RXhqcHp3amJBYUU?oc=5",
+      "summary": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-29T23:33:43+00:00",
+      "source": "Reuters World",
       "sources": [
-        "GN Markets"
+        "Reuters World",
+        "AP World",
+        "Al Jazeera"
+      ],
+      "source_count": 3,
+      "category": "us",
+      "category_zh": "美国",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Putin says Moscow seeks better European ties, conflict will produce no winners - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1BuNGpORFprSUxsY212N0RyamVmZVQ0a3lJRW1zQk9oM2U3a3ZzMDV4YWNBaWFsd1dvYjVCRUcwVFR5dGdfTV85Q2MxN20xR1FaZ09WdDNrdTU1dmhMYXRxYkFfN21oQWllbFNSamo0WVRhbU9BNWtsVkV3d2NuQ3hfczk3cV9VTFM4bl9mRTBkU1FsTnl6RDZUZEl1Wm9sSElGaDVmU2tJc0dZRWU2bFBYWlp6X2tTdk9EcWhyMFZXOTlF?oc=5",
+      "summary": "Putin says Moscow seeks better European ties, conflict will produce no winners&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-10-29T22:09:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
       ],
       "source_count": 1,
-      "category": "markets",
-      "category_zh": "市场",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
-      "score": 13.8,
+      "score": 13.6,
       "is_hypothetical": false,
       "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响：美债 / 美元 / 美股 / 科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "美债",
-        "美元",
-        "美股",
-        "科技股",
-        "半导体"
-      ]
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
     },
     {
       "title": "Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti - Reuters",
@@ -423,51 +542,25 @@
       "assets": []
     },
     {
-      "title": "Trump administration bolsters bid to block Alaska Senate certification - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc?oc=5",
-      "summary": "Trump administration bolsters bid to block Alaska Senate certification&nbsp;&nbsp;Reuters",
+      "title": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
+      "summary": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-29T10:03:00+00:00",
+      "published": "2026-10-29T23:46:15+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World",
-        "Al Jazeera"
+        "BBC World"
       ],
       "source_count": 2,
-      "category": "us",
-      "category_zh": "美国",
+      "category": "europe",
+      "category_zh": "欧洲",
       "stars": 3,
       "score": 13.6,
       "is_hypothetical": false,
       "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "China's Communist Party conclave on toughening discipline sees record expulsions, absences - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUEtOURjOXhiX3AyUzZjeVhLOTByR2dqLXZyNkJLa3BCa1JLOWRFblV2NlJaWUZkemRuMGE4bDA1V2RDUGJjR3VCa1d3Z0VYYmhrYjJwdl9ZYWM5bW5yd2pjWDVCWDJvQmk2N0NlWFNvNkZTcTlvSEhpOEJGZ0J1ZDd1OUVpX3JHblJRT2VES3BFS0UtUnppTjV0eDhReE5selVOTVdLWTNCVEtpMkN0YXU0dUU1RmdMeGdXN1ZfUGY2RUVyVEdJS2VBc1g?oc=5",
-      "summary": "China's Communist Party conclave on toughening discipline sees record expulsions, absences&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-29T15:06:39+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World",
-        "BBC World",
-        "NPR World"
-      ],
-      "source_count": 3,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
-      "assets": [
-        "A股",
-        "港股",
-        "人民币"
-      ]
     },
     {
       "title": "A historic drop for Alphabet’s stock drags the US market lower - AP News",
@@ -559,11 +652,31 @@
       "assets": []
     },
     {
+      "title": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1pfMWFrRUUxaDVLaVhOZlE5WTlYbHE1czI5QnR2YWFWTDhSMUdkODRZYm15RGszeFk2WUhqcUlDT1F5VjZlaWdHRlJ5a3pxMTI2VUNyQ0VXSzNkcDk0VDV1T2l2dU9RTlpKMXdsMWFqODJ0LU9Xa190QU1VV29UQVQxTHlaY1VxSU5fejJ3bTV1YTA?oc=5",
+      "summary": "Dow, S&amp;P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus&nbsp;&nbsp;Yahoo Finance",
+      "content": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus\nAmazon stock plunged more than 7% overnight after its third-quarter capital expenditures ballooned.\nIntel stock tumbled more than 23% after hours after a weak fourth-quarter forecast and a slump in personal computer sales.\nOil prices climbed higher amid freshly reported tensions in the Strait of Hormuz.\nU.S. stock futures traded lower overnight late Thursday after disappointing earnings from Intel Corp. (INTC) and Amazon.com Inc. (AMZN) dragged markets down.\nAs of 11:44 p.m. EDT, Dow futures fell 0.17%, while the S&P 500 futures were down 0.95% and Nasdaq-100 futures fell more than 2%.\nSee what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox\nOn Thursday, all three U.S. benchmark indexes closed lower. The Nasdaq Composite closed down 1.38%. The Dow Jones Industrial Average fell 0.25%, while the S&P 500 declined 0.30%.\nMarkets are headed for a mixed close in October, with the Nasdaq likely to end about 2.5% lower, while the Dow and S&P 500 are headed to close in the green.\nOn Thursday, investors focused on major technology earnings. AMZN stock plunged more than 7% overnight after its third-quarter capital expenditures ballooned past Wall Street expectations, stoking investor anxiety about the sustainability of its AI buildout plans.\nThe e-commerce giant clocked more than $77 billion in spending on property and equipment over the quarter, primarily for new data center construction and expansion of its computing capabilities. This resulted in a free cash outflow of $42.4 billion.\nMeanwhile, its online sales grew just 2%, marking the slowest growth since early 2023. However, Amazon Web Services (AWS) continued a strong upward trajectory, accelerating for the sixth straight quarter.\nGene Munster, managing partner at Deepwater Asset Management, said in a post on X, \"From the call, it's clear $AMZN management wants the Street to think of the company as a AI data center and chips company. Forget retail. That (has) been the consistent message on the call, underscored by them doing the unthinkable: giving two-year AWS revenue growth guidance of 40%+ in each of 2027 and 2028, above the just-reported 39%. They typically only guide AWS one quarter out.\"\nMeanwhile, INTC stock tumbled more than 23% after hours after the company issued a weak fourth-quarter forecast and personal computer sales slumped.\nIn the third quarter, Intel posted sales of $16.5 billion, a 21% increase from the same period last year and in line with analysts' average estimates. Adjusted earnings came in at $0.52 per share, beating Wall Street expectations.\nHowever, a severe shortage of memory semiconductors drove up desktop and laptop prices, dampening end-user demand.\nCEO Lip-Bu Tan said data center performance could have been stronger without raw material shortages and an unexpected factory shutdown in Israel. He also added that memory pricing is expected to remain a severe industry-wide challenge heading into 2027.\nMunster noted Intel's results in a separate post on X, saying \"Main issue is PC demand. If there is pricing pressure on DCAI it suggests they are likely losing share. The company is calling like it is, demand is slowing because of high memory costs. That's a read on how customers fell about their chips. If customers were demanding them, high memory costs would have little impact on demand.\"\nThe weakness in AMZN and INTC shares spilled over to other chipmakers, dragging down shares of Nvidia Corp. (NVDA), Micron Technologies (MU), Broadcom (AVGO) and Advanced Micro Devices (AMD), among others.\nThe iShares Semiconductor ETF (SOXX) fell 1.55% at close, while the Direxion Daily Semiconductor Bull 3X Shares (SOXL) dipped more than 4%. The VanEck Semiconductor ETF (SMH) declined more than 1%, and the Roundhill Memory ETF (DRAM) slipped more than 4%. All the funds continued to decline overnight.\nMeanwhile, U.S. consumer spending rose in September as inflation remained high at 3.6%. The personal consumption expenditures price index rose 0.5% seasonally adjusted for the month, the largest monthly rise since March, while the annual rate was 0.1 percentage point below expectations. Core PCE came in at 0.3% and 3.1% monthly and annually, respectively.\nOn the geopolitical front, tensions continue to rise. The navy of Iran's Islamic Revolutionary Guard Corps (IRGC) said three tankers caught fire in the Strait of Hormuz after hitting mines, while another vessel struck naval mines in the eastern part of the critical waterway.\nOn Thursday, media reports suggested that U.S.Vice President JD Vance sent Iran a U.S.-backed proposal to restart diplomacy, linking the reopening of the Strait of Hormuz and sanctions relief to early nuclear commitments. However, formal deal negotiations are yet to reach a constructive conclusion.\nOil prices climbed higher amid the freshly reported conflict in the Strait. Brent crude futures were trading at $116.09 a barrel, up more than 1%, while WTI crude futures traded 1.38% higher at $103.41 per barrel.\nIntel Corp. (INTC): The computer hardware maker was on the retail radar after disappointing results and a sharp plunge in its share price.\nIovance Biotherapeutics Inc. (IOVA): The stock plunged more than 35% at close and continued to decline overnight after the biotech firm posted the latest lung cancer trial results, which were marginally lower than previously reported response rates.\nSELLAS Life Sciences Group Inc. (SLS): The company's Phase 3 REGAL trial of galinpepimut-S in acute myeloid leukemia reached its prespecified 80th death event, triggering final data analysis, with preliminary topline results expected this quarter. Shares declined about 2% at close on Thursday.\nAmazon.com Inc. (AMZN): The e-commerce giant was in the retail spotlight after its Q3 earnings results dragged its share lower.\nAmong ETFs tracking benchmark indexes, the SPDR S&P 500 ETF (SPY), the Invesco QQQ Trust (QQQ) and the SPDR Dow Jones Industrial Average ETF Trust (DIA) were all headed lower at the time of writing.\nMeanwhile, the 10-year U.S. Treasury yield was trading at 4.925%, while the 30-year yield was 5.29%.\nThe iShares 20+ Year Treasury Bond ETF (TLT) was up 0.47% amid 'bearish' sentiment.\nAsian markets opened mixed on Friday. South Korea's KOSPI, China's SSE Composite, and Japan's Nikkei 225 opened lower, while Australian stocks ticked higher.\nFor updates and corrections, email newsroom[at]stocktwits[dot]com.\nAashika Suresh has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .\nWhy Did MA, LNG, VTRS Stocks Surge To 52-Week Highs?\nWhy Did NFLX, MBLY, APP Stocks Tumble To 52-Week Lows?\nSNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
+      "published": "2026-10-30T04:03:00+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGltbXc1aTdfR0pWSUIzSUsxUDgyZE9ubHkwQUdpOEd4aHcySkFfNW43ZDdMMkV5a1ZIZVFjYzRKQmx2TmFuNUZ2T2tVdGRmWjJqbmpXZEh5S1ZsOTNvMElTUUpZV0lsWkRFaTZ4R1JzQ2F2ODBIMGNabG5nMTNQYUVXX2szUXYxMU50NTQyb2hYR3RzOTBMeFk1ejNpaDdiWWc?oc=5",
       "summary": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom?&nbsp;&nbsp;The Motley Fool",
       "content": "ASML ( ASML +0.77% ) makes the machines that make the world&#x27;s most advanced chips, yet Nvidia ( NVDA -0.80% ) brings in nearly 10 times as much revenue -- here&#x27;s why that gap exists, and why it doesn&#x27;t make ASML the weaker business.\nASML Holding primarily generates revenue by designing, manufacturing, and selling advanced extreme ultraviolet (EUV) and deep ultraviolet lithography systems that global semiconductor manufacturers require to produce highly complex integrated circuits for modern electronic devices.\nIt recently initiated construction of a major new Eindhoven manufacturing campus to systematically expand its operational footprint, and it concurrently faced ongoing geopolitical discussions about potential United States export restrictions affecting its older equipment lines.\nNvidia primarily earns its revenue by developing the advanced graphics processing units (GPUs) , specialized computational platforms, and high-performance networking solutions widely utilized across enterprise data centers, global gaming platforms, and emerging automotive systems worldwide.\nIt recently introduced several new modular infrastructure designs to drastically reduce data center deployment times across Europe. At the same time, the United States Department of Justice formally opened an antitrust investigation into the licensing agreement between the United States Department of Justice and Groq.\nRevenue here refers to the income statement revenue line item, which helps investors gauge a company&#x27;s ability to sustain consistent customer demand over time.\nASML Holding vs. Nvidia Revenue over the last 8 quarters. Figures: ASML Holding shown in U.S. dollars, converted from euros.\nCalendar quarter ASML Holding Revenue Nvidia Revenue\nQ4 2024 $9.9 billion (quarter ended Dec. 31, 2024) $39.3 billion (quarter ended Jan. 26, 2025)\nQ1 2025 $8.2 billion (quarter ended March 31, 2025) $44.1 billion (quarter ended April 27, 2025)\nQ2 2025 $8.7 billion (quarter ended June 30, 2025) $46.7 billion (quarter ended July 27, 2025)\nQ3 2025 $8.8 billion (quarter ended Sept. 30, 2025) $57.0 billion (quarter ended Oct. 26, 2025)\nQ4 2025 $11.4 billion (quarter ended Dec. 31, 2025) $68.1 billion (quarter ended Jan. 25, 2026)\nQ1 2026 $10.1 billion (quarter ended March 31, 2026) $81.6 billion (quarter ended April 26, 2026)\nQ2 2026 $10.6 billion (quarter ended June 30, 2026) $96.2 billion (quarter ended July 26, 2026)\nQ3 2026 $13.3 billion (quarter ended Sept. 30, 2026) Not yet reported\nData source: Financial Modeling Prep. ASML Holding&#x27;s figures are converted from euros to U.S. dollars. Data as of Oct. 22, 2026.\nThe first thing that jumps out between these two top semiconductor stocks is their revenue gap. Despite ASML&#x27;s dominant position supplying the chipmaking equipment that is used to make Nvidia and a host of other companies&#x27; chips, Nvidia generates nearly 10 times as much revenue.\nThe main reason for this is that Nvidia&#x27;s chips are the tools that convert AI compute into revenue, which is extremely valuable for data centers. ASML merely supplies the equipment to chipmakers like Taiwan Semiconductor Manufacturing to build chips, but Nvidia is the one capturing the most value in the AI supply chain.\nThis shows up in their margins, too. Nvidia keeps 74 cents of every dollar of revenue as pre-tax profit, while ASML keeps only 49 cents, as of their recent quarters.\nStill, it&#x27;s important to keep in mind that relative revenue and margins don&#x27;t measure importance. ASML is arguably the more important company in the AI supply chain, since it&#x27;s the sole supplier of EUV machines used to print the intricate circuit patterns on the silicon wafers. Without ASML, the economy would be starved of chips, and Nvidia would have no chips to sell.\nASML may never catch Nvidia in revenue, but that doesn&#x27;t mean ASML is an inferior business. Given the competition Nvidia faces from other chip designers like Broadcom , ASML may be the safer stock for investors to profit from the AI chip boom. However, Nvidia&#x27;s faster growth rate may offer more long-term upside potential.\nBest International Stocks to Buy in 2026: Are They Right for Your Portfolio?\nASML Has Incredible News for Nvidia Stock and Micron Stock Investors\nASML vs. Dell Technologies: Which Tech Stock Is a Better Buy in 2026?\nASML Just Announced Fantastic News for Investors in AI Stocks\nJohn Ballard has been a contributing writer at The Motley Fool since 2016, covering consumer goods and technology stocks. He holds a bachelor’s degree in business administration with a focus in real estate finance from the University of Arkansas at Little Rock.\n*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.",
-      "published": "2026-10-30T02:27:20+00:00",
+      "published": "2026-10-30T02:45:43+00:00",
       "source": "GN AI",
       "sources": [
         "GN AI"
@@ -676,7 +789,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
       "summary": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86&nbsp;&nbsp;Reuters",
       "content": "",
-      "published": "2026-10-29T21:22:38+00:00",
+      "published": "2026-10-29T20:00:00+00:00",
       "source": "Reuters World",
       "sources": [
         "Reuters World"
@@ -732,31 +845,11 @@
       "assets": []
     },
     {
-      "title": "Spain's deadly train crash adds new complication to Sanchez reelection campaign - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamRkSG5EM2lKcnJvZDNfSG53WC0wa2g4TGNZc202Y1dQZXdnLTJ3LXE3TXFKWXUwaDJoUHRrMUluMTlrUWlNQkd0d1hveGdGLXRhUUw2LTM2YlJGYWdkRTUtU2VKZ3FKZGhwRl93bXB4N2o1QnhONWZpSUZ1T1JrUkdBSHJqRi1fQXFpUlRNX1h5aW9jcUZfU1Y4Q2o5elktSjdUaXQ5bXJvX3pzZzBwbTBPVTY5VGo5bGpXeXRCX0R1UQ?oc=5",
-      "summary": "Spain's deadly train crash adds new complication to Sanchez reelection campaign&nbsp;&nbsp;Reuters",
-      "content": "",
-      "published": "2026-10-29T12:05:21+00:00",
-      "source": "Reuters World",
-      "sources": [
-        "Reuters World"
-      ],
-      "source_count": 1,
-      "category": "europe",
-      "category_zh": "欧洲",
-      "stars": 3,
-      "score": 13.1,
-      "is_hypothetical": false,
-      "why_important": "具备一定市场关注度，纳入观察清单。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "European Central Bank head resigns, allowing EU leaders to choose successor before French election - AP News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
       "summary": "European Central Bank head resigns, allowing EU leaders to choose successor before French election&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-29T14:46:00+00:00",
+      "published": "2026-10-30T03:42:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World"
@@ -770,6 +863,31 @@
       "why_important": "具备一定市场关注度，纳入观察清单。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
+    },
+    {
+      "title": "China's record-breaking exports of clean tech are making a big dent in emissions, report says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDNlWlQtOWtfcVlQajdJVUo1YW5ONVdJNUUxNWdmcHc1SF9LWURKc2xLVUlORjhrS1JQLUF0NjJ3d3lFRHlQejltTVBvY3B4SFJQWW96dHhEYXB1U2hIUXU3UFdRM3h4LWVJMHpRby1idHJiLUZPZ1VhcGsxMXF4alpwVWQyeUJsMnFxSGstS3BMbVg0VE5zUDBzSDFsZ3g1cUEzdHpEZw?oc=5",
+      "summary": "China's record-breaking exports of clean tech are making a big dent in emissions, report says&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-10-29T10:01:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "GN China"
+      ],
+      "source_count": 2,
+      "category": "china",
+      "category_zh": "中国",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
     },
     {
       "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
@@ -801,7 +919,7 @@
       "title": "What's Next for Global Natural Gas Demand - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzlzN3Y0azlZeHQ4RUlFazYzZ2JiTjQzT3JfNEtJUFRSZXJWUGNEMnpFU2UzNkczaDE3bjVzZFFaVGlrTlp2a3l3bXl0VEJWcGF0a0x6SS1EOTI5UnZIdHRyWjhCRV9zbDg2RkVxX0RNN0hTcF9uWmE1UHVWM2MzUjgza1dhbUp6MVJKRkNR0gGTAUFVX3lxTE1fZVJkLS00VXVyXzRxY2lSQVBBU3pRRHJYYmxSR0ljMjVKMzJMYWRmeGdfU2hRNjRjSzRheVZManhiZ3o1ZHo2b2VEY3lYRXNUM1ZveFdrLUg5aEtUaF9jR0ZVbElpb3pOeXBpYkh6aXJULWdmVGN1RG1FOTVMUlhUeDctb2RKVjhfb0QyMkhwR3RGRQ?oc=5",
       "summary": "What’s Next for Global Natural Gas Demand? | OilPrice.com\nExxon, Chevron Executives Cancel Gulf Visit Over Security Concerns\nMexico’s Richest Man Sells $1.15 Billion in Oil Stocks\nSinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb\nTrafigura Signs New Gas Supply Deal with German SEFE\nUK National Grid to Extend France Power Link Operation to 2050\nIran War Hikes EU’s Oil Import Bill By $11 Bi",
-      "content": "What’s Next for Global Natural Gas Demand? | OilPrice.com\nExxon, Chevron Executives Cancel Gulf Visit Over Security Concerns\nMexico’s Richest Man Sells $1.15 Billion in Oil Stocks\nSinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb\nTrafigura Signs New Gas Supply Deal with German SEFE\nUK National Grid to Extend France Power Link Operation to 2050\nIran War Hikes EU’s Oil Import Bill By $11 Billion Per Month\nShell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record\nTotalEnergies Profit Doubles as War Boosts Refining and Trading\nEquinor Doubles Estimate for Major North Sea Gas Discovery\nEU Scrambles to Contain Energy Price Crisis Ahead of Winter\nOil Prices Fall as Vance Moves to Restart Iran Peace Talks\nHow Trump’s Russian Diesel Could End Up in Cuba Instead\nGE Vernova Expands in High-Voltage Grid Gear With Trench Deal\nUBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels\nEquinor Raises Oil and Gas Output Forecast as Operating Profit Doubles\nChina’s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease\nQatarEnergy Extends LNG Force Majeure to End of 2026\nBahri Profit Hits $1.36 Billion as the World Scrambles for Tankers\nIndia's Gasoline Demand Could Peak by 2035 as EVs Gain Ground\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nOil Traders Brace for Iran Escalation After U.S. Elections\nSanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nDiesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion\nIndia Rejects Claims of U.S. Pressure Over Russian Oil Purchases\nTrump Moves to Ease Methane Regulations for U.S. Oil Producers\nIEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains\nIndia’s Oil Buyers Squeezed by $123 Crude and Weak Rupee\nOil Prices Drop Despite Threat of New U.S. Strikes on Iran\nExxon, Chevron Executives Cancel Gulf Visit Over Security Concerns\nThe Iran War Just Added $39 Billion to the World's LNG Bill\nChina’s $3 Billion Qatar LNG Deal Raises an Awkward Question\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nThe Iran war has accelerated a decline in natural gas's share of electricity generation, as soaring prices push Europe and Asia toward renewables and coal.\nRenewables are increasingly displacing gas in power markets, with clean energy meeting 68% of global electricity demand growth between 2020 and 2025.\nLong-term LNG demand remains strong despite the current crisis, with Shell forecasting 65% growth by 2050, supported by industrial demand and the AI data center boom.\nThe Iran war and the lack of LNG supply from the Middle East have upended forecasts of near-term natural gas demand and import costs.\nSo far this year, economies in Europe and Asia have relied more on renewables and coal for power generation to offset reduced gas supplies procured at very high prices.\nThis year’s crisis has prompted governments to rethink energy policies with energy security the top priority, again, after the 2022-2023 energy crisis.\nAfter the decline in global gas demand this year, due to prices at four-year highs, the obvious question for gas market participants is where demand is going after the current crisis ends. Has the second gas crisis in four years permanently undermined expectations of long-term gas demand growth?\nGas cannot be replaced in many industrial processes, yet. Electricity-generating systems in major economies that have relied on gas for power cannot have a reliable electricity supply without gas.\nStill, this year and over the past four years, key gas markets in Europe and Asia have seen the share of gas in their electricity mix decline.\nThe UK, the Netherlands, and Turkey, and major Asian economies China, Japan, and South Korea, have all seen the share of gas-fired electricity drop, according to data from think tank Ember cited by Reuters columnist Gavin Maguire.\nThe spike in natural gas prices has accelerated Europe’s renewables rollout, which took off in earnest earlier this decade when Russia invaded Ukraine in 2022 and cut off pipeline gas supply to most of Europe. The share of renewables has surged in the EU and the UK in recent years, gradually sidelining gas as the reliable backup fuel rather than the one meeting growing electricity demand.\nGlobally, “Gas is losing its share in the global power mix as renewables increasingly meet rising electricity demand,” Ember said in a report earlier this year. The analysis found that the share of gas in the global power mix declined for the fifth consecutive year in 2025, despite a small rise in absolute gas generation. Strong growth in clean power, led by solar and wind, met around 68% of global electricity demand growth over the five years to 2025, reducing the need for a significant rise in gas power generation Related: Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks\nAccording to Ember, 61 out of 124 economies generating electricity from gas had passed their gas generation peak.\nHowever, these countries accounted for around one-fifth of global gas-fired electricity generation in 2025. So the large gas-generating economies, albeit a smaller group, haven’t seen their peak in gas power generation.\nThe biggest emerging economies, China, India, and Brazil, have actually met their surging electricity demand without turning to gas, Ember noted.\nChina’s gas share remained close to 3% of the electricity mix in 2025 despite rapid demand growth, while gas power generation in India and Brazil plays a more limited balancing role, the think tank said.\n“The economics and energy security case for electricity are increasingly moving in the same direction,” said Malgorzata Wiatros-Motyka, ‍Senior Electricity Analyst at Ember.\n“As renewables lower costs and reduce exposure to fuel price shocks and geopolitical disruptions, gas is steadily losing the advantages that once made it the default fuel for power system growth.”\nThe writing may have been on the wall for natural gas producers and exporters if natural gas was only used in power generation.\nBut natural gas key uses include as feedstock in industrial manufacturing, including cement and steel, as a chemical feedstock for fertilizer, or as the start of the supply chain of manufacturing plastics, paints, synthetic fabrics, and medicine, to name a few.\nAnd then comes the biggest twist in energy and electricity demand forecasts in recent years—the AI boom. Data centers will drive a large part of the rise in global electricity demand, which has returned to growth even in the U.S. and Europe after a decade or so of flatlining. Renewable energy alone will not meet the surge in power demand, and gas will play a key role in America and in most of Asia, where many countries are positioning to become AI and data center hubs.\nThe biggest LNG producers, exporters, and traders see long-term gas demand growth intact despite this year’s supply shock that is reducing consumption amid spiking prices.\nFor example, Shell, the world’s biggest LNG trader, said in its annual LNG Outlook 2026 this summer that surging gas demand in South and Southeast Asia would push global LNG demand up by 65% by 2050 from 2025 levels, although growth this year has been stalled by the Strait of Hormuz crisis.\nShell sees global LNG demand increasing to nearly 700 million tons annually by 2050, up by around 65% from the 2025 levels of 422 million tons.\n“The conflict created a system-wide shock with disruption cascading across all segments of the economy, but the LNG industry has proved resilient and able to adapt to changing market conditions,” Cederic Cremers, President of Integrated Gas at Shell, commented in the outlook.\n“While more investment in both supply and demand infrastructure is needed, the long-term outlook remains strong and LNG will continue to be a stabilising force in the global energy system.”\nThe International Gas Union (IGU) said in its 2026 World LNG Report in July that “while LNG industry is not immune from the challenges of operating in an era of heightened geopolitical uncertainty, its unique ability to re-distribute large quantities of clean-burning energy from a broadening supply base only enhance LNG’s role as a ‘shock absorber’ to the global economy.”\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nU.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal\nEquinor Doubles Estimate for Major North Sea Gas Discovery\nU.S. Natural Gas Production Hits New Records as Demand Surges\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nChina’s Battery Factories May Sit Atop Lithium Resources\nBYD Earnings Miss Estimates as China's EV Price War Takes Its Toll\nThe CCS Project That Passed Every Test Except the Investment Test\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\n$120 Oil Is Almost Here, and Trump Has Few Good Options\nOil Prices Rise Despite Middle East Export Recovery\nTrump Targets $6.2 Billion Offshore Wind Project Nearing Completion\nRecord Tanker Rates Cripple U.S. Crude Oil Flows to Asia\nUK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "content": "What’s Next for Global Natural Gas Demand? | OilPrice.com\nExxon, Chevron Executives Cancel Gulf Visit Over Security Concerns\nMexico’s Richest Man Sells $1.15 Billion in Oil Stocks\nSinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb\nTrafigura Signs New Gas Supply Deal with German SEFE\nUK National Grid to Extend France Power Link Operation to 2050\nIran War Hikes EU’s Oil Import Bill By $11 Billion Per Month\nShell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record\nTotalEnergies Profit Doubles as War Boosts Refining and Trading\nEquinor Doubles Estimate for Major North Sea Gas Discovery\nEU Scrambles to Contain Energy Price Crisis Ahead of Winter\nOil Prices Fall as Vance Moves to Restart Iran Peace Talks\nHow Trump’s Russian Diesel Could End Up in Cuba Instead\nGE Vernova Expands in High-Voltage Grid Gear With Trench Deal\nUBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels\nEquinor Raises Oil and Gas Output Forecast as Operating Profit Doubles\nChina’s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease\nQatarEnergy Extends LNG Force Majeure to End of 2026\nBahri Profit Hits $1.36 Billion as the World Scrambles for Tankers\nIndia's Gasoline Demand Could Peak by 2035 as EVs Gain Ground\nChina’s Wind and Solar Power Capacity Surpasses 2 Terawatts\nOil Traders Brace for Iran Escalation After U.S. Elections\nSanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf\nOil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears\nRussia’s Crude Exports Set to Fall as Diesel Production Rises\nSaudi Aramco Offers Discounted Oil to Europe as Exports Recover\n18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nRas Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field\nDiesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion\nIndia Rejects Claims of U.S. Pressure Over Russian Oil Purchases\nTrump Moves to Ease Methane Regulations for U.S. Oil Producers\nIEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains\nIndia’s Oil Buyers Squeezed by $123 Crude and Weak Rupee\nOil Prices Drop Despite Threat of New U.S. Strikes on Iran\nExxon, Chevron Executives Cancel Gulf Visit Over Security Concerns\nEuropean Natural Gas Prices Headed for Multi-Year Highs\nLNG Canada Doubles Capacity as Asia Looks Beyond the Gulf\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nThe Iran war has accelerated a decline in natural gas's share of electricity generation, as soaring prices push Europe and Asia toward renewables and coal.\nRenewables are increasingly displacing gas in power markets, with clean energy meeting 68% of global electricity demand growth between 2020 and 2025.\nLong-term LNG demand remains strong despite the current crisis, with Shell forecasting 65% growth by 2050, supported by industrial demand and the AI data center boom.\nThe Iran war and the lack of LNG supply from the Middle East have upended forecasts of near-term natural gas demand and import costs.\nSo far this year, economies in Europe and Asia have relied more on renewables and coal for power generation to offset reduced gas supplies procured at very high prices.\nThis year’s crisis has prompted governments to rethink energy policies with energy security the top priority, again, after the 2022-2023 energy crisis.\nAfter the decline in global gas demand this year, due to prices at four-year highs, the obvious question for gas market participants is where demand is going after the current crisis ends. Has the second gas crisis in four years permanently undermined expectations of long-term gas demand growth?\nGas cannot be replaced in many industrial processes, yet. Electricity-generating systems in major economies that have relied on gas for power cannot have a reliable electricity supply without gas.\nStill, this year and over the past four years, key gas markets in Europe and Asia have seen the share of gas in their electricity mix decline.\nThe UK, the Netherlands, and Turkey, and major Asian economies China, Japan, and South Korea, have all seen the share of gas-fired electricity drop, according to data from think tank Ember cited by Reuters columnist Gavin Maguire.\nThe spike in natural gas prices has accelerated Europe’s renewables rollout, which took off in earnest earlier this decade when Russia invaded Ukraine in 2022 and cut off pipeline gas supply to most of Europe. The share of renewables has surged in the EU and the UK in recent years, gradually sidelining gas as the reliable backup fuel rather than the one meeting growing electricity demand.\nGlobally, “Gas is losing its share in the global power mix as renewables increasingly meet rising electricity demand,” Ember said in a report earlier this year. The analysis found that the share of gas in the global power mix declined for the fifth consecutive year in 2025, despite a small rise in absolute gas generation. Strong growth in clean power, led by solar and wind, met around 68% of global electricity demand growth over the five years to 2025, reducing the need for a significant rise in gas power generation Related: Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks\nAccording to Ember, 61 out of 124 economies generating electricity from gas had passed their gas generation peak.\nHowever, these countries accounted for around one-fifth of global gas-fired electricity generation in 2025. So the large gas-generating economies, albeit a smaller group, haven’t seen their peak in gas power generation.\nThe biggest emerging economies, China, India, and Brazil, have actually met their surging electricity demand without turning to gas, Ember noted.\nChina’s gas share remained close to 3% of the electricity mix in 2025 despite rapid demand growth, while gas power generation in India and Brazil plays a more limited balancing role, the think tank said.\n“The economics and energy security case for electricity are increasingly moving in the same direction,” said Malgorzata Wiatros-Motyka, ‍Senior Electricity Analyst at Ember.\n“As renewables lower costs and reduce exposure to fuel price shocks and geopolitical disruptions, gas is steadily losing the advantages that once made it the default fuel for power system growth.”\nThe writing may have been on the wall for natural gas producers and exporters if natural gas was only used in power generation.\nBut natural gas key uses include as feedstock in industrial manufacturing, including cement and steel, as a chemical feedstock for fertilizer, or as the start of the supply chain of manufacturing plastics, paints, synthetic fabrics, and medicine, to name a few.\nAnd then comes the biggest twist in energy and electricity demand forecasts in recent years—the AI boom. Data centers will drive a large part of the rise in global electricity demand, which has returned to growth even in the U.S. and Europe after a decade or so of flatlining. Renewable energy alone will not meet the surge in power demand, and gas will play a key role in America and in most of Asia, where many countries are positioning to become AI and data center hubs.\nThe biggest LNG producers, exporters, and traders see long-term gas demand growth intact despite this year’s supply shock that is reducing consumption amid spiking prices.\nFor example, Shell, the world’s biggest LNG trader, said in its annual LNG Outlook 2026 this summer that surging gas demand in South and Southeast Asia would push global LNG demand up by 65% by 2050 from 2025 levels, although growth this year has been stalled by the Strait of Hormuz crisis.\nShell sees global LNG demand increasing to nearly 700 million tons annually by 2050, up by around 65% from the 2025 levels of 422 million tons.\n“The conflict created a system-wide shock with disruption cascading across all segments of the economy, but the LNG industry has proved resilient and able to adapt to changing market conditions,” Cederic Cremers, President of Integrated Gas at Shell, commented in the outlook.\n“While more investment in both supply and demand infrastructure is needed, the long-term outlook remains strong and LNG will continue to be a stabilising force in the global energy system.”\nThe International Gas Union (IGU) said in its 2026 World LNG Report in July that “while LNG industry is not immune from the challenges of operating in an era of heightened geopolitical uncertainty, its unique ability to re-distribute large quantities of clean-burning energy from a broadening supply base only enhance LNG’s role as a ‘shock absorber’ to the global economy.”\nInvestors From 119 Countries Pile Into Dangote’s Record Refinery IPO\nU.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal\nEquinor Doubles Estimate for Major North Sea Gas Discovery\nU.S. Natural Gas Production Hits New Records as Demand Surges\nTsvetana Paraskova is an energy and commodities journalist who has contributed to Oilprice.com for nearly a decade, covering global energy markets, commodities,&#8230;\nChina’s Battery Factories May Sit Atop Lithium Resources\nBYD Earnings Miss Estimates as China's EV Price War Takes Its Toll\nThe CCS Project That Passed Every Test Except the Investment Test\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\n$120 Oil Is Almost Here, and Trump Has Few Good Options\nOil Prices Rise Despite Middle East Export Recovery\nTrump Targets $6.2 Billion Offshore Wind Project Nearing Completion\nRecord Tanker Rates Cripple U.S. Crude Oil Flows to Asia\nOil Refineries Become Prime Targets as Global Fuel Shortage Worsens\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
       "published": "2026-10-29T23:00:00+00:00",
       "source": "GN Energy",
       "sources": [
@@ -845,26 +963,6 @@
       ]
     },
     {
-      "title": "Fire briefly triggers emergency at South Carolina lab on former nuclear weapons site - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDAxY2NBSVRWbGNQUFlwWWVORTYwb05JQmhTdFRSOXJadmJNNU05cjEyOVRmbUxPTXoxdTRzM05kM25lUUJIZ3N4aTZfTEduWDltYlBSZzE2ZkFRVEY2b2tmWTdWMjJTZXhaRXFJMm9pcE0tdU8tRkZIdTdnM2IzZzBIS3pGU1ZIVDRDMHNGbVFqWXEzWmxN?oc=5",
-      "summary": "Fire briefly triggers emergency at South Carolina lab on former nuclear weapons site&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-29T03:10:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 13.0,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
       "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
       "link": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
       "summary": "Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairsChristine Lagarde, the eurozone’s top central banker, has said she is stepping down nine months early to speak her mind about world affairs and confront the “misrepresentation of the truth”.Ending months of speculation about her future at the European Central Bank, Lagarde said she would quit her role as president in March rather than October next y",
@@ -905,6 +1003,46 @@
       "assets": []
     },
     {
+      "title": "Russian Offensive Campaign Assessment, October 29, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUm12TUZIbmZKMHNWZFFvZDBaUndxeTB0UFFoN3phRG5oNkRVaDd0Q3RpMGVqeklrcWVuRDZaUnBpdVI5TEZ2Zkhiekg5cWQ5U0o2MzNQWk1SM3hranl1bnQ0cmVtZ1dseDBOcHpGUVNJRmNGUFp3OUw0UVJVYjdGR2VSWnVuaXVvU1FNUGdIenJTVFVvNnI2RldsemdTN05PbU9LcENFVGNFZTA?oc=5",
+      "summary": "Russian Offensive Campaign Assessment, October 29, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "content": "",
+      "published": "2026-10-30T00:05:48+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Two U.S. service members die amid Iran war, Pentagon tally shows - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
+      "summary": "Two U.S. service members die amid Iran war, Pentagon tally shows&nbsp;&nbsp;The Washington Post",
+      "content": "",
+      "published": "2026-10-30T04:04:07+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
       "title": "How AI drones are influencing the course of the Ukraine war - NPR",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qdXhNZHo1TFh4QmdLbVVmc3dZdlZRVEUwak9VT3lSUVBPNndwMUQ2c1BGcVJJd2N2TUs3OW1wTWNiTVM5TGc4aU01eEFDMTNXY2FrMVIzMTNOS2pic3dXQjdKWnFJYWV2alEyM3UyV1NWaVg5Z3l2d09zTQ?oc=5",
       "summary": "AI drones are influencing the course of the Ukraine war Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.\nHow AI drones are influencing the course of the Ukraine war\n< iframe src=\"https://www.npr.org/player/embed",
@@ -928,11 +1066,11 @@
       ]
     },
     {
-      "title": "Two U.S. service members die amid Iran war, Pentagon tally shows - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVRPSzRlRVc4Q2VvaVJkcU5wM1UzcktoQXhBdnNlTGJkRFB1QnBiM0M0c0FmQVpNX3dBczR6QmE1aUFLY0U3LWprcFdXUGVSQVpIbkRIRmI5QmlKYTZGeXJaUmlDWWdONVFEbENzck42a0h5bXp1Q0ZHejVzanRuTFBpSjhFQzhkNFN3S25FbzdqMFdrV3BVV2k0RG5sRGt5NUFHZV80QTRNSmJiSEh5a19Bdw?oc=5",
-      "summary": "Two U.S. service members die amid Iran war, Pentagon tally shows&nbsp;&nbsp;The Washington Post",
-      "content": "",
-      "published": "2026-10-30T02:34:07+00:00",
+      "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG",
+      "content": "Share Pentagon says Iran war has cost US taxpayers $47bn: What that means on social media\nThe Pentagon is viewed from the window of an aeroplane in Washington [File: Carolyn Kaster/AP]\nThe Pentagon has told lawmakers in the United States that the war on Iran has cost American taxpayers at least $47.1bn so far.\nThe estimate, disclosed last week, comes days before Tuesday’s midterm elections, which will determine if President Donald Trump’s Republican Party will maintain control of Congress for the next two years.\nlist of 3 items list 1 of 3 Espionage threats blur lines between security and dissent in Iran\nlist 2 of 3 Are GCC countries looking for a regional security pact with Iran?\nlist 3 of 3 Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia\nIn a statement on Wednesday the Pentagon said it had “successfully obligated 97.5 percent” of the funds Trump provided the department. In July last year, Trump signed the One Big Beautiful Bill Act (OBBA) outlining tax and spending plans that came into effect this year.\nWe take a close look at the Pentagon’s estimate, and what it means for the US economy and the midterm elections.\nThe Pentagon told Congress that the cost of the US-Israel war on Iran as of October 16 had risen to at least $47.1bn.\nCongressional officials shared the Pentagon’s cost estimate breakdown with The New York Times.\nAccording to the Times and other US media, the Pentagon’s estimate covers the operational costs of the war and includes a projected cost of $29bn needed to replace expended munitions such as bombs, bullets and other military hardware that has been deployed in the war so far.\nIt also reveals that since the war started on February 28, the US Air Force has spent $7.6bn on fighter and bomber units, the US Navy has spent $1.5bn on two dozen warships and aircraft carriers and the US Army has spent $2.1bn to sustain its troops in the Middle East.\nAccording to the US military’s Central Command, there are more than 50,000 American soldiers stationed in the Middle East, comprising personnel deployed to large, permanent bases and to smaller forward sites across the region.\nOfficials told the Times that the Pentagon has spent $6.1bn to replace damaged aircraft and munitions, $645m on transport and support for commandos in the region and $24.5m on “in-house medical support” for US service members.\nA congressional official added that the US Transportation Command also spent $92.2m to move equipment and the US Cyber Command spent $14m on “cyber support operations”.\nThe Pentagon’s estimate, however, does not include how much Washington will need to spend to repair its military bases across the Middle East that were damaged in Iranian attacks and also does not take into account the cost of fuel to power ships and aircraft used in the war.\nWhile the Pentagon has publicly acknowledged 18 US service member fatalities in the war, The Washington Post has cited six unnamed US officials stating the true death toll is at least 22. According to the official Pentagon Defense Casualty Analysis System (DCAS) database, 865 military personnel have been wounded in the war with Iran.\nJohn Phillips, a British safety, security and risk adviser and a former military chief instructor, told Al Jazeera that the Pentagon’s $47.1bn estimate should be treated as a running total and not the total cost of the war.\n“If the war continues without a durable outcome, the US risks paying repeatedly to sustain military pressure while simultaneously trying to rebuild the capability it has consumed,” he said.\nHe said that replacing advanced weapons also requires industrial capacity and time and that money and production resources committed to this conflict may also compete with other defence priorities.\n“What concerns me most is the possibility of an open-ended commitment: continuing to spend heavily without a clear political end state or a settlement that delivers lasting security,” he said.\nCurrently, the US must weigh three costs, Phillips said: the money spent, the military capability consumed and the economic disruption generated.\n“A tactical victory is not necessarily a strategic victory. If the conflict leaves US stockpiles depleted, energy markets unstable and regional security unresolved, the question is not simply how much the war will cost but whether its lasting benefits justify the price,” he said.\nWhat has the response to the Pentagon’s estimate been?\nAccording to an October 19 report by USA Today, five senators from the Democratic Party had written to Admiral Brad Cooper, the head of Central Command, demanding that the Pentagon reveal the true cost of the war. Their letter said the Trump administration’s “ongoing efforts to hide the true cost of this war are outrageous and unacceptable”.\nTrump has not commented on the latest Pentagon estimate. But the Trump administration’s war on Iran has grown increasingly unpopular with US citizens due to its impact on US and global energy costs.\nSince early March, shortly after the war began, Iran has closed the critical Strait of Hormuz in the Gulf, through which about one-fifth of global oil and liquefied natural gas supplies were shipped until then. This has sent the price of oil spiralling and caused shortages globally. In the US, diesel, which is heavily relied on by farmers and small businesses, has nearly doubled in price.\nIn a post on X following the latest Pentagon report, Senate Minority Leader Chuck Schumer of New York wrote: “For eight months, American families have been buried by the heavy cost of Trump’s disastrous war in Iran.\n“Trump and his ego led us into this war with no plan, no authority, and no exit strategy,” he added.\nHow does the Pentagon’s estimate compare with past calculations?\nEstimates for the cost of the Iran war to the US have risen steadily as the war has continued.\nThe Pentagon’s latest estimate is higher than the $38bn the Congressional Budget Office (CBO) forecast in September.\nIt is also higher than the $37.5bn price tag that US Defense Secretary Pete Hegseth gave in July this year. Hegseth confirmed this amount during a hearing before the Senate appropriations committee and added that the cost covered some operations and maintenance extending through to the end of September.\nHegseth’s July estimate was already about $8bn higher than the previous figure released by the Trump administration in May – $29bn.\nPrior to the May estimate, in late April the Pentagon’s comptroller Jules Hurst reported that the war would cost $25bn.\nMeanwhile, with the war entering its ninth month and no peace deal in sight, last month the CBO said the war with Iran could cost approximately $2bn to $3bn per month for as long as it continues.\nThe Pentagon’s inspector general also said last month that US troops are facing “strategic inventory shortfalls” as the war continues.\nBut the Trump administration has denied it is running low on weapons stockpiles.\n“Cowards and traitors would like to say that the United States is short of ammunition, but that is not true. We have more ammunition than we could ever imagine using. And we are producing it at levels we have never reached before,” Trump told the United Nations General Assembly in New York in September.\nTrump has also repeatedly stated that the Iran war will end when he wants it to.\nLast week at an election rally in Texas, according to a report by CNBC, Trump said: “Somebody asked me before, ‘When will the war in Iran end?’ I said, ‘Whenever I want it to end.’”\nWhat does the rising cost of the war mean for the midterm elections?\nThe US-Israel war on Iran has affected the US economy through direct government spending as well as rising energy and fuel costs.\nOn Wednesday, the average price of a gallon of diesel in the US hit $6.35, compared with $3.75 last year, according to the American Automobile Association.\nHigher fuel costs are also driving up the cost of food – with shortages of oil and gas affecting nearly every stage of the food supply chain.\nMeanwhile, the country’s national debt has surpassed a record $40 trillion, two years before expected.\nAs a result, the war has become deeply unpopular in the US and Trump’s approval ratings have slumped to just 33 percent – the lowest they have been at any time during his two terms as president.\nWith five days to go before the midterms, analysts say confirmation by the Pentagon of the high cost of the war is likely to affect how people in the US vote.\nCurrently, the Democrats lead Republicans by 51.4 percent to 43.2 percent, a gap of 8.2 percentage points, according to RealClearPolling’s national polling average.\nChris Featherstone, a political scientist from the University of York in the United Kingdom, said this is an issue that hits at two key pillars of Trump’s political rhetoric: his promise to initiate “no new wars” during his campaign for the presidency in 2024, and his emphasis on fixing the American economy.\n“The spiralling cost of the conflict for the taxpayer, and the lack of a clear end point resembles the critiques Trump levelled at the war in Afghanistan in his first presidential election campaign,” he told Al Jazeera.\nAccording to the Costs of War Project at Brown University, the war in Afghanistan, which began in 2001, cost the US an estimated $2.26 trillion to $2.3 trillion in total across multiple presidential administrations, including George W Bush, Barack Obama and Donald Trump.\n“While many of Trump’s most loyal MAGA voters are likely to remain loyal to Trump in the midterms despite the cost of the Iran conflict, the more peripheral supporters seem to be drifting away from the president ahead of the midterms, and the significant impact of this conflict on cost of living appears to be a major factor,” Featherstone said.",
+      "published": "2026-10-29T16:52:05+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -953,26 +1091,6 @@
       "summary": "A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast&nbsp;&nbsp;Foreign Policy",
       "content": "A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast\nNetanyahu and Trump appear to be planning another round.\nBy Marc Lynch , a professor of political science and international affairs at the George Washington University and the director of the Project on Middle East Political Science.\nA person wearing a headscarf walks past a large red billboard featuring a graphic illustration of a distressed U.S. President Donald Trump, accompanied by large white text in Persian and English. Traffic, including motorbikes and a red bus, passes on the street below.\nA large billboard pledging revenge against U.S. President Donald Trump is seen in central Tehran on July 27. AFP via Getty Images\nIf there’s one thing that’s clear in the aftermath of the Israeli election, it is that Benjamin Netanyahu will remain prime minister—for at least a few weeks and probably several months—while the political haggling is underway. And that means that the prospects of another U.S.-Israeli war with Iran are high. Netanyahu has been pushing for a new round for weeks, and the Trump administration has reportedly advised allies to expect a military campaign after the U.S. midterm elections on Nov. 3. That campaign might be meant to force Iran back to the bargaining table—or to topple the regime. Either way, another war is unlikely to achieve even the most minimal U.S. and Israeli goals.\nThe United States is now locked in exactly the kind of protracted war scape in which decisive victory is close to impossible. Iran has long thrived in these environments. The U.S. blockade and episodic violence hurt Iran, to be sure, but the pain is not evenly distributed. It tends to reinforce rather than degrade regime control, strengthen the hand of hard-liners over any remaining moderates, and provide a ready-made excuse for collective suffering that might otherwise be blamed on the country’s leaders.\nIf there’s one thing that’s clear in the aftermath of the Israeli election, it is that Benjamin Netanyahu will remain prime minister—for at least a few weeks and probably several months—while the political haggling is underway. And that means that the prospects of another U.S.-Israeli war with Iran are high. Netanyahu has been pushing for a new round for weeks, and the Trump administration has reportedly advised allies to expect a military campaign after the U.S. midterm elections on Nov. 3. That campaign might be meant to force Iran back to the bargaining table—or to topple the regime. Either way, another war is unlikely to achieve even the most minimal U.S. and Israeli goals.\nThe United States is now locked in exactly the kind of protracted war scape in which decisive victory is close to impossible. Iran has long thrived in these environments. The U.S. blockade and episodic violence hurt Iran, to be sure, but the pain is not evenly distributed. It tends to reinforce rather than degrade regime control, strengthen the hand of hard-liners over any remaining moderates, and provide a ready-made excuse for collective suffering that might otherwise be blamed on the country’s leaders.\nSuch a conflict will, by its nature, defy U.S. and Israeli hopes for a decisive blow. After the initial kinetic period, the hostilities will likely continue whether or not there is active shooting, forcing every affected actor to prepare as if violence could return at any moment. Talk of victory or defeat—whether for U.S. domestic political consumption or, worse, for the Pentagon's actual war planning—has little meaning in a conflict that Iranians rightly expect to continue for many years to come. America’s regional allies that have to live in this environment can see this clearly and want none of it. That constant risk of a sudden eruption would deny the Gulf states the kind of stability and security they desperately need to get their economic projects back on track. And it would leave the door open to flare-ups elsewhere, such as the Houthi sweep down the Red Sea coast and seizure of the Bab el-Mandeb chokepoint in September.\nThe suggestion to launch a renewed, intense military campaign represents a tacit recognition of U.S. failure. No amount of happy talk about the increased volume of oil flowing through the Strait of Hormuz and the mounting economic costs of the blockade on Iran can mask the new strategic reality. Iran has proved that it retains the capacity to close the strait when it wishes, and the Houthi advances in the Red Sea and effective targeting of Saudi Arabia have expanded Iran’s range of options. A diplomatic solution has been rendered largely impossible by the Trump administration’s constantly changing positions and incoherent messaging, which give Iran no reason to even consider a deal. From Tehran’s vantage point, any agreement would likely be broken before the ink was dry. Trump’s signature, as Canadian Prime Minister Mark Carney has quipped , is written in pencil.\nBut if Iran can live with the state of potential war and episodic eruptions of violence, the Arab Gulf states cannot. Bahrain, Kuwait, and Qatar have no alternative shipping routes other than the Strait of Hormuz. Saudi Arabia, which for a time thought it could adapt by shifting its oil exports to the Red Sea, learned the hard way that it could not count on that option in the rapidly mutating conflict. The Houthi seizure of Yemen’s Red Sea coast and control over the Bab el-Mandeb and an Iraqi militia drone strike temporarily disabling the East-West pipeline put an end to that fantasy.\nThe escalating Houthi attacks on Saudi airports, oil facilities, and other targets, along with the Saudi inability to mount an effective military challenge to the new Houthi positions, have caught Riyadh in an untenable bind. The United States rather shockingly declined to come Riyadh’s assistance against the Houthis. That may be for the best. The large-scale international intervention against the Houthis proposed by the Saudi ambassador to the United States this week would simply pull the world deeper into an unwinnable war scape. Nor is the Mecca Pact between Saudi Arabia, Turkey, and Pakistan going to ride to a military rescue in Yemen. The three countries may have ratified the defense pact and floated intervention possibilities, but neither country is likely to provide the ground troops that would be needed.\nWhy staying the course is the most prudent of Washington’s three unsavory choices.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nSome dramatic long-term consequences are just beginning to come into view.\nA street scene featuring a large billboard displaying military-themed artwork in an urban environment. In the foreground, a woman wearing a light-colored coat, headscarf, and dark trousers walks across the foreground from right to left. Behind her, a white hatchback car is parked along the street in front of a shaded structure. In the background, a massive billboard mounted on the side of a tall building depicts a figure in uniform standing over a large aquatic object or piece of military hardware wrapped in nets. Persian text is printed in large bold lettering on the right side of the billboard. Clear blue skies frame the background above the city skyline.\nA street scene featuring a large billboard displaying military-themed artwork in an urban environment. In the foreground, a woman wearing a light-colored coat, headscarf, and dark trousers walks across the foreground from right to left. Behind her, a white hatchback car is parked along the street in front of a shaded structure. In the background, a massive billboard mounted on the side of a tall building depicts a figure in uniform standing over a large aquatic object or piece of military hardware wrapped in nets. Persian text is printed in large bold lettering on the right side of the billboard. Clear blue skies frame the background above the city skyline.\nTo get out of this quagmire, Washington must decide what it wants.\nBut there could be a silver lining in this parade of failure. With no plausible military path to victory in Yemen or over Iran, Saudi Arabia has little stomach for renewed war and strong incentives to find a diplomatic way out of its predicament. The Saudis desperately need the Strait of Hormuz and the Bab el-Mandeb reopened in a predictable and regulated way. They need an extended period of calm to reassure investors and tourists essential to economic transformation plans. That’s probably why a high-level Mecca Pact delegation visited Tehran this week and why other Gulf states have been urgently looking for a diplomatic path away from war. As Oman’s foreign minister recently noted , there is no security order in the Gulf without Iran and no alternative to a working relationship. That view seems increasingly prevalent in the Gulf—outside of Abu Dhabi—even as Washington prefers to dive deeper into its unwinnable war.\nThe current Iranian leadership does not think about this in terms of the resumption of war. It considers the war to be ongoing. While it would have little faith in any U.S. promises, it is conceivable that it might view Saudi-led outreach more positively, as a way to lock in its gains from the war and create a buffer against America’s more extreme options. The damage inflicted on Iran’s economy and infrastructure is real and will require massive rebuilding. There’s precedent. Following the conclusion of the horrifically destructive eight-year Iran-Iraq War and the death of Ayatollah Ruhollah Khomeini in the late 1980s, the new leadership of Akbar Hashemi Rafsanjani and Ali Khamenei chose to ratchet down revolutionary rhetoric and militant adventurism and create a period of calm to allow desperately needed economic reconstruction. Perhaps the new Revolutionary Guard-led Iran would do the same.\nA de-escalatory deal between Iran and the Saudi-led bloc would pose a challenge to Israel and its allies in the region, primarily the United Arab Emirates, as well as to U.S. conceits about determining the terms of regional order. Netanyahu has been using apocalyptic language about the urgency of finishing the job. Indeed, a U.S.-Israeli attack might be motivated less by fear of Iranian escalation or nuclear progress than by fear of a new regional order consolidating in which Iran has reconciled with a Saudi coalition incorporating most of the major powers in the broadly defined region.\nThe Trump administration no doubt sees itself in an intractable situation from which it can still escalate to win. That is an illusion. Iran is once again perfectly capable of seeing the blow coming. It will not be taken by surprise and has already signaled its intentions to respond. The regime has strong grounds to believe that it (if not the Iranian people) will survive and prosper even under another round of intense military attack. The possible strike would simply accelerate the escalatory dynamics and reinforce emergent Arab convictions that the United States has become a destabilizing force and an unreliable partner that cannot be counted on to provide security or order. When the smoke once again clears, in Iran and in the countries that bore the costs of its retaliation, the renewed campaign may well prove to have been the final blow not to the Iranian regime but to U.S. leadership in the region.\nMarc Lynch is a professor of political science and international affairs at the George Washington University and the director of the Project on Middle East Political Science. His most recent book is America’s Middle East: The Ruination of a Region . X: @abuaardvark\nCommenting is a benefit of a Foreign Policy subscription.\nJoin the conversation on this and other recent Foreign Policy articles when you subscribe now.\nPlease follow our comment guidelines , stay on topic, and be civil, courteous, and respectful of others’ beliefs.\nI agree to abide by FP’s comment guidelines . (Required)\nThe default username below has been generated using the first name and last initial on your FP subscriber account. Usernames may be updated at any time and must not contain inappropriate or offensive language.\nI agree to abide by FP’s comment guidelines . (Required)\nWhy staying the course is the most prudent of Washington’s three unsavory choices.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nSome dramatic long-term consequences are just beginning to come into view.\nA street scene featuring a large billboard displaying military-themed artwork in an urban environment. In the foreground, a woman wearing a light-colored coat, headscarf, and dark trousers walks across the foreground from right to left. Behind her, a white hatchback car is parked along the street in front of a shaded structure. In the background, a massive billboard mounted on the side of a tall building depicts a figure in uniform standing over a large aquatic object or piece of military hardware wrapped in nets. Persian text is printed in large bold lettering on the right side of the billboard. Clear blue skies frame the background above the city skyline.\nTo get out of this quagmire, Washington must decide what it wants.\nA New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast\nCarney, Von der Leyen Downplay Canada&#039;s Bid for EU Associate Member Status\nIran War: Netanyahu and Trump Appear to Be Planning a New Round\nYemen War: Could a Saudi-UAE Rapprochement Help Riyadh Fight the Houthis?\nEquip your organization with powerful global intelligence.\nThree people rest on a sandy beach while a large, partially submerged and tilted ship sits out in the water in the background. The sky above is a hazy gray with cloud cover.\nA Taiwanese crowd protests while waving flags of the Republic of China.\nU.S. Undersecretary of Defense for Policy Elbridge Colby, left, and NATO Secretary-General Mark Rutte, right, stand during a press conference at NATO headquarters. Rutte is looking over at Colby, whose fingers are pressed together in a steeple gesture in front of him. Both men are wearing dark suits and ties, standing in front of a blue backdrop and U.S. and NATO flags. A camera rig and a red light are partially visible in the foreground, slightly obscuring the center of the frame.\nXi (left) and Trump (right) are shown up close, with Xi looking at Trump.\nPutin and Xi are both seen in profile as Putin walks to the right and away from Xi, just a few feet of space between them. Xi, meanwhile, is also faced away from Putin, standing and looking down at his feet or the red carpet beneath them. Both men wear dark suits.\nA man wearing a dark suit jacket, light blue button-down shirt, and patterned red tie sits on a dark gray couch against a textured dark blue wall. He is looking off to the side with a mild smile, next to a teal pillow.\nAn illustration in red and blue tones depicting five silhouetted figures running forward through a dark corridor flanked by large, textured Russian lettering on the walls and floor. Light radiates from the far end of the tunnel behind them\n6 Russian Words for a Country Sliding Into Authoritarianism\nA statue of a seated, bearded man with a bare torso and draped cloth around his waist, holding a scroll in one hand, positioned in front of a row of large classical columns.\nNegotiators from the United States, Canada, and five European countries converse after finishing the draft of the North Atlantic Treaty in Washington on March 18, 1949.\nTrans-Atlanticism Isn’t Dead—It’s Being Renegotiated\nAn aerial photo shows Doha in the booming petrostate of Qatar.\nFor What AI Could Do to Democracies, Look to the Petrostates\nA large outdoor billboard displayed on a building features portraits of two men flanking text in Hebrew on a dark blue background. In the foreground on the right, an inverted triangular red-and-white yield traffic sign stands partially blurred.\nNetanyahu’s opponents are ahead but will struggle to form a coalition.\nA worker seals A ballot box at the headquarters of the Israeli Central Elections Committee near the central town of Shoham on October 14.\nIn Israel, Election Day Is Just the Beginning of the Story\nA group of people scatter and run across a dry, grassy field amid haze and smoke. In the background, uniformed personnel in tactical gear stand in a line, while a white and red ambulance with Arabic writing and \"101 AMBULANCE\" on the side is parked nearby on a hillside under a hazy sky.\nA man is seen in profile as he walks past a massive mural depicting the face of Netanyahu, which is about as tall as the man. The man wears a dark brimmed hat and black suit and has his beard and hair in the style worn by Haredi men.\nEurope Was Never Meant to Be a ‘Regulatory Superpower’",
       "published": "2026-10-29T19:11:35+00:00",
-      "source": "GN Geopolitics",
-      "sources": [
-        "GN Geopolitics"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.9,
-      "is_hypothetical": false,
-      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG",
-      "content": "Share Pentagon says Iran war has cost US taxpayers $47bn: What that means on social media\nThe Pentagon is viewed from the window of an aeroplane in Washington [File: Carolyn Kaster/AP]\nThe Pentagon has told lawmakers in the United States that the war on Iran has cost American taxpayers at least $47.1bn so far.\nThe estimate, disclosed last week, comes days before Tuesday’s midterm elections, which will determine if President Donald Trump’s Republican Party will maintain control of Congress for the next two years.\nlist of 3 items list 1 of 3 Espionage threats blur lines between security and dissent in Iran\nlist 2 of 3 Are GCC countries looking for a regional security pact with Iran?\nlist 3 of 3 Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia\nIn a statement on Wednesday the Pentagon said it had “successfully obligated 97.5 percent” of the funds Trump provided the department. In July last year, Trump signed the One Big Beautiful Bill Act (OBBA) outlining tax and spending plans that came into effect this year.\nWe take a close look at the Pentagon’s estimate, and what it means for the US economy and the midterm elections.\nThe Pentagon told Congress that the cost of the US-Israel war on Iran as of October 16 had risen to at least $47.1bn.\nCongressional officials shared the Pentagon’s cost estimate breakdown with The New York Times.\nAccording to the Times and other US media, the Pentagon’s estimate covers the operational costs of the war and includes a projected cost of $29bn needed to replace expended munitions such as bombs, bullets and other military hardware that has been deployed in the war so far.\nIt also reveals that since the war started on February 28, the US Air Force has spent $7.6bn on fighter and bomber units, the US Navy has spent $1.5bn on two dozen warships and aircraft carriers and the US Army has spent $2.1bn to sustain its troops in the Middle East.\nAccording to the US military’s Central Command, there are more than 50,000 American soldiers stationed in the Middle East, comprising personnel deployed to large, permanent bases and to smaller forward sites across the region.\nOfficials told the Times that the Pentagon has spent $6.1bn to replace damaged aircraft and munitions, $645m on transport and support for commandos in the region and $24.5m on “in-house medical support” for US service members.\nA congressional official added that the US Transportation Command also spent $92.2m to move equipment and the US Cyber Command spent $14m on “cyber support operations”.\nThe Pentagon’s estimate, however, does not include how much Washington will need to spend to repair its military bases across the Middle East that were damaged in Iranian attacks and also does not take into account the cost of fuel to power ships and aircraft used in the war.\nWhile the Pentagon has publicly acknowledged 18 US service member fatalities in the war, The Washington Post has cited six unnamed US officials stating the true death toll is at least 22. According to the official Pentagon Defense Casualty Analysis System (DCAS) database, 865 military personnel have been wounded in the war with Iran.\nJohn Phillips, a British safety, security and risk adviser and a former military chief instructor, told Al Jazeera that the Pentagon’s $47.1bn estimate should be treated as a running total and not the total cost of the war.\n“If the war continues without a durable outcome, the US risks paying repeatedly to sustain military pressure while simultaneously trying to rebuild the capability it has consumed,” he said.\nHe said that replacing advanced weapons also requires industrial capacity and time and that money and production resources committed to this conflict may also compete with other defence priorities.\n“What concerns me most is the possibility of an open-ended commitment: continuing to spend heavily without a clear political end state or a settlement that delivers lasting security,” he said.\nCurrently, the US must weigh three costs, Phillips said: the money spent, the military capability consumed and the economic disruption generated.\n“A tactical victory is not necessarily a strategic victory. If the conflict leaves US stockpiles depleted, energy markets unstable and regional security unresolved, the question is not simply how much the war will cost but whether its lasting benefits justify the price,” he said.\nWhat has the response to the Pentagon’s estimate been?\nAccording to an October 19 report by USA Today, five senators from the Democratic Party had written to Admiral Brad Cooper, the head of Central Command, demanding that the Pentagon reveal the true cost of the war. Their letter said the Trump administration’s “ongoing efforts to hide the true cost of this war are outrageous and unacceptable”.\nTrump has not commented on the latest Pentagon estimate. But the Trump administration’s war on Iran has grown increasingly unpopular with US citizens due to its impact on US and global energy costs.\nSince early March, shortly after the war began, Iran has closed the critical Strait of Hormuz in the Gulf, through which about one-fifth of global oil and liquefied natural gas supplies were shipped until then. This has sent the price of oil spiralling and caused shortages globally. In the US, diesel, which is heavily relied on by farmers and small businesses, has nearly doubled in price.\nIn a post on X following the latest Pentagon report, Senate Minority Leader Chuck Schumer of New York wrote: “For eight months, American families have been buried by the heavy cost of Trump’s disastrous war in Iran.\n“Trump and his ego led us into this war with no plan, no authority, and no exit strategy,” he added.\nHow does the Pentagon’s estimate compare with past calculations?\nEstimates for the cost of the Iran war to the US have risen steadily as the war has continued.\nThe Pentagon’s latest estimate is higher than the $38bn the Congressional Budget Office (CBO) forecast in September.\nIt is also higher than the $37.5bn price tag that US Defense Secretary Pete Hegseth gave in July this year. Hegseth confirmed this amount during a hearing before the Senate appropriations committee and added that the cost covered some operations and maintenance extending through to the end of September.\nHegseth’s July estimate was already about $8bn higher than the previous figure released by the Trump administration in May – $29bn.\nPrior to the May estimate, in late April the Pentagon’s comptroller Jules Hurst reported that the war would cost $25bn.\nMeanwhile, with the war entering its ninth month and no peace deal in sight, last month the CBO said the war with Iran could cost approximately $2bn to $3bn per month for as long as it continues.\nThe Pentagon’s inspector general also said last month that US troops are facing “strategic inventory shortfalls” as the war continues.\nBut the Trump administration has denied it is running low on weapons stockpiles.\n“Cowards and traitors would like to say that the United States is short of ammunition, but that is not true. We have more ammunition than we could ever imagine using. And we are producing it at levels we have never reached before,” Trump told the United Nations General Assembly in New York in September.\nTrump has also repeatedly stated that the Iran war will end when he wants it to.\nLast week at an election rally in Texas, according to a report by CNBC, Trump said: “Somebody asked me before, ‘When will the war in Iran end?’ I said, ‘Whenever I want it to end.’”\nWhat does the rising cost of the war mean for the midterm elections?\nThe US-Israel war on Iran has affected the US economy through direct government spending as well as rising energy and fuel costs.\nOn Wednesday, the average price of a gallon of diesel in the US hit $6.35, compared with $3.75 last year, according to the American Automobile Association.\nHigher fuel costs are also driving up the cost of food – with shortages of oil and gas affecting nearly every stage of the food supply chain.\nMeanwhile, the country’s national debt has surpassed a record $40 trillion, two years before expected.\nAs a result, the war has become deeply unpopular in the US and Trump’s approval ratings have slumped to just 33 percent – the lowest they have been at any time during his two terms as president.\nWith five days to go before the midterms, analysts say confirmation by the Pentagon of the high cost of the war is likely to affect how people in the US vote.\nCurrently, the Democrats lead Republicans by 51.4 percent to 43.2 percent, a gap of 8.2 percentage points, according to RealClearPolling’s national polling average.\nChris Featherstone, a political scientist from the University of York in the United Kingdom, said this is an issue that hits at two key pillars of Trump’s political rhetoric: his promise to initiate “no new wars” during his campaign for the presidency in 2024, and his emphasis on fixing the American economy.\n“The spiralling cost of the conflict for the taxpayer, and the lack of a clear end point resembles the critiques Trump levelled at the war in Afghanistan in his first presidential election campaign,” he told Al Jazeera.\nAccording to the Costs of War Project at Brown University, the war in Afghanistan, which began in 2001, cost the US an estimated $2.26 trillion to $2.3 trillion in total across multiple presidential administrations, including George W Bush, Barack Obama and Donald Trump.\n“While many of Trump’s most loyal MAGA voters are likely to remain loyal to Trump in the midterms despite the cost of the Iran conflict, the more peripheral supporters seem to be drifting away from the president ahead of the midterms, and the significant impact of this conflict on cost of living appears to be a major factor,” Featherstone said.",
-      "published": "2026-10-29T16:52:05+00:00",
       "source": "GN Geopolitics",
       "sources": [
         "GN Geopolitics"
@@ -1132,51 +1250,11 @@
       "assets": []
     },
     {
-      "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
-      "summary": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-29T02:50:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
-      "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say&nbsp;&nbsp;AP News",
-      "content": "",
-      "published": "2026-10-29T02:58:00+00:00",
-      "source": "AP World",
-      "sources": [
-        "AP World"
-      ],
-      "source_count": 1,
-      "category": "geopolitics",
-      "category_zh": "地缘政治",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": true,
-      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "A helicopter with the EU force in Bosnia crashes, killing 4 people and injuring 11 - AP News",
+      "title": "A helicopter with the EU force in Bosnia crashes, killing 4 and injuring 11 - AP News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclc4WWMxUU5OQnM1Y3ZZbW1XQ3UwLWxhWkR4TlFNN3dXanl6aUZmRnFYdEwyQzJwWTNPTk5sVGU2VDQ5NE1yMHYxajRCWmRGZm5CbDY0dU5pRENTb2tsX2VjNTk3eVdEYVhXR3ZVTHpCdjFaVFBHN1VNaVpaX18yVVlnMEZlM3JrcmRPc3NxZVFySUE?oc=5",
-      "summary": "A helicopter with the EU force in Bosnia crashes, killing 4 people and injuring 11&nbsp;&nbsp;AP News",
+      "summary": "A helicopter with the EU force in Bosnia crashes, killing 4 and injuring 11&nbsp;&nbsp;AP News",
       "content": "",
-      "published": "2026-10-29T19:19:00+00:00",
+      "published": "2026-10-30T00:41:00+00:00",
       "source": "AP World",
       "sources": [
         "AP World"
@@ -1230,73 +1308,6 @@
       "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
       "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
       "assets": []
-    },
-    {
-      "title": "Young athlete and former minister among victims of Spain train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-      "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
-      "content": "Image caption, Julieta Gallego, a long-jump athlete, was a regular on Spain&#x27;s athletics circuit\nA 24-year-old athlete and a former government minister are among the victims of a deadly train crash that killed 69 people near Urda in central Spain on Wednesday morning.\nThe crash, between a high-speed Renfe train and a stationary Iryo train on the same track, also injured more than 100 people, many seriously.\nThe impact caused carriages to derail, and there are fears the death toll could still rise, with reports of family members searching for missing relatives in hospitals across the region.\nThe bodies of those killed have been taken to the main forensics institute in Toledo, where families have been giving DNA samples to help identify them.\nThe crash is the second rail disaster in Spain this year, and the worst in the country&#x27;s history since 2013.\nJulieta Gallego, 24, was a Spanish long jumper who competed for Madrid athletics club, AD Sprint.\n\"The entire club is heartbroken,\" it wrote on Instagram.\nThe Royal Spanish Athletics Federation (RFEF) announced her death , external , expressing its condolences to her family, friends and teammates.\nGallego regularly competed in Spanish club championships, local media outlet ABC reported , external , and had a best jump of 5.9m (19ft 3in).\nRaÃºl Chapado, president of RFEF, told the outlet that her death is a \"blow that strikes at the very heart of the athletics family.\"\n\"Today, the sport mourns the passing of Julieta, a life ahead of her that has been unjustly extinguished\".\nThe death of former employment minister FÃ¡tima BÃ¡Ã±ez, 59, was confirmed by the Spanish Confederation of Business Organizations (CEOE), which she chaired.\n\"Her warmth, generosity, and commitment leave an indelible mark on businesses and the entire CEOE team,\" it said in a statement.\nBÃ¡Ã±ez served in the government under former Prime Minister Mariano Rajoy from 2011 until 2018, and was the first woman to hold the role. In 2012, she introduced controversial labour reforms that made it easier for companies to fire people, sparking mass protests across the country.\nFollowing news of her death, Madrid regional president Isabel DÃ­az Ayuso paid tribute to her, saying she would be \"deeply missed\".\nFigure caption, Watch: What leaked audio reveals about Spain train crash\nThe Civil Guard confirmed the death , external of its officer JosÃ© Manuel ChacÃ³n, 31, in a statement expressing its \"deepest condolences\" to his family, friends and colleagues.\nFinance and tax lawyer, Antonio Montero DomÃ­nguez, was remembered as a \"meticulous professional\" and \"tireless worker\" by legal news website, El Derecho , external .\nHis death was confirmed by Spain&#x27;s tax authority , external , where he had been an inspector between 2012-2016.\nAdditional reporting by Sarah Rainsford, Madeleine Lake and Tom McArthur\nBloodied, dazed and angry - how passengers&#x27; rail journey turned to disaster in Spain\nShock of rail tragedy gives way to sorrow and outrage in politically divided Spain\nWatch: At the scene of Spain&#x27;s deadly train crash",
-      "published": "2026-10-29T21:33:35+00:00",
-      "source": "BBC World",
-      "sources": [
-        "BBC World"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
-      "assets": []
-    },
-    {
-      "title": "Big Oil earnings are set to surge. Why investors may want to be cautious - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSllPbG9XanJ0Qm4tZnBCUlNiaEZlYUY1b1NQdFhzTlczTHlIb0NFNEgzc29qVmMwemFjSEVwWUJSeGlTQkFHOHUxZzR5MDBIYmYxNTBmSXdvU2Y0R1FQRFFGb3FabTd3YzBJSmV6YkVGRjJlSEhRWEh2M0lWeTZRRElhYlZLWU5qQjByNnJxVWZ3MEVDOWdtUGJIYjVsb0w1aVNmNjFNU2VVMWNi0gGyAUFVX3lxTFBoLUN0bWRMbFVaTkNTMHJoWUtwRmM5aDVYMDVDRUpjUWFWcHFoazNpTVVqYnpCWERoczFHVVYtMUdhT20yVzZncXhkNXVIZnNtSk5kMnFGN3JTRXUyX1F0dDRmQWcwY3Bma05ad2tTTl9MM2gyUlZJcjZuNG90QWRETDdhcUpJSlBVYUJEYnc2MTA2cXc4NUVhRW4xR283bGpmaXZIaExYQXNTT0NpYkNkd3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSllPbG9XanJ0Qm4tZnBCUlNiaEZlYUY1b1NQdFhzTlczTHlIb0NFNEgzc29qVmMwemFjSEVwWUJSeGlTQkFHOHUxZzR5MDBIYmYxNTBmSXdvU2Y0R1FQRFFGb3FabTd3YzBJSmV6YkVGRjJlSEhRWEh2M0lWeTZRRElhYlZLWU5qQjByNnJxVWZ3MEVDOWdtUGJIYjVsb0w1aVNmNjFNU2VVMWNi0gGyAUFVX3lxTFBoLUN0bWRMbFVaTkNTMHJoWUtwRmM5aDVYMDVDRUpjUWFWcHFoazNpTVVqYnpCWERoczFHVVYtMUdhT20yVzZncXhkNXVIZnNtSk5kMnFGN3JTRXUyX1F0dDRmQWcwY3Bma05ad2tTTl9MM2gyUlZJcjZuNG90QWRETDdhcUpJSlBVYUJEYnc2MTA2cXc4NUVhRW4xR283bG",
-      "content": "Big Oil earnings are set to surge. Why investors may want to be cautious\nI’m heading to the Middle East and Europe. Here’s what I expect to see.\nBig Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.\nEnergy Secretary Wright on nuclear, Iran and U.S. LNG.\nGET THIS IN YOUR INBOX FIRST: Subscribe to CNBC&#x27;s \"Power Insider\" newsletter.\nThat&#x27;s not a reference to the reportedly amazing new documentary about disgraced Theranos founder Elizabeth Holmes. It&#x27;s about the next few days and next week: days that will be dominated by earnings, a massive conference, and more on Europe&#x27;s energy woes.\nI&#x27;ll hit more on energy earnings in The Actionable Insider below.\nNext week for me, it&#x27;s multiple flights through multiple time zones. First up is one of the most important energy conferences in the world:  ADIPEC in Abu Dhabi. It&#x27;s a who&#x27;s who of the energy world. I&#x27;ll be speaking with some of the most influential energy executives in the world. You&#x27;ll see some clips on CNBC about it and then I&#x27;ll write about it here next week. I&#x27;ll also be meeting privately with some of the biggest power players in energy and having great conversations with country and company leaders about oil, gas, commodities, Hormuz, and more - all ahead of what some fear may be another round of hits on Iran or Iranian energy infrastructure. It remains a tense time.\nThat will be followed later in the week by a deeper dive into Europe&#x27;s slow-rolling energy crisis. The Iran war and Hormuz risk have added another layer to an already risky situation, but let&#x27;s be clear: it is not the reason why Europe is in an energy bind. Russia&#x27;s horrible invasion and now four-year war on Ukraine added gasoline to a fire that began burning with bad policy decisions years ago. I have been covering the European energy story for five years - from the UK, Germany, Belgium, and the Netherlands - and next week I&#x27;ll be in Italy highlighting where Europe is right now. Hint: it&#x27;s not good. Natural gas storage levels are below their recent average, and prices are near record highs for imported LNG.\nOf course, there is a risk that travel plans change, much as they did a few weeks ago around a planned trip to Riyadh. That was scuttled after the Houthis launched cowardly and deadly attacks on civilian targets in Riyadh and other Saudi Arabian cities.\nSpeaking of the Middle East, on my X account I posted a rather blurry picture sent by a friend of mine in Dubai a few days ago. On a morning swim, he spotted a U.S. Navy ship standing guard in the distance in the Arabian (Persian) Gulf. It&#x27;s blurry because he had to zoom in from a distance, but regardless, I think it tells a thousand words. Oil is flowing through Hormuz in part because the great U.S. Navy is making sure ships get through. This ship and the brave men and women on it are part of that. But there&#x27;s also the risk that the Iran war heats back up, with new U.S. assaults on Iranian targets. If that happens, oil is likely to pop. We live in a day-to-day, or even hour-by-hour, world.\nKeep calm, carry on… and keep a warship at the ready.\nYou&#x27;re going to see everything… including earnings and guidance.\nThe next few days are critical for energy investors. Earnings roll out from ExxonMobil (XOM) , Chevron (CVX) , Marathon Petroleum (MPC) , and ConocoPhillips (COP) .\nI&#x27;ll just be blunt: these numbers are going to be big . Texas-sized big.\nThe expected numbers for ExxonMobil, Chevron, and ConocoPhillips are above. All three are expected to more than double  of EPS from last year. Then there are the refining-heavy companies. Those are a different thing altogether.\nMarathon Petroleum&#x27;s earnings estimate is $25.37 a share. That&#x27;s not a typo. Three months ago, EPS came in at $17.73, versus an estimate of \"only\" $14.27. And consider this: just one year ago, the Ohio-based company earned $4.51 per share. The jump in oil prices and - more importantly - the huge \"crack spread\" on refined products have sales expected to increase by $13 billion in just one year.\nFor all four, guidance may be more important than the earnings themselves. What these companies say about the future and capital spending matters most. Any changes to spending plans will be closely watched by investors.\nThese numbers are also likely to be closely watched by the political class. They are likely to use these big numbers to excoriate the industry as oil prices rise. An industry source tells me that the industry is \"used to\" the political attacks, but wishes there were more focus on the boom-or-bust nature of much of the industry, and that the money these firms earn now will help brace against the bad times and when - not if - oil drops again at some point in the future.\nWhatever your bent is on Big Oil, get the popcorn ready, because the next week will be big for all you energy investors - in many ways - and hopefully you&#x27;ll see everything.\nFor investors, caution is warranted on the energy space, says BTIG&#x27;s chart analyst Jonathan Krinksy. On refiners specifically, he notes that the S&P Refining Index is up nearly 160% in 2026, its best year in at least three decades by far.\n\"At a minimum we should expect consolidation, but more likely some significant downside reversion,\" wrote Krinsky earlier this week.\nKrinsky doesn&#x27;t like the look of the charts on Valero and Marathon Petroleum. On the latter, the analyst said the stock \"hasn&#x27;t quite broken its uptrend, but feels like it&#x27;s coming.\"\nThis week, we spoke with U.S. Energy Secretary Chris Wright. He joined us from a nuclear power plant in rural Illinois. His office is offering billions of dollars in loan guarantees to help build out more nuclear power capacity in the U.S. We spoke with the secretary about that, as well as oil, Iran, Hormuz, and the importance of U.S. LNG in keeping Europe running right now.\nWatch CNBC&#x27;s full interview with Energy Secretary Chris Wright\nShell nearly doubles quarterly profit year-on-year as refining margins soar to record high\nSinopec&#x27;s third-quarter profit jumps 57% on higher oil prices, refining margins (Reuters)\nTrump methane policy rollback may have minimal impact on crude prices, EPA says\nThis German Energy Giant Is an Overlooked AI Bargain (WSJ)\nCatch up with more on energy including interviews and video content from CNBC and Power Insider .\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.\nEQT CEO Toby Rice on buying Range Resources: We&#x27;ve created a higher-quality business\nWatch CNBC&#x27;s full interview with Energy Secretary Chris Wright\nConstellation secures conditional loan commitment of up to $5 billion from Energy Department",
-      "published": "2026-10-29T18:13:32+00:00",
-      "source": "GN Energy",
-      "sources": [
-        "GN Energy",
-        "CNBC Top"
-      ],
-      "source_count": 2,
-      "category": "markets",
-      "category_zh": "市场",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
-      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
-      "assets": [
-        "原油",
-        "能源股"
-      ]
-    },
-    {
-      "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU0IwNVJVTnhKZzNSYXNpZ1gyS2tIUGNuZkVYZnNsc2VGU3ExX1ZmRUktb0FIdmtJQzVfTG5OejNWUDBZSjlQaEFhLVRza0QwMEZKRUp4NVFDMWk2MG9WTnV1S0JFOXYzNHhmNk5VbldvcFROMjJWR08xcURyc09XSjNWdG9YTTh5TzFabXdZdmtYRG9BSXVsNVIyQ1FfbnZ2UW1pLVJlekxiMXd4ZHpIaFBBVURiTEIwS3ZVM2QyVklyX3FOZ0o1eEY4S0FUZTVFS1lvajBrRldZbDNFZEVCT2tkYw?oc=5",
-      "summary": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid&nbsp;&nbsp;The Globe and Ma",
-      "content": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer .\nSemiconductor Sell-Off: The 1 AI Chip Stock I&#039;d Buy and 1 I&#039;d Avoid\nBroadcom’s AI semiconductor revenue grew 221% year over year in its fiscal third quarter of 2026, driven by custom accelerators and AI networking.\nIntel’s forward price-to-earnings ratio is about 51, a premium that leaves less room for disappointment if its manufacturing ambitions fall short.\nRisks differ between the two, with Broadcom reliant on a few large customers and Intel facing execution and competitive challenges.\nThe semiconductor sell-off is a chance for investors to buy into the artificial intelligence (AI) boom at a discount, but not every chip stock is worth picking up. Broadcom (NASDAQ: AVGO) and Intel (NASDAQ: INTC) are two AI chip stocks worth looking into, but here's why investors might buy one and avoid the other.\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\nWhy Broadcom is the AI chip stock investors could buy\nOne of Broadcom's biggest advantages is its ability to help major tech companies develop custom chips designed for specific workloads. For example, instead of relying on general-purpose graphics processing units (GPUs), hyperscalers are increasingly using these specialized chips to enhance performance and reduce power consumption.\nIn its fiscal third quarter of 2026, its AI semiconductor revenue surged 221% year over year, driven by demand for custom accelerators and AI networking. And management expects that momentum to continue, projecting further revenue growth in the following quarter.\nPlus, the company's opportunity extends beyond individual chips. AI data centers require high-speed networking to move massive amounts of data between chips, servers, and storage systems. And Broadcom's networking products help address this challenge, giving it more ways to benefit as hyperscalers expand AI capacity.\nBroadcom's acquisition of VMware expanded its presence in enterprise software, giving investors exposure to both the AI infrastructure boom and the recurring demand for software that helps businesses manage their IT environments.\nOf course, Broadcom isn't without risks. Its growth depends a lot on continued spending by a small group of large customers, and any slowdown in their investment could quickly affect revenue growth.\nThat said, Broadcom's forward price-to-earnings (P/E) ratio of about 18 looks attractive given its history of growing sales tied to the lucrative AI space. Looking ahead, if it continues to benefit from demand for custom AI chips and networking, investors could participate in that growth at a reasonable price.\nBut not every chip company is well-positioned to benefit from AI. The next company has its own opportunity, but the bull case hinges heavily on a turnaround in its business.\nWhy investors could be cautious about Intel's turnaround\nIntel is an interesting chip company to watch. That said, investors might be more cautious about buying the stock today because its long-term potential depends on successfully executing its turnaround.\nThe company is investing heavily in advanced processing technology, including its Intel 18A process, while strengthening its manufacturing capabilities through Intel Foundry.\nStill, improving its existing chip business is one challenge, but building a successful foundry operation that can compete with established manufacturing leaders is another. Manufacturing semiconductors requires substantial capital, solid execution, and customers willing to commit their chip designs to the platform.\nAny delays, manufacturing yield problems, or weaker customer adoption could undermine Intel's turnaround.\nPlus, competition is another concern. Intel faces established rivals as it tries to build its presence in a foundry market where customers already have solid alternatives.\nNot only that, Intel's forward P/E of about 51 looks much harder to justify given the uncertainty surrounding its turnaround. The premium suggests investors are counting on strong earnings improvement, leaving less room for disappointment if its manufacturing ambitions fall short.\nBut if it can manufacture competitive chips and consistently win business from customers, its investments just might pay off.\nThe semiconductor sell-off is creating opportunities for investors willing to look beyond short-term volatility.\nBroadcom stands out as the better pick for investors seeking AI growth at a reasonable price, thanks to its established AI chip business, networking expertise, and attractive valuation. Intel has turnaround potential, but its execution challenges and premium valuation make this semiconductor veteran the higher-risk choice.\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Broadcom wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $334,308 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,323,413 !*\nNow, it’s worth noting Stock Advisor’s total average return is 897 % — a market-crushing outperformance compared to 213% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nRick Orford has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Broadcom and Intel. The Motley Fool has a disclosure policy .\nThis article contains syndicated content. We have not reviewed, approved, or endorsed the content, and may receive compensation for placement of the content on this site. For more information please view the Barchart Disclosure Policy here .",
-      "published": "2026-10-30T00:29:43+00:00",
-      "source": "GN AI",
-      "sources": [
-        "GN AI"
-      ],
-      "source_count": 1,
-      "category": "ai_tech",
-      "category_zh": "AI/科技",
-      "stars": 3,
-      "score": 12.6,
-      "is_hypothetical": false,
-      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
-      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
-      "assets": [
-        "科技股",
-        "半导体"
-      ]
     }
   ]
 }
