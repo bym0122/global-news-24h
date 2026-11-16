@@ -1,0 +1,1343 @@
+{
+  "generated_at": "2026-11-16T05:10:04.469889+00:00",
+  "window_hours": 24,
+  "count": 60,
+  "window_start": "2026-11-15T05:09:48.972696+00:00",
+  "window_end": "2026-11-16T05:14:48.972696+00:00",
+  "publication_time_rule": "published only; updated is never used; missing published is discarded",
+  "items": [
+    {
+      "title": "Britain's Prince Harry visits war-wounded in Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYW9nUmdzZ1RDU1hwVmQ3Z0RIWndjWWM1aFBEa0xFTmxtRm1WUHlfNXhZY2wwaWVwbHZOeERYX2NEeU93eVlFTURBLVdRT2hoYkp5QjhuSVl1dVlqQmVTaThMZWpPeGdXdm44bVE5NG51UUZsTXRqYjZZUjZGSWNnWm5aMTlDTDNHTDJEcy1FX2V5NDlJSVdtZw?oc=5",
+      "summary": "Britain's Prince Harry visits war-wounded in Ukraine&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T22:05:44+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "GN Geopolitics"
+      ],
+      "source_count": 3,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 4,
+      "score": 18.0,
+      "is_hypothetical": false,
+      "why_important": "被 3 家主流媒体同时报道，且命中高影响关键词，属当日核心事件。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Third US carrier joins Iran blockade, Bessent warns of economic collapse - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vaTFReTI3LXB0dllUN3JjQ2o0WU5YTkFFV3NiUnpSVXV5RmN0V2d6MDY2ZEpxMnRoVTFQbHBONUFTeGNkYUdMR1VKblREZHA3QWc?oc=5",
+      "summary": "Third US carrier joins Iran blockade, Bessent warns of economic collapse&nbsp;&nbsp;Iran International",
+      "content": "",
+      "published": "2026-11-16T00:06:34+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 4,
+      "score": 16.6,
+      "is_hypothetical": false,
+      "why_important": "高权重来源 + 高影响关键词，可能对市场或地缘产生连锁反应。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNxZjdMUWpxX0k5UFljV1NLWVhkTW5lMnE0SVVsRjlVNml3N1BCWmt2NTgwV0RGZkNYam1yQ1N3MXRjUHJLME5jZmY0dERCNGo4Rl9rZjdKZldwajhnbmlTQ25PRzE4WndhUEFoS29fZmFDWVczMUZfRFRRa21MektCU0luRGJiNllsTnZiRmZHVUN1R0kwTlJsM2dCN2hlYzJyOXk0bUZRX29XajFHRkhubzk?oc=5",
+      "summary": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T01:32:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics",
+        "GN Fed"
+      ],
+      "source_count": 3,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Canadian Dollar weakens against US Dollar amid Fed rate hike bets, falling oil prices - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVlzX2dvWTVaRFg3MnBZMDlONFNYYXh3QXIxWkY3dV9uT0UyTXo0UjN2T093OTlpR3ZBeTBFVnVVUmVLbWV3TW1UTGw1dVJPWEhudUVSaXpNTWV5NFdVZXlrbkNKMmNKLTh4d0dOQW5HQndTV2hMREhJemNveHUwYkMzN1YyczNBZTNiVFh2bFJQUGhyRE85dXhURWJUcmxBVEtxa3pOdnZTT2E0X05IRVM5Z2l5UXRjVkM1QTBWWF94aHV3Rnc?oc=5",
+      "summary": "Canadian Dollar weakens against US Dollar amid Fed rate hike bets, falling oil prices&nbsp;&nbsp;FXStreet",
+      "content": "",
+      "published": "2026-11-16T01:39:05+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 15.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：原油 / 能源股 / 美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+      "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+      "content": "China confirms Xi-Trump-Putin meeting in first three-way summit\nThe talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.\nThe three-way summit among the three nations is unprecedented.\n\"The ability to bring Putin and Trump to the table, a first-among-equals scenario, will deliver much of the political benefit\" for Beijing: analyst.\nRussian artist Alexey Sergienko unveils his new pop art painting dubbed \"Shenzhen, 26\" in Saint Petersburg on November 12, 2026.\nChina confirmed Monday that President Xi Jinping will meet with Russian President Vladimir Putin and U.S. President Donald Trump in Shenzhen on Thursday, setting up the first-ever gathering of the three leaders.\nThat confirmation from a spokesperson at China&#x27;s Foreign Ministry follows announcements from Moscow and the White House. The Wall Street Journal had reported last month that Putin had proposed a three-way sit-down in an attempt to negotiate an end to the four-year war in Ukraine.\nWhile the summit among the three nations, on the sidelines of the APEC meeting in Shenzhen, is unprecedented, the leaders have held bilateral meetings over the years. Xi has met with Trump three times since October last year and more than 40 times with Putin since becoming president in 2013. Trump and Putin have met in person on several occasions, including a visit to Alaska by the Russian leader in August 2025.\n\"For Xi, just the ability to bring Putin and Trump to the table, a first among equals scenario, will deliver much of the political benefit even before the discussions begin,\" said Peter Alexander, Shanghai-based managing director at Z-Ben Advisors.\nTrump has departed Washington, D.C. for a four-day trip to Asia that also includes a stop in the Philippines.\nThe main hurdle to the first-of-its-kind summit now appears to be \"a disagreement over the agenda,\" said Neo Wang, chief China strategist at Evercore ISI.\nThe White House signaled the U.S. intention to prioritize talks over nuclear non-proliferation and the Middle East war, while downplaying the prospects of engaging in talks over Ukraine — a topic high on Moscow&#x27;s agenda.\n\"He [Trump] will discuss the reduction of nuclear weapons in the world , whose proliferation President Trump believes is very dangerous,\" Olivia Wales, a White House spokeswoman, told reporters on a briefing call . The president will raise the U.S.-Israeli war against Iran in the meeting but is not expected to bring up Russia&#x27;s war in Ukraine, the official said.\nPutin&#x27;s position on the war appears unwavering, with the Russian president telling U.S. envoys Jared Kushner and Steve Witkoff in a meeting in Moscow last week that Europe should \"figure out\" whether \"they want peace or war.\" The meeting came a day after an earlier round of talks aimed at ending the war in Ukraine wrapped up in Abu Dhabi.\nRussian presidential aide Yuri Ushakov said last week the talks in Shenzhen would continue the diplomatic efforts aimed at reaching a negotiated settlement to the Ukraine war, according to state-controlled local media Russia Today.\nChina and Russia could turn more aggressive with their military ambitions over the next two years if they perceive Trump as politically weakened, Brookings Institution senior fellow Robert Kagan told CNBC earlier this month, following the dramatic defeat of Trump&#x27;s Republican Party in the midterm election.\nChina did not specify what will be discussed at the three leaders&#x27; meeting in Monday&#x27;s statement.\n\"Xi may be inclined to do Putin a favor by showing up, given close strategic ties,\" said Wang. But a joint statement on Ukraine territory, security arrangements or sanctions against Russia appears unlikely, he said, as it would leave Beijing \"more exposed to political scrutiny and accountability.\"\nA U.S.-China trade truce set to expire in January is likely to be on the table, with analysts largely expecting an extension despite signs of growing friction in the bilateral relationship.\nAside from an immediate extension, leaders may also look to assess \"whether a more durable framework for a rebalancing of U.S.–China trade relations can be established,\" said Carlos Casanova, senior economist for Asia at UBP.\nU.S. trade deficit with China remains substantial, with Beijing&#x27;s exports to Washington recording double-digit growth for most of this year, from last year&#x27;s low base. Narrowing that deficit will be central to Washington&#x27;s call for a more balanced trade, Casanova said.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-11-16T04:34:00+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Canada bars Russia from Junior World Championships",
+      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "content": "Image caption, Russia invaded Ukraine in February 2022\nRussia&#x27;s hopes of reintegration into international sport suffered a setback when it was barred from the upcoming Junior Ice Hockey World Championships.\nCanada said it would deny entry to Russian athletes as a result of the war in Ukraine.\n\"Due to the position and restrictions formally communicated by the Canadian government, the Russian Under-20 national team is unable to participate in the World Junior Championship,\" the International Ice Hockey Federation (IIHF) said in a statement.\nIt said that \"after carefully assessing the feasibility of alternative arrangements, the IIHF Council has determined that Canada will remain as host and the tournament will proceed from 26 December 2026 to 5 January 2027 in Edmonton and Red Deer.\"\nThe Russian Ice Hockey Federation called the IIHF&#x27;s decision \"unacceptable and unlawful\" and said it would appeal to the International Olympic Committee (IOC).\n\"The IIHF&#x27;s decision was made solely due to political reasons,\" it said in a statement.\n\"The exclusion of the Russian national team violates fundamental legal principles, Olympism, the principle of non-discrimination, equality among athletes and the integrity of international tournaments.\"\nRussia had been suspended from competing in IIHF events since the country invaded Ukraine in 2022, but last month the Court of Arbitration for Sport overturned the ban.\nIt said that the IIHF&#x27;s arguments citing safety and security were \"not supported by sufficient evidence\" and ordered it to allow Russia to participate in its events.\nThe move was welcomed by Russia but condemned by Ukraine and along with some sponsors of the Junior World Championships.\nSix European ice hockey federations said they would refuse to play Russia if they were allowed to take part, appearing to leave the tournament in limbo.\nOn Wednesday the Canadian government said it would deny visas to any Russian athletes, effectively barring them from participating.\nIt is the latest example of a wider backlash against efforts to allow Russia to return to international sport.\nThis week Norway, Finland and Estonia said they would block visas for Russian and Belarusian athletes.\nNorway is preparing to host skiing&#x27;s Cross-country World Cup next month, while Finland is due to stage the Figure Skating World Championships in March.\nThe International Skating Union (ISU) has said it \"believes that athletes should not be punished for the actions of their governments in a world where, sadly, many conflicts are ongoing\", and that it was \"seeking clarifications\" from officials in Finland.\nIn March several athletes from Russia and Belarus were allowed to compete under their national flags at the Winter Paralympics after partial suspensions by the International Paralympic Committee were lifted.\nIn July the IOC provisionally reinstated Russia to its competitions, saying a ban introduced in 2023 was \"no longer applicable\".\nHowever, sports federations can enforce their own eligibility criteria.\nWhile World Gymnastics, World Aquatics and World Boxing have removed restrictions on Russian athletes competing, a total ban has been maintained by World Athletics.\nLast month it was announced that Moscow will host the 2030 World Weightlifting Championships, the first time an Olympic federation has chosen to stage a global event in Russia since the invasion of Ukraine.",
+      "published": "2026-11-15T22:01:16+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2NSdXVjeDlTU0lLeTAtMGs5RmdHaW0wTVhVbzUwempOYUdlNVB3NXprMGZqYksyVjhLUU1OV250QlczemJOT2tXcVFIZEJYb0dwblVCblExbnFmZkVyeGZnZ0NJY3Z3a3NTcmxUQ21tR0ZsQVdhTTNRNWJaZW5pOEk4RDNEMXN3aExOaEE0QVNzaXV3UTM3ZjlNa2hDenRtajR2aGVGT3RQR0NOSnY1VHQ3czdCSkJWSUgxaFFYNThEUlBBMVpn?oc=5",
+      "summary": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T18:02:53+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 15.0,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2RPcjNKVi1OUEJFUkU4Z1NfUWk3MTZSZWRlMVVkXzVucFZET25jNF80WFpwUzN2QzVVUkJBanM0cENqOW51VWpNWkhxVlZxVG9sYl92V0RHR1FLa1NXaEpYejl2LUN5YUM2YmloTm9GaU4tSXY5c3NYbFZrR3pnSHdOVmZHXy1fNmlrRl9uUXNhdUYwYmpncFdRSzZMM193WFFGem9jS1M0TlF2TzFN0gG0AUFVX3lxTE1nb0lQdFlLa0plY0FMYmcwTVQwc3pIbkxyYW9PQkQ4OXNMQ3FsWXdybktqNWZ4YW5Pb0JWT0tUdWs5dnNPZVBHYXRnaEs3Yi1SR3BlWTlUT2ZhOG5YQXpuZS1tNUk0T29oNWltU2wwRUJYRmtDVnpQMVl4N2hxRGgxOUVjNzFsVXVabnBWVnMtb1o2QzY0Skd1d0VDeFhib3Bua3RFSlFUR3N5WWg2aHJDbUVFdA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2RPcjNKVi1OUEJFUkU4Z1NfUWk3MTZSZWRlMVVkXzVucFZET25jNF80WFpwUzN2QzVVUkJBanM0cENqOW51VWpNWkhxVlZxVG9sYl92V0RHR1FLa1NXaEpYejl2LUN5YUM2YmloTm9GaU4tSXY5c3NYbFZrR3pnSHdOVmZHXy1fNmlrRl9uUXNhdUYwYmpncFdRSzZMM193WFFGem9jS1M0TlF2TzFN0gG0AUFVX3lxTE1nb0lQdFlLa0plY0FMYmcwTVQwc3pIbkxyYW9PQkQ4OXNMQ3FsWXdybktqNWZ4YW5Pb0JWT0tUdWs5dnNPZVBHYXRnaEs3Yi1SR3BlWTlUT2ZhOG5YQXpuZS1tNUk0T29oNWltU2wwRUJYRmtDVnpQMVl4N2hxRGgxOUVjNzFsVXVabnBWVnMtb1o2QzY0Skd1d0VDeF",
+      "content": "Ret Brig Gen warns Iran's military capabilities are not at zero\nRet. Brig. Gen. John Teichert discusses Iran’s military capabilities following a drone attack aimed at Bahrain on ‘America Reports.’\nFormer Secretary of State Antony Blinken warned Saturday that airstrikes alone may not eliminate Iran's weapons capabilities, but said a U.S. ground invasion would be an \"absolute disaster.\"\nSpeaking at the 24th Hindustan Times Leadership Summit in New Delhi, Blinken, who served under President Biden, pointed to Iran's massive territory, population of roughly 90 million and ability to produce weapons deep inside the country as obstacles to any military campaign aimed at dismantling its arsenal.\n\"The weapons that it continues to produce are back far enough, the range is great enough that you can't just take everything out,\" Blinken said. \"You'd probably have to have a land invasion of some kind to do that, which would be an absolute disaster.\"\nTRUMP KEEPS SIGNALING AN END TO IRAN WAR, BUT EXPERT WARNS A CRUCIAL PIECE OF HIS STRATEGY IS MISSING\nFormer Secretary of State Antony Blinken said President Donald Trump's 20-point ceasefire agreement was based on the one developed by the Biden administration. (ARMEND NIMANI/AFP via Getty Images)\nBlinken's warning came ahead of Iran claiming Sunday to have launched six drones at a U.S. military installation in Bahrain, while reports surfaced that neighboring Iraq faced concerns that its territory could be drawn into a potential American ground operation.\nBahrain said its air defenses blocked several Iranian aerial attacks Sunday, the first such interceptions since September.\nIran's Islamic Revolutionary Guard Corps (IRGC) said it targeted a U.S. air defense radar system at the Al-Rifaa helicopter base with six drones in retaliation for what it described as \"hostile US actions,\" according to Iranian state media, Reuters reported.\nBahraini officials said the drones were intercepted before reaching their targets.\nIRAN HAS 'SUBSTANTIALLY INCREASED' EFFORTS TO TARGET AMERICANS ABROAD, US INTELLIGENCE MEMO WARNS\nThe locations of U.S. bases throughout the Gulf are seen in relation to Iran. (Fox News)\nThe latest escalation came amid further fighting in Yemen, where the Houthis made advances against Saudi-backed forces , raising additional concerns about the conflict spreading across the region.\nBlinken warned that Iran retains the ability to widen the confrontation despite the United States' overwhelming conventional military superiority.\nWhile Washington can \"escalate vertically\" by intensifying its bombing campaign, Blinken said, Tehran can \"escalate horizontally\" by targeting American military installations, regional allies and critical infrastructure, either directly or through allied armed groups.\n\"Even though we're much more powerful, that asymmetry in their ability to escalate horizontally as opposed to vertically is not to our advantage,\" Blinken said.\nThe former top diplomat also emphasized the geographic challenges facing U.S. forces.\n\"That coastline along the Strait of Hormuz goes on forever,\" Blinken said.\nIran is roughly four times the size of California, with a coastline and weapons production facilities that could complicate efforts to eliminate its military capabilities through air power alone.\nTRUMP'S MOAB THREAT COULD PUT IRAN'S DEEPEST BUNKERS IN AMERICA'S CROSSHAIRS\nSoldiers from the US-led coalition forces are seen during the handover of the K1 Air Base to the Iraqi Army from the US-led coalition in Kirkuk, Iraq on March 29, 2020. (Soldiers from the US-led coalition forces are seen during the handover of the K1 Air Base to the Iraqi Army from the US-led coalition in Kirkuk, Iraq on March 29, 2020)\nConcerns about a potential ground operation have also intensified in neighboring Iraq, where officials have resisted proposals to sharply restrict trade and movement across the Iranian border.\nIran International reported that Tehran has become concerned that Iraqi territory could be used as a staging ground for a potential U.S. operation into southern Iran.\nThe Iraqi newspaper Al-Mada reported Nov. 9 that Iraq's prime minister privately briefed Shiite political leaders on an alleged American military plan involving a ground offensive, the outlet said.\nIn an interview with France 24 published Friday, Iraqi Foreign Minister Fuad Hussein had also warned that the region's unstable security environment could not continue indefinitely.\nThe current state of \"no war and no peace\" is unsustainable, Hussein said, warning that the confrontation \"either goes towards peace or it goes towards war.\"\nAFTER 47 YEARS OF CONFRONTING IRAN, DOES AMERICA HAVE A STRATEGY FOR ENDING THIS WAR?\nAn MH-60R Sea Hawk helicopter lands on the flight deck of USS Rafael Peralta as it transits regional waters, in this photo released by U.S. Central Command on Oct. 15, 2026. CENTCOM said the USS Rafael Peralta is enforcing a military blockade of Iranian ports. (CENTCOM)\nHussein also said Baghdad has a responsibility to pursue diplomatic mediation because Iraq has already been drawn into the conflict.\nHe pointed to recent outreach to Tehran, including discussions with Iranian Parliament Speaker Mohammad Bagher Ghalibaf.\nThe Iraqi foreign minister also rejected a reported U.S. demand that Baghdad close all but two of its land border crossings with Iran, describing the proposed restrictions as \"not possible\" and \"a kind of sanction against the Iraqi people.\"\nThe border dispute comes as U.S. Central Command (CENTCOM) expands efforts to disrupt Iranian weapons shipments and illicit trade through Task Force Iron Gate .\nCENTCOM announced the task force would coordinate with other U.S. agencies to prevent Iran from transporting advanced weapons systems, dual-use technologies, sanctioned materials and illicit revenue across its land borders and the Caspian Sea.\nEmma Bussey is a breaking news writer for Fox News Digital. Before joining Fox, she worked at The Telegraph with the U.S. overnight team, across desks including foreign, politics, news, sport and culture.",
+      "published": "2026-11-16T00:17:38+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Gold holds steady as investors await Warsh remarks for rate signals - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
+      "summary": "Gold holds steady as investors await Warsh remarks for rate signals&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T01:25:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Fed"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.9,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：黄金 及相关产业链。",
+      "assets": [
+        "黄金"
+      ]
+    },
+    {
+      "title": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGR5c2pLSXM1M0MtQ3dKbnhUeU5KYlZHN2xRWm5vTXhlS1o4TE55NzZxOWhRRGpmbVFmWTMwYW9DYXVXUHEzLWZXa0JJTUxuaEFyZ0dadG8xYXhmbFhFNHVVb3UyUkJFQnZJZDZwZm53QXQwTVY1MkNpMF9VTGJyTUQwcFRIUGVRRWl0WGtqbEpiWDJVc05URExfNlB5MGc1QmFjLTBQenFrdkRKXzUxcTVoU3dtMmJtQVlNUnVZU2VqdUZFa19jeklJQno?oc=5",
+      "summary": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T03:48:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "BBC World",
+        "GN Geopolitics",
+        "Guardian World"
+      ],
+      "source_count": 4,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.8,
+      "is_hypothetical": false,
+      "why_important": "多源确认（4 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlB1SEVVNFVLT3JzZ2p0Z1h2UU5SWi1ZSkRheVNtZHVqWUcySFl3VXFDdV84WnBNUlJWOFMzMm1yYTE5TGJGbXl0aWJOMU9saVJybHJGa2xGdHFYTkExY1R5ZGw1NlpQU3N2WFVyZ2sxaHhjeWd4cl9yQzc5T0U0WjMzMWNJWlBTU0h3dzJ5d2s0cTRGUVptMmFId1JVRUhPX3hxaA?oc=5",
+      "summary": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too&nbsp;&nbsp;New York Post",
+      "content": "Cargo trucks halted at the Gabd-Rimdan crossing at the border between Pakistan and Iran during a temporary suspension of trade on Oct. 21, 2026.\nAmerica no longer needs a deal with Iran, President Donald Trump proclaimed last week.\n“We’ve got their money . . . and we’ve got their Strait!” he wrote Thursday.\nHe’s right about the Strait of Hormuz: Gulf oil is flowing through the passage again under US Navy escort, despite Iranian attacks on shipping — but Iran hasn’t loaded a barrel of oil onto a ship since Aug. 25.\nBefore the US blockade, Iran’s southern sea routes carried as much as 80% of its trade.\nWhat still reaches Tehran comes mostly by land, across seven international borders .\nThose roads have become the regime’s lifeline. It’s now time to close them.\nAmerican blockades at sea and in the air demonstrate what effective enforcement can do.\nIn March, the first month of the war, almost no crude oil from the Arab countries passed through Hormuz; in October, 10.3 million barrels a day did, about three-quarters of the prewar flow.\nBut the US Navy has bottled up Iran’s tanker fleet, and that’s inflicted real damage: In mid-October Iran sold the last of the 89 million barrels it had on tankers beyond the blockade line.\nIts Chinese buyers pay a month or two after delivery, so the final payments could arrive around mid-December.\nNow, a senior budget official is saying Tehran “must prepare for circumstances in which oil revenue reaches zero.”\nThe sky is closing too : Since Treasury sanctioned the last of Iran’s airlines in September, the United Arab Emirates, Oman, Georgia and Azerbaijan have barred them all.\nChina’s and Russia’s are the last major runways still open.\nThe roads, however, are allowing the regime to rearm and to buy time.\nAt least $2 billion in military supplies has reached Iran since January 2025, some of it by truck from Central Asia.\nA land blockade doesn’t mean sealing 3,700 miles of frontier.\nHeavy freight must pass through a limited number of official crossings, and trucks cannot carry the loads that ships do: An official at Iran’s own Chamber of Commerce has estimated that one cargo vessel equals about 2,500 trucks.\nClose most crossings, inspect every truck at the rest, and Iran’s lifeline becomes a queue.\nTo that end, this month US Central Command established Task Force Iron Gate , charged with stopping weapons, sanctioned goods and illicit cash from crossing Iran’s land borders and the Caspian Sea.\nThe goal is to make the overland route slow, expensive and payable only in the hard currency the regime no longer earns.\nBy clicking above you agree to the Terms of Use and Privacy Policy .\nAnd the plan is to have Iran’s neighbors, not American troops, enforce the blockade with their own border guards.\nThree countries, Iraq, Pakistan and Turkmenistan, guard more than 60% of Iran’s land border.\nBut persuading them to take part in the effort has been tricky: Iraq has so far refused Washington’s request to close all but two of its crossings, and Pakistan has shuttered them intermittently.\nCENTCOM needs to take action to strengthen the case for cooperation.\nIt must offer intelligence: The US must pledge to share data from American satellites, drones and financial investigators, so border commanders can know which trucks to open.\nIt must offer partnership: CENTCOM’s naval arm leads a coalition of more than 40 nations, including Iraq and Pakistan, that hunts smugglers at sea. Iron Gate should be that coalition on land.\nAnd it must use its existing leverage: It’s hard to say no to the military force that has trained you for decades.\nThe US-led coalition trained and equipped Iraq’s border guards, Washington approved a $686 million upgrade of Pakistan’s F-16s last year, and CENTCOM paid for a border checkpoint on Turkmenistan’s frontier with Iran.\nCENTCOM should make clear that future training, equipment and funding depend on cooperation at the Iranian border.\nTreasury has sanctioned Iran’s rail and auto sectors, truck makers included.\nIt should back the task force by putting every freight forwarder, trucking company and inland port on notice that hauling the regime’s cargo means losing access to the dollar.\nParliament Speaker Mohammad Bagher Ghalibaf predicted on Nov. 11 that the incoming Congress will pile political pressure on the White House.\nTrump must prove him wrong. No deal has to mean no letup.\nThere’s no need for another major military campaign while economic pressure does the same work.\nSave military force for the minelayers and missile crews that threaten ships and Americans.\nAnything wider hands the regime the war it would use to hide a broken economy.\nThe sea is closed to the regime, and the sky is closing.\nClose the roads, and it will be left alone with the 90 million Iranians it has robbed for 47 years.\nThen it will have two choices: accept America’s terms, or answer to its own people.\nMark Dubowitz is chief executive of the Foundation for Defense of Democracies, where Miad Maleki is a senior fellow.",
+      "published": "2026-11-15T21:05:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "GN Energy"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "US DOJ warns Senator Warren about potential Trump-related probes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkZtWE5GWVdzVWtrMkxjX2hQbUdlNGlBYjVUVDc0V01nbzFFZnpGRzlmV0dnanB4cVJiSEM4Y2lpa2J0UXpZRzVUVGJNVnZGTy14MnNQbjluUHBoTFZWelpyWWsxdi1DX2RiWkFFMTVpZzlfMmtsVVBvRkNEVjlxcFFORU92bDY3djBTdnF4UXFfOXhRdEQ4SlpUQkhJQ0JDZFJNY2dYNVlxN1FZWVJr?oc=5",
+      "summary": "US DOJ warns Senator Warren about potential Trump-related probes&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T02:13:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVpyVXN0aUg3WkJlT2lSODV2bnF4RE1BUjZLSkIxYlA3YktPZjlNcGZUUDFBU2k5VThpbFBydWN0eHMyOWZtN01iUnNBdEMxd096M2FoUENtcHlzMlBaZGR4ME8tMU9sYm9HaTQ1a0tCSDI1WlBUUDV2cDRmQjdXaVdYV0RValpHb19EVWhiMFIzZXR1WmpRTnhhOFVuVEhvVGs5YjVyRjJTZTBj?oc=5",
+      "summary": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks&nbsp;&nbsp;Anadolu Ajansı",
+      "content": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks\nIran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks\nRevolutionary Guard says sunken supertanker was carrying more than 2 million barrels of crude oil\nMustafa Melih Ahishali, Muhammet Torunlu and Rania Abushamala\nISTANBUL Iran’s Islamic Revolutionary Guard Corps (IRGC) said Sunday that two oil tankers struck naval mines and caught fire while attempting to cross the southern part of the Strait of Hormuz, sinking one of the vessels.\nThe IRGC Navy said the tankers were attempting to use what it called an “unauthorized” route when the mine strikes triggered powerful explosions. It said one of the vessels, a supertanker carrying more than 2 million barrels of crude oil, sank in the southern Gulf.\nThe force alleged that the tankers had switched off their navigation systems and tried to cross undetected with support from the US military.\nThe statement did not identify either vessel or give details on the crews.\nIran announced on July 12 that it had closed the strait again after the US resumed strikes on Iran. Tehran has warned it would target vessels that use routes other than those it designates or attempt to transit without its permission.\n​​​​​​​The Strait of Hormuz is a major route for global oil and liquefied natural gas shipments. Disruptions to shipping through the waterway have heightened concerns over global energy supplies.\n750 civilians flee insecurity in Sudan’s West Kordofan in a single day: UN migration agency\nKuwait, Egypt sign 8 cooperation documents at joint committee meeting\nUS, 9 partners sign agreement to secure AI supply chains\nASEAN signs power grid MoU and discusses regional oil stockpiling\nMexican authorities open homicide probe into journalist’s death\nASEAN, China continue to seek common ground amid global uncertainties: Philippine president\nMexican drug kingpin Miguel Angel Felix Gallardo dies at 80\nNetanyahu allies open door to unity government without Ben-Gvir’s party: Report",
+      "published": "2026-11-15T15:04:52+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "Two oil tankers hit mines in the Strait of Hormuz, IRGC says - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTR5QkNGNFZWT3Vvd2EwcUxmRHhSQ2VrSjNsZVQ0WjJwejBWUmJUYUpnT0M4eUx4NHprUDUtZFAyUXVCWmZZdVQzMnFDejRMZzQyUWM1LTZyeUVtT0NZQUs3Zlp3d2diY0JiYXFHQldpRXFlck41cWZmNFMxX01yejlEV0Fad2NPaERKM2t0OVcxUDY4azRRY3cydkE1TU5xOThJQnI3Zw?oc=5",
+      "summary": "Two oil tankers hit mines in the Strait of Hormuz, IRGC says&nbsp;&nbsp;Arab News",
+      "content": "",
+      "published": "2026-11-16T04:51:10+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg?oc=5",
+      "summary": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests.&nbsp;&nbsp;Yahoo Finance",
+      "content": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests.\nThe Federal Reserve is widely expected to raise interest rates at its Dec. 9 meeting. CME FedWatch data indicated an 86.8% probability of a 25-basis-point (one-quarter of a percentage point) hike to 4%–4.25% and a 13.2% probability of a 50-basis-point (half percentage point) hike to 4.25%–4.50% during trading on Nov. 11.\nInvestors have already started reacting to changing rate expectations. After October inflation exceeded expectations, the two-year Treasury yield jumped about 18 basis points on Nov. 10. The S&P 500 (SNPINDEX: ^GSPC) fell 0.38% on that day. However, the large-cap stock index rebounded 1.3% on Nov. 11, helped by a rally in artificial intelligence (AI) stocks.\nMissed AI's \"Act 1\"? Act 2 Could Be 16x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\nImage source: Getty Images. History shows that stocks do not always fall after rate hikes. The market's response also depends on what investors expect from the Fed's future interest rate decisions.\nOn Dec. 16, 2015, the Federal Reserve raised interest rates by 25 basis points for the first time in nearly a decade. The S&P 500 gained 1.45% that day. Investors had anticipated the increase, and the Federal Reserve indicated that subsequent hikes would be gradual.\nOn Dec. 19, 2018, another 25-basis-points interest rate hike coincided with a 1.54% decline in the S&P 500. Investors were worried about slowing economic growth, while the Federal Reserve still projected additional interest rate increases. Federal Reserve Chairman Jerome Powell also indicated that the central bank would continue reducing its bond holdings, a policy that withdraws liquidity from the financial system. This added to investors' concerns about tighter financial conditions.\nHowever, the S&P 500 gained nearly 28% over the following 12 months, during which the Federal Reserve reversed course and cut interest rates three times in 2019.\nThe interest rate hike in March 2022 offers another example. The S&P 500 gained 2.24% on March 16, when the Federal Reserve began raising interest rates. However, the S&P 500 index lost 9.1% over the following 12 months, as inflation remained high and the central bank accelerated rate increases. The Russia-Ukraine war, slowing global growth, and recession fears also weighed on stocks.\nThese examples show why the market's immediate reaction to a rate hike does not necessarily indicate how stocks will perform over the following year.\nA widely expected 25-basis-point hike in December may have a limited impact on stocks. However, a surprise 50-basis-point increase or signals of more rate hikes in 2027 could push Treasury yields higher and negatively impact stock prices.\nIn September 2026, Federal Reserve officials projected a median interest rate of approximately 4.1% at the end of both 2026 and 2027. The new projections in December 2026 could indicate whether policymakers now expect more increases. Higher interest rates can raise companies' borrowing costs and reduce what investors are willing to pay for their future earnings.\nThe pace of interest rate increases is also important. A Charles Schwab report examined 18 Federal Reserve tightening cycles since World War II. The S&P 500's average maximum 12-month decline following the first hike was 16% in faster-tightening cycles, compared with 12% in slower ones. These numbers measure the largest declines during those periods, not full-year returns.\nThe U.S. economy has remained resilient. Inflation-adjusted gross domestic product (GDP) grew at a 3.4% annualized rate in the third quarter. Employers also added 165,000 jobs in October 2026. Continued economic growth could help companies sustain sales and earnings despite higher interest rates.\nHowever, not all businesses can manage tight financial conditions. The Federal Reserve's May 2026 Financial Stability Report found that many publicly traded companies remained well positioned to service their debt. However, some riskier borrowers with floating-rate loans faced greater debt-servicing pressures.\nStocks trading at premium valuations may face downward pressure if investors are not willing to pay a premium for future growth. Instead, companies with strong cash flow and reasonable valuations may be better positioned to withstand further rate increases.\nInvestors hoping to avoid potential losses from a December rate hike may consider selling stocks before the Federal Reserve's announcement and buying them again at lower prices. However, this strategy requires accurately predicting when stocks will decline and when they will recover. Morningstar found that between January 1990 and March 2026, the median gap between the S&P 500's 10 worst and 10 best trading days was just seven days.\nHistorical returns also suggest that rate hikes do not necessarily lead to prolonged stock market declines. LPL Research examined six Fed tightening cycles since 1994 and found that the S&P 500 gained an average 6.7% in the 12 months following the first hike. However, the absolute returns varied across the different time periods.\nA widely expected December rate hike may affect stocks, but unexpected signals about future increases could trigger volatility. Long-term investors may be better served by maintaining diversified portfolios and focusing on companies' financial health rather than trying to predict the market's immediate reaction.\nBefore you buy stock in S&P 500 Index, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and S&P 500 Index wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $335,171 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,000,640 !*\nNow, it's worth noting Stock Advisor's total average return is 823% — a market-crushing outperformance compared to 208% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nManali Pradhan, CFA has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy .\nHow Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. was originally published by The Motley Fool",
+      "published": "2026-11-15T12:22:00+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed",
+        "GN Markets"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Fed’s Schmid signals potential rate hikes as inflation exceeds target - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS2NzaTR3NWpoaXdTNlliM3pKMXBKcXBjLTNvc01pU09HZjJJWVpXZzAtWlk4d242Q2tJYlRKZF9PRGM5VVZIV1JYRGM3b3dlRWpjWUd1OGZXNTBlMmFSdW56QkFGeDNaS2k4QlVvenZYQTQ2dUJGQUlpZkc3aFR0bnB6X1pFUURkajZ1bmlSczBoZDJmVXM1TU5TM20?oc=5",
+      "summary": "Fed’s Schmid signals potential rate hikes as inflation exceeds target&nbsp;&nbsp;Crypto Briefing",
+      "content": "Fed&#039;s Schmid signals potential rate hikes as inflation exceeds target\nCrypto market $2.26T +2.8% 24h breadth 232 up 16 down Bitcoin $65,160 +2.6% Ethereum $1,826 +4.7% Solana $72 +4.7% XRP $0.969 +7.9% BNB $596 +3.7% Top gainers NES $0.169 +32.7% DRV $0.305 +32.4% VVV $20 +21.4% Top losers BLAST $0.00000031 −63.1% BTW $0.553 −23% ZIL $0.0012 −11.1% Stocks NVDA $163 −2% TSLA $390 −1.8% AAPL $356 +0.4% MSFT $524 +0.2% COIN $128 −2.3%\nCrypto market $2.26T +2.8% 24h breadth 232 up 16 down Bitcoin $65,160 +2.6% Ethereum $1,826 +4.7% Solana $72 +4.7% XRP $0.969 +7.9% BNB $596 +3.7% Top gainers NES $0.169 +32.7% DRV $0.305 +32.4% VVV $20 +21.4% Top losers BLAST $0.00000031 −63.1% BTW $0.553 −23% ZIL $0.0012 −11.1% Stocks NVDA $163 −2% TSLA $390 −1.8% AAPL $356 +0.4% MSFT $524 +0.2% COIN $128 −2.3%\nCrypto Briefing Pro Follow the news about what you own. Add your holdings to find related stories in Pro. Create a free account\nFed’s Schmid signals potential rate hikes as inflation exceeds target\nclass=\"w-7 h-7 border border-foreground/30 text-foreground rounded-full flex items-center justify-center hover:bg-muted transition-colors\"\nKansas City Fed President Jeffrey Schmid has indicated that inflation is not aligning with the Federal Reserve's targets, suggesting that more monetary policy action may be needed. Schmid's remarks highlight ongoing concerns about inflation, which remains above the Fed's 2% target, as indicated by recent economic data. While Schmid did not explicitly call for a rate hike, his comments align with a narrative of continued vigilance from the Federal Reserve regarding inflation management.\nSchmid's comments suggest the Federal Reserve may consider further rate hikes to address persistent inflationary pressures.\nCurrent market pricing appears consistent with expectations of at least one rate hike in 2026, as indicated by the 87.5% YES probability in relevant prediction markets.\nThe statement underscores the ongoing challenge for the Fed to balance inflation control with economic growth.\nFuture statements from other Federal Reserve officials, particularly those from Chair Jerome Powell, may provide additional insights into the likelihood of rate hikes. Key economic indicators, such as upcoming inflation and employment data, will be closely monitored by market participants for indications of the Fed's future policy direction. Any shifts in the Federal Reserve's language or projections could further influence market expectations regarding rate hikes in 2026.\nBank of America forecasts Fed rate hikes in December 2026, January and March 2027\nFed's Daly signals potential for more rate hikes amid rising inflation pressures\nFed's Barr: AI boosting US investment, GDP, impacting prices\nInvestors brace for tighter US monetary policy amid inflation concerns\nSee what prediction markets are pricing into the day's biggest stories.\nDaily. Free. Join 34,000+ readers across crypto, finance, and policy.\nFollow your stocks and crypto. Read the news about them from hundreds of publishers in Pro.",
+      "published": "2026-11-15T23:03:25+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "content": "Image caption, The Nvidia scandal has sent shockwaves through Silicon Valley as well as the political establishment\nBy Dearbail Jordan ,Â  Business reporter Â  and Â  Lily Jamali ,Â  North America Technology correspondent ,Â  Reporting from Palo Alto, CA\nAlice Huang, a suspected China spy who has been linked to Nvidia&#x27;s former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.\nJensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.\nMegaspeed is the biggest buyer of Nvidia chips in South East Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.\nThe Singapore-based company said on Sunday it had launched an internal investigation into its business.\nMegaspeed said it was aware of reports \"containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence\".\nIt added that it \"conducts legitimate and lawful business\" and has \"retained external legal counsel to conduct a thorough internal investigation\".\nBut while Alice Huang is said to have stepped down from her role as Megaspeed director near the end of 2023, there were suspicions that she was still heavily involved in the firm&#x27;s operations, according to Washington-based security analysis group C4ADS\nC4ADS said that Huang was still \"practically in control\" of Megaspeed even after she had handed over the reins of the firm.\nHuang - who is of no relation to Nvidia&#x27;s former boss - had been investigated by Singapore authorities in February 2025 as part of the country&#x27;s probe into Megaspeed and other companies.\nAlso on Sunday, US Congressman John Moolenaar said that Jensen Huang has agreed to testify before the Select Committee on China, which he chairs, as well as the House Foreign Affairs and the House Permanent Select Committee on Intelligence.\nThe committee heads had threatened to issue subpoenas to Huang if he did not comply with their requests to testify.\nMoolenaar told CBS, BBC&#x27;s US partner, that none were ultimately issued. Huang&#x27;s testimony is expected to take place behind close doors, with the dates still being finalised.\n\"That&#x27;s going to be a very important meeting to understand to what degree privileged information was accessed, and to what degree this potential alleged Chinese spy influenced Nvidia&#x27;s philosophy and may have had an influence on some of our policies with respect to AI and export controls,\" the congressman told the Face The Nation programme.\nSeparately, a group of tech leaders, including Space X&#x27;s Elon Musk, have been trying to rally support to have Huang reinstated as Nvidia CEO.\nA representative for Huang declined to comment on a report in the Financial Times Sunday suggesting that he was discussing a comeback to the firm he co-founded.\nThe BBC understands that the likelihood of Huang being reinstated to lead Nvidia is very low while the company&#x27;s internal investigations are ongoing.\nThe move would also face scrutiny from Washington, with Treasury Secretary Scott Bessent calling for Nvidia to hire its next CEO from outside the company.\nOn Friday, Bessent had blamed fellow Trump cabinet colleague Howard Lutnick&#x27;s commerce department for failing to properly oversee the export of high-end chips.\nBessent told CNBC that several agencies \"were in favour of putting Megaspeed on the entity list for months... but Commerce has the pen... and you will have to ask them about their internal process\".\nThe so-called entity list restricts US trade with overseas firms and individuals.\nLutnick has been called to testify before the Senate Banking Committee next month over his department&#x27;s role in allowing Nvidia to export its advanced chips.\nOther congressional committees have asked both Lutnick and his department to retain all records relating to Nvidia and Jensen Huang.\nMegaspeed is suspected of giving backdoor access to Nvidia chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.\nFigure caption, Watch: Who is suspected Chinese spy at centre of Nvidia affair investigation?\nNvidia has been banned from selling its advanced semiconductors to China.\nWhile Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.\nSingapore has said that while it does not enforce \"unilateral export controls imposed by other countries\" it expects all companies in its jurisdiction to respect such regulations.\nMegaspeed said it \"designs and maintains its global operational and supply-chain control frameworks to comply with all applicable laws and regulatory regimes\". It said this includes \"US export control requirements and local jurisdiction rules in every market where we operate\".\nChina has denied that Alice Huang is a spy and warned the US not to use the scandal as a \"pretext for imposing a technological blockade\" on AI technology.\nHow the Jensen Huang scandal created a headache for business-friendly Singapore\nHow a sex scandal at Nvidia is putting pressure on the White House\nHow AI visionary Jensen Huang was undone by his own bad decisions",
+      "published": "2026-11-16T01:47:57+00:00",
+      "source": "BBC World",
+      "sources": [
+        "BBC World",
+        "BBC Business"
+      ],
+      "source_count": 2,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 14.3,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXg3dWdlUEMzckhPaldaYlFrSXlzQnVLeEJLRGtnMFFpeWh5VXI3akUxWEtLQ3JwSk92b2pvWi1FdjNFWVpBZm9Jck56NDUwQkZDUGZpUG01X3RDLS02enpGcWpnXzc3ZWctengxamdOTDY1MzdYMzgxR0V2THk3Zl9xbXZhTEcyWHEzRDU2YWZ2dTZVaFVpNA?oc=5",
+      "summary": "Fed 'has some work to do on inflation,' KC Fed chief says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T18:43:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Fed"
+      ],
+      "source_count": 2,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Iran launches new drone strikes toward U.S. base - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2s4MjJKRVhDV1Y5SUNCOWlKUU9ua3lZX2xWZzQ4U1JqMFI3Vk5iR0tZeWRYS3FMT2FIR0hsNjJzRTlpMGpCcUluSVpJOVN5TUJ6Y3pYQ2piTnNDVWIwMVhOc3A3WEdqZnZOOGFGNUxQTUI2UFFkTkViLWEwdjh2WFIxZlpqZ1JVU3k5ZUVzUlhkYmt0anB4Y3RVNkVjV2t0ODM5aTNn?oc=5",
+      "summary": "Iran launches new drone strikes toward U.S. base&nbsp;&nbsp;NBC News",
+      "content": "",
+      "published": "2026-11-16T04:16:31+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics",
+        "Al Jazeera"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "60 Minutes Transcript: Families of U.S. military members killed in Iran war want answers from the Pentagon - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rZ2VORmxNTk1RNVZ1VUV0Q29Xc1lvcmFENXMzZVlsZnhOVW9GZmxvVzhtTXlXVm1yanN5MFktUmNrbE5Ha2lrbkJWejFxQ0QzazBua3F2dFpKaUNXU0RXNkNjMXkzamV5c21Vd0FVS1BRQjBxckhN?oc=5",
+      "summary": "60 Minutes Transcript: Families of U.S. military members killed in Iran war want answers from the Pentagon&nbsp;&nbsp;CBS News",
+      "content": "There are many ways to measure the cost of the Iran war. The latest price tag from the Pentagon is $47 billion. But the war's heaviest toll has been levied on the more than 800 American service members wounded and the families of the 23 who have died.\nTonight on 60 Minutes, our monthslong investigation reveals the extent of the damage to U.S. positions in the Middle East. You'll also hear from Gold Star families. Their loved ones were killed in the first 24 hours of fighting when an Iranian drone struck an army command post in Kuwait. It was Iran's deadliest strike against the U.S. military and shattered any perception that American troops were beyond the reach of an enemy, skilled in a new type of warfare.\nJoey Amor: There are soldiers that are signing up now that are going to go. And they have to trust that what happened to my wife isn't gonna happen to them.\nJoey Amor's wife, Master Sgt. Nicole Amor was one of the first six Americans to die in the war . The fallen American service members were met at Dover Air Force Base by the president and top leaders.\nJoey Amor: She was proud. She was constant. She was unwavering. She was dedicated.\nMaster Sgt. Amor served in the Army Reserve's 103rd Sustainment Command.\nJoey Amor: I don't have anything nice to say about the 103rd.\nJoey Amor: I love those soldiers. And my wife loved those soldiers. But the command of the 103rd has handled this so poorly. And if I'm bein' frank, it's-- it's on them. They killed my wife. They killed these soldiers. And it's not political. there are individuals in that command that made choices.\nThose choices by command have been the focus of our eight-month-long investigation into the first American deaths of the war. The day after the attack, on March 2nd, Secretary of Defense Pete Hegseth insisted the troops there were well-protected .\nSecretary of Defense Pete Hegseth: Every once in a while you might have one, unfortunately we call it a squirter that makes its way through. And in that particular case it happened to hit a tactical operations center that was fortified. But these are powerful weapons.\nThe U.S. military had built up a significant presence in the Middle East. But in the weeks leading up to the Iran war, the Pentagon moved 90% of its ground forces out of Kuwait and away from Iran, fearing retaliatory strikes. But some 70 members of the 103rd - which handles logistics - were sent closer to the threat, to this small army outpost - known as Port Shuaiba - about 65 miles from Iran.\nNorah O'Donnell: How would you describe the installation at Port Shuaiba?\nMajor Stephen Ramsbottom: It was, some people have phrased it as a trailer park.\nMajor Stephen Ramsbottom was the 103rd's deputy chief of operations and a combat veteran.\nMajor Stephen Ramsbottom: The protection that was there was to stop car bombs and threats like that. There was nothing there designed to protect from an aerial attack.\nIran has developed an arsenal of kamikaze drones like these and Major Ramsbottom says the threat of a drone attack was well-known. It was raised to the unit commander, Brig. Gen. Clint Barnes. And Ramsbottom says he warned Maj. Gen. John Hinson - who oversaw logistics for the U.S. Central Command.\nMajor Stephen Ramsbottom: I brought it up in twice in various meetings-- basically saying, \"Hey, I don't see how we're protected here.\"\nNorah O'Donnell: And how did your leadership respond?\nMajor Stephen Ramsbottom: He said we don't have to worry about protection\nMajor Stephen Ramsbottom: Yes that's why I'm speaking up. I feel this is a, a tactical failure by the Army, our leadership, and myself, all the way down to my level. yes we just, we did not plan this well. And this needs to be a lesson that we learn.\nMajor Ramsbottom was not the only one concerned. We spoke with six soldiers who told us they had seen U.S. intelligence before the war started that put Port Shuaiba on an Iranian list of targets.\nMajor Stephen Ramsbottom: I saw those reports, there was definitely an X where we were.\nIn the week before the attack, soldiers asked for extra support.\nMajor Stephen Ramsbottom: That was command Sarn't Major that chimed in with, \"Hey, we're gonna try to get this this counter drone system sent out to you.\"\nMajor Stephen Ramsbottom: No, it never arrived at Shuaiba. And we don't know if it was ever even ordered to or requested.\nThis past week, Major Ramsbottom filed this whistleblower complaint to Congress - demanding an investigation into why there was no \"dedicated protection against one-way attack drones.\" He also claims \"the site had no physician, no fixed aid station, and only one ambulance.\"\nTanner Carson: We did not have the manpower nor the equipment for any kind of a mass casualty incident.\nTanner Carson was one of two civilian medics regularly stationed at the Port. He was surprised when, in late February, he heard dozens of soldiers from the 103rd were moving in.\nNorah O'Donnell: What was your concern when you heard that you would have an increase in head count?\nTanner Carson: The lack of resources, the lack of additional manpower, the lack of additional transport capability, and the fact that we did not have any kind of a supply cache on site. Like, the only medical supplies that we had were what was in my truck.\nCarson knew Master Sgt. Nicole Amor - he told us she had specifically asked him if there was a mass casualty plan.\nTanner Carson: She wanted to know, you know, \"What's the plan if something were to happen?\"\nNorah O'Donnell: I mean, hearing that is kinda stunning. It's like she was concerned.\nTanner Carson: They all were. Anybody who came and asked those same questions, it was the same answer. \"I have enough here to get you to the hospital and I have enough here to keep two of you alive at most.\"\nThe week before her death, Master Sgt. Amor told her husband that she was worried about her unit's safety.\nJoey Amor: It's the only time in 15 years that I've ever heard her like that. She knew somethin' was comin'. They all knew somethin' was comin'.\nThe night the U.S. and Israel killed Iran's supreme leader in a joint strike, Iranian quadcopter drones can be seen in this video circling above Port Shuaiba. Soldiers told us five of these drones were spotted, likely conducting surveillance.\nMen and women of the 103rd were running in and out of nearby bunkers.\nAround 9 a.m. the next morning, the soldiers received the all-clear and went back to their workspace. Some 30 minutes later, the Iranian drone hit.\nMajor Stephen Ramsbottom: I remember just getting knocked to the ground. and it was like someone came up behind me and hit me in the back of the head with a baseball bat or something. Everything just went black.\nMajor Stephen Ramsbottom: It hit the center of the quadruple-wide trailer we were in\nNew video obtained by 60 Minutes shows black smoke billowing from the command post.\nNorah O'Donnell: When you got to the scene, what did you see?\nTanner Carson: A mess. I could tell the building itself wasn't there anymore. And through the smoke you could see people laying on the ground, people carrying other bodies, people kinda limping together with one another.\nMaster Sgt. Amor was still breathing when soldiers loaded her into an SUV and drove her to a local Kuwaiti hospital.\nJoey Amor: They were googling hospitals to try to take some of the soldiers to. That's absurd.\nNorah O'Donnell: Do you think that if there had been a plan your wife would be alive today?\nAmong the American soldiers killed were Master Sgt. Noah Tietjens and Chief Warrant Officer Robert Marzan. We spoke with Tietjens' widow Michelle and Marzan's widow Tina.\nNorah O'Donnell: You were one of the last to be notified. Why was that?\nTina Marzan: I think the drone hit them directly. And I don't know who knew that they were still in the building, in this metal shed that they were in. And I know they found his hat next to him.\nNorah O'Donnell: They had to use DNA to identify him?\nThe attack on Port Shuaiba was one of many in the region\nOur analysis of satellite imagery and new video shows the scale of destruction the Pentagon has never fully disclosed.\nSince the start of the war, Iran has hit at least 31 U.S. military and diplomatic sites across eight countries, damaging hundreds of buildings and structures &mdash; from Saudi Arabia, to Kuwait, to Bahrain, where the headquarters of the U.S. Navy's Fifth Fleet was destroyed.\nIran's strikes have continued for months, even after President Trump declared victory on April 1.\nThree months later on July 17, Iranian missiles targeted housing units on a U.S. base in Jordan, killing three more American soldiers .\nWhen American troops are killed in action, it falls on fellow soldiers to deliver the news &ndash; like the ones who visited Tina Marzan the night after her husband died at Port Shuaiba.\nTina Marzan: And immediately when you see them standing outside, you know. I just didn't want it to be real.\nTietjens prepared to share the news with their 13-year-old son.\nMichelle Tietjens: I gathered a few items that my son would want. One of 'em was his dad's sweatshirt that he left at home, an Army little teddy bear, and I went back to my-- my-- where my son was, and I had to tell him Daddy wasn't comin' home.\nJoey Amor tried to shield their 10-year-old daughter and 18-year-old son from the two soldiers walking up his driveway.\nJoey Amor: And my daughter didn't understand. And my son said, \"I know.\"\nNorah O'Donnell: The worst thing in your life, and then also to share it with your children.\nJoey Amor: What it's been like-- for us since then has been-- it's been a nightmare. when your baseline is you wake up and you roll over and your wife's not there, and that's your baseline and you know that she's never gonna be there again, and it's not because she's mad at you, it's because she doesn't exist anymore.\nThe Gold Star families told us they have received military honors and outreach from the Trump administration &ndash; but don't believe they've gotten the full story.\nNorah O'Donnell: It has been eight months since the attack. What has the Pentagon told you?\nTina Marzan: The truth. Accountability. Just own it. Say, \"Something went wrong and we didn't plan right.\" That's all that I want.\nThe Pentagon has declined to answer whether the 103rd was denied adequate force protection. The U.S. Army finished its investigation into the attack in June. This week the families are finally being briefed on the results.\nNorah O'Donnell: If the Pentagon says the U.S. military did nothing wrong and that this is the cost of war, will you accept that?\nJoey Amor: No. You trust your leadership to put you in the best possible position. And my wife's death, I already know, was preventable. I will not accept, \"That's the cost of war.\"\nWe reached out to the two generals who allegedly ignored warnings about drone attacks, Maj. Gen. John Hinson and Brig. Gen. Clint Barnes. Neither responded. Yesterday, Army officials briefed Michelle Tietjens on the results of its Port Ahuaiba investigation &ndash; she told us they did not acknowledge any mistakes.\nProduced by Michael Kaplan and Jonah P. Kaplan. Field producer, Julie Morse. Associate producer, Callie Teitelbaum. Broadcast associates, Gianna Totani and Paloma Vigil. Edited by Thomas Xenakis. Thanks to: Rhona Tarrant and James LaPorta.\nTranscript: Rep. Jim Himes on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+      "published": "2026-11-16T00:00:15+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Third time's the charm? Israel risks another Iran war without learning from past failures - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUEY4YkZBTENJMDVrb2dNUGxpeWphOXEyNTZaTDdNR1FYQ0FUWkQ5SGJPV2pDR3ZEV3VxWGQ5TDNsY0dTak14aTFLYjJ5QnhIUzdnbkJJYnFLc2g2dU1FYWtjendQQnM4UU9CSlhn?oc=5",
+      "summary": "Third time's the charm? Israel risks another Iran war without learning from past failures&nbsp;&nbsp;Ynetnews",
+      "content": "Third time&#x27;s the charm? Israel risks another Iran war without learning from past fail\nThird time&#x27;s the charm? Israel risks another Iran war without learning from past failures\nAnalysis: As Israel weighs a third war with Iran, Netanyahu and IDF chief Eyal Zamir face questions about the first two campaigns, their overstated achievements and whether another round of fighting can succeed without a clear strategic objective\nThe campaign for a third war with Iran in the space of a year and a half is in full swing. According to numerous reports on the subject, the two approaches dominating the debate share the same outlook but differ over timing and legitimacy.\nOne approach , led by the prime minister and the heads of security agencies suspected of personal loyalty to him, such as the Mossad chief and the national security adviser, is pushing for action now, preferably alongside the Americans but, if necessary, without them . The second approach, led by the IDF chief of staff and backed by the Jewish opposition and most of the media, holds that the situation is deeply troubling but not so urgent that a caretaker government should order an operation that would send millions of people rushing to shelters.\nOnce a new government is sworn in, and not necessarily long after it takes office, it would be an entirely different story, because the problem of \"public trust\" would supposedly have been resolved.\nWhile the first approach reeks of political interests like a burning garbage dump, or at least of the knowledge that Netanyahu is capable of putting those interests ahead of everything else, the second is perceived as a more serious and responsible position because it combines professional analysis with consideration for the collective good.\nIn this context, the chief of staff personally enjoys considerable artillery cover, both from the usual ranks of military reporters and commentators who receive their information intravenously from the IDF Spokesperson&#x27;s Unit, and from supporters of Gadi Eisenkot on television panels and opinion pages. That support stems from his role as a \"gatekeeper\" standing up to Netanyahu and his entourage, at least when it comes to Iran.\nIn Gaza, the party continues. If disagreements exist within the IDF&#x27;s senior ranks, for example, they receive little meaningful attention. Who knows? Perhaps, by some miracle, as in the series \"Pluribus,\" everyone has been infected with a virus that makes them think exactly like IDF Chief of Staff Eyal Zamir.\nYet Zamir&#x27;s approach to the issue cannot be allowed to pass without clear answers to some difficult questions. He was a full partner in presenting the two previous wars as resounding successes. Of the first, he said that Iran&#x27;s nuclear program had been \"set back by years.\" Of the second, he said, \"We eliminated ... the weapons industries, the surface-to-air missile batteries and the surface-to-surface missile launchers.\" Even at the time, there were a few who emphasized the gaps between those grand declarations and the achievements on the ground, which were by no means insignificant. Entering another war requires the military, too, to explain those discrepancies.\nAfter Operation Roaring Lion , Zamir seemed to ignore the third objective that Israel and the United States had fantasized about: toppling the ayatollahs&#x27; regime. It was as though this had been someone else&#x27;s whim and he was merely the contractor responsible for carrying out the bombings. That ambiguity cannot continue, particularly after Netanyahu declared that this was the directive he had given the IDF. It was no coincidence that he chose to make that declaration at an officer graduation ceremony, right in front of the chief of staff.\nIf Zamir and others genuinely believe that another war is unavoidable, they must explain what will become of that directive, which Netanyahu says is the only way to fundamentally change the situation. For example, assuming that a regime in a country of 100 million people cannot be overthrown without American leadership, and even with the Americans it turned out, astonishingly, to be a little more complicated than some had imagined, is there still any point in entering the delightful reality of repeated rounds of fighting?\nTrying to sell the public a third war with Iran without acknowledging the strategic failures of the previous two and the lies told about them is sheer folly, regardless of who is fronting the campaign: Netanyahu, Eisenkot, Zamir, Trump, military commentators eager for action or Yehuda Levi. We might as well tell the public that \"third time&#x27;s the charm.\" Given the past three years, there&#x27;s a chance that might even work.\nThe commenter agrees to the privacy policy of Ynet News and agrees not to submit comments that violate the terms of use , including incitement, libel and expressions that exceed the accepted norms of freedom of speech.",
+      "published": "2026-11-16T04:12:22+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 14.1,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "The $130 Billion Oil Boom Fueled by the Iran War - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREQwREdna2c5ZzZySWUweTVNYmNRTUt6Y2lfcFdiQlAyRTNrRkJpRFplcG9CWFFrSjd0QkMyNHMyNk1GQk9nQmhOOXhVUkQ2cmNMUE5jaXNBdzFjTHdQLWRDRV9CaVlrdU1pVWFzTTJndVc5bU5XNGhRYUpCa0JwcFEyVm9tb2tCNDc4al9XY2x5UjlM0gGaAUFVX3lxTE9PeGkwOEpmRFRfdHR3OS1EZ0NBNFJCTHMwS2lIWDVaeEY4WFZhV1Q2OE8zZnBZRjZodnY2SUQzeERfdEVkYlpKM1FGRUtjX1FnZGx2OElrRVowRmlXeG0yeTBLYTlTc0gwZW1nbUFjdHlaUjFxM3B0UzFCdlVkZ1h3cEtLNzF2Z196UFVVb3lxcmt0OTljUlE3dHc?oc=5",
+      "summary": "The $130 Billion Oil Boom Fueled by the Iran War | OilPrice.com\nGermany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake\nIraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge\nIran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall\nPakistan Scrambles for LNG as Winter Gas Crisis Deepens\nAsian Refiners Turn Back to Gulf Oil Despite War Risks\nIndia Seeks Private Investors",
+      "content": "The $130 Billion Oil Boom Fueled by the Iran War | OilPrice.com\nGermany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake\nIraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge\nIran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall\nPakistan Scrambles for LNG as Winter Gas Crisis Deepens\nAsian Refiners Turn Back to Gulf Oil Despite War Risks\nIndia Seeks Private Investors for $910 Million Oil Reserve\nOil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks\n$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending\nBrent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal\nUK Vows Global Climate Leadership as PM Doubles Down on Net Zero\nEU Imports of Russian LNG Top 2025 Value Ahead of January Ban\nAngola Looks to Diversify from Crude with Windfall Oil Revenues\nTurkey Agrees to Record $1.6 Billion Climate Policy Funding Deal\nNigeria Hits OPEC Oil Production Quota for Sixth Straight Month\nIndia Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage\nChina Targets Global Gas Turbine Market as AI Power Demand Explodes\nAsian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge\nASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis\nOil Prices Sink as Iran and Ukraine Peace Optimism Builds\nMurphy Oil Draws Boycott Call Over Israeli Gas Licenses\nVitol’s Venezuela Oil Windfall Traced to Trader’s Ties to JD Vance\nEuropean Gas Prices Rebound on Iran War Uncertainty\nBrent Jumps Nearly 3% as Iran Denies Any Talks With Washington\nSaudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production\nIndia Approves $7.3 Billion High-Capacity Power Link to Back Renewables\nUkrainian Drone Attack Sparks Fire at Russia’s Key Baltic Oil Export Hub\nIndia Eyes 50% Wind Power Capacity Boost Without Acquiring More Land\nRWE and KKR Seal $16 Billion UK Offshore Wind Mega-Deal\nSiemens Energy More Than Triples Dividend After Record Year\nSaudi Arabia and Turkey Sign Major 3 GW Wind Power Deal\nPoland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal\nAPI Shows Sharp Build in US Crude Oil, Distillate Inventories\nTurkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts\nUkrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity\nChina’s Coal Buyers Resist Waiver Demands in New Indonesian Deals\nPeace Talks Won’t Save Oil Buyers From $100-Plus Oil\nVenezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line\nMiddle East Oil Flows Far from Normal Despite Signs of Oversupply\nFelicity Bradstock is a writer and journalist based in Mexico City. She writes for energy websites and covers several other industries, as well as writing&#8230;\nMore than 50 major U.S. oil and gas companies earned over $130 billion in profits between April and September 2026.\nRefiners and oil producers have benefited from elevated energy prices and disruptions to Middle Eastern supplies.\nAmerican consumers have faced billions in additional fuel costs as the war continues to disrupt global energy markets.\nSeveral oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have been forced to turn to alternative suppliers due to restrictions on movement through the Strait of Hormuz, the critical waterway connecting the Persian Gulf to the Arabian Sea, a shift that has allowed U.S. oil majors to help fill the gap.\nThe Strait of Hormuz has faced severe, ongoing restrictions and a functional blockade since late February 2026, following attacks on Iran by the United States and Israel, which led Tehran to respond by limiting movement through the waterway. Prior to the trade restrictions, the Strait of Hormuz was used to transport around one-fifth of the world’s oil and liquefied natural gas (LNG).\nIn 2025, roughly 20 million barrels of oil and oil products passed through the waterway every day, equivalent to almost $600 billion in energy trade per year, according to estimates from the U.S. Energy Information Administration (EIA). As Iran continues to impose trade restrictions, several countries have been forced to halt energy exports , particularly in the Persian Gulf, resulting in a severe negative impact on certain economies.\nUncertainties about how and when the Strait of Hormuz may reopen, and what energy trade might look like going forward, have led many countries around the globe to rapidly seek new fuel suppliers. The recent trade restrictions have exposed vulnerabilities in global energy trade and demonstrated the importance of diversification – both in energy exports and in expanding production beyond fossil fuels to renewable alternatives.\nA recent New York Times analysis suggests (conservatively) that U.S. oil firms have earned over $130 billion in profit this year, owing to higher fuel prices and increased demand for certain products. This assessment is based on the performance of over 50 major U.S. oil and gas companies, mainly producers and refiners, between April and September. By contrast, these companies earned less than $47 billion between them in the same period last year.\nSome companies are seeing higher profits than others, particularly those in the U.S. refining industry. Several Middle Eastern and Russian refining facilities have been damaged in recent years due to ongoing conflicts, threatening the world’s refining capacity and allowing U.S. oil companies to step in to fill the gap.\nU.S. companies can continue to operate safely and securely while several Middle Eastern refining companies must operate under dangerous conditions due to the ongoing conflict. In addition, U.S. oil and gas companies are largely sheltered from the high costs of shipping, as much of the oil they process is transported via pipeline.\nGeoffrey Miller, a geopolitical analyst and editor of the Gulf States Insights newsletter, explained that the war in Iran “created a risk premium that U.S.-based operators are structurally well placed to monetise,” whereas Gulf producers were “hit hard by both higher costs and risks, along with physical damage, which makes their ability to benefit from the higher prices much more difficult.”\nThe largest U.S. oil and gas companies, Exxon Mobil and Chevron, have been two of the firms to profit most from the war, reporting sky-high third-quarter earnings in October. Exxon’s third-quarter profit more than doubled, while Chevron’s nearly tripled.\nNevertheless, the profits seen so far this year remain below those of 2022, directly following Russia’s invasion of Ukraine and the subsequent introduction of sanctions on various Russian energy products. In 2022, oil prices rose to an average of $100 a barrel, compared with around $90 a barrel between April and September this year.\nAs U.S. oil and gas companies continue to profit, consumers across the U.S. have been forced to pay more for energy and gasoline in recent months as constraints on international fuel supplies drive prices ever higher. Estimates suggest that U.S. consumers have spent an additional $147 billion – over $1,100 per household – on gasoline and diesel since the beginning of the war in Iran. The disparity has driven a political debate over who profits and who pays the price for the war.\nThe United States is not the only country to experience higher oil and gas profits in response to the ongoing conflict in the Middle East, with several European oil majors reporting higher-than-average earnings. Shell reported $12.06 billion in third-quarter earnings, roughly double what it earned in the same period last year. Meanwhile, France’s TotalEnergies more than doubled its third-quarter profit compared to 2025, at $8.26 billion.\nAs several oil and gas companies across the Middle East and Asia continue to see restrictions on energy production and trade due to ongoing conflict, damage to infrastructure, and restrictions on movement through the Strait of Hormuz, U.S. and European fossil fuel companies are expected to continue profiting from both the higher demand for fuel from these markets and elevated oil and gas prices.\n$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending\nFusion's Next Race Is Over Superconducting Tape, Not Plasma\nGlobal Power Grid Expansion Surges 50% to Record High\nU.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record\nFelicity Bradstock is a writer and journalist based in Mexico City. She writes for energy websites and covers several other industries, as well as writing&#8230;\nU.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record\nBrent Crude Climbs Back Above $96 as Iran Tensions Escalate\nWill the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?\nThat email address is already in the database. Please login to your account to post your comment, or enter a different email address to continue with your comment & account creation.\nPlease understand that, by submitting this form, you will be creating a free OilPrice.com account, and therefore agree to abide by our Terms of Use . Your details will be stored in our database and shared with our third party mailing list provider. You will be sent an email containing a link that will ask you to generate a new password - please follow the link to complete your OilPrice account activation.\nWe will save the information entered above in our website. Your comment will then await moderation from one of our team. If approved, your data will then be publically viewable on this article. Please confirm you understand and are happy with this and our privacy policy by ticking this box. You can withdraw your consent, or ask us to give you a copy of the information we have stored, at any time by contacting us .\nPentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold\nScientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%\nThe AI Power Grab That Could Upend America's Electricity Industry\nMiddle East Oil Flows Far from Normal Despite Signs of Oversupply\nBy signing up to our newsletter, you agree for your email address to be shared with our third party mail providers.\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+      "published": "2026-11-15T20:04:12+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股"
+      ]
+    },
+    {
+      "title": "Gulf bourses slide as Hormuz tensions and houthi strikes rattle traders - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1U5SnRYV0N6dE01QU1sOFNRWHR0WndCRG05bDl3UEhURE1jR01ZZ2p4dmFpb1llajB6QzdpRmp3WUZYSkhRRmhHT0tKY2hfWjN1b0U3UzJuUkZ3N3ZpWlU1Sk1pOWJvZ3cxcVVRVmhycW9ON2R1Um5nR3ZSQUtzTHE5aHlMb28wM2xyMzQtdnZHNUFfMWR4ZVZwN2pfc2RmcTRMTEtfY0NHbEh0dUo4N0g5UHNGTGJ3c1E?oc=5",
+      "summary": "Gulf bourses slide as Hormuz tensions and houthi strikes rattle traders&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T13:31:43+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：原油 / 能源股 / 油运 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "油运"
+      ]
+    },
+    {
+      "title": "China's economy falters in October as factory output, retail sales miss forecasts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5",
+      "summary": "China's economy falters in October as factory output, retail sales miss forecasts&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T02:06:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN China",
+        "CNBC Top"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5",
+      "summary": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T18:59:19+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World",
+        "GN Geopolitics",
+        "Guardian World"
+      ],
+      "source_count": 3,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.6,
+      "is_hypothetical": false,
+      "why_important": "多源确认（3 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Dow Jones, Nasdaq 100, and S&P 500 Outlooks: Key Stock Market News This Week - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHcxUGNoYnF1dFlaNkd4cEdtYWxxbEhDbE9EcmJyUTg3NFJsREZTY0JxZS1CUmJRZEhteS03UHBEU1pQZEY2bUZXLTZyaXFseDlBdU40MmtiMC1tX2h3Yjl3Q3VfWi1maEU0TWpUM1luS0p1c0puUmRqaXc2OEpPOUg1bmhTNmZUQkhaNGRwMk1GNmJ4MDVJNE1mc3JLenJ6TWg0eEpIUGZPdW1tSmYybXdzNDdncV9mQ1lNb2Ewd0tVRmRwc0hTeA?oc=5",
+      "summary": "Dow Jones, Nasdaq 100, and S&amp;P 500 Outlooks: Key Stock Market News This Week&nbsp;&nbsp;Benzinga",
+      "content": "",
+      "published": "2026-11-15T20:30:08+00:00",
+      "source": "GN Markets",
+      "sources": [
+        "GN Markets"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Thousands run Cuba’s Marabana marathon as many protest US sanctions - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjVBUFFlVWU5MkhUZFktam1lajhjZGxuZzJzX0hQNFJHWlYxTExob2hjM1J2ZnE3d2pFMWtQX1M3YlVJWlVvUzlSS1FLVVFZWkFvYWROcFNsb0JGZll3cUJRQ0pOZGxmMFBoakhWN0ZuX1l2dThJaXpHdTdYSjhfbW1mOE50SGV2ZzRLVnhUclZUQmhBODZlaGFB?oc=5",
+      "summary": "Thousands run Cuba’s Marabana marathon as many protest US sanctions&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-11-15T17:58:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World",
+        "NPR World"
+      ],
+      "source_count": 2,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.5,
+      "is_hypothetical": false,
+      "why_important": "多源确认（2 家），可信度较高，值得纳入观察。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Fed’s Schmid warns inflation fight has grown harder - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlRNRV91YVJkZ0FaSno3MU1DR3lEa0dRZmNzel9raHJwZVc2UzdwNWg1QkFFQTk1ZGFITWdQMEs1UklZaTFKMk1nRnFrU2xBR0JTNlBUUUlQOHZZck9XTlR5OV9iR0hBZlJWa2hNRW5sdlYzd3Zxbi1yZ0tzazMzSjNGN0d2TDcwUFRaVHN2LVlyNnc?oc=5",
+      "summary": "Fed’s Schmid warns inflation fight has grown harder&nbsp;&nbsp;Seeking Alpha",
+      "content": "",
+      "published": "2026-11-15T21:25:05+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.4,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Open Questions | Europe’s China policy suffers from a ‘fundamental contradiction’: Vuk Jeremic - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjRhYVgtQ1hyLUdjc3ppYmd3LXZ4dE5jdzgzTF8wQmpXLXN2ME5RSWVWR1FDSHVpM2lqVXNLc3hhbS1ZUjhNMjlSaVJJNHFwNnVwdDZMV2ROdVNXbldIX0VLdTU0bllxaDZxZEZrdGN3QlZ2ZEFSSlJGSVNQMFp2VkpORy1UOV9zRjdIRnhSckdKYnIteEx6WWZvWjlnTlgzTUl6eEdueVhqeExLYUwxaWdCaC16SG1HSGZybkVmeWFERnBqMkVWN2d2WnfSAcwBQVVfeXFMTkM2QkV1YXVNODNtUjgwalVHLU5MNGRpd05WREhJSFgwdzZjSXdka2RsYW1na2VBa3NFeUl4Vno0MWwzOUZzdG4xSGxQVHQ4dzVVaFNoTng4Q3lkMWp3enFGSkx5M0pBR09oc2I3TVFkTF9wSENGS3RzdjRBNF9ZR3hXbXBITWxHd1hRTEM5N3Z1OXoxMlgyTTV5QWJKbkdWRXBBMFNDbHhMNjROeDlJaFdGUThSLUNqSmMtM3RMQ1FvQ3BJVXpiOXdDUl9y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjRhYVgtQ1hyLUdjc3ppYmd3LXZ4dE5jdzgzTF8wQmpXLXN2ME5RSWVWR1FDSHVpM2lqVXNLc3hhbS1ZUjhNMjlSaVJJNHFwNnVwdDZMV2ROdVNXbldIX0VLdTU0bllxaDZxZEZrdGN3QlZ2ZEFSSlJGSVNQMFp2VkpORy1UOV9zRjdIRnhSckdKYnIteEx6WWZvWjlnTlgzTUl6eEdueVhqeExLYUwxaWdCaC16SG1HSGZybkVmeWFERnBqMkVWN2d2WnfSAcwBQVVfeXFMTkM2QkV1YXVNODNtUjgwalVHLU5MNGRpd05WREhJSFgwdzZjSXdka2RsYW1na2VBa3NFeUl4Vno0MWwzOUZzdG4xSGxQVHQ4dzVVaFNoTng4Q3lkMWp3enFGSkx5M0pBR09oc2I3TVFkTF9wSENGS3RzdjRBNF9ZR3",
+      "content": "",
+      "published": "2026-11-15T22:00:11+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.3,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Fed’s Collins: Steady gradual path for rate hikes appropriate amid risks on both sides - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY05BVzJmWWhZZGo2NVhlSnV4Y1Q3b09RQlNrdUhQS21xdm1xUmtuSjZCUkNUdTYwaFJrb1phVWZCWEtLNDktYTV4SnFzSE1fWWxEcXd6NHIxQUlGQ1dGeHFDQUM2N1B1bklZanJwdU1Ea3dLdFEtYkNWNkM2OEZHd1d5NlBRN050NXoyMmJ6RUpCY2ZielBESVJrcGsyZVZLYV9CdTBJRlctSGtuckFuM0xWN0JGRV94YXFyZGNXYmtoN25LYXc?oc=5",
+      "summary": "Fed’s Collins: Steady gradual path for rate hikes appropriate amid risks on both sides&nbsp;&nbsp;FXStreet",
+      "content": "",
+      "published": "2026-11-16T01:53:32+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.2,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Fed’s Collins: With risks on both sides, a steady and gradual pace of rate hikes is appropriate - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnFIUDZXaUlxbUsxU1JoVWoxNWFrbXUtSUsxXzV0bkE3QXZDU1VWM09yN2tOTjlzQm9nVE4yaUJ4MzZmTWxXSlV3aS1BNmIySk5TUmdvWUt5MExKT0pSMnZSZkRSZ1FMVF9vcGQ3T3ZOTkdrTHJXQnJaaUFwSWdrR09vdEF2el9sTUdZNlN1YmNsMndPMlM1TElPN0pabWFnOUlNXzU4VUxienhXVDJmT0VRUUNCYjgzTTNHc2V3UTdQa0ZuWmVtNTFvdkhCYUM3ZjcxU1A2Z2o1UzJOSUNManNCbEhhc3lq?oc=5",
+      "summary": "Fed’s Collins: With risks on both sides, a steady and gradual pace of rate hikes is appropriate&nbsp;&nbsp;<fon",
+      "content": "Fed’s Collins: With risks on both sides, a steady and gradual pace of rate hikes is appropriate\nTrading Platform Academy News & Analysis About Partners Career\nExplore a wide range of markets with competitive pricing, deep liquidity, and advanced trading tools.\nTrade seamlessly with TMGM's powerful platform, built for speed, precision, and a superior trading experience.\nLearn the fundamentals of trading with beginner-friendly resources, including guides, webinars, and market insights.\nGet real-time market updates and expert analysis to stay ahead of trading opportunities\nLearn what sets TMGM apart — our global presence, regulatory strength, and commitment to innovation in trading.\nFed’s Collins: With risks on both sides, a steady and gradual pace of rate hikes is appropriate\nBy: Lallalit Srijandorn , FXStreet Tags: Federal Reserve\nA steady sequence of modest interest rate hikes would help manage economic uncertainty more effectively, Boston Federal Reserve (Fed) President Susan Collins said on Saturday, explaining her support for that approach.\nInflation and employment figures suggest the Fed may need to raise rates further than recently anticipated.\nFinancial conditions could weigh on the economy more heavily than expected.\nWith risks on both sides, a steady, gradual approach to rate increases is appropriate.\nThere was a good case for leaving rates unchanged at the October FOMC meeting.\nBringing inflation back to 2% is critical for the Fed.\nTo address the high cost of living, the most effective step the Fed can take is to restore stable inflation.\nThe labour market is in a state of ‘unusual stability,’ and could strengthen further.\nLonger-term inflation expectations are most likely to remain anchored.\nTMGM Analysis: Financial Market News, Economic Calendar & Market Insights\nThe US Dollar Index (DXY) is nearly 0.01% higher on the day, trading near 103.42 at the time of writing.\nHow does the Federal Reserve’s role influence the US Dollar?\nThe Federal Reserve (Fed) sets US monetary policy with two objectives: maintaining price stability and promoting full employment. Adjustments to interest rates are its main means of pursuing these goals.\nIf prices climb too rapidly and inflation exceeds the Fed’s 2% target, the central bank increases interest rates. Higher borrowing costs across the economy make the US more attractive to international investors seeking a place for their funds, strengthening the US Dollar (USD).\nConversely, inflation below 2% or an excessively high Unemployment Rate may prompt the Fed to cut interest rates to stimulate borrowing. This puts pressure on the Greenback.\nWhat is the schedule for the Fed’s monetary policy meetings?\nAt eight policy meetings each year, the Federal Open Market Committee (FOMC) of the Federal Reserve (Fed) reviews the economy and decides on monetary policy.\nTwelve Fed officials take part: the seven Board of Governors members, the president of the Federal Reserve Bank of New York, and four of the other eleven regional Reserve Bank presidents. The latter serve rotating one-year terms.\nHow does Quantitative Easing (QE) work, and what does it mean for USD?\nWhen conditions become extreme, the Federal Reserve may turn to Quantitative Easing (QE), a policy that substantially expands credit flows through a stalled financial system.\nThis unconventional measure is deployed during crises or periods of exceptionally low inflation. During the Great Financial Crisis in 2008, it was the Fed’s preferred tool. Under QE, the Fed prints additional Dollars to purchase high-grade bonds from financial institutions. The US Dollar typically weakens as a result.\nHow does Quantitative Tightening (QT) work, and why does it affect the US Dollar?\nBy reversing QE, quantitative tightening (QT) typically supports the US Dollar’s value. Under this policy, the Federal Reserve ceases bond purchases from financial institutions and, when bonds in its portfolio mature, does not reinvest the principal in new bonds.\n1 EUR/JPY Price Forecast: Bearish bias persists under 100-day SMA as pair eases below 176.00 2 India Gold price today: FXStreet data shows a decline 3 EUR/USD Price Forecast: Is 1.1000 next as firmer USD keeps bears in control near YTD low? 4 Indian Rupee remains stable against backdrop of robust foreign inflows and hawkish Fed expectations 5 BoJ’s Takata urges flexible rate hikes guided by data, not a fixed pace 6 Solana Price Forecast: SOL slides to four-month low as ETF outflows continue for six consecutive weeks 7 Gold stays near YTD low as USD gains support from Fed rate hike bets and Middle East tensions 8 Silver Price Forecast: Why has XAG/USD hit yearly lows below $47.50 amid hawkish Fed sentiment? 9 Top 3 Price Predictions: Bearish trend retains its grip on Bitcoin, Ethereum and Ripple despite oversold signals – BTC, ETH, XRP\nEUR/JPY Price Forecast: Bearish bias persists under 100-day SMA as pair eases below 176.00\nEUR/USD Price Forecast: Is 1.1000 next as firmer USD keeps bears in control near YTD low?\nIndian Rupee remains stable against backdrop of robust foreign inflows and hawkish Fed expectations\nBoJ’s Takata urges flexible rate hikes guided by data, not a fixed pace\nGold stays near YTD low as USD gains support from Fed rate hike bets and Middle East tensions\nTop 10 Most Traded Commodities in India & The Best Commodity to Trade\nIndex Trading: Mastering the Art of Market Performance Tracking\n16 Forex Candlestick Patterns Every Trader Should Know\nWho Owns BlackRock? Here’s a List of the Top 10 Shareholders\nThe FTSE 100 Index Outlook for 2025: Key Insights for Traders\nDogs of the Dow List 2026: Is It Effective & How to Invest?\nWho Are the Major Shareholders of Rolls-Royce (RR.L), and Is It Still a Viable Investment at the Current Market Price?\nSign up and access the Global Markets in less than 3 minutes\nCFD Trading Forex Precious Metal Gold Cryptocurrencies Shares Indices Oil ETFs\nMetatrader 4 Metatrader 5 TMGM APP Trading Calculator\nAccount Type Deposit & Withdrawal Promotion & Rewards Trading Conditions\nOverview Articles Course Webinars Trading FAQs Terminology Market News Market Insight\nAbout TMGM Regulatory Supervision Privacy Policy Legal Document Achievement TMGM x Chelsea TMGM x UNICEF TMGM x OG Esports\nThe information provided on this website is of a general nature only and does not constitute personal financial advice. Before acting on any information on this website, you should consider the suitability of the information in relation to your objectives, financial situation and needs. Investing in CFDs and FX Margin Contracts carries significant risks and is not suitable for all investors. You may lose more than your initial deposit. You do not own, or have, any interest in the underlying asset. We recommend that you seek independent advice and ensure you fully understand the risks involved before trading. It is important that you read and consider the disclosure document before you acquire any product listed on the website. The information and advertisements offered on this website are not intended for use by any person in any country or jurisdiction where such use would be contrary to local laws and regulations. The Products and Services offered on this website are not intended for residents of the United States, Malaysia and Thailand.\nTMGM is authorized and regulated in various jurisdictions.\nTrademax Australia Limited, trading as TMGM, is regulated by the Australian Securities and Investments Commission (ASIC), AFSL no. 436416 and is located at Level 28, One International Tower, 100 Barangaroo Avenue, 2000 Sydney, NSW Australia.\nTrademax Global Limited, trading as TMGM, is authorized and regulated by the Vanuatu Financial Services Commission (VFSC), registration number 40356 and registered at 1276, Kumul Highway, Port Vila, Vanuatu, Republic of Vanuatu.\nTrademax Global Markets (SE) Limited, trading as TMGM, is authorized and regulated by the Financial Services Authority (FSA) of Seychelles, with license number SD224. The company is registered at Office No 13, Providence Estate ABIS Centre, Mahe, Seychelles.\nTrademax Global Markets (International) Pty Ltd, trading as TMGM, is authorized and regulated by the Financial Services Commission, Mauritius (FSC) with license no. GB22201012, and registered at 33, Edith Cavell Street C/o IQ EQ Fund Services (Mauritius) Ltd Port Louis, 11324 Mauritius.",
+      "published": "2026-11-16T02:12:34+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 13.2,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
+      "summary": "Yemeni government force retreats from strait in major setback in war against Houthis&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T13:24:58+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 13.2,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Tearful Rory McIlroy wins season-long title on European tour for record-tying 8th time - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXRhVjVVWlFpTUIyOUszZ083ZDM4UTJibTFib3VIR0F5S2YyXzFCTVBfb2tCaDJjVjNEN3F5bXlQX3lTWVZkVVRQaTJuTE1FZXByM2oxcEJXVDBQVUlEOTBVOGpwVVBQRGpjUFdvbXdXQ0tSbGd4S05CU3g1T0M1ZU95aEl5MkFBUHVzaThaeXNPdkdZOXotWWtYdnRTY01CZ0YxRFhnU21FOWF0X2NnV2NjcURfa1BTeVE?oc=5",
+      "summary": "Tearful Rory McIlroy wins season-long title on European tour for record-tying 8th time&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-11-15T16:10:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Saudi, Iraqi Oil Replace Iranian Crude in China: Report - Egypt Oil & Gas",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0s5dWtqQlo0MGJ6Z2tBRlVpYk9RLV9xWnFseUtSLUcyZlpjcUhoQkpaMFh4ODE3RkswRl9mVVNWcVV2YmZ3LVBEc1FNdGFuZGRwdFA5RWRVSHZ5dUhOMHpuV0wtaUszN2NFMWRVSl9la21fOUpBdGtMSFdsUVN2cFlwZ0FqODRjZWVtTA?oc=5",
+      "summary": "Saudi, Iraqi Oil Replace Iranian Crude in China: Report&nbsp;&nbsp;Egypt Oil & Gas",
+      "content": "Saudi, Iraqi Oil Replace Iranian Crude in China: Report | Egypt Oil & Gas\nSaudi, Iraqi Oil Replace Iranian Crude in China: Report\nSaudi and Iraqi oil has begun replacing Iranian crude in China as Tehran's exports to the world's largest oil importer have plunged under the impact of a US blockade on its ports along the Arabian Gulf, imposed in July, Bloomberg’s Asharq Business website reported on November 15, citing vessel-tracking firm Vortexa.\nIranian oil exports to China fell to less than 100,000 barrels per day in October, down from around 1.4 million barrels per day before the war broke out in late February, Vortexa’s data showed.\nThe shift is creating an opportunity for major Gulf producers to expand their market shares in China, as the report said that Iranian inventories of crude loaded onto oil tankers and vessels used for floating storage, which Tehran had accumulated in the months before the war and the blockade, are now close to being depleted.\nThis is reducing its ability to continue meeting Chinese demand from available stockpiles, Vortexa argued.\nChinese buyers of Iranian crude have turned to Russian oil and other non-sanctioned grades, including Venezuelan crude, to make up for the loss of Iranian supplies, the firm added.\nHowever, the firm said, these alternatives have not fully offset Iranian volumes, opening the door for Saudi Arabia, Iraq, and other Gulf producers to capture additional market share in China.\nEgypt’s Ganope Opens New Oil, Gas Exploration Block for Bidding\nValmore Posts Slightly Higher Profits in 9M on Positive Subsidiary Performance\nEgypt Reallocates Oil Sector Workers to Address Staffing Needs\nIEA Sees Global Oil Market Returning to Surplus in 4Q 26 as Supply Recovers\nDonec nec justo eget felis facilisis fermentum. Aliquam\nIraq Resumes Oil Exports to Mediterranean via Syria Overland Route\nUAE Offers to Sell 1.87 Mn Barrels of Saudi Crude from Damaged Tanker\nAttack Targets Saudi Arabia’s East-West Oil Pipeline in Medina\nADES Holding's 9M Revenue Rises 44% YoY on Africa, Offshore Growth\nSaudi, Iraqi Oil Replace Iranian Crude in China: Report\nEgypt’s Ganope Opens New Oil, Gas Exploration Block for Bidding\nValmore Posts Slightly Higher Profits in 9M on Positive Subsidiary Performance\nGet all latest content delivered to your email a few times a month.\nGet all latest content delivered to your email a few times a month.",
+      "published": "2026-11-15T15:56:46+00:00",
+      "source": "GN Energy",
+      "sources": [
+        "GN Energy"
+      ],
+      "source_count": 1,
+      "category": "energy",
+      "category_zh": "能源",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "能源相关事件通常直接影响油价、航运与通胀预期。",
+      "possible_impact": "可能影响：原油 / 能源股 / A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "原油",
+        "能源股",
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Broadcom Stock Jumps as Nvidia’s Leadership Crisis Raises a Billion-Dollar Opportunity for Its AI Chip Business - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOakJ6UHRvMjNXS2RoaXRvdWdYUXJmMmdEYnM1aGZOWTJGNlpITEVmcU1SdjNVZDlONHB6eDZxazdla1VVYUNvRzQzY1M4eXM2dzBEaTNCQXRyRDNaYUdjNmo3al9PanBJRXQzN2dOWnk2cG1fUHpqT09nR3pGSGJWdWRrMm9ySWk0eWhCU1NHbm5OTzdISzJXeVVJZDVKSVR3SEQxY0E1VUx2RDBfZ3FpLXRaWU9sNGVIQ25uMjJYcDlkYmphUVdGazVTWVQ0OXI2b2kwYjluVFh6S0FMU3lfOXdudzRqTjVhbVE?oc=5",
+      "summary": "Broadcom Stock Jumps as Nvidia’s Leadership Crisis Raises a Billion-Dollar Opportunity for Its AI Chip Business<",
+      "content": "",
+      "published": "2026-11-15T14:25:25+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 13.1,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Dollar extends gains, yen looks past soft Japan GDP data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkdhelNXT1laWnBWei1ZTGMybnc1U1FxOUtGdjdoaGxDX29kd0pvc3FoLVhYdVh4SkdQdGN1cFU1UjVmb0lGWlJsdTlJOHppUjh0eGVrTFJBajZxUV9CVWFrN0F5S0RqVVpMWlR4ZW05R0duTFdvZjJNbGNhcEl2V002d0xWejFMRmR2ZjRDanBqZndnZndWOF96b3NxdVdaWnp4LWdzQ1RhdEdXdkhfcUJaSQ?oc=5",
+      "summary": "Dollar extends gains, yen looks past soft Japan GDP data&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T01:09:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "asia",
+      "category_zh": "亚洲",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, November 15, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFBvYW55ZXlENUltOVpkS2RJcklMMHFvMXpicHJ6YnZJV2xFcjJOazNGMVNQNjZZNVZxa3JTYmRLbkQyZzJMUTgwY0sxZnRHNVRwQVNBYlZnTVZiZHc5bHI2SnJzUy1FaHVjd2lSekFWWHlkVkQzTk51QlVEQzg1aW5zR1AyekhMejdWMXZyc1JzNkVHV1BUWUY2RmlTRUx0em5jUWNQTXFfWGtl?oc=5",
+      "summary": "Russian Offensive Campaign Assessment, November 15, 2026&nbsp;&nbsp;Institute for the Study of War",
+      "content": "",
+      "published": "2026-11-16T02:57:35+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Pence calls Vance ‘wrong’ on Iran war, GOP midterm losses - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTN6SXRicDc2MEMyLUoySWN3TDE4dUczQ1RpRGRJdXNqS3lkdW5RYWxlenVScW4wNWxIdWZaZmtjWFZENW9ZbUp6Ql9vU3NZWUMxVkcyaTZ4NnZ4OW1QaU91VHdLVE9Idi13Q0hGVExkUUN4c2lxcGpZdjlmSlpjYmJoX1lPUdIBiwFBVV95cUxOb2xIdF9VQ2VRajQ1cXdZbjBfQmVuOWZVSzhDWGxoSFNMTzllemhzSkM0eDIwaXNCblVhOVdxV2U1XzEwYldOVTlUWEVTdFhuNkVXWDNvX3pnZVdjMEo1Yzc0Wjk2Y2FvUXk4UnlNTnVwX2FIeFNwam9xLWwwaUVkTUR3MWZTbnlrODNZ?oc=5",
+      "summary": "Pence calls Vance ‘wrong’ on Iran war, GOP midterm loss",
+      "content": "",
+      "published": "2026-11-15T16:34:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEJkb2FSNEU5NWtBVk5vX3RudElUMEFFWlVoZXhYMFItMC1FOXhtY0VyenN5VzdRNlh5c1RzZnQzUnZxMHR6Z3dSX2dySDg1dXVybWlXV0dLQU9CYnBCYmhwMWNrZjFNVUpSNE9DNkF5SmpaSHNyNkRIdHFoOTEtRXY3WUphM2hGWC1Wbi0zNUFhejhfLUtMVjBR?oc=5",
+      "summary": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones&nbsp;&nbsp;The Atlantic",
+      "content": "",
+      "published": "2026-11-15T14:52:46+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Uncertainty Abounds in a U.S.-Iran “No War-No Peace” Environment - The Soufan Center",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yb1REWDdvRUxWckdVWEgwMWlQWjA4eUJwaVVhU3E4Rmh3NXBRM19YVVZ3eldKTzExbzZVbzNfWWtpcEJkTW5hWThkZU1jMElCUFM1UkFIc2pVT2tBeC1kTW1xZFpMX2s?oc=5",
+      "summary": "Uncertainty Abounds in a U.S.-Iran “No War-No Peace” Environment&nbsp;&nbsp;The Soufan Center",
+      "content": "Uncertainty Abounds in a U.S.-Iran “No War-No Peace” Environment - The Soufan Center\nIntelbrief / Uncertainty Abounds in a U.S.-Iran “No War-No Peace” Environment\nUncertainty Abounds in a U.S.-Iran “No War-No Peace” Environment\nPerceiving that they each have the strategic upper hand, U.S. and Iranian leaders appear unable to reach a settlement, even as the substantive gaps between their positions have narrowed.\nTrump has decided not to implement threats to escalate military action or pursue a diplomatic settlement, opting instead to rely on severe economic pressure to compel Iranian leaders to capitulate.\nPresident Trump’s repeated messaging that the U.S. goal is to change Iran’s regime increases the potential for pre-emptive Iranian escalation.\nRegional leaders continue to try to mediate a resolution and plan for a “no war-no peace” scenario, at least until Trump’s term ends in early 2029.\nU.S., Iranian, and other regional leaders see no clear pathway to break out of the strategic stalemate prevailing in the Gulf more than eight months after the U.S. and Iran launched Operation Epic Fury . President Trump and Israeli Prime Minister Benjamin Netanyahu intended the operation to oust the regime that has ruled Iran since 1979, perceiving regime leaders as weakened by major domestic unrest in January. After subsequent cycles of attack and retaliation, the U.S. and Iran each believe it holds a strategic upper hand. Tehran and Washington appear reluctant to take the remaining steps to achieve a war-ending settlement, perceiving that any expression of flexibility signals weakness. Leaders on both sides accept that escalation is unlikely to shift the strategic balance in either direction, or alter their adversary’s terms for a settlement. The stalemate has left regional leaders with no choice but to plan for a “no war-no peace” scenario that could last for years.\nTrump and his team provided the region with some relief last week by signaling that, barring a provocation by Iran or its ally, the Houthi movement in Yemen , he will not implement threats to escalate military action against Iranian (or Houthi) targets. After a meeting at the White House last Monday with Qatar’s Prime Minister, Mohammed bin Abdulrahman Al Thani, Trump said U.S. military operations against Iran were “effectively over.” In other interviews, Trump indicated that he was responding to pressure from regional leaders, who are fearful of Iranian retaliation, not to escalate. Still, with a war-ending accord elusive and U.S. officials continuing to build military capacity off Iran’s coast, regional leaders are girding for the damage Iran will inflict on their infrastructure should major combat flare anew.  In a speech last week, Anwar Gargash, a diplomatic adviser to the president of the United Arab Emirates (UAE), said the region should “prepare for a long period of uncertainty in which neither a decisive resolution nor a stable regional order can be taken for granted.”\nAs they analyze a range of possible scenarios, regional leaders have expressed frustration that a decisive end to the war eludes them. Compounding their anxiety, Trump last week signaled he is not eager for a settlement. In statements and speeches, Trump and Secretary of State Marco Rubio indicated the U.S. will rely on its economic pressure campaign, centered on a naval blockade , to instill additional flexibility in Iranian negotiating positions before pursuing a deal in earnest. In a post on his Truth Social account, Trump announced he was ending Vice President J.D. Vance’s renewed outreach to Iranian leaders in search of an accord. Vance had represented the U.S. in the talks that led to the failed June Memorandum of Understanding (MOU). The Vice President also took the initiative in recent weeks to directly engage, in writing, IRGC Major General Mohsen Reza’i, the hardliner at the helm of Iran’s main decision-making body, the Supreme National Security Council (SNSC). The Trump post stated: “We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait!” His post continued: “I have asked Vice President Vance to focus his complete and total attention” on a task force created to curb fraud in U.S. social welfare programs. The Trump shift away from diplomacy not only disappointed the region, but risks provoking Iran to take pre-emptive military action that it has threatened.\nTrump’s reference to the U.S. Navy’s success in helping protect commercial shipping through the Strait of Hormuz reflects his belief that U.S. strategy is benefiting strategically from the diplomatic stalemate. Global energy experts assess that the current flow of oil exports out of the Strait is nearly 80 percent of pre-war levels — a figure that accounts for the U.S. naval blockade, which is preventing Iran from moving any oil out of the Gulf. But Iran remains a threat to the global economy. At least 10 ships were hit by Iran in the first 10 days of November, after 37 attacks in October, which was the highest ?monthly tally since the conflict began in late February.\nSenior officials of Qatar and Pakistan, the leading regional mediators, express regret that Trump is pulling back from diplomacy just as negotiators were making substantial progress. Officials close to the mediation efforts note the Iranian and U.S. core demands are no longer substantively far apart. Trump and his team have acknowledged an accord will require the U.S. to provide significant economic sanctions relief, including the release of blocked Iranian assets. Iranian leaders tell journalists they accept that any agreement will require verifiable steps to ensure Iran’s nuclear program could only be used for peaceful purposes, including allowing the dilution of a stockpile of 60 percent enriched uranium. In the latest U.S.-Iran exchanges, as reported by some regional media outlets, Iranian negotiators expressed willingness to fully reopen the Strait of Hormuz as part of a settlement, apparently relaxing Iran’s insistence on “managing’ commercial traffic using routes along Iran’s Persian Gulf coast. Iranian leaders have denied altering any of their core positions, complicating assessments of whether the two sides are close to an agreement.\nFurther clouding the prospects for a settlement, Trump and his team continue to send mixed messages about their intended goals. Since the early days of the war, Trump has repeatedly stressed that the goal of the U.S. war effort is to permanently end any possibility for Iran to develop a nuclear weapon. In the latest exchanges, U.S. officials are demanding that a settlement not defer a nuclear accord for further discussion — a postponement that U.S. officials consider a key flaw of the June MOU . However, in recent interviews, Trump has sometimes returned to the original objective of the war — ending the Tehran regime’s control over Iran.  In an interview with commentator Hugh Hewitt on Thursday, Trump asserted that, if the regime remained in power by the end of his term in early 2029: “Yes, that would be a [U.S.] defeat. I would say that would be a defeat. Absolutely.” The repeated U.S. citation of a regime change goal reinforces the Iranian perception that the conflict is existential, and deprives Iran of a viable off-ramp — increasing the potential for Iranian pre-emptive escalation.\nUnsure when, or even if, the U.S.-Iran conflict might conclude, leaders of the region are scrambling to assemble a new security architecture to defend against an Iranian regime still in power, hardened, and bent on ousting U.S. forces from the region. The region’s base case holds that a “no war-no peace” environment might prevail until the end of President Trump’s term in January 2029, and possibly beyond. The no war-no peace scenario not only keeps the region on a hair-trigger for further combat but also leaves the Arab Gulf states bereft of new investment and unable to advance their ambitious economic diversification programs.\nNo matter how the U.S.-Iran conflict evolves or ends, the security architecture of the Gulf region will change. The future U.S. security mission in the Gulf, according to experts, will be bounded – forgoing regime change efforts and focused on containing Iranian power, preventing it from acquiring a nuclear weapon, and protecting the Arab Gulf states from Iranian intimidation. Within those limits, the U.S. will remain the main Gulf security guarantor , as no Gulf leader has identified a combination of alternative security partners capable of replacing Washington. In light of their vulnerability to Iranian drones and short-range missiles, the U.S.-manned bases in the Gulf are not likely to be rebuilt to the scale reached before the conflict. And it is a near certainty that far fewer than the 40,000 U.S. forces forward-positioned will be deployed there. Some postulate the U.S. will move back to the “over the horizon” presence that existed prior to the 1991 war against Saddam Hussein’s regime, or to a more flexible, contingency-driven base access model. Under that latter structure, the U.S. would be able to surge forces into the Gulf in the event of a crisis and move forces around as necessary. Experts recommend that regional leaders begin constructing the future security architecture before their options narrow.\nWe use cookies to ensure you get the best experience on our website. Learn more ACCEPT AND CLOSE",
+      "published": "2026-11-16T05:02:38+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEIxbmI2STVneWpMTUtiZ2hCVnhjdzdVOWJfa09HNmRZLXRpWmN1b25jNUFTVlUtaWpNb0tVN3ZfUFRJb0tvUVJhVjI0WV9ScE51MnpoWnVnblpIZUdkeS1ZcldoWkdRUTIwUHp3RVM0RlR0NmxKMHIwRVIwZFFfX0tfZ0hVVVRoZ3BHby1udkVXOGxsZEtQWk1YNEhudFFxZDR5cGRMMHAySFpaMmgtSnJ1U2lYSWlE?oc=5",
+      "summary": "In calling for an end to the Iran War, Vance walks a fine line with Trump&nbsp;&nbsp;NPR",
+      "content": "In calling for an end to the Iran War, Vance walks a fine line with Trump A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker.\nIn calling for an end to the Iran War, Vance walks a fine line with Trump\nIn calling for an end to the Iran War, Vance walks a fine line with Trump\n< iframe src=\"https://www.npr.org/player/embed/nx-s1-6040447/nx-s1-10005693\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">\nA rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker.\nAYESHA RASCOE, HOST: The day after Republicans suffered a major defeat in the midterm elections, Vice President JD Vance posted a list of what Republicans could do to win back disillusioned voters. No. 1 - end the war in Iran. President Trump said he didn't disagree. But last week he posted, quote, \"we don't need a deal with Iran.\" Instead of focusing on Iran, Trump said he was asking Vance to turn his complete and total attention to corruption and crime in cities and states run by Democrats. Joining us now is Susan Glasser, staff writer at The New Yorker. Thank you so much for joining us. SUSAN GLASSER: Oh, great to be with you. RASCOE: Did you read President Trump's post as a response to Vance's criticism of the war? GLASSER: I mean, not to be too blunt, but basically, you have the president of the United States saying to his own vice president, yeah. You're kind of fired from the most important issue that we have, which is how to resolve this unresolved and unwon conflict in the Middle East. If anything, because of how overwhelming the scale of the Democratic victory was in the elections, we've kind of understated the extent to which it is a remarkable thing to have had Vice President Vance publicly blame the president's top foreign policy priority for that overwhelming defeat. Of course, we know Donald Trump. He's furious about this. RASCOE: When Vance said the war is the problem, one thing that stood out to me is he kind of was talking about it as if he wasn't in the administration. Like, he didn't put himself in it. GLASSER: No. I think the big-picture context here, Ayesha, is clearly that Vice President Vance feels his chances, such as they are, for becoming president after Trump slipping away, largely due to the war. Donald Trump, of course, campaigned in 2024 saying he was the candidate of no new wars. And Vance was specifically selected from what you might call the real MAGA America First wing of the Republican Party. For him, this is even more foundational. His people have gone to great lengths, it seems to me, to put out in news reports that he was against the war from the beginning in the private councils that the president had, even though it has technically been his portfolio since the spring to negotiate an end to the conflict with Iran. Obviously, that has not succeeded. There are very dim prospects for any kind of success in a negotiated peace anytime very soon. I think for Vance, it just underscores the problem that American vice presidents have in general, which is to say it is very, very difficult as an incumbent vice president to win election as president. Only two presidents - George H. W. Bush managed to do this in 1988, after two terms of Ronald Reagan. You have to go all the way back to the 19th century before there's another incumbent vice president who managed the feat. RASCOE: Do you look at this as a breakup between Vance and Trump, maybe emotionally if not publicly? (LAUGHTER) GLASSER: It certainly wouldn't be unprecedented with this particular president, who not only fell out with his first vice president. But, you know, it all ended so badly that they're chanting, hang Mike Pence, because he won't do what Donald Trump wanted him to do on January 6. So the odds, it seems to me, based on Trump's history, were always quite high for JD Vance to have a very difficult time. RASCOE: Would it not be, I guess, the biggest irony if it were to happen that Trump leaves office, and it is up to the next president to deal with this war in the Middle East? Is that not a great irony for the president who was supposed to start no new wars? GLASSER: Absolutely. Not only is it a great irony. I - it's a very real possibility that the Iranians may continue in this nether state over the next couple years. Often, wars and conflicts do end not by the leaders who start them. Because they have so much invested politically and in terms of their own legacy in the conflict, it's harder for them to end wars. So historically, that is an analogy. And I'm mindful of the fact that Donald Trump - you know, he sort of came of age in the 1980s. And that image of Jimmy Carter, for him, was basically the definition of American weakness. And as you know, Donald Trump has almost a - sort of a cult of the idea of strength. So it would be a bitter pill, indeed, for him to swallow if the Iranians did to him some version of what they did to Jimmy Carter, which is to slowly strangle Carter's presidency. RASCOE: That's Susan Glasser. She's a staff writer at The New Yorker. Thank you so much for joining us. GLASSER: Great to be with you.\nCopyright &copy; 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.\nPlease note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+      "published": "2026-11-15T13:11:23+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iran: will Trump resume the war? - The Week",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13QlA3WVg5TUFLaXh3Ymt1Wk80TTk3MHNXRjVKb0pYTEtIUGlVNG5lVjZVRTdUYThRZEN2QTY4bmxwV1N5X1lNc2p0TUpaakg2Y3QxR3NCbGw1Snl5SUxuUzd5aEJvTl9kYUNBaV9n?oc=5",
+      "summary": "After midterms defeat, J.D. Vance baldly stated on X that ‘the reason we lost is the war’\n{alert('Link copied')}).catch(err => {console.error('Failed to copy: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transition-colors no-underline block cursor-pointer border-0 bg-transparent hover:[&_svg]:filter-none w-full text-l",
+      "content": "After midterms defeat, J.D. Vance baldly stated on X that ‘the reason we lost is the war’\n{alert('Link copied')}).catch(err => {console.error('Failed to copy: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transition-colors no-underline block cursor-pointer border-0 bg-transparent hover:[&_svg]:filter-none w-full text-left normal-case\" aria-label=\"Copy link\" role=\"menuitem\" data-analytics-id=\"article-social\" analytics-label=\"utility-bar-social-share-copy-link\" analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\">\nDonald Trump has pursued “the most idiosyncratic and unsuccessful” US foreign policy in living memory, said Max Boot in The Washington Post .\n“Even among Republicans, there is little support for annexing Greenland , seizing Venezuela’s oil , waging a cold war with Canada , cutting off Ukraine, insulting and indiscriminately tariffing allies, buying diesel from Russia ” and “launching a war on Iran”. But most senior Republicans have been “too cowed” to protest, until now.\nAfter last week’s “shellacking” in the midterms , Vice President J.D. Vance baldly stated on X that “the reason we lost is the war”. Trump himself had to admit that this is “largely true”; and this week, he said the war was “effectively over”, that negotiations to end it were under way, and that more attacks on Iran were “highly unlikely”.\nEscape your echo chamber. Get the facts behind the news, plus analysis from multiple perspectives.\nJoin more than 350,000 subscribers and keep yourself informed with a selection of The Week’s most interesting, enlightening and entertaining stories - plus daily puzzles.\nJoin more than 350,000 subscribers and keep yourself informed with a selection of The Week’s most interesting, enlightening and entertaining stories - plus daily puzzles.\nWell, maybe, said Arta Moeini and Brett Erickson on UnHerd . But the president has been known to change his mind, and the danger of renewed conflict remains high. Trump is under “immense pressure to prove he is still in control”, and whatever constraints he now faces domestically, he retains considerable freedom to conduct foreign policy. A third aircraft carrier strike group is on course to reach the Middle East by the end of this month, building up the strength of US forces in the region to the level they were at at the start of the war.\nTrump could attack Iran again, said Barak Ravid on Axios . But it would be “highly unpopular” – because it would drive oil prices up – and would probably not yield “a better military result”. The alternative is the peace negotiations. The difficulty is that Trump is making big demands: the reopening of the Strait of Hormuz, and the end of Iran’s nuclear programme . The Iranians are in no mood to make concessions. Tehran, according to Secretary of State Marco Rubio, is asking not just for an end to the naval blockade and sanctions, but for billions in frozen assets, and reparations from the US.\nThere is a third option, said William Hague in The Times – for the US to carry on strangling Iran’s economy. With the last of the oil revenues from shipments sent out before the US blockade petering out, and inflation soaring, this is likely to be the most effective way of forcing Tehran to seek terms.\nTrump will have to be patient, which does not come easily to him. He’ll also need to show that he can be trusted to honour any agreement; and he’ll probably have to accept some limited, independently verified Iranian nuclear activity. “Yes, that would look remarkably like the 2015 agreement that Trump hated so much.” But it is likely to be “the only path” out of the trap he has created for himself .\nA free daily email with the day’s biggest news and analysis – and the best features from TheWeek.com\nContact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors",
+      "published": "2026-11-15T07:20:00+00:00",
+      "source": "GN Geopolitics",
+      "sources": [
+        "GN Geopolitics"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Iron ore slips towards US$90 as China slowdown weighs on Australian miners - Proactive Investors Australia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnNjajE4QWVnTmdUUjdYOEtzbGxibUhZRWlCdHpzRGlVUC0wbENXYWxOTzZEbG9jSVZkM2lXb2lkUEFHYU5Cb1owZm5vRWExUXJhVEN2MkxPZXU4ak5BSWxzejdXN0s5Wm9uWk84MXVyTkhhUWxTaDJkbzBCUnc5OE1IbnVOQ1ZCRldkQnIwcm1Ra1AybVd0akJyY0tpZmxFVnc3dzhKcUdLbENweWNnV0lxZjlNWXJBdi1lNWJn?oc=5",
+      "summary": "Iron ore slips towards US$90 as China slowdown weighs on Australian miners&nbsp;&nbsp;Proactive Investors Australia",
+      "content": "",
+      "published": "2026-11-16T02:30:32+00:00",
+      "source": "GN China",
+      "sources": [
+        "GN China"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币"
+      ]
+    },
+    {
+      "title": "Toward a new global AI chip order - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDMGNQWEM2UW92LUh0WEk1V3VVMDg2aFRTdWRoZ1pCN3dxN3pxdHY1N0c5N01RenN2V3ZBS0s1ZFh5NXBvT1hqM1VFbmgtUTkxZ214VXJjeWFLeW9MMktqdC1sLVlkTFZlT3pGN2lRbmJUZw?oc=5",
+      "summary": "Toward a new global AI chip order&nbsp;&nbsp;Asia Times",
+      "content": "",
+      "published": "2026-11-16T02:12:26+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.9,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Tessa Johnson, Joyce Edwards lead No. 1 South Carolina past No. 3 USC 89-85 in battle for 'Real SC' - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmdMWW9YRHljTzlNamxxeHlyanpmOWdpQVRQdW5TWkEyM04tRzdVVDgyMk9kVWJRRFZqenZDY1Rvcno2bnBXenp4XzBqRmRDSTA2QzZtLTdPdHltekduQVNjQkJxc09tZHQ1NlFxMDI0U3M2TWo4MTVxc3FLVDR0WXplUC10XzVOVkhUTg?oc=5",
+      "summary": "Tessa Johnson, Joyce Edwards lead No. 1 South Carolina past No. 3 USC 89-85 in battle for 'Real SC'&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-11-15T21:50:21+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjQ1LTdHRFRrSlZ4ZGZoaUlNcUd5U3NIX1hRZllBa1hNblFCbExObDBXTWx4c2pjR01CNTRBLTFxNGc3UUl5VEd2cElkQTFrZ0tmWjVVak5uRlgwN3ZRWjZGY3RrRWowYngzb29GVzVGZlY5SXhFREdqaXdTR3B1cF9qdmcwbU80ZTJwV1Fpb2pDV3hTNjhlS1JJa0FrNjJJSk1uaTc4V2JVYmMx?oc=5",
+      "summary": "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-11-15T05:34:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.7,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "content": "By Faisal Islam ,Â  Economics editor Â  and Â  Lucy Hooker ,Â  Business reporter\nThe UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.\nPrime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.\nFalconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.\nThe reset would not involve any upfront payments, Falconer added, but made it clear there could well be an \"exit clause\" in case a future UK government reversed the closer alignment.\nFalconer said it was \"reasonable\" to consider what would happen if a future Conservative or Reform government wanted to undo the new arrangements.\n\"The EU is worried about that and you can see why,\" he said.\nThe BBC understands that the clause is a result of EU concerns about the possible cost of having to rebuild facilities for border food safety checks which were put in place following Brexit.\nIn September, the Conservative Party said it was \"raising the alarm\" over the government&#x27;s planned reset, saying it would leave British consumers and businesses \"dangerously exposed, with no input on how regulations are made or power to reject them\".\nBoth the Conservatives and Reform have said they would undo the planned reset if they were in power.\nImage source, Marcin Nowak/Anadolu via Getty Images\nImage caption, Minister for EU relations Hamish Falconer\nThe prime minister has said he believes there is a \"win-win\" deal to be had with the EU.\nSpeaking at a Marks & Spencer food court in central London, Falconer said the deal would help bring down costs for firms importing food.\n\"This will mean less cost for supermarkets, and I hope that less cost then turns into cheaper produce on the shelves,\" he said.\nHe said currently \"pages and pages\" of form-filling meant some suppliers had given up exporting to the EU and some products, such as Lincolnshire sausages, meant they were almost impossible to export at all.\nSome M&S trucks require over 300 pages of documents for food exports, from export health certificates, phytosanitary certificates, visits from vets and border check paperwork.\nSome exports are rejected for having the wrong colour of ink on forms, or an inaccurate Latin name for cooked meats.\n\"The amount of paperwork you would need to do, the amount of uncertainty - you have to have it in the right pen colour, if it&#x27;s not black, it might be refused,\" Falconer said.\n\"If you&#x27;re selling Cox apples from Kent, they have to wait a day before they go into the European Union.\"\nThe reset could also mean \"tearing up\" checks that were introduced on goods flowing from Great Britain to Northern Ireland, following Brexit, he said, as well as separate \"Not for EU\" labelling.\nFalconer said the impact of the reset deal for food would be an additional Â£5bn.\nThe whole deal to be signed on Friday is calculated to add 0.4% to UK GDP.\nThis wider agreement includes aligning emissions trading rules, and agreeing to a youth mobility scheme, as well as the reset on food trading.\nImage caption, Some British sausages have faced barriers to being exported to the EU\nTom Bradshaw, president of the National Farmers&#x27; Union, welcomed reduced border inspections and paperwork but said that for the NFU it was \"a moment of opportunity and risk\" with farmers waiting to see what carve-outs and transitional arrangements would be included.\nTrade volumes in food exports to the EU had \"fallen significantly - by over a third\" since 2019, he said.\nBut the UK should take a \"pragmatic\" approach to implementing any new rules.\nHe raised pesticides and precision breeding - or gene edited crops - as areas where he hoped some compromise would be found.\nUK firms are, for example, developing tomatoes engineered to contain extra vitamin D.\nHistorically the EU has had much stricter rules on gene-editing, but this year relaxed regulations.\nFalconer said people would have to \"wait and see the detail\" in this area.\nHe said there were bound to be compromises and trade-offs in any deal but that where the UK had advantages the government wanted to make sure \"those aren&#x27;t lost under the deal\".\nAnother contentious area has been crisp flavourings, with concerns raised that stricter EU rules on certain ingredients might limit the sale of some popular snack flavours in the UK.\n\"I want to take this opportunity to absolutely stamp down on misinformation about smoky bacon crisps,\" Falconer said.\nPost-Brexit the UK had stayed \"pretty closely aligned\" to European food safety standards, he said.\nTwo leading snack brands had already adapted their recipes to accommodate EU rules, an example of the kind of alignment that would happen whether or not there was a reset of UK-EU relations.\n\"The truth is, almost every business in this country that wants to export food or drink will be aligning with EU rules because it&#x27;s our biggest market.\n\"Lots of people, like the good people at Walkers and Frazzles have made these changes already, so I would want to reassure people, particularly smoky bacon fans, it&#x27;s okay,\" he said.\nTen years on, Brexit&#x27;s economic impact is becoming clearer\nReeves says UK&#x27;s future should be inside the EU",
+      "published": "2026-11-15T22:00:24+00:00",
+      "source": "BBC Business",
+      "sources": [
+        "BBC Business"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Fed’s Schmid: Inflation running too hot, central bank has some work to do - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmFQLWxIaW0wRnVMYjNQNGhvMmdMd09vd1lqY0YxMV8wa01vT19YLU9MWHk4aU5sY3ZKXzJvdTJQZVhDQXlwZ0ptN3VoWHkxOWtuTmc2T19kYWRzZ3lDUHItVjhBN1ExZzViakUzbHRwd3hwVThSc1hFUGZ2YXFSejMtVjZsMnp0ak5MeUZDOTUtSUViZWpXdndEZTVXellYdlNYeUc2Tm9RbzFCVURrWFRlcw?oc=5",
+      "summary": "Fed’s Schmid: Inflation running too hot, central bank has some work to do&nbsp;&nbsp;FXStreet",
+      "content": "",
+      "published": "2026-11-16T01:30:08+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "Federal Reserve signals more inflation work as markets price December rate rise - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTRwMVVJVUhKNTJ3NU45V3N1dDFYdHM3QnlNX0JzTlg1NXR0aTBoRlF0OVcyRndya2FGQXpZdENnNUJ6RVZoLUw5Y0VjM25DY191SldZS2R5Y0pIWENLMWdlLUhUeTVaNVlFVG4yaWxYVGE1aDFUTnByd3RXbVB1dEM1X2hpQXYzSEI2ay1pUldaWjVWdmdfOUVn?oc=5",
+      "summary": "Federal Reserve signals more inflation work as markets price December rate rise&nbsp;&nbsp;Traders Union",
+      "content": "",
+      "published": "2026-11-15T18:54:20+00:00",
+      "source": "GN Fed",
+      "sources": [
+        "GN Fed"
+      ],
+      "source_count": 1,
+      "category": "finance",
+      "category_zh": "全球金融",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "央行与利率相关信息会快速传导到全球资产定价。",
+      "possible_impact": "可能影响：美债 / 美元 / 美股 及相关产业链。",
+      "assets": [
+        "美债",
+        "美元",
+        "美股"
+      ]
+    },
+    {
+      "title": "3 AI Chip Stocks With Lower China Exposure After Nvidia Stock Fell 28% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFYyR3dpbVo5S3VYRE9DamI3UDRHWGpJaE9zSm9qUzR6aUJUVzNWRDIza2hXeXJkTVlkdmw3MWgxTkU0WTZlX2dRa2MxMHFub1FFUEtRN2NlWDBTYUFxUGtRTjlsdDQ0LWRkcDFvVVZDbVBBblhfd2UySkV2MTlZV094ckVrMDlWMDY0bXhtWQ?oc=5",
+      "summary": "3 AI Chip Stocks With Lower China Exposure After Nvidia Stock Fell 28%&nbsp;&nbsp;Yahoo Finance",
+      "content": "3 AI Chip Stocks With Lower China Exposure After Nvidia Stock Fell 28%\nNvidia's sharp 28% slide from its peak has pushed questions about China exposure in AI chips from background noise to front page risk. That shock has investors hunting for companies linked to data-center and AI hardware demand, yet with more limited direct ties to China. This article walks through three such stocks exposed to the same headline risk, unpacking where the news might help, where it might hurt, and what that could mean for your portfolio decisions.\nThe stocks covered next are just a sample, with the full screen surfacing 47 more US and allied AI chipmakers and data-center hardware plays that share similar themes but bring their own distinct risk and reward stories. If you want to identify, compare, and analyze the wider opportunity set with lower reported China exposure, head straight to the US and Allied AI Chipmakers and Data-Center Hardware with Limited China Exposure screener .\nAehr Test Systems plugs directly into the screener's AI hardware theme by supplying the burn-in and reliability gear that lets high performance chips run safely in data centers and advanced electronics. The analyst consensus Narrative on Simply Wall St captures how that link is starting to matter.\n\"Rising AI processor and data center demand is feeding into Aehr Test Systems' FOX wafer-level and Sonoma package-level platforms.\"\nWhat ultimately happens to margins and earnings power will hinge on how one quiet pressure in that AI focused order pipeline resolves.\nAehr Test Systems designs, manufactures, and markets advanced test and burn-in products that generated about US$50 million in revenue from this segment, leveraging wafer and package level systems used across AI, power, and sensor chips. The stock's market cap sits near US$1.9b, reflecting investor attention on this niche AI infrastructure supplier.\nThat pressure point is exactly where the full narrative for Aehr Test Systems shows how AI demand, capital spending cycles, and test capacity could be either quietly compounding or masking future upside.\nNasdaqCM:AEHR Earnings & Revenue History as at Nov 2026 Rambus (RMBS)\nRambus plugs into the screener theme through the memory and security plumbing that lets AI data-center chips actually move and protect information, and the analyst consensus Narrative on Simply Wall St squarely ties its prospects to how that demand story unfolds.\n\"Ongoing rapid growth in AI and data center workloads is accelerating the industry's need for high speed memory interfaces and connectivity. The upcoming industry transition to MRDIMM technology is now framed around a modeled US$600 million market by around 2028 and a shift in meaningful Rambus MRDIMM revenue into 2027 as next generation Intel and AMD platforms ramp.\"\nWhat really matters next is how a single pressure point in that AI memory upgrade cycle ripples through Rambus pricing power and long run margins.\nRambus develops and licenses memory interface chips and security IP that plug into AI and data center servers, generating about US$796 million from semiconductors and giving it a near US$8.8b market cap as a US headquartered play on high speed memory and lower reported China reliance.\nThat ripple effect is exactly where the full narrative for Rambus pulls together how accelerating AI workloads, pricing power, and execution risk could reshape Rambus over the next few product cycles.\nNasdaqGS:RMBS Earnings & Revenue Growth as at Nov 2026 CEVA (CEVA)\nCEVA is a US based IP licensor that feeds the screener theme by supplying DSP, AI, and wireless blueprints for edge and infrastructure chips, and the analyst consensus Narrative on Simply Wall St argues that this quiet enabler role could matter more as AI devices scale.\n\"Accelerating customer adoption of CEVA's Edge AI NPUs (as evidenced by multiple new, high-impact licensing deals and the integration of NeuPro architectures across diverse markets like audio, video, and infrastructure) lays the foundation for materially higher royalty revenue per device as these AI-enabled products ramp into mass production over the next 18 to 24 months.\"\nWhat happens to CEVA's earnings path will hinge on how one less visible bottleneck in that licensing to royalty handoff actually resolves.\nCEVA licenses silicon and software IP for 5G, Bluetooth, Wi Fi, sensing, and embedded AI, generating about US$116 million from intellectual property licensing, and the stock's roughly US$730 million market value reflects investor focus on this asset light AI and connectivity licensing model.\nThat royalty bottleneck is exactly what the full narrative for CEVA unpacks, separating accelerating licensing momentum from risks that could quietly cap CEVA's eventual cash generation.\nNasdaqGS:CEVA Earnings & Revenue Growth as at Nov 2026 Seeking Fresh Alternatives Before They Fly\nMarkets move fast and the strongest stories often break out before most investors even glance their way. Spot fresh momentum while it matters and avoid getting caught late. Act now.\nTarget resilient income by scanning companies in the 6 dividend fortresses before yields drop or prices start running on the next wave of demand.\nTrack tomorrow's automation leaders early by reviewing the curated 88 robotics and automation stocks while these trends are still largely under the radar.\nLock onto high potential infrastructure plays by assessing the hand picked 44 power grid technology and infrastructure stocks before grid upgrades increase investor interest.\nThis article is general in nature and was produced with the assistance of AI automation, based on data and analysis from Simply Wall St. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com",
+      "published": "2026-11-15T16:09:07+00:00",
+      "source": "GN AI",
+      "sources": [
+        "GN AI"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.6,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：A股 / 港股 / 人民币 / 科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "A股",
+        "港股",
+        "人民币",
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjI1ZmhJQVcyOGtfNHFaWDBBTVJkWGF4NFZxaGprVmNieXFfOEFQSXV1RVZQRzF3c0xabzhsVTlEQ2dGU3k4blUxeW5jY0RVbU1RSDNWU3BSc1ViaFBoa3B4ajBkVnB4aXVqVGMyTjM5TmNoX29fMjg0Y3ZiNnlqWmdERS13aGZ6a3NDR0hDdGw4VFhXeW1pY2FvNXJpYkNFN3I3N2ZpdXI0QQ?oc=5",
+      "summary": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner&nbsp;&nbsp;AP News",
+      "content": "",
+      "published": "2026-11-15T23:45:00+00:00",
+      "source": "AP World",
+      "sources": [
+        "AP World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.5,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+      "summary": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus GamesPrince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country.The Duke of Sussex met wounded veterans and medics in the city of Lviv, in the west of Ukraine, as he addressed a conference on treating those injured in war. He said he had taken a risk in travelling to the country, but that he had felt “warmth” when arriving on",
+      "content": "Prince Harry meets members of Ukraine’s Invictus Games team on Saturday, during his fourth visit to the country since it was invaded by Russia in 2022. Photograph: David Levene/The Guardian\nPrince Harry meets members of Ukraine’s Invictus Games team on Saturday, during his fourth visit to the country since it was invaded by Russia in 2022. Photograph: David Levene/The Guardian\nPrince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv\nDuke of Sussex meets wounded veterans in city and says country could one day host Invictus Games\nPrince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country.\nThe Duke of Sussex met wounded veterans and medics in the city of Lviv, in the west of Ukraine , as he addressed a conference on treating those injured in war. He said he had taken a risk in travelling to the country, but that he had felt “warmth” when arriving on Saturday.\nIt is the British army veteran’s fourth visit to Ukraine since Russia’s invasion in February 2022.\nHe spoke at a conference organised by the Superhumans Center, a clinic in Lviv that specialises in care and rehabilitation of those who have fought in the conflict. The prince has previously supported the group, which provides prosthetic limbs to those who have lost them in battle.\nHe said: “Every single time I come back to Ukraine, I feel welcome, I feel warmth. You’re going to win the war and then you’re going to be set up for success.”\nHarry speaking to Valery Odainyk, a Ukrainian veteran and wheelchair rugby player who competed in last year’s Invictus Games. Photograph: David Levene/The Guardian Harry watched wheelchair rugby players who hope to be in Ukraine’s team at next year’s Invictus Games , which will take place in Birmingham. Ukraine is aiming to send about 60 competitors to the event – its largest ever team.\nThe prince said the games for wounded military veterans, which he set up in 2014, could one day be held in Ukraine. “When the war is over and when Ukraine wins, we will be ready to support you in holding an Invictus Games,” he promised.\nAt the rugby match, Harry hugged a player he recognised – Valery Odainyk, who took part in the Invictus Games in Canada in 2025. The 41-year-old, who uses prosthetic legs, said he was “still an active serviceman”, and the prince expressed surprise he found time to train.\nOdainyk said afterwards he had told Harry his involvement in his sport “all started and continues with the Invictus Games”.\nThe prince visited the Ukrainian capital, Kyiv, in September 2025 and in April this year. During the April visit , he called Ukraine “a country bravely and successfully defending Europe’s eastern flank” and said “it matters that we don’t lose sight of the significance of that”.\nThe 42-year-old spent a decade in the British army and served in Afghanistan, including as a helicopter pilot. He has described those years as the happiest of his life.",
+      "published": "2026-11-15T22:00:24+00:00",
+      "source": "Guardian World",
+      "sources": [
+        "Guardian World"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.5,
+      "is_hypothetical": true,
+      "why_important": "含假设 / 演习 / 推测成分，实际落地前影响力有限，已降权。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Fire in Phuket shophouse kills 11 injures 16, police say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmFrVGM0Zk5GUlV1akd3YXZucWd0YUlpem1zQkRVbUtYMGRmZkcwN0hvVlpmX3UxenJhZnBVdGZmTGtKZzhvZFU5cUhabTc0OGVHMVVjbGsxa1pCcnR5YzFqUHVlaDBtcmF1MWtaM3BTV3hCa1hYNTdQRTBkNXQ3LTk3eXhySGtoeDVVV3FDNDBfMTd4b0hOeHFFeWw5YXhZeDR4M1lRcnpxLUU?oc=5",
+      "summary": "Fire in Phuket shophouse kills 11 injures 16, police say&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T03:02:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+      "summary": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T01:35:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "markets",
+      "category_zh": "市场",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Battle for young male voters intensifies after US midterm rebuke of Republicans - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXZuc1Exa0s2dzJKQ3U1bkdxd01NelRtemI0SnpSVHZNQ2Z1bGM3MlpLQ29pZ1ZRNHJLWS1OQTM5bFJySnBKUUNLSXlNeDNvUlJ2Um00ZVZFaU13bW5rSTFwWHJINlJFSkd4UHNPUVk2Y1A0dWQ4cE5VeU5tRjVtZHlXZEt2c1VPeU9tNEl4N2RZWjRCRmpPMm92NjU0VVhiLTZTQXQ4cFY2YnZld3d0OFVwRnFxRkpP?oc=5",
+      "summary": "Battle for young male voters intensifies after US midterm rebuke of Republicans&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T16:18:55+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3dCNkZCOUNQcTlqSktlWXBqYW8wUDcxR0FHY0xxNkNhbTdJVHZjdUR6SjZXSWRUVGthblNrZVNWalZvWFlMV3hsN05TZ1dQLU9lTngtUlk4enpmNG1uVDB4OUlMbzJXUVhmOXd2VmRfLVRZX0F2SUNmUERVSU9nVEJGdnQ4WEs2OVlzMkN6U3RhekRFdDJ4Z2ppLXkwTV9LVHlR?oc=5",
+      "summary": "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-15T22:32:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK property asking prices fall more than usual in November, Rightmove says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVVDbnhGak85WnFOLVNnV3NCYl91OENJenlTSUF1MzQ0bEJ4ekR2TU9jX19jSHhmR3hqVko5RVNFVW9fU1JSNUhxR3VzLTQ0ejRSbEdkWlZCU0htZUdKaXZVQzdiR2JWS0c2eDZWemhOQjdGV1ZfbWp3MDZ3ZVhrdDdYSGpUNjZkcnBDNkdlZXJSZ2VZdExmRmlRd2gtVWk3ak1QelFEeVRyX3VlVUotNWgyVVVRZw?oc=5",
+      "summary": "UK property asking prices fall more than usual in November, Rightmove says&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T00:09:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "UK's Prince William, Princess Kate arrive in Mumbai for three-day trip - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3dlZEQxckwyUkt6MHVHX0F4NUtiOGVEM3hDdnNVQ096TUktSU96c0xjZW5kS0pTVTE5eDNucGtJdDlRbUt5WEFnS2VYNVJ0RmR4N0w1WW16cFQ3eDNZejBqUG9vYWtlNUhSMmRscFZrdEhoek5MX3BURmYzTEQ1Z21qQzdQZE1selBDRDlWc1dkeHp3aHZxbXo1a1hvU3JLTTBqVkliSTg5QQ?oc=5",
+      "summary": "UK's Prince William, Princess Kate arrive in Mumbai for three-day trip&nbsp;&nbsp;Reuters",
+      "content": "",
+      "published": "2026-11-16T04:12:00+00:00",
+      "source": "Reuters World",
+      "sources": [
+        "Reuters World"
+      ],
+      "source_count": 1,
+      "category": "europe",
+      "category_zh": "欧洲",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "具备一定市场关注度，纳入观察清单。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    },
+    {
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "content": "Japan&#x27;s economy contracts, third quarter GDP misses expectations\nA Reuters poll of economists had estimated the economy to grow at 0.3%.\nWhile Japan&#x27;s exports beat expectations for two of the three months in the quarter, net exports weighed on the economy as elevated energy prices increased import values.\nThe data comes amid expectations that the Bank of Japan could raise rates once more at its December meeting.\nYOKOHAMA, KANAGAWA, JAPAN: Shipping containers inside the Honmokufuto port. (Photo by Stanislav Kogiku/SOPA Images/LightRocket via Getty Images)\nJapan&#x27;s economy unexpectedly contracted in the third quarter, shrinking at an annualized 0.1% compared to the previous quarter, as elevated energy prices weighed on consumption and net exports.\nA Reuters poll of economists had estimated the economy to grow at 0.3% in the three months to September, while GDP had expanded at 1.4% in the previous quarter.\nJapan&#x27;s exports beat expectations for two of the three months in the quarter, but net exports weighed on the economy due to higher costs of energy imports, cutting 0.6 percentage point from the country&#x27;s growth.\nEnergy subsidies for households had reportedly expired in September, exposing consumers to higher energy prices brought about by the Iran war.\nThe GDP data could complicate Japan&#x27;s policy normalization path, though there&#x27;s still a 75.6% chance of the Bank of Japan raising rates by 25 basis points in December, according to LSEG.\n\"Today&#x27;s GDP data is hardly a green light for the BOJ to hike in December,\" according to Krishna Bhimavarapu, APAC economist at State Street Investment Management.\nHe pointed out that real final sales of domestic product fell 2.1% annualized, which is the largest decline outside the Covid-19 pandemic and the first quarter of 2022. \"[This] looks to be a loss of momentum,\" he added. That metric is a measure of\nReal final sales of domestic product refer to GDP growth, net of private inventories , and indicate underlying demand.\nMarcel Thieliant, head of Asia Pacific at Capital Economics, still expects the BOJ to go ahead with the rate hike. \"It looks increasingly likely that the Bank will have to tighten policy more aggressively than we&#x27;ve been anticipating as inflation is about to surge.\"\nThe BOJ had declared that its 2% underlying inflation target had been met for the first time in 13 years at its meeting last month. Core inflation in September also hit its highest level this year at 2.1%, overshooting analysts&#x27; expectations.\nOn an year-on-year basis Japan&#x27;s economy grew 1.1%, its strongest growth since the second quarter of 2025. Theliant noted that this was owed to a lower base in the third quarter of 2025.\nFollowing the data release, the Nikkei 225 fell 0.62%, while the yield on the benchmark 10-year Japanese Government Bonds was at 2.885%. The  yen  weakened marginally against the dollar, trading at 159.76.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-11-16T02:56:24+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "geopolitics",
+      "category_zh": "地缘政治",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "地缘冲突与制裁可能改变贸易、能源与风险偏好。",
+      "possible_impact": "可能影响风险偏好、相关板块或区域市场情绪。",
+      "assets": []
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "content": "Howard Lutnick&#x27;s sons&#x27; Nvidia ties amid Jensen Huang China spy scandal\nCantor Fitzgerald’s reported Nvidia share count fell by nearly half between September 2025 and March 2026, a CNBC analysis found.\nThat was the period when, according to Axios, Commerce Secretary Howard Lutnick faced pressure from administration officials to address suspected smuggling of Nvidia&#x27;s advanced AI chips to China.\nThe Wall Street firm, which Lutnick formerly chaired and is now run by his sons, maintained extensive commercial ties to Nvidia, helping arrange billions of dollars in financing for companies in its AI business universe and repeatedly hosting its top executives.\nThose relationships have come into sharper focus following Nvidia CEO Jensen Huang’s resignation and revelations about Lutnick’s handling of national security concerns involving the chipmaker. There is no evidence that Cantor&#x27;s business interests influenced Lutnick&#x27;s decisions.\nSecretary of Commerce Howard Lutnick looks on as President Donald Trump speaks in the Oval Office at the White House in Washington, D.C., U.S., June 11, 2026.\nIn late September, Cantor Fitzgerald hosted Nvidia CEO Jensen Huang and other top executives from the chipmaker for investor meetings in New York, according to a Cantor research report reviewed by CNBC.\n\"We continue to view NVDA as the best risk/reward in our coverage,\" Cantor analyst C.J. Muse and his colleagues wrote in a research report dated Oct. 3 that maintained a $350 price target and overweight rating on the stock.\nYet the firm, formerly run by Commerce Secretary Howard Lutnick and now led by his sons, Brandon and Kyle, reported a nearly 50% decline in the number of Nvidia shares it held between September 2025 and March 2026 , according to a CNBC analysis of securities filings that excludes options. Nvidia had been one of the largest stock positions reported in Cantor&#x27;s filings.\nThe decline coincided with White House and U.S. intelligence officials pressing Lutnick to crack down on Megaspeed , a Singapore-based company suspected of funneling Nvidia&#x27;s advanced artificial intelligence chips to China . Lutnick repeatedly resisted those efforts, Axios reported Nov. 11.\nBy the time Cantor hosted Huang in New York, Lutnick had also received a classified intelligence warning, according to a Nov. 10 Axios report, about Huang&#x27;s ties to a suspected Chinese spy and had appeared alongside the CEO at a G20 technology summit in North Carolina.\nEven as Cantor pared back its Nvidia stake, it continued doing business across the chipmaker&#x27;s AI empire. A CNBC review of securities filings, corporate announcements and Wall Street research found the firm has helped arrange billions of dollars in financing for Nvidia&#x27;s business partners while maintaining close ties to the chipmaker&#x27;s leadership.\nThose ties have drawn fresh scrutiny following Huang&#x27;s resignation Thursday and Axios&#x27; reporting that Lutnick repeatedly resisted a crackdown on companies suspected of smuggling Nvidia chips to China, despite President Donald Trump authorizing new export restrictions on those companies for a third time on Nov. 5.\nAn ethics expert said the relationship between Lutnick and his former firm&#x27;s investments may raise questions, given what the secretary knew about Nvidia.\nRichard Painter , the former chief White House ethics lawyer for President George W. Bush and now a corporate law professor at the University of Minnesota, said that while \"there&#x27;s no proof of\" Lutnick sharing nonpublic information with Cantor Fitzgerald, \"the appearance doesn&#x27;t look great.\"\n\"His conversations with his sons better be about publicly available information,\" Painter told CNBC.\nThere is no evidence that Lutnick&#x27;s sons had advance knowledge of the intelligence concerns, that changes in Cantor&#x27;s reported holdings were tied to any warnings or that the firm&#x27;s business interests influenced their father&#x27;s decisions.\n\"Cantor has to date from time to time had only immaterial stand-alone proprietary positions in Nvidia, unlike the positions reflected in 13F filings which were entered into in the ordinary course of business in connection with client swap transactions, that are common in institutional markets,\" a Cantor spokesperson told CNBC.\nCantor declined to answer CNBC&#x27;s other questions. The Commerce Department, the White House, Howard Lutnick, Brandon Lutnick and Kyle Lutnick did not respond to CNBC&#x27;s requests for comment or detailed questions about the findings.\nAs scrutiny of Huang intensified, Cantor Chairman Brandon Lutnick was publicly praising the chipmaker&#x27;s leadership. \"Nvidia is one of the great companies on the planet, and they have an amazing leadership team,\" Brandon Lutnick told Fox Business on Wednesday.\nTrump is standing by Howard Lutnick. A White House official told Reuters on Thursday that the president maintains \"complete confidence\" in the commerce secretary.\nBut cracks in the administration&#x27;s unity emerged Friday, when Treasury Secretary Scott Bessent told CNBC&#x27;s \"Squawk Box\" that the departments of Treasury, Defense and State and the Office of the U.S. Trade Representative all \"were in favor of putting Megaspeed on the entity list for months.\"\nBessent pointed to Commerce as the department responsible for imposing the entity list, which identifies restricted businesses and other groups, adding, \"You will have to ask them about their internal processes.\"\nCEO of Nvidia Jensen Huang (L) and U.S. Commerce Secretary Howard Lutnick listen during an announcement to renovate Washington Dulles International Airport, in the Oval Office of the White House on July 29, 2026 in Washington, D.C.\nNvidia was Cantor&#x27;s second-largest reported stock position before Howard Lutnick left Wall Street to become commerce secretary in February 2025, behind only bitcoin investor MicroStrategy, now known as Strategy . At the end of 2024, the firm disclosed more than 3.5 million Nvidia shares worth $479 million, according to its quarterly securities filing .\nThat share count held steady through September 2025, but its value climbed 36% to $652 million, according to Cantor&#x27;s quarterly securities filing , as the Trump administration moved over the summer to ease restrictions on Nvidia&#x27;s H20 chip sales to China .\nOver the following six months, however, the number of Nvidia shares Cantor reported holding fell by 49%, to 3 million in December and 1.78 million by the end of March 2026 , with their value dropping from $652 million to $310 million, according to a CNBC analysis of securities filings.\nPressure on Howard Lutnick was also mounting on Capitol Hill. Sens. Jim Banks, R-Ind., and Elizabeth Warren , D-Mass., in March urged the secretary to suspend or reconsider Nvidia&#x27;s export licenses after three people linked to Nvidia customer Super Micro Computer were indicted on charges of conspiring to smuggle AI chips to China.\n\"The Trump administration, I think, leaks like a sieve when it comes to nonpublic government information getting to various hedge fund guys,\" Painter said, though he stressed there is no evidence Howard Lutnick had shared such information with his sons.\nThe filings do not establish why Cantor&#x27;s reported share count fell or whether its overall financial exposure to Nvidia declined. Nvidia’s stock had more than doubled from its April 2025 lows by late October, before retreating in the following months. The stock fell about 6.5% between the end of September and the end of March.\nCantor&#x27;s reported Nvidia holdings remained near that lower level through June 30 , the latest quarter covered by public disclosures, at 1.81 million shares. Its next quarterly filing is due Monday.\nMost of those shares were attributed to CF Secured , a Cantor brokerage subsidiary that uses stocks and derivatives to hedge customer transactions, according to its audited financial statements. Cantor also disclosed substantial Nvidia options positions during the time period CNBC examined, overwhelmingly skewed toward put options, which can protect against declines in the stock price.\nAs concerns about Huang escalated inside the Trump administration in May, according to the Nov. 11 Axios report, Cantor was helping finance the expansion of one of Nvidia&#x27;s newest business partners, securities filings show .\nOn May 7, Nvidia and Australia-based cloud computing provider IREN announced a five-year, $3.4 billion cloud computing contract and a strategic partnership giving the chipmaker the right to invest up to $2.1 billion in IREN.\n\"That&#x27;s not a passive financial investment. Nvidia is a partner who wins as we deliver,\" IREN co-CEO Daniel Roberts told investors on the company&#x27;s quarterly earnings call that day.\nFive days later, as Trump headed to China aboard Air Force One, Secretary of State Marco Rubio warned him about Huang&#x27;s relationship with a suspected Chinese spy, The New York Times reported Tuesday. Huang, who had not initially been invited on the trip, joined the president&#x27;s delegation during a refueling stop in Alaska.\nHoward Lutnick had already been sent a highly classified intelligence memo detailing concerns about Huang&#x27;s relationship, according to the Nov. 10 Axios report.\nOn May 12, the day Trump departed for China, IREN announced the pricing of a convertible bond offering that ultimately raised $3 billion when it closed two days later. Cantor was one of seven bookrunners on the deal, alongside JPMorgan Chase and Goldman Sachs .\nOn the day the offering closed, May 14, Lutnick&#x27;s Commerce Department quietly cleared roughly 10 Chinese companies , including Alibaba and ByteDance, to buy Nvidia&#x27;s advanced H200 chips, though some of those approvals predated the intelligence memo.\nIt is unclear when IREN hired Cantor for the offering or how much the firm earned from the deal. Cantor declined to answer CNBC&#x27;s questions about its work with IREN.\nCantor reported a substantial position in IREN&#x27;s stock.\nBy the end of June, Cantor reported $115 million in IREN shares and $362 million in Nvidia shares. Together, the two companies accounted for more than 9% of the value of Cantor&#x27;s reported $5.2 billion in securities holdings, excluding options, according to CNBC&#x27;s analysis of the filing.\nBrandon Lutnick, chairman of Cantor Fitzgerald, speaks during the Bitcoin 2025 conference in Las Vegas, Nevada, on May 29, 2025.\nIREN was not the only company in Nvidia&#x27;s orbit that turned to Cantor for financing.\nIn October 2025, Cantor advised AI infrastructure developer Lancium on a $600 million financing deal to support its data center campus in Abilene, Texas, the first site of Stargate, the massive AI infrastructure project backed by OpenAI , SoftBank and Oracle .\nNewmark, a commercial real estate firm controlled by Cantor , also helped finance the Abilene campus, arranging a $7.1 billion construction loan in May 2025.\nTen months later, Nvidia agreed to invest $2 billion for a roughly 20% stake in Lancium, with up to $1 billion more tied to future milestones, The Information reported in August. Lancium , which is also backed by Blackstone, confirmed an investment and a technology partnership on Aug. 24 without disclosing financial terms.\nIt&#x27;s unclear whether Cantor continued advising Lancium after the financing deal or played a role in Nvidia&#x27;s investment. Neither Cantor nor Lancium responded to questions about the investment.\nCantor&#x27;s reported ties also extend to Nvidia&#x27;s supply chain.\nIn May 2025, days after Howard Lutnick announced the transfer of his ownership stake in Cantor to his children via trusts, Semafor reported that bankers at the firm had informally advised executives at Taiwan Semiconductor Manufacturing Co. , which makes Nvidia&#x27;s most advanced chips, on navigating Washington. Cantor called Semafor&#x27;s report \"baseless and false.\"\nTSMC received billions of dollars in federal subsidies created during the Biden administration and administered by the Commerce Department to fund its U.S. manufacturing expansion.\nDemocratic senators called for an ethics investigation in December into whether the Lutnick family stood to benefit from Howard Lutnick&#x27;s push to expand AI data centers.\nAnd on Wednesday, Sens. Warren and Chris Coons , D-Del., demanded that Howard Lutnick, Rubio and White House chief of staff Stephen Miller preserve records on Nvidia&#x27;s chip exports to China and intelligence warnings about Huang.\nThe senators questioned whether \"prudent defensive counter-intelligence action was taken or national security recommendations were overruled.\"\n\"The place where I think the Trump administration has most failed here is in being persuaded by Jensen Huang and others to license the export of some advanced chips,\" Coons said Friday on CNBC&#x27;s \"Squawk Box,\" accusing the administration of turning a blind eye to the black market for more advanced chips.\nChoose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+      "published": "2026-11-15T19:58:21+00:00",
+      "source": "CNBC Top",
+      "sources": [
+        "CNBC Top"
+      ],
+      "source_count": 1,
+      "category": "ai_tech",
+      "category_zh": "AI/科技",
+      "stars": 3,
+      "score": 12.4,
+      "is_hypothetical": false,
+      "why_important": "科技与半导体龙头动向常带动整个板块情绪。",
+      "possible_impact": "可能影响：科技股 / 半导体 及相关产业链。",
+      "assets": [
+        "科技股",
+        "半导体"
+      ]
+    }
+  ]
+}
